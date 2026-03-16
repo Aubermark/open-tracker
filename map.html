@@ -9,202 +9,89 @@
     body, html { margin: 0; padding: 0; height: 100%; }
     #map { width: 100%; height: 100%; }
 
-    #layer-panel {
+    #legend {
       position: absolute;
-      top: 16px;
+      bottom: 24px;
       right: 16px;
       background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.15);
-      padding: 12px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+      padding: 10px 14px;
       z-index: 10;
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      min-width: 160px;
+      font-family: sans-serif;
+      font-size: 12px;
+      color: #444;
     }
 
-    #layer-panel h4 {
-      margin: 0 0 4px 0;
-      font-size: 12px;
-      font-family: sans-serif;
+    #legend h4 {
+      margin: 0 0 6px 0;
+      font-size: 11px;
       color: #888;
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
 
-    .layer-btn {
+    .legend-item {
       display: flex;
       align-items: center;
       gap: 8px;
-      padding: 8px 12px;
-      border-radius: 8px;
-      border: 2px solid #e0e0e0;
-      background: white;
-      cursor: pointer;
-      font-family: sans-serif;
-      font-size: 13px;
-      font-weight: 500;
-      color: #444;
-      transition: all 0.2s;
+      margin-bottom: 4px;
     }
 
-    .layer-btn:hover { border-color: #bbb; background: #f9f9f9; }
-    .layer-btn.active { color: white; border-color: transparent; }
-    .layer-btn.loading { opacity: 0.6; cursor: wait; }
-    .layer-btn .icon { font-size: 16px; }
-    .layer-btn .spinner { font-size: 13px; animation: spin 1s linear infinite; display: none; }
-    .layer-btn.loading .spinner { display: inline; }
-    .layer-btn.loading .icon { display: none; }
-
-    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
-    .btn-restaurantes.active { background: #e74c3c; }
-    .btn-bici.active         { background: #27ae60; }
-    .btn-parques.active      { background: #2ecc71; }
-    .btn-colegios.active     { background: #3498db; }
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
   </style>
 </head>
 <body>
 
 <div id="map"></div>
 
-<div id="layer-panel">
-  <h4>Capas</h4>
-  <button class="layer-btn btn-restaurantes" data-layer="restaurantes">
-    <span class="icon">🍽️</span><span class="spinner">⟳</span> Restaurantes
-  </button>
-  <button class="layer-btn btn-bici" data-layer="bici">
-    <span class="icon">🚲</span><span class="spinner">⟳</span> Carriles bici
-  </button>
-  <button class="layer-btn btn-parques" data-layer="parques">
-    <span class="icon">🌳</span><span class="spinner">⟳</span> Parques
-  </button>
-  <button class="layer-btn btn-colegios" data-layer="colegios">
-    <span class="icon">🏫</span><span class="spinner">⟳</span> Colegios
-  </button>
+<div id="legend">
+  <h4>Días en mercado</h4>
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#2196F3"></div>
+    <span>0 – 45 días</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#FF9800"></div>
+    <span>45 – 120 días</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#E65100"></div>
+    <span>+120 días</span>
+  </div>
 </div>
 
 <script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
 <script>
   const map = new maplibregl.Map({
-    container: "map",
-    style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
-    center: [-112.07, 33.45],
-    zoom: 10
-  });
-
-  const layerState = {
-    restaurantes: false,
-    bici: false,
-    parques: false,
-    colegios: false,
-  };
-
-  const layerColors = {
-    restaurantes: "#e74c3c",
-    bici: "#27ae60",
-    parques: "#2ecc71",
-    colegios: "#3498db",
-  };
-
-  // Archivos estáticos por capa
-  const layerFiles = {
-    restaurantes: "restaurantes.geojson",
-    bici:         "bici.geojson",
-    parques:      "parques.geojson",
-    colegios:     "colegios.geojson",
-  };
-
-  // Caché en memoria — se carga una sola vez por sesión
-  const layerCache = {
-    restaurantes: null,
-    bici: null,
-    parques: null,
-    colegios: null,
-  };
-
-  async function loadOptionalLayer(name) {
-    const btn = document.querySelector(`[data-layer="${name}"]`);
-    btn.classList.add("loading");
-
-    try {
-      // Cargar desde archivo solo si no está en caché
-      if (!layerCache[name]) {
-        const res = await fetch(layerFiles[name] + "?v=" + Date.now());
-        layerCache[name] = await res.json();
-      }
-
-      if (!layerState[name]) return;
-
-      if (map.getLayer(name + "-layer")) map.removeLayer(name + "-layer");
-      if (map.getSource(name)) map.removeSource(name);
-
-      map.addSource(name, { type: "geojson", data: layerCache[name] });
-
-      if (name === "bici" || name === "parques") {
-        map.addLayer({
-          id: name + "-layer",
-          type: "line",
-          source: name,
-          paint: {
-            "line-color": layerColors[name],
-            "line-width": name === "bici" ? 2 : 1.5,
-            "line-opacity": 0.8
-          }
-        });
-      } else {
-        map.addLayer({
-          id: name + "-layer",
-          type: "circle",
-          source: name,
-          paint: {
-            "circle-radius": 5,
-            "circle-color": layerColors[name],
-            "circle-stroke-color": "#fff",
-            "circle-stroke-width": 1.5,
-            "circle-opacity": 0.85
-          }
-        });
-
-        map.on("click", name + "-layer", (e) => {
-          const props = e.features[0].properties;
-          const label = props.name || props.amenity || name;
-          new maplibregl.Popup()
-            .setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(`<div style="font-family:sans-serif;"><strong>${label}</strong></div>`)
-            .addTo(map);
-        });
-
-        map.on("mouseenter", name + "-layer", () => { map.getCanvas().style.cursor = "pointer"; });
-        map.on("mouseleave", name + "-layer", () => { map.getCanvas().style.cursor = ""; });
-      }
-    } catch(e) {
-      console.error("Error cargando capa", name, e);
-    } finally {
-      btn.classList.remove("loading");
-    }
-  }
-
-  function hideOptionalLayer(name) {
-    if (map.getLayer(name + "-layer")) map.removeLayer(name + "-layer");
-    if (map.getSource(name)) map.removeSource(name);
-  }
-
-  document.querySelectorAll(".layer-btn").forEach(btn => {
-    btn.addEventListener("click", async () => {
-      const name = btn.dataset.layer;
-      layerState[name] = !layerState[name];
-
-      if (layerState[name]) {
-        btn.classList.add("active");
-        await loadOptionalLayer(name);
-      } else {
-        btn.classList.remove("active");
-        hideOptionalLayer(name);
-      }
+      container: "map",
+      style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
+      center: [-96.0, 38.0],  // centro geográfico de USA
+      zoom: 4
     });
-  });
+
+  // Extrae el número ignorando el prefijo ">"
+  const domNumber = [
+    "to-number",
+    ["case",
+      ["==", ["slice", ["to-string", ["get", "days_on_market"]], 0, 1], ">"],
+      ["slice", ["to-string", ["get", "days_on_market"]], 1],
+      ["to-string", ["get", "days_on_market"]]
+    ]
+  ];
+
+  // Color según días en mercado
+  const domColorExpression = [
+    "case",
+    ["<=", domNumber, 45],  "#2196F3",
+    ["<=", domNumber, 120], "#FF9800",
+    "#E65100"
+  ];
 
   map.on("load", async () => {
 
@@ -216,26 +103,31 @@
       "place_city_r5",
     ];
 
+    // 1. Ocultar TODAS las capas de texto
     map.getStyle().layers.forEach(layer => {
       if (layer.layout && layer.layout["text-field"]) {
         map.setLayoutProperty(layer.id, "visibility", "none");
       }
     });
 
+    // 2. Reactivar solo las capas permitidas
     map.getStyle().layers.forEach(layer => {
       if (ALLOWED_LAYERS.includes(layer.id)) {
         map.setLayoutProperty(layer.id, "visibility", "visible");
       }
     });
 
+    // 3. Filtrar solo ciudades grandes
     map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
     map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
 
+    // 4. Cargar listings
     map.addSource("listings", {
       type: "geojson",
       data: "listings.json?v=" + Date.now()
     });
 
+    // 5. Capa de puntos para zoom alejado
     map.addLayer({
       id: "listings-dots",
       type: "circle",
@@ -248,12 +140,13 @@
           3, 3,
           7, 6
         ],
-        "circle-color": "#ffffff",
-        "circle-stroke-color": "#333333",
+        "circle-color": domColorExpression,
+        "circle-stroke-color": "#fff",
         "circle-stroke-width": 1.5
       }
     });
 
+    // 6. Capa de precios con color según DOM
     map.addLayer({
       id: "listings-labels",
       type: "symbol",
@@ -276,12 +169,13 @@
         ],
       },
       paint: {
-        "text-color": "#000",
+        "text-color": domColorExpression,
         "text-halo-color": "#fff",
         "text-halo-width": 6
       }
     });
 
+    // 7. Interacción en labels
     map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
     map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
 
@@ -293,12 +187,14 @@
         .setHTML(`
           <div style="font-family: sans-serif;">
             <strong>${props.address}</strong><br>
-            <span style="color:#333; font-size: 18px;">${props.price_label}</span>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
+            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} días en mercado</span>
           </div>
         `)
         .addTo(map);
     });
 
+    // 8. Interacción en dots
     map.on("mouseenter", "listings-dots", () => { map.getCanvas().style.cursor = "pointer"; });
     map.on("mouseleave", "listings-dots", () => { map.getCanvas().style.cursor = ""; });
 
@@ -310,7 +206,8 @@
         .setHTML(`
           <div style="font-family: sans-serif;">
             <strong>${props.address}</strong><br>
-            <span style="color:#333; font-size: 18px;">${props.price_label}</span>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
+            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} días en mercado</span>
           </div>
         `)
         .addTo(map);
