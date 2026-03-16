@@ -11869,6 +11869,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b018895-11aa-5358-841e-ce4d13c23cd6",
+        "address": "825-Commerce-Blvd-Riverdale-GA-30296",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1522,
+        "listed_at": "2026-03-16T23:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.417923,
+          33.548647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b336fb3-6077-5cd4-baef-37898befa72d",
         "address": "546-Gifford-Ct-Deltona-FL-32725",
         "beds": 3,
