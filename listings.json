@@ -20311,6 +20311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba8fd46a-3e35-5554-8ee7-a374bbf3a744",
+        "address": "3817-Downing-Cir-Deer-Park-TX-77536",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2281,
+        "listed_at": "2026-03-16T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.115603,
+          29.676877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb0b03cc-be5f-56b2-aff9-733032d8af49",
         "address": "5326-Elmwood-Ln-Middletown-OH-45044",
         "beds": 5,
