@@ -14998,6 +14998,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "886ab05c-a2f3-5e31-9e23-a4ff4b4d916d",
+        "address": "11301-Mansfield-Crossing-Ct-North-Chesterfield-VA-23236",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1646,
+        "listed_at": "2026-03-16T22:40:07.000Z",
+        "days_on_market": ">22",
+        "current_price": 344000,
+        "price_label": "$344K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.603258,
+          37.472706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "887bd961-0be4-5e38-ba94-85e962893724",
         "address": "12113-E-2nd-Dr-Aurora-CO-80011",
         "beds": 2,
