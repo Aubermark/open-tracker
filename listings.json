@@ -20920,6 +20920,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c102a331-6d8f-508d-aa90-d1b9e146f215",
+        "address": "1912-Littlestone-Rd-Grosse-Pointe-Woods-MI-48236",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2071,
+        "listed_at": "2026-03-16T19:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.914525,
+          42.427982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c13f94f9-e129-4e8a-9fea-a5b93fb4984d",
         "address": "3505-Aqua-Point-Pl-Cumming-GA-30041",
         "beds": 5,
