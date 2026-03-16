@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39ab20aa-07bc-5e71-8d98-8ba1b979aa25",
+        "address": "16-Knob-Hill-Rd-Hackettstown-NJ-07840",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2568,
+        "listed_at": "2026-03-16T20:50:08.000Z",
+        "days_on_market": ">22",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.816698,
+          40.826046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3a53aff9-8329-514a-b692-df447b771b53",
         "address": "1602-Pleasant-Ln-Copperas-Cove-TX-76522",
         "beds": 3,
@@ -17113,27 +17134,6 @@
         "coordinates": [
           -84.235493,
           33.904434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9acc7171-af72-51de-9a0b-81716ebddc9c",
-        "address": "15807-Stable-Creek-Cir-Cypress-TX-77429",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3580,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">22",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.662664,
-          30.002545
         ]
       }
     },
