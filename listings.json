@@ -599,8 +599,8 @@
         "sqft": 1782,
         "listed_at": "2026-03-16T16:00:08.000Z",
         "days_on_market": ">22",
-        "current_price": 240000,
-        "price_label": "$240K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -851,8 +851,8 @@
         "sqft": 1164,
         "listed_at": "2026-03-03T18:40:07.000Z",
         "days_on_market": "13",
-        "current_price": 238000,
-        "price_label": "$238K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -1201,27 +1201,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "08ea9899-212e-55af-8f8b-e72a993ffb84",
-        "address": "11017-Nw-95th-St-Yukon-OK-73099",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">22",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.719494,
-          35.567865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "09027f9e-0cc2-5ba0-8193-31d2670a195d",
         "address": "5316-Sole-Grande-Rd-Nw-Albuquerque-NM-87114",
         "beds": 4,
@@ -1279,27 +1258,6 @@
         "coordinates": [
           -80.786352,
           35.538809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "09190d05-9b0e-54a1-9b21-f3f6c321fde0",
-        "address": "1011-Kempsford-Dr-Katy-TX-77450",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2050,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">22",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.721956,
-          29.772069
         ]
       }
     },
@@ -1460,8 +1418,8 @@
         "sqft": 1540,
         "listed_at": "2026-03-16T18:50:08.000Z",
         "days_on_market": ">22",
-        "current_price": 259000,
-        "price_label": "$259K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -1481,8 +1439,8 @@
         "sqft": 2007,
         "listed_at": "2026-03-11T16:00:08.000Z",
         "days_on_market": "13",
-        "current_price": 345000,
-        "price_label": "$345K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -1502,8 +1460,8 @@
         "sqft": 1280,
         "listed_at": "2026-03-16T15:00:07.000Z",
         "days_on_market": "21",
-        "current_price": 565000,
-        "price_label": "$565K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -1628,8 +1586,8 @@
         "sqft": 1455,
         "listed_at": "2026-03-07T16:40:07.000Z",
         "days_on_market": ">22",
-        "current_price": 188000,
-        "price_label": "$188K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -2636,8 +2594,8 @@
         "sqft": 1790,
         "listed_at": "2026-03-13T22:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 540000,
-        "price_label": "$540K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -2846,8 +2804,8 @@
         "sqft": 1352,
         "listed_at": "2026-03-12T18:20:08.000Z",
         "days_on_market": ">22",
-        "current_price": 330000,
-        "price_label": "$330K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -2909,8 +2867,8 @@
         "sqft": 3360,
         "listed_at": "2026-03-11T13:30:07.000Z",
         "days_on_market": ">22",
-        "current_price": 930000,
-        "price_label": "$930K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -3434,8 +3392,8 @@
         "sqft": 1332,
         "listed_at": "2026-03-13T18:23:04.000Z",
         "days_on_market": ">22",
-        "current_price": 235000,
-        "price_label": "$235K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -4120,6 +4078,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2275a9da-be69-5d2c-a39f-e2697fda8170",
+        "address": "473-Tarragon-Pl-Kissimmee-FL-34758",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2123,
+        "listed_at": "2026-03-16T19:33:32.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.469774,
+          28.143935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23070e2a-5b2e-55f0-ae7f-dbc4601f0b73",
         "address": "225-Lily-Cove-Dr-Loganville-GA-30052",
         "beds": 5,
@@ -4337,8 +4316,8 @@
         "sqft": 1750,
         "listed_at": "2026-03-13T20:36:59.000Z",
         "days_on_market": "18",
-        "current_price": 228000,
-        "price_label": "$228K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -4904,8 +4883,8 @@
         "sqft": 1899,
         "listed_at": "2026-03-16T16:30:08.000Z",
         "days_on_market": "14",
-        "current_price": 397000,
-        "price_label": "$397K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -5366,8 +5345,8 @@
         "sqft": 1967,
         "listed_at": "2026-03-15T16:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 475000,
-        "price_label": "$475K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -6437,8 +6416,8 @@
         "sqft": 2834,
         "listed_at": "2026-03-04T21:50:06.000Z",
         "days_on_market": ">22",
-        "current_price": 284000,
-        "price_label": "$284K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -7025,8 +7004,8 @@
         "sqft": 2553,
         "listed_at": "2026-03-09T22:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 400000,
-        "price_label": "$400K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -7109,8 +7088,8 @@
         "sqft": 2056,
         "listed_at": "2026-03-07T23:20:06.000Z",
         "days_on_market": ">22",
-        "current_price": 333000,
-        "price_label": "$333K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -7180,6 +7159,27 @@
         "coordinates": [
           -84.570252,
           39.347192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40450d18-7496-5f18-b3f2-b5278d21822f",
+        "address": "404-Pine-Ridge-Ct-Woodstock-GA-30188",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1668,
+        "listed_at": "2026-03-16T19:33:33.000Z",
+        "days_on_market": "12",
+        "current_price": 0,
+        "price_label": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53271,
+          34.077355
         ]
       }
     },
@@ -8159,8 +8159,8 @@
         "sqft": 1915,
         "listed_at": "2026-03-11T13:20:07.000Z",
         "days_on_market": ">22",
-        "current_price": 346000,
-        "price_label": "$346K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -9314,8 +9314,8 @@
         "sqft": 3344,
         "listed_at": "2026-03-12T19:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 456000,
-        "price_label": "$456K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -9713,8 +9713,8 @@
         "sqft": 1343,
         "listed_at": "2026-03-09T17:30:06.000Z",
         "days_on_market": "21",
-        "current_price": 268000,
-        "price_label": "$268K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -9755,8 +9755,8 @@
         "sqft": 1231,
         "listed_at": "2026-03-12T19:20:07.000Z",
         "days_on_market": "20",
-        "current_price": 295000,
-        "price_label": "$295K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -10133,8 +10133,8 @@
         "sqft": 1284,
         "listed_at": "2026-03-06T23:06:44.000Z",
         "days_on_market": ">22",
-        "current_price": 285000,
-        "price_label": "$285K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -10406,8 +10406,8 @@
         "sqft": 1956,
         "listed_at": "2026-03-10T16:40:10.000Z",
         "days_on_market": ">22",
-        "current_price": 319000,
-        "price_label": "$319K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -10994,8 +10994,8 @@
         "sqft": 1690,
         "listed_at": "2026-03-04T16:00:07.000Z",
         "days_on_market": ">22",
-        "current_price": 177000,
-        "price_label": "$177K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -11351,8 +11351,8 @@
         "sqft": 1638,
         "listed_at": "2026-03-06T15:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 337000,
-        "price_label": "$337K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -13136,8 +13136,8 @@
         "sqft": 1515,
         "listed_at": "2026-03-13T07:38:55.000Z",
         "days_on_market": ">22",
-        "current_price": 306000,
-        "price_label": "$306K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -13493,8 +13493,8 @@
         "sqft": 2592,
         "listed_at": "2026-03-13T13:00:07.000Z",
         "days_on_market": "16",
-        "current_price": 332000,
-        "price_label": "$332K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -13724,8 +13724,8 @@
         "sqft": 2186,
         "listed_at": "2026-03-12T19:30:07.000Z",
         "days_on_market": ">22",
-        "current_price": 374000,
-        "price_label": "$374K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -13808,8 +13808,8 @@
         "sqft": 1652,
         "listed_at": "2026-03-12T20:50:07.000Z",
         "days_on_market": ">22",
-        "current_price": 595000,
-        "price_label": "$595K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14018,8 +14018,8 @@
         "sqft": 3244,
         "listed_at": "2026-03-16T16:40:07.000Z",
         "days_on_market": "11",
-        "current_price": 1060000,
-        "price_label": "$1.1M"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14060,8 +14060,8 @@
         "sqft": 2321,
         "listed_at": "2026-03-11T07:34:29.000Z",
         "days_on_market": ">22",
-        "current_price": 302000,
-        "price_label": "$302K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14354,8 +14354,8 @@
         "sqft": 2115,
         "listed_at": "2026-03-03T18:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 800000,
-        "price_label": "$800K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14417,8 +14417,8 @@
         "sqft": 5290,
         "listed_at": "2026-03-05T14:40:07.000Z",
         "days_on_market": ">22",
-        "current_price": 640000,
-        "price_label": "$640K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14564,8 +14564,8 @@
         "sqft": 1801,
         "listed_at": "2026-02-27T18:20:07.000Z",
         "days_on_market": ">22",
-        "current_price": 316000,
-        "price_label": "$316K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14732,8 +14732,8 @@
         "sqft": 960,
         "listed_at": "2026-03-02T18:20:08.000Z",
         "days_on_market": "14",
-        "current_price": 231000,
-        "price_label": "$231K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -14774,8 +14774,8 @@
         "sqft": 1754,
         "listed_at": "2026-03-11T22:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 415000,
-        "price_label": "$415K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15131,8 +15131,8 @@
         "sqft": 1828,
         "listed_at": "2026-03-06T20:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 385000,
-        "price_label": "$385K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15173,8 +15173,8 @@
         "sqft": 2148,
         "listed_at": "2026-03-12T19:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 650000,
-        "price_label": "$650K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15299,8 +15299,8 @@
         "sqft": 2354,
         "listed_at": "2026-03-09T20:40:07.000Z",
         "days_on_market": ">22",
-        "current_price": 225000,
-        "price_label": "$225K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15467,8 +15467,8 @@
         "sqft": 2284,
         "listed_at": "2026-02-26T20:10:08.000Z",
         "days_on_market": ">22",
-        "current_price": 302000,
-        "price_label": "$302K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15530,8 +15530,8 @@
         "sqft": 1088,
         "listed_at": "2026-03-14T16:29:01.000Z",
         "days_on_market": ">22",
-        "current_price": 380000,
-        "price_label": "$380K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -15593,8 +15593,8 @@
         "sqft": 2016,
         "listed_at": "2026-03-04T21:40:07.000Z",
         "days_on_market": ">22",
-        "current_price": 395000,
-        "price_label": "$395K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -16559,8 +16559,8 @@
         "sqft": 2506,
         "listed_at": "2026-03-12T17:30:07.000Z",
         "days_on_market": "12",
-        "current_price": 545000,
-        "price_label": "$545K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -17336,8 +17336,8 @@
         "sqft": 1253,
         "listed_at": "2026-03-05T15:30:07.000Z",
         "days_on_market": ">22",
-        "current_price": 210000,
-        "price_label": "$210K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -17483,8 +17483,8 @@
         "sqft": 2078,
         "listed_at": "2026-03-05T16:20:06.000Z",
         "days_on_market": ">22",
-        "current_price": 415000,
-        "price_label": "$415K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -17735,8 +17735,8 @@
         "sqft": 1207,
         "listed_at": "2026-03-05T19:30:07.000Z",
         "days_on_market": "19",
-        "current_price": 590000,
-        "price_label": "$590K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -18722,8 +18722,8 @@
         "sqft": 1768,
         "listed_at": "2026-03-06T15:20:06.000Z",
         "days_on_market": ">22",
-        "current_price": 305000,
-        "price_label": "$305K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -18911,8 +18911,8 @@
         "sqft": 2529,
         "listed_at": "2026-03-05T07:33:54.000Z",
         "days_on_market": ">22",
-        "current_price": 433000,
-        "price_label": "$433K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -19373,8 +19373,8 @@
         "sqft": 1022,
         "listed_at": "2026-03-11T17:20:07.000Z",
         "days_on_market": ">22",
-        "current_price": 320000,
-        "price_label": "$320K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -19562,8 +19562,8 @@
         "sqft": 1334,
         "listed_at": "2026-03-11T20:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 209000,
-        "price_label": "$209K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -20024,8 +20024,8 @@
         "sqft": 2294,
         "listed_at": "2026-03-14T18:20:08.000Z",
         "days_on_market": ">22",
-        "current_price": 340000,
-        "price_label": "$340K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -20633,8 +20633,8 @@
         "sqft": 2480,
         "listed_at": "2026-03-09T20:00:07.000Z",
         "days_on_market": "19",
-        "current_price": 311000,
-        "price_label": "$311K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -20717,8 +20717,8 @@
         "sqft": 1132,
         "listed_at": "2026-03-12T19:10:07.000Z",
         "days_on_market": ">22",
-        "current_price": 233000,
-        "price_label": "$233K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -20885,8 +20885,8 @@
         "sqft": 1491,
         "listed_at": "2026-03-16T14:50:10.000Z",
         "days_on_market": ">22",
-        "current_price": 332000,
-        "price_label": "$332K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -21032,8 +21032,8 @@
         "sqft": 1287,
         "listed_at": "2026-03-14T08:37:10.000Z",
         "days_on_market": "5",
-        "current_price": 781000,
-        "price_label": "$781K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -21074,8 +21074,8 @@
         "sqft": 1628,
         "listed_at": "2026-03-15T14:00:07.000Z",
         "days_on_market": ">22",
-        "current_price": 300000,
-        "price_label": "$300K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -21557,8 +21557,8 @@
         "sqft": 1450,
         "listed_at": "2026-03-13T22:30:07.000Z",
         "days_on_market": ">22",
-        "current_price": 268000,
-        "price_label": "$268K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -21683,8 +21683,8 @@
         "sqft": 1352,
         "listed_at": "2026-03-13T14:50:07.000Z",
         "days_on_market": ">22",
-        "current_price": 562000,
-        "price_label": "$562K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -21977,8 +21977,8 @@
         "sqft": 2207,
         "listed_at": "2026-03-12T20:50:07.000Z",
         "days_on_market": ">22",
-        "current_price": 490000,
-        "price_label": "$490K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -23342,8 +23342,8 @@
         "sqft": 2224,
         "listed_at": "2026-03-01T16:40:07.000Z",
         "days_on_market": ">22",
-        "current_price": 395000,
-        "price_label": "$395K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -23573,8 +23573,8 @@
         "sqft": 2614,
         "listed_at": "2026-03-04T22:00:07.000Z",
         "days_on_market": ">22",
-        "current_price": 406000,
-        "price_label": "$406K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -23699,8 +23699,8 @@
         "sqft": 1774,
         "listed_at": "2026-02-26T21:00:07.000Z",
         "days_on_market": ">22",
-        "current_price": 345000,
-        "price_label": "$345K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -24056,8 +24056,8 @@
         "sqft": 1140,
         "listed_at": "2026-03-03T18:50:08.000Z",
         "days_on_market": ">22",
-        "current_price": 275000,
-        "price_label": "$275K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -24169,27 +24169,6 @@
         "coordinates": [
           -84.225835,
           33.874891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2f58d0c-8690-5566-8696-7d2164c0f664",
-        "address": "1942-Briar-Run-Dr-Greensboro-NC-27405",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1788,
-        "listed_at": "2026-02-26T18:00:07.000Z",
-        "days_on_market": "18",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.71588,
-          36.142482
         ]
       }
     },
@@ -24791,8 +24770,8 @@
         "sqft": 2292,
         "listed_at": "2026-03-07T08:32:41.000Z",
         "days_on_market": ">22",
-        "current_price": 605000,
-        "price_label": "$605K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -25190,8 +25169,8 @@
         "sqft": 2660,
         "listed_at": "2026-03-09T21:00:07.000Z",
         "days_on_market": ">22",
-        "current_price": 283000,
-        "price_label": "$283K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -27038,8 +27017,8 @@
         "sqft": 2204,
         "listed_at": "2026-03-07T08:32:41.000Z",
         "days_on_market": ">22",
-        "current_price": 306000,
-        "price_label": "$306K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
@@ -27059,8 +27038,8 @@
         "sqft": 1982,
         "listed_at": "2026-03-10T21:10:06.000Z",
         "days_on_market": ">22",
-        "current_price": 915000,
-        "price_label": "$915K"
+        "current_price": 0,
+        "price_label": null
       },
       "geometry": {
         "type": "Point",
