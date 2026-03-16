@@ -7627,27 +7627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "45dc74f3-172f-5e07-b8c7-778eb9cba8f2",
-        "address": "1938-Gordon-Ct-Erie-CO-80516",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2110,
-        "listed_at": "2026-03-09T21:30:07.000Z",
-        "days_on_market": ">22",
-        "current_price": 656000,
-        "price_label": "$656K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.073419,
-          40.039001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4639bf20-d6e8-562f-a6ca-8c14086e43a7",
         "address": "8724-Neptune-Dr-Cincinnati-OH-45231",
         "beds": 3,
@@ -12325,6 +12304,27 @@
         "coordinates": [
           -95.862104,
           29.752887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6f289213-8333-5129-9a7d-a4ff8bb99f0f",
+        "address": "100-Carnicelli-Ct-Smyrna-TN-37167",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1396,
+        "listed_at": "2026-03-16T22:50:07.000Z",
+        "days_on_market": "20",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.518786,
+          35.962337
         ]
       }
     },
@@ -20725,6 +20725,27 @@
         "coordinates": [
           -117.582306,
           47.502504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "be50f3ba-4b66-5873-9787-10d1d91fa3c7",
+        "address": "9228-Kristy-Dr-Manassas-Park-VA-20111",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1636,
+        "listed_at": "2026-03-16T22:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 461000,
+        "price_label": "$461K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.436951,
+          38.7612
         ]
       }
     },
