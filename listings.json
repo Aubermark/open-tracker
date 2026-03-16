@@ -26590,6 +26590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f993e63f-a8a1-5550-bdc6-0367b8a80660",
+        "address": "1006-Lonesome-Way-Princeton-TX-75407",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1609,
+        "listed_at": "2026-03-16T20:17:47.000Z",
+        "days_on_market": "0",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.512746,
+          33.159183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f995582f-b627-5b62-8a7e-71ea49c8c0a9",
         "address": "100-Oakridge-Dr-Se-Cartersville-GA-30121",
         "beds": 3,
