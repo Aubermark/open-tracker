@@ -9055,6 +9055,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52fe2acb-0bf2-57b7-b496-7efdce9e5052",
+        "address": "8704-Arriba-Dr-Littleton-CO-80125",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3614,
+        "listed_at": "2026-03-16T20:06:23.000Z",
+        "days_on_market": "0",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.041307,
+          39.488224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "53105fd2-dd40-56da-9c45-5719ad01e7c2",
         "address": "101-Creek-Vista-Way-Columbia-SC-29206",
         "beds": 5,
@@ -14830,27 +14851,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "861f75c4-472f-5437-a442-1a3c170c7d3f",
-        "address": "905-Kensal-Green-Dr-Kernersville-NC-27284",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1886,
-        "listed_at": "2026-03-12T15:50:07.000Z",
-        "days_on_market": "4",
-        "current_price": 351000,
-        "price_label": "$351K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.053555,
-          36.126532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "862714c2-5aab-5d83-a257-67420f28f837",
         "address": "2078-Southlea-Dr-Inman-SC-29349",
         "beds": 3,
@@ -15559,27 +15559,6 @@
         "coordinates": [
           -97.204051,
           32.859652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8bc86d52-c7e8-5f3f-8eae-e7bdc2b612d1",
-        "address": "2912-S-Price-Rd-Tempe-AZ-85282",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1476,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">22",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.892205,
-          33.397581
         ]
       }
     },
@@ -19549,6 +19528,27 @@
         "coordinates": [
           -96.743457,
           33.098424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b42f2659-a673-59de-bed5-314e7aa1902e",
+        "address": "16114-Julep-Chase-Selma-TX-78154",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-03-16T20:06:23.000Z",
+        "days_on_market": ">22",
+        "current_price": 0,
+        "price_label": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.338941,
+          29.586047
         ]
       }
     },
@@ -26122,6 +26122,27 @@
         "coordinates": [
           -86.641448,
           36.192172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f38edb84-2e9d-5970-8c17-9f2c58161723",
+        "address": "1098-Eastview-Cir-Ne-Conyers-GA-30012",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1246,
+        "listed_at": "2026-03-16T20:06:23.000Z",
+        "days_on_market": "17",
+        "current_price": 0,
+        "price_label": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.012453,
+          33.672284
         ]
       }
     },
