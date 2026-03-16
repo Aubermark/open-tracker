@@ -19471,6 +19471,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b32e97f7-b666-5f08-ad4b-81daa0b85b10",
+        "address": "4755-Spacewalk-Way-Colorado-Springs-CO-80916",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1447,
+        "listed_at": "2026-03-16T20:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.740509,
+          38.811596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b358e326-81cd-5b00-a8f6-64adf62bde02",
         "address": "432-Leslie-Wood-Dr-Clarksville-TN-37040",
         "beds": 3,
