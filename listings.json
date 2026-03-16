@@ -2041,6 +2041,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fc1b1c2-447c-5726-85c8-e42b684af162",
+        "address": "4814-Monet-Way-Sacramento-CA-95842",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-03-16T23:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.351865,
+          38.686092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "102cceac-b198-5534-9ff5-53ff7a2cdf41",
         "address": "805-Carlisle-Ct-N-Nashville-TN-37214",
         "beds": 3,
@@ -16609,6 +16630,27 @@
         "coordinates": [
           -82.475765,
           27.599697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "96386559-e3a3-532d-a8e4-e1f7e41402e8",
+        "address": "1262-Ne-Kinney-St-Hillsboro-OR-97124",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1222,
+        "listed_at": "2026-03-16T23:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.969967,
+          45.545972
         ]
       }
     },
