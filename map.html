@@ -143,8 +143,8 @@
       }
     });
 
-    map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
-    map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
+    map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
+    map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
 
     map.addSource("listings", {
       type: "geojson",
