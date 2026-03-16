@@ -1,0 +1,3430 @@
+
+<html>
+  <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNN1D46Y9Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZNN1D46Y9Y');
+</script>
+    <meta charset="utf-8" />
+    <title>Opendoor Data Explorer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <style>
+      :root {
+        --bg: #0f172a;
+        --bg-elevated: #020617;
+        --card: #0b1220;
+        --accent: #38bdf8;
+        --accent-soft: rgba(56, 189, 248, 0.12);
+        --accent-strong: #0ea5e9;
+        --text-main: #f3f4f6;      
+        --text-soft: #cbd5e1;       
+        --border-subtle: rgba(203, 213, 225, 0.35);
+        --danger: #f97373;
+        --success: #4ade80;
+        --warning: #facc15;
+        --shadow-soft: 0 18px 45px rgba(15, 23, 42, 0.75);
+        --radius-lg: 14px;
+        --radius-md: 10px;
+      }
+
+      
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+          "Segoe UI", sans-serif;
+        /*background: radial-gradient(circle at top, #1e293b 0, #020617 55%);*/
+        /*background: radial-gradient(circle at top, #233047 0, #020617 55%);*/
+        /*background: radial-gradient(circle at top, #223251 0, #020617 55%);*/
+
+        background: radial-gradient(circle at top, #25344a 0%, #0a111c 50%, #020617 100%);
+
+
+        color: var(--text-main);
+      }
+
+      .page {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .app-shell {
+        max-width: 1240px;
+        margin: 0 auto;
+        padding: 24px 20px 40px;
+      }
+
+      
+
+      /* Top bar */
+
+      .top-bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        margin-bottom: 22px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .brand-logo {
+        width: 32px;
+        height: 32px;
+        border-radius: 10px;
+        background-image: url("https://s3-symbol-logo.tradingview.com/opendoor--600.png");
+        background-size: cover;
+        background-position: center;
+      }
+
+      .brand-text-main {
+        font-weight: 600;
+        letter-spacing: 0.03em;
+        font-size: 18px;
+      }
+
+      .brand-text-sub {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: var(--accent);
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: flex-end;
+      }
+
+      .pill {
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        background: radial-gradient(circle at top left, #1f2937 0, #020617 70%);
+        font-size: 11px;
+        color: var(--text-soft);
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .pill-dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 999px;
+        background: #22c55e;
+        box-shadow: 0 0 0 4px rgba(34, 197, 94, 0.18);
+      }
+
+      .pill-label-data{
+        font-size: 11px;
+        color: #f2f2f4;
+        font-weight:600px;
+      }
+
+      .pill-label {
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        font-size: 11px;
+        color: #f2f2f4;
+      }
+      
+      
+
+      .pill-strong {
+        color: #0ea5e9;
+      }
+
+      /* Hero / header */
+
+      .hero {
+        background: radial-gradient(circle at top left, #1f2937 0, #020617 65%);
+        border-radius: var(--radius-lg);
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        box-shadow: var(--shadow-soft);
+        padding: 18px 18px 16px;
+        margin-bottom: 22px;
+        display: grid;
+        grid-template-columns: minmax(0, 2.2fr) minmax(0, 1.4fr);
+        gap: 18px;
+      }
+
+      @media (max-width: 900px) {
+        .hero {
+          grid-template-columns: minmax(0, 1fr);
+        }
+      }
+
+      .hero-main-title {
+        font-size: 22px;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 6px;
+      }
+
+      .hero-badge {
+        font-size: 12px;
+        padding: 3px 8px;
+        border-radius: 999px;
+        background: rgba(56, 189, 248, 0.12);
+        color: var(--accent-strong);
+        border: 1px solid rgba(56, 189, 248, 0.4);
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+      }
+
+      .hero-subtitle {
+        font-size: 14px;
+        color: var(--text-soft);
+        max-width: 520px;
+      }
+
+      .hero-meta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 10px;
+      }
+
+      .hero-meta-item {
+        font-size: 16px;
+        /*color: var(--text-soft);*/
+        color: #f0f0f0;
+      }
+
+      .hero-meta-label {
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        font-size: 15px;
+        color: #fcfcfc;
+        margin-right: 4px;
+      }
+
+
+      .hero-meta-value {
+        color: #d1f9ff;/*var(--accent);/*var(--text-main)*/
+        font-weight: 600;
+      }
+
+      .hero-right {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: flex-end;
+        justify-content: space-between;
+      }
+
+      .hero-right-top {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 4px;
+      }
+
+      .hero-quarter-label {
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #e4e4e4;
+        font-weight:500;
+      }
+
+      .hero-quarter-value {
+        font-size: 18px;
+        font-weight: 600;
+      }
+
+      .hero-refresh {
+        font-size: 14px;
+        color: var(--text-soft);
+      }
+
+      .hero-subtitle strong {
+        color: var(--accent);
+        font-weight: 500;
+      }
+
+      .hero-tag-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        justify-content: flex-end;
+      }
+
+      .hero-tag {
+        font-size: 10px;
+        padding: 3px 7px;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        color: #b7c8db;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+      }
+
+      /* KPI grid */
+
+      .section-title-row {
+        display: flex;
+        align-items: baseline;
+        /*justify-content: space-between;*/
+        margin: 4px 2px 10px;
+        margin-top:1px;
+      }
+
+      .section-title-row-ai {
+        display: flex;
+        align-items: baseline;
+        /*justify-content: space-between;*/
+        margin: 4px 2px 10px;
+      }
+
+      .section-title {
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #e5e7e9;
+        font-weight: 600;
+      }
+
+      .section-title-ai {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #e5e7e9;
+        font-weight: 600;
+      }
+
+      .section-subtitle {
+        font-size: 11px;
+        color: #6b7280;
+        margin-left:12px;
+      }
+
+      .kpi-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+        margin-bottom: 22px;
+      }
+
+      @media (max-width: 1100px) {
+        .kpi-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 800px) {
+        .kpi-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 560px) {
+        .kpi-grid {
+          grid-template-columns: minmax(0, 1fr);
+        }
+      }
+
+      .kpi {
+        background: radial-gradient(circle at top left, #111827 0, #020617 70%);
+        border-radius: var(--radius-md);
+        border: 1px solid var(--border-subtle);
+        padding: 10px 11px 9px;
+        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.7);
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .kpi::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.12), transparent 55%);
+        opacity: 0.7;
+        pointer-events: none;
+      }
+
+      .kpi-inner {
+        position: relative;
+        z-index: 1;
+      }
+
+      .kpi-title {
+        font-size: 14px;
+        color: var(--text-soft);
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        margin-bottom: 2px;
+        font-weight: 600;
+      }
+
+      .kpi-value {
+        font-size: 18px;
+        font-weight: 600;
+        color: var(--text-main);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .kpi-value-rev {
+        font-size: 25px;
+        font-weight: 600;
+        color: var(--text-main);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .kpi-footnote {
+        font-size: 13px;
+        color: #8992a2;
+        margin-top: 4px;
+      }
+
+      .kpi-accent {
+        border: 2px solid rgba(56, 189, 248, 0.7);
+        /*box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.35),
+          0 18px 45px rgba(8, 47, 73, 0.9);*/
+      }
+
+      .kpi-accent-estimated {
+        border: 2px solid rgba(255, 223, 97, 0.8);
+
+        /*box-shadow: 0 0 0 1px rgba(248, 181, 56, 0.35),
+          0 18px 45px rgba(73, 52, 8, 0.9);*/
+      }
+
+        /*
+        border-color: rgba(189, 97, 255, 0.8);
+        box-shadow: 0 0 0 1px rgba(213, 56, 248, 0.35),
+          0 18px 45px rgba(73, 8, 73, 0.9);
+        */
+
+          /*0 18px 45px rgba(73, 57, 8, 0.9);*/
+
+      .kpi-accent-recent {
+        border:2px solid rgba(50, 169, 219, 0.7);
+        /*box-shadow: 0 0 0 1px rgba(51, 172, 224, 0.35),
+          0 18px 45px rgba(7, 39, 61, 0.9);*/
+      }
+
+      /*
+      border-color: rgba(56, 248, 104, 0.7);
+        box-shadow: 0 0 0 1px rgba(56, 248, 136, 0.35),
+          0 18px 45px rgba(8, 73, 30, 0.9);
+      */
+
+      .kpi-accent::after {
+        background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.22), transparent 60%);
+      }
+
+      .kpi-accent-estimated::after {
+        /*background: radial-gradient(circle at top right, rgba(248, 184, 56, 0.22), transparent 60%);*/
+        background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.22), transparent 60%);
+      }
+
+      .kpi-accent-recent::after {
+        /*background: radial-gradient(circle at top right, rgba(56, 248, 165, 0.22), transparent 60%);*/
+        background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.22), transparent 60%);
+      }
+
+      .kpi-success .kpi-value {
+        color: var(--success);
+      }
+
+      .kpi-warning .kpi-value {
+        color: var(--warning);
+      }
+
+      .kpi-danger .kpi-value {
+        color: var(--danger);
+      }
+
+      /* Layout: chart + table */
+
+      /*.layout-main {
+        display: grid;
+        grid-template-columns: minmax(0, 1.4fr) minmax(0, 2.1fr);
+        gap: 18px;
+        align-items: flex-start;
+      }
+
+      @media (max-width: 1000px) {
+        .layout-main {
+          grid-template-columns: minmax(0, 1fr);
+        }
+      }*/
+     .layout-main {
+        display: grid;
+        grid-template-columns: 1fr; /* una sola columna */
+        gap: 18px;
+        align-items: flex-start;
+      }
+
+
+      .card {
+        background: radial-gradient(circle at top left, #111827 0, #020617 70%);
+        border-radius: var(--radius-lg);
+        border: 1px solid var(--border-subtle);
+        box-shadow: var(--shadow-soft);
+        padding: 14px 0px 12px;
+      }
+
+      .card-header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        margin-bottom: 8px;
+      }
+
+      .card-title {
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #eeefef;
+        font-weight:600px;
+      }
+
+      .card-subtitle {
+        font-size: 13px;
+        color: #d7dae1;
+        margin-top:4px;
+      }
+
+      .card-subtitle-tick {
+        font-size: 13px;
+        color: #d7dae1;
+        margin-top:4px;
+      }
+
+      .card-tag {
+        font-size: 10px;
+        padding: 3px 7px;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        color: #cbced4;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+      }
+
+      /* TradingView container */
+
+      .tradingview-widget-container {
+        width: 100%;
+        margin-bottom: 20px;
+      }
+
+      #tradingview_chart {
+        width: 100%;
+        height: 360px;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 1px solid rgba(148, 163, 184, 0.4);
+        background: #020617;
+      }
+
+      /* Table */
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 4px;
+        font-size: 12px;
+      }
+
+      thead {
+        background: rgba(15, 23, 42, 0.9);
+      }
+
+      th,
+      td {
+        padding: 7px 8px;
+        border-bottom: 1px solid rgba(31, 41, 55, 0.9);
+      }
+
+      th {
+        text-align: center;/*left*/
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #9ca3af;
+      }
+      th:nth-child(1) {
+        text-align: left;
+      }
+
+
+      table td, table th {
+        color: #f1f5f9; 
+      }
+
+
+      tbody tr:nth-child(even) {
+        background: rgba(255, 255, 255, 0.03);
+      }
+
+      tbody tr:hover {
+        background: rgba(148, 163, 184, 0.20);
+      }
+
+      .event-new {
+        color: #38bdf8;
+        font-weight: 600;
+      }
+
+      .event-sold {
+        color: #4ade80;
+        font-weight: 600;
+      }
+
+      /* Footer */
+
+      footer {
+        margin-top: auto;
+        padding: 18px 20px 26px;
+        border-top: 1px solid rgba(31, 41, 55, 0.9);
+        background: radial-gradient(circle at top, #020617 0, #020617 60%, #000 100%);
+      }
+
+      .footer-inner {
+        max-width: 1240px;
+        margin: 0 auto;
+        font-size: 13px;
+        color: #b0b5c1;
+        line-height: 1.5;
+        text-align: center;
+      }
+
+      .footer-highlight {
+        color: #ccd2dd;
+        font-weight: 500;
+      }
+
+
+.badge {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.badge-new {
+  background: rgba(56, 189, 248, 0.15);
+  color: #38bdf8;
+  border: 1px solid rgba(56, 189, 248, 0.35);
+}
+
+.badge-sold {
+  background: rgba(74, 222, 128, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(74, 222, 128, 0.35);
+}
+
+.badge-old {
+  background: rgba(250, 204, 21, 0.15);
+  color: #facc15;
+  border: 1px solid rgba(250, 204, 21, 0.35);
+}
+
+.badge-days-dom {
+  background: rgba(74, 21, 250, 0.15);
+  color: #e7e7e7;
+  border: 1px solid rgba(6, 89, 255, 0.35);
+  padding: 3px 30px;
+  font-size: 13px;
+}
+
+.badge-cut {
+  background: rgba(250, 155, 21, 0.15);
+  color: #fa8715;
+  border: 1px solid rgba(250, 166, 21, 0.35);
+}
+
+
+.price-cell {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+
+.row-new {
+  background: rgba(56, 189, 248, 0.06);
+}
+
+.row-sold {
+  background: rgba(74, 222, 128, 0.06);
+}
+
+.row-new:hover,
+.row-sold:hover {
+  background: rgba(56, 191, 248, 0.15);
+}
+
+.row-old {
+  background: rgba(250, 204, 21, 0.06);
+}
+
+.row-old:hover {
+  background: rgba(250, 204, 21, 0.15);
+}
+
+
+.address-cell {
+  font-weight: 500;
+  color: #f1f5f9;
+  max-width: 155px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+.date-cell {
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+
+
+.badge-returned {
+  background: rgba(168, 85, 247, 0.15);  
+  color: #a855f7;                         
+  border: 1px solid rgba(168, 85, 247, 0.35);
+}
+
+
+.row-returned {
+  background: rgba(168, 85, 247, 0.06);
+}
+
+.row-returned:hover {
+  background: rgba(168, 85, 247, 0.15);
+}
+
+
+.hero-subtitle,
+.section-subtitle,
+.card-subtitle,
+.card-subtitle-tick,
+.date-cell {
+  color: #d1d5db !important; /* gris claro */
+}
+
+
+
+      .kpi-footnote{
+        color: #dbe5e8;
+      }
+
+
+
+
+
+
+ 
+.top-badges {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom:20px;
+}
+
+/* Badge base */
+.badge2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  backdrop-filter: blur(6px);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  transition: all 0.25s ease;
+}
+
+
+.badge2:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+}
+
+.kpi{
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.kpi:hover {
+  transform: translateY(-2px);
+}
+
+
+.badge-label {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.badge-value {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.badge-suffix {
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+
+.badge-days {
+  /*background: rgba(250, 204, 21, 0.15);*/
+  color: #facc15;
+  /*border: 1px solid rgba(250, 204, 21, 0.35);*/
+  font-size:18px;
+}
+
+.badge-days-cut {
+  /*background: rgba(250, 170, 21, 0.15);*/
+  color: #faa215;
+  /*border: 1px solid rgba(250, 166, 21, 0.35);*/
+  font-size:18px;
+}
+
+
+.badge-listed {
+  background: rgba(56, 189, 248, 0.15);
+  /*color: #38bdf8;*/
+  color: #c6ecfc;
+  border: 1px solid rgba(56, 189, 248, 0.35);
+}
+
+
+
+.top-shortcuts {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px; /* ajusta según tu layout */
+}
+
+.shortcut-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  font-size: 0.80rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+
+.badge-link {
+  /*background-color: #0077ff;
+  color: white;*/
+  background: linear-gradient(135deg, #0d2137, #0d3347);
+  border: 1px solid #2980b9;     
+  color: #a2d4f3;  
+}
+
+/*.badge-link:hover {
+  background-color: #005fcc;
+}*/
+
+
+.badge-secondary {
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
+.badge-secondary:hover {
+  background-color: #d5d7db;
+}
+  
+
+
+
+.tweet-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-soft);
+  padding: 20px 10px;
+  margin-bottom: 40px;
+  margin-top:20px;
+  overflow: hidden;
+}
+
+
+.tweets-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px; /* separación horizontal entre columnas */
+  justify-items: center; /* centra el contenido dentro de cada columna */
+}
+
+
+.col {
+  width: 100%;
+  max-width: 550px; /* controla el ancho visual de cada columna */
+}
+
+
+.tweet-wrapper {
+  break-inside: avoid;
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.tweet-wrapper blockquote.twitter-tweet {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .tweets-container {
+    grid-template-columns: 1fr; /* una sola columna */
+  }
+
+  .col {
+    max-width: 100%;
+  }
+}
+
+
+.col-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+  color: var(--text-strong); /* o el color que uses para títulos */
+}
+
+
+
+/* === DAILY SUMMARY TABLE === */
+
+.dashboard-table {
+  width: 100%;
+  table-layout: fixed; 
+  border-collapse: collapse;
+  margin-top: 14px;
+  background: #0f0f0f;
+  border: 1px solid #1c1c1c;
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+
+
+/* Header */
+.dashboard-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-top: 14px;
+  background: #0f0f0f;
+  border: 1px solid #1c1c1c;
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.dashboard-table thead th {
+  background: #1a1a1a;
+  color: #e5e5e5;
+  padding: 10px 12px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 1px solid #222;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.dashboard-table tbody tr {
+  border-bottom: 1px solid #1a1a1a;
+  transition: background 0.15s ease;
+}
+
+.dashboard-table tbody tr:hover {
+  background: #26282b;
+}
+
+.dashboard-table td {
+  padding: 8px 12px;
+  color: #d0d0d0;
+}
+
+.dashboard-table .date-cell {
+  color: #9aa0a6;
+  font-weight: 500;
+}
+
+.dashboard-table .num-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #dcdcdc;
+}
+
+.dashboard-table .price-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #4caf50;
+  font-size:14px;
+}
+
+.dashboard-table .price-cell-normal {
+  text-align: center;
+  font-weight: 600;
+  color:  #dcdcdc;
+}
+
+.dashboard-table .cut-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #ff5252;
+}
+
+.dashboard-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.dashboard-table {
+  box-shadow: 0 0 8px rgba(0,0,0,0.25);
+}
+
+
+
+.card-wide {
+  background: #0f0f0f;
+  border: 1px solid #1c1c1c;
+  border-radius: 8px;
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0 0 8px rgba(0,0,0,0.25);
+  margin-bottom: 24px;
+}
+
+
+.layout-full {
+  width: 100%;
+  display: block;
+  margin-top: 26px;
+}
+
+
+
+
+.dashboard-table thead th,
+.dashboard-table td {
+  text-align: left;
+}
+
+
+.dashboard-table thead th:nth-child(4),
+.dashboard-table thead th:nth-child(5),
+.dashboard-table thead th:nth-child(6),
+.dashboard-table thead th:nth-child(7) {
+  text-align: center;
+}
+
+.dashboard-table td.num-cell {
+  text-align: center;
+}
+
+
+/*.dashboard-table thead th:nth-child(2),
+.dashboard-table thead th:nth-child(3),
+.dashboard-table thead th:nth-child(8) {
+  text-align: right;
+}*/
+
+.dashboard-table thead th:nth-child(3){
+  text-align: right;
+}
+
+/*.dashboard-table .cut-cell {
+  text-align: right;
+}*/
+/*
+.dashboard-table .price-cell,
+.dashboard-table .price-cell-normal,
+*/
+
+
+/* AVG/home Revenue  */
+.dashboard-table thead th:nth-child(3) {
+  text-align: center;
+}
+
+/* Cut Amount  */
+.dashboard-table thead th:nth-child(8) {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.dashboard-table-market {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-top: 14px;
+  background: #0f0f0f;
+  border: 1px solid #1c1c1c;
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.dashboard-table-market thead th {
+  background: #1a1a1a;
+  color: #e5e5e5;
+  padding: 10px 12px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 1px solid #222;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.dashboard-table-market tbody tr {
+  border-bottom: 1px solid #1a1a1a;
+  transition: background 0.15s ease;
+}
+
+.dashboard-table-market tbody tr:hover {
+  background: #26282b;
+}
+
+.dashboard-table-market td {
+  padding: 8px 12px;
+  color: #d0d0d0;
+}
+
+.dashboard-table-market .date-cell {
+  color: #9aa0a6;
+  font-weight: 500;
+}
+
+.dashboard-table-market .num-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #dcdcdc;
+}
+
+.dashboard-table-market .price-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #4caf50;
+  font-size:14px;
+}
+
+.dashboard-table-market .price-cell-normal {
+  text-align: center;
+  font-weight: 600;
+  color:  #dcdcdc;
+}
+
+.dashboard-table-market .cut-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #ff5252;
+}
+
+.dashboard-table-market tbody tr:last-child {
+  border-bottom: none;
+}
+
+.dashboard-table-market {
+  box-shadow: 0 0 8px rgba(0,0,0,0.25);
+}
+
+
+
+.dashboard-table thead th,
+.dashboard-table td {
+  text-align: center;
+}
+
+
+/*.dashboard-table thead th:nth-child(4),
+.dashboard-table thead th:nth-child(5),
+.dashboard-table thead th:nth-child(6),
+.dashboard-table thead th:nth-child(7) {
+  text-align: center;
+}*/
+
+.dashboard-table-market td.num-cell, td {
+  text-align: center;
+}
+
+
+
+
+/* AVG/home Revenue  */
+.dashboard-table-market thead th:nth-child(3) {
+  text-align: center;
+}
+
+/* Cut Amount  */
+.dashboard-table-market thead th:nth-child(8) {
+  text-align: center;
+}
+
+.address-cell{
+  text-align:left;
+}
+
+
+
+
+.info-card-collapsible {
+  width: 100%;
+  background: #111827;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  color: #e5e7eb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  overflow: hidden;
+  transition: all 0.25s ease;
+  box-sizing: border-box;
+  margin-bottom: 13px;
+}
+
+/* Header clickable */
+.info-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 18px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.info-card-header:hover{
+  background-color: rgba(0, 66, 104, 0.14);
+}
+
+.info-card-header h3 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.info-card-header .arrow {
+  transition: transform 0.25s ease;
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+/* Body (hidden by default) */
+.info-card-body {
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 18px;
+  transition: max-height 0.35s ease, padding 0.25s ease;
+}
+
+.info-card-body p {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 10px 0;
+  color: #d1d5db;
+  text-align: justify;
+}
+
+.info-card-link a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.info-card-blue{
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.info-card-link a:hover {
+  text-decoration: underline;
+}
+
+/* When expanded */
+.info-card-collapsible.open .info-card-body {
+  max-height: 500px; 
+  padding: 12px 18px 18px;
+}
+
+.info-card-collapsible.open .arrow {
+  transform: rotate(90deg);
+}
+
+
+
+
+
+
+.quarter-achievements-card {
+  width: 100%;
+  background: #111827;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  padding: 20px 22px;
+  color: #e5e7eb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.35);
+  box-sizing: border-box;
+  margin-bottom: 22px;
+}
+
+.qa-title {
+  margin: 0 0 16px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #f9fafb;
+}
+
+/* Column layout */
+.qa-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 18px;
+}
+
+.qa-col {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 14px;
+  background: #0a0e17;
+  /*background: #090d19;*/
+  border: 1px solid #313e55;
+  border-radius: 10px;
+  transition: all 0.25s ease;
+}
+
+.qa-col:hover {
+  transform: translateY(-2px);
+}
+
+.qa-label {
+  font-size: 15px;
+  color: #e1e2e4;
+  margin-bottom: 6px;
+}
+
+.qa-value {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+/* Colors */
+.qa-green {
+  color: #4ade80;
+}
+
+.qa-yellow {
+  color: #facc15; 
+}
+
+.qa-red {
+  color: #f87171; 
+}
+
+
+
+.chart-box {
+  background: #0d1117;
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(0, 194, 255, 0.25);
+  box-shadow: 0 0 12px rgba(0, 194, 255, 0.12);
+}
+
+
+.chart-wrapper {
+  background: #111827;               
+  border: 1px solid #1f2937;          
+  border-radius: 10px;
+  padding: 18px 20px;
+  margin-bottom: 22px;
+}
+
+.chart-header {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;             
+  color: #9ca3af;
+  margin-bottom: 14px;
+}
+
+
+.all-wrapper-sold{
+  width: 98%; 
+  margin: 0 auto;
+}
+
+
+
+#table-soldeds td:first-child,
+#table-soldeds th:first-child {
+  padding-left: 1%;  
+}
+
+
+#table-soldeds td:last-child,
+#table-soldeds th:last-child {
+  padding-right: 1%;  
+}
+
+
+
+
+.jobs-table-wrapper {
+  /*max-width: 1100px;*/
+  margin: 0 auto;
+  /*padding: 20px 10px;*/
+}
+
+#table-jobs {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--card);
+  color: #e2e8f0;
+  font-size: 13px;
+  border: 1px solid #1e293b;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+#table-jobs th {
+  background-color: #1e293b;
+  color: #94a3b8;
+  padding: 8px;
+  text-align: left; 
+  font-weight: 500;
+  border-bottom: 1px solid #334155;
+}
+
+#table-jobs td {
+  padding: 6px 8px;
+  border-bottom: 1px solid rgb(37, 48, 72);
+  text-align: left; 
+}
+
+
+.cell-department {
+  font-weight: bold;
+  color: #38bdf8;
+  text-align: left;
+}
+
+.cell-role {
+  font-weight: 500;
+  color: #f8fafc;
+  text-align: left;
+}
+
+.cell-location {
+  color: #cbd5e1;
+  font-size: 12px;
+  text-align: left;
+}
+
+
+.cell-vacancies {
+  font-weight: bold;
+  color: #00ff9c;
+  text-align: center;
+}
+
+
+
+/*#table-jobs tbody tr {
+  transition: background-color 0.15s ease;
+}*/
+
+#table-jobs tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.31); 
+}
+
+
+#table-jobs th:nth-child(3) {
+  text-align: center;
+}
+
+#table-jobs td:nth-child(3) {
+  text-align: center;
+}
+
+
+
+
+
+
+
+#table-jobs-removed {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--card);
+  color: #e2e8f0;
+  font-size: 13px;
+  border: 1px solid #1e293b;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+#table-jobs-removed th {
+  background-color: #1e293b;
+  color: #94a3b8;
+  padding: 8px;
+  text-align: left;
+  font-weight: 500;
+  border-bottom: 1px solid #334155;
+}
+
+#table-jobs-removed td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #1e293b;
+  text-align: left;
+}
+
+
+#table-jobs-removed tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* Estilos por columna */
+#table-jobs-removed .cell-department {
+  font-weight: bold;
+  color: #38bdf8;
+}
+
+#table-jobs-removed .cell-role {
+  font-weight: 500;
+  color: #f8fafc;
+}
+
+#table-jobs-removed .cell-location {
+  color: #cbd5e1;
+  font-size: 12px;
+}
+
+#table-jobs-removed .cell-date {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+
+
+
+.ai-links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 12px;
+  margin-top: 10px;
+  margin-bottom:5px;
+}
+
+/*.ai-button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: #111827;      
+  border: 1px solid rgba(0, 194, 255, 0.25);
+  box-shadow: 0 0 12px rgba(0, 194, 255, 0.12);
+  border-radius: 8px;
+  text-decoration: none;
+  color: #e0e0e0;             
+  font-weight: 500;
+  transition: all 0.2s ease;
+}*/
+
+/*.ai-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  width: 100%;
+  min-height: 54px; 
+  padding: 6px 18px;
+
+  background: #111827;
+  border: 1px solid rgba(0, 194, 255, 0.25);
+  box-shadow: 0 0 12px rgba(0, 194, 255, 0.12);
+  border-radius: 10px;
+
+  text-decoration: none;
+  color: #e0e0e0;
+  font-weight: 500;
+  font-size: 15px;
+
+  transition: all 0.25s ease;
+  cursor: pointer;
+}*/
+
+.ai-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 54px;        /* ancho fijo cuadrado */
+  height: 54px;       /* alto fijo cuadrado */
+  padding: 18px;       /* solo padding interno para el icono */
+
+  background: #111827;
+  border: 1px solid rgba(0, 194, 255, 0.25);
+  box-shadow: 0 0 12px rgba(0, 194, 255, 0.12);
+  border-radius: 10px;
+
+  text-decoration: none;
+  color: #e0e0e0;
+
+  transition: all 0.25s ease;
+  cursor: pointer;
+  flex-shrink: 0;   /* clave: no se comprimen en fila */
+}
+
+
+.ai-button:hover {
+  background: #44a1f3b3;    
+  border-color: #4253eee2;
+  transform: translateY(-1px);
+  /*color: #1a1a1a;*/
+}
+
+
+/*.ai-button:hover .ai-icon {
+  filter: brightness(0) saturate(100%);
+}*/
+
+
+
+.ai-icon {
+  width: 32px;              
+  height: 32px;
+  max-width: 40px;
+  max-height: 40px;
+  object-fit: contain;
+  filter: brightness(0.9);     
+}
+
+.ai-icon-claude {
+  width: 32px;              
+  height: 32px;
+  max-width: 40px;
+  max-height: 40px;
+  object-fit: contain;
+  filter: brightness(0.9);     
+}
+
+.ai-button span {
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ── Contenedores de tabla: scroll horizontal en móvil ── */
+/*.card-wide,
+.all-wrapper-sold,
+.jobs-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}*/
+ 
+ 
+/* ════════════════════════════════════════════
+   TABLET  ≤ 768px
+════════════════════════════════════════════ */
+@media (max-width: 768px) {
+ 
+  /* Shell padding más compacto */
+  .app-shell {
+    padding: 16px 14px 32px;
+  }
+ 
+  /* Top bar: logo arriba, shortcuts debajo */
+  .top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+ 
+  .top-shortcuts {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+ 
+  .shortcut-badge {
+    flex: 1 1 auto;
+    justify-content: center;
+    min-width: 120px;
+  }
+ 
+  /* Meta pills (Status / Tracking since) */
+  .meta {
+    justify-content: flex-start;
+  }
+ 
+  /* Hero: una columna */
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    padding: 16px;
+  }
+ 
+  .hero-right {
+    align-items: flex-start;
+  }
+ 
+  .hero-tag-row {
+    justify-content: flex-start;
+  }
+ 
+  /* KPI grid: 2 columnas en tablet (ya lo tenías a 800px, reforzamos) */
+  .kpi-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+ 
+  /* Badges de estado (Q1 Remaining, Q2 Cutoff...) */
+  .top-badges {
+    flex-wrap: wrap;
+    gap: 10px;
+
+  }
+ 
+  .badge2 {
+    flex: 1 1 calc(50% - 10px);
+    min-width: 130px;
+  }
+ 
+  /* AI buttons: 2 columnas en tablet */
+  /*.ai-links {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }*/
+ 
+  /* QA columns ya usan auto-fit, bien */
+ 
+  /* Chart wrapper */
+  .chart-wrapper {
+    padding: 14px 12px;
+  }
+ 
+  /* Tweet container: una columna ya en 900px, ok */
+ 
+  /* Quarter achievements */
+  .quarter-achievements-card {
+    padding: 16px 16px;
+  }
+ 
+  .qa-columns {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}
+ 
+ 
+/* ════════════════════════════════════════════
+   MÓVIL  ≤ 480px
+════════════════════════════════════════════ */
+@media (max-width: 480px) {
+ 
+  /* Shell */
+  .app-shell {
+    padding: 12px 10px 28px;
+  }
+ 
+  /* Brand: tamaño ligeramente reducido */
+  .brand-text-main {
+    font-size: 15px;
+  }
+ 
+  /* Shortcuts: full width apilados */
+  .top-shortcuts {
+    flex-direction: column;
+  }
+ 
+  .shortcut-badge {
+    width: 100%;
+    justify-content: center;
+  }
+ 
+  /* KPI grid: 1 columna en móvil muy pequeño */
+  .kpi-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+ 
+  /* Valores grandes: escalar un poco */
+  .kpi-value-rev {
+    font-size: 20px;
+  }
+ 
+  .kpi-value {
+    font-size: 16px;
+  }
+ 
+  .kpi-title {
+    font-size: 11px;
+  }
+ 
+  /* Badges de estado: columna 1 en móvil */
+  .badge2 {
+    flex: 1 1 100%;
+  }
+ 
+  /* Badge label/value en móvil */
+  .badge-label {
+    font-size: 12px;
+  }
+ 
+  .badge-value {
+    font-size: 15px;
+  }
+ 
+  /* AI buttons: 1 columna en móvil */
+  /*.ai-links {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+ 
+  .ai-button {
+    min-height: 52px;
+    font-size: 14px;
+    padding: 10px 14px;
+  }*/
+ 
+  /*.ai-icon,
+  .ai-icon-claude {
+    width: 24px;
+    height: 24px;
+  }*/
+ 
+  /* QA: 1 columna en móvil */
+  .qa-columns {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+ 
+  .qa-value {
+    font-size: 17px;
+  }
+ 
+  /* Hero */
+  .hero {
+    padding: 14px 12px;
+  }
+ 
+  .hero-main-title {
+    font-size: 18px;
+  }
+ 
+  .hero-subtitle {
+    font-size: 13px;
+  }
+ 
+  /* Section titles */
+  .section-title {
+    font-size: 12px;
+  }
+ 
+  /* Chart height reducido en móvil */
+  #weeklyChart {
+    height: 220px !important;
+  }
+ 
+  /* TradingView */
+  #tradingview_chart {
+    height: 280px;
+  }
+ 
+  /* Footer */
+  footer {
+    padding: 14px 14px 20px;
+  }
+ 
+  .footer-inner {
+    font-size: 12px;
+  }
+ 
+  /* Info cards collapsibles */
+  .info-card-header {
+    padding: 14px 14px;
+  }
+ 
+  .info-card-header h3 {
+    font-size: 0.82rem;
+  }
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+ 
+  .dashboard-table,
+  .dashboard-table-market,
+  #table-soldeds,
+  #table-jobs,
+  #table-jobs-removed {
+    font-size: 11px;
+  }
+ 
+  .dashboard-table th,
+  .dashboard-table td,
+  .dashboard-table-market th,
+  .dashboard-table-market td,
+  #table-soldeds th,
+  #table-soldeds td,
+  #table-jobs th,
+  #table-jobs td,
+  #table-jobs-removed th,
+  #table-jobs-removed td {
+    padding: 5px 5px;
+    font-size: 11px;
+    letter-spacing: 0;        /* quita el letter-spacing de los th para ganar espacio */
+  }
+ 
+  .dashboard-table thead th,
+  .dashboard-table-market thead th,
+  #table-soldeds thead th,
+  #table-jobs th,
+  #table-jobs-removed th {
+    font-size: 10px;
+    padding: 6px 5px;
+    letter-spacing: 0;
+  }
+ 
+  /* address-cell: truncar si no cabe */
+  .address-cell {
+    max-width: 90px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+ 
+  /* price-cell y num-cell: sin padding extra */
+  .price-cell,
+  .price-cell-normal,
+  .num-cell,
+  .cut-cell {
+    font-size: 11px;
+  }
+}
+ 
+@media (max-width: 480px) {
+ 
+  .dashboard-table,
+  .dashboard-table-market,
+  #table-soldeds,
+  #table-jobs,
+  #table-jobs-removed {
+    font-size: 10px;
+  }
+ 
+  .dashboard-table th,
+  .dashboard-table td,
+  .dashboard-table-market th,
+  .dashboard-table-market td,
+  #table-soldeds th,
+  #table-soldeds td,
+  #table-jobs th,
+  #table-jobs td,
+  #table-jobs-removed th,
+  #table-jobs-removed td {
+    padding: 4px 4px;
+    font-size: 10px;
+    letter-spacing: 0;
+  }
+ 
+  .dashboard-table thead th,
+  .dashboard-table-market thead th,
+  #table-soldeds thead th,
+  #table-jobs th,
+  #table-jobs-removed th {
+    font-size: 9px;
+    padding: 5px 4px;
+  }
+ 
+  .address-cell {
+    max-width: 70px;
+  }
+ 
+  .price-cell,
+  .price-cell-normal,
+  .num-cell,
+  .cut-cell {
+    font-size: 10px;
+  }
+ 
+  /* badges dentro de tabla: reducir padding */
+  .badge {
+    padding: 2px 5px;
+    font-size: 9px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+ 
+  /* ── Encabezados: más pequeños y sin letter-spacing ── */
+  .dashboard-table thead th,
+  .dashboard-table-market thead th,
+  #table-soldeds thead th,
+  #table-jobs thead th,
+  #table-jobs-removed thead th {
+    font-size: 10px;
+    letter-spacing: 0;
+    padding: 6px 5px;
+  }
+ 
+  /* ── Celdas: padding y font reducidos ── */
+  .dashboard-table td,
+  .dashboard-table-market td,
+  #table-soldeds td,
+  #table-jobs td,
+  #table-jobs-removed td {
+    font-size: 11px;
+    padding: 5px 5px;
+  }
+ 
+  /* ── Daily Summary: ocultar AVG/home Revenue (col 3) ── */
+  .dashboard-table thead th:nth-child(3),
+  .dashboard-table tbody td:nth-child(3) {
+    display: none;
+  }
+ 
+  /* ── Daily Summary: reducir Revenue P. Sold (col 2) y Houses P. Sold (col 4) ── */
+  /*.dashboard-table thead th:nth-child(2),
+  .dashboard-table tbody td:nth-child(2),
+  .dashboard-table thead th:nth-child(4),
+  .dashboard-table tbody td:nth-child(4) {
+    font-size: 10px;
+    padding: 5px 4px;
+  }*/
+ 
+  /* ── Top Markets: ocultar AVG Price Active Listing (col 9) ── */
+  .dashboard-table-market thead th:nth-child(9),
+  .dashboard-table-market tbody td:nth-child(9) {
+    display: none;
+  }
+ 
+  /* ── Top Markets: reducir Houses P. Sold (col 3) y Revenue P. Sold (col 4) ── */
+  /*.dashboard-table-market thead th:nth-child(3),
+  .dashboard-table-market tbody td:nth-child(3),
+  .dashboard-table-market thead th:nth-child(4),
+  .dashboard-table-market tbody td:nth-child(4) {
+    font-size: 10px;
+    padding: 5px 4px;
+  }*/
+ 
+  /* ── address-cell: truncar para no desbordar ── */
+  .address-cell {
+    max-width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+ 
+  /* ── badges dentro de tabla: más compactos ── */
+  .badge {
+    padding: 2px 5px;
+    font-size: 9px;
+  }
+}
+ 
+@media (max-width: 480px) {
+ 
+  /* Encabezados aún más pequeños en móvil pequeño */
+  .dashboard-table thead th,
+  .dashboard-table-market thead th,
+  #table-soldeds thead th,
+  #table-jobs thead th,
+  #table-jobs-removed thead th {
+    font-size: 9px;
+    padding: 5px 4px;
+  }
+ 
+  .dashboard-table td,
+  .dashboard-table-market td,
+  #table-soldeds td,
+  #table-jobs td,
+  #table-jobs-removed td {
+    font-size: 10px;
+    padding: 4px 4px;
+  }
+ 
+  .address-cell {
+    max-width: 75px;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+ 
+  
+ 
+  /* Date-cell: más pequeño para no solapar Revenue P. Sold */
+  .dashboard-table .date-cell,
+  .dashboard-table-market .date-cell {
+    font-size: 8px;
+    padding: 5px 3px;
+    white-space: nowrap;
+  }
+ 
+  /* Revenue P. Sold y Houses P. Sold en Daily Summary */
+  /*.dashboard-table td:nth-child(2),
+  .dashboard-table td:nth-child(4) {
+    font-size: 10px;
+    padding: 5px 3px;
+  }*/
+
+  /* Encabezados: forzar wrap controlado y tamaño mínimo */
+  .dashboard-table thead th,
+  .dashboard-table-market thead th {
+    font-size: 8px;
+    letter-spacing: 0;
+    padding: 5px 3px;
+    word-break: break-word;
+    white-space: normal;
+    line-height: 1.2;
+  }
+ 
+}
+ 
+@media (max-width: 480px) {
+ 
+  
+ 
+  .dashboard-table .date-cell,
+  .dashboard-table-market .date-cell {
+    font-size: 7px;
+    padding: 4px 2px;
+  }
+ 
+  .dashboard-table td:nth-child(2),
+  .dashboard-table td:nth-child(4) {
+    font-size: 9px;
+    padding: 4px 2px;
+  }
+
+  .dashboard-table-market td:nth-child(3),
+  .dashboard-table-market td:nth-child(4) {
+    font-size: 9px;
+    padding: 4px 2px;
+  }
+
+  .dashboard-table-market td:nth-child(5) {
+      font-size: 7px;
+  }
+
+  .dashboard-table thead th,
+  .dashboard-table-market thead th {
+    font-size: 7px;
+    padding: 4px 2px;
+  }
+ 
+}
+
+
+@media (max-width: 768px) {
+  #table-soldeds .date-cell {
+    font-size: 8px;
+    padding: 5px 3px;
+    white-space: nowrap;
+  }
+}
+ 
+@media (max-width: 480px) {
+  #table-soldeds .date-cell {
+    font-size: 7px;
+    padding: 4px 2px;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  .card-subtitle,
+  .card-subtitle-tick {
+    font-size: 10px;
+  }
+
+  
+}
+
+@media (max-width: 480px) {
+  .card-subtitle,
+  .card-subtitle-tick {
+    font-size: 9px;
+  }
+
+  .kpi-footnote{
+    font-size:10px;
+  }
+
+  .kpi-title{
+    font-size: 10px;
+  }
+
+  .qa-title{
+    font-size: 14px;
+  }
+
+  .qa-label{
+    font-size: 11px;
+  }
+
+  #table-jobs-removed td:nth-child(5),
+  #table-jobs-removed td:nth-child(4){
+    font-size:8px;
+  }
+
+  #table-jobs-removed td:nth-child(3){
+    font-size:9px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  #table-soldeds .address-cell {
+    cursor: pointer;
+  }
+
+  #table-soldeds,
+  #table-soldeds td,
+  #table-soldeds tr {
+    pointer-events: auto !important;
+    touch-action: auto !important;
+  }
+
+  
+}
+
+
+
+.q2-section {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 12px;
+  padding: 16px;
+  margin-top:7px;
+}
+
+
+@media (max-width: 767px) {
+  .q2-section {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
+  }
+}
+
+
+    </style>
+  </head>
+
+  <body>
+    <div class="page">
+      <div class="app-shell">
+        <!-- Top bar -->
+        <header class="top-bar">
+          <div class="brand">
+            <div class="brand-logo"></div>
+            <div>
+              <div class="brand-text-main">Opendoor Data Explorer</div>
+              <div class="brand-text-sub">Listings · Revenue · Inventory</div>
+            </div>
+          </div>
+
+          <div class="top-shortcuts">
+            <a href="https://accountable.opendoor.com/" target="_blank" class="shortcut-badge badge-link">
+              OPENDOOR ACCOUNTABLE ↗
+            </a>
+
+            <a href="https://openarmy.com/" target="_blank" class="shortcut-badge badge-link">
+              $OPEN ARMY MERCH ↗
+            </a>
+          </div>
+
+
+          <div class="meta">
+            <div class="pill">
+              <span class="pill-dot"></span>
+              <span class="pill-label">Status</span>
+              <span class="pill-strong">Live</span>
+            </div>
+            <div class="pill">
+              <span class="pill-label">Tracking since</span>
+              <span class="pill-label-data">22/02/2026</span>
+            </div>
+          </div>
+        </header>
+
+        <!-- Hero -->
+        <section>
+          <div class="hero-meta-row">
+              <div class="hero-meta-item">
+                <span class="hero-meta-label">Last update</span>
+                <span class="hero-meta-value">16/03/2026, 08:41 (CET)</span>
+              </div>
+          </div>
+        </section>
+
+        </br>
+
+        <!-- KPIs -->
+        <section>
+
+          <div class="quarter-achievements-card">
+            <h3 class="qa-title">Q1 Achievements (Operational Cutoff) - Remaining Quarter: <span class="badge-days">15</span> Days ⌛</h3>
+
+            <div class="qa-columns">
+              <div class="qa-col">
+                <div class="qa-label">Revenue Tracked</div>
+                <div class="qa-value qa-green">$91.32M</div>
+              </div>
+
+              <div class="qa-col">
+                <div class="qa-label">Total Sold</div>
+                <div class="qa-value qa-green">247</div>
+              </div>
+
+              <div class="qa-col">
+                <div class="qa-label">Revenue Est. Adjusted</div>
+                <div class="qa-value qa-yellow">$689.20M</div>
+              </div>
+
+              <div class="qa-col">
+                <div class="qa-label">Total Cuts</div>
+                <div class="qa-value qa-red">438</div>
+              </div>
+
+              <div class="qa-col">
+                <div class="qa-label">Money Cut</div>
+                <div class="qa-value qa-red">$3.22M</div>
+              </div>
+            </div>
+          </div>
+
+
+                <div class="top-badges">
+                  <div class="badge2 badge-listed">
+                    <span class="badge-label">Total Listed</span>
+                    <span class="badge-value">1303 🏠</span>
+                  </div>
+
+                  <div class="badge2 badge-listed">
+                    <span class="badge-label">Value Listed</span>
+                    <span class="badge-value">$514.97M 💵</span>
+                  </div>
+
+                  <div class="badge2 badge-listed">
+                    <span class="badge-label">Avg price</span>
+                    <span class="badge-value">$395,218 💵</span>
+                  </div>
+                </div>
+
+
+
+          <div class="q2-section">
+          <div class="section-title-row">
+            <div class="section-title">Quarter Operational analytics (Q2) - Operational Cutoff: <span class="badge-days-cut">78</span> Days ⌛</div>
+
+            
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi kpi-accent">
+              <div class="kpi-inner">
+                <div class="kpi-title">Revenue realized</div>
+                <div class="kpi-value-rev">$153.59M</div>
+              </div>
+            </div>
+
+            <div class="kpi kpi-accent-recent">
+              <div class="kpi-inner">
+                <div class="kpi-title">Revenue last 2 weeks</div>
+                <div class="kpi-value-rev">$165.34M</div>
+              </div>
+            </div>
+
+            
+
+            <div class="kpi kpi-accent-estimated">
+              <div class="kpi-inner">
+                <div class="kpi-title">Revenue estimated 🚀</div>
+                <div class="kpi-value-rev">$1.07B</div>
+              </div>
+            </div>
+
+          </div>
+            
+          <div class="kpi-grid">
+            <div class="kpi kpi-success">
+              <div class="kpi-inner">
+                <div class="kpi-title">Total p. sold</div>
+                <div class="kpi-value">386</div>
+                <div class="kpi-footnote">Potential sales this op. quarter</div>
+              </div>
+            </div>
+
+            <div class="kpi">
+              <div class="kpi-inner">
+                <div class="kpi-title">P. Sold last 2 weeks</div>
+                <div class="kpi-value">419</div>
+                <div class="kpi-footnote">Short‑term velocity signal</div>
+              </div>
+            </div>
+
+            
+
+
+            <div class="kpi">
+              <div class="kpi-inner">
+                <div class="kpi-title">New listing avg price</div>
+                <div class="kpi-value">$395,218</div>
+                <div class="kpi-footnote">New supply this quarter</div>
+              </div>
+            </div>
+
+            
+
+            <div class="kpi">
+              <div class="kpi-inner">
+                <div class="kpi-title">Acquisition contracts</div>
+                <div class="kpi-value">3,322</div>
+                <div class="kpi-footnote">New acquisitions this quarter</div>
+              </div>
+            </div>
+
+            
+
+           
+
+            <div class="kpi kpi-danger">
+              <div class="kpi-inner">
+                <div class="kpi-title">Total cuts</div>
+                <div class="kpi-value">0</div>
+                <div class="kpi-footnote">Price change events in quarter</div>
+              </div>
+            </div>
+
+            <div class="kpi kpi-danger">
+              <div class="kpi-inner">
+                <div class="kpi-title">Money cut</div>
+                <div class="kpi-value">$0.00</div>
+                <div class="kpi-footnote">Aggregate price reductions</div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+                <div class="section-title-row-ai">
+                  <div class="section-title-ai">AI REVENUE ESTIMATES</div>
+                </div>
+              <div class="ai-links">
+                <a href="https://chat.openai.com/?q=You%20are%20an%20expert%20iBuyer%20and%20Opendoor%20analyst.%20Estimate%20Opendoor%E2%80%99s%20quarterly%20revenue%20using%3A%0A-%20tracked%20revenue%20so%20far%2C%0A-%20current%20listings%20and%20inventory%20value%2C%0A-%20acquisition%20contracts%2C%0A-%20and%20timing%20assumptions.%0A%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided.%20You%20MUST%20combine%3A%0A1)%20current%20data%2C%20AND%0A2)%20projected%20future%20activity%20(acquisitions%2C%20listings%2C%20closings)%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%0AIf%20you%20only%20use%20current%20data%2C%20your%20estimate%20is%20incorrect.%0A%0AOpendoor%E2%80%99s%20revenue%20recognition%20lags%20acquisitions%20(escrow%2C%20rehab%2C%20listing%2C%20closing).%20Use%20an%20%E2%80%9Coperational%20quarter%E2%80%9D%20shifted%20~30%20days%20to%20better%20match%20when%20revenue%20is%20recognized.%0A%0AData%20(already%20provided%20by%20the%20tracker)%3A%0A-%20Revenue%20so%20far%20this%20operational%20quarter%20(Q2)%3A%20%24153.59M%0A%20%20This%20revenue%20is%20inferred%20from%20delisted%20homes%20assumed%20sold.%20Some%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20apply%20a%20reasonable%20downward%20adjustment%20for%20fall%E2%80%91throughs%2C%20cancellations%2C%20or%20returns%20to%20active%20status.%20Treat%20this%20as%20preliminary%2C%20not%20final%20recognized%20revenue.%0A-%20Current%20active%20listings%3A%201303%0A-%20Current%20listed%20value%20(inventory%20at%20list%20price)%3A%20%24514.97M%0A-%20Days%20remaining%20in%20the%20operational%20quarter%3A%2078%0A-%20U.S.%20home%20sale%20mix%3A%2030%25%20cash%2C%2070%25%20mortgage%0A-%20Acquisition%20contracts%20signed%20in%20the%20operational%20quarter%3A%202060%0A-%20Acquisition%20contracts%20signed%20in%20the%20last%2014%20days%3A%20390%0A-%20Avg%20time%20acquisition%20%E2%86%92%20list%2Fsale%E2%80%91ready%3A%20~30%20days%0A-%20Closing%20timelines%3A%20cash%20~14%20days%2C%20mortgage%2030%E2%80%9345%20days%0A%0AOperational%20rules%3A%0A-%20An%20acquisition%20contract%20is%20not%20a%20completed%20purchase.%0A-%20Opendoor%20takes%20~7%E2%80%9315%20days%20to%20close%20and%20take%20possession%20after%20signing.%0A-%20Light%20rehab%3A%20~7%E2%80%9314%20days.%20Total%20acquisition%20%E2%86%92%20list%E2%80%91ready%3A%20~30%20days.%0A-%20Revenue%20is%20recognized%20ONLY%20at%20closing%2C%20not%20at%20listing.%0A-%20Some%20sales%20are%20off%E2%80%91MLS%3B%20acquisition%20contracts%20are%20a%20forward%20indicator.%0A-%20Some%20delisted%20homes%20may%20return%20to%20market%3B%20adjust%20tracked%20revenue%20for%20realistic%20fall%E2%80%91through.%0A%0ADynamic%20activity%20(REQUIRED)%3A%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20using%20a%20run%E2%80%91rate%20derived%20from%20the%20last%2014%20days%2C%20scaled%20to%20the%20remaining%20days%20in%20the%20operational%20quarter.%20This%20projection%20is%20mandatory%20and%20a%20core%20part%20of%20the%20estimate.%0A%0AAssume%20Opendoor%20continues%20to%20acquire%2C%20list%2C%20and%20sell%20at%20a%20pace%20consistent%20with%20the%20last%2014%20days%20unless%20data%20clearly%20suggests%20otherwise.%20Do%20NOT%20assume%20activity%20stops%20today.%0A%0ADuring%20the%20remaining%2078%20days%2C%20you%20must%20model%20that%3A%0A-%20Opendoor%20continues%20signing%20new%20acquisition%20contracts%20based%20on%3A%0A%20%20-%20total%20contracts%20so%20far%20in%20the%20quarter%2C%20and%0A%20%20-%20contracts%20in%20the%20last%2014%20days%20(short%E2%80%91term%20run%E2%80%91rate).%0A-%20A%20portion%20of%20these%20new%20contracts%20becomes%20list%E2%80%91ready%20within%20the%20quarter%20(~30%E2%80%91day%20lag).%0A-%20A%20portion%20of%20those%20list%E2%80%91ready%20homes%20closes%20within%20the%20quarter%2C%20depending%20on%20cash%20vs%20mortgage%20timing.%0A%0AUse%20recent%20acquisition%20and%20listing%20activity%20as%20a%20proxy%20to%20estimate%3A%0A-%20future%20acquisitions%2C%0A-%20future%20listings%2C%0A-%20future%20closings%20inside%20this%20operational%20quarter.%0A%0AYou%20may%20make%20reasonable%2C%20clearly%20stated%20assumptions%20about%3A%0A-%20continuation%20of%20recent%20trends%2C%0A-%20share%20of%20new%20acquisitions%20that%20become%20list%E2%80%91ready%20in%20time%2C%0A-%20share%20of%20those%20that%20realistically%20close%20before%20quarter%20end.%0A%0AOptimistic%20scenario%3A%0A-%20Assume%20the%20last%2014%20days%20represent%20acceleration%2C%20not%20a%20peak.%0A-%20Acquisition%20and%20listing%20velocity%20increases%20during%20the%20remaining%20days.%0A-%20The%20run%E2%80%91rate%20scales%20UP%2C%20not%20down.%0A-%20Apply%20an%20aggressive%20multiplier%20to%20the%20last%2014%20days%20of%20activity%2C%20reflecting%20increased%20throughput.%0A-%20This%20optimistic%20scenario%20should%20represent%20the%20upper%20bound%20if%20current%20momentum%20continues%20or%20accelerates.%0A%0ARequired%20outputs%3A%0A1)%20Estimated%20closings%20this%20quarter%20from%20currently%20listed%20homes.%0A2)%20Estimated%20sale%E2%80%91ready%20inventory%20this%20quarter%20from%20existing%20acquisition%20contracts%20(including%20last%2014%20days).%0A3)%20Estimated%20closings%20this%20quarter%20from%20that%20pipeline%2C%20based%20on%20cash%2Fmortgage%20timing.%0A4)%20Additional%20acquisitions%2C%20listings%2C%20and%20closings%20expected%20during%20the%20remaining%20days%2C%20based%20on%20recent%20run%E2%80%91rates.%0A5)%20Projected%20additional%20revenue%20from%20all%20these%20closings%20(current%20inventory%20%2B%20pipeline%20%2B%20new%20activity).%0A6)%20Total%20estimated%20revenue%20for%20the%20operational%20quarter%3A%0A%20%20%20-%20tracked%20revenue%20(after%20fall%E2%80%91through%20adjustment)%20%2B%20projected%20revenue.%0A7)%20A%20clear%20explanation%20of%20assumptions%2C%20logic%2C%20and%20step%E2%80%91by%E2%80%91step%20calculations.%0A%0AOutput%3A%0A-%20Step%E2%80%91by%E2%80%91step%20explanation%20of%20your%20model%0A-%20Intermediate%20calculations%0A-%20Conservative%2C%20base%2C%20and%20optimistic%20revenue%20range%0A-%20Final%2C%20well%E2%80%91reasoned%20revenue%20estimate" target="_blank" class="ai-button">
+                  <img src="https://img.icons8.com/ios11/512/FFFFFF/chatgpt.png" alt="ChatGPT" title="ChatGPT" class="ai-icon">
+                </a>
+
+                <a href="https://claude.ai/new?q=You%20are%20an%20expert%20analyst%20specializing%20in%20iBuyers%2C%20unit%20economics%2C%20and%20the%20operational%20mechanics%20of%20Opendoor.%0AYour%20role%20is%20to%20estimate%20Opendoor%E2%80%99s%20quarterly%20revenue%20using%20tracked%20listing%20data%2C%20acquisition%20contracts%2C%20and%20operational%20timing%20assumptions.%0AYou%20must%20strictly%20follow%20the%20operational%20rules%20and%20timing%20dynamics%20of%20Opendoor%20described%20below.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%200.%20Mandatory%20Modeling%20Requirements%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided.%20%0AYou%20MUST%20combine%3A%0A1)%20the%20current%20data%20provided%2C%20AND%20%0A2)%20projected%20future%20activity%20(acquisitions%2C%20listings%2C%20and%20closings)%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%0A%0ABoth%20components%20are%20mandatory.%20%0AIf%20you%20only%20use%20the%20current%20data%2C%20your%20estimate%20is%20incorrect.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%201.%20Core%20Principle%3A%20Operational%20Quarter%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AOpendoor%E2%80%99s%20revenue%20recognition%20lags%20behind%20acquisition%20activity%20due%20to%3A%0A-%20escrow%20timelines%2C%0A-%20rehab%20and%20preparation%20time%2C%0A-%20listing%20delays%2C%0A-%20closing%20timelines.%0A%0ATherefore%2C%20you%20must%20analyze%20performance%20using%20the%20%E2%80%9Coperational%20quarter%2C%E2%80%9D%20which%20shifts%20the%20calendar%20quarter%20by%20~30%20days.%20This%20provides%20a%20more%20accurate%20representation%20of%20when%20revenue%20is%20actually%20recognized.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%202.%20Data%20Inputs%20(already%20provided%20by%20the%20tracker)%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided%3A%0A%0A-%20Revenue%20tracked%20so%20far%20in%20the%20current%20operational%20quarter%20(Q2)%3A%20%24153.59M%0A%0AIMPORTANT%3A%20This%20revenue%20value%20is%20derived%20from%20homes%20that%20have%20been%20delisted%20and%20are%20assumed%20to%20have%20closed.%20However%2C%20some%20of%20these%20homes%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20apply%20a%20reasonable%20downward%20adjustment%20to%20account%20for%20potential%20fall%E2%80%91throughs%2C%20cancellations%2C%20or%20returns%20to%20active%20status.%20The%20revenue%20provided%20should%20be%20treated%20as%20a%20preliminary%20estimate%2C%20not%20a%20final%20recognized%20figure.%0A%0A-%20Current%20total%20active%20listings%3A%201303%0A-%20Current%20total%20listed%20value%20(inventory%20at%20list%20price)%3A%20%24514.97M%0A-%20Days%20remaining%20in%20the%20operational%20quarter%3A%2078%0A-%20U.S.%20home%20sale%20mix%3A%2030%25%20cash%2C%2070%25%20mortgage%0A-%20Acquisition%20contracts%20signed%20during%20the%20operational%20quarter%20until%20today%3A%202060%0A-%20Acquisition%20contracts%20signed%20in%20the%20last%2014%20days%3A%20390%0A-%20Average%20time%20from%20acquisition%20contract%20%E2%86%92%20home%20ready%20to%20list%20or%20sell%3A%2030%20days%0A-%20Closing%20timelines%3A%0A%20%20%20%20-%20Cash%20buyers%3A%20~14%20days%0A%20%20%20%20-%20Mortgage%20buyers%3A%2030%E2%80%9345%20days%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%203.%20Operational%20Rules%20of%20Opendoor%20(must%20be%20applied)%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A-%20An%20%E2%80%9Cacquisition%20contract%E2%80%9D%20is%20NOT%20a%20completed%20purchase.%20It%20is%20only%20an%20agreement%20to%20close%20in%20the%20future.%0A-%20Opendoor%20typically%20takes%207%E2%80%9315%20days%20to%20close%20and%20take%20possession%20after%20signing%20the%20contract.%0A-%20Light%20rehab%20takes%207%E2%80%9314%20days.%0A-%20Total%20time%20from%20acquisition%20contract%20%E2%86%92%20home%20ready%20to%20list%20is%20~30%20days.%0A-%20Revenue%20is%20recognized%20ONLY%20when%20the%20sale%20closes%2C%20not%20when%20the%20home%20is%20listed.%0A-%20Cash%20closings%20are%20significantly%20faster%20(~14%20days).%0A-%20Mortgage%20closings%20take%20longer%20(30%E2%80%9345%20days).%0A-%20Some%20sales%20may%20not%20appear%20in%20public%20MLS%20data%20(private%2Foff%E2%80%91market%20closings)%2C%20so%20acquisition%20contracts%20serve%20as%20a%20forward%20indicator%20of%20future%20inventory.%0A-%20Some%20delisted%20homes%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20incorporate%20a%20fall%E2%80%91through%20adjustment%20to%20the%20revenue%20already%20tracked%2C%20reflecting%20realistic%20cancellation%20rates%20or%20return%E2%80%91to%E2%80%91market%20behavior.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%204.%20Dynamic%20activity%20during%20the%20remaining%20days%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AProjecting%20future%20activity%20is%20REQUIRED.%20You%20must%20estimate%20new%20acquisitions%2C%20new%20listings%2C%20and%20new%20closings%20that%20will%20occur%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%20This%20projection%20is%20not%20optional.%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%20This%20projection%20is%20mandatory%20and%20must%20be%20included%20in%20your%20revenue%20estimate.%0A%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20using%20a%20run-rate%20derived%20from%20the%20last%2014%20days.%20This%20run-rate%20must%20be%20scaled%20to%20the%20remaining%20days%20in%20the%20operational%20quarter.%20This%20projection%20is%20REQUIRED%20and%20is%20a%20core%20part%20of%20the%20revenue%20estimate.%0A%0AYou%20must%20assume%20that%20Opendoor%20continues%20to%20acquire%2C%20list%2C%20and%20sell%20homes%20at%20a%20pace%20consistent%20with%20the%20last%2014%20days%20unless%20the%20data%20clearly%20suggests%20otherwise.%0A%0AYou%20must%20NOT%20assume%20that%20activity%20stops%20today.%0AYou%20must%20explicitly%20model%20that%2C%20during%20the%20remaining%2078%20days%20of%20the%20operational%20quarter%3A%0A%0A-%20Opendoor%20will%20continue%20to%20sign%20new%20acquisition%20contracts%20at%20a%20pace%20informed%20by%3A%0A%20%20-%20the%20total%20acquisition%20contracts%20in%20the%20operational%20quarter%20so%20far%2C%20and%0A%20%20-%20the%20acquisition%20contracts%20signed%20in%20the%20last%2014%20days%20(short%E2%80%91term%20run%E2%80%91rate).%0A-%20A%20portion%20of%20these%20new%20acquisition%20contracts%20will%3A%0A%20%20-%20become%20list%E2%80%91ready%20within%20the%20operational%20quarter%20(using%20the%20~30%E2%80%91day%20lag)%2C%20and%0A%20%20-%20partially%20convert%20into%20closed%20sales%20within%20the%20same%20operational%20quarter%2C%20depending%20on%20cash%2Fmortgage%20timing.%0A%0AYou%20must%20use%20the%20recent%20acquisition%20and%20listing%20activity%20as%20a%20proxy%20to%20estimate%3A%0A-%20future%20acquisitions%2C%0A-%20future%20listings%2C%0A-%20and%20future%20closings%20that%20will%20still%20fall%20inside%20the%20current%20operational%20quarter.%0A%0AYou%20are%20allowed%20to%20make%20reasonable%2C%20clearly%20stated%20assumptions%20about%3A%0A-%20the%20continuation%20of%20recent%20trends%2C%0A-%20the%20share%20of%20new%20acquisitions%20that%20become%20list%E2%80%91ready%20in%20time%2C%0A-%20and%20the%20share%20of%20those%20that%20can%20realistically%20close%20before%20the%20end%20of%20the%20operational%20quarter.%0A%0AFor%20the%20optimistic%20scenario%2C%20you%20MUST%20assume%3A%0A-%20the%20last%2014%20days%20represent%20an%20acceleration%20in%20activity%2C%20not%20a%20peak%2C%0A-%20acquisition%20and%20listing%20velocity%20increases%20during%20the%20remaining%20days%2C%0A-%20and%20the%20run-rate%20scales%20up%2C%20not%20down.%0A%0AYour%20optimistic%20scenario%20MUST%20apply%20an%20aggressive%20multiplier%20to%20the%20last%2014%20days%20of%20activity%2C%20reflecting%20increased%20operational%20throughput.%20Your%20optimistic%20scenario%20should%20reflect%20the%20upper%20bound%20of%20what%20Opendoor%20could%20achieve%20if%20current%20momentum%20continues%20or%20accelerates.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%205.%20Your%20Required%20Outputs%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AYou%20must%20calculate%3A%0A%0A1.%20How%20many%20of%20the%20currently%20listed%20homes%20are%20likely%20to%20close%20within%20the%20operational%20quarter.%0A2.%20How%20many%20of%20the%20existing%20acquisition%20contracts%20(including%20those%20signed%20in%20the%20last%2014%20days)%20will%20convert%20into%20sale%E2%80%91ready%20inventory%20within%20the%20operational%20quarter.%0A3.%20How%20many%20of%20those%20homes%20will%20actually%20close%20within%20the%20operational%20quarter%2C%20based%20on%20cash%2Fmortgage%20timing.%0A4.%20How%20many%20additional%20acquisitions%2C%20listings%2C%20and%20closings%20you%20expect%20to%20occur%20during%20the%20remaining%20days%20of%20the%20operational%20quarter%2C%20based%20on%20recent%20run%E2%80%91rates.%0A5.%20The%20projected%20additional%20revenue%20from%20all%20these%20closings%20(current%20inventory%20%2B%20pipeline%20%2B%20expected%20new%20activity).%0A6.%20The%20total%20estimated%20revenue%20for%20the%20operational%20quarter%3A%0A%20%20%20-%20revenue%20already%20tracked%20(adjusted%20for%20fall%E2%80%91through%20risk)%20%2B%20projected%20revenue.%0A7.%20A%20clear%20explanation%20of%20your%20assumptions%2C%20logic%2C%20and%20step%E2%80%91by%E2%80%91step%20calculations.%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%23%23%23%206.%20Output%20Format%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0AYour%20response%20must%20include%3A%0A-%20A%20step%E2%80%91by%E2%80%91step%20explanation%20of%20your%20model%0A-%20Intermediate%20calculations%0A-%20A%20conservative%2C%20base%2C%20and%20optimistic%20revenue%20range%0A-%20A%20final%2C%20well%E2%80%91reasoned%20revenue%20estimate%0A%0AYou%20must%20remain%20consistent%2C%20analytical%2C%20and%20grounded%20in%20the%20operational%20mechanics%20of%20Opendoor%20at%20all%20times." target="_blank" class="ai-button">
+                  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/claude-ai.png" alt="Claude" title="Claude" class="ai-icon-claude">
+                </a>
+
+                <a href="https://www.google.com/search?udm=50&aep=11&q=You%20are%20an%20expert%20iBuyer%20and%20Opendoor%20analyst.%20Estimate%20Opendoor%E2%80%99s%20quarterly%20revenue%20using%3A%0A-%20tracked%20revenue%20so%20far%2C%0A-%20current%20listings%20and%20inventory%20value%2C%0A-%20acquisition%20contracts%2C%0A-%20and%20timing%20assumptions.%0A%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided.%20You%20MUST%20combine%3A%0A1)%20current%20data%2C%20AND%0A2)%20projected%20future%20activity%20(acquisitions%2C%20listings%2C%20closings)%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%0AIf%20you%20only%20use%20current%20data%2C%20your%20estimate%20is%20incorrect.%0A%0AOpendoor%E2%80%99s%20revenue%20recognition%20lags%20acquisitions%20(escrow%2C%20rehab%2C%20listing%2C%20closing).%20Use%20an%20%E2%80%9Coperational%20quarter%E2%80%9D%20shifted%20~30%20days%20to%20better%20match%20when%20revenue%20is%20recognized.%0A%0AData%20(already%20provided%20by%20the%20tracker)%3A%0A-%20Revenue%20so%20far%20this%20operational%20quarter%20(Q2)%3A%20%24153.59M%0A%20%20This%20revenue%20is%20inferred%20from%20delisted%20homes%20assumed%20sold.%20Some%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20apply%20a%20reasonable%20downward%20adjustment%20for%20fall%E2%80%91throughs%2C%20cancellations%2C%20or%20returns%20to%20active%20status.%20Treat%20this%20as%20preliminary%2C%20not%20final%20recognized%20revenue.%0A-%20Current%20active%20listings%3A%201303%0A-%20Current%20listed%20value%20(inventory%20at%20list%20price)%3A%20%24514.97M%0A-%20Days%20remaining%20in%20the%20operational%20quarter%3A%2078%0A-%20U.S.%20home%20sale%20mix%3A%2030%25%20cash%2C%2070%25%20mortgage%0A-%20Acquisition%20contracts%20signed%20in%20the%20operational%20quarter%3A%202060%0A-%20Acquisition%20contracts%20signed%20in%20the%20last%2014%20days%3A%20390%0A-%20Avg%20time%20acquisition%20%E2%86%92%20list%2Fsale%E2%80%91ready%3A%20~30%20days%0A-%20Closing%20timelines%3A%20cash%20~14%20days%2C%20mortgage%2030%E2%80%9345%20days%0A%0AOperational%20rules%3A%0A-%20An%20acquisition%20contract%20is%20not%20a%20completed%20purchase.%0A-%20Opendoor%20takes%20~7%E2%80%9315%20days%20to%20close%20and%20take%20possession%20after%20signing.%0A-%20Light%20rehab%3A%20~7%E2%80%9314%20days.%20Total%20acquisition%20%E2%86%92%20list%E2%80%91ready%3A%20~30%20days.%0A-%20Revenue%20is%20recognized%20ONLY%20at%20closing%2C%20not%20at%20listing.%0A-%20Some%20sales%20are%20off%E2%80%91MLS%3B%20acquisition%20contracts%20are%20a%20forward%20indicator.%0A-%20Some%20delisted%20homes%20may%20return%20to%20market%3B%20adjust%20tracked%20revenue%20for%20realistic%20fall%E2%80%91through.%0A%0ADynamic%20activity%20(REQUIRED)%3A%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20using%20a%20run%E2%80%91rate%20derived%20from%20the%20last%2014%20days%2C%20scaled%20to%20the%20remaining%20days%20in%20the%20operational%20quarter.%20This%20projection%20is%20mandatory%20and%20a%20core%20part%20of%20the%20estimate.%0A%0AAssume%20Opendoor%20continues%20to%20acquire%2C%20list%2C%20and%20sell%20at%20a%20pace%20consistent%20with%20the%20last%2014%20days%20unless%20data%20clearly%20suggests%20otherwise.%20Do%20NOT%20assume%20activity%20stops%20today.%0A%0ADuring%20the%20remaining%2078%20days%2C%20you%20must%20model%20that%3A%0A-%20Opendoor%20continues%20signing%20new%20acquisition%20contracts%20based%20on%3A%0A%20%20-%20total%20contracts%20so%20far%20in%20the%20quarter%2C%20and%0A%20%20-%20contracts%20in%20the%20last%2014%20days%20(short%E2%80%91term%20run%E2%80%91rate).%0A-%20A%20portion%20of%20these%20new%20contracts%20becomes%20list%E2%80%91ready%20within%20the%20quarter%20(~30%E2%80%91day%20lag).%0A-%20A%20portion%20of%20those%20list%E2%80%91ready%20homes%20closes%20within%20the%20quarter%2C%20depending%20on%20cash%20vs%20mortgage%20timing.%0A%0AUse%20recent%20acquisition%20and%20listing%20activity%20as%20a%20proxy%20to%20estimate%3A%0A-%20future%20acquisitions%2C%0A-%20future%20listings%2C%0A-%20future%20closings%20inside%20this%20operational%20quarter.%0A%0AYou%20may%20make%20reasonable%2C%20clearly%20stated%20assumptions%20about%3A%0A-%20continuation%20of%20recent%20trends%2C%0A-%20share%20of%20new%20acquisitions%20that%20become%20list%E2%80%91ready%20in%20time%2C%0A-%20share%20of%20those%20that%20realistically%20close%20before%20quarter%20end.%0A%0AOptimistic%20scenario%3A%0A-%20Assume%20the%20last%2014%20days%20represent%20acceleration%2C%20not%20a%20peak.%0A-%20Acquisition%20and%20listing%20velocity%20increases%20during%20the%20remaining%20days.%0A-%20The%20run%E2%80%91rate%20scales%20UP%2C%20not%20down.%0A-%20Apply%20an%20aggressive%20multiplier%20to%20the%20last%2014%20days%20of%20activity%2C%20reflecting%20increased%20throughput.%0A-%20This%20optimistic%20scenario%20should%20represent%20the%20upper%20bound%20if%20current%20momentum%20continues%20or%20accelerates.%0A%0ARequired%20outputs%3A%0A1)%20Estimated%20closings%20this%20quarter%20from%20currently%20listed%20homes.%0A2)%20Estimated%20sale%E2%80%91ready%20inventory%20this%20quarter%20from%20existing%20acquisition%20contracts%20(including%20last%2014%20days).%0A3)%20Estimated%20closings%20this%20quarter%20from%20that%20pipeline%2C%20based%20on%20cash%2Fmortgage%20timing.%0A4)%20Additional%20acquisitions%2C%20listings%2C%20and%20closings%20expected%20during%20the%20remaining%20days%2C%20based%20on%20recent%20run%E2%80%91rates.%0A5)%20Projected%20additional%20revenue%20from%20all%20these%20closings%20(current%20inventory%20%2B%20pipeline%20%2B%20new%20activity).%0A6)%20Total%20estimated%20revenue%20for%20the%20operational%20quarter%3A%0A%20%20%20-%20tracked%20revenue%20(after%20fall%E2%80%91through%20adjustment)%20%2B%20projected%20revenue.%0A7)%20A%20clear%20explanation%20of%20assumptions%2C%20logic%2C%20and%20step%E2%80%91by%E2%80%91step%20calculations.%0A%0AOutput%3A%0A-%20Step%E2%80%91by%E2%80%91step%20explanation%20of%20your%20model%0A-%20Intermediate%20calculations%0A-%20Conservative%2C%20base%2C%20and%20optimistic%20revenue%20range%0A-%20Final%2C%20well%E2%80%91reasoned%20revenue%20estimate" target="_blank" class="ai-button">
+                  <img src="https://img.icons8.com/ios11/512/FFFFFF/gemini-ai.png" alt="Gemini" title="Gemini" class="ai-icon-claude">
+                </a>
+
+                <a href="https://x.com/i/grok?text=You%20are%20an%20expert%20iBuyer%20and%20Opendoor%20analyst.%20Estimate%20Opendoor%E2%80%99s%20quarterly%20revenue%20using%3A%0A-%20tracked%20revenue%20so%20far%2C%0A-%20current%20listings%20and%20inventory%20value%2C%0A-%20acquisition%20contracts%2C%0A-%20and%20timing%20assumptions.%0A%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided.%20You%20MUST%20combine%3A%0A1)%20current%20data%2C%20AND%0A2)%20projected%20future%20activity%20(acquisitions%2C%20listings%2C%20closings)%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%0AIf%20you%20only%20use%20current%20data%2C%20your%20estimate%20is%20incorrect.%0A%0AOpendoor%E2%80%99s%20revenue%20recognition%20lags%20acquisitions%20(escrow%2C%20rehab%2C%20listing%2C%20closing).%20Use%20an%20%E2%80%9Coperational%20quarter%E2%80%9D%20shifted%20~30%20days%20to%20better%20match%20when%20revenue%20is%20recognized.%0A%0AData%20(already%20provided%20by%20the%20tracker)%3A%0A-%20Revenue%20so%20far%20this%20operational%20quarter%20(Q2)%3A%20%24153.59M%0A%20%20This%20revenue%20is%20inferred%20from%20delisted%20homes%20assumed%20sold.%20Some%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20apply%20a%20reasonable%20downward%20adjustment%20for%20fall%E2%80%91throughs%2C%20cancellations%2C%20or%20returns%20to%20active%20status.%20Treat%20this%20as%20preliminary%2C%20not%20final%20recognized%20revenue.%0A-%20Current%20active%20listings%3A%201303%0A-%20Current%20listed%20value%20(inventory%20at%20list%20price)%3A%20%24514.97M%0A-%20Days%20remaining%20in%20the%20operational%20quarter%3A%2078%0A-%20U.S.%20home%20sale%20mix%3A%2030%25%20cash%2C%2070%25%20mortgage%0A-%20Acquisition%20contracts%20signed%20in%20the%20operational%20quarter%3A%202060%0A-%20Acquisition%20contracts%20signed%20in%20the%20last%2014%20days%3A%20390%0A-%20Avg%20time%20acquisition%20%E2%86%92%20list%2Fsale%E2%80%91ready%3A%20~30%20days%0A-%20Closing%20timelines%3A%20cash%20~14%20days%2C%20mortgage%2030%E2%80%9345%20days%0A%0AOperational%20rules%3A%0A-%20An%20acquisition%20contract%20is%20not%20a%20completed%20purchase.%0A-%20Opendoor%20takes%20~7%E2%80%9315%20days%20to%20close%20and%20take%20possession%20after%20signing.%0A-%20Light%20rehab%3A%20~7%E2%80%9314%20days.%20Total%20acquisition%20%E2%86%92%20list%E2%80%91ready%3A%20~30%20days.%0A-%20Revenue%20is%20recognized%20ONLY%20at%20closing%2C%20not%20at%20listing.%0A-%20Some%20sales%20are%20off%E2%80%91MLS%3B%20acquisition%20contracts%20are%20a%20forward%20indicator.%0A-%20Some%20delisted%20homes%20may%20return%20to%20market%3B%20adjust%20tracked%20revenue%20for%20realistic%20fall%E2%80%91through.%0A%0ADynamic%20activity%20(REQUIRED)%3A%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20using%20a%20run%E2%80%91rate%20derived%20from%20the%20last%2014%20days%2C%20scaled%20to%20the%20remaining%20days%20in%20the%20operational%20quarter.%20This%20projection%20is%20mandatory%20and%20a%20core%20part%20of%20the%20estimate.%0A%0AAssume%20Opendoor%20continues%20to%20acquire%2C%20list%2C%20and%20sell%20at%20a%20pace%20consistent%20with%20the%20last%2014%20days%20unless%20data%20clearly%20suggests%20otherwise.%20Do%20NOT%20assume%20activity%20stops%20today.%0A%0ADuring%20the%20remaining%2078%20days%2C%20you%20must%20model%20that%3A%0A-%20Opendoor%20continues%20signing%20new%20acquisition%20contracts%20based%20on%3A%0A%20%20-%20total%20contracts%20so%20far%20in%20the%20quarter%2C%20and%0A%20%20-%20contracts%20in%20the%20last%2014%20days%20(short%E2%80%91term%20run%E2%80%91rate).%0A-%20A%20portion%20of%20these%20new%20contracts%20becomes%20list%E2%80%91ready%20within%20the%20quarter%20(~30%E2%80%91day%20lag).%0A-%20A%20portion%20of%20those%20list%E2%80%91ready%20homes%20closes%20within%20the%20quarter%2C%20depending%20on%20cash%20vs%20mortgage%20timing.%0A%0AUse%20recent%20acquisition%20and%20listing%20activity%20as%20a%20proxy%20to%20estimate%3A%0A-%20future%20acquisitions%2C%0A-%20future%20listings%2C%0A-%20future%20closings%20inside%20this%20operational%20quarter.%0A%0AYou%20may%20make%20reasonable%2C%20clearly%20stated%20assumptions%20about%3A%0A-%20continuation%20of%20recent%20trends%2C%0A-%20share%20of%20new%20acquisitions%20that%20become%20list%E2%80%91ready%20in%20time%2C%0A-%20share%20of%20those%20that%20realistically%20close%20before%20quarter%20end.%0A%0AOptimistic%20scenario%3A%0A-%20Assume%20the%20last%2014%20days%20represent%20acceleration%2C%20not%20a%20peak.%0A-%20Acquisition%20and%20listing%20velocity%20increases%20during%20the%20remaining%20days.%0A-%20The%20run%E2%80%91rate%20scales%20UP%2C%20not%20down.%0A-%20Apply%20an%20aggressive%20multiplier%20to%20the%20last%2014%20days%20of%20activity%2C%20reflecting%20increased%20throughput.%0A-%20This%20optimistic%20scenario%20should%20represent%20the%20upper%20bound%20if%20current%20momentum%20continues%20or%20accelerates.%0A%0ARequired%20outputs%3A%0A1)%20Estimated%20closings%20this%20quarter%20from%20currently%20listed%20homes.%0A2)%20Estimated%20sale%E2%80%91ready%20inventory%20this%20quarter%20from%20existing%20acquisition%20contracts%20(including%20last%2014%20days).%0A3)%20Estimated%20closings%20this%20quarter%20from%20that%20pipeline%2C%20based%20on%20cash%2Fmortgage%20timing.%0A4)%20Additional%20acquisitions%2C%20listings%2C%20and%20closings%20expected%20during%20the%20remaining%20days%2C%20based%20on%20recent%20run%E2%80%91rates.%0A5)%20Projected%20additional%20revenue%20from%20all%20these%20closings%20(current%20inventory%20%2B%20pipeline%20%2B%20new%20activity).%0A6)%20Total%20estimated%20revenue%20for%20the%20operational%20quarter%3A%0A%20%20%20-%20tracked%20revenue%20(after%20fall%E2%80%91through%20adjustment)%20%2B%20projected%20revenue.%0A7)%20A%20clear%20explanation%20of%20assumptions%2C%20logic%2C%20and%20step%E2%80%91by%E2%80%91step%20calculations.%0A%0AOutput%3A%0A-%20Step%E2%80%91by%E2%80%91step%20explanation%20of%20your%20model%0A-%20Intermediate%20calculations%0A-%20Conservative%2C%20base%2C%20and%20optimistic%20revenue%20range%0A-%20Final%2C%20well%E2%80%91reasoned%20revenue%20estimate" target="_blank" class="ai-button">
+                  <img src="https://img.icons8.com/color/200/FFFFFF/grok--v2.png" alt="Grok" title="Grok" class="ai-icon-claude">
+                </a>
+
+                <a href="https://www.perplexity.ai/?q=You%20are%20an%20expert%20iBuyer%20and%20Opendoor%20analyst.%20Estimate%20Opendoor%E2%80%99s%20quarterly%20revenue%20using%3A%0A-%20tracked%20revenue%20so%20far%2C%0A-%20current%20listings%20and%20inventory%20value%2C%0A-%20acquisition%20contracts%2C%0A-%20and%20timing%20assumptions.%0A%0AYou%20must%20NOT%20limit%20your%20analysis%20to%20the%20data%20provided.%20You%20MUST%20combine%3A%0A1)%20current%20data%2C%20AND%0A2)%20projected%20future%20activity%20(acquisitions%2C%20listings%2C%20closings)%20during%20the%20remaining%20days%20of%20the%20operational%20quarter.%0AIf%20you%20only%20use%20current%20data%2C%20your%20estimate%20is%20incorrect.%0A%0AOpendoor%E2%80%99s%20revenue%20recognition%20lags%20acquisitions%20(escrow%2C%20rehab%2C%20listing%2C%20closing).%20Use%20an%20%E2%80%9Coperational%20quarter%E2%80%9D%20shifted%20~30%20days%20to%20better%20match%20when%20revenue%20is%20recognized.%0A%0AData%20(already%20provided%20by%20the%20tracker)%3A%0A-%20Revenue%20so%20far%20this%20operational%20quarter%20(Q2)%3A%20%24153.59M%0A%20%20This%20revenue%20is%20inferred%20from%20delisted%20homes%20assumed%20sold.%20Some%20may%20return%20to%20market%20or%20fail%20to%20close.%20You%20MUST%20apply%20a%20reasonable%20downward%20adjustment%20for%20fall%E2%80%91throughs%2C%20cancellations%2C%20or%20returns%20to%20active%20status.%20Treat%20this%20as%20preliminary%2C%20not%20final%20recognized%20revenue.%0A-%20Current%20active%20listings%3A%201303%0A-%20Current%20listed%20value%20(inventory%20at%20list%20price)%3A%20%24514.97M%0A-%20Days%20remaining%20in%20the%20operational%20quarter%3A%2078%0A-%20U.S.%20home%20sale%20mix%3A%2030%25%20cash%2C%2070%25%20mortgage%0A-%20Acquisition%20contracts%20signed%20in%20the%20operational%20quarter%3A%202060%0A-%20Acquisition%20contracts%20signed%20in%20the%20last%2014%20days%3A%20390%0A-%20Avg%20time%20acquisition%20%E2%86%92%20list%2Fsale%E2%80%91ready%3A%20~30%20days%0A-%20Closing%20timelines%3A%20cash%20~14%20days%2C%20mortgage%2030%E2%80%9345%20days%0A%0AOperational%20rules%3A%0A-%20An%20acquisition%20contract%20is%20not%20a%20completed%20purchase.%0A-%20Opendoor%20takes%20~7%E2%80%9315%20days%20to%20close%20and%20take%20possession%20after%20signing.%0A-%20Light%20rehab%3A%20~7%E2%80%9314%20days.%20Total%20acquisition%20%E2%86%92%20list%E2%80%91ready%3A%20~30%20days.%0A-%20Revenue%20is%20recognized%20ONLY%20at%20closing%2C%20not%20at%20listing.%0A-%20Some%20sales%20are%20off%E2%80%91MLS%3B%20acquisition%20contracts%20are%20a%20forward%20indicator.%0A-%20Some%20delisted%20homes%20may%20return%20to%20market%3B%20adjust%20tracked%20revenue%20for%20realistic%20fall%E2%80%91through.%0A%0ADynamic%20activity%20(REQUIRED)%3A%0AYou%20MUST%20project%20future%20acquisitions%2C%20listings%2C%20and%20closings%20using%20a%20run%E2%80%91rate%20derived%20from%20the%20last%2014%20days%2C%20scaled%20to%20the%20remaining%20days%20in%20the%20operational%20quarter.%20This%20projection%20is%20mandatory%20and%20a%20core%20part%20of%20the%20estimate.%0A%0AAssume%20Opendoor%20continues%20to%20acquire%2C%20list%2C%20and%20sell%20at%20a%20pace%20consistent%20with%20the%20last%2014%20days%20unless%20data%20clearly%20suggests%20otherwise.%20Do%20NOT%20assume%20activity%20stops%20today.%0A%0ADuring%20the%20remaining%2078%20days%2C%20you%20must%20model%20that%3A%0A-%20Opendoor%20continues%20signing%20new%20acquisition%20contracts%20based%20on%3A%0A%20%20-%20total%20contracts%20so%20far%20in%20the%20quarter%2C%20and%0A%20%20-%20contracts%20in%20the%20last%2014%20days%20(short%E2%80%91term%20run%E2%80%91rate).%0A-%20A%20portion%20of%20these%20new%20contracts%20becomes%20list%E2%80%91ready%20within%20the%20quarter%20(~30%E2%80%91day%20lag).%0A-%20A%20portion%20of%20those%20list%E2%80%91ready%20homes%20closes%20within%20the%20quarter%2C%20depending%20on%20cash%20vs%20mortgage%20timing.%0A%0AUse%20recent%20acquisition%20and%20listing%20activity%20as%20a%20proxy%20to%20estimate%3A%0A-%20future%20acquisitions%2C%0A-%20future%20listings%2C%0A-%20future%20closings%20inside%20this%20operational%20quarter.%0A%0AYou%20may%20make%20reasonable%2C%20clearly%20stated%20assumptions%20about%3A%0A-%20continuation%20of%20recent%20trends%2C%0A-%20share%20of%20new%20acquisitions%20that%20become%20list%E2%80%91ready%20in%20time%2C%0A-%20share%20of%20those%20that%20realistically%20close%20before%20quarter%20end.%0A%0AOptimistic%20scenario%3A%0A-%20Assume%20the%20last%2014%20days%20represent%20acceleration%2C%20not%20a%20peak.%0A-%20Acquisition%20and%20listing%20velocity%20increases%20during%20the%20remaining%20days.%0A-%20The%20run%E2%80%91rate%20scales%20UP%2C%20not%20down.%0A-%20Apply%20an%20aggressive%20multiplier%20to%20the%20last%2014%20days%20of%20activity%2C%20reflecting%20increased%20throughput.%0A-%20This%20optimistic%20scenario%20should%20represent%20the%20upper%20bound%20if%20current%20momentum%20continues%20or%20accelerates.%0A%0ARequired%20outputs%3A%0A1)%20Estimated%20closings%20this%20quarter%20from%20currently%20listed%20homes.%0A2)%20Estimated%20sale%E2%80%91ready%20inventory%20this%20quarter%20from%20existing%20acquisition%20contracts%20(including%20last%2014%20days).%0A3)%20Estimated%20closings%20this%20quarter%20from%20that%20pipeline%2C%20based%20on%20cash%2Fmortgage%20timing.%0A4)%20Additional%20acquisitions%2C%20listings%2C%20and%20closings%20expected%20during%20the%20remaining%20days%2C%20based%20on%20recent%20run%E2%80%91rates.%0A5)%20Projected%20additional%20revenue%20from%20all%20these%20closings%20(current%20inventory%20%2B%20pipeline%20%2B%20new%20activity).%0A6)%20Total%20estimated%20revenue%20for%20the%20operational%20quarter%3A%0A%20%20%20-%20tracked%20revenue%20(after%20fall%E2%80%91through%20adjustment)%20%2B%20projected%20revenue.%0A7)%20A%20clear%20explanation%20of%20assumptions%2C%20logic%2C%20and%20step%E2%80%91by%E2%80%91step%20calculations.%0A%0AOutput%3A%0A-%20Step%E2%80%91by%E2%80%91step%20explanation%20of%20your%20model%0A-%20Intermediate%20calculations%0A-%20Conservative%2C%20base%2C%20and%20optimistic%20revenue%20range%0A-%20Final%2C%20well%E2%80%91reasoned%20revenue%20estimate" target="_blank" class="ai-button">
+                  <img src="https://img.icons8.com/ios7/200/FFFFFF/perplexity-ai.png" alt="Perplexity" title="Perplexity" class="ai-icon-claude">
+                </a>
+            </div>
+
+          </div>
+
+
+          </br>
+
+          <div class="info-card-collapsible">
+            <div class="info-card-header" onclick="this.parentElement.classList.toggle('open')">
+              <h3>How We Track Opendoor Inventory</h3>
+              <span class="arrow">▸</span>
+            </div>
+
+            <div class="info-card-body">
+              <p>
+                All data represented in this tracker is based on the public information provided directly by Opendoor on their website.
+              </p>
+
+              <p><span class="info-card-blue">Daily tracking is based on the U.S. timezone.</span></p>
+
+              <p>
+              We consider this the most reliable source for tracking listings and delistings without introducing operational noise. Some properties may never appear on any public listing platform because they are sold privately, this is accounted for in our Adjusted Estimated Revenue.
+              </p>
+            </div>
+          </div>
+
+
+            <div class="info-card-collapsible">
+            <div class="info-card-header" onclick="this.parentElement.classList.toggle('open')">
+              <h3>How We Calculate Revenue</h3>
+              <span class="arrow">▸</span>
+            </div>
+
+            <div class="info-card-body">
+              <p>
+                Realized revenue represents the revenue we attribute to delistings within the operational quarter. In some cases, Opendoor may relist a property due to a canceled sale or internal processing steps. When this happens, realized revenue is always recalculated to incorporate all changes.
+              </p>
+
+              <p>
+                Estimated revenue builds on realized revenue, recent revenue trends from the last two weeks, and the pipeline of homes under contract. The estimate for Q1 2026 is preliminary and may differ from the final outcome. As we continue to expand our organically tracked dataset from Opendoor, these estimates will become increasingly accurate.
+              </p>
+            </div>
+          </div>
+
+          <div class="info-card-collapsible">
+            <div class="info-card-header" onclick="this.parentElement.classList.toggle('open')">
+              <h3>Operational vs Calendar Quarter</h3>
+              <span class="arrow">▸</span>
+            </div>
+
+            <div class="info-card-body">
+              <p>
+                The time Opendoor needs to close a sale depends on whether the transaction is financed 
+                or cash‑based, as Opendoor explains on its own website:
+              </p>
+
+              <p class="info-card-link">
+                <a href="https://help.opendoor.com/buying/financing-closing/buyer-closing" target="_blank" rel="noopener">
+                  Buyer closing timelines ↗
+                </a>
+              </p>
+
+              <p>
+                Because of this timing difference, we distinguish between the “operational quarter” 
+                and the “calendar quarter” when analyzing Opendoor’s performance. The operational quarter 
+                shifts the calendar quarter by the typical escrow and processing delays, giving a more 
+                accurate representation of when revenue is actually recognized.
+              </p>
+            </div>
+          </div>
+
+
+
+        </section>
+
+
+        
+        <section class="layout-full">
+          <div class="card-wide">
+            <div class="card-header">
+              <div>
+                <div class="card-title">Daily Summary</div>
+                <div class="card-subtitle">
+                  Key daily metrics from the tracked Opendoor inventory
+                  <div>* P. SOLD indicates a potential sale, not a completed one. Can be returned.</div>
+                </div>
+              </div>
+              <span class="card-tag">Resume</span>
+            </div>
+
+            
+    <table class="dashboard-table">
+      <thead>
+        <tr>
+          <th>Date</th><th>Revenue P. Sold</th><th>AVG/home Revenue</th><th>Houses P. Sold</th><th>New Listed</th><th>Returned</th><th>Price Cuts</th><th>Cut Amount</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        
+          <tr>
+            <td class="date-cell">15/03/2026</td><td class="price-cell">$8.61M</td><td class="price-cell-normal">$374,435</td><td class="price-cell">23</td><td class="price-cell-normal">4</td><td class="price-cell-normal">3</td><td class="cut-cell"></td><td class="cut-cell"></td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">14/03/2026</td><td class="price-cell">$6.31M</td><td class="price-cell-normal">$332,211</td><td class="price-cell">19</td><td class="price-cell-normal">3</td><td class="price-cell-normal">3</td><td class="cut-cell"></td><td class="cut-cell"></td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">13/03/2026</td><td class="price-cell">$11.88M</td><td class="price-cell-normal">$395,900</td><td class="price-cell">30</td><td class="price-cell-normal">37</td><td class="price-cell-normal">8</td><td class="cut-cell">1</td><td class="cut-cell">$30.00K</td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">12/03/2026</td><td class="price-cell">$13.36M</td><td class="price-cell-normal">$417,344</td><td class="price-cell">32</td><td class="price-cell-normal">47</td><td class="price-cell-normal">12</td><td class="cut-cell"></td><td class="cut-cell"></td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">11/03/2026</td><td class="price-cell">$13.78M</td><td class="price-cell-normal">$372,405</td><td class="price-cell">37</td><td class="price-cell-normal">26</td><td class="price-cell-normal">9</td><td class="cut-cell">222</td><td class="cut-cell">$1.62M</td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">10/03/2026</td><td class="price-cell">$15.36M</td><td class="price-cell-normal">$415,108</td><td class="price-cell">37</td><td class="price-cell-normal">39</td><td class="price-cell-normal">7</td><td class="cut-cell"></td><td class="cut-cell"></td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">09/03/2026</td><td class="price-cell">$14.93M</td><td class="price-cell-normal">$355,548</td><td class="price-cell">42</td><td class="price-cell-normal">46</td><td class="price-cell-normal">9</td><td class="cut-cell">2</td><td class="cut-cell">$9.00K</td>
+          </tr>
+        
+          <tr>
+            <td class="date-cell">08/03/2026</td><td class="price-cell">$6.30M</td><td class="price-cell-normal">$484,462</td><td class="price-cell">13</td><td class="price-cell-normal">2</td><td class="price-cell-normal">1</td><td class="cut-cell"></td><td class="cut-cell"></td>
+          </tr>
+        
+      </tbody>
+    </table>
+  
+          </div>
+        </section>
+
+
+        <section class="layout-full">
+          <div class="card-wide">
+            <div class="card-header">
+              <div>
+                <div class="card-title">Top Markets Last Week Summary</div>
+                <div class="card-subtitle">
+                  Market metrics from the tracked Opendoor inventory last week.
+                  <div>* P. SOLD indicates a potential sale, not a completed one. Can be returned.</div>
+                </div>
+              </div>
+              <span class="card-tag">Resume</span>
+            </div>
+
+            
+    <table class="dashboard-table-market">
+      <thead>
+        <tr>
+          <th>Market</th><th>Active Listing</th><th>Houses P. Sold</th><th>Revenue P. Sold</th><th>Ratio Sold/Listed</th><th>New Total Listed</th><th>Returned</th><th>Price cuts</th><th>AVG Price Active Listing</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        
+          <tr>
+            <td>GA</td><td class="num-cell">187</td><td class="price-cell">25</td><td class="price-cell">$9.71M</td><td>11.79%</td><td>27</td><td>6</td><td class="cut-cell">26</td><td>$359.99K</td>
+          </tr>
+        
+          <tr>
+            <td>TX</td><td class="num-cell">214</td><td class="price-cell">25</td><td class="price-cell">$8.11M</td><td>10.46%</td><td>19</td><td>7</td><td class="cut-cell">47</td><td>$333.60K</td>
+          </tr>
+        
+          <tr>
+            <td>AZ</td><td class="num-cell">117</td><td class="price-cell">22</td><td class="price-cell">$8.32M</td><td>15.83%</td><td>13</td><td>4</td><td class="cut-cell">23</td><td>$407.25K</td>
+          </tr>
+        
+          <tr>
+            <td>NC</td><td class="num-cell">148</td><td class="price-cell">19</td><td class="price-cell">$6.44M</td><td>11.38%</td><td>21</td><td>3</td><td class="cut-cell">20</td><td>$383.09K</td>
+          </tr>
+        
+          <tr>
+            <td>FL</td><td class="num-cell">131</td><td class="price-cell">16</td><td class="price-cell">$5.73M</td><td>10.88%</td><td>16</td><td>4</td><td class="cut-cell">15</td><td>$370.80K</td>
+          </tr>
+        
+          <tr>
+            <td>SC</td><td class="num-cell">89</td><td class="price-cell">13</td><td class="price-cell">$4.50M</td><td>12.75%</td><td>5</td><td>3</td><td class="cut-cell">16</td><td>$361.49K</td>
+          </tr>
+        
+          <tr>
+            <td>OH</td><td class="num-cell">45</td><td class="price-cell">10</td><td class="price-cell">$3.82M</td><td>18.18%</td><td>3</td><td>4</td><td class="cut-cell">9</td><td>$334.64K</td>
+          </tr>
+        
+      </tbody>
+    </table>
+  
+          </div>
+        </section>
+
+        
+        <section>
+          <div class="chart-box">
+            <div class="card-title">WEEKLY POTENTIAL SALES</div>
+
+            <div id="weeklyChangeBox" style="margin-bottom:10px;
+              color:#00ff9c;
+              font-size:12px;
+              font-weight:600;">
+            Week per Week Change: 6.4%
+          </div>
+
+            <div id="weeklyChart" style="width:100%; height:350px; min-height:350px;"></div>
+
+
+          </div>
+        </section>
+
+          </br>
+
+        <!-- Chart + table -->
+        <section class="layout-main">
+          
+
+          <div class="card">
+          <div class="all-wrapper-sold">
+            <div class="card-header">
+              <div>
+                <div class="card-title">Latest market activity</div>
+                <div class="card-subtitle">
+                  Recent listing lifecycle events from the tracked Opendoor inventory
+                  <div>* P. SOLD indicates a potential sale, not a completed one. Can be returned.</div>
+                </div>
+              </div>
+              <span class="card-tag">Dynamic</span>
+            </div>
+
+            
+    <table id="table-soldeds">
+      <tr><th>Address</th><th>Activity</th><th>Price</th><th>Days on listing</th><th>Date</th></tr>
+
+      
+          <tr class="row-new">
+            <td class="address-cell">155-Scotsway-Ct-Troutman-NC-28166</td><td><span class="badge badge-new">NEW</span></td><td class="price-cell">$375,000</td><td></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">204-Bridle-Bnd-Cibolo-TX-78108</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$250,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">3501-Streams-Of-Fields-Dr-Raleigh-NC-27604</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$285,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">1597-Backwater-Dr-Middleburg-FL-32068</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$249,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">364-Portia-Village-Dr-Henderson-NV-89011</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$685,000</td><td><span class="badge badge-days-dom">12 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">105-Nottingham-Ct-Summerville-SC-29485</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$310,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-new">
+            <td class="address-cell">5-Tracy-Ann-Dr-North-Grafton-MA-01536</td><td><span class="badge badge-new">NEW</span></td><td class="price-cell">$700,000</td><td></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">3601-Yanceyville-St-Greensboro-NC-27405</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$262,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">122-Griffin-Way-Canton-GA-30115</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$790,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">1512-Buckingham-Ave-Gastonia-NC-28054</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$342,000</td><td><span class="badge badge-days-dom">2 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-new">
+            <td class="address-cell">403-Vermont-St-Green-Cove-Springs-FL-32043</td><td><span class="badge badge-new">NEW</span></td><td class="price-cell">$250,000</td><td></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">9008-Fieldstone-Trce-Summerville-SC-29485</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$315,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">5450-Blue-Quail-Dr-Prosper-TX-75078</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$350,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">2690-Rambling-Way-Lithonia-GA-30058</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$233,000</td><td><span class="badge badge-days-dom">12 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">8230-E-11th-St-Indianapolis-IN-46219</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$215,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">203-Westpark-Dr-S-Mc-Kinney-TX-75072</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$462,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">330-Godsey-Rd-Jackson-GA-30233</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$360,000</td><td><span class="badge badge-days-dom">5 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">16116-Gardendale-Dr-Tampa-FL-33624</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$443,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">8615-Virginia-Cir-N-St-Louis-Park-MN-55426</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$380,000</td><td><span class="badge badge-days-dom">6 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">13825-Royston-Bnd-Hudson-FL-34669</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$300,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">6339-W-Range-Mule-Dr-Phoenix-AZ-85083</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$625,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-returned">
+            <td class="address-cell">890-Morgan-Towne-Way-Venice-FL-34292</td><td><span class="badge badge-returned">RETURNED</span></td><td class="price-cell"></td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">22506-Elkana-Deane-Ln-Katy-TX-77449</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$242,000</td><td><span class="badge badge-days-dom">9 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">4705-Beechwood-Rd-Cincinnati-OH-45244</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$257,000</td><td><span class="badge badge-days-dom">9 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-returned">
+            <td class="address-cell">4705-Beechwood-Rd-Cincinnati-OH-45244</td><td><span class="badge badge-returned">RETURNED</span></td><td class="price-cell"></td><td><span class="badge badge-days-dom">9 D</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">245-Ledina-Ct-Clarksville-TN-37043</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$403,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-returned">
+            <td class="address-cell">17005-78th-Pl-N-Maple-Grove-MN-55311</td><td><span class="badge badge-returned">RETURNED</span></td><td class="price-cell"></td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">3608-Bandera-Ranch-Rd-Roanoke-TX-76262-17705851</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$304,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-sold">
+            <td class="address-cell">2272-W-5th-St-Cleveland-OH-44113</td><td><span class="badge badge-sold">P. SOLD</span></td><td class="price-cell">$550,000</td><td><span class="badge badge-old">PRE-TRACKING</span></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+          <tr class="row-new">
+            <td class="address-cell">20056-N-107th-Ln-Peoria-AZ-85373</td><td><span class="badge badge-new">NEW</span></td><td class="price-cell">$450,000</td><td></td><td class="date-cell">2026-03-15</td>
+         </tr>
+        
+
+      <script>
+        if (window.matchMedia('(max-width: 768px)').matches) {
+
+          document.getElementById('table-soldeds').addEventListener('click', function(e) {
+            const cell = e.target.closest('td.address-cell');
+
+            const existing = document.getElementById('addr-tooltip');
+            if (existing) {
+              existing.remove();
+              if (cell && existing.textContent === cell.textContent.trim()) return;
+            }
+
+            if (!cell) return;
+
+            const tooltip = document.createElement('div');
+            tooltip.id = 'addr-tooltip';
+            tooltip.textContent = cell.textContent.trim();
+            tooltip.style.cssText = 'position:fixed;top:100px;left:50%;transform:translateX(-50%);background:#1e293b;color:#f1f5f9;border:1px solid rgba(148,163,184,0.4);border-radius:8px;padding:8px 12px;font-size:13px;max-width:280px;word-break:break-all;z-index:9999;box-shadow:0 8px 24px rgba(0,0,0,0.5);line-height:1.4;';
+
+            document.body.appendChild(tooltip);
+          });
+
+          document.addEventListener('click', function(e) {
+            if (!e.target.closest('#table-soldeds td.address-cell')) {
+              const t = document.getElementById('addr-tooltip');
+              if (t) t.remove();
+            }
+          });
+
+        }
+      </script>
+    </table>
+  
+            </div>
+          </div>
+        </section>
+
+        </br>
+        </br>
+
+        <section class="layout-main">
+
+
+            <div class="card">
+          <div class="all-wrapper-sold">
+            <div class="card-header">
+              <div>
+                <div class="card-title">POTENTIAL NEW HIRES</div>
+                <div class="card-subtitle">
+                  Roles recently taken down from Opendoor’s job listings
+                </div>
+              </div>
+              <span class="card-tag">Hiring</span>
+            </div>
+
+            
+    <div class="jobs-table-wrapper">
+      <table id="table-jobs-removed">
+        <thead>
+          <tr>
+            <th>Department</th><th>Role</th><th>Location</th><th>Published</th><th>Date Removed</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Senior Accountant</td><td class="cell-location">Phoenix, Arizona, United States</td><td class="cell-date">2026-01-13</td><td class="cell-date">2026-03-12</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Senior Accountant</td><td class="cell-location">Toronto</td><td class="cell-date">2026-01-22</td><td class="cell-date">2026-03-12</td>
+              </tr>
+            
+        </tbody>
+      </table>
+    </div>
+  
+            </div>
+          </div>
+
+
+
+
+            <div class="card">
+          <div class="all-wrapper-sold">
+            <div class="card-header">
+              <div>
+                <div class="card-title">Current Job Openings</div>
+                <div class="card-subtitle">
+                  Live view of roles Opendoor is actively hiring for
+                </div>
+              </div>
+              <span class="card-tag">Hiring</span>
+            </div>
+
+            
+    <div class="jobs-table-wrapper">
+      <table id="table-jobs">
+        <thead>
+          <tr>
+            <th>Department</th><th>Role</th><th>Vacancies</th><th>Locations</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Design</td><td class="cell-role">Director, Brand Design</td><td class="cell-vacancies">2</td><td class="cell-location">Miami, Florida, Ontario</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Design</td><td class="cell-role">Product Designer (UX)</td><td class="cell-vacancies">1</td><td class="cell-location">Washington-Seattle; Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Infrastructure Engineer</td><td class="cell-vacancies">2</td><td class="cell-location">Washington-Seattle; Toronto, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer, Financial Systems</td><td class="cell-vacancies">2</td><td class="cell-location">Seattle, Washington, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer, Security Engineering</td><td class="cell-vacancies">2</td><td class="cell-location">Washington-Seattle, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Agentic Analytics Engineer</td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">AI/ML Platform Engineer</td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer - Frontend </td><td class="cell-vacancies">1</td><td class="cell-location">Washington-Seattle</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer - FullStack</td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer – Backend, Pricing</td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer, MLOps - Pricing </td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Engineering</td><td class="cell-role">Software Engineer, Pricing MLOps</td><td class="cell-vacancies">1</td><td class="cell-location">Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Manager, IT SOX & Internal Audit</td><td class="cell-vacancies">2</td><td class="cell-location">Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Senior Accounts Payable Specialist</td><td class="cell-vacancies">2</td><td class="cell-location">Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Sourcing Lead</td><td class="cell-vacancies">2</td><td class="cell-location">Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Finance & Accounting</td><td class="cell-role">Investor Relations Manager</td><td class="cell-vacancies">1</td><td class="cell-location">San Francisco, California, Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Home Operations</td><td class="cell-role">Home Support Coordinator, Utilities</td><td class="cell-vacancies">1</td><td class="cell-location">Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Marketing</td><td class="cell-role">Senior Manager, Growth Marketing Operations</td><td class="cell-vacancies">2</td><td class="cell-location">Florida-Miami; Washington-Seattle; Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Marketing</td><td class="cell-role">Senior Manager, Partner Lifecycle Marketing</td><td class="cell-vacancies">2</td><td class="cell-location">Miami, Florida, Phoenix, Arizona, Seattle, Washington, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Marketing</td><td class="cell-role">Senior Manager, Performance Marketing</td><td class="cell-vacancies">2</td><td class="cell-location">Florida-Miami; Washington-Seattle; Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Marketing</td><td class="cell-role">Senior Performance Manager, Paid Search</td><td class="cell-vacancies">2</td><td class="cell-location">Florida-Miami; Washington-Seattle; Phoenix, Arizona, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Research & Data Science</td><td class="cell-role">Data Scientist</td><td class="cell-vacancies">5</td><td class="cell-location">Washington-Seattle, Seattle, Washington, Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Research & Data Science</td><td class="cell-role">AI Solutions Engineer - Accounting</td><td class="cell-vacancies">2</td><td class="cell-location">Ontario; Toronto, Phoenix, Arizona, San Francisco, California</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Research & Data Science</td><td class="cell-role">Research Scientist</td><td class="cell-vacancies">2</td><td class="cell-location">Washington-Seattle, Seattle, Washington</td>
+              </tr>
+            
+              <tr style="background-color: rgba(40, 141, 184, 0.16)">
+                <td class="cell-department">Research & Data Science</td><td class="cell-role">Finance Automation Lead</td><td class="cell-vacancies">1</td><td class="cell-location">Toronto</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Experience Advocate</td><td class="cell-vacancies">3</td><td class="cell-location">Miami, Florida, Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Account Executive - Home Sales Advisor</td><td class="cell-vacancies">2</td><td class="cell-location">Florida-Miami, Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Agent Home Sales Advisor</td><td class="cell-vacancies">1</td><td class="cell-location">Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Associate Manager, Customer Experience Advocate</td><td class="cell-vacancies">1</td><td class="cell-location">Miami, Florida</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Customer Service Representative </td><td class="cell-vacancies">1</td><td class="cell-location">Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Director of Sales</td><td class="cell-vacancies">1</td><td class="cell-location">Miami, Florida</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Listing Partner (Real Estate Agent) </td><td class="cell-vacancies">1</td><td class="cell-location">Phoenix, Arizona</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Real Estate Sales Representative - Agent Listing Advisor</td><td class="cell-vacancies">1</td><td class="cell-location">Miami, Florida</td>
+              </tr>
+            
+              <tr style="background-color: rgba(56, 189, 248, 0.06)">
+                <td class="cell-department">Sales & Support</td><td class="cell-role">Senior Manager, Home Sales Advisors</td><td class="cell-vacancies">1</td><td class="cell-location">Miami, Florida</td>
+              </tr>
+            
+        </tbody>
+      </table>
+    </div>
+  
+            </div>
+          </div>
+
+
+
+          
+            
+
+        </section>
+      </div>
+
+      
+
+
+      <div class="tweet-container">
+        <div class="tweets-container">
+          <div class="col empleados">
+          <div class="col-title">Opendoor Employees Updates</div>
+            
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">Something about the article format + X’s attention dynamics seems to make pseudo-intellectual essays catnip for the timeline: a medium-true observation, inflated into a sweeping civilizational theory, delivered in a church voice = internet points.</p>&mdash; Morgan Brown (@morganb)
+      <a href="https://twitter.com/morganb/status/2033287267259981987?ref_src=twsrc%5Etfw">
+        March 15, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">In our chat <a href="https://twitter.com/bhalligan?ref_src=twsrc%5Etfw">@bhalligan</a> asked me to talk about my principles.  We talked about the top two, but I thought I should share with you the top 5.   Here they are: 
+
+<a href="https://t.co/dYlgJSZoVm">https://nejatian.com/principles</a>
+
+I only write down principles where I think I am meaningfully different than other folks.   I <a href="https://t.co/dYlgJSZoVm">https://t.co/dYlgJSZoVm</a></p>&mdash; Kaz Nejatian (@nejatian)
+      <a href="https://twitter.com/nejatian/status/2033018353158336550?ref_src=twsrc%5Etfw">
+        March 15, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">begged my wife for 5 years to roll the dice and have a girl after our boys. she finally said yes. have kids. build a family. there is nothing like it. look how cute she is when she’s mad at me 💔</p>&mdash; Lucas Matheson (@lucmatheson)
+      <a href="https://twitter.com/lucmatheson/status/2032908287218430423?ref_src=twsrc%5Etfw">
+        March 14, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">Thank you! I’m sure you already know this - my biggest frustration is blocking  permission prompts not appearing at all in the CC iOS app. I find myself going back to my tailscale + tmux setup.</p>&mdash; Shrisha (@shrisha)
+      <a href="https://twitter.com/shrisha/status/2032872196486607252?ref_src=twsrc%5Etfw">
+        March 14, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">“You can just build things” is taking on a whole new meaning.</p>&mdash; Morgan Brown (@morganb)
+      <a href="https://twitter.com/morganb/status/2032865692584980613?ref_src=twsrc%5Etfw">
+        March 14, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+          </div>
+          <div class="col openarmy">
+          <div class="col-title">$OPEN Army Updates</div>
+            
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">Yeah. For example I am still plus in <a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a>. Around 4 dollar average. So I am still plus. It all depends how you see it.</p>&mdash; Mr Never Sell (@MrNeverSell)
+      <a href="https://twitter.com/MrNeverSell/status/2033425745943343466?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> 
+
+Bears watch out!</p>&mdash; Yee (@YeeTak8)
+      <a href="https://twitter.com/YeeTak8/status/2033407160005407221?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">$open fam
+Notice the priority from our esteemed @realDonaldTrump 
+
+He is protecting the vision of America
+Thank you Mr. President x.com/TylerEHand/sta…</p>&mdash; Odin Sensei (@Odin1699092)
+      <a href="https://twitter.com/Odin1699092/status/2033391730410594444?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">How is <a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> not on here?</p>&mdash; Al (@ARski34)
+      <a href="https://twitter.com/ARski34/status/2033382669308801039?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> is a generational opportunity.
+
+(This is financial advice)</p>&mdash; Nugget (@Nugget_Trades)
+      <a href="https://twitter.com/Nugget_Trades/status/2033327095271616834?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">Feels like this is the week <a href="https://twitter.com/pulte?ref_src=twsrc%5Etfw">@pulte</a> announces the partnership / use of the <a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> platform. I’m expecting a call from a Wall Street insider tomorrow morning to confirm 🫡😎</p>&mdash; Jake Anderson (@Anderson_2155)
+      <a href="https://twitter.com/Anderson_2155/status/2033322532728627355?ref_src=twsrc%5Etfw">
+        March 16, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">Got my buys set for <a href="https://twitter.com/search?q=%24IRE&src=ctag&ref_src=twsrc%5Etfw">$IRE</a> if <a href="https://twitter.com/search?q=%24IREN&src=ctag&ref_src=twsrc%5Etfw">$IREN</a> drops on the usual Sunday night panic selling. 
+
+$4.60 limit buy is set. 
+
+<a href="https://twitter.com/search?q=%24BTC&src=ctag&ref_src=twsrc%5Etfw">$BTC</a> is up AND so is crude oil. 
+
+<a href="https://twitter.com/search?q=%24OPEX&src=ctag&ref_src=twsrc%5Etfw">$OPEX</a> limit sell at $32.00 once every pulls their heads of of their butts and starts buying <a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a>.</p>&mdash; Grayson Gist (@pappygist)
+      <a href="https://twitter.com/pappygist/status/2033312257753387200?ref_src=twsrc%5Etfw">
+        March 15, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+          </div>
+        </div>
+      </div>
+
+
+    
+
+
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+      <footer>
+        <div class="footer-inner">
+          <p>
+            <span class="footer-highlight">Disclaimer:</span>
+            The content on this website is provided solely for educational and informational purposes. It does not
+            constitute financial, investment, legal, or professional advice, and no information presented here should be
+            relied upon for making investment decisions.
+            Market data may be delayed, incomplete, or inaccurate. The creator of this site is not responsible for any
+            actions taken based on the information provided. This website is not affiliated, associated, or endorsed by
+            Opendoor Technologies Inc.
+          </p>
+        </div>
+      </footer>
+    </div>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+
+<script>
+  const weeklySoldData = [{"year_week":202609,"week_start":"2026-02-22T23:00:00.000Z","week_end":"2026-02-28T23:00:00.000Z","sold_count":188,"sold_tokens":"f856a652-a3a5-573d-a236-e09ae5ba753d,86c66583-d9d6-5ff7-92b3-e0651d34b9ad,a6ce093d-b63d-5204-aef4-b872db0ac928,724cf414-92fe-5d4b-9f02-13c1fd1e54d0,baa7e204-db58-52dc-8067-f90676949b20,8e5e15bf-318c-4d95-bb05-c074f09d1442,bdb798bd-61a7-5fff-943f-47ebd622b946,89c5bb6e-3b48-5312-ae0f-9b2e86832427,18074129-d129-5af9-a7b8-97a1482c3496,53f63ec8-1c24-59cf-a94e-4ac1b3ac5512,c9753bf4-39c8-5447-8070-99f3a2d09467,fec06665-c37c-5efd-a9a6-00dbdd455914,40206d3b-6c49-5371-bdb5-0c1a679407a6,86b3b566-93fb-58da-8bd7-7069efb86848,e4099f70-c19e-5b50-b394-b6dfc1c97bf9,183a12d0-db12-5b3d-ab27-f624793bf90b,d58a6313-0e99-5d89-a18f-5115e0a3b423,3ce3a5cb-79fb-56f4-b87e-8fafeab0b796,389576fc-e00c-5b71-8261-1f479f0dca28,4beadea0-8c3e-5a24-b4c5-fe6424664e62,52b0280a-53fe-5f80-b271-9d20c58b763c,79d466c1-860b-5543-9f66-c1799e71bbb9,813fe7bd-8233-554d-978c-8bb99eb0b3a4,b7548e86-6391-5c47-b33b-8d227d1ccdcf,0f83c4df-a911-5ab2-bb6c-b33184556182,19544b4e-8277-5990-b8c1-c73860907954,1e4b30f4-9951-5bd0-955f-50d2436020f2,2749a9c7-2989-5182-8fd4-0"},{"year_week":202610,"week_start":"2026-03-01T23:00:00.000Z","week_end":"2026-03-07T23:00:00.000Z","sold_count":200,"sold_tokens":"442c8ea2-84a0-5b88-ba62-cb3ab0595f64,2258947f-4909-5d64-b75e-8f93003ef5a9,9a5ec5bb-1f1d-528a-9db0-2e40565ee63c,1a51c01c-337d-51a1-a861-52c1fa915d76,41a33a8d-7d96-5edf-8137-ff72afe4785c,552b73ed-45b8-5f0e-bd19-63e9fbeddf1e,177205e6-6422-58de-9bb0-f6f64fb7aa2e,88fa979f-2888-5e75-b6f5-13ecb96aa7d2,fe404b78-92dc-5fde-9f25-aa8484a26b62,e0c013f6-0a34-5f5d-83b0-caa84b188a33,1711e411-2b9a-59b8-9d4e-e0ce66f45ce0,2e1eb1b7-4e57-574e-bb06-a00d1f69c174,75061c3c-3daf-5126-ae5d-fa9290b99b4e,dea139dc-c433-4c08-9a0f-b763e606c3d8,108895db-278e-592f-a66c-81496f98ba57,233b65b9-9694-5bb1-8a4a-65270b1a8601,71009d69-5456-50d4-b0c7-98f8fb15576a,3681df78-8a4a-523a-a2bd-64bd6e85a94c,596ec73c-1737-46cf-9415-240f57bee9c0,a0bcff08-2f57-484b-891f-dcce598ef5af,a4c4d943-1fbf-5b35-8382-ac08ae481c0c,5f66e20b-19c7-59c3-a923-16fead1aa1e7,2a4ae98a-183b-5ba5-8db4-bb5d8043d617,ceace6dd-02bd-5174-9484-2a965fafbcf3,e720b754-ffe2-5e89-859a-367df136b8a2,7022f24a-0cf5-5d86-867d-7645f547dff8,b42f2659-a673-59de-bed5-314e7aa1902e,fc263a5a-6ea6-52ca-a3f8-e"}];
+
+  weeklySoldData.sort((a, b) => new Date(a.week_start) - new Date(b.week_start));
+
+  const labels = weeklySoldData.map(item => item.week_start.split("T")[0]);
+  const values = weeklySoldData.map(item => item.sold_count);
+
+  function initWeeklyChart() {
+    const MAX_POINTS = 60;
+    let labelsOptimized = labels;
+    let valuesOptimized = values;
+
+    if (labels.length > MAX_POINTS) {
+      const step = Math.ceil(labels.length / MAX_POINTS);
+      labelsOptimized = labels.filter((_, i) => i % step === 0);
+      valuesOptimized = values.filter((_, i) => i % step === 0);
+    }
+
+    const chart = echarts.init(document.getElementById('weeklyChart'), null, {
+      renderer: 'canvas',
+      useDirtyRect: true
+    });
+
+    const lineColor = '#4FC3F7';
+    const pointColor = '#81D4FA';
+
+    const options = {
+      animation: false,
+      backgroundColor: 'transparent',
+
+      tooltip: {
+        trigger: 'axis',
+        backgroundColor: 'rgba(0,0,0,0.75)',
+        borderColor: lineColor,
+        borderWidth: 1,
+        textStyle: { color: '#fff' },
+        padding: 10,
+        axisPointer: {
+          type: 'line',
+          lineStyle: {
+            color: lineColor,
+            width: 1.5,
+            type: 'dashed'
+          }
+        }
+      },
+
+      xAxis: {
+        type: 'category',
+        data: labelsOptimized,
+        axisLine: { lineStyle: { color: '#666' } },
+        axisLabel: { color: '#aaa' },
+        splitLine: { show: false }
+      },
+
+      yAxis: {
+        type: 'value',
+        axisLine: { lineStyle: { color: '#666' } },
+        axisLabel: { color: '#aaa' },
+        splitLine: {
+        show: true,
+        lineStyle: {
+            color: 'rgba(255,255,255,0.18)',  
+            width: 1.2,                       
+            type: 'dashed'                    
+          }
+        }
+      },
+      grid: {
+        left: 6,
+        right: 6,
+        top: 36,
+        bottom: 20,
+        containLabel: true
+      },
+
+
+      series: [{
+        name: 'Houses P. Sold',
+        type: 'line',
+        data: valuesOptimized,
+        smooth: false,
+        symbol: 'circle',
+        symbolSize: 4,
+        hoverAnimation: false,
+        itemStyle: {
+          color: pointColor,
+          borderColor: '#fff',
+          borderWidth: 1
+        },
+        lineStyle: {
+          color: lineColor,
+          width: 2,
+          join: 'round',
+          cap: 'round'
+        },
+        emphasis: { disabled: true },
+        blur: { disabled: true },
+        select: { disabled: true }
+      }],
+
+      legend: {
+        data: ['Houses Sold'],
+        textStyle: { color: '#cfd8dc', fontSize: 12 },
+        top: 0
+      }
+    };
+
+
+    chart.setOption(options);
+  }
+
+  // Lazy load del gráfico
+  const chartContainer = document.getElementById('weeklyChart');
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      initWeeklyChart();
+      observer.disconnect();
+    }
+  });
+
+  observer.observe(chartContainer);
+</script>
+
+
+  </body>
+</html>
+  

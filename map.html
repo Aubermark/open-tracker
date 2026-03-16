@@ -1,0 +1,322 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Mapa Listings</title>
+  <link href="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; }
+    #map { width: 100%; height: 100%; }
+
+    #layer-panel {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+      padding: 12px;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      min-width: 160px;
+    }
+
+    #layer-panel h4 {
+      margin: 0 0 4px 0;
+      font-size: 12px;
+      font-family: sans-serif;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .layer-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 2px solid #e0e0e0;
+      background: white;
+      cursor: pointer;
+      font-family: sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      color: #444;
+      transition: all 0.2s;
+    }
+
+    .layer-btn:hover { border-color: #bbb; background: #f9f9f9; }
+    .layer-btn.active { color: white; border-color: transparent; }
+    .layer-btn.loading { opacity: 0.6; cursor: wait; }
+    .layer-btn .icon { font-size: 16px; }
+    .layer-btn .spinner { font-size: 13px; animation: spin 1s linear infinite; display: none; }
+    .layer-btn.loading .spinner { display: inline; }
+    .layer-btn.loading .icon { display: none; }
+
+    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+    .btn-restaurantes.active { background: #e74c3c; }
+    .btn-bici.active         { background: #27ae60; }
+    .btn-parques.active      { background: #2ecc71; }
+    .btn-colegios.active     { background: #3498db; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<div id="layer-panel">
+  <h4>Capas</h4>
+  <button class="layer-btn btn-restaurantes" data-layer="restaurantes">
+    <span class="icon">🍽️</span><span class="spinner">⟳</span> Restaurantes
+  </button>
+  <button class="layer-btn btn-bici" data-layer="bici">
+    <span class="icon">🚲</span><span class="spinner">⟳</span> Carriles bici
+  </button>
+  <button class="layer-btn btn-parques" data-layer="parques">
+    <span class="icon">🌳</span><span class="spinner">⟳</span> Parques
+  </button>
+  <button class="layer-btn btn-colegios" data-layer="colegios">
+    <span class="icon">🏫</span><span class="spinner">⟳</span> Colegios
+  </button>
+</div>
+
+<script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
+<script>
+  const map = new maplibregl.Map({
+    container: "map",
+    style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
+    center: [-112.07, 33.45],
+    zoom: 10
+  });
+
+  const layerState = {
+    restaurantes: false,
+    bici: false,
+    parques: false,
+    colegios: false,
+  };
+
+  const layerColors = {
+    restaurantes: "#e74c3c",
+    bici: "#27ae60",
+    parques: "#2ecc71",
+    colegios: "#3498db",
+  };
+
+  // Archivos estáticos por capa
+  const layerFiles = {
+    restaurantes: "restaurantes.geojson",
+    bici:         "bici.geojson",
+    parques:      "parques.geojson",
+    colegios:     "colegios.geojson",
+  };
+
+  // Caché en memoria — se carga una sola vez por sesión
+  const layerCache = {
+    restaurantes: null,
+    bici: null,
+    parques: null,
+    colegios: null,
+  };
+
+  async function loadOptionalLayer(name) {
+    const btn = document.querySelector(`[data-layer="${name}"]`);
+    btn.classList.add("loading");
+
+    try {
+      // Cargar desde archivo solo si no está en caché
+      if (!layerCache[name]) {
+        const res = await fetch(layerFiles[name] + "?v=" + Date.now());
+        layerCache[name] = await res.json();
+      }
+
+      if (!layerState[name]) return;
+
+      if (map.getLayer(name + "-layer")) map.removeLayer(name + "-layer");
+      if (map.getSource(name)) map.removeSource(name);
+
+      map.addSource(name, { type: "geojson", data: layerCache[name] });
+
+      if (name === "bici" || name === "parques") {
+        map.addLayer({
+          id: name + "-layer",
+          type: "line",
+          source: name,
+          paint: {
+            "line-color": layerColors[name],
+            "line-width": name === "bici" ? 2 : 1.5,
+            "line-opacity": 0.8
+          }
+        });
+      } else {
+        map.addLayer({
+          id: name + "-layer",
+          type: "circle",
+          source: name,
+          paint: {
+            "circle-radius": 5,
+            "circle-color": layerColors[name],
+            "circle-stroke-color": "#fff",
+            "circle-stroke-width": 1.5,
+            "circle-opacity": 0.85
+          }
+        });
+
+        map.on("click", name + "-layer", (e) => {
+          const props = e.features[0].properties;
+          const label = props.name || props.amenity || name;
+          new maplibregl.Popup()
+            .setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(`<div style="font-family:sans-serif;"><strong>${label}</strong></div>`)
+            .addTo(map);
+        });
+
+        map.on("mouseenter", name + "-layer", () => { map.getCanvas().style.cursor = "pointer"; });
+        map.on("mouseleave", name + "-layer", () => { map.getCanvas().style.cursor = ""; });
+      }
+    } catch(e) {
+      console.error("Error cargando capa", name, e);
+    } finally {
+      btn.classList.remove("loading");
+    }
+  }
+
+  function hideOptionalLayer(name) {
+    if (map.getLayer(name + "-layer")) map.removeLayer(name + "-layer");
+    if (map.getSource(name)) map.removeSource(name);
+  }
+
+  document.querySelectorAll(".layer-btn").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const name = btn.dataset.layer;
+      layerState[name] = !layerState[name];
+
+      if (layerState[name]) {
+        btn.classList.add("active");
+        await loadOptionalLayer(name);
+      } else {
+        btn.classList.remove("active");
+        hideOptionalLayer(name);
+      }
+    });
+  });
+
+  map.on("load", async () => {
+
+    const ALLOWED_LAYERS = [
+      "place_state",
+      "place_country_1",
+      "place_country_2",
+      "place_city_r6",
+      "place_city_r5",
+    ];
+
+    map.getStyle().layers.forEach(layer => {
+      if (layer.layout && layer.layout["text-field"]) {
+        map.setLayoutProperty(layer.id, "visibility", "none");
+      }
+    });
+
+    map.getStyle().layers.forEach(layer => {
+      if (ALLOWED_LAYERS.includes(layer.id)) {
+        map.setLayoutProperty(layer.id, "visibility", "visible");
+      }
+    });
+
+    map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
+    map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 5]]);
+
+    map.addSource("listings", {
+      type: "geojson",
+      data: "listings.json?v=" + Date.now()
+    });
+
+    map.addLayer({
+      id: "listings-dots",
+      type: "circle",
+      source: "listings",
+      minzoom: 3,
+      maxzoom: 7,
+      paint: {
+        "circle-radius": [
+          "interpolate", ["linear"], ["zoom"],
+          3, 3,
+          7, 6
+        ],
+        "circle-color": "#ffffff",
+        "circle-stroke-color": "#333333",
+        "circle-stroke-width": 1.5
+      }
+    });
+
+    map.addLayer({
+      id: "listings-labels",
+      type: "symbol",
+      source: "listings",
+      minzoom: 7,
+      layout: {
+        "text-field": ["get", "price_label"],
+        "text-anchor": "center",
+        "text-font": ["Open Sans Bold"],
+        "text-allow-overlap": true,
+        "text-ignore-placement": true,
+        "symbol-avoid-edges": false,
+        "text-size": [
+          "interpolate", ["linear"], ["zoom"],
+          7,  9,
+          8,  12,
+          10, 15,
+          12, 20,
+          14, 26
+        ],
+      },
+      paint: {
+        "text-color": "#000",
+        "text-halo-color": "#fff",
+        "text-halo-width": 6
+      }
+    });
+
+    map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
+
+    map.on("click", "listings-labels", (e) => {
+      const f = e.features[0];
+      const props = f.properties;
+      new maplibregl.Popup()
+        .setLngLat(f.geometry.coordinates)
+        .setHTML(`
+          <div style="font-family: sans-serif;">
+            <strong>${props.address}</strong><br>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span>
+          </div>
+        `)
+        .addTo(map);
+    });
+
+    map.on("mouseenter", "listings-dots", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "listings-dots", () => { map.getCanvas().style.cursor = ""; });
+
+    map.on("click", "listings-dots", (e) => {
+      const f = e.features[0];
+      const props = f.properties;
+      new maplibregl.Popup()
+        .setLngLat(f.geometry.coordinates)
+        .setHTML(`
+          <div style="font-family: sans-serif;">
+            <strong>${props.address}</strong><br>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span>
+          </div>
+        `)
+        .addTo(map);
+    });
+  });
+</script>
+
+</body>
+</html>
