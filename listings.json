@@ -14431,6 +14431,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "826202db-5633-5af5-9aad-2e0184266222",
+        "address": "3853-White-Pine-Rd-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2003,
+        "listed_at": "2026-03-17T16:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.016069,
+          33.804532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8269f639-6974-50da-8f75-6790dd58019d",
         "address": "3141-Gardner-Park-Dr-Gastonia-NC-28054",
         "beds": 3,
@@ -26122,27 +26143,6 @@
         "coordinates": [
           -90.257731,
           38.553763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f4d70b22-26de-5a1b-a118-b467e9d228cd",
-        "address": "1885-S-Quebec-Way-Apt-B23-Denver-CO-80231",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 998,
-        "listed_at": "2026-03-13T16:13:14.000Z",
-        "days_on_market": "4",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.890501,
-          39.682842
         ]
       }
     },
