@@ -22621,6 +22621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0a174e2-89b6-5107-b7ad-4cbfc1386415",
+        "address": "729-E-Ivy-Valley-Dr-Fuquay-Varina-NC-27526",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2121,
+        "listed_at": "2026-03-17T18:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 483000,
+        "price_label": "$483K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.786811,
+          35.607294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0abf910-918b-5c17-8de8-dc8c47fa4a0a",
         "address": "20056-N-107th-Ln-Peoria-AZ-85373",
         "beds": 2,
