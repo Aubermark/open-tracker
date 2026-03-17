@@ -4498,6 +4498,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25c7a12d-e750-538f-89a4-4d74e07006f3",
+        "address": "7011-Towne-Lake-Rd-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1400,
+        "listed_at": "2026-03-17T15:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.358848,
+          27.874841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25d4502e-6b1c-42b6-b809-1e65827b071c",
         "address": "200-Garnet-Ave-Kissimmee-FL-34758",
         "beds": 4,
