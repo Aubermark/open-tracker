@@ -10861,6 +10861,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "637f38e8-2f8c-5660-85a6-9ca3939a2315",
+        "address": "18621-N-4th-Dr-Phoenix-AZ-85027",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1192,
+        "listed_at": "2026-03-17T18:30:07.000Z",
+        "days_on_market": ">23",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.079671,
+          33.655708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63a9afd3-a25d-5879-803e-a67ac72164bf",
         "address": "1911-Winston-Store-Loop-Richmond-TX-77469-16784991",
         "beds": 5,
@@ -18499,27 +18520,6 @@
         "coordinates": [
           -119.161978,
           46.258619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aa07d7d4-8aa1-5c3b-8cd2-44279cbb2f4a",
-        "address": "1600-Desperado-Rd-Fort-Worth-TX-76131",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1872,
-        "listed_at": "2026-03-17T15:00:08.000Z",
-        "days_on_market": ">23",
-        "current_price": 274000,
-        "price_label": "$274K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.335149,
-          32.893935
         ]
       }
     },
