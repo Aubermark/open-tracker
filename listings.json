@@ -11113,6 +11113,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65428fb6-28d3-527d-b2d9-1947cb2abafe",
+        "address": "1539-Biscayne-Bay-Dr-Jacksonville-FL-32218",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1220,
+        "listed_at": "2026-03-17T23:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 189000,
+        "price_label": "$189K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6728,
+          30.456226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "655705e2-4f4d-51b9-a83b-05246e582175",
         "address": "123-Grandview-Dr-Hinesville-GA-31313",
         "beds": 4,
@@ -17953,27 +17974,6 @@
         "coordinates": [
           -122.890629,
           45.532213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a2b18209-cf68-5975-b779-bc618b1db78d",
-        "address": "139-Castleton-Cir-Boiling-Springs-SC-29316",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2267,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">24",
-        "current_price": 297000,
-        "price_label": "$297K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.957912,
-          35.06825
         ]
       }
     },
