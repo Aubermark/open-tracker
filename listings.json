@@ -5338,6 +5338,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2bed9922-ad0d-503b-8535-2642c5bf731e",
+        "address": "701-Atlantic-St-Se-Washington-DC-20032",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1314,
+        "listed_at": "2026-03-17T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996342,
+          38.830758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bffb5d8-f29a-5d94-be80-745f9cf3ba58",
         "address": "3117-Twatchman-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -12997,27 +13018,6 @@
         "coordinates": [
           -97.754244,
           31.069236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7698c6e5-b35d-5df1-88e9-ec92bbb413e1",
-        "address": "2296-Talbot-Rdg-Jonesboro-GA-30236",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2454,
-        "listed_at": "2026-03-11T07:34:29.000Z",
-        "days_on_market": "6",
-        "current_price": 353000,
-        "price_label": "$353K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.316038,
-          33.504307
         ]
       }
     },
