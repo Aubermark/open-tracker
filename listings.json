@@ -1642,6 +1642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
+        "address": "1623-12th-St-Saint-Cloud-FL-34769",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1558,
+        "listed_at": "2026-03-17T15:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.287872,
+          28.246829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dc38c16-95e6-5743-84eb-88706199caf8",
         "address": "19107-Egret-Glen-Ct-Cypress-TX-77429",
         "beds": 5,
@@ -5500,6 +5521,27 @@
         "coordinates": [
           -95.432141,
           29.784819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2eb7173e-65ed-50d9-bcec-7835abf3c10c",
+        "address": "9907-Wildwood-Muse-Ct-Charlotte-NC-28273",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2312,
+        "listed_at": "2026-03-17T15:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.974095,
+          35.156138
         ]
       }
     },
@@ -20977,27 +21019,6 @@
         "coordinates": [
           -122.121934,
           38.002857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c1d0e637-6b05-59a4-a21b-0fe3ec9e2b1a",
-        "address": "12514-W-101st-St-Lenexa-KS-66215",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1687,
-        "listed_at": "2026-02-27T07:34:21.000Z",
-        "days_on_market": "18",
-        "current_price": 387000,
-        "price_label": "$387K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.731537,
-          38.945492
         ]
       }
     },
