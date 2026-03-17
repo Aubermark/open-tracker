@@ -6241,27 +6241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "36279d7f-0ef7-5d3f-a812-9131fdffb61a",
-        "address": "14504-W-139th-St-Olathe-KS-66062",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1763,
-        "listed_at": "2026-02-26T19:30:07.000Z",
-        "days_on_market": "19",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.753697,
-          38.877043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3685952d-0310-5d2b-b291-fc21f0c6151f",
         "address": "195-Flamingo-Bay-Dr-Missouri-City-TX-77459",
         "beds": 4,
@@ -8944,6 +8923,27 @@
         "coordinates": [
           -112.048487,
           33.294106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "52571421-5ab4-5124-9996-6801cbc4b025",
+        "address": "221-Salusbury-Ln-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1359,
+        "listed_at": "2026-03-17T20:00:07.000Z",
+        "days_on_market": ">23",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.914928,
+          34.141952
         ]
       }
     },
