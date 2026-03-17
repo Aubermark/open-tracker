@@ -8425,27 +8425,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4bbe6047-9223-5a59-a92a-361b04c9d558",
-        "address": "4002-Berwick-Ln-Fort-Collins-CO-80524",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1950,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">23",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.00352,
-          40.60015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4bdf5043-d088-55c3-a8cd-af7f89ef5793",
         "address": "517-W-5th-St-Converse-TX-78109",
         "beds": 3,
@@ -13480,6 +13459,27 @@
         "coordinates": [
           -95.275243,
           29.561732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b7f605f-3052-596e-b5ec-d680fb225311",
+        "address": "6648-4th-St-N-Oakdale-MN-55128",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 946,
+        "listed_at": "2026-03-17T16:30:07.000Z",
+        "days_on_market": ">23",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.971674,
+          44.954771
         ]
       }
     },
