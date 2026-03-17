@@ -4015,6 +4015,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21d7e743-4eee-5a81-a19c-e3f3f908d6bc",
+        "address": "1470-Peterson-Rd-Colorado-Springs-CO-80915",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1572,
+        "listed_at": "2026-03-17T17:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.698282,
+          38.853095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22442857-85bd-5334-a3f7-7399ef8b06a0",
         "address": "1667-S-172nd-Dr-Goodyear-AZ-85338",
         "beds": 3,
@@ -23056,27 +23077,6 @@
         "coordinates": [
           -87.888831,
           42.025783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d7454dea-dd7a-51c5-b260-cea24ad3f401",
-        "address": "1586-Larkspur-Trl-Conyers-GA-30012",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1589,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">23",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.027437,
-          33.691086
         ]
       }
     },
