@@ -19366,6 +19366,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
+        "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1444,
+        "listed_at": "2026-03-17T19:20:23.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.641276,
+          38.742143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b22585b5-4e31-51f0-9e9b-07405451668a",
         "address": "5469-Beresford-St-Canal-Winchester-OH-43110",
         "beds": 3,
