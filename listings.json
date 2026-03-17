@@ -26590,6 +26590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f94fab6f-128e-58e3-9816-003a987428f9",
+        "address": "19822-Rippling-Brook-Ln-Tomball-TX-77375-17890627",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2016,
+        "listed_at": "2026-03-17T22:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.588807,
+          30.050298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f993e63f-a8a1-5550-bdc6-0367b8a80660",
         "address": "1006-Lonesome-Way-Princeton-TX-75407",
         "beds": 3,
