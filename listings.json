@@ -13444,6 +13444,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7addab2b-57dd-5547-83f3-6f069d35c80a",
+        "address": "3739-Constancia-Dr-Green-Cove-Springs-FL-32043",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1764,
+        "listed_at": "2026-03-17T22:50:09.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.702431,
+          30.004956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b10d1c9-c5f1-5f6a-b493-3687eaf17c02",
         "address": "4657-Water-Mill-Dr-Buford-GA-30519",
         "beds": 4,
