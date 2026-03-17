@@ -13234,6 +13234,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "786229ee-6952-57d0-b705-76ef3fa9e803",
+        "address": "14509-N-126th-Ave-El-Mirage-AZ-85335",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1722,
+        "listed_at": "2026-03-17T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.332663,
+          33.614798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "789584ed-db44-5f09-b376-17ba3d109a10",
         "address": "12813-N-140th-Dr-Surprise-AZ-85379",
         "beds": 3,
@@ -20263,6 +20284,27 @@
         "coordinates": [
           -95.313926,
           30.123502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b98f6854-6755-555b-8744-8b78e8355118",
+        "address": "868-Sandpiper-Bay-Dr-Sw-Sunset-Beach-NC-28468",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1791,
+        "listed_at": "2026-03-17T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.511645,
+          33.919179
         ]
       }
     },
