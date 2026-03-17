@@ -1768,6 +1768,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e5e3bc0-9279-4117-b07d-bf050e3bb65e",
+        "address": "11277-Rustic-Timber-Loop-San-Antonio-FL-33576",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3518,
+        "listed_at": "2026-03-17T16:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 755000,
+        "price_label": "$755K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.280889,
+          28.315073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e8637b3-eb85-5843-924b-6d09d5ab7aef",
         "address": "209-High-Creek-Dr-Roswell-GA-30076",
         "beds": 2,
