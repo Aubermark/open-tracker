@@ -3448,27 +3448,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1c60989c-f9da-5999-a3af-b16aeac953e7",
-        "address": "3732-Sugarberry-Dr-Mesquite-TX-75150",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1332,
-        "listed_at": "2026-03-13T18:23:04.000Z",
-        "days_on_market": ">23",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.597374,
-          32.817099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1c83f455-947d-5e90-848a-f1b45fa0281a",
         "address": "4325-W-Blacksmith-St-Tucson-AZ-85741",
         "beds": 3,
@@ -19297,6 +19276,27 @@
         "coordinates": [
           -87.040397,
           35.636646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b098ae31-f638-5923-83ff-eaa616ca4122",
+        "address": "1434-N-Chester-Ave-Indianapolis-IN-46201",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1175,
+        "listed_at": "2026-03-17T21:40:10.000Z",
+        "days_on_market": "19",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.099706,
+          39.786567
         ]
       }
     },
