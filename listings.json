@@ -3700,27 +3700,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1f34f117-49f2-5de2-a026-a4ad581b73e5",
-        "address": "2120-Village-Green-Dr-Fairburn-GA-30213",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1951,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">23",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.597037,
-          33.58645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f617872-ae9b-54af-8bc1-e66e8c6bd3ae",
         "address": "5924-Mc-Dowell-Run-Dr-Huntersville-NC-28078",
         "beds": 3,
@@ -15160,6 +15139,27 @@
         "coordinates": [
           -77.075448,
           38.738119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8952b1d4-7a26-5a59-a584-a1f5e4dd2677",
+        "address": "942-Ashton-Park-Dr-Sw-Mableton-GA-30126",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2524,
+        "listed_at": "2026-03-17T16:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.583987,
+          33.80317
         ]
       }
     },
