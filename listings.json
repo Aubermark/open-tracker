@@ -17539,6 +17539,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e4fe9a4-ed9d-5f8f-a7f4-1a0fc4202b09",
+        "address": "1832-E-Geer-St-Durham-NC-27704",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 884,
+        "listed_at": "2026-03-17T22:10:07.000Z",
+        "days_on_market": "19",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.857756,
+          36.016366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e761df9-e27a-526e-ba40-8f31f1893d9e",
         "address": "5908-Tee-Pee-Trce-Antioch-TN-37013",
         "beds": 4,
@@ -26269,6 +26290,27 @@
         "coordinates": [
           -90.257731,
           38.553763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4e5dea2-3975-5a7c-ab15-a613ae898c0a",
+        "address": "401-Grand-Harbor-Blvd-Ninety-Six-SC-29666",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2510,
+        "listed_at": "2026-03-17T22:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.965813,
+          34.204828
         ]
       }
     },
