@@ -11008,6 +11008,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65914b1c-cb4d-5495-9b74-f4e0d85c286a",
+        "address": "11037-Wyndham-Pointe-Dr-Charlotte-NC-28213",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2008,
+        "listed_at": "2026-03-17T15:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.705053,
+          35.297607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65de49c5-128f-58ac-8853-697a332a9e5e",
         "address": "112-Wesley-Ct-Lexington-SC-29073",
         "beds": 3,
@@ -18415,6 +18436,27 @@
         "coordinates": [
           -119.161978,
           46.258619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa07d7d4-8aa1-5c3b-8cd2-44279cbb2f4a",
+        "address": "1600-Desperado-Rd-Fort-Worth-TX-76131",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1872,
+        "listed_at": "2026-03-17T15:00:08.000Z",
+        "days_on_market": ">23",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335149,
+          32.893935
         ]
       }
     },
