@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <title>Mapa Listings</title>
-  <link href="https://unpkg.com/maplibre-gl@4.1.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <link href="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.css" rel="stylesheet" />
   <style>
     body, html { margin: 0; padding: 0; height: 100%; }
     #map { width: 100%; height: 100%; }
@@ -96,11 +96,11 @@
   </div>
 </div>
 
-<script src="https://unpkg.com/maplibre-gl@4.1.0/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
 <script>
   const map = new maplibregl.Map({
     container: "map",
-    style: "https://demotiles.maplibre.org/style.json",
+    style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
     center: [-96.0, 38.0],
     zoom: 4
   });
@@ -193,18 +193,10 @@
       },
       paint: {
         "text-color": "#ffffff",
-
-        // 🔵 Fondo redondeado
-        "text-background-color": domColorExpression,
-        "text-background-padding": 4,
-        "text-background-shape": "rounded-rectangle",
-
-        // (Opcional) halo suave para más contraste
         "text-halo-color": domColorExpression,
-        "text-halo-width": 1.5,
+        "text-halo-width": 12,
       }
     });
-
 
     map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
     map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
