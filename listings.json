@@ -1411,6 +1411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b5d7614-18e7-585c-9b97-f5c0bdb691e4",
+        "address": "612-Sw-149th-Pl-Oklahoma-City-OK-73170",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2024,
+        "listed_at": "2026-03-17T22:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.524124,
+          35.319011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bcfca60-2a16-5a98-936c-157c0d2f3b83",
         "address": "6352-Shaundale-Dr-Springfield-VA-22152",
         "beds": 3,
@@ -16987,27 +17008,6 @@
         "coordinates": [
           -80.855654,
           34.136304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9a133d73-5287-5f97-94d1-7b18b164995f",
-        "address": "3847-Pendent-Ln-Columbus-OH-43207",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1763,
-        "listed_at": "2026-03-12T16:10:07.000Z",
-        "days_on_market": "5",
-        "current_price": 312000,
-        "price_label": "$312K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.924766,
-          39.890377
         ]
       }
     },
