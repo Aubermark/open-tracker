@@ -9937,6 +9937,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5cd4dd03-ee58-510d-812c-c140b8e50305",
+        "address": "210-Gale-Dr-Ne-Cleveland-TN-37312",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1345,
+        "listed_at": "2026-03-17T15:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.846458,
+          35.193442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5cedfe32-ad0a-5a71-83e8-79ad56fec0db",
         "address": "2590-Cottage-View-Way-Cumming-GA-30040",
         "beds": 3,
