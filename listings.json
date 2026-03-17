@@ -9853,6 +9853,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b07feb7-b7a3-5301-8f78-f5ca9d1a1ffc",
+        "address": "1746-Spring-Hill-Cv-Lithonia-GA-30058",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1811,
+        "listed_at": "2026-03-17T21:20:07.000Z",
+        "days_on_market": "19",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.109284,
+          33.754354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b66f993-0689-5898-b8ee-03877c19a8ce",
         "address": "2158-Joseph-Hewes-Ct-Orange-Park-FL-32073",
         "beds": 3,
@@ -21460,27 +21481,6 @@
         "coordinates": [
           -80.869073,
           35.019373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c405150e-ae83-506f-b883-2016c1ab5c99",
-        "address": "119-Edgedale-Ct-Kernersville-NC-27284",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1540,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">23",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.086251,
-          36.105748
         ]
       }
     },
