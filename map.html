@@ -193,10 +193,18 @@
       },
       paint: {
         "text-color": "#ffffff",
+
+        // 🔵 Fondo redondeado
+        "text-background-color": domColorExpression,
+        "text-background-padding": 4,
+        "text-background-shape": "rounded-rectangle",
+
+        // (Opcional) halo suave para más contraste
         "text-halo-color": domColorExpression,
-        "text-halo-width": 12,
+        "text-halo-width": 1.5,
       }
     });
+
 
     map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
     map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
