@@ -12688,27 +12688,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "72fc2c23-ae47-5717-a1e3-a398c914dbe2",
-        "address": "5490-Scott-Ct-Ypsilanti-MI-48197",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1865,
-        "listed_at": "2026-03-02T20:30:08.000Z",
-        "days_on_market": "15",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.593998,
-          42.209666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "73153b0a-65f1-5084-a0dc-af0d493a5fc6",
         "address": "4012-Bridle-Ridge-Rd-Upper-Marlboro-MD-20772",
         "beds": 5,
@@ -18688,6 +18667,27 @@
         "coordinates": [
           -82.843393,
           39.911831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac16e943-935c-55bd-b5ca-159e40fe99fe",
+        "address": "4994-Highland-Oaks-Way-Se-Mableton-GA-30126",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3296,
+        "listed_at": "2026-03-17T16:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.531893,
+          33.834611
         ]
       }
     },
