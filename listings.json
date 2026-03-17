@@ -2167,6 +2167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
+        "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 864,
+        "listed_at": "2026-03-17T19:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43204,
+          27.094051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "120a6274-4dce-5c94-bbcc-a07fd1d502c9",
         "address": "5834-Waters-Edge-Dr-Fayetteville-NC-28314",
         "beds": 3,
@@ -12241,6 +12262,27 @@
         "coordinates": [
           -81.822595,
           30.221663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6d7e808e-020b-52a2-b502-6ec291b87fc9",
+        "address": "7020-Sweet-Creek-Rd-Duluth-GA-30097",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3846,
+        "listed_at": "2026-03-17T19:10:07.000Z",
+        "days_on_market": "10",
+        "current_price": 885000,
+        "price_label": "$885K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.168477,
+          34.039605
         ]
       }
     },
