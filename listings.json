@@ -17623,6 +17623,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9eb38b9f-ca36-5a94-b01e-7ee350e3b443",
+        "address": "511-W-Kanawha-Ave-Columbus-OH-43214",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1505,
+        "listed_at": "2026-03-17T23:30:07.000Z",
+        "days_on_market": ">24",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.032914,
+          40.071467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9eb6c80b-d76e-4183-a968-7d43c26029e7",
         "address": "4043-Mancini-Rd-Spartanburg-SC-29307",
         "beds": 4,
@@ -23308,6 +23329,27 @@
         "coordinates": [
           -81.51198,
           28.657751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9255408-6aa9-5293-ad90-1dd117f58ae2",
+        "address": "13312-Kempwood-Ln-Dallas-TX-75253",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1387,
+        "listed_at": "2026-03-17T23:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.599924,
+          32.682841
         ]
       }
     },
