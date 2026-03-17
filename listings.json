@@ -5359,6 +5359,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c1ab620-68dc-580a-9b4d-a83ab38165d7",
+        "address": "5817-S-Espana-St-Aurora-CO-80015",
+        "beds": 5,
+        "baths": 5,
+        "sqft": 4059,
+        "listed_at": "2026-03-17T18:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.760711,
+          39.610408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c2980f1-e0e1-54aa-9e0c-fabe0c879b0a",
         "address": "890-Morgan-Towne-Way-Venice-FL-34292",
         "beds": 4,
@@ -11758,6 +11779,27 @@
         "coordinates": [
           -84.708214,
           33.704328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6a999033-d6e4-5b83-b4e0-06ab062c0872",
+        "address": "304-Arlington-Rdg-Cary-NC-27513",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1796,
+        "listed_at": "2026-03-17T18:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.83478,
+          35.789299
         ]
       }
     },
