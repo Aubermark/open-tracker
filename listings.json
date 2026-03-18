@@ -5527,6 +5527,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d943462-0e51-50b3-9c64-91862c960f99",
+        "address": "3511-Countryview-Dr-Canal-Winchester-OH-43110",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1267,
+        "listed_at": "2026-03-18T20:00:07.000Z",
+        "days_on_market": ">24",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.828288,
+          39.910345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d9ea5cf-2571-5a0e-9ef5-9dec40cc5cc4",
         "address": "170-Camerons-Way-Covington-GA-30016",
         "beds": 3,
@@ -25450,6 +25471,27 @@
         "coordinates": [
           -80.850696,
           35.083863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec89be2d-a3f5-52e0-bcb2-3fda682dd4d5",
+        "address": "2922-Laurel-Mist-Ct-Kingwood-TX-77345",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2888,
+        "listed_at": "2026-03-18T20:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.169989,
+          30.080955
         ]
       }
     },
