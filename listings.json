@@ -7774,6 +7774,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46992c20-65b8-53c1-a67b-168a8d7f28a2",
+        "address": "8604-Ransco-Ct-North-Chesterfield-VA-23235",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1280,
+        "listed_at": "2026-03-18T16:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.555019,
+          37.47957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46e06013-6666-59c1-af0e-bfa8e4d0d3c6",
         "address": "4378-Mangrove-Bay-St-Las-Vegas-NV-89147",
         "beds": 4,
@@ -25177,27 +25198,6 @@
         "coordinates": [
           -96.526187,
           32.902092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eae247fb-52fa-4534-826f-eca87ee46363",
-        "address": "405-Oak-Meadow-Ln-Weatherford-TX-76085",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2576,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">24",
-        "current_price": 586000,
-        "price_label": "$586K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.619579,
-          32.884803
         ]
       }
     },
