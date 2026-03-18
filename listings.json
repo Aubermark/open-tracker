@@ -20311,6 +20311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9ea633f-4cdb-5a04-8762-fb9fcf1c9830",
+        "address": "1803-W-Kiowa-Cir-Mesa-AZ-85202",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1555,
+        "listed_at": "2026-03-18T16:00:09.000Z",
+        "days_on_market": "14",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.873588,
+          33.374826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9eb62ca-bdee-59ca-b11e-4db1be5dcb35",
         "address": "7912-Pine-St-Taylor-MI-48180",
         "beds": 3,
@@ -23917,6 +23938,27 @@
         "coordinates": [
           -93.359947,
           45.225068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e07e8ec0-c12f-5fbb-86f4-69848d115356",
+        "address": "2009-Trindle-Vine-Ln-Waxhaw-NC-28173",
+        "beds": 6,
+        "baths": 5.5,
+        "sqft": 4152,
+        "listed_at": "2026-03-18T16:00:09.000Z",
+        "days_on_market": ">24",
+        "current_price": 680000,
+        "price_label": "$680K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.676255,
+          34.967836
         ]
       }
     },
