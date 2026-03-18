@@ -11176,27 +11176,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "650125e0-e7a2-42c9-9de1-8a3d6d9e3dbe",
-        "address": "3017-Paradise-Capri-Dr-Katy-TX-77493",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1883,
-        "listed_at": "2026-03-09T19:20:06.000Z",
-        "days_on_market": "9",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.855782,
-          29.866709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "65323802-6bae-5ccb-80c3-2cd3c7c41f36",
         "address": "2840-Meridian-Dr-Dacula-GA-30019",
         "beds": 4,
@@ -18772,6 +18751,27 @@
         "coordinates": [
           -119.161978,
           46.258619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa07d7d4-8aa1-5c3b-8cd2-44279cbb2f4a",
+        "address": "1600-Desperado-Rd-Fort-Worth-TX-76131",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1872,
+        "listed_at": "2026-03-18T21:50:07.000Z",
+        "days_on_market": ">24",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335149,
+          32.893935
         ]
       }
     },
