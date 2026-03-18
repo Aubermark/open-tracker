@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f60efb3-c15f-5d1c-9d85-c839e87eb4b9",
+        "address": "22506-Elkana-Deane-Ln-Katy-TX-77449",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1344,
+        "listed_at": "2026-03-18T13:40:07.000Z",
+        "days_on_market": "12",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.76212,
+          29.807708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f617872-ae9b-54af-8bc1-e66e8c6bd3ae",
         "address": "5924-Mc-Dowell-Run-Dr-Huntersville-NC-28078",
         "beds": 3,
