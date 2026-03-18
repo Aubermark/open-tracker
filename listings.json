@@ -8152,6 +8152,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "48a2f16d-1e45-4f6f-9533-d35916a6274d",
+        "address": "501-Vantage-Dr-Hutto-TX-78634",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2500,
+        "listed_at": "2026-03-18T19:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.526527,
+          30.530423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4909c805-29ee-4081-aa1c-5cdc80b79160",
         "address": "2415-Fir-Dr-Greenfield-IN-46140",
         "beds": 5,
