@@ -11092,6 +11092,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64fc2fd0-e23c-56da-a81e-d5294ef1b960",
+        "address": "2190-Love-Ln-Florissant-MO-63031",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1625,
+        "listed_at": "2026-03-18T18:10:07.000Z",
+        "days_on_market": ">24",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.329763,
+          38.813714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "650125e0-e7a2-42c9-9de1-8a3d6d9e3dbe",
         "address": "3017-Paradise-Capri-Dr-Katy-TX-77493",
         "beds": 4,
