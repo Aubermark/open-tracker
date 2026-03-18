@@ -11092,6 +11092,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63d8abaf-9c93-5757-a7ed-2eea0439036b",
+        "address": "",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 992,
+        "listed_at": "2026-03-18T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 99000,
+        "price_label": "$99K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.982287,
+          34.941301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64505ce5-09e7-58d0-8213-bc36b37e689a",
         "address": "136-Victor-Cir-Nw-Atlanta-GA-30314",
         "beds": 3,
@@ -11464,6 +11485,27 @@
         "coordinates": [
           -76.980839,
           38.767597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "67138300-8dd2-5a65-98f7-06b1f8f7b777",
+        "address": "1038-Cash-St-Alvin-TX-77511",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1648,
+        "listed_at": "2026-03-18T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.253366,
+          29.441293
         ]
       }
     },
@@ -26899,27 +26941,6 @@
         "coordinates": [
           -93.209041,
           44.655085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fad01005-d22c-5c65-8eef-3b6449834fb2",
-        "address": "112-Lucerne-Ln-Clarksville-TN-37040",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2059,
-        "listed_at": "2026-02-26T18:30:08.000Z",
-        "days_on_market": "20",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.305633,
-          36.596523
         ]
       }
     },
