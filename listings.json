@@ -1369,6 +1369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0acd8162-a8f1-4198-a330-d0975856b0db",
+        "address": "129-Amy-Aly-San-Antonio-TX-78253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1922,
+        "listed_at": "2026-03-18T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.809725,
+          29.407961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0afd743d-0fec-57b2-847a-f0c9c1e8eee3",
         "address": "9618-Tamalpais-Dr-Dallas-TX-75217",
         "beds": 3,
@@ -3757,27 +3778,6 @@
         "coordinates": [
           -95.31072,
           30.13488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1f60efb3-c15f-5d1c-9d85-c839e87eb4b9",
-        "address": "22506-Elkana-Deane-Ln-Katy-TX-77449",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1344,
-        "listed_at": "2026-03-18T13:40:07.000Z",
-        "days_on_market": "12",
-        "current_price": 242000,
-        "price_label": "$242K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.76212,
-          29.807708
         ]
       }
     },
@@ -13018,6 +13018,27 @@
         "coordinates": [
           -83.990529,
           34.398826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7579ba12-3c62-53d8-9d52-ab7a72ece72b",
+        "address": "3694-Foxdale-Ct-Amelia-OH-45102",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2488,
+        "listed_at": "2026-03-18T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.229493,
+          39.047358
         ]
       }
     },
