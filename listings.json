@@ -12163,6 +12163,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bf6c914-de1e-5774-8f58-47560c59e597",
+        "address": "50-Deer-Grove-Dr-Saint-Peters-MO-63376",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1206,
+        "listed_at": "2026-03-18T10:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.657124,
+          38.788358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bf7fb43-ea8d-5033-9bda-cfbb524c4602",
         "address": "10133-Chapel-Glen-Ter-Fort-Worth-TX-76116",
         "beds": 3,
