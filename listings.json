@@ -17623,6 +17623,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9d593fb0-2d55-5993-9963-b30571cc1832",
+        "address": "130-Hyrne-Dr-Goose-Creek-SC-29445",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2148,
+        "listed_at": "2026-03-18T21:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 387000,
+        "price_label": "$387K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.020327,
+          33.03455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9dbb58cf-5ed0-5bea-aa04-b47fbb0f0b9a",
         "address": "1841-Highway-138-Monroe-GA-30655",
         "beds": 3,
@@ -23461,27 +23482,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
-        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1069,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">24",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.200266,
-          33.786085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dabdfe7f-382d-5bbc-958d-7461c734b3fc",
         "address": "607-Dallas-Cir-Folkston-GA-31537",
         "beds": 3,
@@ -26605,6 +26605,27 @@
         "coordinates": [
           -117.165394,
           32.895614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6b3ca09-43f3-5f7d-8be2-ce4a38da10e3",
+        "address": "4003-Duran-Ln-Auburn-GA-30011",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2954,
+        "listed_at": "2026-03-18T21:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.863646,
+          34.039901
         ]
       }
     },
