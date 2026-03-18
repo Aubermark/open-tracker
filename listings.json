@@ -739,6 +739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "058051ed-c8a9-534f-b42c-31aa7a427d9b",
+        "address": "309-Se-Shawn-Ct-Blue-Springs-MO-64014",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1760,
+        "listed_at": "2026-03-18T15:10:07.000Z",
+        "days_on_market": "22",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.264836,
+          38.991532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05b5417d-5e93-4321-96a5-2a4baa8020ae",
         "address": "8513-Lilias-Cir-Jacksonville-FL-32219",
         "beds": 3,
