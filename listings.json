@@ -11827,6 +11827,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68c683e6-b982-5d92-9388-37a7477dff83",
+        "address": "312-N-84th-Pl-Mesa-AZ-85207",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 892,
+        "listed_at": "2026-03-18T23:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.649238,
+          33.420807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68ff9af6-00f5-5c6e-ac07-9ed9ad9aa255",
         "address": "2692-E-Silk-Oak-Dr-Tempe-AZ-85281",
         "beds": 2,
@@ -17848,6 +17869,27 @@
         "coordinates": [
           -97.310268,
           32.865885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f174051-3f2e-4129-9f9f-b07223586a71",
+        "address": "333-Oakhaven-Dr-Holly-Springs-NC-27540",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2822,
+        "listed_at": "2026-03-18T23:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91728,
+          35.564448
         ]
       }
     },
