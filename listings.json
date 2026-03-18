@@ -22642,6 +22642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0900c6c-54cc-5017-af35-afbd520a4774",
+        "address": "2722-Randal-Way-Kissimmee-FL-34743",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1941,
+        "listed_at": "2026-03-18T19:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.331954,
+          28.337985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d09d1c54-c50e-5161-a888-b4b2007ecf0c",
         "address": "207-Wild-Geese-Way-Travelers-Rest-SC-29690",
         "beds": 4,
