@@ -9979,6 +9979,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b2aac5b-7eea-4ae6-9acf-6883e9f2493f",
+        "address": "222-Spruce-Lake-Rd-Huffman-TX-77336",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1615,
+        "listed_at": "2026-03-18T20:10:24.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.110938,
+          30.007263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b66f993-0689-5898-b8ee-03877c19a8ce",
         "address": "2158-Joseph-Hewes-Ct-Orange-Park-FL-32073",
         "beds": 3,
