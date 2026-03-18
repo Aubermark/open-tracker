@@ -1348,6 +1348,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a460dfd-3ea7-598a-9109-f09e8cebc4ae",
+        "address": "38060-N-Bonnie-Ln-Queen-Creek-AZ-85140",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1743,
+        "listed_at": "2026-03-18T22:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.559652,
+          33.224799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0aab0761-a3b1-55ab-a413-8997e3e7cd24",
         "address": "2811-Iveywood-Dr-Monroe-NC-28110",
         "beds": 4,
@@ -10855,6 +10876,27 @@
         "coordinates": [
           -112.289373,
           33.713109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "623b4965-184a-5d14-8202-c56910a58c99",
+        "address": "4241-Grady-Smith-Rd-Loganville-GA-30052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1418,
+        "listed_at": "2026-03-18T22:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.842319,
+          33.861916
         ]
       }
     },
