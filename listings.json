@@ -6787,6 +6787,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b4ebbfd-0792-5bbc-9374-863f580e60a5",
+        "address": "14-Muskogee-Xing-Dallas-GA-30132",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3212,
+        "listed_at": "2026-03-18T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.852668,
+          33.997766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b55b9dd-4721-5f6c-9b55-a35248252251",
         "address": "3740-Konica-Ct-Las-Vegas-NV-89129",
         "beds": 3,
@@ -15916,6 +15937,27 @@
         "coordinates": [
           -83.666414,
           42.961247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8cf0ce93-4b86-5b75-8c12-c66089b110b9",
+        "address": "1203-Bristolwood-St-Brandon-FL-33510",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-03-18T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.312138,
+          27.95839
         ]
       }
     },
