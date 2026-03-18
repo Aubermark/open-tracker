@@ -19219,27 +19219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "afbbaf97-5bb2-5321-875c-7523b18fcc50",
-        "address": "1690-Sparkleberry-Dr-Clarksville-TN-37042",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1330,
-        "listed_at": "2026-03-13T18:23:04.000Z",
-        "days_on_market": "5",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.428527,
-          36.513789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "afe70faa-c925-5fbe-adf0-c3c9870d2e5a",
         "address": "2300-E-Magma-Rd-Unit-115-San-Tan-Valley-AZ-85143",
         "beds": 3,
@@ -24820,6 +24799,27 @@
         "coordinates": [
           -78.882904,
           35.991228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e7a2bea7-9c43-58af-b8fa-9aca2d1eddcc",
+        "address": "321-Beacon-Hill-Dr-Allen-TX-75013",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3133,
+        "listed_at": "2026-03-18T17:00:08.000Z",
+        "days_on_market": ">24",
+        "current_price": 608000,
+        "price_label": "$608K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.704409,
+          33.104357
         ]
       }
     },
