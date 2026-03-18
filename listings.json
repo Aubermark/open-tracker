@@ -4519,27 +4519,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "25b445f5-17da-5a28-88ac-ab3253c66439",
-        "address": "3020-Camden-Creek-Dr-Raleigh-NC-27610",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1091,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">24",
-        "current_price": 277000,
-        "price_label": "$277K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.623183,
-          35.738986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "25c7a12d-e750-538f-89a4-4d74e07006f3",
         "address": "7011-Towne-Lake-Rd-Riverview-FL-33578",
         "beds": 3,
@@ -25765,6 +25744,27 @@
         "coordinates": [
           -90.287494,
           38.530799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eea2ea3f-5ff2-50d0-b620-4c3a9dfc6d99",
+        "address": "813-Copper-Beech-Ln-Wake-Forest-NC-27587",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3514,
+        "listed_at": "2026-03-18T07:29:36.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.468512,
+          35.977182
         ]
       }
     },
