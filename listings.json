@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5404f3a3-00ed-5915-b9e1-2ccafe047c09",
+        "address": "930-Fontmore-Rd-Apt-C-Colorado-Springs-CO-80904",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1509,
+        "listed_at": "2026-03-18T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.864787,
+          38.86258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "543e9b86-07cd-5a5a-be6b-dfed7fd2d327",
         "address": "10260-E-57th-Pl-Denver-CO-80238",
         "beds": 4,
