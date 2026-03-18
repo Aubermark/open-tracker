@@ -2335,6 +2335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "133538c1-fa25-532a-95c0-f105ce0b5d0d",
+        "address": "1045-James-Dr-Kissimmee-FL-34759",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2184,
+        "listed_at": "2026-03-18T17:40:11.000Z",
+        "days_on_market": ">24",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.512128,
+          28.039522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1335ac21-f8c9-5f83-bc80-decbe0c3bf5e",
         "address": "135-Forest-Lake-Way-Fayetteville-GA-30215",
         "beds": 4,
@@ -15790,6 +15811,27 @@
         "coordinates": [
           -83.950759,
           33.532831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8c9bc7ef-30e9-540c-8c18-f6eed86cf0b3",
+        "address": "4483-Columbine-Ave-Burton-MI-48529",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1040,
+        "listed_at": "2026-03-18T17:40:10.000Z",
+        "days_on_market": "0",
+        "current_price": 177000,
+        "price_label": "$177K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.666414,
+          42.961247
         ]
       }
     },
