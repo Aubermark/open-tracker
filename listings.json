@@ -3511,6 +3511,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1cff99ea-7796-531d-a119-92e6582f2c2a",
+        "address": "8433-Upland-Ln-N-Maple-Grove-MN-55311",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3699,
+        "listed_at": "2026-03-18T12:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.481237,
+          45.107795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d506238-7985-500a-a98b-8c4c8eef1ada",
         "address": "4917-Laura-Jeanne-Blvd-#-52-Murfreesboro-TN-37129",
         "beds": 2,
