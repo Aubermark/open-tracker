@@ -21214,6 +21214,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bfa54a3d-2807-5d6f-9e25-a8c2471c68e0",
+        "address": "3450-E-Columbine-Dr-Phoenix-AZ-85032",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-03-18T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 576000,
+        "price_label": "$576K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.006856,
+          33.600863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
         "address": "5202-Oster-Dr-Killeen-TX-76542",
         "beds": 3,
