@@ -12604,6 +12604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71487be9-7470-4e7d-b458-c5fae95e8b25",
+        "address": "6921-W-Gwen-St-Laveen-AZ-85339",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2166,
+        "listed_at": "2026-03-18T16:40:07.000Z",
+        "days_on_market": "8",
+        "current_price": 416000,
+        "price_label": "$416K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.207133,
+          33.364739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71696adb-f70f-5a80-9ba4-f8aa84eae203",
         "address": "101-Country-Hills-Dr-Hendersonville-TN-37075",
         "beds": 4,
