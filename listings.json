@@ -18001,6 +18001,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a3a04e22-881f-5c2d-ac4c-ec142fde5f80",
+        "address": "3186-Laurel-Way-Snellville-GA-30078",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2137,
+        "listed_at": "2026-03-18T19:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.000144,
+          33.835614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3a6dea9-2ca9-5b0b-91c9-9b1ac421e4e8",
         "address": "581-Braxton-Blvd-Fayetteville-NC-28311",
         "beds": 4,
@@ -23098,6 +23119,27 @@
         "coordinates": [
           -84.133215,
           33.637502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d5d185fc-376e-5d36-99ee-1416a224ebaa",
+        "address": "1013-Royal-Ln-Celina-TX-75009",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1660,
+        "listed_at": "2026-03-18T19:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768931,
+          33.2817
         ]
       }
     },
