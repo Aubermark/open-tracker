@@ -17623,6 +17623,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b9d901a-3616-5f01-8b1a-1b30d261e113",
+        "address": "4604-Vista-Meadows-Dr-Fort-Worth-TX-76244-17733353",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2416,
+        "listed_at": "2026-03-19T15:00:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.287323,
+          32.920455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9badbf03-e3d6-54a7-949e-7e71245810bd",
         "address": "1622-Halliard-Dr-Lawrenceville-GA-30043",
         "beds": 4,
