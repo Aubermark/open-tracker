@@ -11428,27 +11428,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "65de49c5-128f-58ac-8853-697a332a9e5e",
-        "address": "112-Wesley-Ct-Lexington-SC-29073",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2155,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">25",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.190851,
-          33.961221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "65e6684f-2180-5d99-b272-111046b3f076",
         "address": "4051-Gordon-Ct-Winston-Salem-NC-27104",
         "beds": 3,
@@ -13690,6 +13669,27 @@
         "coordinates": [
           -94.425107,
           39.025285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78ccc8b2-8cee-53cb-ae95-c9e399dd2569",
+        "address": "12015-Landen-Dr-Charlotte-NC-28277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1975,
+        "listed_at": "2026-03-19T17:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.798231,
+          35.037599
         ]
       }
     },
@@ -15979,6 +15979,27 @@
         "coordinates": [
           -97.204051,
           32.859652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8bc86d52-c7e8-5f3f-8eae-e7bdc2b612d1",
+        "address": "2912-S-Price-Rd-Tempe-AZ-85282",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1476,
+        "listed_at": "2026-03-19T17:20:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.892205,
+          33.397581
         ]
       }
     },
@@ -20011,27 +20032,6 @@
         "coordinates": [
           -96.743457,
           33.098424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b42575c1-119b-59b5-a5d4-ed7b7a5092ff",
-        "address": "42-Palisades-Pkwy-Oak-Ridge-TN-37830",
-        "beds": 5,
-        "baths": 5.5,
-        "sqft": 4958,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": "0",
-        "current_price": 830000,
-        "price_label": "$830K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.209699,
-          36.038293
         ]
       }
     },
@@ -27424,6 +27424,27 @@
         "coordinates": [
           -93.209041,
           44.655085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fab0e5b7-a143-57ba-86d2-c5c83d56ec81",
+        "address": "5105-Williamette-Ln-Killeen-TX-76549",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2160,
+        "listed_at": "2026-03-19T17:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.796873,
+          31.084878
         ]
       }
     },
