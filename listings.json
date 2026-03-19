@@ -18211,6 +18211,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a078ee44-a3b9-5175-8e54-b1f50db14d1e",
+        "address": "27-Glenna-Dr-Saint-Peters-MO-63376",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1535,
+        "listed_at": "2026-03-19T18:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.618574,
+          38.777307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a08cba2b-f11a-59a2-9293-2f22dd76bba9",
         "address": "318-Carson-Ct-Lexington-SC-29073",
         "beds": 3,
@@ -23896,6 +23917,27 @@
         "coordinates": [
           -110.973976,
           32.146712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9a2cce2-df84-5ece-a3eb-76b40c8b1828",
+        "address": "3416-Silvercrest-Dr-Texas-City-TX-77591",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1531,
+        "listed_at": "2026-03-19T18:20:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033677,
+          29.416979
         ]
       }
     },
