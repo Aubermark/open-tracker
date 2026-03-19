@@ -12919,6 +12919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71ace307-bc87-5d13-bc8b-aa526d967a95",
+        "address": "7700-Meadowdale-Ln-Charlotte-NC-28212",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1920,
+        "listed_at": "2026-03-19T17:40:07.000Z",
+        "days_on_market": "21",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73454,
+          35.189367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71b7da04-b0b7-534f-996c-52916f98bbfd",
         "address": "10-King-Dr-Carrollton-GA-30116",
         "beds": 3,
