@@ -2398,6 +2398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "134758ca-0ec7-5529-aaba-95ab78f86859",
+        "address": "2774-Emanuel-Church-Rd-West-Columbia-SC-29170",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1561,
+        "listed_at": "2026-03-19T16:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.157016,
+          33.941767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13686eb1-f4b0-5a01-98d9-d76f4ff7659d",
         "address": "4408-Waxhaw-Indian-Trail-Rd-Indian-Trail-NC-28079",
         "beds": 4,
@@ -25114,6 +25135,27 @@
         "coordinates": [
           -82.197654,
           26.916942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e6739995-92bd-5466-8951-e8382c22ffbb",
+        "address": "8402-Trail-Lake-Dr-Rowlett-TX-75088",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2627,
+        "listed_at": "2026-03-19T16:10:09.000Z",
+        "days_on_market": ">25",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.519864,
+          32.904887
         ]
       }
     },
