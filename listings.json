@@ -12268,6 +12268,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b99f71c-98af-50d9-9d31-9db9b762e241",
+        "address": "3464-Pinebrook-Dr-Dallas-TX-75241",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1152,
+        "listed_at": "2026-03-19T19:50:09.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.766318,
+          32.666269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bbaa937-5b34-4121-9704-d28a59c8c9e0",
         "address": "83-Oak-Edge-Ln-Greer-SC-29651",
         "beds": 4,
