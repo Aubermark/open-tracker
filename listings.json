@@ -4750,6 +4750,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2799377f-f15f-5166-82f8-5009a9f4c482",
+        "address": "11465-Cherry-Dr-Thornton-CO-80233",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2081,
+        "listed_at": "2026-03-19T21:00:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 538000,
+        "price_label": "$538K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.928127,
+          39.903391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "283be79a-0b5a-5497-85a9-1364535f8388",
         "address": "2622-Cleveland-Ave-Township-Of-Washington-NJ-07676",
         "beds": 3,
@@ -7348,27 +7369,6 @@
         "coordinates": [
           -81.65706,
           27.922154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "425c569b-d0c1-5172-ae75-a96e4f24a28f",
-        "address": "2077-Bankwell-Rd-Blythewood-SC-29016",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2081,
-        "listed_at": "2026-03-04T07:33:49.000Z",
-        "days_on_market": "15",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.974056,
-          34.158735
         ]
       }
     },
