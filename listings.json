@@ -7375,6 +7375,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41d6f3cb-e502-5d91-888b-2adca377a484",
+        "address": "4794-Vise-Rd-Pinson-AL-35126",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1767,
+        "listed_at": "2026-03-19T13:50:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.663506,
+          33.718902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "424681a4-9f89-577a-a8cc-55543393b407",
         "address": "19642-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 3,
