@@ -27850,6 +27850,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fe404b78-92dc-5fde-9f25-aa8484a26b62",
+        "address": "187-Moonlight-Pl-Kyle-TX-78640",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1519,
+        "listed_at": "2026-03-19T21:10:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 253000,
+        "price_label": "$253K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.847983,
+          29.957698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe469b0a-69ce-52f0-892a-917a849c7f72",
         "address": "1370-Providence-Dr-Lawrenceville-GA-30044",
         "beds": 5,
