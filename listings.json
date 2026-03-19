@@ -7606,6 +7606,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "444b4fc8-1702-53cf-9d21-1dd5622a04f2",
+        "address": "4409-Tanglewood-Estates-Dr-Leander-TX-78641",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2868,
+        "listed_at": "2026-03-19T21:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 606000,
+        "price_label": "$606K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.77045,
+          30.566296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "446fa5c5-6cdd-5d1f-b507-4e79d4b81a39",
         "address": "1666-Sparkleberry-Dr-Clarksville-TN-37042",
         "beds": 3,
@@ -12808,6 +12829,27 @@
         "coordinates": [
           -80.296691,
           35.696515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "70b4386c-29cb-50e3-a6ec-dcc402cef52c",
+        "address": "8615-Virginia-Cir-N-St-Louis-Park-MN-55426",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1800,
+        "listed_at": "2026-03-19T21:50:07.000Z",
+        "days_on_market": "10",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.389868,
+          44.957732
         ]
       }
     },
@@ -20578,6 +20620,27 @@
         "coordinates": [
           -80.213722,
           26.193331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8c3be48-58b4-54dd-a590-c2747bc6b8e4",
+        "address": "309-Cedar-Glade-Ct-Lebanon-TN-37090",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1772,
+        "listed_at": "2026-03-19T21:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.397042,
+          36.187767
         ]
       }
     },
