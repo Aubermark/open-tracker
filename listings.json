@@ -1516,27 +1516,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0bd65869-b3ee-5123-8b6a-a6973baa747d",
-        "address": "4705-Beechwood-Rd-Cincinnati-OH-45244",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1214,
-        "listed_at": "2026-03-17T19:30:09.000Z",
-        "days_on_market": "13",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.302511,
-          39.117532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0bfd84f2-7e96-59a4-8fc6-c30ceaaeff0b",
         "address": "23322-Greenway-Creek-Ln-Spring-TX-77373-17811672",
         "beds": 3,
@@ -4660,6 +4639,27 @@
         "coordinates": [
           -97.188325,
           32.709233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "26f65bad-8c80-5c95-b50d-8b3b4a203abe",
+        "address": "14600-E-33rd-St-S-Independence-MO-64055",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1364,
+        "listed_at": "2026-03-19T15:10:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.407495,
+          39.060467
         ]
       }
     },
