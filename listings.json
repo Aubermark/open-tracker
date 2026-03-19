@@ -6094,6 +6094,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33c1071c-764d-567a-bdf2-7b20c1f58a1d",
+        "address": "202-Wild-Oak-Run-Houston-TX-77094",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3252,
+        "listed_at": "2026-03-19T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 576000,
+        "price_label": "$576K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7006,
+          29.781896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3409f8be-457f-5a60-b141-0caa5dfab575",
         "address": "913-Clack-Dr-Garland-TX-75044",
         "beds": 4,
