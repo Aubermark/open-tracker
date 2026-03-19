@@ -12289,6 +12289,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b36fa80-6b9f-5998-b8f0-9b87d1dc7e8f",
+        "address": "510-Carter-Ridge-Dr-Reidsville-NC-27320",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1623,
+        "listed_at": "2026-03-19T19:00:09.000Z",
+        "days_on_market": "23",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.698249,
+          36.346408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b956f6e-9021-5910-9c15-47e198d6cb9b",
         "address": "863-Langley-View-Ct-Loganville-GA-30052",
         "beds": 4,
@@ -18268,6 +18289,27 @@
         "coordinates": [
           -96.844248,
           32.539691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1a6634c-5863-403d-80c6-f959acaa5a30",
+        "address": "9443-Gulf-Shore-Ter-Parrish-FL-34219",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2319,
+        "listed_at": "2026-03-19T19:00:09.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.475228,
+          27.5994
         ]
       }
     },
