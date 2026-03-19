@@ -18400,27 +18400,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a437c8fe-e604-564c-b70c-1248bfd9037a",
-        "address": "2821-Edgewood-Ave-Burlington-NC-27215",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1746,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">25",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.491163,
-          36.081678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a45dc6ad-c33e-52d3-8d9b-fe4c860b2c17",
         "address": "1101-E-Morehead-St-Apt-33-Charlotte-NC-28204",
         "beds": 2,
@@ -20557,6 +20536,27 @@
         "coordinates": [
           -92.469098,
           43.987122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b912b37f-d958-4233-8f04-f09de40bf062",
+        "address": "9423-Gulf-Shore-Ter-Parrish-FL-34219",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2241,
+        "listed_at": "2026-03-19T15:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.474977,
+          27.599133
         ]
       }
     },
@@ -22993,6 +22993,27 @@
         "coordinates": [
           -82.29059,
           28.264647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cfefca45-8b7a-5008-a061-5840c8ea3172",
+        "address": "945-Countryside-Dr-Troy-MO-63379",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1700,
+        "listed_at": "2026-03-19T15:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.987664,
+          38.973118
         ]
       }
     },
