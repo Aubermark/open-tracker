@@ -8782,6 +8782,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ebe2275-81ae-5eee-9956-19bc4645ddb7",
+        "address": "10125-Herons-Rise-St-Las-Vegas-NV-89141",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2667,
+        "listed_at": "2026-03-19T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.225111,
+          36.005537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f111543-5611-58c4-89ba-f63f7d265c05",
         "address": "4028-Nations-Dr-Douglasville-GA-30135",
         "beds": 5,
@@ -22054,27 +22075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c647a57e-b0af-5019-98e3-808197163d50",
-        "address": "712-Spring-Lake-Loop-Simpsonville-SC-29681",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2095,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">25",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.225739,
-          34.800711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c6a86388-9161-583e-b2b8-11cf107fac88",
         "address": "1021-Purple-Verbena-Ct-Zebulon-NC-27597",
         "beds": 4,
@@ -25303,6 +25303,27 @@
         "coordinates": [
           -82.368915,
           28.145892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e75ab798-68a5-5d19-919c-d31f7910e6e4",
+        "address": "29467-Leemoor-Dr-Southfield-MI-48076",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1979,
+        "listed_at": "2026-03-19T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.250193,
+          42.505336
         ]
       }
     },
