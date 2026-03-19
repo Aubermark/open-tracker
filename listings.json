@@ -6934,6 +6934,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c1c26f6-5f48-56be-89f7-1c19c6274f97",
+        "address": "15603-Lakewood-Terrace-Dr-Tomball-TX-77377",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2697,
+        "listed_at": "2026-03-19T22:30:07.000Z",
+        "days_on_market": ">25",
+        "current_price": 389000,
+        "price_label": "$389K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.594612,
+          30.00141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c45c44d-2bff-5441-a5dd-50942193d044",
         "address": "1300-Green-Turf-Ln-Elgin-SC-29045",
         "beds": 5,
