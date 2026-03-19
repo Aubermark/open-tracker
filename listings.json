@@ -16699,6 +16699,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "921b9423-52c9-5a6e-8581-c8cb43c9f91c",
+        "address": "8183-Henslowe-Ave-S-Cottage-Grove-MN-55016",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 976,
+        "listed_at": "2026-03-19T13:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.949634,
+          44.831185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92864c86-7685-5888-820a-9643432c5197",
         "address": "4332-R-E-Smith-Dr-West-Chester-OH-45069",
         "beds": 3,
