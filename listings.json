@@ -14284,27 +14284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7ea0c5ca-3ee3-5859-af8b-baa9f5527605",
-        "address": "7511-Irongate-Dr-Hixson-TN-37343",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2292,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">25",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.204372,
-          35.186464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7ef3bf57-fcf8-567e-9041-19394f7fbe61",
         "address": "2052-Leanne-Ct-Winter-Park-FL-32792",
         "beds": 4,
@@ -16252,6 +16231,27 @@
         "coordinates": [
           -122.632991,
           45.744145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8e961710-494d-5c5e-b8e1-4c827f757177",
+        "address": "264-Rose-St-Fillmore-CA-93015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2000,
+        "listed_at": "2026-03-19T16:30:07.000Z",
+        "days_on_market": "21",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.897282,
+          34.394165
         ]
       }
     },
@@ -25933,6 +25933,27 @@
         "coordinates": [
           -84.503771,
           39.214522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eccd834b-46e7-55f2-9a91-36035e2f77e5",
+        "address": "1103-Se-51st-Ave-Hillsboro-OR-97123",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2113,
+        "listed_at": "2026-03-19T16:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93077,
+          45.511207
         ]
       }
     },
