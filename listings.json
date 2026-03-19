@@ -14179,6 +14179,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d7e6fd2-de30-5989-a6e0-6ad86a2170d2",
+        "address": "9509-Grandview-Rd-Kansas-City-MO-64137",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-03-19T17:00:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.549443,
+          38.953448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dd55e82-0555-4cff-9f55-c7203a6cf94a",
         "address": "4234-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
@@ -14635,6 +14656,27 @@
         "coordinates": [
           -112.416457,
           33.590703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
+        "address": "8605-N-67th-Ln-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1480,
+        "listed_at": "2026-03-19T17:00:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.203721,
+          33.561227
         ]
       }
     },
@@ -19681,6 +19723,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b16598ca-7ce7-5a49-893f-fdc626c36aa2",
+        "address": "7604-S-Steele-St-Centennial-CO-80122",
+        "beds": 2,
+        "baths": 3.5,
+        "sqft": 1583,
+        "listed_at": "2026-03-19T17:00:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 369000,
+        "price_label": "$369K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.950227,
+          39.57846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b18a94ee-3c1a-5aa7-a141-50ec8130e826",
         "address": "7739-Inverness-Dr-Indianapolis-IN-46237",
         "beds": 4,
@@ -20368,6 +20431,27 @@
         "coordinates": [
           -81.609997,
           30.367599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b7b58b5b-776a-5364-9337-aafb6baffde1",
+        "address": "5230-E-Timrod-St-Tucson-AZ-85711-18013221",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1549,
+        "listed_at": "2026-03-19T17:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.880809,
+          32.215077
         ]
       }
     },
