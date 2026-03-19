@@ -2860,6 +2860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1699219b-2b30-57de-a0c4-c7822649f37b",
+        "address": "4507-Malvern-Rd-Durham-NC-27707",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1916,
+        "listed_at": "2026-03-19T19:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.958738,
+          35.929211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16a0be1e-6433-5349-bf47-814629ed055b",
         "address": "6057-Buena-Suerte-Rd-Yucca-Valley-CA-92284",
         "beds": 3,
@@ -9748,27 +9769,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "58ffb505-63de-5826-b9b5-179ff1cee707",
-        "address": "10401-W-Hutton-Dr-Sun-City-AZ-85351",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1917,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">25",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.283311,
-          33.635567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59450f27-cd5a-534b-9083-f0036937a570",
         "address": "20000-Mitchell-Pl-Unit-45-Denver-CO-80249",
         "beds": 3,
@@ -13837,27 +13837,6 @@
         "coordinates": [
           -111.619954,
           33.249464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7addab2b-57dd-5547-83f3-6f069d35c80a",
-        "address": "3739-Constancia-Dr-Green-Cove-Springs-FL-32043",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1764,
-        "listed_at": "2026-03-17T22:50:09.000Z",
-        "days_on_market": "2",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.702431,
-          30.004956
         ]
       }
     },
@@ -19423,6 +19402,27 @@
         "coordinates": [
           -111.70449,
           33.24956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae7279b2-601b-5594-a917-b158b1257862",
+        "address": "15311-Woodforest-Blvd-Channelview-TX-77530",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1646,
+        "listed_at": "2026-03-19T19:20:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.139332,
+          29.789181
         ]
       }
     },
