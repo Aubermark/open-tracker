@@ -12079,6 +12079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a5533c3-025a-5d53-8b4d-4de6a5ee4e13",
+        "address": "1067-Zophi-St-Nashville-TN-37216",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1392,
+        "listed_at": "2026-03-19T18:00:09.000Z",
+        "days_on_market": "0",
+        "current_price": 457000,
+        "price_label": "$457K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.740366,
+          36.205026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a55cf54-998c-5bfb-b815-317d23e32d61",
         "address": "7628-Alameda-Way-Keystone-Heights-FL-32656",
         "beds": 3,
@@ -19276,27 +19297,6 @@
         "coordinates": [
           -116.54499,
           33.869125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad04bf97-b68e-5efd-9e7f-5f253f14716d",
-        "address": "353-Chestnut-Grove-Ct-Clarksville-TN-37042",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1950,
-        "listed_at": "2026-03-10T17:30:07.000Z",
-        "days_on_market": "9",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.417066,
-          36.559262
         ]
       }
     },
