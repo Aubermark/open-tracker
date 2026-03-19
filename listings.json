@@ -7333,27 +7333,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "41d6f3cb-e502-5d91-888b-2adca377a484",
-        "address": "4794-Vise-Rd-Pinson-AL-35126",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1767,
-        "listed_at": "2026-03-19T13:50:08.000Z",
-        "days_on_market": ">25",
-        "current_price": 208000,
-        "price_label": "$208K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.663506,
-          33.718902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "424681a4-9f89-577a-a8cc-55543393b407",
         "address": "19642-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 3,
@@ -11086,6 +11065,27 @@
         "coordinates": [
           -78.906165,
           35.108586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "63280b26-c181-50a5-a487-d71c5a599ebe",
+        "address": "1207-Brashear-Ln-Cedar-Park-TX-78613",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1379,
+        "listed_at": "2026-03-19T15:50:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.847239,
+          30.51938
         ]
       }
     },
@@ -26332,6 +26332,27 @@
         "coordinates": [
           -105.091268,
           39.467519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f1f01634-e8a1-565b-9324-c987454143d5",
+        "address": "3910-Ivy-St-Sacramento-CA-95838",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 860,
+        "listed_at": "2026-03-19T15:50:08.000Z",
+        "days_on_market": ">25",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.427452,
+          38.63855
         ]
       }
     },
