@@ -13339,6 +13339,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7693869d-b825-532f-9328-6b8f9144ed05",
+        "address": "406-Landing-Place-Dr-Wendell-NC-27591",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1062,
+        "listed_at": "2026-03-19T19:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.375678,
+          35.775838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76c300a3-a444-5fca-9c3b-afc9f474183f",
         "address": "1920-Garnet-Gable-Ave-Las-Vegas-NV-89106",
         "beds": 3,
@@ -14887,27 +14908,6 @@
         "coordinates": [
           -86.722083,
           33.408898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "826202db-5633-5af5-9aad-2e0184266222",
-        "address": "3853-White-Pine-Rd-Snellville-GA-30039",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2003,
-        "listed_at": "2026-03-17T16:10:07.000Z",
-        "days_on_market": "2",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.016069,
-          33.804532
         ]
       }
     },
