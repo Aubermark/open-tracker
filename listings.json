@@ -15712,6 +15712,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "89f668bc-7618-5dd0-8874-17cc6c205b14",
+        "address": "42-Harris-Farm-Ct-Thomasville-NC-27360",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-03-19T20:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08734,
+          35.849109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
         "address": "16627-Carse-Ave-Harvey-IL-60426",
         "beds": 3,
