@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "315c42d5-f753-5f01-beb2-8465061def05",
+        "address": "8852-Cumbria-Ct-Jacksonville-FL-32219",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1856,
+        "listed_at": "2026-03-19T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.770686,
+          30.412591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
         "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
         "beds": 3,
