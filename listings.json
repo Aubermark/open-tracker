@@ -5779,6 +5779,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "306f6d7d-a859-53a0-9c4f-8d5faddc09cb",
+        "address": "8292-Triplefin-Way-Elk-Grove-CA-95757",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2559,
+        "listed_at": "2026-03-20T18:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.402691,
+          38.392157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3088283f-1ebb-5628-a226-71ad38ff1b4c",
         "address": "2618-Balsam-Ridge-Way-Fresno-TX-77545",
         "beds": 4,
@@ -11233,27 +11254,6 @@
         "coordinates": [
           -90.329763,
           38.813714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65053a50-9cea-5830-905b-c61fe5425640",
-        "address": "8403-Brazos-Pt-San-Antonio-TX-78252",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1369,
-        "listed_at": "2026-03-20T13:30:07.000Z",
-        "days_on_market": ">26",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.634988,
-          29.345956
         ]
       }
     },
