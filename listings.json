@@ -22117,6 +22117,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c670dbad-c0c6-5ecd-8b85-8f989d24f152",
+        "address": "302-Providence-Plantation-Cir-Columbia-SC-29203",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1357,
+        "listed_at": "2026-03-20T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.948751,
+          34.126319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6a86388-9161-583e-b2b8-11cf107fac88",
         "address": "1021-Purple-Verbena-Ct-Zebulon-NC-27597",
         "beds": 4,
@@ -23854,6 +23875,27 @@
         "coordinates": [
           -96.599924,
           32.682841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d949826b-7c06-427c-be91-3cd2e8f4228b",
+        "address": "19240-Gray-Horse-Dr-Foley-AL-36535",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1707,
+        "listed_at": "2026-03-20T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.695124,
+          30.365071
         ]
       }
     },
