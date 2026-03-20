@@ -24784,6 +24784,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e19f9b00-fdfe-5b78-addc-6172fbbbaaa5",
+        "address": "1258-Roman-Point-Dr-Norcross-GA-30093",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1520,
+        "listed_at": "2026-03-20T21:20:09.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.182667,
+          33.909477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e212c4df-8d49-5d7c-a98f-ab236516c37d",
         "address": "2807-Sack-Dr-W-Jacksonville-FL-32216",
         "beds": 3,
