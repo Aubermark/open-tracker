@@ -3427,6 +3427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c3ef2e2-9eef-53a3-8636-bdfc1c31a4e1",
+        "address": "802-San-Jacinto-Cir-Baytown-TX-77521",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1295,
+        "listed_at": "2026-03-20T16:30:08.000Z",
+        "days_on_market": "22",
+        "current_price": 192000,
+        "price_label": "$192K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.976731,
+          29.79824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c5a0b6a-0f6f-53f0-8e7d-d80bed16a3f6",
         "address": "990-Mulberry-Bay-Dr-Dacula-GA-30019",
         "beds": 5,
@@ -5563,27 +5584,6 @@
         "coordinates": [
           -95.432141,
           29.784819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2eb7173e-65ed-50d9-bcec-7835abf3c10c",
-        "address": "9907-Wildwood-Muse-Ct-Charlotte-NC-28273",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2312,
-        "listed_at": "2026-03-17T15:40:07.000Z",
-        "days_on_market": "3",
-        "current_price": 446000,
-        "price_label": "$446K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.974095,
-          35.156138
         ]
       }
     },
