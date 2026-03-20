@@ -4939,27 +4939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "290c927b-d94f-590f-a970-43930f610530",
-        "address": "8424-Painted-Wall-St-Las-Vegas-NV-89166",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3498,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 780000,
-        "price_label": "$780K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.310821,
-          36.313341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "291bce45-6bf6-58bb-9d14-cf8a9d8af405",
         "address": "9115-W-Hinsdale-Pl-Littleton-CO-80128",
         "beds": 4,
@@ -5416,6 +5395,27 @@
         "coordinates": [
           -104.962248,
           39.546302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2c8e8042-5c12-53ea-a502-0829980e1a69",
+        "address": "868-Scott-Rd-Riverdale-GA-30296",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-03-20T07:31:09.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.418446,
+          33.552256
         ]
       }
     },
@@ -7558,6 +7558,27 @@
         "coordinates": [
           -112.189414,
           33.511305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "43c32b40-7e4a-5c91-8706-382dd27a9bdb",
+        "address": "3945-Whisper-Fld-Schertz-TX-78108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1478,
+        "listed_at": "2026-03-20T07:31:09.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.22302,
+          29.61289
         ]
       }
     },
@@ -14452,6 +14473,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f437255-50f1-50c5-9d6c-9df5566aea75",
+        "address": "144-Dukes-Rd-Jackson-GA-30233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1180,
+        "listed_at": "2026-03-20T07:31:09.000Z",
+        "days_on_market": "0",
+        "current_price": 213000,
+        "price_label": "$213K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.901135,
+          33.38843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f59a639-6906-5722-840d-1ca64f2f2f03",
         "address": "35-Peter-St-Holliston-MA-01746",
         "beds": 4,
@@ -18562,6 +18604,27 @@
         "coordinates": [
           -80.797302,
           34.724466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a47d0e1f-d5f3-533f-96b4-65e885f0d1a1",
+        "address": "1803-Kent-Ave-Atlanta-GA-30338",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3503,
+        "listed_at": "2026-03-20T07:31:09.000Z",
+        "days_on_market": "0",
+        "current_price": 1070000,
+        "price_label": "$1.070M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.314292,
+          33.926894
         ]
       }
     },
