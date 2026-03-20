@@ -6178,27 +6178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3456ea8f-b214-4783-91b7-8034694f8aaa",
-        "address": "2091-W-Garland-Dr-San-Tan-Valley-AZ-85144",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2990,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.588915,
-          33.199895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "34c1743b-fcdb-5843-aff1-88ed31d771ac",
         "address": "4220-Boulder-Park-Dr-Euless-TX-76040",
         "beds": 3,
@@ -22468,6 +22447,27 @@
         "coordinates": [
           -83.891564,
           34.243329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ca40368f-501e-4c66-8a72-881b8d3afcb6",
+        "address": "360-Autumn-Pond-Dr-Blythewood-SC-29016",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2671,
+        "listed_at": "2026-03-20T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908545,
+          34.19203
         ]
       }
     },
