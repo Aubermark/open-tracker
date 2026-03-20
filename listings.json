@@ -14851,6 +14851,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81e22b00-6e66-5255-b3bd-2864f6e6f90e",
+        "address": "2175-Timberleaf-Cir-Ingleside-TX-78362",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-03-20T20:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.209086,
+          27.862537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "822bbdf9-49df-5185-9c1f-736a0e215a44",
         "address": "5501-Afton-Dr-Birmingham-AL-35242",
         "beds": 6,
