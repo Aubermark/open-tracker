@@ -13402,27 +13402,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "77337de8-fb9b-53c5-927c-a41615e4d0b8",
-        "address": "116-Sumner-Meadows-Ln-Hendersonville-TN-37075",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2175,
-        "listed_at": "2026-02-25T18:00:10.000Z",
-        "days_on_market": "23",
-        "current_price": 422000,
-        "price_label": "$422K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.617441,
-          36.327864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "77536343-0dc9-5c81-85ca-7613e0e30c88",
         "address": "33515-Forest-West-St-Magnolia-TX-77354",
         "beds": 3,
@@ -19633,6 +19612,27 @@
         "coordinates": [
           -86.099706,
           39.786567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0c74fa5-aaef-53bc-9ab4-4ae55f818227",
+        "address": "2418-Turpin-Dr-Orlando-FL-32837",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1399,
+        "listed_at": "2026-03-20T18:10:07.000Z",
+        "days_on_market": ">26",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.415302,
+          28.395135
         ]
       }
     },
