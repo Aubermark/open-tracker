@@ -5758,6 +5758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30146c13-6043-5ea9-b6a5-7dacb9e5c5fd",
+        "address": "2289-Sky-Island-Dr-Henderson-NV-89002",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1937,
+        "listed_at": "2026-03-20T21:10:09.000Z",
+        "days_on_market": "21",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.934884,
+          35.998843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3017d608-60df-5e41-b82d-cd8f2ae7efee",
         "address": "10120-Mount-Holly-Rd-Charlotte-NC-28214-14687126",
         "beds": 3,
