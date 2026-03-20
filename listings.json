@@ -823,6 +823,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0676da39-873f-55bf-8faf-7c79a73c0132",
+        "address": "3012-Hill-St-Round-Rock-TX-78664",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1363,
+        "listed_at": "2026-03-20T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.619191,
+          30.489285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06a4c315-ed25-54e3-8ce6-934e06ae2be0",
         "address": "9065-Cinnabay-Dr-Charlotte-NC-28216",
         "beds": 2,
