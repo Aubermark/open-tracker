@@ -11281,6 +11281,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65053a50-9cea-5830-905b-c61fe5425640",
+        "address": "8403-Brazos-Pt-San-Antonio-TX-78252",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1369,
+        "listed_at": "2026-03-20T13:30:07.000Z",
+        "days_on_market": ">26",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.634988,
+          29.345956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65323802-6bae-5ccb-80c3-2cd3c7c41f36",
         "address": "2840-Meridian-Dr-Dacula-GA-30019",
         "beds": 4,
