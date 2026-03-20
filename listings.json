@@ -23125,6 +23125,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfb2a575-fc08-5bfa-b4c4-cd19122b17d7",
+        "address": "100-Battery-Creek-Dr-Gaston-SC-29053",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1628,
+        "listed_at": "2026-03-20T15:20:08.000Z",
+        "days_on_market": "17",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14355,
+          33.853065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfefca45-8b7a-5008-a061-5840c8ea3172",
         "address": "945-Countryside-Dr-Troy-MO-63379",
         "beds": 3,
