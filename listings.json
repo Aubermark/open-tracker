@@ -12058,27 +12058,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6a3cf1be-1559-5467-8a14-ed9141da4821",
-        "address": "8265-Haskell-Dr-Cincinnati-OH-45239",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1262,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 197000,
-        "price_label": "$197K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.574171,
-          39.221265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6a5533c3-025a-5d53-8b4d-4de6a5ee4e13",
         "address": "1067-Zophi-St-Nashville-TN-37216",
         "beds": 2,
@@ -17932,6 +17911,27 @@
         "coordinates": [
           -86.680035,
           36.010696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9eb3645a-3dc1-409f-846b-9a4eb389e835",
+        "address": "9435-Gulf-Shore-Ter-Parrish-FL-34219",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2150,
+        "listed_at": "2026-03-20T17:00:09.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.474977,
+          27.599133
         ]
       }
     },
@@ -24925,27 +24925,6 @@
         "coordinates": [
           -106.5728,
           35.067789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e4a5033f-1dd6-5ca1-a3ff-413d6fa572f7",
-        "address": "8925-Brook-Hill-Ln-Fort-Worth-TX-76244",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3141,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 411000,
-        "price_label": "$411K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.292843,
-          32.903114
         ]
       }
     },
