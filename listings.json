@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27bb4631-5726-5bd3-a5b9-a22f65f01ab5",
+        "address": "4922-E-Lee-St-Tucson-AZ-85712",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 864,
+        "listed_at": "2026-03-20T20:50:08.000Z",
+        "days_on_market": ">26",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.887596,
+          32.241435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "283be79a-0b5a-5497-85a9-1364535f8388",
         "address": "2622-Cleveland-Ave-Township-Of-Washington-NJ-07676",
         "beds": 3,
