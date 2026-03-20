@@ -7060,6 +7060,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d6115ed-3c67-591e-8930-e25d7b370fb7",
+        "address": "266-Kendall-Dr-Winston-Salem-NC-27107",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1980,
+        "listed_at": "2026-03-20T16:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.228704,
+          36.020595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d976f84-0e79-58fc-bece-09252cb8bdd6",
         "address": "8915-Cinder-Ln-Huntersville-NC-28078",
         "beds": 4,
