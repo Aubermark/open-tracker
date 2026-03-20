@@ -7837,27 +7837,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "466669cb-2ff9-5f1c-8964-b9474337ac5c",
-        "address": "1587-S-Salem-Cir-Aurora-CO-80012",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1456,
-        "listed_at": "2026-03-17T22:00:07.000Z",
-        "days_on_market": "3",
-        "current_price": 456000,
-        "price_label": "$456K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.843788,
-          39.688196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "467bf7e3-dbc3-5ff9-bc32-2944817058e6",
         "address": "6817-Chickering-Rd-Fort-Worth-TX-76116",
         "beds": 4,
@@ -20053,6 +20032,27 @@
         "coordinates": [
           -104.740509,
           38.811596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b358e326-81cd-5b00-a8f6-64adf62bde02",
+        "address": "432-Leslie-Wood-Dr-Clarksville-TN-37040",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1975,
+        "listed_at": "2026-03-20T22:50:08.000Z",
+        "days_on_market": "15",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.314207,
+          36.592902
         ]
       }
     },
