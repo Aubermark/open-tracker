@@ -9286,27 +9286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "54c2f1f8-c040-5ef0-92c3-243f7fecbb93",
-        "address": "1414-Larchmont-Dr-Greensboro-NC-27405",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1181,
-        "listed_at": "2026-03-13T17:43:36.000Z",
-        "days_on_market": "7",
-        "current_price": 193000,
-        "price_label": "$193K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.739238,
-          36.09605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
         "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
         "beds": 3,
@@ -15124,27 +15103,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "85e3a55e-4a08-4b4e-adfc-450a50e3c545",
-        "address": "2522-S-Colosseum-Ct-New-Caney-TX-77357",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1681,
-        "listed_at": "2026-03-04T20:10:06.000Z",
-        "days_on_market": "16",
-        "current_price": 332000,
-        "price_label": "$332K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.154636,
-          30.181402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "85e4d8b3-755c-593d-b4ca-9fb5595c20ad",
         "address": "4902-W-Windrose-Dr-Glendale-AZ-85304",
         "beds": 3,
@@ -16462,6 +16420,27 @@
         "coordinates": [
           -83.888032,
           34.120508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9096158b-a13e-578f-8c21-bff8e9c6f24b",
+        "address": "10401-Fort-Teran-Trl-Crowley-TX-76036",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1747,
+        "listed_at": "2026-03-20T18:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.383714,
+          32.579146
         ]
       }
     },
@@ -22741,27 +22720,6 @@
         "coordinates": [
           -84.279341,
           33.595138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cdf84b0e-c44d-5bc3-bf2e-284cf5903db5",
-        "address": "5251-Timber-Race-Crse-Hollywood-SC-29449",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 3103,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 890000,
-        "price_label": "$890K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.153149,
-          32.760346
         ]
       }
     },
