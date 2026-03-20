@@ -4897,27 +4897,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28af68b3-fb52-535d-8dfa-5eead3eda4fe",
-        "address": "904-Memory-Ln-Mc-Kinney-TX-75070",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1899,
-        "listed_at": "2026-03-16T16:30:08.000Z",
-        "days_on_market": "19",
-        "current_price": 397000,
-        "price_label": "$397K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.740442,
-          33.195055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28de1f94-dfa6-4a44-bdc9-0f999fac84d6",
         "address": "8335-Lander-Ave-Ne-Elk-River-MN-55330",
         "beds": 4,
@@ -6025,6 +6004,27 @@
         "coordinates": [
           -80.921382,
           35.250789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "327b6cb0-0e72-5a99-9882-22f79f649d33",
+        "address": "6478-Creston-Ave-Las-Vegas-NV-89103",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1394,
+        "listed_at": "2026-03-20T23:30:07.000Z",
+        "days_on_market": ">27",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.233437,
+          36.111021
         ]
       }
     },
