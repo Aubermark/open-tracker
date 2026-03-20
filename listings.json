@@ -3364,27 +3364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1bc17611-bde8-5199-9f0e-9187969e7302",
-        "address": "104-S-Ranney-Way-Mooresville-NC-28117",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2357,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.833378,
-          35.608781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1bd4cb6c-31ed-55dd-84f6-d896899768dd",
         "address": "5806-Princeton-Run-Trl-Tucker-GA-30084",
         "beds": 4,
@@ -17218,6 +17197,27 @@
         "coordinates": [
           -95.800222,
           30.185996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "97d2136d-50ad-540f-9e51-455641af12fa",
+        "address": "3834-Regents-Way-Oviedo-FL-32765",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2547,
+        "listed_at": "2026-03-20T17:10:07.000Z",
+        "days_on_market": ">26",
+        "current_price": 506000,
+        "price_label": "$506K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.183435,
+          28.614245
         ]
       }
     },
