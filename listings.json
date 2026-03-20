@@ -16867,6 +16867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92d5bde9-4c5e-5ac5-a4dc-052ee06e6092",
+        "address": "406-E-Behrend-Dr-Phoenix-AZ-85024",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1116,
+        "listed_at": "2026-03-20T21:40:09.000Z",
+        "days_on_market": "0",
+        "current_price": 402000,
+        "price_label": "$402K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.068829,
+          33.665848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92f3b798-33bd-5cf2-be53-0d6882092b95",
         "address": "205-Trillium-Ave-Summerville-SC-29483",
         "beds": 3,
