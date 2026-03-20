@@ -10966,6 +10966,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "626446b0-7429-5a14-8dbe-1fac51351d24",
+        "address": "115-S-Withrow-Dr-Shelby-NC-28150",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1278,
+        "listed_at": "2026-03-20T16:01:38.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.642962,
+          35.409935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "629e5597-f4b2-5161-ac09-7c258c1e5662",
         "address": "7231-N-23rd-Ave-Phoenix-AZ-85021",
         "beds": 3,
@@ -12472,27 +12493,6 @@
         "coordinates": [
           -90.657124,
           38.788358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6bf7fb43-ea8d-5033-9bda-cfbb524c4602",
-        "address": "10133-Chapel-Glen-Ter-Fort-Worth-TX-76116",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1459,
-        "listed_at": "2026-03-05T18:40:06.000Z",
-        "days_on_market": "15",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.503103,
-          32.72466
         ]
       }
     },
