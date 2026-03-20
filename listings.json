@@ -7333,6 +7333,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41404ecb-e868-5ed2-92fe-340d565ed4d7",
+        "address": "217-Branchview-Dr-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2161,
+        "listed_at": "2026-03-20T20:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.884517,
+          34.157115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "415d25f6-7802-57f6-8aff-e67a9de69f58",
         "address": "138-Niven-Path-Jarrell-TX-76537",
         "beds": 5,
