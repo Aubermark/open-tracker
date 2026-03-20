@@ -14914,27 +14914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8269f639-6974-50da-8f75-6790dd58019d",
-        "address": "3141-Gardner-Park-Dr-Gastonia-NC-28054",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2045,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.129003,
-          35.252177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "826cfd70-b555-57f0-b916-e4f5fad03fca",
         "address": "603-Old-Paint-Rd-Raymore-MO-64083",
         "beds": 4,
@@ -19654,6 +19633,27 @@
         "coordinates": [
           -82.259148,
           27.891649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0576e8a-8d82-5a05-ab5e-b88ffc88c863",
+        "address": "3461-E-Fairmeadow-Dr-Lancaster-SC-29720",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1220,
+        "listed_at": "2026-03-20T15:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.684186,
+          34.702447
         ]
       }
     },
