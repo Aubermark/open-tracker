@@ -9958,6 +9958,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5aff4d74-e990-5fb6-ad64-7fa0d4bb3cd2",
+        "address": "8385-Apothic-Way-Sacramento-CA-95829",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1417,
+        "listed_at": "2026-03-20T15:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.365085,
+          38.453215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b05101a-aaf4-5827-a89f-c227482377e2",
         "address": "12117-Monaco-Dr-Brighton-CO-80602",
         "beds": 3,
@@ -19450,27 +19471,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "af48fd93-7151-5c3f-a00d-0f498eb8e6c7",
-        "address": "517-Sutherland-Way-Mc-Donough-GA-30253",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3280,
-        "listed_at": "2026-03-09T22:10:06.000Z",
-        "days_on_market": "11",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.183656,
-          33.50364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "af5b6ab0-c7af-5ca3-a919-ec56e018c99e",
         "address": "1407-Rose-Ave-Killeen-TX-76543",
         "beds": 3,
@@ -26017,27 +26017,6 @@
         "coordinates": [
           -80.743364,
           35.35796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ec90e8cd-1bfb-53d3-be0c-4855a1c9aa7a",
-        "address": "946-E-Leslie-Ave-San-Tan-Valley-AZ-85140",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1766,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.555701,
-          33.223148
         ]
       }
     },
