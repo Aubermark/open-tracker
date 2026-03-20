@@ -3574,6 +3574,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e395d6d-9389-5a4f-90dd-7abbff979661",
+        "address": "18133-W-Golden-Ln-Waddell-AZ-85355-6142899",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4067,
+        "listed_at": "2026-03-20T18:30:08.000Z",
+        "days_on_market": ">26",
+        "current_price": 636000,
+        "price_label": "$636K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.449455,
+          33.563652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e4f15f0-1d5b-5285-be11-912cf06f002b",
         "address": "1108-Herrin-Ave-Charlotte-NC-28205",
         "beds": 3,
@@ -22936,6 +22957,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cf08541f-01cc-5921-bad4-82dac72ad60b",
+        "address": "2880-Donnell-Dr-Unit-503-Round-Rock-TX-78664",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1745,
+        "listed_at": "2026-03-20T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.624636,
+          30.488771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cf1a9524-e39c-51ea-b541-c7fbb2374c33",
         "address": "5315-N-18th-St-Unit-3-Phoenix-AZ-85016",
         "beds": 2,
@@ -23833,6 +23875,27 @@
         "coordinates": [
           -95.033677,
           29.416979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da2d992f-4326-5460-be45-ee9fe6c6a769",
+        "address": "1176-Willow-Hill-Ave-Sacramento-CA-95834",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2235,
+        "listed_at": "2026-03-20T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.485192,
+          38.635621
         ]
       }
     },
