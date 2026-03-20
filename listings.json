@@ -15082,27 +15082,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "835dab8f-3734-5569-9aa7-1d3937754025",
-        "address": "125-River-Hills-Dr-Clayton-NC-27527-17125031",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1896,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">26",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.400357,
-          35.654418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "838ff700-778c-53a6-b599-eaf848f4e34b",
         "address": "3419-Router-Cmn-Fremont-CA-94538",
         "beds": 3,
@@ -17659,6 +17638,27 @@
         "coordinates": [
           -78.84594,
           35.948047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9aedf96b-5b7b-49e3-a883-be95a2a7c335",
+        "address": "127-Red-Birch-Ln-Warner-Robins-GA-31093",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2156,
+        "listed_at": "2026-03-20T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.702162,
+          32.651675
         ]
       }
     },
