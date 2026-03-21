@@ -5107,6 +5107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ae7f11b-2470-58d9-9168-5966e5829eb4",
+        "address": "1306-Morningside-Dr-Lake-Wales-FL-33853",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1236,
+        "listed_at": "2026-03-21T16:20:08.000Z",
+        "days_on_market": "18",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.558392,
+          27.90199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2afb8ba4-3bfa-56dc-806f-409957e8314f",
         "address": "14025-Brookgreen-Dr-Dallas-TX-75240",
         "beds": 2,
@@ -10624,6 +10645,27 @@
         "coordinates": [
           -82.31387,
           34.693023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "60608cc3-4418-5748-b929-3ff3d87cc4c9",
+        "address": "7314-Boice-St-Orlando-FL-32809",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1189,
+        "listed_at": "2026-03-21T16:20:08.000Z",
+        "days_on_market": ">27",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.395785,
+          28.459003
         ]
       }
     },
