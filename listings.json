@@ -6829,6 +6829,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b2b60d3-990f-5df6-b018-8319996e912e",
+        "address": "5512-Huffines-Blvd-Royse-City-TX-75189",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1889,
+        "listed_at": "2026-03-21T10:16:20.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.333701,
+          32.92884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b4ebbfd-0792-5bbc-9374-863f580e60a5",
         "address": "14-Muskogee-Xing-Dallas-GA-30132",
         "beds": 3,
