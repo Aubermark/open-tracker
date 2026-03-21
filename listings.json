@@ -10588,6 +10588,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fdc9c88-9416-5257-be10-81d1bbed0b05",
+        "address": "1217-Kirby-St-Ne-Albuquerque-NM-87112",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1542,
+        "listed_at": "2026-03-21T20:00:07.000Z",
+        "days_on_market": ">27",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.513163,
+          35.092882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ffdbdb0-4671-4573-902b-23f0fd0b5db2",
         "address": "5509-Carmel-Creek-Dr-Mustang-OK-73064",
         "beds": 4,
