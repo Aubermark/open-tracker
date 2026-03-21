@@ -5905,6 +5905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3167747c-2602-5d9b-b28f-d093bad0f58c",
+        "address": "206-Sport-Way-Griffin-GA-30223",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2064,
+        "listed_at": "2026-03-21T16:30:08.000Z",
+        "days_on_market": ">27",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.302832,
+          33.290168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
         "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
         "beds": 3,
