@@ -12772,6 +12772,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7065fa73-4273-55f0-9592-d9aa2e8df1a7",
+        "address": "1951-Pin-Oak-Dr-Flower-Mound-TX-75028",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2352,
+        "listed_at": "2026-03-21T23:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.057617,
+          33.042258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7085f9e3-6f73-43d0-9c20-777ce7a108fc",
         "address": "700-Hickory-Point-Dr-Lexington-NC-27292",
         "beds": 5,
