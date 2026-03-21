@@ -19450,6 +19450,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae69d174-c707-546d-b46b-6f0da20dacda",
+        "address": "505-Clear-Vista-Dr-Roanoke-TX-76262",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 4209,
+        "listed_at": "2026-03-21T10:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 940000,
+        "price_label": "$940K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.169035,
+          33.00776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae9bb6d3-b571-5fa5-b0a5-ebb71b43cb9b",
         "address": "5316-Marmith-Ave-Sacramento-CA-95841",
         "beds": 3,
