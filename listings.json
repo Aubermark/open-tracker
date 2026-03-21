@@ -8362,6 +8362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a162f88-bfa6-5fb6-90fc-36ccfb643a59",
+        "address": "1781-Bella-Vis-Canyon-Lake-TX-78133",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2574,
+        "listed_at": "2026-03-21T00:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268942,
+          29.860071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a1f0089-5ffd-56d6-9f81-6d259b4581a0",
         "address": "1762-W-Calle-La-Paz-Tucson-AZ-85713",
         "beds": 3,
