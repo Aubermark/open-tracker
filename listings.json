@@ -1495,27 +1495,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0c3f8943-74e7-42ab-99b8-f0e815e59d55",
-        "address": "10469-W-Beaman-Ln-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2685,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">28",
-        "current_price": 471000,
-        "price_label": "$471K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.188491,
-          32.431333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
         "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
         "beds": 4,
@@ -18520,6 +18499,27 @@
         "coordinates": [
           -86.149682,
           39.788081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a5e7c2ae-48dd-53df-9e82-0e772afaf2f9",
+        "address": "3765-Ne-12th-Ter-Pompano-Beach-FL-33064",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-03-22T17:10:07.000Z",
+        "days_on_market": ">28",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.106611,
+          26.277433
         ]
       }
     },
