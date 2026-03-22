@@ -328,7 +328,7 @@
     if (bboxStr === state.lastBbox) return; // viewport hasn't changed enough
     state.lastBbox = bboxStr;
 
-    showBadge(`⟳ Cargando ${ov.label}…`);
+    showBadge(`⟳ Loading ${ov.label}…`);
     state.loading = true;
 
     try {
@@ -418,7 +418,7 @@
     // ── Section 1: overlay toggles (parques + rutas) ──
     const ovTitle = document.createElement("div");
     ovTitle.style.cssText = "font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;margin-bottom:8px;";
-    ovTitle.textContent = "Capas";
+    ovTitle.textContent = "Layers";
     legend.appendChild(ovTitle);
 
     OVERLAYS.forEach(ov => {
