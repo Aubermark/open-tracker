@@ -232,7 +232,7 @@
   const OVERLAYS = [
     {
       id:     "parques",
-      label:  "Parques",
+      label:  "Parks",
       file:   "parques.geojson",
       type:   "fill",
       color:  "#2ecc71",
@@ -247,7 +247,7 @@
     },
     {
       id:     "rutaciclista",
-      label:  "Rutas ciclistas",
+      label:  "Cycling Routes",
       file:   "rutaciclista.geojson",
       type:   "line",
       color:  "#e67e22",
@@ -592,7 +592,7 @@
       const p = e.features[0].properties;
       new maplibregl.Popup()
         .setLngLat(e.lngLat)
-        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Parque"}</strong></div>`)
+        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Park"}</strong></div>`)
         .addTo(map);
     });
 
