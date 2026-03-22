@@ -31,9 +31,7 @@
       transition: background 0.2s;
     }
  
-    #back-btn:hover {
-      background: #f0f0f0;
-    }
+    #back-btn:hover { background: #f0f0f0; }
  
     #legend {
       position: absolute;
@@ -62,9 +60,7 @@
       user-select: none;
     }
  
-    .legend-item:last-child {
-      margin-bottom: 0;
-    }
+    .legend-item:last-child { margin-bottom: 0; }
  
     .legend-dot {
       width: 10px;
@@ -104,14 +100,23 @@
  
   const domColorExpression = [
     "case",
-    ["<=", domNumber, 1],  "#a8c623",
-    ["<=", domNumber, 7],  "#21f36b",
+    ["<=", domNumber, 1],   "#a8c623",
+    ["<=", domNumber, 7],   "#21f36b",
     ["<=", domNumber, 45],  "#2196F3",
     ["<=", domNumber, 120], "#FF9800",
     "#E65100"
   ];
  
-  // ─── Filter state ────────────────────────────────────────────────────────────
+  const domIconExpression = [
+    "case",
+    ["<=", domNumber, 1],   "pill-lime",
+    ["<=", domNumber, 7],   "pill-green",
+    ["<=", domNumber, 45],  "pill-blue",
+    ["<=", domNumber, 120], "pill-orange",
+    "pill-red"
+  ];
+ 
+  // ─── Filter state ───────────────────────────────────────────────────────────
  
   const DOM_RANGES = [
     { key: 0,   label: "New homes today",  color: "#a8c623" },
@@ -128,7 +133,6 @@
     if (activeFilters.size === DOM_RANGES.length) return null;
  
     const conditions = [];
- 
     if (activeFilters.has(0))   conditions.push(["<=", domNumber, 1]);
     if (activeFilters.has(1))   conditions.push(["all", [">", domNumber, 1],  ["<=", domNumber, 7]]);
     if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 45]]);
@@ -140,8 +144,8 @@
  
   function applyFilter() {
     const f = buildDOMFilter();
-    map.setFilter("listings-dots",   f);
-    map.setFilter("listings-labels", f);
+    map.setFilter("listings-dots", f);
+    map.setFilter("listings-bg",   f);
   }
  
   function toggleFilter(key) {
@@ -166,9 +170,7 @@
  
   function updateLegendUI() {
     const allBtn = document.getElementById("toggle-all-btn");
-    if (allBtn) {
-      allBtn.textContent = activeFilters.size === DOM_RANGES.length ? "None" : "All";
-    }
+    if (allBtn) allBtn.textContent = activeFilters.size === DOM_RANGES.length ? "None" : "All";
     document.querySelectorAll(".legend-item[data-key]").forEach(item => {
       const key = Number(item.dataset.key);
       const active = activeFilters.has(key);
@@ -209,7 +211,31 @@
     }
   }
  
-  // ─── Map load ────────────────────────────────────────────────────────────────
+  // ─── Pill image generator ───────────────────────────────────────────────────
+ 
+  function makeRoundedRect(color, width, height, radius) {
+    const canvas = document.createElement("canvas");
+    canvas.width  = width;
+    canvas.height = height;
+    const ctx = canvas.getContext("2d");
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.moveTo(radius, 0);
+    ctx.lineTo(width - radius, 0);
+    ctx.quadraticCurveTo(width, 0, width, radius);
+    ctx.lineTo(width, height - radius);
+    ctx.quadraticCurveTo(width, height, width - radius, height);
+    ctx.lineTo(radius, height);
+    ctx.quadraticCurveTo(0, height, 0, height - radius);
+    ctx.lineTo(0, radius);
+    ctx.quadraticCurveTo(0, 0, radius, 0);
+    ctx.closePath();
+    ctx.fill();
+    return ctx.getImageData(0, 0, width, height);
+  }
+ 
+  // ─── Map load ───────────────────────────────────────────────────────────────
  
   map.on("load", async () => {
  
@@ -236,11 +262,29 @@
     map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
     map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
  
+    // Register pill images (pixelRatio:2 for sharp render on retina)
+    const PILL_COLORS = {
+      "pill-lime":   "#a8c623",
+      "pill-green":  "#21f36b",
+      "pill-blue":   "#2196F3",
+      "pill-orange": "#FF9800",
+      "pill-red":    "#E65100",
+    };
+ 
+    for (const [name, color] of Object.entries(PILL_COLORS)) {
+      map.addImage(
+        name,
+        makeRoundedRect(color, 120, 40, 10),
+        { pixelRatio: 2 }
+      );
+    }
+ 
     map.addSource("listings", {
       type: "geojson",
       data: "listings.json?v=" + Date.now()
     });
  
+    // Dot layer (zoom 3–7)
     map.addLayer({
       id: "listings-dots",
       type: "circle",
@@ -259,12 +303,19 @@
       }
     });
  
+    // Pill label layer (zoom 7+)
+    // icon-text-fit:"both" makes the pill stretch to fit the text automatically
     map.addLayer({
-      id: "listings-labels",
+      id: "listings-bg",
       type: "symbol",
       source: "listings",
       minzoom: 7,
       layout: {
+        "icon-image": domIconExpression,
+        "icon-allow-overlap": true,
+        "icon-ignore-placement": true,
+        "icon-text-fit": "both",
+        "icon-text-fit-padding": [6, 14, 6, 14],
         "text-field": ["get", "price_label"],
         "text-anchor": "center",
         "text-font": ["Open Sans Bold"],
@@ -283,15 +334,11 @@
       },
       paint: {
         "text-color": "#ffffff",
-        "text-halo-color": domColorExpression,
-        "text-halo-width": 12,
       }
     });
  
-    map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
- 
-    map.on("click", "listings-labels", (e) => {
+    // Popups
+    const showPopup = (e, layerId) => {
       const f = e.features[0];
       const props = f.properties;
       new maplibregl.Popup()
@@ -304,25 +351,13 @@
           </div>
         `)
         .addTo(map);
-    });
+    };
  
-    map.on("mouseenter", "listings-dots", () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "listings-dots", () => { map.getCanvas().style.cursor = ""; });
- 
-    map.on("click", "listings-dots", (e) => {
-      const f = e.features[0];
-      const props = f.properties;
-      new maplibregl.Popup()
-        .setLngLat(f.geometry.coordinates)
-        .setHTML(`
-          <div style="font-family: sans-serif;">
-            <strong>${props.address}</strong><br>
-            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
-            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} days on market</span>
-          </div>
-        `)
-        .addTo(map);
-    });
+    for (const layer of ["listings-bg", "listings-dots"]) {
+      map.on("mouseenter", layer, () => { map.getCanvas().style.cursor = "pointer"; });
+      map.on("mouseleave", layer, () => { map.getCanvas().style.cursor = ""; });
+      map.on("click", layer, (e) => showPopup(e, layer));
+    }
  
     buildLegend();
   });
