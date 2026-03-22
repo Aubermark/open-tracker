@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Mapa Listings</title>
+  <link href="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; }
+    #map { width: 100%; height: 100%; }
+ 
+    #back-btn {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      z-index: 10;
+      background: white;
+      border: none;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+      padding: 8px 14px;
+      font-family: sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #444;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+ 
+    #back-btn:hover {
+      background: #f0f0f0;
+    }
+ 
+    #legend {
+      position: absolute;
+      bottom: 24px;
+      right: 16px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+      padding: 10px 14px;
+      z-index: 10;
+      font-family: sans-serif;
+      font-size: 12px;
+      color: #444;
+      min-width: 170px;
+    }
+ 
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+      cursor: pointer;
+      padding: 4px 6px;
+      border-radius: 6px;
+      transition: opacity 0.15s, filter 0.15s;
+      user-select: none;
+    }
+ 
+    .legend-item:last-child {
+      margin-bottom: 0;
+    }
+ 
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+ 
+<div id="map"></div>
+ 
+<a id="back-btn" href="https://aubermark.github.io/open-tracker/">
+  ← Data Explorer
+</a>
+ 
+<div id="legend"></div>
+ 
+<script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
+<script>
+  const map = new maplibregl.Map({
+    container: "map",
+    style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
+    center: [-96.0, 38.0],
+    zoom: 4
+  });
+ 
+  const domNumber = [
+    "to-number",
+    ["case",
+      ["==", ["slice", ["to-string", ["get", "days_on_market"]], 0, 1], ">"],
+      ["slice", ["to-string", ["get", "days_on_market"]], 1],
+      ["to-string", ["get", "days_on_market"]]
+    ]
+  ];
+ 
+  const domColorExpression = [
+    "case",
+    ["<=", domNumber, 1],  "#a8c623",
+    ["<=", domNumber, 7],  "#21f36b",
+    ["<=", domNumber, 45],  "#2196F3",
+    ["<=", domNumber, 120], "#FF9800",
+    "#E65100"
+  ];
+ 
+  // ─── Filter state ────────────────────────────────────────────────────────────
+ 
+  const DOM_RANGES = [
+    { key: 0,   label: "New homes today",  color: "#a8c623" },
+    { key: 1,   label: "1 – 7 days",       color: "#21f36b" },
+    { key: 7,   label: "7 – 45 days",      color: "#2196F3" },
+    { key: 45,  label: "45 – 120 days",    color: "#FF9800" },
+    { key: 120, label: "+120 days",        color: "#E65100" },
+  ];
+ 
+  const activeFilters = new Set(DOM_RANGES.map(r => r.key));
+ 
+  function buildDOMFilter() {
+    if (activeFilters.size === 0) return ["==", ["id"], -1];
+    if (activeFilters.size === DOM_RANGES.length) return null;
+ 
+    const conditions = [];
+ 
+    if (activeFilters.has(0))   conditions.push(["<=", domNumber, 1]);
+    if (activeFilters.has(1))   conditions.push(["all", [">", domNumber, 1],  ["<=", domNumber, 7]]);
+    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 45]]);
+    if (activeFilters.has(45))  conditions.push(["all", [">", domNumber, 45], ["<=", domNumber, 120]]);
+    if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
+ 
+    return ["any", ...conditions];
+  }
+ 
+  function applyFilter() {
+    const f = buildDOMFilter();
+    map.setFilter("listings-dots",   f);
+    map.setFilter("listings-labels", f);
+  }
+ 
+  function toggleFilter(key) {
+    if (activeFilters.has(key)) {
+      activeFilters.delete(key);
+    } else {
+      activeFilters.add(key);
+    }
+    updateLegendUI();
+    applyFilter();
+  }
+ 
+  function toggleAll() {
+    if (activeFilters.size === DOM_RANGES.length) {
+      activeFilters.clear();
+    } else {
+      DOM_RANGES.forEach(r => activeFilters.add(r.key));
+    }
+    updateLegendUI();
+    applyFilter();
+  }
+ 
+  function updateLegendUI() {
+    const allBtn = document.getElementById("toggle-all-btn");
+    if (allBtn) {
+      allBtn.textContent = activeFilters.size === DOM_RANGES.length ? "None" : "All";
+    }
+    document.querySelectorAll(".legend-item[data-key]").forEach(item => {
+      const key = Number(item.dataset.key);
+      const active = activeFilters.has(key);
+      item.style.opacity = active ? "1" : "0.35";
+      item.style.filter  = active ? "none" : "grayscale(1)";
+    });
+  }
+ 
+  function buildLegend() {
+    const legend = document.getElementById("legend");
+ 
+    const header = document.createElement("div");
+    header.style.cssText = "display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;";
+    header.innerHTML = `
+      <h4 style="margin:0; font-size:11px; color:#888; text-transform:uppercase; letter-spacing:0.5px;">
+        Days on listing
+      </h4>
+      <button id="toggle-all-btn" onclick="toggleAll()" style="
+        font-size:10px; border:1px solid #ccc; background:#f5f5f5; border-radius:6px;
+        padding:2px 8px; cursor:pointer; color:#555; font-weight:600; line-height:1.6;">
+        None
+      </button>
+    `;
+    legend.appendChild(header);
+ 
+    for (const range of DOM_RANGES) {
+      const item = document.createElement("div");
+      item.className = "legend-item";
+      item.dataset.key = range.key;
+      item.style.border = `2px solid ${range.color}`;
+      item.style.background = range.color + "22";
+      item.innerHTML = `
+        <div class="legend-dot" style="background:${range.color};"></div>
+        <span style="font-size:12px; font-weight:600; color:#333;">${range.label}</span>
+      `;
+      item.addEventListener("click", () => toggleFilter(range.key));
+      legend.appendChild(item);
+    }
+  }
+ 
+  // ─── Map load ────────────────────────────────────────────────────────────────
+ 
+  map.on("load", async () => {
+ 
+    const ALLOWED_LAYERS = [
+      "place_state",
+      "place_country_1",
+      "place_country_2",
+      "place_city_r6",
+      "place_city_r5",
+    ];
+ 
+    map.getStyle().layers.forEach(layer => {
+      if (layer.layout && layer.layout["text-field"]) {
+        map.setLayoutProperty(layer.id, "visibility", "none");
+      }
+    });
+ 
+    map.getStyle().layers.forEach(layer => {
+      if (ALLOWED_LAYERS.includes(layer.id)) {
+        map.setLayoutProperty(layer.id, "visibility", "visible");
+      }
+    });
+ 
+    map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
+    map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
+ 
+    map.addSource("listings", {
+      type: "geojson",
+      data: "listings.json?v=" + Date.now()
+    });
+ 
+    map.addLayer({
+      id: "listings-dots",
+      type: "circle",
+      source: "listings",
+      minzoom: 3,
+      maxzoom: 7,
+      paint: {
+        "circle-radius": [
+          "interpolate", ["linear"], ["zoom"],
+          3, 3,
+          7, 6
+        ],
+        "circle-color": domColorExpression,
+        "circle-stroke-color": "#fff",
+        "circle-stroke-width": 1.5
+      }
+    });
+ 
+    map.addLayer({
+      id: "listings-labels",
+      type: "symbol",
+      source: "listings",
+      minzoom: 7,
+      layout: {
+        "text-field": ["get", "price_label"],
+        "text-anchor": "center",
+        "text-font": ["Open Sans Bold"],
+        "text-allow-overlap": true,
+        "text-ignore-placement": true,
+        "symbol-avoid-edges": false,
+        "text-size": [
+          "interpolate", ["linear"], ["zoom"],
+          7,  9,
+          8,  12,
+          10, 15,
+          12, 20,
+          14, 26
+        ],
+        "text-padding": 4,
+      },
+      paint: {
+        "text-color": "#ffffff",
+        "text-halo-color": domColorExpression,
+        "text-halo-width": 12,
+      }
+    });
+ 
+    map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
+ 
+    map.on("click", "listings-labels", (e) => {
+      const f = e.features[0];
+      const props = f.properties;
+      new maplibregl.Popup()
+        .setLngLat(f.geometry.coordinates)
+        .setHTML(`
+          <div style="font-family: sans-serif;">
+            <strong>${props.address}</strong><br>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
+            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} days on market</span>
+          </div>
+        `)
+        .addTo(map);
+    });
+ 
+    map.on("mouseenter", "listings-dots", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "listings-dots", () => { map.getCanvas().style.cursor = ""; });
+ 
+    map.on("click", "listings-dots", (e) => {
+      const f = e.features[0];
+      const props = f.properties;
+      new maplibregl.Popup()
+        .setLngLat(f.geometry.coordinates)
+        .setHTML(`
+          <div style="font-family: sans-serif;">
+            <strong>${props.address}</strong><br>
+            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
+            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} days on market</span>
+          </div>
+        `)
+        .addTo(map);
+    });
+ 
+    buildLegend();
+  });
+</script>
+ 
+</body>
+</html>
