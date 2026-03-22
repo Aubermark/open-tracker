@@ -30,10 +30,7 @@
       text-decoration: none;
       transition: background 0.2s;
     }
-
-    #back-btn:hover {
-      background: #f0f0f0;
-    }
+    #back-btn:hover { background: #f0f0f0; }
 
     #legend {
       position: absolute;
@@ -47,28 +44,83 @@
       font-family: sans-serif;
       font-size: 12px;
       color: #444;
+      min-width: 190px;
     }
 
-    #legend h4 {
-      margin: 0 0 6px 0;
-      font-size: 11px;
-      color: #888;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-
+    /* DOM filter items */
     .legend-item {
       display: flex;
       align-items: center;
       gap: 8px;
       margin-bottom: 4px;
+      cursor: pointer;
+      padding: 4px 6px;
+      border-radius: 6px;
+      transition: opacity 0.15s, filter 0.15s;
+      user-select: none;
     }
-
+    .legend-item:last-child { margin-bottom: 0; }
     .legend-dot {
       width: 10px;
       height: 10px;
       border-radius: 50%;
       flex-shrink: 0;
+    }
+
+    /* Layer toggle items */
+    .layer-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+      cursor: pointer;
+      padding: 5px 7px;
+      border-radius: 6px;
+      border: 2px solid transparent;
+      transition: all 0.15s;
+      user-select: none;
+      opacity: 0.38;
+      filter: grayscale(1);
+    }
+    .layer-toggle.active {
+      opacity: 1;
+      filter: none;
+    }
+    .layer-toggle:last-child { margin-bottom: 0; }
+    .layer-swatch {
+      width: 16px;
+      height: 6px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+    .layer-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .legend-sep {
+      border: none;
+      border-top: 1px solid #eee;
+      margin: 8px 0;
+    }
+
+    #viewport-badge {
+      position: absolute;
+      top: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,0.55);
+      color: white;
+      font-family: sans-serif;
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      z-index: 10;
+      display: none;
+      pointer-events: none;
+      white-space: nowrap;
     }
   </style>
 </head>
@@ -80,32 +132,13 @@
   ← Data Explorer
 </a>
 
-<div id="legend">
-  <h4>Days on listing</h4>
-  <div class="legend-item">
-    <div class="legend-dot" style="background:#a8c623"></div>
-    <span>NEW HOMES TODAY</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-dot" style="background:#21f36b"></div>
-    <span>1 – 7 days</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-dot" style="background:#2196F3"></div>
-    <span>7 – 45 days</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-dot" style="background:#FF9800"></div>
-    <span>45 – 120 days</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-dot" style="background:#E65100"></div>
-    <span>+120 days</span>
-  </div>
-</div>
+<div id="viewport-badge">⟳ Cargando capa…</div>
+
+<div id="legend"></div>
 
 <script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
 <script>
+  // ─── Map init ────────────────────────────────────────────────────────────────
   const map = new maplibregl.Map({
     container: "map",
     style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
@@ -113,6 +146,7 @@
     zoom: 4
   });
 
+  // ─── DOM filter state (listings) ────────────────────────────────────────────
   const domNumber = [
     "to-number",
     ["case",
@@ -124,43 +158,373 @@
 
   const domColorExpression = [
     "case",
-    ["<=", domNumber, 1],  "#a8c623",
-    ["<=", domNumber, 7],  "#21f36b",
+    ["<=", domNumber, 1],   "#a8c623",
+    ["<=", domNumber, 7],   "#21f36b",
     ["<=", domNumber, 45],  "#2196F3",
     ["<=", domNumber, 120], "#FF9800",
     "#E65100"
   ];
 
+  const domIconExpression = [
+    "case",
+    ["<=", domNumber, 1],   "pill-lime",
+    ["<=", domNumber, 7],   "pill-green",
+    ["<=", domNumber, 45],  "pill-blue",
+    ["<=", domNumber, 120], "pill-orange",
+    "pill-red"
+  ];
+
+  const DOM_RANGES = [
+    { key: 0,   label: "New homes today",  color: "#a8c623" },
+    { key: 1,   label: "1 – 7 days",       color: "#21f36b" },
+    { key: 7,   label: "7 – 45 days",      color: "#2196F3" },
+    { key: 45,  label: "45 – 120 days",    color: "#FF9800" },
+    { key: 120, label: "+120 days",        color: "#E65100" },
+  ];
+
+  const activeFilters = new Set(DOM_RANGES.map(r => r.key));
+
+  function buildDOMFilter() {
+    if (activeFilters.size === 0) return ["==", ["id"], -1];
+    if (activeFilters.size === DOM_RANGES.length) return null;
+    const conditions = [];
+    if (activeFilters.has(0))   conditions.push(["<=", domNumber, 1]);
+    if (activeFilters.has(1))   conditions.push(["all", [">", domNumber, 1],  ["<=", domNumber, 7]]);
+    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 45]]);
+    if (activeFilters.has(45))  conditions.push(["all", [">", domNumber, 45], ["<=", domNumber, 120]]);
+    if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
+    return ["any", ...conditions];
+  }
+
+  function applyDOMFilter() {
+    const f = buildDOMFilter();
+    map.setFilter("listings-dots", f);
+    map.setFilter("listings-bg",   f);
+  }
+
+  function toggleDOMFilter(key) {
+    if (activeFilters.has(key)) activeFilters.delete(key);
+    else activeFilters.add(key);
+    updateDOMUI();
+    applyDOMFilter();
+  }
+
+  function toggleAll() {
+    if (activeFilters.size === DOM_RANGES.length) activeFilters.clear();
+    else DOM_RANGES.forEach(r => activeFilters.add(r.key));
+    updateDOMUI();
+    applyDOMFilter();
+  }
+
+  function updateDOMUI() {
+    const btn = document.getElementById("toggle-all-btn");
+    if (btn) btn.textContent = activeFilters.size === DOM_RANGES.length ? "None" : "All";
+    document.querySelectorAll(".legend-item[data-key]").forEach(item => {
+      const key = Number(item.dataset.key);
+      const on  = activeFilters.has(key);
+      item.style.opacity = on ? "1" : "0.35";
+      item.style.filter  = on ? "none" : "grayscale(1)";
+    });
+  }
+
+  // ─── Overlay layers config ───────────────────────────────────────────────────
+  // Each overlay: id, label, file, type (fill/line), color, active (start hidden)
+  const OVERLAYS = [
+    {
+      id:     "parques",
+      label:  "Parks",
+      file:   "parques.geojson",
+      type:   "fill",
+      color:  "#2ecc71",
+      active: false,
+      // MapLibre layer paint per type
+      paint: {
+        "fill-color":   "#2ecc71",
+        "fill-opacity": 0.35,
+        "fill-outline-color": "#27ae60"
+      },
+      layerType: "fill"
+    },
+    {
+      id:     "rutaciclista",
+      label:  "Cycling Routes",
+      file:   "rutaciclista.geojson",
+      type:   "line",
+      color:  "#e67e22",
+      active: false,
+      paint: {
+        "line-color": "#e67e22",
+        "line-width": [
+          "interpolate", ["linear"], ["zoom"],
+          7, 1,
+          12, 2.5,
+          15, 4
+        ],
+        "line-opacity": 0.85
+      },
+      layerType: "line"
+    }
+  ];
+
+  // Track viewport-load state per overlay
+  const overlayState = {};
+  OVERLAYS.forEach(ov => {
+    overlayState[ov.id] = {
+      active:   ov.active,
+      loading:  false,
+      loaded:   false,   // full file cached in memory
+      fullData: null,    // GeoJSON FeatureCollection (cached after first load)
+      lastBbox: null,    // last bbox string used for viewport filter
+    };
+  });
+
+  // ─── Viewport bbox helper ────────────────────────────────────────────────────
+  function getMapBbox() {
+    const b = map.getBounds();
+    return [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()];
+  }
+
+  function bboxKey(bbox) {
+    return bbox.map(n => n.toFixed(3)).join(",");
+  }
+
+  // Point-in-bbox check
+  function coordInBbox(coord, bbox) {
+    return coord[0] >= bbox[0] && coord[0] <= bbox[2] &&
+           coord[1] >= bbox[1] && coord[1] <= bbox[3];
+  }
+
+  // Returns true if a geometry intersects the bbox (fast approximation using bounds)
+  function geomIntersectsBbox(geom, bbox) {
+    if (!geom) return false;
+    const t = geom.type;
+
+    function checkCoords(c) {
+      if (typeof c[0] === "number") return coordInBbox(c, bbox);
+      return c.some(checkCoords);
+    }
+
+    // For polygons / multipolygons also check if bbox center is inside
+    // (simple: just check if any coordinate is in bbox OR bbox overlaps geom bounds)
+    if (t === "Point") return coordInBbox(geom.coordinates, bbox);
+    return checkCoords(geom.coordinates);
+  }
+
+  function filterFeaturesToBbox(fc, bbox) {
+    return {
+      type: "FeatureCollection",
+      features: fc.features.filter(f => geomIntersectsBbox(f.geometry, bbox))
+    };
+  }
+
+  // ─── Load / update a single overlay for current viewport ────────────────────
+  async function loadOverlayViewport(ovId) {
+    const ov    = OVERLAYS.find(o => o.id === ovId);
+    const state = overlayState[ovId];
+    if (!state.active) return;
+
+    const bbox    = getMapBbox();
+    const bboxStr = bboxKey(bbox);
+    if (bboxStr === state.lastBbox) return; // viewport hasn't changed enough
+    state.lastBbox = bboxStr;
+
+    showBadge(`⟳ Loading ${ov.label}…`);
+    state.loading = true;
+
+    try {
+      // Fetch full file only once — cache in memory
+      if (!state.fullData) {
+        const res = await fetch(ov.file + "?v=" + Date.now());
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        state.fullData = await res.json();
+        state.loaded   = true;
+        console.log(`[${ovId}] loaded ${state.fullData.features.length} features total`);
+      }
+
+      // Filter to viewport
+      const viewData = filterFeaturesToBbox(state.fullData, bbox);
+      console.log(`[${ovId}] viewport: ${viewData.features.length} features`);
+
+      if (map.getSource(ovId)) {
+        map.getSource(ovId).setData(viewData);
+      }
+    } catch (err) {
+      console.error(`[${ovId}] load error:`, err);
+    } finally {
+      state.loading = false;
+      hideBadge();
+    }
+  }
+
+  function showBadge(text) {
+    const el = document.getElementById("viewport-badge");
+    el.textContent = text;
+    el.style.display = "block";
+  }
+  function hideBadge() {
+    document.getElementById("viewport-badge").style.display = "none";
+  }
+
+  // ─── Toggle overlay visibility ───────────────────────────────────────────────
+  function setOverlayActive(ovId, active) {
+    const state = overlayState[ovId];
+    state.active = active;
+
+    if (!map.getLayer(ovId)) return; // layers not yet added
+
+    map.setLayoutProperty(ovId, "visibility", active ? "visible" : "none");
+
+    if (active) {
+      // Reset lastBbox to force reload
+      state.lastBbox = null;
+      loadOverlayViewport(ovId);
+    }
+
+    // Update legend UI
+    const chip = document.querySelector(`.layer-toggle[data-overlay="${ovId}"]`);
+    if (chip) {
+      if (active) chip.classList.add("active");
+      else chip.classList.remove("active");
+    }
+  }
+
+  // ─── Pill image generator ────────────────────────────────────────────────────
+  function makeRoundedRect(color, width, height, radius) {
+    const canvas = document.createElement("canvas");
+    canvas.width = width; canvas.height = height;
+    const ctx = canvas.getContext("2d");
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.moveTo(radius, 0);
+    ctx.lineTo(width - radius, 0);
+    ctx.quadraticCurveTo(width, 0, width, radius);
+    ctx.lineTo(width, height - radius);
+    ctx.quadraticCurveTo(width, height, width - radius, height);
+    ctx.lineTo(radius, height);
+    ctx.quadraticCurveTo(0, height, 0, height - radius);
+    ctx.lineTo(0, radius);
+    ctx.quadraticCurveTo(0, 0, radius, 0);
+    ctx.closePath();
+    ctx.fill();
+    return ctx.getImageData(0, 0, width, height);
+  }
+
+  // ─── Legend builder ──────────────────────────────────────────────────────────
+  function buildLegend() {
+    const legend = document.getElementById("legend");
+    legend.innerHTML = "";
+
+    // ── Section 1: overlay toggles (parques + rutas) ──
+    const ovTitle = document.createElement("div");
+    ovTitle.style.cssText = "font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;margin-bottom:8px;";
+    ovTitle.textContent = "Layers";
+    legend.appendChild(ovTitle);
+
+    OVERLAYS.forEach(ov => {
+      const item = document.createElement("div");
+      item.className = "layer-toggle";
+      item.dataset.overlay = ov.id;
+      // swatch
+      const swatchEl = ov.layerType === "fill"
+        ? `<div class="layer-dot" style="background:${ov.color};opacity:0.8;"></div>`
+        : `<div class="layer-swatch" style="background:${ov.color};"></div>`;
+      item.innerHTML = `${swatchEl}<span style="font-size:12px;font-weight:600;color:#333;">${ov.label}</span>`;
+      item.style.border = `2px solid ${ov.color}`;
+      item.style.background = ov.color + "18";
+      item.addEventListener("click", () => {
+        const newActive = !overlayState[ov.id].active;
+        setOverlayActive(ov.id, newActive);
+      });
+      legend.appendChild(item);
+    });
+
+    // ── Separator ──
+    const sep = document.createElement("hr");
+    sep.className = "legend-sep";
+    legend.appendChild(sep);
+
+    // ── Section 2: DOM filter (listings) ──
+    const header = document.createElement("div");
+    header.style.cssText = "display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;";
+    header.innerHTML = `
+      <h4 style="margin:0;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;">
+        Days on listing
+      </h4>
+      <button id="toggle-all-btn" onclick="toggleAll()" style="
+        font-size:10px;border:1px solid #ccc;background:#f5f5f5;border-radius:6px;
+        padding:2px 8px;cursor:pointer;color:#555;font-weight:600;line-height:1.6;">
+        None
+      </button>
+    `;
+    legend.appendChild(header);
+
+    DOM_RANGES.forEach(range => {
+      const item = document.createElement("div");
+      item.className = "legend-item";
+      item.dataset.key = range.key;
+      item.style.border = `2px solid ${range.color}`;
+      item.style.background = range.color + "22";
+      item.innerHTML = `
+        <div class="legend-dot" style="background:${range.color};"></div>
+        <span style="font-size:12px;font-weight:600;color:#333;">${range.label}</span>
+      `;
+      item.addEventListener("click", () => toggleDOMFilter(range.key));
+      legend.appendChild(item);
+    });
+  }
+
+  // ─── Map load ────────────────────────────────────────────────────────────────
   map.on("load", async () => {
 
-    const ALLOWED_LAYERS = [
-      "place_state",
-      "place_country_1",
-      "place_country_2",
-      "place_city_r6",
-      "place_city_r5",
-    ];
-
+    // ── Hide most base labels, keep country/state/major cities ──
+    const ALLOWED_LAYERS = ["place_state","place_country_1","place_country_2","place_city_r6","place_city_r5"];
     map.getStyle().layers.forEach(layer => {
-      if (layer.layout && layer.layout["text-field"]) {
+      if (layer.layout && layer.layout["text-field"])
         map.setLayoutProperty(layer.id, "visibility", "none");
-      }
+    });
+    ALLOWED_LAYERS.forEach(id => {
+      if (map.getLayer(id)) map.setLayoutProperty(id, "visibility", "visible");
+    });
+    if (map.getLayer("place_city_r6")) map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
+    if (map.getLayer("place_city_r5")) map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
+
+    // ── Overlay sources + layers (hidden initially) ──
+    OVERLAYS.forEach(ov => {
+      // Empty source — data filled on demand when activated
+      map.addSource(ov.id, {
+        type: "geojson",
+        data: { type: "FeatureCollection", features: [] }
+      });
+
+      map.addLayer({
+        id:      ov.id,
+        type:    ov.layerType,
+        source:  ov.id,
+        layout:  { visibility: "none" },
+        paint:   ov.paint
+      });
     });
 
-    map.getStyle().layers.forEach(layer => {
-      if (ALLOWED_LAYERS.includes(layer.id)) {
-        map.setLayoutProperty(layer.id, "visibility", "visible");
-      }
-    });
-
-    map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
-    map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
-
+    // ── Listings source + layers ──
     map.addSource("listings", {
       type: "geojson",
       data: "listings.json?v=" + Date.now()
     });
 
+    // Register pill images
+    const PILL_COLORS = {
+      "pill-lime":   "#a8c623",
+      "pill-green":  "#21f36b",
+      "pill-blue":   "#2196F3",
+      "pill-orange": "#FF9800",
+      "pill-red":    "#E65100",
+    };
+    for (const [name, color] of Object.entries(PILL_COLORS)) {
+      map.addImage(name, makeRoundedRect(color, 120, 40, 10), { pixelRatio: 2 });
+    }
+
+    // Dot layer (zoom 3–7)
     map.addLayer({
       id: "listings-dots",
       type: "circle",
@@ -168,81 +532,97 @@
       minzoom: 3,
       maxzoom: 7,
       paint: {
-        "circle-radius": [
-          "interpolate", ["linear"], ["zoom"],
-          3, 3,
-          7, 6
-        ],
+        "circle-radius": ["interpolate", ["linear"], ["zoom"], 3, 3, 7, 6],
         "circle-color": domColorExpression,
         "circle-stroke-color": "#fff",
         "circle-stroke-width": 1.5
       }
     });
 
+    // Pill label layer (zoom 7+)
     map.addLayer({
-      id: "listings-labels",
+      id: "listings-bg",
       type: "symbol",
       source: "listings",
       minzoom: 7,
       layout: {
-        "text-field": ["get", "price_label"],
-        "text-anchor": "center",
-        "text-font": ["Open Sans Bold"],
-        "text-allow-overlap": true,
-        "text-ignore-placement": true,
-        "symbol-avoid-edges": false,
-        "text-size": [
-          "interpolate", ["linear"], ["zoom"],
-          7,  9,
-          8,  12,
-          10, 15,
-          12, 20,
-          14, 26
-        ],
+        "icon-image":              domIconExpression,
+        "icon-allow-overlap":      true,
+        "icon-ignore-placement":   true,
+        "icon-text-fit":           "both",
+        "icon-text-fit-padding":   [6, 14, 6, 14],
+        "text-field":              ["get", "price_label"],
+        "text-anchor":             "center",
+        "text-font":               ["Open Sans Bold"],
+        "text-allow-overlap":      true,
+        "text-ignore-placement":   true,
+        "symbol-avoid-edges":      false,
+        "text-size": ["interpolate", ["linear"], ["zoom"], 7, 9, 8, 12, 10, 15, 12, 20, 14, 26],
         "text-padding": 4,
       },
-      paint: {
-        "text-color": "#ffffff",
-        "text-halo-color": domColorExpression,
-        "text-halo-width": 12,
-      }
+      paint: { "text-color": "#ffffff" }
     });
 
-    map.on("mouseenter", "listings-labels", () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "listings-labels", () => { map.getCanvas().style.cursor = ""; });
-
-    map.on("click", "listings-labels", (e) => {
+    // ── Popups ──
+    const showPopup = (e) => {
       const f = e.features[0];
-      const props = f.properties;
+      const p = f.properties;
       new maplibregl.Popup()
-        .setLngLat(f.geometry.coordinates)
+        .setLngLat(f.geometry.coordinates || e.lngLat)
         .setHTML(`
-          <div style="font-family: sans-serif;">
-            <strong>${props.address}</strong><br>
-            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
-            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} days on market</span>
+          <div style="font-family:sans-serif;">
+            <strong>${p.address || ""}</strong><br>
+            <span style="color:#333;font-size:18px;">${p.price_label || ""}</span><br>
+            <span style="color:#888;font-size:12px;">⏱ ${p.days_on_market} days on market</span>
           </div>
         `)
         .addTo(map);
+    };
+
+    ["listings-bg", "listings-dots"].forEach(lyr => {
+      map.on("mouseenter", lyr, () => { map.getCanvas().style.cursor = "pointer"; });
+      map.on("mouseleave", lyr, () => { map.getCanvas().style.cursor = ""; });
+      map.on("click",      lyr, showPopup);
     });
 
-    map.on("mouseenter", "listings-dots", () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "listings-dots", () => { map.getCanvas().style.cursor = ""; });
-
-    map.on("click", "listings-dots", (e) => {
-      const f = e.features[0];
-      const props = f.properties;
+    // Parques popup
+    map.on("mouseenter", "parques",       () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "parques",       () => { map.getCanvas().style.cursor = ""; });
+    map.on("click",      "parques",       (e) => {
+      const p = e.features[0].properties;
       new maplibregl.Popup()
-        .setLngLat(f.geometry.coordinates)
-        .setHTML(`
-          <div style="font-family: sans-serif;">
-            <strong>${props.address}</strong><br>
-            <span style="color:#333; font-size: 18px;">${props.price_label}</span><br>
-            <span style="color:#888; font-size: 12px;">⏱ ${props.days_on_market} days on market</span>
-          </div>
-        `)
+        .setLngLat(e.lngLat)
+        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Park"}</strong></div>`)
         .addTo(map);
     });
+
+    // Ruta ciclista popup
+    map.on("mouseenter", "rutaciclista",  () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "rutaciclista",  () => { map.getCanvas().style.cursor = ""; });
+    map.on("click",      "rutaciclista",  (e) => {
+      const p = e.features[0].properties;
+      new maplibregl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Ruta ciclista"}</strong><br><span style="font-size:12px;color:#888;">${p.highway || ""}</span></div>`)
+        .addTo(map);
+    });
+
+    // ── Viewport-based layer refresh on map move ──
+    // Debounced: waits 400ms after the user stops moving before fetching
+    let moveTimer = null;
+    map.on("moveend", () => {
+      clearTimeout(moveTimer);
+      moveTimer = setTimeout(() => {
+        OVERLAYS.forEach(ov => {
+          if (overlayState[ov.id].active) {
+            loadOverlayViewport(ov.id);
+          }
+        });
+      }, 400);
+    });
+
+    // ── Build legend ──
+    buildLegend();
   });
 </script>
 
