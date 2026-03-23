@@ -3742,27 +3742,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "20e46a3c-5dec-5de0-811a-174fd8e05dd4",
-        "address": "166-Greenwich-St-Davenport-FL-33896",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1265,
-        "listed_at": "2026-03-03T07:31:30.000Z",
-        "days_on_market": "20",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.614262,
-          28.253514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2137417c-8cf2-5eb0-9774-62e2909dc89d",
         "address": "3808-Tatonka-Dr-Killeen-TX-76549",
         "beds": 4,
@@ -5401,27 +5380,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "30016008-2d66-5547-ac8a-b72f77c3145b",
-        "address": "93-Hillside-Dr-Eustis-FL-32726",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1494,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.657497,
-          28.830614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "30146c13-6043-5ea9-b6a5-7dacb9e5c5fd",
         "address": "2289-Sky-Island-Dr-Henderson-NV-89002",
         "beds": 4,
@@ -5920,6 +5878,27 @@
         "coordinates": [
           -97.071896,
           32.826493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "34ca11ae-3920-5708-a9f2-842d0a394677",
+        "address": "1802-N-89th-Ave-Phoenix-AZ-85037",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1827,
+        "listed_at": "2026-03-23T20:50:05.000Z",
+        "days_on_market": "7",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.250955,
+          33.467084
         ]
       }
     },
@@ -6823,6 +6802,27 @@
         "coordinates": [
           -80.228704,
           36.020595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d7fa626-e8db-526c-bc59-fe87bfca026a",
+        "address": "28327-Serenity-Falls-Way-Menifee-CA-92585-17938584",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3044,
+        "listed_at": "2026-03-23T20:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 736000,
+        "price_label": "$736K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.140483,
+          33.709365
         ]
       }
     },
@@ -12394,6 +12394,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6eb1b0fc-0f3a-557c-b948-c6eded618af6",
+        "address": "105-Kings-Way-Dr-Rhome-TX-76078",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1476,
+        "listed_at": "2026-03-23T20:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.46751,
+          33.053982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ebadff3-5515-5b94-b658-0deb57b28ba7",
         "address": "2315-Freeman-Rd-Jonesboro-GA-30236",
         "beds": 4,
@@ -17302,27 +17323,6 @@
         "coordinates": [
           -80.83551,
           35.582647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9bebe390-3fea-57d9-b68a-aac6a885ecb6",
-        "address": "501-Country-Park-Dr-Se-Smyrna-GA-30080",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1253,
-        "listed_at": "2026-03-05T15:30:07.000Z",
-        "days_on_market": ">29",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.489795,
-          33.882307
         ]
       }
     },
@@ -22321,6 +22321,27 @@
         "coordinates": [
           -93.939815,
           45.08061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc18c7ee-5765-5e08-8718-b5523becc0b8",
+        "address": "258-Los-Altos-Pl-American-Canyon-CA-94503",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1080,
+        "listed_at": "2026-03-23T20:50:05.000Z",
+        "days_on_market": ">29",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.259,
+          38.174182
         ]
       }
     },
