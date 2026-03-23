@@ -19450,6 +19450,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1a4cd04-5072-5673-b8db-68280dfb32ee",
+        "address": "13615-Welsford-Live-Oak-TX-78233",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3366,
+        "listed_at": "2026-03-23T20:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.344756,
+          29.568662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
         "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
         "beds": 3,
