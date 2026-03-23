@@ -7753,6 +7753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "477a41f9-d8cd-5f57-bdf8-720a97d3cec3",
+        "address": "1166-Zephyr-St-Ypsilanti-MI-48198",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1688,
+        "listed_at": "2026-03-23T15:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.570684,
+          42.229417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4781cfed-17e4-57fc-90c3-f4090b03434c",
         "address": "6803-Freedom-Rdg-San-Antonio-TX-78242",
         "beds": 4,
