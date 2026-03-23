@@ -6073,27 +6073,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "377172c8-ecdb-51de-aac4-ff5ab7e78903",
-        "address": "4773-Craigmoss-Ln-Charlotte-NC-28278",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1442,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.97664,
-          35.158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "379a7925-a3c9-5deb-b5d3-044438348d07",
         "address": "2924-Sand-Hills-Dr-Chester-VA-23831",
         "beds": 3,
@@ -12241,27 +12220,6 @@
         "coordinates": [
           -122.538521,
           45.419015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6d0962df-7312-5b56-a51d-c6de31d08717",
-        "address": "989-Mahle-Dr-Reynoldsburg-OH-43068",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2368,
-        "listed_at": "2026-03-19T17:50:08.000Z",
-        "days_on_market": "4",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.760805,
-          39.969232
         ]
       }
     },
@@ -21691,6 +21649,27 @@
         "coordinates": [
           -80.869073,
           35.019373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3ff5b2d-2b08-5dc6-8461-d34231d9fc77",
+        "address": "127-Genessee-Valley-Rd-Columbia-SC-29223",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2818,
+        "listed_at": "2026-03-23T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.880867,
+          34.088966
         ]
       }
     },
