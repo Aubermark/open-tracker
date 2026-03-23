@@ -7354,27 +7354,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "43af5491-2f2d-5bc5-8c4d-bd76ebd56b86",
-        "address": "6020-W-Medlock-Dr-Glendale-AZ-85301",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1775,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.189414,
-          33.511305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "43c32b40-7e4a-5c91-8706-382dd27a9bdb",
         "address": "3945-Whisper-Fld-Schertz-TX-78108",
         "beds": 3,
@@ -13942,6 +13921,27 @@
         "coordinates": [
           -97.433294,
           32.867228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7eaa03d7-14df-52d6-a6db-d0eeeb525cfc",
+        "address": "2429-Nw-109th-St-Oklahoma-City-OK-73120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1228,
+        "listed_at": "2026-03-23T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.557087,
+          35.580954
         ]
       }
     },
