@@ -4540,27 +4540,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "27414ea0-f81d-40ad-944b-f0da8525a58c",
-        "address": "709-Peroni-Ave-Debary-FL-32713",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3271,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 577000,
-        "price_label": "$577K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.345651,
-          28.853386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "274cfb76-f224-5951-9d14-943fb156568f",
         "address": "216-Jerica-Ln-Davenport-FL-33897",
         "beds": 3,
@@ -23986,27 +23965,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "de3e8978-9d15-5a3a-ba10-26a0e2cc01ee",
-        "address": "69-Langer-Cir-West-St-Paul-MN-55118",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 2066,
-        "listed_at": "2026-03-05T16:10:07.000Z",
-        "days_on_market": "18",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.094471,
-          44.904432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "de67aa08-753e-5d99-9d55-c1daf411b6fe",
         "address": "426-Garden-Grove-Rd-Fort-Mill-SC-29708",
         "beds": 6,
@@ -26521,6 +26479,27 @@
         "coordinates": [
           -81.190028,
           35.32153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f45cc2fd-0a0d-5ad4-b26a-71ce4e0305db",
+        "address": "7910-Arvada-Pl-Indianapolis-IN-46236",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2485,
+        "listed_at": "2026-03-23T14:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.942369,
+          39.89897
         ]
       }
     },
