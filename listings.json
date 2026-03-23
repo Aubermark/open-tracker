@@ -14431,6 +14431,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81c5c5c9-f702-5620-ab35-3e36eca1ab2a",
+        "address": "910-Devonport-Dr-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1035,
+        "listed_at": "2026-03-23T16:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.60258,
+          35.791173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81da161a-87fe-5c6e-9231-2cb7a5bb0ed3",
         "address": "14114-Oxford-Dr-Laurel-MD-20707",
         "beds": 4,
@@ -25723,27 +25744,6 @@
         "coordinates": [
           -84.503771,
           39.214522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eccf04ae-57ca-5064-bcbf-97611a60005b",
-        "address": "1250-Lakeside-Dr-Mc-Calla-AL-35111",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1505,
-        "listed_at": "2026-03-06T21:20:06.000Z",
-        "days_on_market": "17",
-        "current_price": 336000,
-        "price_label": "$336K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.062486,
-          33.3297
         ]
       }
     },
