@@ -14305,6 +14305,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81b35631-8fe9-576a-afff-b373e01d387a",
+        "address": "28547-Heather-Ln-Castaic-CA-91384",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2115,
+        "listed_at": "2026-03-23T22:40:05.000Z",
+        "days_on_market": ">29",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.635997,
+          34.48595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81b4d129-ec00-514b-a978-2c6512ff5361",
         "address": "15802-Woodworth-Redford-MI-48239",
         "beds": 4,
