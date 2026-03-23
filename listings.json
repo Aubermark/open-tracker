@@ -10000,6 +10000,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d669473-ff9a-52d2-840f-61ac30203e96",
+        "address": "2-N-20th-St-East-Orange-NJ-07017",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 2095,
+        "listed_at": "2026-03-23T16:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.197219,
+          40.765749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d973b5a-5161-538f-9d09-b72b9f7c81aa",
         "address": "306-Revis-Creek-Ct-Simpsonville-SC-29681",
         "beds": 3,
