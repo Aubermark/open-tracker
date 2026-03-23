@@ -23629,6 +23629,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
+        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1069,
+        "listed_at": "2026-03-23T21:50:07.000Z",
+        "days_on_market": ">29",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.200266,
+          33.786085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dabdfe7f-382d-5bbc-958d-7461c734b3fc",
         "address": "607-Dallas-Cir-Folkston-GA-31537",
         "beds": 3,
@@ -24274,27 +24295,6 @@
         "coordinates": [
           -97.6401,
           30.595517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e17ae66a-38fc-5728-bcac-726f1979c572",
-        "address": "1604-Arkansas-Ave-Killeen-TX-76541",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1205,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 175000,
-        "price_label": "$175K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.722417,
-          31.097839
         ]
       }
     },
