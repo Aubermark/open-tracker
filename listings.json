@@ -15985,6 +15985,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f9e197d-9a09-5655-9a51-3b9683afc895",
+        "address": "227-Faversham-Ln-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1661,
+        "listed_at": "2026-03-23T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.886279,
+          34.165987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8fbedd13-4689-5095-b5e1-864d4675fbbb",
         "address": "141-Sierra-Woods-Cir-Folsom-CA-95630",
         "beds": 4,
@@ -20731,6 +20752,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bb508f54-a876-5e26-b5c7-7e905d5af0b2",
+        "address": "1157-Woodbridge-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2107,
+        "listed_at": "2026-03-23T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.392215,
+          36.577569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb6826ee-8a16-53ea-8a8a-6e62d97c6cb6",
         "address": "3431-White-Mission-Dr-Las-Vegas-NV-89129",
         "beds": 2,
@@ -22384,27 +22426,6 @@
         "coordinates": [
           -84.279341,
           33.595138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce168982-7caf-5746-a2b3-9e5e25589d24",
-        "address": "2033-Chapel-Park-Ln-Greensboro-NC-27405",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1767,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.761735,
-          36.138392
         ]
       }
     },
