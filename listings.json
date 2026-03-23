@@ -15355,6 +15355,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8a7fa9f4-4cd0-51dc-be13-438f7110fc95",
+        "address": "6670-S-Birch-Creek-Ave-Meridian-ID-83642",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1885,
+        "listed_at": "2026-03-23T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.412784,
+          43.544125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8a93b2f3-80b0-59f5-97c3-f6e55c96d06c",
         "address": "15717-Presswick-Ln-Bowie-MD-20716",
         "beds": 3,
