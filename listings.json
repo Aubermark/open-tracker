@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "482eac1c-d0ad-54bf-a270-54a4f7925e63",
+        "address": "4430-W-Diana-Ave-Glendale-AZ-85302",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1996,
+        "listed_at": "2026-03-23T18:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.155387,
+          33.562848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48313ae1-24cf-552c-9ae1-0f6e8ca2bd90",
         "address": "368-Holstein-Dr-Dallas-NC-28034",
         "beds": 5,
@@ -25849,27 +25870,6 @@
         "coordinates": [
           -117.628359,
           33.875019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ef35794d-a826-5af9-8256-a863c6ec32d7",
-        "address": "9380-Crystal-Ln-Bel-Alton-MD-20611",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1650,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 364000,
-        "price_label": "$364K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.98501,
-          38.455269
         ]
       }
     },
