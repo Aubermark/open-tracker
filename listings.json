@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2099e9d8-1154-5837-a292-03f5e88590f9",
+        "address": "1015-Locklin-Way-Woodland-Park-CO-80863",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2666,
+        "listed_at": "2026-03-23T19:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 1250000,
+        "price_label": "$1.250M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.034421,
+          38.994789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20e46a3c-5dec-5de0-811a-174fd8e05dd4",
         "address": "166-Greenwich-St-Davenport-FL-33896",
         "beds": 3,
