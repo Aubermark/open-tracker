@@ -14893,6 +14893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8704bb97-9121-5a6e-9b7a-071046d5d857",
+        "address": "417-Nw-2nd-St-Boynton-Beach-FL-33435",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1089,
+        "listed_at": "2026-03-23T17:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.067623,
+          26.530413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "874e707c-967d-53db-aed2-c0c026d76f71",
         "address": "1207-Manor-Ct-Richmond-TX-77406",
         "beds": 4,
