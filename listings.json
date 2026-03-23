@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5643bcce-a7ff-408d-9936-7de774cbf8e3",
+        "address": "113-Amy-Aly-San-Antonio-TX-78253",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2193,
+        "listed_at": "2026-03-23T18:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.809682,
+          29.40805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56630e84-e9ae-5058-bdc0-1eb23a27ae30",
         "address": "1719-Lindenhall-Dr-Loveland-OH-45140",
         "beds": 4,
@@ -12703,27 +12724,6 @@
         "coordinates": [
           -77.220015,
           38.508274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7201d243-7a1b-52f9-9a86-73b09dbcbcc4",
-        "address": "680-Rocky-Hollow-Dr-Akron-OH-44313",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 4196,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.536303,
-          41.118271
         ]
       }
     },
@@ -20221,27 +20221,6 @@
         "coordinates": [
           -82.366881,
           28.167102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8d99190-8da3-5760-b82a-32e990e3127f",
-        "address": "6761-Judson-Ave-Las-Vegas-NV-89156",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1260,
-        "listed_at": "2026-02-26T07:33:45.000Z",
-        "days_on_market": "25",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.025366,
-          36.198722
         ]
       }
     },
