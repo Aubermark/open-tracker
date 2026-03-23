@@ -22201,6 +22201,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb2909b7-65f1-5539-8c4a-ab82350e90c1",
+        "address": "1326-Crown-Ridge-Dr-Fort-Mill-SC-29708",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2207,
+        "listed_at": "2026-03-23T21:40:06.000Z",
+        "days_on_market": ">29",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.002488,
+          35.062909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb8a547e-fb23-5b7c-87cf-291edb73f18d",
         "address": "16027-Harbor-Hill-Dr-Charlotte-NC-28273-17364711",
         "beds": 4,
