@@ -1999,27 +1999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "102cceac-b198-5534-9ff5-53ff7a2cdf41",
-        "address": "805-Carlisle-Ct-N-Nashville-TN-37214",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1567,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 373000,
-        "price_label": "$373K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.636311,
-          36.14681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "11493c13-db14-5a44-81c0-0693e890fd3e",
         "address": "4121-Granite-St-Midland-NC-28107",
         "beds": 4,
@@ -4492,6 +4471,27 @@
         "coordinates": [
           -81.669731,
           28.332629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "278b2a5a-c1ee-5782-a833-02981c0f2310",
+        "address": "8717-Kildare-Dr-Knoxville-TN-37923",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1920,
+        "listed_at": "2026-03-23T22:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.073059,
+          35.921333
         ]
       }
     },
@@ -10267,27 +10267,6 @@
         "coordinates": [
           -86.162375,
           39.97119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5fbb803d-219c-5964-bc88-06c4d6a5af7b",
-        "address": "6305-Magpie-Way-Ne-Rio-Rancho-NM-87144",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1484,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.608087,
-          35.282498
         ]
       }
     },
