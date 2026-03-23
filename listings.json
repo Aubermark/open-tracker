@@ -11722,27 +11722,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "69da5c9d-3dcd-5711-ac8c-8a2ae82e79d4",
-        "address": "219-Amherst-Ave-Sarasota-FL-34232",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1026,
-        "listed_at": "2026-03-12T20:10:07.000Z",
-        "days_on_market": "11",
-        "current_price": 110000,
-        "price_label": "$110K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.495348,
-          27.338454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6a5533c3-025a-5d53-8b4d-4de6a5ee4e13",
         "address": "1067-Zophi-St-Nashville-TN-37216",
         "beds": 2,
@@ -25177,6 +25156,27 @@
         "coordinates": [
           -78.708843,
           35.866862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e888f58c-91b3-5fad-bb44-68a620823bf9",
+        "address": "5816-Nw-83rd-St-Oklahoma-City-OK-73132",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2292,
+        "listed_at": "2026-03-23T14:20:05.000Z",
+        "days_on_market": ">29",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.619802,
+          35.555586
         ]
       }
     },
