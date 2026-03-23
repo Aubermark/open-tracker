@@ -4834,6 +4834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a04f290-3908-5c87-9d0f-2b1fa6eefa5d",
+        "address": "4442-Rolling-Pine-Dr-West-Bloomfield-MI-48323",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3278,
+        "listed_at": "2026-03-23T21:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 597000,
+        "price_label": "$597K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.414441,
+          42.571288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a281411-47dc-553c-bc67-ba1378a5af1d",
         "address": "2131-Foxglove-Dr-Plainfield-IN-46168",
         "beds": 4,
@@ -13192,27 +13213,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7779a96f-24a2-584a-8cb1-c05d534e46b7",
-        "address": "3530-W-Ethan-Crossing-Ln-Tucson-AZ-85741",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1515,
-        "listed_at": "2026-03-13T07:38:55.000Z",
-        "days_on_market": ">29",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.04088,
-          32.319497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "77be8a1d-332b-5b0f-82ea-e51d395318d9",
         "address": "3695-Trout-Lily-Ct-Atlanta-GA-30349",
         "beds": 6,
@@ -16903,6 +16903,27 @@
         "coordinates": [
           -105.015167,
           39.542266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "998d0de1-51e1-529c-a81e-9801436f6afa",
+        "address": "12473-S-Arcaro-Creek-Ct-Parker-CO-80134",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2787,
+        "listed_at": "2026-03-23T21:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.764489,
+          39.489746
         ]
       }
     },
@@ -24883,27 +24904,6 @@
         "coordinates": [
           -82.197654,
           26.916942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e6739995-92bd-5466-8951-e8382c22ffbb",
-        "address": "8402-Trail-Lake-Dr-Rowlett-TX-75088",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2627,
-        "listed_at": "2026-03-19T16:10:09.000Z",
-        "days_on_market": ">29",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.519864,
-          32.904887
         ]
       }
     },
