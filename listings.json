@@ -26527,6 +26527,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f478349e-db67-5d3b-9dda-d03e871da388",
+        "address": "16116-Gardendale-Dr-Tampa-FL-33624",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1918,
+        "listed_at": "2026-03-23T13:30:07.000Z",
+        "days_on_market": ">29",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.528965,
+          28.101214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f48c16ef-8b3b-5bc6-b928-13eca0ac2eb3",
         "address": "7-Shetland-Pony-Ct-Saint-Peters-MO-63376",
         "beds": 3,
