@@ -15565,6 +15565,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c77ed3b-19d5-5656-9a2b-21547a7a6d29",
+        "address": "5807-Windsong-Trl-Houston-TX-77084",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2041,
+        "listed_at": "2026-03-23T23:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.673264,
+          29.858221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c9bc7ef-30e9-540c-8c18-f6eed86cf0b3",
         "address": "4483-Columbine-Ave-Burton-MI-48529",
         "beds": 3,
