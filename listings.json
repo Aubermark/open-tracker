@@ -1516,27 +1516,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ce10280-cdaf-5e93-9bb0-c834abd3944d",
-        "address": "5215-Kenton-Stone-San-Antonio-TX-78240",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1455,
-        "listed_at": "2026-03-07T16:40:07.000Z",
-        "days_on_market": ">29",
-        "current_price": 188000,
-        "price_label": "$188K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.586613,
-          29.524732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0d1e96fc-3731-56fe-8e43-7344fb336034",
         "address": "315-Pewter-Cir-Simpsonville-SC-29680",
         "beds": 5,
@@ -9469,27 +9448,6 @@
         "coordinates": [
           -97.897374,
           31.130882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "58884573-bab9-5470-85be-6254319d7896",
-        "address": "11813-Plains-Valley-Dr-Del-Valle-TX-78617",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1992,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">29",
-        "current_price": 264000,
-        "price_label": "$264K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.641266,
-          30.162063
         ]
       }
     },
@@ -26926,6 +26884,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f9fafd59-7236-5474-a884-1e5f1d0c61c3",
+        "address": "2561-King-Louis-Dr-Jacksonville-FL-32254",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1487,
+        "listed_at": "2026-03-23T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.745737,
+          30.358254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa075257-eeb0-5369-8f03-bd4666dcefea",
         "address": "103-Mustang-Ln-Palm-Springs-CA-92262",
         "beds": 3,
@@ -27172,6 +27151,27 @@
         "coordinates": [
           -112.063326,
           33.044553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc3dedfb-d942-5fea-8cc1-a26285d2d220",
+        "address": "579-S-400-W-Brigham-City-UT-84302",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1668,
+        "listed_at": "2026-03-23T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.022021,
+          41.499173
         ]
       }
     },
