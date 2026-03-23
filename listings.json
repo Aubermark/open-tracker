@@ -11932,6 +11932,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b1a40e3-2af1-52e0-87d6-670f72546437",
+        "address": "154-Rosebud-St-Spring-Lake-NC-28390",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1025,
+        "listed_at": "2026-03-23T15:10:08.000Z",
+        "days_on_market": ">29",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964501,
+          35.235864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b336fb3-6077-5cd4-baef-37898befa72d",
         "address": "546-Gifford-Ct-Deltona-FL-32725",
         "beds": 3,
