@@ -7543,6 +7543,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "459a1de5-538f-50a9-8cfd-c04f1f62b356",
+        "address": "6504-Gilded-Flicker-St-North-Las-Vegas-NV-89084",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2711,
+        "listed_at": "2026-03-23T19:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.182631,
+          36.278566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45b30af7-3e24-5fac-acc5-f064f9ee40f7",
         "address": "9179-Dover-St-Lithia-Springs-GA-30122",
         "beds": 5,
