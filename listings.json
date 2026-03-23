@@ -13339,6 +13339,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "789a90d3-d842-5625-9e53-3d36970ffcc9",
+        "address": "104-Nottingham-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1522,
+        "listed_at": "2026-03-23T18:50:05.000Z",
+        "days_on_market": ">29",
+        "current_price": 301000,
+        "price_label": "$301K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.169302,
+          32.955439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78b20328-7766-5c69-a82c-02d305203ce0",
         "address": "116-Crown-Colony-Ct-Lexington-SC-29073",
         "beds": 3,
@@ -26983,6 +27004,27 @@
         "coordinates": [
           -115.201871,
           36.297146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb2da4a9-54cb-5c27-8002-4ee00fe5f5fa",
+        "address": "105-Foxhall-Ct-Easley-SC-29640",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-03-23T18:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.642191,
+          34.802312
         ]
       }
     },
