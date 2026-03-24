@@ -2797,6 +2797,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16f0bcee-2d6c-54b0-ae91-aad8d8682410",
+        "address": "9580-Brentwood-Way-Unit-D-Westminster-CO-80021",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1449,
+        "listed_at": "2026-03-24T22:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.094253,
+          39.871519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1709c555-624a-5c54-aa2b-a62ca5018301",
         "address": "540-Stockwood-Dr-Woodstock-GA-30188",
         "beds": 3,
@@ -14788,6 +14809,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "84afb483-602d-54bc-9866-0df0bc641d42",
+        "address": "5342-N-Palmer-Ave-Kansas-City-MO-64119",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-03-24T22:50:05.000Z",
+        "days_on_market": "22",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.490659,
+          39.191211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e4d8b3-755c-593d-b4ca-9fb5595c20ad",
         "address": "4902-W-Windrose-Dr-Glendale-AZ-85304",
         "beds": 3,
@@ -17449,6 +17491,27 @@
         "coordinates": [
           -83.775896,
           33.779527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9df03689-dfa5-5ac1-9f6e-35cb7d3c62c2",
+        "address": "7118-Brockington-Dr-Katy-TX-77494",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2070,
+        "listed_at": "2026-03-24T22:50:05.000Z",
+        "days_on_market": "12",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.781177,
+          29.706673
         ]
       }
     },
