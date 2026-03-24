@@ -4393,27 +4393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2701149d-e5fb-442c-8a4a-686c2dcd3db3",
-        "address": "19654-Sw-82nd-Loop-Dunnellon-FL-34432",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1870,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">30",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.447684,
-          29.102888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "27073c58-3fd6-575b-9d4a-8c201e6d2b11",
         "address": "14719-Sandy-Ridge-Rd-Lake-Hughes-CA-93532",
         "beds": 3,
@@ -7201,6 +7180,27 @@
         "coordinates": [
           -121.948173,
           38.013721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "42c0aa71-9709-5e8d-b98a-949740920797",
+        "address": "231-Maggie-St-Longmont-CO-80501",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2154,
+        "listed_at": "2026-03-24T22:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.063801,
+          40.157801
         ]
       }
     },
@@ -19465,27 +19465,6 @@
         "coordinates": [
           -98.344756,
           29.568662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
-        "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1444,
-        "listed_at": "2026-03-17T19:20:23.000Z",
-        "days_on_market": "7",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.641276,
-          38.742143
         ]
       }
     },
