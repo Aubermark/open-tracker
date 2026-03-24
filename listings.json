@@ -7354,6 +7354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4475a54f-5eae-5b25-b1fa-7f554794f277",
+        "address": "12213-Freemont-Ln-Raleigh-NC-27613",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2359,
+        "listed_at": "2026-03-24T20:50:06.000Z",
+        "days_on_market": ">30",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.742412,
+          35.927576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44ad1412-2378-595f-9296-fdbf24bd92c9",
         "address": "4384-E-Page-Ave-Gilbert-AZ-85234",
         "beds": 4,
@@ -13165,6 +13186,27 @@
         "coordinates": [
           -84.525926,
           33.653486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "77c50a40-1faf-5db0-899a-09e14216a221",
+        "address": "5402-Cattells-Blf-North-Charleston-SC-29420",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2712,
+        "listed_at": "2026-03-24T20:50:06.000Z",
+        "days_on_market": "15",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.126922,
+          32.916025
         ]
       }
     },
