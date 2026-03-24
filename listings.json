@@ -3826,6 +3826,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "222e06dd-3ca4-5099-b7cf-9443cee3bca3",
+        "address": "155-Bittercreek-Dr-Folsom-CA-95630",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1968,
+        "listed_at": "2026-03-24T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 735000,
+        "price_label": "$735K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.136462,
+          38.680101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "224b62ab-b5c1-520e-a97c-f5bc2becc9d8",
         "address": "2906-Miguel-St-Riverside-CA-92506",
         "beds": 3,
@@ -8530,6 +8551,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e933d22-c0f2-5341-b0b7-d5ba0940197e",
+        "address": "4818-Liberty-Plz-Acworth-GA-30101",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1936,
+        "listed_at": "2026-03-24T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.681448,
+          34.077098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4eaa815d-0024-5c99-a832-c035861febeb",
         "address": "514-Sparrow-Gull-Ct-North-Las-Vegas-NV-89032",
         "beds": 3,
@@ -9910,27 +9952,6 @@
         "coordinates": [
           -77.449551,
           37.595592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5ccaa06f-5170-582b-b073-b7b6846d6b41",
-        "address": "2122-Danbury-Dr-Indianapolis-IN-46231",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1621,
-        "listed_at": "2026-03-24T18:50:05.000Z",
-        "days_on_market": "29",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.312041,
-          39.735743
         ]
       }
     },
@@ -15502,6 +15523,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8b6475e4-e8aa-524c-bee1-8f7bc307180e",
+        "address": "5908-Millstone-Ln-Pfafftown-NC-27040",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1429,
+        "listed_at": "2026-03-24T22:30:07.000Z",
+        "days_on_market": ">30",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.381516,
+          36.153681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8b77be7d-b81e-446d-9c0a-eab2afa64ea0",
         "address": "11453-Clyde-Dr-Crown-Point-IN-46307",
         "beds": 3,
@@ -16567,6 +16609,27 @@
         "coordinates": [
           -112.286209,
           33.582211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "95206a76-82ef-483c-916f-139b6e4fc70a",
+        "address": "2943-N-Sun-City-Ave-Star-ID-83669",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3463,
+        "listed_at": "2026-03-24T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 765000,
+        "price_label": "$765K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.476679,
+          43.718532
         ]
       }
     },
