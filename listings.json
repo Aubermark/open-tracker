@@ -11323,6 +11323,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67a6494a-8b6c-5ef1-b13a-a40aa2aec329",
+        "address": "530-Kearny-St-Alpharetta-GA-30022",
+        "beds": 5,
+        "baths": 5,
+        "sqft": 5323,
+        "listed_at": "2026-03-24T20:10:06.000Z",
+        "days_on_market": ">30",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.276726,
+          34.037352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "67cbdc3b-e3c5-5472-bb3e-2959c6bad486",
         "address": "8418-W-Payson-Rd-Tolleson-AZ-85353",
         "beds": 4,
@@ -23413,27 +23434,6 @@
         "coordinates": [
           -81.51198,
           28.657751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d9255408-6aa9-5293-ad90-1dd117f58ae2",
-        "address": "13312-Kempwood-Ln-Dallas-TX-75253",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1387,
-        "listed_at": "2026-03-17T23:30:07.000Z",
-        "days_on_market": "6",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.599924,
-          32.682841
         ]
       }
     },
