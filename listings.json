@@ -13423,6 +13423,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b4a569f-a640-541b-8f54-772393d0ada4",
+        "address": "1950-Dakota-Dr-Nw-Acworth-GA-30101",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2368,
+        "listed_at": "2026-03-24T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.608397,
+          34.061484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7bc3a050-4111-5fd4-927a-175ab08beb9d",
         "address": "13142-E-Mesa-Verde-Dr-Moorpark-CA-93021",
         "beds": 3,
