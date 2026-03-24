@@ -18463,6 +18463,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
+        "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1649,
+        "listed_at": "2026-03-24T21:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.201051,
+          32.977368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a8d3290d-dc6a-5ac5-a539-5cff2a50e40a",
         "address": "2828-Shartle-St-Middletown-OH-45042",
         "beds": 3,
