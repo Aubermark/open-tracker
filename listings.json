@@ -4624,27 +4624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28de1f94-dfa6-4a44-bdc9-0f999fac84d6",
-        "address": "8335-Lander-Ave-Ne-Elk-River-MN-55330",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2185,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">30",
-        "current_price": 469000,
-        "price_label": "$469K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.656019,
-          45.269787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28e857ef-dd61-5962-96fa-5ec6b4ae0b0a",
         "address": "37740-Duffel-St-Palmdale-CA-93552",
         "beds": 4,
@@ -16630,6 +16609,27 @@
         "coordinates": [
           -95.800222,
           30.185996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "97d2136d-50ad-540f-9e51-455641af12fa",
+        "address": "3834-Regents-Way-Oviedo-FL-32765",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2547,
+        "listed_at": "2026-03-24T16:50:06.000Z",
+        "days_on_market": ">30",
+        "current_price": 506000,
+        "price_label": "$506K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.183435,
+          28.614245
         ]
       }
     },
