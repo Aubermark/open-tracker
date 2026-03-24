@@ -25645,6 +25645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ed7d1068-1f7f-5549-bada-840b9acc8cb0",
+        "address": "612-Tyler-Ridge-Ave-Henderson-NV-89012",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3022,
+        "listed_at": "2026-03-24T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 651000,
+        "price_label": "$651K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.012254,
+          36.027366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ed8695bc-5363-5ff3-b52c-8fad5f34395a",
         "address": "307-Wax-Myrtle-Ct-Cary-NC-27513",
         "beds": 3,
