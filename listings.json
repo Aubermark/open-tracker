@@ -8803,6 +8803,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52195821-cb70-571b-8545-14574534e4d4",
+        "address": "2149-Mary-Sue-St-Largo-FL-33774",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 971,
+        "listed_at": "2026-03-24T22:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.817365,
+          27.896772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5225571c-6239-5d86-bbfd-7ba1bf8e8f5c",
         "address": "12431-Sw-1st-St-Plantation-FL-33325",
         "beds": 4,
