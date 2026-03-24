@@ -4456,6 +4456,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27414ea0-f81d-40ad-944b-f0da8525a58c",
+        "address": "709-Peroni-Ave-Debary-FL-32713",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3271,
+        "listed_at": "2026-03-24T22:10:09.000Z",
+        "days_on_market": ">30",
+        "current_price": 577000,
+        "price_label": "$577K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.345651,
+          28.853386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27437467-abb7-5ca3-9051-7dda7c695c38",
         "address": "6910-Troon-Way-Indianapolis-IN-46237",
         "beds": 3,
@@ -27088,6 +27109,27 @@
         "coordinates": [
           -97.796873,
           31.084878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fabb76a8-69ba-5278-b4c7-e8b828d4ad39",
+        "address": "1965-Deer-Creek-Trl-Buford-GA-30519",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2234,
+        "listed_at": "2026-03-24T22:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 436000,
+        "price_label": "$436K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.863634,
+          34.097144
         ]
       }
     },
