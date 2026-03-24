@@ -2335,6 +2335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "145755d7-095f-55d5-a701-ffeb82431b5b",
+        "address": "25-Camden-Dr-Youngsville-NC-27596",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1220,
+        "listed_at": "2026-03-24T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.364968,
+          35.97152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14912d8c-7cf0-54e5-b1cf-a3be0d57f8c6",
         "address": "5097-Village-Dr-Las-Vegas-NV-89142",
         "beds": 3,
@@ -15691,27 +15712,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8df022d7-b46a-5561-a0d3-68343a1ea2fd",
-        "address": "313-Oristo-Ridge-Way-West-Columbia-SC-29170",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1464,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">30",
-        "current_price": 252000,
-        "price_label": "$252K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.148239,
-          33.959901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8dfb5e32-ad53-581c-9b5f-982a4455245c",
         "address": "3407-Peachstone-Pl-Spring-TX-77389",
         "beds": 4,
@@ -16693,27 +16693,6 @@
         "coordinates": [
           -95.800222,
           30.185996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "97d2136d-50ad-540f-9e51-455641af12fa",
-        "address": "3834-Regents-Way-Oviedo-FL-32765",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2547,
-        "listed_at": "2026-03-24T16:50:06.000Z",
-        "days_on_market": ">30",
-        "current_price": 506000,
-        "price_label": "$506K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.183435,
-          28.614245
         ]
       }
     },
