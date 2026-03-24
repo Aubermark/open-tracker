@@ -5317,6 +5317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f41df65-b231-5105-b36f-53bb5a80d033",
+        "address": "10366-Pippin-Ln-Cincinnati-OH-45231",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1426,
+        "listed_at": "2026-03-24T17:10:05.000Z",
+        "days_on_market": "18",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.572995,
+          39.262687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f44061d-173b-5614-a08e-cd752005b883",
         "address": "6515-Bentley-Ridge-Dr-Cumming-GA-30040",
         "beds": 4,
@@ -25219,6 +25240,27 @@
         "coordinates": [
           -84.436301,
           33.997674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea7589eb-8fcc-40cd-ab95-d03698745dca",
+        "address": "2047-Emerald-Lake-Trl-Dayton-TX-77535",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3244,
+        "listed_at": "2026-03-24T17:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.892279,
+          29.977985
         ]
       }
     },
