@@ -21151,6 +21151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c076d08c-902c-5150-a742-9f7603d8137f",
+        "address": "112-Balsam-Cir-Summerville-SC-29485",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2837,
+        "listed_at": "2026-03-24T15:00:06.000Z",
+        "days_on_market": ">30",
+        "current_price": 384000,
+        "price_label": "$384K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.192407,
+          32.970143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
         "address": "5202-Oster-Dr-Killeen-TX-76542",
         "beds": 3,
