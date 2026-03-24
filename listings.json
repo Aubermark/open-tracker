@@ -9118,6 +9118,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55eb7f0b-b015-5683-9f07-753bf9093c49",
+        "address": "260-Arapaho-Dr-Murfreesboro-TN-37128",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1360,
+        "listed_at": "2026-03-24T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 263000,
+        "price_label": "$263K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40225,
+          35.798169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5643bcce-a7ff-408d-9936-7de774cbf8e3",
         "address": "113-Amy-Aly-San-Antonio-TX-78253",
         "beds": 5,
