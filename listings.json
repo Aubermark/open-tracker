@@ -1411,6 +1411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b1fc126-6bcf-5dee-9556-8536773e1643",
+        "address": "2415-Box-Oak-Pl-Spring-TX-77380",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1923,
+        "listed_at": "2026-03-24T07:28:36.000Z",
+        "days_on_market": "21",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.468854,
+          30.133729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b5d7614-18e7-585c-9b97-f5c0bdb691e4",
         "address": "612-Sw-149th-Pl-Oklahoma-City-OK-73170",
         "beds": 3,
@@ -5479,27 +5500,6 @@
         "coordinates": [
           -78.368906,
           35.789811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "306f6d7d-a859-53a0-9c4f-8d5faddc09cb",
-        "address": "8292-Triplefin-Way-Elk-Grove-CA-95757",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2559,
-        "listed_at": "2026-03-20T18:40:08.000Z",
-        "days_on_market": "4",
-        "current_price": 785000,
-        "price_label": "$785K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.402691,
-          38.392157
         ]
       }
     },
@@ -14326,27 +14326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "81b4d129-ec00-514b-a978-2c6512ff5361",
-        "address": "15802-Woodworth-Redford-MI-48239",
-        "beds": 4,
-        "baths": 1,
-        "sqft": 1289,
-        "listed_at": "2026-03-12T12:20:07.000Z",
-        "days_on_market": "12",
-        "current_price": 159000,
-        "price_label": "$159K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.301787,
-          42.404231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "81c5c5c9-f702-5620-ab35-3e36eca1ab2a",
         "address": "910-Devonport-Dr-Raleigh-NC-27610",
         "beds": 3,
@@ -22222,6 +22201,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb83ec63-7f83-5bf5-86f1-d838b8b87e55",
+        "address": "9794-Stockport-Cir-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1288,
+        "listed_at": "2026-03-24T07:28:36.000Z",
+        "days_on_market": "0",
+        "current_price": 324000,
+        "price_label": "$324K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.147813,
+          32.992569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb8a547e-fb23-5b7c-87cf-291edb73f18d",
         "address": "16027-Harbor-Hill-Dr-Charlotte-NC-28273-17364711",
         "beds": 4,
@@ -26122,27 +26122,6 @@
         "coordinates": [
           -105.091268,
           39.467519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1f01634-e8a1-565b-9324-c987454143d5",
-        "address": "3910-Ivy-St-Sacramento-CA-95838",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 860,
-        "listed_at": "2026-03-19T15:50:08.000Z",
-        "days_on_market": ">30",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.427452,
-          38.63855
         ]
       }
     },
