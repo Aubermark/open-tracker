@@ -4330,27 +4330,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "26acd17c-a9d4-51ee-a6eb-2602652f6d59",
-        "address": "1790-Windsor-Dr-Lancaster-SC-29720",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2026,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">30",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.792618,
-          34.755774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "26eaa8a7-7d2b-5d3b-8c65-c735a157277b",
         "address": "2108-Woodland-Oaks-Dr-Arlington-TX-76013",
         "beds": 3,
@@ -13543,6 +13522,27 @@
         "coordinates": [
           -118.879867,
           34.271716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7bf51db9-276c-5de6-ae82-e4b7ee216eb7",
+        "address": "509-8th-St-Farmington-MN-55024",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1859,
+        "listed_at": "2026-03-24T20:30:09.000Z",
+        "days_on_market": ">30",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.136447,
+          44.637149
         ]
       }
     },
