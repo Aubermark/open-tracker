@@ -8362,6 +8362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4c261dc8-8ab5-5495-a01e-a076261d90e7",
+        "address": "122-Griffin-Way-Canton-GA-30115",
+        "beds": 6,
+        "baths": 5,
+        "sqft": 4569,
+        "listed_at": "2026-03-24T13:40:05.000Z",
+        "days_on_market": ">30",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.405156,
+          34.270731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4c2db9b0-f09a-5d28-afe6-70e53d15adbe",
         "address": "9639-Margrave-Dr-Gastonia-NC-28056",
         "beds": 4,
