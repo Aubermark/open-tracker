@@ -13927,27 +13927,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7f437255-50f1-50c5-9d6c-9df5566aea75",
-        "address": "144-Dukes-Rd-Jackson-GA-30233",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1180,
-        "listed_at": "2026-03-20T07:31:09.000Z",
-        "days_on_market": "4",
-        "current_price": 213000,
-        "price_label": "$213K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.901135,
-          33.38843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7f59a639-6906-5722-840d-1ca64f2f2f03",
         "address": "35-Peter-St-Holliston-MA-01746",
         "beds": 4,
@@ -17680,6 +17659,27 @@
         "coordinates": [
           -82.475228,
           27.5994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1c810f6-ee99-4966-b308-cd9df61a0e96",
+        "address": "996-Gratton-Rd-Clarksville-TN-37043",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3422,
+        "listed_at": "2026-03-24T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.294759,
+          36.495263
         ]
       }
     },
