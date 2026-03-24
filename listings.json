@@ -13192,6 +13192,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76e9d877-b945-5f9b-b6c2-fdbc33e49772",
+        "address": "5073-Patton-Dr-Gastonia-NC-28056",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1408,
+        "listed_at": "2026-03-24T22:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.08272,
+          35.219916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77108529-7c04-586e-959f-baa484673bb5",
         "address": "1608-Kythira-Dr-Apex-NC-27502",
         "beds": 5,
@@ -16903,27 +16924,6 @@
         "coordinates": [
           -122.789559,
           45.356843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "98ff922d-e5b0-54b1-b179-b0f7a7fb385e",
-        "address": "3522-W-Ringtail-Den-Way-Tucson-AZ-85742",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2172,
-        "listed_at": "2026-02-26T22:10:07.000Z",
-        "days_on_market": ">30",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.04171,
-          32.365124
         ]
       }
     },
