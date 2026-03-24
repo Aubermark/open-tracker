@@ -8572,6 +8572,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "500bc2b4-b750-59f0-83aa-46a44214b0ec",
+        "address": "10018-W-Miami-St-Tolleson-AZ-85353-17995895",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1995,
+        "listed_at": "2026-03-24T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.274582,
+          33.417459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "501fb4b7-ed3a-5a97-8910-29cee970e90d",
         "address": "300-Perkins-Ct-Suisun-City-CA-94585",
         "beds": 4,
@@ -10183,27 +10204,6 @@
         "coordinates": [
           -86.162375,
           39.97119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5fbc02b9-f11f-5a28-8133-6f9d6dbfcb9d",
-        "address": "1450-Raven-Rd-Clarksville-TN-37042",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 1956,
-        "listed_at": "2026-03-10T16:40:10.000Z",
-        "days_on_market": ">30",
-        "current_price": 314000,
-        "price_label": "$314K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.367189,
-          36.638459
         ]
       }
     },
