@@ -12520,6 +12520,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "718e45f6-736b-520c-a3d3-e0a989715423",
+        "address": "104-Perpetuation-Dr-Austin-TX-78734",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2303,
+        "listed_at": "2026-03-24T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.96453,
+          30.344014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71ace307-bc87-5d13-bc8b-aa526d967a95",
         "address": "7700-Meadowdale-Ln-Charlotte-NC-28212",
         "beds": 4,
@@ -25708,6 +25729,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ede4e12b-fadb-5671-8b19-90e37f531cba",
+        "address": "317-Andamento-Pl-Henderson-NV-89015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1485,
+        "listed_at": "2026-03-24T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.979866,
+          36.050068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edf29551-7962-5c72-ac4d-d8d86dd87fe8",
         "address": "826-Catskill-Dr-Saint-Louis-MO-63125",
         "beds": 2,
@@ -25912,6 +25954,27 @@
         "coordinates": [
           -95.767889,
           29.49873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f189990e-63dc-5c67-8188-875f05bfda54",
+        "address": "1945-E-Mia-Ln-Gilbert-AZ-85298",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 3708,
+        "listed_at": "2026-03-24T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.748079,
+          33.258057
         ]
       }
     },
