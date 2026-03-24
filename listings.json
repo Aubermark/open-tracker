@@ -17602,6 +17602,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0ba4ced-e198-56ce-a479-9a0d15118c4c",
+        "address": "100-Mesa-Cv-Louisburg-NC-27549",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1154,
+        "listed_at": "2026-03-24T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.208071,
+          35.981283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0f812e3-bdb7-54cf-b1d1-b7dfd1e46dfe",
         "address": "5655-Tomah-Dr-Colorado-Springs-CO-80918",
         "beds": 4,
@@ -25639,6 +25660,27 @@
         "coordinates": [
           -81.573047,
           30.020499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ed8695bc-5363-5ff3-b52c-8fad5f34395a",
+        "address": "307-Wax-Myrtle-Ct-Cary-NC-27513",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1319,
+        "listed_at": "2026-03-24T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.826288,
+          35.766907
         ]
       }
     },
