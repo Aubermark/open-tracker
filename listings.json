@@ -3427,27 +3427,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ef15683-c204-5db1-8de9-63e00cb05767",
-        "address": "257-Sunset-Bluffs-Dr-Fuquay-Varina-NC-27526",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 2799,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">30",
-        "current_price": 639000,
-        "price_label": "$639K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.804747,
-          35.629946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f003b2b-7cd5-46ab-a74f-7a50b0802c22",
         "address": "7911-Summit-Trail-Ln-Porter-TX-77365",
         "beds": 4,
@@ -3694,6 +3673,27 @@
         "coordinates": [
           -105.034421,
           38.994789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "20e46a3c-5dec-5de0-811a-174fd8e05dd4",
+        "address": "166-Greenwich-St-Davenport-FL-33896",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1265,
+        "listed_at": "2026-03-24T18:00:07.000Z",
+        "days_on_market": "21",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.614262,
+          28.253514
         ]
       }
     },
@@ -4492,27 +4492,6 @@
         "coordinates": [
           -84.073059,
           35.921333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "27bb4631-5726-5bd3-a5b9-a22f65f01ab5",
-        "address": "4922-E-Lee-St-Tucson-AZ-85712",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 864,
-        "listed_at": "2026-03-20T20:50:08.000Z",
-        "days_on_market": ">30",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.887596,
-          32.241435
         ]
       }
     },
