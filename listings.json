@@ -5170,6 +5170,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cb02fab-2a6b-409b-b7cb-4252f409b407",
+        "address": "8699-Bynum-Dr-Colorado-Springs-CO-80908",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2723,
+        "listed_at": "2026-03-24T16:00:08.000Z",
+        "days_on_market": ">30",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.681303,
+          38.957485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ceee988-31d8-50ba-909f-fcad4afec88e",
         "address": "2310-Redfish-Dr-Texas-City-TX-77591",
         "beds": 3,
@@ -22762,6 +22783,27 @@
         "coordinates": [
           -90.987664,
           38.973118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d048f576-60a9-5701-b735-7a77be28efb0",
+        "address": "6937-Bucksland-Dr-Ooltewah-TN-37363",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2190,
+        "listed_at": "2026-03-24T16:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.085694,
+          35.115883
         ]
       }
     },
