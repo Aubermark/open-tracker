@@ -20731,6 +20731,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc51550e-a7f3-569d-9f6e-ecedb711bd9f",
+        "address": "1903-Hazelwood-Dr-Lindenhurst-IL-60046",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2149,
+        "listed_at": "2026-03-24T19:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.035675,
+          42.420896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcb10bc0-0265-5a2c-bc7e-dbbed48376d8",
         "address": "3232-Lee-Cir-Pearland-TX-77581",
         "beds": 5,
@@ -23377,6 +23398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d84127ff-3946-588c-b38e-fdc2d3c6bacf",
+        "address": "1414-Rowemont-Dr-Durham-NC-27705",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1352,
+        "listed_at": "2026-03-24T19:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.919312,
+          36.044956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9067ed7-c453-5f0e-86f5-8f29f3892738",
         "address": "3-W-18th-St-Apopka-FL-32703",
         "beds": 3,
@@ -24253,27 +24295,6 @@
         "coordinates": [
           -78.798459,
           35.564087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2437a5c-8e35-5ff3-9fd7-5fe825aa6b10",
-        "address": "91-Creek-Chase-Rd-Manchester-TN-37355",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1140,
-        "listed_at": "2026-03-03T18:50:08.000Z",
-        "days_on_market": ">30",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.053758,
-          35.451736
         ]
       }
     },
