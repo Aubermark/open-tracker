@@ -1915,6 +1915,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0f2ef0ff-4a0d-41b5-9f6b-9042de37988c",
+        "address": "1615-Birch-Grain-Rd-Chapin-SC-29036",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2234,
+        "listed_at": "2026-03-24T21:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 423000,
+        "price_label": "$423K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.306463,
+          34.109548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0f2f35e7-62d0-593a-9767-e526a9704ac4",
         "address": "9708-Maryville-Ln-Fort-Worth-TX-76108",
         "beds": 3,
@@ -24316,6 +24337,27 @@
         "coordinates": [
           -80.784996,
           35.04704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2802050-5d92-57b8-a711-d73142d620ad",
+        "address": "1725-Sun-Palms-Blvd-Se-Bolivia-NC-28422",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2429,
+        "listed_at": "2026-03-24T21:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.21792,
+          33.989729
         ]
       }
     },
