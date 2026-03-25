@@ -26947,6 +26947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f8ee7735-0b40-4a1e-afa1-cb816ce582a7",
+        "address": "3312-Glacier-Blf-Kerrville-TX-78028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-03-25T16:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.111038,
+          30.037017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f94fab6f-128e-58e3-9816-003a987428f9",
         "address": "19822-Rippling-Brook-Ln-Tomball-TX-77375-17890627",
         "beds": 3,
