@@ -23566,6 +23566,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d85aef6a-f71f-5662-801d-1937ed631fc0",
+        "address": "412-Black-Forest-Dr-Clayton-NC-27527",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1673,
+        "listed_at": "2026-03-25T20:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.414932,
+          35.643444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9067ed7-c453-5f0e-86f5-8f29f3892738",
         "address": "3-W-18th-St-Apopka-FL-32703",
         "beds": 3,
