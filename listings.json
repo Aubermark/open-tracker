@@ -9538,6 +9538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "585c9461-3548-5f0c-90c9-50b6cc7d7c9c",
+        "address": "28825-N-45th-St-Cave-Creek-AZ-85331",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2260,
+        "listed_at": "2026-03-25T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 730000,
+        "price_label": "$730K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.983945,
+          33.746622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58a1fcb1-e6c0-5783-b7fa-df9a0e7bab9a",
         "address": "8925-Cita-Vista-Cir-Las-Vegas-NV-89149",
         "beds": 3,
