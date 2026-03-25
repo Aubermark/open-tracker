@@ -718,6 +718,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0542d9ec-e43e-5103-b30e-f531df534d86",
+        "address": "6831-Stratford-Park-Dr-Houston-TX-77084",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2331,
+        "listed_at": "2026-03-25T21:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 297000,
+        "price_label": "$297K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.632751,
+          29.874784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "054d4701-0306-587e-aad0-7b2840f835d2",
         "address": "20612-Kingsville-St-Harper-Woods-MI-48225",
         "beds": 2,
@@ -9112,6 +9133,27 @@
         "coordinates": [
           -104.864787,
           38.86258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "541fa2ae-c14c-57c1-b39d-99786f1906d0",
+        "address": "307-Rhea-Rd-York-SC-29745-17998163",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-03-25T21:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26352,
+          34.999788
         ]
       }
     },
@@ -23686,6 +23728,27 @@
         "coordinates": [
           -95.033677,
           29.416979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9fa40fa-a19e-5946-8b3b-171dec84e73d",
+        "address": "740-Garrett-Green-Way-Fort-Mill-SC-29715",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3500,
+        "listed_at": "2026-03-25T21:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92605,
+          35.002644
         ]
       }
     },
