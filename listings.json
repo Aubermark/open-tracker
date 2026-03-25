@@ -4309,6 +4309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2613dc65-d051-596b-a708-652f85092e6c",
+        "address": "3211-Waterloo-Cir-Indianapolis-IN-46268",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1647,
+        "listed_at": "2026-03-25T17:30:23.000Z",
+        "days_on_market": ">31",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.215141,
+          39.877503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26488063-1c9e-595f-952a-0f8f443000b3",
         "address": "3011-Nw-Dogwood-Ave-Redmond-OR-97756",
         "beds": 3,
@@ -17014,6 +17035,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "98ff922d-e5b0-54b1-b179-b0f7a7fb385e",
+        "address": "3522-W-Ringtail-Den-Way-Tucson-AZ-85742",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2172,
+        "listed_at": "2026-03-25T17:30:23.000Z",
+        "days_on_market": ">31",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04171,
+          32.365124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9913934b-ec5e-5e79-93de-b5594b0faa32",
         "address": "7212-Derickson-Ave-Ne-Albuquerque-NM-87109",
         "beds": 3,
@@ -20326,6 +20368,27 @@
         "coordinates": [
           -86.358368,
           39.781845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b826fa0f-b017-5518-af56-72df5ae5e541",
+        "address": "3672-Platina-Park-Ct-Decatur-GA-30034",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1575,
+        "listed_at": "2026-03-25T17:30:23.000Z",
+        "days_on_market": ">31",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.230052,
+          33.67436
         ]
       }
     },
