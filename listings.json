@@ -4162,27 +4162,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "245119a2-d97c-5ca3-8cbc-9c601ed952cf",
-        "address": "3819-Glen-Cove-Cir-Missouri-City-TX-77459",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1750,
-        "listed_at": "2026-03-13T20:36:59.000Z",
-        "days_on_market": "27",
-        "current_price": 228000,
-        "price_label": "$228K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.531084,
-          29.566168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "24a669ae-8f14-57da-80cf-f321eb822d3c",
         "address": "2928-Thurman-Dairy-Loop-Wake-Forest-NC-27587",
         "beds": 5,
@@ -10294,6 +10273,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f4800b0-56c4-506c-abe3-8ae10f7bc9d9",
+        "address": "2705-Shearwater-St-Clermont-FL-34711",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3885,
+        "listed_at": "2026-03-25T14:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.723683,
+          28.53366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f49d1ea-8a86-5ca0-ad7d-6bc1a5418ea8",
         "address": "2014-Hunters-Bend-Trl-Ladson-SC-29456",
         "beds": 4,
@@ -14719,27 +14719,6 @@
         "coordinates": [
           -97.364792,
           32.62125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "830a85cc-2b37-5a87-9cff-79cfcc9112e9",
-        "address": "304-Lamden-Ct-Lawrenceville-GA-30046",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1801,
-        "listed_at": "2026-02-27T18:20:07.000Z",
-        "days_on_market": ">31",
-        "current_price": 316000,
-        "price_label": "$316K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.960241,
-          33.942327
         ]
       }
     },
