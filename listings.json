@@ -21277,6 +21277,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bec7459a-90dd-5f85-9a86-123fcee5ce35",
+        "address": "7446-Salmon-Ln-Ooltewah-TN-37363",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1596,
+        "listed_at": "2026-03-25T20:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.094844,
+          35.125007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "beee075d-f8aa-5ac0-ba13-4e8b73ccbd91",
         "address": "41636-W-Warren-Ln-Maricopa-AZ-85138",
         "beds": 4,
