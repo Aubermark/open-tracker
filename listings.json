@@ -5989,6 +5989,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36ce3869-6b12-59f3-9072-04e05199ea17",
+        "address": "821-E-Mission-St-Crowley-TX-76036",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1102,
+        "listed_at": "2026-03-25T16:50:07.000Z",
+        "days_on_market": ">31",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.346404,
+          32.579005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36e8f190-f570-5717-b6bf-bee09bbdd957",
         "address": "18062-E-104th-Pl-Unit-B-Commerce-City-CO-80022",
         "beds": 3,
