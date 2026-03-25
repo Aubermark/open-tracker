@@ -5653,27 +5653,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3167747c-2602-5d9b-b28f-d093bad0f58c",
-        "address": "206-Sport-Way-Griffin-GA-30223",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2064,
-        "listed_at": "2026-03-21T16:30:08.000Z",
-        "days_on_market": ">32",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.302832,
-          33.290168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32073d57-2f10-50ec-9ea8-ab3e2583d84e",
         "address": "5719-Rocbridge-Ln-Charlotte-NC-28208",
         "beds": 3,
@@ -25534,6 +25513,27 @@
         "coordinates": [
           -96.526187,
           32.902092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eab6f299-8be9-44e3-a6c1-724fa6a1724b",
+        "address": "12256-Barcroft-Cir-Huntley-IL-60142",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1512,
+        "listed_at": "2026-03-25T23:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.441607,
+          42.15069
         ]
       }
     },
