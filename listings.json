@@ -22936,6 +22936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfcdf102-2303-5f06-baf5-fb0bd2b94ccd",
+        "address": "740-1-2-N-Main-St-Tipton-IN-46072",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-03-25T22:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.041526,
+          40.292693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfefca45-8b7a-5008-a061-5840c8ea3172",
         "address": "945-Countryside-Dr-Troy-MO-63379",
         "beds": 3,
