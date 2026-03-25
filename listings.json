@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36279d7f-0ef7-5d3f-a812-9131fdffb61a",
+        "address": "14504-W-139th-St-Olathe-KS-66062",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1763,
+        "listed_at": "2026-03-25T19:00:07.000Z",
+        "days_on_market": "27",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.753697,
+          38.877043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3685952d-0310-5d2b-b291-fc21f0c6151f",
         "address": "195-Flamingo-Bay-Dr-Missouri-City-TX-77459",
         "beds": 4,
