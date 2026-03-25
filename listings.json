@@ -13591,6 +13591,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a2ef2fc-67bd-5b32-9b3b-d0cd5d778b8c",
+        "address": "686-Watson-Reef-Stone-Mountain-GA-30087",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2055,
+        "listed_at": "2026-03-25T20:40:05.000Z",
+        "days_on_market": ">31",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.079392,
+          33.775516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a357e21-cf50-514b-8d4e-2f407a05b3df",
         "address": "21911-S-215th-St-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -16651,6 +16672,27 @@
         "coordinates": [
           -116.476679,
           43.718532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "952699c3-35a2-5077-8259-6a0314a4d15e",
+        "address": "1405-Demila-Dr-Fayetteville-NC-28314",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2340,
+        "listed_at": "2026-03-25T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0739,
+          35.060228
         ]
       }
     },
