@@ -7018,27 +7018,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "40450d18-7496-5f18-b3f2-b5278d21822f",
-        "address": "404-Pine-Ridge-Ct-Woodstock-GA-30188",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1668,
-        "listed_at": "2026-03-16T19:33:33.000Z",
-        "days_on_market": "21",
-        "current_price": 359000,
-        "price_label": "$359K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.53271,
-          34.077355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "40cb574d-90b4-5a01-83fc-21d57133f7c5",
         "address": "4603-Bluestem-Ln-Killeen-TX-76542",
         "beds": 3,
@@ -15013,27 +14992,6 @@
         "coordinates": [
           -81.149803,
           35.19234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8704bb97-9121-5a6e-9b7a-071046d5d857",
-        "address": "417-Nw-2nd-St-Boynton-Beach-FL-33435",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1089,
-        "listed_at": "2026-03-23T17:10:08.000Z",
-        "days_on_market": "2",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.067623,
-          26.530413
         ]
       }
     },
@@ -24862,6 +24820,27 @@
         "coordinates": [
           -111.202179,
           32.426829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e644e0c6-fa8e-5161-bf1a-49ab3fd16b65",
+        "address": "991-Calma-Dr-Chula-Vista-CA-91910-17659962",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2293,
+        "listed_at": "2026-03-25T20:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 1105000,
+        "price_label": "$1.105M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.031053,
+          32.628362
         ]
       }
     },
