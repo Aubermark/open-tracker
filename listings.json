@@ -3070,27 +3070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1b100ce6-7719-52a7-931b-a8bd0a940953",
-        "address": "2656-Lakevilla-Dr-Unit-16-Nashville-TN-37217",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1890,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">31",
-        "current_price": 317000,
-        "price_label": "$317K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.639842,
-          36.077942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1b4e838e-18ab-5c82-a217-bf8b07a978cf",
         "address": "1452-Box-Cir-Winder-GA-30680",
         "beds": 2,
@@ -4744,6 +4723,27 @@
         "coordinates": [
           -84.258639,
           33.236648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "297d8336-a7ac-5024-824d-f8b28f961da2",
+        "address": "113-Haven-Ln-Shelby-NC-28152",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-03-25T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.679456,
+          35.253458
         ]
       }
     },
@@ -17953,6 +17953,27 @@
         "coordinates": [
           -77.5125,
           38.24384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a16db5a7-4db4-5dc7-b88c-0e1407ab92b7",
+        "address": "6417-N-Kirkwood-Ave-Kansas-City-MO-64151",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1654,
+        "listed_at": "2026-03-25T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.638336,
+          39.211989
         ]
       }
     },
