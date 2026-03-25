@@ -697,6 +697,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "053f1572-8345-5ffd-976f-2c23bafa05a5",
+        "address": "8-Bahia-Court-Loop-Ocala-FL-34472",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-03-25T20:50:06.000Z",
+        "days_on_market": ">31",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.011946,
+          29.099089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "054d4701-0306-587e-aad0-7b2840f835d2",
         "address": "20612-Kingsville-St-Harper-Woods-MI-48225",
         "beds": 2,
@@ -6277,6 +6298,27 @@
         "coordinates": [
           -90.302074,
           38.628736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "38ec8a77-853a-557a-a454-c6b2b9d7023a",
+        "address": "565-Graeser-Rd-Saint-Louis-MO-63141",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2572,
+        "listed_at": "2026-03-25T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 582000,
+        "price_label": "$582K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42246,
+          38.667942
         ]
       }
     },
@@ -15643,27 +15685,6 @@
         "coordinates": [
           -97.204051,
           32.859652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8bc86d52-c7e8-5f3f-8eae-e7bdc2b612d1",
-        "address": "2912-S-Price-Rd-Tempe-AZ-85282",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1476,
-        "listed_at": "2026-03-19T17:20:08.000Z",
-        "days_on_market": ">31",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.892205,
-          33.397581
         ]
       }
     },
@@ -27088,27 +27109,6 @@
         "coordinates": [
           -116.545163,
           33.868562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa220e95-7f70-5073-85a2-d9ad30fa5fe6",
-        "address": "17517-W-Ventura-St-Surprise-AZ-85388",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1454,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">31",
-        "current_price": 344000,
-        "price_label": "$344K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.435932,
-          33.612067
         ]
       }
     },
