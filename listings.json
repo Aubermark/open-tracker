@@ -11680,27 +11680,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "68c683e6-b982-5d92-9388-37a7477dff83",
-        "address": "312-N-84th-Pl-Mesa-AZ-85207",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 892,
-        "listed_at": "2026-03-18T23:10:08.000Z",
-        "days_on_market": "6",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.649238,
-          33.420807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "68ff9af6-00f5-5c6e-ac07-9ed9ad9aa255",
         "address": "2692-E-Silk-Oak-Dr-Tempe-AZ-85281",
         "beds": 2,
@@ -25807,6 +25786,27 @@
         "coordinates": [
           -84.503771,
           39.214522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eccf04ae-57ca-5064-bcbf-97611a60005b",
+        "address": "1250-Lakeside-Dr-Mc-Calla-AL-35111",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1505,
+        "listed_at": "2026-03-25T17:40:05.000Z",
+        "days_on_market": "19",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.062486,
+          33.3297
         ]
       }
     },
