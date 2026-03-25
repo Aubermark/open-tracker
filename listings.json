@@ -1243,6 +1243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09f497c8-9b04-5b62-87cb-f6e905480ac8",
+        "address": "106-Whippoorwill-Way-Georgetown-TX-78633",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2932,
+        "listed_at": "2026-03-25T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 552000,
+        "price_label": "$552K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.734472,
+          30.703967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a0d1c0b-0e9c-4539-96ae-2d570e6ffc2f",
         "address": "6511-Wild-Orchid-Ct-Fredericksburg-VA-22407",
         "beds": 3,
