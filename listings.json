@@ -20332,27 +20332,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b826fa0f-b017-5518-af56-72df5ae5e541",
-        "address": "3672-Platina-Park-Ct-Decatur-GA-30034",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1575,
-        "listed_at": "2026-03-25T17:30:23.000Z",
-        "days_on_market": ">31",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.230052,
-          33.67436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b8376bd9-f5be-5f2b-a721-03dec80ec9b7",
         "address": "4583-Crestone-Peak-St-Brighton-CO-80601",
         "beds": 3,
@@ -23581,6 +23560,27 @@
         "coordinates": [
           -78.821826,
           35.991703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d82333ff-c1d9-5110-b409-73bd9d9da9b0",
+        "address": "1062-Rita-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-03-25T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 273000,
+        "price_label": "$273K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.166433,
+          39.602396
         ]
       }
     },
