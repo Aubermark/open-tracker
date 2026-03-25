@@ -5632,6 +5632,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
+        "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1338,
+        "listed_at": "2026-03-25T19:50:08.000Z",
+        "days_on_market": ">31",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.193533,
+          32.769875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32073d57-2f10-50ec-9ea8-ab3e2583d84e",
         "address": "5719-Rocbridge-Ln-Charlotte-NC-28208",
         "beds": 3,
@@ -11737,6 +11758,27 @@
         "coordinates": [
           -81.991911,
           29.778462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6a5651b9-266d-5574-93cd-157c3c35242b",
+        "address": "5939-Farmbrook-Ln-Rex-GA-30273",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1320,
+        "listed_at": "2026-03-25T19:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.277355,
+          33.592134
         ]
       }
     },
