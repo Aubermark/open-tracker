@@ -9937,6 +9937,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c3cca00-5126-5233-83ba-066608f3575e",
+        "address": "13843-Waterville-Way-Houston-TX-77015",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1471,
+        "listed_at": "2026-03-25T21:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.176842,
+          29.796324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c56cef6-04f3-5703-ba38-0d36475faf2a",
         "address": "19500-Morgana-Dr-Pflugerville-TX-78660",
         "beds": 4,
@@ -15670,27 +15691,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8b8f11d3-7c4c-5deb-ab0d-f0e47ebacb8e",
-        "address": "14433-Green-River-Rd-Victorville-CA-92394",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1088,
-        "listed_at": "2026-03-14T16:29:01.000Z",
-        "days_on_market": ">31",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.348216,
-          34.517104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8b91340b-8c03-5a66-a832-52da4e2326e5",
         "address": "6286-Shirley-Dr-Fort-Worth-TX-76180",
         "beds": 3,
@@ -18694,27 +18694,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a8d3290d-dc6a-5ac5-a539-5cff2a50e40a",
-        "address": "2828-Shartle-St-Middletown-OH-45042",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1518,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">31",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.375215,
-          39.5229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a8f44251-b3d6-53c1-bad8-188fe03b5f8c",
         "address": "10906-Rosin-Jaw-Trl-San-Antonio-TX-78245",
         "beds": 3,
@@ -19423,27 +19402,6 @@
         "coordinates": [
           -80.684186,
           34.702447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b0966421-8bc8-5904-9020-52d8678168d4",
-        "address": "760-Autumn-Ridge-Ln-Columbia-TN-38401",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1435,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">31",
-        "current_price": 331000,
-        "price_label": "$331K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.040397,
-          35.636646
         ]
       }
     },
