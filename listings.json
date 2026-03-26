@@ -2797,6 +2797,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c921b6-a34a-5a2b-9d55-9c8b674b1bf2",
+        "address": "105-Nottingham-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-03-26T00:50:05.000Z",
+        "days_on_market": ">32",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16982,
+          32.955414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16f0bcee-2d6c-54b0-ae91-aad8d8682410",
         "address": "9580-Brentwood-Way-Unit-D-Westminster-CO-80021",
         "beds": 2,
@@ -7012,6 +7033,27 @@
         "coordinates": [
           -84.570252,
           39.347192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "406534b9-93fd-544c-bc0a-86a3fb1b20cf",
+        "address": "9432-Carter-Dr-Overland-Park-KS-66212",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1845,
+        "listed_at": "2026-03-26T00:50:05.000Z",
+        "days_on_market": ">32",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.696813,
+          38.95692
         ]
       }
     },
