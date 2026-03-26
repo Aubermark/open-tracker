@@ -2965,6 +2965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1913c725-5f14-5410-9c85-59d773b1b88f",
+        "address": "10049-Southlawn-Cir-Commerce-City-CO-80022",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-03-26T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.781668,
+          39.879478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1999788a-3b41-56a1-8289-10866e568543",
         "address": "2634-E-Ridge-Creek-Rd-Phoenix-AZ-85024",
         "beds": 4,
@@ -8818,6 +8839,27 @@
         "coordinates": [
           -121.993579,
           38.238604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5032315c-8adc-520e-bb07-2ca648e957fd",
+        "address": "227-Brown-Acres-Rd-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1556,
+        "listed_at": "2026-03-26T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 251000,
+        "price_label": "$251K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.264568,
+          33.215324
         ]
       }
     },
