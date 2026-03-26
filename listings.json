@@ -739,27 +739,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "054d4701-0306-587e-aad0-7b2840f835d2",
-        "address": "20612-Kingsville-St-Harper-Woods-MI-48225",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 985,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">32",
-        "current_price": 106000,
-        "price_label": "$106K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.929808,
-          42.426783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "058051ed-c8a9-534f-b42c-31aa7a427d9b",
         "address": "309-Se-Shawn-Ct-Blue-Springs-MO-64014",
         "beds": 3,
@@ -6760,6 +6739,27 @@
         "coordinates": [
           -96.950124,
           32.8084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d3e51ea-c2d0-51ea-8d94-0322ead549c2",
+        "address": "5621-Split-Oak-Way-Raleigh-NC-27609",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1292,
+        "listed_at": "2026-03-26T17:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.605173,
+          35.85565
         ]
       }
     },
@@ -17701,27 +17701,6 @@
         "coordinates": [
           -82.474977,
           27.599133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9eb38b9f-ca36-5a94-b01e-7ee350e3b443",
-        "address": "511-W-Kanawha-Ave-Columbus-OH-43214",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1505,
-        "listed_at": "2026-03-17T23:30:07.000Z",
-        "days_on_market": ">32",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.032914,
-          40.071467
         ]
       }
     },
