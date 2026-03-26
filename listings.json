@@ -3532,6 +3532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f086bed-f64e-5493-8a95-264f4e1bf65a",
+        "address": "65-Ridgefield-Dr-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1209,
+        "listed_at": "2026-03-26T21:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84183,
+          33.803298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f617872-ae9b-54af-8bc1-e66e8c6bd3ae",
         "address": "5924-Mc-Dowell-Run-Dr-Huntersville-NC-28078",
         "beds": 3,
@@ -7768,6 +7789,27 @@
         "coordinates": [
           -80.415053,
           36.116644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "47adb66e-6697-58c8-8c79-025541d42e18",
+        "address": "23286-Southdown-Manor-Ter-Unit-108-Ashburn-VA-20148-17652272",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 942,
+        "listed_at": "2026-03-26T21:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.512617,
+          38.972831
         ]
       }
     },
