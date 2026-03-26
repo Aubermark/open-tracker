@@ -2020,6 +2020,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "110af915-ffd1-5530-9719-1fbc0eb8de73",
+        "address": "20192-Southwood-Oaks-Dr-Porter-TX-77365",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2812,
+        "listed_at": "2026-03-26T23:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.262498,
+          30.09361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11493c13-db14-5a44-81c0-0693e890fd3e",
         "address": "4121-Granite-St-Midland-NC-28107",
         "beds": 4,
@@ -5521,6 +5542,27 @@
         "coordinates": [
           -95.488961,
           29.545992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "30b73ce2-1ec7-59ad-9d52-5ee5355f9e69",
+        "address": "8911-Rich-Trace-St-San-Antonio-TX-78251",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1675,
+        "listed_at": "2026-03-26T23:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.658078,
+          29.450025
         ]
       }
     },
@@ -11449,27 +11491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "66e94205-61cf-545e-8bfe-ecab1546f8f1",
-        "address": "413-Jasmine-Trl-Athens-GA-30606",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-03-04T19:20:07.000Z",
-        "days_on_market": "23",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.45127,
-          33.983994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66f12572-4dd8-5a1c-a7f3-d1e855eb4ec0",
         "address": "91-Richmond-Dr-Lagrange-GA-30240",
         "beds": 4,
@@ -16231,6 +16252,27 @@
         "coordinates": [
           -86.147067,
           39.815293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8ee8f038-8014-5aa1-86a9-e6bfc77f0e77",
+        "address": "745-Covent-Dr-Kyle-TX-78640",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1774,
+        "listed_at": "2026-03-26T23:40:05.000Z",
+        "days_on_market": ">33",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.836406,
+          30.005628
         ]
       }
     },
