@@ -4771,27 +4771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "297d8336-a7ac-5024-824d-f8b28f961da2",
-        "address": "113-Haven-Ln-Shelby-NC-28152",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1372,
-        "listed_at": "2026-03-25T21:10:05.000Z",
-        "days_on_market": "1",
-        "current_price": 229000,
-        "price_label": "$229K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.679456,
-          35.253458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "29b1ccd4-1bfa-574c-ae74-7bbff6c0d042",
         "address": "12426-W-Flores-Dr-El-Mirage-AZ-85335",
         "beds": 4,
@@ -7558,6 +7537,27 @@
         "coordinates": [
           -84.604901,
           33.727736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "45dc74f3-172f-5e07-b8c7-778eb9cba8f2",
+        "address": "1938-Gordon-Ct-Erie-CO-80516",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2110,
+        "listed_at": "2026-03-26T15:10:07.000Z",
+        "days_on_market": ">32",
+        "current_price": 656000,
+        "price_label": "$656K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.073419,
+          40.039001
         ]
       }
     },
