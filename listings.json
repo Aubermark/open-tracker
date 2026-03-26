@@ -8656,6 +8656,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ee8dcdf-55c4-5585-9cf3-775a76193d1a",
+        "address": "105-Kimball-Bridge-Cv-Alpharetta-GA-30022",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3126,
+        "listed_at": "2026-03-26T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 805000,
+        "price_label": "$805K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.244731,
+          34.047884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f370bdc-b26e-5e97-a00e-82e621355b26",
         "address": "921-Neva-Ranch-Ave-North-Las-Vegas-NV-89081",
         "beds": 3,
@@ -17245,6 +17266,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a809828-a441-5563-83a1-74e0cfe53000",
+        "address": "7617-Bristol-Park-Dr-Apollo-Beach-FL-33572",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1695,
+        "listed_at": "2026-03-26T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.366542,
+          27.782128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a9df6aa-b715-554d-bfb5-ad7d7adeef3c",
         "address": "1139-Kelso-Ln-Burlington-NC-27215",
         "beds": 2,
@@ -22453,6 +22495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb970a34-b9ee-5390-80ba-3f0bf91dcdaa",
+        "address": "6764-W-Piute-Ave-Glendale-AZ-85308",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2846,
+        "listed_at": "2026-03-26T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 563000,
+        "price_label": "$563K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.205828,
+          33.661271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbb45e79-4b73-5e99-a789-470c6b44d877",
         "address": "18715-Libby-Rd-Maple-Heights-OH-44137",
         "beds": 3,
@@ -25387,27 +25450,6 @@
         "coordinates": [
           -80.788962,
           35.064301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e95d17bb-871e-53e5-a60d-8338bd7c5fb0",
-        "address": "6132-Sundown-Dr-Fort-Worth-TX-76114",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1339,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">32",
-        "current_price": 234000,
-        "price_label": "$234K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.414351,
-          32.771461
         ]
       }
     },
