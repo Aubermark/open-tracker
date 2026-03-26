@@ -18673,6 +18673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a71b459b-a417-54f1-9b5a-14f289b048c4",
+        "address": "1711-Kennedy-Dr-Wylie-TX-75098",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2877,
+        "listed_at": "2026-03-26T18:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.573269,
+          33.02371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a73e844d-af86-58a4-992f-c13f14538fd9",
         "address": "3610-Crosscut-Loop-Killeen-TX-76542",
         "beds": 3,
