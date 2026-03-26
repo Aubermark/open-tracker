@@ -25708,6 +25708,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9c8c1ae-434b-5c59-a833-718fdd6a6aa0",
+        "address": "14214-Cold-Harbour-Dr-Accokeek-MD-20607",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3152,
+        "listed_at": "2026-03-26T22:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.972046,
+          38.69358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9e56075-5a9c-5d45-82a9-7e2c9d67dffa",
         "address": "103-Linda-Dr-Hendersonville-TN-37075",
         "beds": 3,
