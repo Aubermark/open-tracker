@@ -2965,6 +2965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19c3332c-ea29-54ea-ac56-eabcead1ff32",
+        "address": "6312-Lake-Trail-Dr-Fayetteville-NC-28304",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1334,
+        "listed_at": "2026-03-26T18:50:10.000Z",
+        "days_on_market": "15",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.002475,
+          35.014477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "19d1fb30-8671-50b5-bf9c-32aaa9406cbe",
         "address": "25151-W-Parkside-Ln-S-Buckeye-AZ-85326",
         "beds": 3,
@@ -8671,6 +8692,27 @@
         "coordinates": [
           -115.225111,
           36.005537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4f370bdc-b26e-5e97-a00e-82e621355b26",
+        "address": "921-Neva-Ranch-Ave-North-Las-Vegas-NV-89081",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1851,
+        "listed_at": "2026-03-26T18:50:10.000Z",
+        "days_on_market": ">32",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.129242,
+          36.265641
         ]
       }
     },
