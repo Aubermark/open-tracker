@@ -2377,6 +2377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14a83b18-979f-554d-ac10-91c807b71f2e",
+        "address": "22103-Wilmot-Ave-Eastpointe-MI-48021",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 918,
+        "listed_at": "2026-03-26T16:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 152000,
+        "price_label": "$152K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.935474,
+          42.461667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "152cc949-aa6d-592a-a009-2ca93fe988e3",
         "address": "140-Longtown-Place-Dr-Columbia-SC-29229",
         "beds": 4,
@@ -13696,6 +13717,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ae3ee73-64c9-5d25-8265-78b927baa0b8",
+        "address": "1014-Fosdick-Dr-Colorado-Springs-CO-80909",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1667,
+        "listed_at": "2026-03-26T16:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.749254,
+          38.847965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b1b743d-3941-52a7-8c7c-feed207cbe6a",
         "address": "1661-Holly-Grove-Way-Durham-NC-27713",
         "beds": 3,
@@ -15097,6 +15139,27 @@
         "coordinates": [
           -81.149803,
           35.19234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8703409c-d729-573f-b991-2cb6a83aff0a",
+        "address": "606-Gulfstream-Trl-S-Orange-Park-FL-32073",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2153,
+        "listed_at": "2026-03-26T16:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.741658,
+          30.156298
         ]
       }
     },
@@ -21985,27 +22048,6 @@
         "coordinates": [
           -84.004165,
           33.56875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c81cd40b-6fc9-54ff-8ac7-f6c2eeabeb6c",
-        "address": "61-Indian-Springs-Dr-Ne-Rydal-GA-30171",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1641,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">32",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.719351,
-          34.314564
         ]
       }
     },
