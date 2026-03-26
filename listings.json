@@ -7732,27 +7732,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "477a41f9-d8cd-5f57-bdf8-720a97d3cec3",
-        "address": "1166-Zephyr-St-Ypsilanti-MI-48198",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1688,
-        "listed_at": "2026-03-23T15:50:05.000Z",
-        "days_on_market": "3",
-        "current_price": 241000,
-        "price_label": "$241K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.570684,
-          42.229417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4781cfed-17e4-57fc-90c3-f4090b03434c",
         "address": "6803-Freedom-Rdg-San-Antonio-TX-78242",
         "beds": 4,
@@ -13480,6 +13459,27 @@
         "coordinates": [
           -82.70821,
           27.866325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "780ba4ec-65f3-4dd5-903a-3150e1b5ae4e",
+        "address": "67-S-7th-St-Lake-Hamilton-FL-33851",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-03-26T21:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.628682,
+          28.043506
         ]
       }
     },
