@@ -12583,6 +12583,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e860695-0b1b-542b-b7a6-3024cdb9f060",
+        "address": "8506-Sunset-Canyon-Dr-Temple-TX-76502",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2105,
+        "listed_at": "2026-03-26T22:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.433568,
+          31.117548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6eb1b0fc-0f3a-557c-b948-c6eded618af6",
         "address": "105-Kings-Way-Dr-Rhome-TX-76078",
         "beds": 3,
@@ -22558,27 +22579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cb168340-574d-522a-82f9-fd57fa5b3436",
-        "address": "230-Oak-Meadows-Pl-Covington-GA-30016",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2112,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">32",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.908646,
-          33.483918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cb268352-4285-5c19-b0b5-6525bd625dfa",
         "address": "978-Tammy-Cove-Ln-Jacksonville-FL-32218",
         "beds": 3,
@@ -27088,6 +27088,27 @@
         "coordinates": [
           -95.66792,
           30.233427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f554b838-1bb2-5705-a8ea-435ba9aa15d5",
+        "address": "645-N-Armistead-St-Alexandria-VA-22312",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2508,
+        "listed_at": "2026-03-26T22:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13488,
+          38.824454
         ]
       }
     },
