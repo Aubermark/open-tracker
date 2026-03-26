@@ -19177,6 +19177,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae8bf612-7a6a-531a-a8cb-878e17aad63d",
+        "address": "11122-Chalkbark-Ln-Charlotte-NC-28262",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1969,
+        "listed_at": "2026-03-26T16:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74409,
+          35.341965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae9bb6d3-b571-5fa5-b0a5-ebb71b43cb9b",
         "address": "5316-Marmith-Ave-Sacramento-CA-95841",
         "beds": 3,
@@ -19276,27 +19297,6 @@
         "coordinates": [
           -97.708229,
           31.095766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af983279-4633-5e3e-b279-67ced0d9c19a",
-        "address": "213-Gatewood-Dr-Garner-NC-27529",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1326,
-        "listed_at": "2026-02-26T22:10:07.000Z",
-        "days_on_market": "28",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.598736,
-          35.732651
         ]
       }
     },
