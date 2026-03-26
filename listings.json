@@ -2377,6 +2377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14cb826e-b7e8-5f9b-882d-601b20d831cd",
+        "address": "42497-W-Ramirez-Dr-Maricopa-AZ-85138",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2248,
+        "listed_at": "2026-03-26T17:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.024306,
+          33.038184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "152cc949-aa6d-592a-a009-2ca93fe988e3",
         "address": "140-Longtown-Place-Dr-Columbia-SC-29229",
         "beds": 4,
@@ -20389,6 +20410,27 @@
         "coordinates": [
           -86.358368,
           39.781845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b826fa0f-b017-5518-af56-72df5ae5e541",
+        "address": "3672-Platina-Park-Ct-Decatur-GA-30034",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1575,
+        "listed_at": "2026-03-26T17:50:09.000Z",
+        "days_on_market": ">32",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.230052,
+          33.67436
         ]
       }
     },
