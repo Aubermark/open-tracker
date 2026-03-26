@@ -3952,6 +3952,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "233a5061-24e0-5a50-a502-78564224cab3",
+        "address": "20224-Northport-Dr-Cornelius-NC-28031",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2686,
+        "listed_at": "2026-03-26T17:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 701000,
+        "price_label": "$701K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.895174,
+          35.483858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "234a32a7-73c9-46c9-8155-65f4f0bcfaf2",
         "address": "10647-W-Goulding-Dr-Marana-AZ-85653",
         "beds": 3,
@@ -5086,27 +5107,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c520139-af8b-5146-9f15-9dedbe920ca8",
-        "address": "9372-Prairie-View-Dr-Highlands-Ranch-CO-80126",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3266,
-        "listed_at": "2026-03-05T23:10:07.000Z",
-        "days_on_market": "20",
-        "current_price": 860000,
-        "price_label": "$860K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.962248,
-          39.546302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c8e8042-5c12-53ea-a502-0829980e1a69",
         "address": "868-Scott-Rd-Riverdale-GA-30296",
         "beds": 3,
@@ -5626,6 +5626,27 @@
         "coordinates": [
           -115.233437,
           36.111021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "32f4bba4-15d3-57bd-9e19-1f4b9e2d7c6d",
+        "address": "4246-15th-St-N-Arlington-VA-22207",
+        "beds": 6,
+        "baths": 7,
+        "sqft": 5536,
+        "listed_at": "2026-03-26T17:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 2350000,
+        "price_label": "$2.350M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.113052,
+          38.888851
         ]
       }
     },
@@ -10561,6 +10582,27 @@
         "coordinates": [
           -80.22803,
           33.006264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6160fb59-d41e-5359-b7b4-a27f80d913bb",
+        "address": "5148-Roxborough-Dr-Hermitage-TN-37076",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2243,
+        "listed_at": "2026-03-26T17:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 482000,
+        "price_label": "$482K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.582003,
+          36.168233
         ]
       }
     },
