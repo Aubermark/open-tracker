@@ -6787,6 +6787,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c999ee1-43df-5ef7-b310-c910ba215b31",
+        "address": "1103-Fleetwood-Place-Dr-Houston-TX-77079",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3318,
+        "listed_at": "2026-03-26T23:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.641198,
+          29.773007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3cacc2f3-ba29-57b4-a531-6bf46efb8862",
         "address": "4121-Abbeydale-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -20521,6 +20542,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6a6a746-4410-543d-88ff-faed89a37f8d",
+        "address": "3010-Brass-Dr-Austell-GA-30106",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1768,
+        "listed_at": "2026-03-26T23:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.643284,
+          33.848566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6b293b8-fbb5-56fa-a25b-57a3a627fed6",
         "address": "433-Heath-Pl-Smyrna-TN-37167",
         "beds": 3,
@@ -28180,6 +28222,27 @@
         "coordinates": [
           -86.335516,
           39.939658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "feecbcc7-1725-5e50-b4f3-3b5576c2c33d",
+        "address": "758-Ne-Hawks-Ridge-Way-Port-Saint-Lucie-FL-34983",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1137,
+        "listed_at": "2026-03-26T23:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.344463,
+          27.344522
         ]
       }
     },
