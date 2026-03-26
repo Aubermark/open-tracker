@@ -10252,6 +10252,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5df6a6df-ab8f-5e0d-8f39-4d23b381b20f",
+        "address": "7763-W-Pipestone-Pl-Phoenix-AZ-85035",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1845,
+        "listed_at": "2026-03-26T19:00:10.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.226451,
+          33.472173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dfce272-20c9-5127-879f-517c89d43219",
         "address": "1702-Blue-Jay-Dr-Ennis-TX-75119",
         "beds": 3,
