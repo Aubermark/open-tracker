@@ -20248,6 +20248,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b69dd48d-84c9-599c-a7c4-b98bc35890a7",
+        "address": "2976-Claymille-Blvd-Nashville-TN-37207",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2512,
+        "listed_at": "2026-03-26T17:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802713,
+          36.228218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6b293b8-fbb5-56fa-a25b-57a3a627fed6",
         "address": "433-Heath-Pl-Smyrna-TN-37167",
         "beds": 3,
@@ -24274,6 +24295,27 @@
         "coordinates": [
           -81.415159,
           40.801537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df118d6c-6e25-56d4-99a9-f5e89e2d632d",
+        "address": "6703-E-Javalina-Way-Florence-AZ-85132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1511,
+        "listed_at": "2026-03-26T17:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.494221,
+          33.101736
         ]
       }
     },
