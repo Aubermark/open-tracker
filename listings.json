@@ -13213,6 +13213,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7680518a-1405-56d9-b31c-e82cd1e83c06",
+        "address": "556-N-Overland-Mesa-AZ-85207",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1718,
+        "listed_at": "2026-03-26T20:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.659544,
+          33.425641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7684156c-e37d-5a9a-8ea2-41f901386dad",
         "address": "307-W-Gemini-Ln-Killeen-TX-76542",
         "beds": 3,
