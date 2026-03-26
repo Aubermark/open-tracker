@@ -5758,6 +5758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "34273814-f43b-5dd5-9d5e-b7d792a1da75",
+        "address": "6339-W-Range-Mule-Dr-Phoenix-AZ-85083",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3131,
+        "listed_at": "2026-03-26T17:40:09.000Z",
+        "days_on_market": ">32",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.197129,
+          33.717316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "343b334b-4820-44a7-a844-890c6dc6dade",
         "address": "129-W-Compass-Way-Easley-SC-29640",
         "beds": 4,
