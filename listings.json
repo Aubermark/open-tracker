@@ -1726,6 +1726,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ea8f87c-f690-5479-96e1-414d4b9c53fb",
+        "address": "14537-Mira-Vista-Ln-Lockeford-CA-95237",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 4375,
+        "listed_at": "2026-03-26T23:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 1350000,
+        "price_label": "$1.350M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13875,
+          38.169684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ebcee41-909f-5811-af8e-98849bc9b065",
         "address": "136-Ashton-Dr-Goose-Creek-SC-29445",
         "beds": 3,
@@ -17323,6 +17344,27 @@
         "coordinates": [
           -80.907161,
           35.026548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a0c0b8a-c560-5036-b8e9-1d1d801d1237",
+        "address": "2919-Ronstadt-Dr-Christiana-TN-37037",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1670,
+        "listed_at": "2026-03-26T23:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.348033,
+          35.738477
         ]
       }
     },
