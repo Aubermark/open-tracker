@@ -7123,6 +7123,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40c7dcdb-ec19-52f3-9537-78c6ad7dfce8",
+        "address": "28-Meadows-Ct-Dawsonville-GA-30534",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3865,
+        "listed_at": "2026-03-26T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 547000,
+        "price_label": "$547K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.046703,
+          34.376911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40cb574d-90b4-5a01-83fc-21d57133f7c5",
         "address": "4603-Bluestem-Ln-Killeen-TX-76542",
         "beds": 3,
@@ -26500,6 +26521,27 @@
         "coordinates": [
           -117.628359,
           33.875019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef5d2ea4-a7a2-5e81-aa3b-34bf99ea298f",
+        "address": "227-Park-Place-Ct-Avon-IN-46123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1410,
+        "listed_at": "2026-03-26T22:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.394107,
+          39.766303
         ]
       }
     },
