@@ -10819,6 +10819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "622da2a6-0706-5b09-b327-10260e1618bf",
+        "address": "10002-N-66th-Ln-Glendale-AZ-85302",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1523,
+        "listed_at": "2026-03-26T20:00:08.000Z",
+        "days_on_market": ">32",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.202523,
+          33.576336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "623b4965-184a-5d14-8202-c56910a58c99",
         "address": "4241-Grady-Smith-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -18862,6 +18883,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a9e4ae0e-7a8a-5c48-83c7-dedde15757c7",
+        "address": "257-Spring-Meadows-Dr-Ringgold-GA-30736",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1346,
+        "listed_at": "2026-03-26T20:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.168492,
+          34.803987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa07d7d4-8aa1-5c3b-8cd2-44279cbb2f4a",
         "address": "1600-Desperado-Rd-Fort-Worth-TX-76131",
         "beds": 3,
@@ -19885,27 +19927,6 @@
         "coordinates": [
           -98.338941,
           29.586047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b453e282-0037-547d-84e1-355c2dec455f",
-        "address": "6906-Whalen-Dr-Corpus-Christi-TX-78413",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1334,
-        "listed_at": "2026-03-11T20:10:07.000Z",
-        "days_on_market": ">32",
-        "current_price": 209000,
-        "price_label": "$209K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.408332,
-          27.685472
         ]
       }
     },
@@ -23224,6 +23245,27 @@
         "coordinates": [
           -84.2022,
           33.277267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d153189d-5cf9-52fd-8720-c6a2cc672e7f",
+        "address": "1760-S-Oneida-St-Denver-CO-80224",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2616,
+        "listed_at": "2026-03-26T20:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.907987,
+          39.684391
         ]
       }
     },
