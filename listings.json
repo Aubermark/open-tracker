@@ -6409,6 +6409,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3991b222-c00a-57cc-ac98-0fde77b670e8",
+        "address": "4050-Huntingreen-Ln-Apt-A-Winston-Salem-NC-27106",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1947,
+        "listed_at": "2026-03-27T22:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.318241,
+          36.127267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "399da60d-782a-5bdc-984a-ec06c068732a",
         "address": "1034-Kennedy-Dr-Allen-TX-75013-13974253",
         "beds": 5,
@@ -14116,27 +14137,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7c834f41-d020-54ad-9788-83c132af9975",
-        "address": "7848-Desert-Bell-Ave-Las-Vegas-NV-89128",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2406,
-        "listed_at": "2026-03-27T22:10:06.000Z",
-        "days_on_market": "25",
-        "current_price": 610000,
-        "price_label": "$610K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.266069,
-          36.191998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7c84f53e-68f1-41cf-83dd-314c3c1becfe",
         "address": "408-N-Palm-Springs-Way-Tracy-CA-95391",
         "beds": 4,
@@ -17512,27 +17512,6 @@
         "coordinates": [
           -81.49517,
           28.344609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9b9d901a-3616-5f01-8b1a-1b30d261e113",
-        "address": "4604-Vista-Meadows-Dr-Fort-Worth-TX-76244-17733353",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2416,
-        "listed_at": "2026-03-19T15:00:08.000Z",
-        "days_on_market": ">33",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.287323,
-          32.920455
         ]
       }
     },
