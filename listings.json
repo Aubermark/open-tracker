@@ -7858,6 +7858,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "477a41f9-d8cd-5f57-bdf8-720a97d3cec3",
+        "address": "1166-Zephyr-St-Ypsilanti-MI-48198",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1688,
+        "listed_at": "2026-03-27T20:00:05.000Z",
+        "days_on_market": "4",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.570684,
+          42.229417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "479e77f8-1a6e-51c5-8255-e3e6a62a4aa9",
         "address": "7395-Cortney-Glen-Ln-Lewisville-NC-27023",
         "beds": 3,
@@ -16861,6 +16882,27 @@
         "coordinates": [
           -112.286209,
           33.582211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94d936fb-d639-5fc1-b1b3-eecc9980cf9d",
+        "address": "1495-S-Peace-Haven-Rd-Clemmons-NC-27012",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1807,
+        "listed_at": "2026-03-27T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 348000,
+        "price_label": "$348K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.409025,
+          36.033583
         ]
       }
     },
