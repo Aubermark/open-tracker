@@ -3763,6 +3763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20cdc0a5-2993-5f7e-adf3-4d320f6b23d2",
+        "address": "1390-Chapel-Hill-Ln-Sw-Marietta-GA-30008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2052,
+        "listed_at": "2026-03-27T16:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.594171,
+          33.905892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2137417c-8cf2-5eb0-9774-62e2909dc89d",
         "address": "3808-Tatonka-Dr-Killeen-TX-76549",
         "beds": 4,
@@ -20830,6 +20851,27 @@
         "coordinates": [
           -82.366881,
           28.167102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8d99190-8da3-5760-b82a-32e990e3127f",
+        "address": "6761-Judson-Ave-Las-Vegas-NV-89156",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-03-27T16:30:08.000Z",
+        "days_on_market": "29",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.025366,
+          36.198722
         ]
       }
     },
