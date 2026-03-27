@@ -26632,6 +26632,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f25a9128-bb54-5e35-92db-cd8e578e67c7",
+        "address": "14110-Lora-St-Smithville-MO-64089",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1585,
+        "listed_at": "2026-03-27T22:50:05.000Z",
+        "days_on_market": "28",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.581684,
+          39.348362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f25d5fb1-0146-5b56-8f29-6fa0579e1361",
         "address": "6643-W-Capetown-Way-Tucson-AZ-85757",
         "beds": 4,
