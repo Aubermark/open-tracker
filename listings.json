@@ -16615,6 +16615,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "928997a0-37d9-550d-b657-bd7a9a4e12de",
+        "address": "2501-Avalon-Creek-Way-Mc-Kinney-TX-75071",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2306,
+        "listed_at": "2026-03-27T23:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.642827,
+          33.239152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "929b4c5a-c730-5fae-90db-03952eba6c81",
         "address": "6614-Sparrowood-Dr-Indianapolis-IN-46236",
         "beds": 3,
