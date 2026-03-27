@@ -17350,27 +17350,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9a4d698c-edb1-5ce1-a2f7-25230a5518d3",
-        "address": "941-Jann-Ave-Opa-Locka-FL-33054",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1250,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">33",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.252448,
-          25.908945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9a627cff-1856-5ca1-8991-d7ccff9a2c80",
         "address": "7846-Cayuga-Dr-New-Port-Richey-FL-34653",
         "beds": 3,
@@ -23686,6 +23665,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d5333c08-0c72-51f5-80bf-374171306413",
+        "address": "6906-Ellen-Boat-Ln-Canal-Winchester-OH-43110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2687,
+        "listed_at": "2026-03-27T22:40:08.000Z",
+        "days_on_market": ">33",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.814157,
+          39.865183
         ]
       }
     },
