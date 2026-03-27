@@ -10315,6 +10315,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5db9f723-687f-5f40-b4ce-ff86c36011a2",
+        "address": "3910-Childress-St-Houston-TX-77005",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3780,
+        "listed_at": "2026-03-27T18:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 1455000,
+        "price_label": "$1.455M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.440202,
+          29.727301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dcfe148-d7f1-4016-9478-aa64a5a90880",
         "address": "441-N-Paso-Robles-Dr-Tracy-CA-95391",
         "beds": 4,
@@ -12136,27 +12157,6 @@
         "coordinates": [
           -112.434597,
           33.551046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6afe3cf6-4cdb-5d5a-a5a5-c17a30229a66",
-        "address": "11017-Amburg-Ct-Indianapolis-IN-46235",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1750,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">33",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.971382,
-          39.821612
         ]
       }
     },
@@ -19465,27 +19465,6 @@
         "coordinates": [
           -78.555333,
           36.118048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "adea48df-0129-555a-a68b-02eecf49dd86",
-        "address": "3609-Arrowwood-Dr-Raleigh-NC-27604",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1671,
-        "listed_at": "2026-03-16T18:50:08.000Z",
-        "days_on_market": "11",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.593098,
-          35.831811
         ]
       }
     },
