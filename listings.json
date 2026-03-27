@@ -11911,6 +11911,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "69894574-b0c6-528e-8dd0-0a2ab3b4814e",
+        "address": "9953-Nw-1st-Ct-Coral-Springs-FL-33071",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1753,
+        "listed_at": "2026-03-27T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.258525,
+          26.231941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "69ba74fa-b4ef-5437-b59b-290317cac510",
         "address": "8141-Long-Nook-Ln-Charlotte-NC-28277",
         "beds": 4,
