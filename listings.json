@@ -2692,6 +2692,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "164813df-d821-5ce4-8f67-8baf6b9bcf04",
+        "address": "2324-W-16th-St-Jacksonville-FL-32209",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1164,
+        "listed_at": "2026-03-27T17:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.700424,
+          30.353057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1658c942-1fd3-598f-b6c7-0b5a99767553",
         "address": "1220-Bergmann-Dr-Stillwater-MN-55082",
         "beds": 2,
@@ -13648,27 +13669,6 @@
         "coordinates": [
           -112.332663,
           33.614798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "78996865-c7c5-5e12-9aac-0e6695ad67c5",
-        "address": "246-Two-Hitch-Rd-Goose-Creek-SC-29445",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1356,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">33",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.073831,
-          33.026494
         ]
       }
     },
