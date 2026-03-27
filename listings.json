@@ -18085,6 +18085,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9f5ec8f9-8f27-57ca-849f-c32c8bd4647b",
+        "address": "24035-Alpine-Dr-Crestline-CA-92325",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1300,
+        "listed_at": "2026-03-27T18:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.278685,
+          34.238463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9fe022be-01f0-583e-827c-e5b5de589c5f",
         "address": "15237-N-147th-Ln-Surprise-AZ-85379",
         "beds": 4,
