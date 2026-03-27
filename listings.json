@@ -13864,6 +13864,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a90cc10-f7d2-5bfb-b4d5-1711979e9b3f",
+        "address": "147-Lake-Jogassee-Dr-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1552,
+        "listed_at": "2026-03-27T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.152991,
+          32.990081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ae3ee73-64c9-5d25-8265-78b927baa0b8",
         "address": "1014-Fosdick-Dr-Colorado-Springs-CO-80909",
         "beds": 3,
@@ -22558,6 +22579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb1d3c6b-6896-5f3a-882f-c123d248d38a",
+        "address": "1179-Nw-161st-Ave-Pembroke-Pines-FL-33028",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2332,
+        "listed_at": "2026-03-27T20:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 701000,
+        "price_label": "$701K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.357222,
+          26.017095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb268352-4285-5c19-b0b5-6525bd625dfa",
         "address": "978-Tammy-Cove-Ln-Jacksonville-FL-32218",
         "beds": 3,
@@ -24925,27 +24967,6 @@
         "coordinates": [
           -84.225835,
           33.874891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2fc588a-f235-5f20-809e-95da077d46ce",
-        "address": "3238-W-74th-Pl-Merrillville-IN-46410",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1358,
-        "listed_at": "2026-02-28T08:24:04.000Z",
-        "days_on_market": "27",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.375999,
-          41.48313
         ]
       }
     },
