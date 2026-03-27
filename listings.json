@@ -3784,6 +3784,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20b739a1-4998-5a6f-b41e-03b998a8e910",
+        "address": "171-River-Ridge-Pl-Welaka-FL-32193",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1477,
+        "listed_at": "2026-03-27T23:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.654424,
+          29.478986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20cdc0a5-2993-5f7e-adf3-4d320f6b23d2",
         "address": "1390-Chapel-Hill-Ln-Sw-Marietta-GA-30008",
         "beds": 3,
@@ -9931,27 +9952,6 @@
         "coordinates": [
           -110.916445,
           32.253016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "59ee1bb0-3f91-5226-9665-b6bb56a6a8c6",
-        "address": "103-Comanche-Ct-Waxahachie-TX-75165",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1767,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": "33",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.834066,
-          32.415715
         ]
       }
     },
@@ -18463,6 +18463,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a42d33e0-1c53-5cea-b860-38ede9a66ee5",
+        "address": "354-Saipan-Pl-San-Antonio-TX-78221",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1061,
+        "listed_at": "2026-03-27T23:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49767,
+          29.341038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a45dc6ad-c33e-52d3-8d9b-fe4c860b2c17",
         "address": "1101-E-Morehead-St-Apt-33-Charlotte-NC-28204",
         "beds": 2,
@@ -19507,27 +19528,6 @@
         "coordinates": [
           -82.314257,
           34.909296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af35c63e-c6ce-51fc-a01d-e3d3a4ed7c37",
-        "address": "2417-Charente-Dr-Maryland-Heights-MO-63043",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1397,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">34",
-        "current_price": 178000,
-        "price_label": "$178K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.449536,
-          38.725916
         ]
       }
     },
