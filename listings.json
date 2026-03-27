@@ -11491,27 +11491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "66fb4ea6-550b-560c-92e0-8321fc11ef82",
-        "address": "8813-Della-Ln-Fort-Washington-MD-20744",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3158,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">33",
-        "current_price": 591000,
-        "price_label": "$591K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.980839,
-          38.767597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67138300-8dd2-5a65-98f7-06b1f8f7b777",
         "address": "1038-Cash-St-Alvin-TX-77511",
         "beds": 3,
@@ -13984,6 +13963,27 @@
         "coordinates": [
           -84.608397,
           34.061484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b6c5815-635b-5dc7-9d05-c82753670a57",
+        "address": "2416-Bayview-Dr-Nashville-TN-37217",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1434,
+        "listed_at": "2026-03-27T17:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.626828,
+          36.092525
         ]
       }
     },
@@ -26374,27 +26374,6 @@
         "coordinates": [
           -84.693107,
           33.355948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ede4e12b-fadb-5671-8b19-90e37f531cba",
-        "address": "317-Andamento-Pl-Henderson-NV-89015",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1485,
-        "listed_at": "2026-03-24T17:00:06.000Z",
-        "days_on_market": "3",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.979866,
-          36.050068
         ]
       }
     },
