@@ -5737,27 +5737,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32f4bba4-15d3-57bd-9e19-1f4b9e2d7c6d",
-        "address": "4246-15th-St-N-Arlington-VA-22207",
-        "beds": 6,
-        "baths": 7,
-        "sqft": 5536,
-        "listed_at": "2026-03-26T17:00:07.000Z",
-        "days_on_market": "1",
-        "current_price": 2350000,
-        "price_label": "$2.350M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.113052,
-          38.888851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32f897c3-6a74-5cce-94da-0c481b23b6be",
         "address": "324-Praline-Way-Fort-Mill-SC-29715",
         "beds": 3,
@@ -25996,6 +25975,27 @@
         "coordinates": [
           -98.334537,
           29.543976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb960a55-6726-5f0f-805f-b2380c5dc92b",
+        "address": "2785-Bonita-Dr-Highland-CA-92346",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1399,
+        "listed_at": "2026-03-27T18:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 587000,
+        "price_label": "$587K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.205288,
+          34.142065
         ]
       }
     },
