@@ -10798,27 +10798,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "618e12a4-cd1b-51eb-b4e4-499343ae340f",
-        "address": "9159-E-Broadway-Blvd-Unit-A-Tucson-AZ-85710-16951236",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1315,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">34",
-        "current_price": 232000,
-        "price_label": "$232K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.796276,
-          32.221843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "61a6c8d5-1842-498a-bc84-11bc89486fd5",
         "address": "483-Murphys-Dr-Saint-Johns-FL-32259",
         "beds": 2,
@@ -12409,27 +12388,6 @@
         "coordinates": [
           -97.021502,
           32.644616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6cc13921-4180-5247-b5f8-72810bd5f526",
-        "address": "802-W-Tipton-Dr-Tucson-AZ-85705",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1250,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">34",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.984567,
-          32.255064
         ]
       }
     },
@@ -18835,6 +18793,27 @@
         "coordinates": [
           -84.497348,
           34.09047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a6ea1ed2-b032-5c35-a340-19a5de673a7f",
+        "address": "6906-Heron-Flts-Converse-TX-78109",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 919,
+        "listed_at": "2026-03-28T00:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.316092,
+          29.491932
         ]
       }
     },
