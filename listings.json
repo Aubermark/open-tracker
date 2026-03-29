@@ -20836,6 +20836,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9fe3a12-1d07-5633-85ac-d16c8dd714c6",
+        "address": "6288-Fence-Row-Ln-Canal-Winchester-OH-43110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2472,
+        "listed_at": "2026-03-29T15:30:06.000Z",
+        "days_on_market": "31",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83066,
+          39.910906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ba173109-74e5-597a-b373-a330829d7201",
         "address": "13-Buffalo-View-Ln-Palm-Coast-FL-32137",
         "beds": 4,
@@ -23350,27 +23371,6 @@
         "coordinates": [
           -111.63447,
           33.37311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d1fcb303-17af-5882-8465-6493376ce2f6",
-        "address": "710-Mosswood-Ln-Spartanburg-SC-29301",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 3294,
-        "listed_at": "2026-03-05T07:33:53.000Z",
-        "days_on_market": ">35",
-        "current_price": 640000,
-        "price_label": "$640K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.031225,
-          34.916917
         ]
       }
     },
