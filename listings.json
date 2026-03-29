@@ -8887,6 +8887,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4f111543-5611-58c4-89ba-f63f7d265c05",
+        "address": "4028-Nations-Dr-Douglasville-GA-30135",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2616,
+        "listed_at": "2026-03-29T08:18:56.000Z",
+        "days_on_market": "16",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.794645,
+          33.696542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f370bdc-b26e-5e97-a00e-82e621355b26",
         "address": "921-Neva-Ranch-Ave-North-Las-Vegas-NV-89081",
         "beds": 3,
