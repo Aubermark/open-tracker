@@ -25204,27 +25204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e7d99ba4-e10d-531c-ae6f-72d15a04d23e",
-        "address": "7737-Sylvaner-Ln-Atlanta-GA-30349",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2567,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": "18",
-        "current_price": 354000,
-        "price_label": "$354K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.642301,
-          33.670928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e83ea8fa-0618-51da-83e4-e870364e54f9",
         "address": "2422-Kingston-St-Arlington-TX-76015",
         "beds": 4,
@@ -25387,6 +25366,27 @@
         "coordinates": [
           -84.011473,
           34.003323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9a63c38-3ca5-47e2-b857-728b7d996a93",
+        "address": "200-Bennett-St-Angleton-TX-77515",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1968,
+        "listed_at": "2026-03-30T20:00:09.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4148,
+          29.187009
         ]
       }
     },
