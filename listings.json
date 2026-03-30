@@ -19597,6 +19597,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
+        "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1444,
+        "listed_at": "2026-03-30T17:00:06.000Z",
+        "days_on_market": "13",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.641276,
+          38.742143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b22585b5-4e31-51f0-9e9b-07405451668a",
         "address": "5469-Beresford-St-Canal-Winchester-OH-43110",
         "beds": 3,
@@ -21334,27 +21355,6 @@
         "coordinates": [
           -97.72734,
           31.064149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c102a331-6d8f-508d-aa90-d1b9e146f215",
-        "address": "1912-Littlestone-Rd-Grosse-Pointe-Woods-MI-48236",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 2071,
-        "listed_at": "2026-03-16T19:30:08.000Z",
-        "days_on_market": "14",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.914525,
-          42.427982
         ]
       }
     },
@@ -26437,6 +26437,27 @@
         "coordinates": [
           -111.530138,
           33.227144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f329538f-d946-55c2-9404-fa6d216a6563",
+        "address": "2575-Raindrop-Ct-Decatur-GA-30034",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1876,
+        "listed_at": "2026-03-30T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23368,
+          33.712014
         ]
       }
     },
