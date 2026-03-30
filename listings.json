@@ -5191,27 +5191,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "29fa3bdf-d567-52c5-aeba-ac719607e939",
-        "address": "15881-N-165th-Ln-Surprise-AZ-85388",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2232,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": ">37",
-        "current_price": 431000,
-        "price_label": "$431K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.414886,
-          33.628883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2a04f290-3908-5c87-9d0f-2b1fa6eefa5d",
         "address": "4442-Rolling-Pine-Dr-West-Bloomfield-MI-48323",
         "beds": 3,
@@ -17701,6 +17680,27 @@
         "coordinates": [
           -84.082721,
           33.965907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9bbaad99-5df4-5b2f-af6e-101b4e321b0c",
+        "address": "5528-W-Greenbriar-Dr-Glendale-AZ-85308",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 896,
+        "listed_at": "2026-03-30T23:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.17919,
+          33.643087
         ]
       }
     },
