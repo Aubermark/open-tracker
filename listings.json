@@ -12373,6 +12373,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d3070c7-63e9-5487-86b9-6a171d0d942c",
+        "address": "2226-Arthur-St-Hollywood-FL-33020",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 919,
+        "listed_at": "2026-03-30T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.152264,
+          26.022238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d79c35a-14f4-5039-9992-0640939bbef7",
         "address": "6891-Clinton-Corners-Dr-W-Jacksonville-FL-32222",
         "beds": 3,
@@ -14047,6 +14068,27 @@
         "coordinates": [
           -81.14279,
           35.29062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7cb55648-0691-5139-b2b5-5106d7123adb",
+        "address": "608-Astor-Dr-Haines-City-FL-33844",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1725,
+        "listed_at": "2026-03-30T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.654081,
+          28.111078
         ]
       }
     },
