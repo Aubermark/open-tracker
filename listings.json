@@ -14053,6 +14053,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7df090f1-94d2-53f7-9d60-e0185f91e2f2",
+        "address": "564-Emporia-Loop-Mc-Donough-GA-30253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2802,
+        "listed_at": "2026-03-30T16:20:09.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.185976,
+          33.445899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e332ea7-8e75-5c25-bdbb-045199db8ff7",
         "address": "18472-Sunrise-Oaks-Ct-Montgomery-TX-77316",
         "beds": 4,
@@ -19234,6 +19255,27 @@
         "coordinates": [
           -84.759655,
           33.43171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "afbbaf97-5bb2-5321-875c-7523b18fcc50",
+        "address": "1690-Sparkleberry-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1330,
+        "listed_at": "2026-03-30T16:20:09.000Z",
+        "days_on_market": "17",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.428527,
+          36.513789
         ]
       }
     },
