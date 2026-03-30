@@ -1705,6 +1705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e95b248-4011-5e11-be62-04a09164d657",
+        "address": "17303-Greenbay-Ave-Lansing-IL-60438",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 851,
+        "listed_at": "2026-03-30T21:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540292,
+          41.580927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ea8f87c-f690-5479-96e1-414d4b9c53fb",
         "address": "14537-Mira-Vista-Ln-Lockeford-CA-95237",
         "beds": 7,
@@ -13732,6 +13753,27 @@
         "coordinates": [
           -81.227613,
           33.89682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78b8cad1-81db-5749-bb67-f1ac2e85de40",
+        "address": "13824-Langston-Lake-Rd-Fort-Worth-TX-76262",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2934,
+        "listed_at": "2026-03-30T21:20:08.000Z",
+        "days_on_market": "33",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.27767,
+          32.982225
         ]
       }
     },
