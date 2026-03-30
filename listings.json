@@ -6283,6 +6283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
+        "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1464,
+        "listed_at": "2026-03-30T23:30:14.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.931657,
+          33.970381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35d5de57-6249-5649-ad80-59a087c1f692",
         "address": "806-Wedgewood-Dr-Mount-Dora-FL-32757",
         "beds": 3,
