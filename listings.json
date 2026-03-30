@@ -16195,6 +16195,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9165239c-4167-510a-bec5-0ed040d06b99",
+        "address": "254-Shadetree-Ln-Lawrenceville-GA-30044",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1809,
+        "listed_at": "2026-03-30T16:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06727,
+          33.908391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9168a8c4-af1b-5100-807e-524bfd923fc8",
         "address": "56-Thistleton-Way-Saint-Augustine-FL-32092",
         "beds": 3,
@@ -26122,27 +26143,6 @@
         "coordinates": [
           -104.723987,
           38.843387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1c38583-eada-5b1b-9f74-fd6f82a09343",
-        "address": "7292-Firethorn-Littleton-CO-80125",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 3065,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">36",
-        "current_price": 975000,
-        "price_label": "$975K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.091268,
-          39.467519
         ]
       }
     },
