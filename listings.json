@@ -2062,6 +2062,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11ebe293-bf73-4a8b-8198-90163ac7ce3a",
+        "address": "2714-Green-Ash-Ln-Knoxville-TN-37932",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2840,
+        "listed_at": "2026-03-30T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 632000,
+        "price_label": "$632K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.173622,
+          35.95022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1204e90a-4561-5e15-bd12-b0d68c422ecf",
         "address": "11105-Beechcrest-Ln-Raleigh-NC-27614",
         "beds": 4,
@@ -13696,27 +13717,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7b207f80-8eb0-4954-826a-d12171270a25",
-        "address": "18423-N-Sparkleberry-Ave-Nampa-ID-83687",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1474,
-        "listed_at": "2026-03-10T20:30:07.000Z",
-        "days_on_market": "20",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.564115,
-          43.639834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7b4a569f-a640-541b-8f54-772393d0ada4",
         "address": "1950-Dakota-Dr-Nw-Acworth-GA-30101",
         "beds": 4,
@@ -13816,6 +13816,27 @@
         "coordinates": [
           -81.200375,
           35.240237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7c1a6596-d3c8-5945-97fa-38f592833497",
+        "address": "2016-Rocky-Stream-Rd-York-SC-29745",
+        "beds": 6,
+        "baths": 7.5,
+        "sqft": 6347,
+        "listed_at": "2026-03-30T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 1150000,
+        "price_label": "$1.150M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.078291,
+          35.063668
         ]
       }
     },
@@ -18520,6 +18541,27 @@
         "coordinates": [
           -82.759595,
           27.857482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a66b21bc-1422-5f8c-9944-20205e29f7e2",
+        "address": "2243-Bolton-St-Saint-Charles-MO-63301",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1300,
+        "listed_at": "2026-03-30T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.541591,
+          38.794136
         ]
       }
     },
