@@ -928,6 +928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0777da64-2541-57b8-9218-4e36e553f2a7",
+        "address": "900-Heavenly-Hills-Ct-Unit-106-Las-Vegas-NV-89145",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1129,
+        "listed_at": "2026-03-30T22:50:08.000Z",
+        "days_on_market": ">37",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.277165,
+          36.161076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
@@ -1258,27 +1279,6 @@
         "coordinates": [
           -77.556722,
           38.29324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0a3b8a3e-0327-421c-a81e-43fdb39a8988",
-        "address": "1964-Glacier-Gorge-Trl-Dayton-TX-77535",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2152,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "21",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.894324,
-          29.976724
         ]
       }
     },
@@ -4618,6 +4618,27 @@
         "coordinates": [
           -81.483302,
           28.150943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
+        "address": "316-Vincent-St-Alabaster-AL-35007",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-03-30T22:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.822256,
+          33.177774
         ]
       }
     },
@@ -27928,27 +27949,6 @@
         "coordinates": [
           -112.296136,
           33.544312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fd81c44a-8072-51a6-b1e1-3df915140e28",
-        "address": "20016-W-Washington-St-Buckeye-AZ-85326",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1444,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "30",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.491398,
-          33.44652
         ]
       }
     },
