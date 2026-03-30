@@ -24763,6 +24763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e4a5033f-1dd6-5ca1-a3ff-413d6fa572f7",
+        "address": "8925-Brook-Hill-Ln-Fort-Worth-TX-76244",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3141,
+        "listed_at": "2026-03-30T13:00:07.000Z",
+        "days_on_market": ">36",
+        "current_price": 411000,
+        "price_label": "$411K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.292843,
+          32.903114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e4a7b90e-f33a-5ebe-94ba-fb33481e9840",
         "address": "7418-British-Rd-Ooltewah-TN-37363",
         "beds": 4,
