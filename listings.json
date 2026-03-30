@@ -10441,6 +10441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f8339f2-a5f0-5114-9ead-6774b34ec864",
+        "address": "6151-E-Quince-St-Mesa-AZ-85215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1704,
+        "listed_at": "2026-03-30T15:10:06.000Z",
+        "days_on_market": ">36",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.69775,
+          33.473456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f8a22af-fddf-5d97-ba68-ad3aaefb3fc8",
         "address": "12825-Clifford-Cir-Carmel-IN-46032",
         "beds": 4,
