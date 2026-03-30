@@ -26989,6 +26989,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f44a4e8d-e5e3-5ef0-bad6-acf3d93aa7c9",
+        "address": "3336-Betts-Dr-Ne-Albuquerque-NM-87111",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1531,
+        "listed_at": "2026-03-30T23:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.525267,
+          35.120096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f45cc2fd-0a0d-5ad4-b26a-71ce4e0305db",
         "address": "7910-Arvada-Pl-Indianapolis-IN-46236",
         "beds": 5,
@@ -27382,27 +27403,6 @@
         "coordinates": [
           -79.786413,
           36.145385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8ee7735-0b40-4a1e-afa1-cb816ce582a7",
-        "address": "3312-Glacier-Blf-Kerrville-TX-78028",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1474,
-        "listed_at": "2026-03-25T16:20:06.000Z",
-        "days_on_market": "6",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.111038,
-          30.037017
         ]
       }
     },
