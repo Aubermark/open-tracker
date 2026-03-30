@@ -5737,6 +5737,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30061828-e0d0-5dd2-9767-72a72f40ad0f",
+        "address": "6497-Snowden-Dr-Atlanta-GA-30349-17152423",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2549,
+        "listed_at": "2026-03-30T23:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.601703,
+          33.64478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30146c13-6043-5ea9-b6a5-7dacb9e5c5fd",
         "address": "2289-Sky-Island-Dr-Henderson-NV-89002",
         "beds": 4,
