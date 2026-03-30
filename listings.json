@@ -16867,6 +16867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9715101f-e069-5151-89fb-06bb20662a4e",
+        "address": "479-Clearwater-Way-Monroe-GA-30655",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1885,
+        "listed_at": "2026-03-30T16:40:09.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.654809,
+          33.792446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "974ab14a-6d68-5f2a-bba2-f4aad65b92ba",
         "address": "9048-Elbe-Trl-Fort-Worth-TX-76118",
         "beds": 3,
@@ -23350,6 +23371,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d5333c08-0c72-51f5-80bf-374171306413",
+        "address": "6906-Ellen-Boat-Ln-Canal-Winchester-OH-43110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2687,
+        "listed_at": "2026-03-30T16:40:09.000Z",
+        "days_on_market": ">36",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.814157,
+          39.865183
         ]
       }
     },
