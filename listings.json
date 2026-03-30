@@ -5884,6 +5884,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31e3d137-5718-5dc5-8092-fb735aef5a42",
+        "address": "3325-Steed-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2414,
+        "listed_at": "2026-03-30T20:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293025,
+          38.794285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32073d57-2f10-50ec-9ea8-ab3e2583d84e",
         "address": "5719-Rocbridge-Ln-Charlotte-NC-28208",
         "beds": 3,
@@ -9049,6 +9070,27 @@
         "coordinates": [
           -85.083762,
           35.118763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4f4c4cca-0f3a-5d8f-9192-2f7d23934469",
+        "address": "3062-Crest-Ridge-Cir-Sw-Marietta-GA-30060",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2588,
+        "listed_at": "2026-03-30T20:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.584985,
+          33.8817
         ]
       }
     },
@@ -18142,6 +18184,27 @@
         "coordinates": [
           -77.5125,
           38.24384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1a02450-a19c-5f4b-b302-3bee1a1ca756",
+        "address": "8095-Brookville-Way-Avon-IN-46123",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3208,
+        "listed_at": "2026-03-30T20:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.379763,
+          39.798042
         ]
       }
     },
