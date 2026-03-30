@@ -1054,6 +1054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08c71509-fe71-5164-8d12-4f1d32ecd0b7",
+        "address": "1952-S-Follett-Way-Gilbert-AZ-85295",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2196,
+        "listed_at": "2026-03-30T17:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 518000,
+        "price_label": "$518K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.705362,
+          33.315138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09027f9e-0cc2-5ba0-8193-31d2670a195d",
         "address": "5316-Sole-Grande-Rd-Nw-Albuquerque-NM-87114",
         "beds": 4,
