@@ -3280,6 +3280,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1bb638b0-c047-529e-ab6a-0e3c25e91cce",
+        "address": "7001-Edwina-Ave-Ne-Albuquerque-NM-87110",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1943,
+        "listed_at": "2026-03-30T18:50:08.000Z",
+        "days_on_market": "14",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.568463,
+          35.125622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1bd4cb6c-31ed-55dd-84f6-d896899768dd",
         "address": "5806-Princeton-Run-Trl-Tucker-GA-30084",
         "beds": 4,
@@ -10357,6 +10378,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f0ac1ad-f835-5dfc-aad1-04372d208144",
+        "address": "2-Ames-Ct-Taylors-SC-29687",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 1967,
+        "listed_at": "2026-03-30T18:50:08.000Z",
+        "days_on_market": "11",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.346899,
+          34.976966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f4800b0-56c4-506c-abe3-8ae10f7bc9d9",
         "address": "2705-Shearwater-St-Clermont-FL-34711",
         "beds": 5,
@@ -12373,6 +12415,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d51e7e4-1d9d-5ab5-919d-e513c8433790",
+        "address": "2002-Bayberry-Ct-Heartland-TX-75126-16345220",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1432,
+        "listed_at": "2026-03-30T18:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.446817,
+          32.690415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d79c35a-14f4-5039-9992-0640939bbef7",
         "address": "6891-Clinton-Corners-Dr-W-Jacksonville-FL-32222",
         "beds": 3,
@@ -12871,27 +12934,6 @@
         "coordinates": [
           -84.965638,
           33.865121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "720dcd50-63d1-544e-a6ff-3a201aa316d5",
-        "address": "1657-Gresham-Ct-Rock-Hill-SC-29730",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1018,
-        "listed_at": "2026-02-26T07:33:46.000Z",
-        "days_on_market": ">36",
-        "current_price": 278000,
-        "price_label": "$278K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.027717,
-          34.876571
         ]
       }
     },
@@ -13501,27 +13543,6 @@
         "coordinates": [
           -81.227613,
           33.89682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "78b8cad1-81db-5749-bb67-f1ac2e85de40",
-        "address": "13824-Langston-Lake-Rd-Fort-Worth-TX-76262",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2934,
-        "listed_at": "2026-03-30T12:50:08.000Z",
-        "days_on_market": "33",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.27767,
-          32.982225
         ]
       }
     },
@@ -18016,27 +18037,6 @@
         "coordinates": [
           -77.5125,
           38.24384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a16db5a7-4db4-5dc7-b88c-0e1407ab92b7",
-        "address": "6417-N-Kirkwood-Ave-Kansas-City-MO-64151",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1654,
-        "listed_at": "2026-03-25T21:10:05.000Z",
-        "days_on_market": "5",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.638336,
-          39.211989
         ]
       }
     },
@@ -23812,6 +23812,27 @@
         "coordinates": [
           -95.033677,
           29.416979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9eed2d2-c9ba-5fb9-b025-aab458ab7334",
+        "address": "413-Sherwood-Dr-W-Newark-OH-43055",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1806,
+        "listed_at": "2026-03-30T18:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.419427,
+          40.068359
         ]
       }
     },
