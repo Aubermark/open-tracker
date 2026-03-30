@@ -8341,6 +8341,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4840e41e-8dc2-5cb2-8d5c-064ec7393703",
+        "address": "8910-Olmstead-Park-Converse-TX-78109",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3472,
+        "listed_at": "2026-03-30T22:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312205,
+          29.465908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48915174-5474-5d76-95d7-b2e8605367bc",
         "address": "9601-Buckskin-Ln-Mint-Hill-NC-28227",
         "beds": 4,
@@ -17764,6 +17785,27 @@
         "coordinates": [
           -84.862487,
           33.662833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9d4280de-acde-5457-8f78-ed4a05a47610",
+        "address": "6206-Suellen-Ln-Killeen-TX-76542",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3246,
+        "listed_at": "2026-03-30T22:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.683015,
+          31.066267
         ]
       }
     },
