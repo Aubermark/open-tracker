@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28f48bbd-30f2-5801-b06f-0b6aedef7665",
+        "address": "954-S-Old-Orchard-Ln-Lewisville-TX-75067",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1651,
+        "listed_at": "2026-03-30T09:30:09.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.028013,
+          33.032116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28f5742d-01e7-5b6d-bd94-be8771c7a75a",
         "address": "756-Helmsman-Ln-Chapin-SC-29036",
         "beds": 3,
