@@ -1999,6 +1999,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1190ec2c-d4a1-531d-abe8-0294ac0cdc93",
+        "address": "2511-S-Entwistle-St-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2037,
+        "listed_at": "2026-03-30T16:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.700238,
+          33.30509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11e15317-f10b-4fcb-8fea-29fb9f151f50",
         "address": "76101-Estuary-Way-Yulee-FL-32097",
         "beds": 4,
@@ -24463,6 +24484,27 @@
         "coordinates": [
           -97.6401,
           30.595517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e1a183ee-a586-5aca-bcfa-71f7cfacb656",
+        "address": "111-David-Ct-Hiram-GA-30141",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2016,
+        "listed_at": "2026-03-30T16:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.805851,
+          33.813885
         ]
       }
     },
