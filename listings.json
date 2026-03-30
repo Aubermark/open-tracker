@@ -7522,6 +7522,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42b2c16b-2fc8-5ffe-a717-0fd3f108895f",
+        "address": "2312-Meadecroft-Rd-Charlotte-NC-28214",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1403,
+        "listed_at": "2026-03-30T20:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.956006,
+          35.287846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42b8a15b-a8d2-546a-9543-853dfc39d0c9",
         "address": "5409-Hickory-Dr-Fort-Pierce-FL-34982",
         "beds": 3,
@@ -16258,6 +16279,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "905cfc8a-2272-40f9-9fa9-850bb7fa4f26",
+        "address": "32038-Pop-Ash-Pl-San-Antonio-FL-33576",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1801,
+        "listed_at": "2026-03-30T20:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.286381,
+          28.306611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9096158b-a13e-578f-8c21-bff8e9c6f24b",
         "address": "10401-Fort-Teran-Trl-Crowley-TX-76036",
         "beds": 3,
@@ -19003,6 +19045,27 @@
         "coordinates": [
           -81.253797,
           28.236578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa2d6aa2-efa2-49d5-a228-849065af51b8",
+        "address": "507-Vantage-Dr-Hutto-TX-78634",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1938,
+        "listed_at": "2026-03-30T20:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.526267,
+          30.530909
         ]
       }
     },
