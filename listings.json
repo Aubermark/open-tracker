@@ -13549,6 +13549,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78b8cad1-81db-5749-bb67-f1ac2e85de40",
+        "address": "13824-Langston-Lake-Rd-Fort-Worth-TX-76262",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2934,
+        "listed_at": "2026-03-30T12:50:08.000Z",
+        "days_on_market": "33",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.27767,
+          32.982225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78c1b145-81e1-5f87-acd6-a984ec544653",
         "address": "2501-Huntscroft-Ln-Apt-203-Raleigh-NC-27617",
         "beds": 1,
