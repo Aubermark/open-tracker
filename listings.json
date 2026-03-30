@@ -3805,6 +3805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fe70b7d-5c03-5c36-93e8-ef856d942f4d",
+        "address": "916-Matagorda-Ln-Desoto-TX-75115",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3048,
+        "listed_at": "2026-03-30T21:00:09.000Z",
+        "days_on_market": "0",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.86438,
+          32.574184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2001f669-a762-5a69-bb75-c60e7d852ad6",
         "address": "964-S-Rochester-Mesa-AZ-85206",
         "beds": 2,
