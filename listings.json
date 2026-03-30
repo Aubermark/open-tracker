@@ -9286,6 +9286,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "537f669e-731d-504b-9923-c93a0cc83f34",
+        "address": "27736-Rio-Blanco-Dr-Splendora-TX-77372",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2375,
+        "listed_at": "2026-03-30T17:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 479000,
+        "price_label": "$479K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.115645,
+          30.197144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "539f0ea1-54ab-5378-98f0-d91622e8068e",
         "address": "3646-N-69th-Ave-Unit-36-Phoenix-AZ-85033",
         "beds": 1,
@@ -10309,27 +10330,6 @@
         "coordinates": [
           -121.327331,
           38.761649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5f0ac1ad-f835-5dfc-aad1-04372d208144",
-        "address": "2-Ames-Ct-Taylors-SC-29687",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 1967,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": "11",
-        "current_price": 343000,
-        "price_label": "$343K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.346899,
-          34.976966
         ]
       }
     },
