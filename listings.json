@@ -6703,27 +6703,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3be8536a-eb42-5deb-83b4-58a9cc33696c",
-        "address": "2511-Willow-Pond-Ln-Se-Concord-NC-28025",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1920,
-        "listed_at": "2026-03-26T01:20:06.000Z",
-        "days_on_market": "31",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.547339,
-          35.394477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3c1c26f6-5f48-56be-89f7-1c19c6274f97",
         "address": "15603-Lakewood-Terrace-Dr-Tomball-TX-77377",
         "beds": 4,
@@ -15754,27 +15733,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8dbc941e-a5b1-5d37-a945-54db3f3af6c1",
-        "address": "46461-Rosewood-Dr-Lexington-Park-MD-20653",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1619,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">36",
-        "current_price": 369000,
-        "price_label": "$369K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.46827,
-          38.268663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8dbe4761-67e5-5073-b87e-f46ab766e1a5",
         "address": "168-Maple-Grove-Ter-Peachtree-City-GA-30269",
         "beds": 4,
@@ -22621,6 +22579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ceb0f591-bba1-5780-8580-f38fa394cc97",
+        "address": "104-Pleasant-View-Ln-Woodstock-GA-30188",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3864,
+        "listed_at": "2026-03-30T16:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.481064,
+          34.14481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ced49c1a-2882-5f91-aa04-88a6fe8522e4",
         "address": "1021-Balto-Dr-Shelbyville-IN-46176",
         "beds": 4,
@@ -23413,6 +23392,27 @@
         "coordinates": [
           -87.888831,
           42.025783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d74d0339-4474-533c-9997-387707a01932",
+        "address": "26-Lakeview-Ter-Dallas-GA-30132",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1570,
+        "listed_at": "2026-03-30T16:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.864295,
+          33.985487
         ]
       }
     },
