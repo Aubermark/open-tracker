@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "294ac1c2-80a4-4f53-9ce0-6dcf512d0e25",
+        "address": "285-Eagle-Creek-Rd-Nw-Cleveland-TN-37312",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2979,
+        "listed_at": "2026-03-30T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 592000,
+        "price_label": "$592K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.815814,
+          35.267559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "294e03cf-6f77-5e79-bc3d-3a1b8fac3b37",
         "address": "50-Cranbrook-Ct-Covington-GA-30016",
         "beds": 3,
