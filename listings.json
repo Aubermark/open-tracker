@@ -21886,6 +21886,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7dfbed6-47ef-51e9-a4c6-24a271c16e4f",
+        "address": "33-Maggies-Pt-Dallas-GA-30132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1767,
+        "listed_at": "2026-03-30T16:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.884183,
+          33.922878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7fca266-2cf5-5c5a-a38c-0816a567bab9",
         "address": "165-Christian-Woods-Dr-Conyers-GA-30013",
         "beds": 3,
@@ -25975,27 +25996,6 @@
         "coordinates": [
           -97.596847,
           30.810988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f022654f-db25-57fa-9051-08ff1181a3da",
-        "address": "20416-Monza-Loop-Land-O-Lakes-FL-34638",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1580,
-        "listed_at": "2026-03-20T22:00:08.000Z",
-        "days_on_market": "10",
-        "current_price": 372000,
-        "price_label": "$372K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.478385,
-          28.255009
         ]
       }
     },
