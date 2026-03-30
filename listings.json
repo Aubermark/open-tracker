@@ -4477,6 +4477,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25beb7ea-32b4-5982-8f07-34cbc824b773",
+        "address": "405-San-Ambrosio-St-Punta-Gorda-FL-33983",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1650,
+        "listed_at": "2026-03-30T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.011698,
+          27.021307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25c7a12d-e750-538f-89a4-4d74e07006f3",
         "address": "7011-Towne-Lake-Rd-Riverview-FL-33578",
         "beds": 3,
@@ -16447,27 +16468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "91d23737-5c43-5f3c-91a1-4c5f313dda6a",
-        "address": "17434-W-Ventura-St-Surprise-AZ-85388",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1714,
-        "listed_at": "2026-03-27T07:42:11.000Z",
-        "days_on_market": "34",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.434357,
-          33.612224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "91eddef4-66f0-55d3-815b-189035bba0dc",
         "address": "112-Coral-Ln-Mooresville-NC-28117",
         "beds": 3,
@@ -22048,6 +22048,27 @@
         "coordinates": [
           -117.45721,
           34.15173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c77be380-138d-5279-8502-8b44238a09f6",
+        "address": "3712-Mayfair-Mill-Dr-Raleigh-NC-27616",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2435,
+        "listed_at": "2026-03-30T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.516397,
+          35.881692
         ]
       }
     },
