@@ -4456,6 +4456,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "259dcd45-474b-5118-917c-90f6c1569207",
+        "address": "8806-Seneca-Rd-Palmetto-GA-30268",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1600,
+        "listed_at": "2026-03-31T21:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.604903,
+          33.517166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25beb7ea-32b4-5982-8f07-34cbc824b773",
         "address": "405-San-Ambrosio-St-Punta-Gorda-FL-33983",
         "beds": 3,
