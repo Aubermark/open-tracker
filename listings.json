@@ -16720,6 +16720,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91659bf7-e958-4b7b-879d-1b577efca8ff",
+        "address": "152-Pine-Crest-View-Dr-Summerville-SC-29486",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1855,
+        "listed_at": "2026-03-31T19:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 362000,
+        "price_label": "$362K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.118688,
+          33.134642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9168a8c4-af1b-5100-807e-524bfd923fc8",
         "address": "56-Thistleton-Way-Saint-Augustine-FL-32092",
         "beds": 3,
@@ -17428,6 +17449,27 @@
         "coordinates": [
           -122.789559,
           45.356843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "990ac971-a65d-5141-a9dc-bcab29a1a48e",
+        "address": "207-Gleneagles-Rd-E-Statesville-NC-28625",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 3188,
+        "listed_at": "2026-03-31T19:30:08.000Z",
+        "days_on_market": "34",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.817273,
+          35.803942
         ]
       }
     },
