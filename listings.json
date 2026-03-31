@@ -802,6 +802,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06a85853-677e-52cd-8f64-0d958b6e6d3c",
+        "address": "12300-Brookglade-Cir-Unit-133-Houston-TX-77099",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1146,
+        "listed_at": "2026-03-31T18:30:06.000Z",
+        "days_on_market": "35",
+        "current_price": 126000,
+        "price_label": "$126K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.597072,
+          29.680018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
@@ -22825,6 +22846,27 @@
         "coordinates": [
           -81.002488,
           35.062909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb46422d-1135-5f43-9c39-0d6836051337",
+        "address": "2320-Rutger-St-#-20-D-Saint-Louis-MO-63104",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1140,
+        "listed_at": "2026-03-31T18:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 173000,
+        "price_label": "$173K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.218606,
+          38.619008
         ]
       }
     },
