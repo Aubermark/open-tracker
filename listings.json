@@ -10042,6 +10042,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57ca4238-2368-53ef-aa7c-0966cd8f61b6",
+        "address": "1000-Hidden-Cove-Way-Columbus-OH-43228",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2086,
+        "listed_at": "2026-03-31T15:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 382000,
+        "price_label": "$382K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.117931,
+          39.931722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5841f298-ef20-5761-bfee-de9fe6e75609",
         "address": "3737-Jamestown-Cir-Raleigh-NC-27609",
         "beds": 2,
@@ -15034,6 +15055,27 @@
         "coordinates": [
           -97.209086,
           27.862537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "82590ef2-6f60-5351-adf1-e79ced77dc19",
+        "address": "205-Bastrop-St-Angleton-TX-77515",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1281,
+        "listed_at": "2026-03-31T15:20:06.000Z",
+        "days_on_market": ">37",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.406046,
+          29.179084
         ]
       }
     },
