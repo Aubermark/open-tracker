@@ -9538,6 +9538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "529fd9f9-2ac2-5556-a939-08ceadf0855b",
+        "address": "4041-Browne-Ct-Conley-GA-30288",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1444,
+        "listed_at": "2026-03-31T00:40:05.000Z",
+        "days_on_market": "21",
+        "current_price": 203000,
+        "price_label": "$203K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352569,
+          33.645131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "52fe2acb-0bf2-57b7-b496-7efdce9e5052",
         "address": "8704-Arriba-Dr-Littleton-CO-80125",
         "beds": 5,
