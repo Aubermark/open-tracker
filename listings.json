@@ -11701,6 +11701,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66e94205-61cf-545e-8bfe-ecab1546f8f1",
+        "address": "413-Jasmine-Trl-Athens-GA-30606",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-03-31T14:50:07.000Z",
+        "days_on_market": "27",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45127,
+          33.983994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "66f12572-4dd8-5a1c-a7f3-d1e855eb4ec0",
         "address": "91-Richmond-Dr-Lagrange-GA-30240",
         "beds": 4,
