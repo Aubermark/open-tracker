@@ -13591,6 +13591,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "77337de8-fb9b-53c5-927c-a41615e4d0b8",
+        "address": "116-Sumner-Meadows-Ln-Hendersonville-TN-37075",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2175,
+        "listed_at": "2026-03-31T21:00:08.000Z",
+        "days_on_market": "34",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.617441,
+          36.327864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77536343-0dc9-5c81-85ca-7613e0e30c88",
         "address": "33515-Forest-West-St-Magnolia-TX-77354",
         "beds": 3,
@@ -15433,27 +15454,6 @@
         "coordinates": [
           -81.741658,
           30.156298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "874e707c-967d-53db-aed2-c0c026d76f71",
-        "address": "1207-Manor-Ct-Richmond-TX-77406",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2389,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "33",
-        "current_price": 352000,
-        "price_label": "$352K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.737381,
-          29.623344
         ]
       }
     },
