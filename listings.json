@@ -1390,27 +1390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0b5d7614-18e7-585c-9b97-f5c0bdb691e4",
-        "address": "612-Sw-149th-Pl-Oklahoma-City-OK-73170",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2024,
-        "listed_at": "2026-03-17T22:30:08.000Z",
-        "days_on_market": "14",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.524124,
-          35.319011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0bfd84f2-7e96-59a4-8fc6-c30ceaaeff0b",
         "address": "23322-Greenway-Creek-Ln-Spring-TX-77373-17811672",
         "beds": 3,
@@ -17575,6 +17554,27 @@
         "coordinates": [
           -80.855654,
           34.136304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "99dc96c4-34f9-59a9-95e3-cb6e3ade3da7",
+        "address": "6621-Starcrest-Dr-Charlotte-NC-28210",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1761,
+        "listed_at": "2026-03-31T19:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.874267,
+          35.142308
         ]
       }
     },
