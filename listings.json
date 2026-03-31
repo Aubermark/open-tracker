@@ -13318,6 +13318,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7468769e-0e86-50ea-a421-e09ec2804c2d",
+        "address": "29552-Copper-Ridge-Rd-Menifee-CA-92584",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2913,
+        "listed_at": "2026-03-31T06:43:19.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.143772,
+          33.696949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7488886f-a6d1-5c84-a0e8-f82ff5da510a",
         "address": "1099-E-Sourwood-Dr-Gilbert-AZ-85298",
         "beds": 4,
@@ -21823,6 +21844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c018656d-e2ea-5a94-afeb-fc5dfaf68cfd",
+        "address": "1402-Ne-Edgefield-St-Hillsboro-OR-97124",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1560,
+        "listed_at": "2026-03-31T06:43:19.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.967917,
+          45.548484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
         "address": "5202-Oster-Dr-Killeen-TX-76542",
         "beds": 3,
@@ -23917,27 +23959,6 @@
         "coordinates": [
           -82.814157,
           39.865183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d539536a-ed4f-5c42-9933-9387480fe05c",
-        "address": "6103-Ne-34th-St-Vancouver-WA-98661",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1453,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": ">37",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.609406,
-          45.646451
         ]
       }
     },
