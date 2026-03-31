@@ -17644,6 +17644,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a809828-a441-5563-83a1-74e0cfe53000",
+        "address": "7617-Bristol-Park-Dr-Apollo-Beach-FL-33572",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1695,
+        "listed_at": "2026-03-31T21:40:07.000Z",
+        "days_on_market": "5",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.366542,
+          27.782128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a9df6aa-b715-554d-bfb5-ad7d7adeef3c",
         "address": "1139-Kelso-Ln-Burlington-NC-27215",
         "beds": 2,
