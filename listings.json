@@ -17350,6 +17350,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97d45dac-5951-5dd6-9e98-d8f9e23bcd03",
+        "address": "4058-W-Chama-Dr-Glendale-AZ-85310-17333350",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1278,
+        "listed_at": "2026-03-31T20:20:09.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.147407,
+          33.71101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9812226a-0ecd-5f49-9312-88a98d883132",
         "address": "6137-Sparling-Hills-Cir-Orlando-FL-32808",
         "beds": 3,
@@ -23686,27 +23707,6 @@
         "coordinates": [
           -84.209139,
           33.75269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d1b64cff-069e-53b9-bc27-9c90f3b9be20",
-        "address": "2022-Appaloosa-Way-Conyers-GA-30012",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1443,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">37",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.027762,
-          33.66829
         ]
       }
     },
