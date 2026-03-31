@@ -4141,6 +4141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22ccfd90-4c8c-52de-b7eb-26d312d11375",
+        "address": "11241-Aliyah-Dr-Hampton-GA-30228",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2036,
+        "listed_at": "2026-03-31T17:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.331095,
+          33.448903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23070e2a-5b2e-55f0-ae7f-dbc4601f0b73",
         "address": "225-Lily-Cove-Dr-Loganville-GA-30052",
         "beds": 5,
@@ -9994,6 +10015,27 @@
         "coordinates": [
           -83.117931,
           39.931722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5828c6a0-c912-5e00-88a4-d6993e656e61",
+        "address": "444-Hunter-Cir-Kissimmee-FL-34758",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1038,
+        "listed_at": "2026-03-31T17:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.463514,
+          28.155741
         ]
       }
     },
@@ -20053,27 +20095,6 @@
         "coordinates": [
           -86.048461,
           39.655186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b1a4cd04-5072-5673-b8db-68280dfb32ee",
-        "address": "13615-Welsford-Live-Oak-TX-78233",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3366,
-        "listed_at": "2026-03-23T20:40:07.000Z",
-        "days_on_market": "8",
-        "current_price": 373000,
-        "price_label": "$373K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.344756,
-          29.568662
         ]
       }
     },
