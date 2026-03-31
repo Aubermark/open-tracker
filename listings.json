@@ -5254,6 +5254,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ae7f11b-2470-58d9-9168-5966e5829eb4",
+        "address": "1306-Morningside-Dr-Lake-Wales-FL-33853",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1236,
+        "listed_at": "2026-03-31T13:20:05.000Z",
+        "days_on_market": "28",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.558392,
+          27.90199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2afb8ba4-3bfa-56dc-806f-409957e8314f",
         "address": "14025-Brookgreen-Dr-Dallas-TX-75240",
         "beds": 2,
