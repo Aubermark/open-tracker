@@ -19954,6 +19954,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b0bcb2c7-f85d-5663-b298-b85fccac232d",
+        "address": "4201-Hoyt-Ct-Wheat-Ridge-CO-80033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1800,
+        "listed_at": "2026-03-31T18:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 601000,
+        "price_label": "$601K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.104722,
+          39.775495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b0c74fa5-aaef-53bc-9ab4-4ae55f818227",
         "address": "2418-Turpin-Dr-Orlando-FL-32837",
         "beds": 3,
