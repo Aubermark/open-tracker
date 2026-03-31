@@ -5149,27 +5149,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2a04f290-3908-5c87-9d0f-2b1fa6eefa5d",
-        "address": "4442-Rolling-Pine-Dr-West-Bloomfield-MI-48323",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 3278,
-        "listed_at": "2026-03-23T21:30:07.000Z",
-        "days_on_market": "8",
-        "current_price": 597000,
-        "price_label": "$597K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.414441,
-          42.571288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2a281411-47dc-553c-bc67-ba1378a5af1d",
         "address": "2131-Foxglove-Dr-Plainfield-IN-46168",
         "beds": 4,
@@ -23671,27 +23650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d21ca160-42b4-5158-94f5-ddeff4bfa638",
-        "address": "5902-Quail-Creek-Dr-Mc-Kinney-TX-75072",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2089,
-        "listed_at": "2026-03-26T01:20:06.000Z",
-        "days_on_market": "22",
-        "current_price": 436000,
-        "price_label": "$436K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.692763,
-          33.191422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d23e2dd0-0db8-5566-bef6-ffef3b0d3af9",
         "address": "653-S-Desert-Haven-Rd-Vail-AZ-85641",
         "beds": 4,
@@ -27319,6 +27277,27 @@
         "coordinates": [
           -121.541493,
           37.783883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7129494-34c5-5571-93d6-910705850807",
+        "address": "174-Lovelace-Ln-Ball-Ground-GA-30107",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3000,
+        "listed_at": "2026-03-31T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.279903,
+          34.285
         ]
       }
     },
