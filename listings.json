@@ -9916,6 +9916,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5803fdee-402b-5dfc-bfd3-24e846fa6711",
+        "address": "23-Plaza-Modena-Lake-Elsinore-CA-92532",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3404,
+        "listed_at": "2026-03-31T20:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.278994,
+          33.675617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5828c6a0-c912-5e00-88a4-d6993e656e61",
         "address": "444-Hunter-Cir-Kissimmee-FL-34758",
         "beds": 2,
