@@ -5926,6 +5926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
+        "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1338,
+        "listed_at": "2026-03-31T17:40:06.000Z",
+        "days_on_market": ">37",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.193533,
+          32.769875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31e3d137-5718-5dc5-8092-fb735aef5a42",
         "address": "3325-Steed-Dr-Florissant-MO-63033",
         "beds": 3,
@@ -24694,6 +24715,27 @@
         "coordinates": [
           -81.081857,
           34.96909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de0985b5-81fa-508c-949e-4b3a91e768d8",
+        "address": "20529-W-Maiden-Ln-Buckeye-AZ-85396",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 2594,
+        "listed_at": "2026-03-31T17:40:06.000Z",
+        "days_on_market": ">37",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.501302,
+          33.479255
         ]
       }
     },
