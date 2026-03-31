@@ -18736,6 +18736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a48624f9-203c-5ada-853d-9c5f687fa9c5",
+        "address": "5223-Junegrass-Way-Caldwell-ID-83607",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1236,
+        "listed_at": "2026-03-31T17:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.669983,
+          43.622684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a48f6d28-f288-5933-ae86-bd6e39b37ff6",
         "address": "6955-80th-Ave-N-Pinellas-Park-FL-33781",
         "beds": 4,
