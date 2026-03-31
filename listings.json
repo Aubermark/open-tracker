@@ -14116,6 +14116,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b207f80-8eb0-4954-826a-d12171270a25",
+        "address": "18423-N-Sparkleberry-Ave-Nampa-ID-83687",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-03-31T17:30:07.000Z",
+        "days_on_market": "21",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.564115,
+          43.639834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b20f550-096b-5bd0-be1f-8cc1477786da",
         "address": "4014-Ovilla-Rd-Waxahachie-TX-75167",
         "beds": 3,
