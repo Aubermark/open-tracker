@@ -5506,6 +5506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d597fd3-9efc-5747-810b-ee787f414b40",
+        "address": "3088-Trimble-Cir-Nw-Concord-NC-28027-17947524",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1054,
+        "listed_at": "2026-03-31T18:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.627554,
+          35.40815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d75da54-083f-5f55-a0e3-7562229110dc",
         "address": "280-Devonshire-Rd-Montesano-WA-98563",
         "beds": 4,
@@ -5857,27 +5878,6 @@
         "coordinates": [
           -112.130842,
           33.656289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3126e3d7-a337-5898-b4d9-55cb3c74c5cb",
-        "address": "6702-E-Scarlett-St-Tucson-AZ-85710",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1254,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">37",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.849333,
-          32.217261
         ]
       }
     },
@@ -7810,6 +7810,27 @@
         "coordinates": [
           -105.017795,
           39.527032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "443a312a-f840-53e2-8939-2e0e65459a18",
+        "address": "1007-Hazel-St-Durham-NC-27701",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-03-31T18:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.889178,
+          35.997887
         ]
       }
     },
@@ -21607,27 +21628,6 @@
         "coordinates": [
           -85.143201,
           34.281828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "be0a2aa4-31ef-5f08-b6a7-c663defa946b",
-        "address": "1201-E-Sea-Gull-Dr-Gilbert-AZ-85234",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2389,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">37",
-        "current_price": 585000,
-        "price_label": "$585K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.764736,
-          33.376376
         ]
       }
     },
