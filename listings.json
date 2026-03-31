@@ -13906,6 +13906,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78c39a13-bb96-5f18-a480-ec13c60ce0b4",
+        "address": "13201-E-53rd-St-Kansas-City-MO-64133",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2329,
+        "listed_at": "2026-03-31T14:10:09.000Z",
+        "days_on_market": ">37",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.425107,
+          39.025285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78ccc8b2-8cee-53cb-ae95-c9e399dd2569",
         "address": "12015-Landen-Dr-Charlotte-NC-28277",
         "beds": 3,
