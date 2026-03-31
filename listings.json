@@ -823,27 +823,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "06f7799f-95bb-583c-9138-cb901492e5ba",
-        "address": "1607-Nw-Hilltop-Ln-Grain-Valley-MO-64029",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1265,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">37",
-        "current_price": 281000,
-        "price_label": "$281K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.218434,
-          39.02845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
         "address": "123-King-Richard-Dr-Griffin-GA-30223",
         "beds": 4,
@@ -9700,27 +9679,6 @@
         "coordinates": [
           -112.50087,
           33.490407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "54cdff80-9651-4c8b-8993-c3e2ccae3fc1",
-        "address": "5875-Farwell-Ave-Plainfield-IN-46168",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2140,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": ">37",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.420754,
-          39.702098
         ]
       }
     },
@@ -24421,6 +24379,27 @@
         "coordinates": [
           -93.46448,
           45.156251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dbab93f7-ea26-5f8b-878b-11b4264b85e9",
+        "address": "2359-Bexley-Dr-Tavares-FL-32778",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1540,
+        "listed_at": "2026-03-31T18:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70046,
+          28.804228
         ]
       }
     },
