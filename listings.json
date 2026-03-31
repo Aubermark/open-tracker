@@ -529,27 +529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03e37d87-01e6-5d2a-a539-8a7d63a28447",
-        "address": "17-Crestview-Dr-Greenwood-IN-46143",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1782,
-        "listed_at": "2026-03-16T16:00:08.000Z",
-        "days_on_market": ">37",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.104081,
-          39.631982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0469e881-a50d-5e93-8387-2dfe8a3f6fdd",
         "address": "18236-N-Jameson-Dr-Maricopa-AZ-85138",
         "beds": 3,
@@ -7228,27 +7207,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3de62dda-8026-5de4-a1f3-7bb164146eaf",
-        "address": "5708-Montrose-Dr-Killeen-TX-76542",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1742,
-        "listed_at": "2026-03-10T22:40:06.000Z",
-        "days_on_market": "21",
-        "current_price": 231000,
-        "price_label": "$231K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.694533,
-          31.056083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3ec86664-06d5-5948-8e12-891ad630a0f6",
         "address": "432-Fern-Bay-Dr-Sw-Atlanta-GA-30331-17781460",
         "beds": 3,
@@ -9679,6 +9637,27 @@
         "coordinates": [
           -112.50087,
           33.490407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "54cdff80-9651-4c8b-8993-c3e2ccae3fc1",
+        "address": "5875-Farwell-Ave-Plainfield-IN-46168",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2140,
+        "listed_at": "2026-03-31T19:50:06.000Z",
+        "days_on_market": ">37",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.420754,
+          39.702098
         ]
       }
     },
@@ -16783,6 +16762,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91d23737-5c43-5f3c-91a1-4c5f313dda6a",
+        "address": "17434-W-Ventura-St-Surprise-AZ-85388",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1714,
+        "listed_at": "2026-03-31T19:50:06.000Z",
+        "days_on_market": "35",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.434357,
+          33.612224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91eddef4-66f0-55d3-815b-189035bba0dc",
         "address": "112-Coral-Ln-Mooresville-NC-28117",
         "beds": 3,
@@ -20494,27 +20494,6 @@
         "coordinates": [
           -82.174797,
           28.201734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b484b1aa-fd3f-53c3-8463-9c083b1622c2",
-        "address": "100-Waterford-Dr-Angier-NC-27501",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1268,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">37",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.769369,
-          35.479159
         ]
       }
     },
