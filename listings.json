@@ -10315,6 +10315,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ccaa06f-5170-582b-b073-b7b6846d6b41",
+        "address": "2122-Danbury-Dr-Indianapolis-IN-46231",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1621,
+        "listed_at": "2026-04-01T19:50:06.000Z",
+        "days_on_market": "37",
+        "current_price": 257000,
+        "price_label": "$257K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.312041,
+          39.735743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5cd4dd03-ee58-510d-812c-c140b8e50305",
         "address": "210-Gale-Dr-Ne-Cleveland-TN-37312",
         "beds": 3,
