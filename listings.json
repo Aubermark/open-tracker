@@ -22852,6 +22852,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca2ba9a7-e43c-5da0-bbbd-87e3d9793642",
+        "address": "310-Allatoona-Rd-Lawrenceville-GA-30043",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2071,
+        "listed_at": "2026-04-01T14:00:06.000Z",
+        "days_on_market": ">38",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.033214,
+          34.001825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca40368f-501e-4c66-8a72-881b8d3afcb6",
         "address": "360-Autumn-Pond-Dr-Blythewood-SC-29016",
         "beds": 4,
