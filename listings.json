@@ -13612,6 +13612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "776e587d-d625-5737-b912-eb8473be0311",
+        "address": "105-Wineberry-Way-Greenville-SC-29615",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2125,
+        "listed_at": "2026-04-01T22:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26572,
+          34.829142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77c50a40-1faf-5db0-899a-09e14216a221",
         "address": "5402-Cattells-Blf-North-Charleston-SC-29420",
         "beds": 4,
@@ -27235,6 +27256,27 @@
         "coordinates": [
           -84.553202,
           39.27026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6308dbd-dc2e-58d1-944e-7752442a5f5d",
+        "address": "25703-W-Crown-King-Rd-Buckeye-AZ-85326",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2832,
+        "listed_at": "2026-04-01T22:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.603852,
+          33.418386
         ]
       }
     },
