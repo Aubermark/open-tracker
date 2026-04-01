@@ -26926,6 +26926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f30a39ce-bd71-52c1-8d7d-d79afc14d5b5",
+        "address": "5344-Highland-Place-Way-Hermitage-TN-37076",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2786,
+        "listed_at": "2026-04-01T19:30:06.000Z",
+        "days_on_market": ">38",
+        "current_price": 614000,
+        "price_label": "$614K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.641448,
+          36.192172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f329538f-d946-55c2-9404-fa6d216a6563",
         "address": "2575-Raindrop-Ct-Decatur-GA-30034",
         "beds": 4,
