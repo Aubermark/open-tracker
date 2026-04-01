@@ -24091,6 +24091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d74836b8-95bb-578f-96b1-d30fecdb3831",
+        "address": "724-Squire-St-Colorado-Springs-CO-80911",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2159,
+        "listed_at": "2026-04-01T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.707133,
+          38.726351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d74d0339-4474-533c-9997-387707a01932",
         "address": "26-Lakeview-Ter-Dallas-GA-30132",
         "beds": 3,
