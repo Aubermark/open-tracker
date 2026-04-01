@@ -3910,27 +3910,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "214e6415-caab-59e5-8cf0-3646ed20da93",
-        "address": "802-Ashwood-Ln-Chattanooga-TN-37415",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1316,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">38",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.271757,
-          35.12167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "21a6b407-a587-55b4-9bd8-dc1be70aff83",
         "address": "1562-Amy-Cir-Deltona-FL-32738",
         "beds": 3,
@@ -27718,6 +27697,27 @@
         "coordinates": [
           -79.786413,
           36.145385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8ee7735-0b40-4a1e-afa1-cb816ce582a7",
+        "address": "3312-Glacier-Blf-Kerrville-TX-78028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-04-01T14:20:06.000Z",
+        "days_on_market": "7",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.111038,
+          30.037017
         ]
       }
     },
