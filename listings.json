@@ -7900,6 +7900,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45687d56-ce67-599e-9e22-389fa335f66a",
+        "address": "436-Cleveland-Ave-Lincoln-Park-MI-48146",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1612,
+        "listed_at": "2026-04-01T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.161677,
+          42.240823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "459a1de5-538f-50a9-8cfd-c04f1f62b356",
         "address": "6504-Gilded-Flicker-St-North-Las-Vegas-NV-89084",
         "beds": 3,
