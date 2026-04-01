@@ -67,6 +67,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00b3f0f4-48ac-5ca4-95e0-536ab1c6a2b6",
+        "address": "102-Se-43rd-Ln-Cape-Coral-FL-33904",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1329,
+        "listed_at": "2026-04-01T20:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97388,
+          26.57077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00cdd742-158a-5f9d-9a40-23ef00326aec",
         "address": "2724-Bertolani-Cir-Elk-Grove-CA-95758",
         "beds": 4,
@@ -14299,27 +14320,6 @@
         "coordinates": [
           -80.718865,
           35.215855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7cab7ca0-4447-53ed-93a7-763f670125b3",
-        "address": "1913-Old-English-Dr-Gastonia-NC-28054",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 833,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">38",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.14279,
-          35.29062
         ]
       }
     },
