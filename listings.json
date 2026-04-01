@@ -25498,6 +25498,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e75e6b12-89d7-5c09-a472-f33d35040443",
+        "address": "2332-Se-Berkshire-Blvd-Port-Saint-Lucie-FL-34952",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1850,
+        "listed_at": "2026-04-01T21:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.262615,
+          27.271201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e79aedcb-7539-573f-baec-a0df3e0dc6ec",
         "address": "604-Eastway-Ave-Durham-NC-27703",
         "beds": 3,
