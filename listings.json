@@ -27556,6 +27556,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fa220e95-7f70-5073-85a2-d9ad30fa5fe6",
+        "address": "17517-W-Ventura-St-Surprise-AZ-85388",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1454,
+        "listed_at": "2026-04-01T19:10:06.000Z",
+        "days_on_market": ">38",
+        "current_price": 344000,
+        "price_label": "$344K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.435932,
+          33.612067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa283bef-1b78-5233-b163-3b442d8ed53b",
         "address": "4945-Norman-Park-Pl-Clover-SC-29710",
         "beds": 3,
