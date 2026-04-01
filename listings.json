@@ -5338,6 +5338,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c9328b7-d731-5765-852e-712f48e61fa9",
+        "address": "277-Christian-Cir-Carrollton-GA-30116",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1855,
+        "listed_at": "2026-04-01T22:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.005343,
+          33.589846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cb02fab-2a6b-409b-b7cb-4252f409b407",
         "address": "8699-Bynum-Dr-Colorado-Springs-CO-80908",
         "beds": 3,
@@ -9301,27 +9322,6 @@
         "coordinates": [
           -82.817365,
           27.896772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5225571c-6239-5d86-bbfd-7ba1bf8e8f5c",
-        "address": "12431-Sw-1st-St-Plantation-FL-33325",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2864,
-        "listed_at": "2026-02-23T17:50:19.000Z",
-        "days_on_market": "38",
-        "current_price": 810000,
-        "price_label": "$810K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.314878,
-          26.120675
         ]
       }
     },
@@ -23917,6 +23917,27 @@
         "coordinates": [
           -81.226309,
           34.147465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d59f2731-91a0-5a09-9f81-8cf34c62c391",
+        "address": "201-N-Ivy-Ave-Henrico-VA-23075",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 784,
+        "listed_at": "2026-04-01T22:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.322093,
+          37.548284
         ]
       }
     },
