@@ -6346,6 +6346,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3869be29-0da4-5ac5-add6-57296cd0c0f4",
+        "address": "5610-Northport-Dr-Indianapolis-IN-46221",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1457,
+        "listed_at": "2026-04-01T19:00:05.000Z",
+        "days_on_market": ">38",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.259277,
+          39.676113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "389441c6-dd3a-530e-895a-adb62ff55acb",
         "address": "1467-Stoneleigh-Cir-Stone-Mountain-GA-30088",
         "beds": 3,
@@ -25387,27 +25408,6 @@
         "coordinates": [
           -96.951307,
           32.918655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e62bd34e-5f2b-51c8-99f5-5e3cf8ff17a7",
-        "address": "11104-W-Dawnlight-Dr-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1950,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">38",
-        "current_price": 357000,
-        "price_label": "$357K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.202179,
-          32.426829
         ]
       }
     },
