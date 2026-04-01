@@ -3007,6 +3007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "195b52a1-a918-5d1d-ae4a-c74e6923fc96",
+        "address": "224-Pinecrest-Ct-Roseville-CA-95678",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2611,
+        "listed_at": "2026-04-01T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29779,
+          38.779525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1999788a-3b41-56a1-8289-10866e568543",
         "address": "2634-E-Ridge-Creek-Rd-Phoenix-AZ-85024",
         "beds": 4,
@@ -6991,6 +7012,27 @@
         "coordinates": [
           -80.752852,
           35.223554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3cc0ce80-34f1-5bc4-95fd-aa5ca84c765b",
+        "address": "9720-Austin-St-Ne-Blaine-MN-55014",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2053,
+        "listed_at": "2026-04-01T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.168378,
+          45.14668
         ]
       }
     },
@@ -14068,6 +14110,27 @@
         "coordinates": [
           -96.891402,
           32.499965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b349769-35c1-50c1-ab9e-72a059750d34",
+        "address": "607-State-St-Weatherford-TX-76086",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1605,
+        "listed_at": "2026-04-01T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.788592,
+          32.746861
         ]
       }
     },
