@@ -5758,27 +5758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "30e46b9a-5508-501f-aad6-de94abbdab56",
-        "address": "152-Whitehall-Dr-Clarksville-TN-37042",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1876,
-        "listed_at": "2026-03-26T07:38:29.000Z",
-        "days_on_market": ">38",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.408671,
-          36.597099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3112b687-0a9a-5ceb-91b4-aa7037712362",
         "address": "18803-N-33rd-Dr-Phoenix-AZ-85027",
         "beds": 2,
@@ -5941,6 +5920,27 @@
         "coordinates": [
           -80.389625,
           25.593495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3384eae9-51d0-51a5-8423-1eb78161390c",
+        "address": "1611-Hobelman-Dr-Arnold-MO-63010",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1700,
+        "listed_at": "2026-04-01T16:20:14.000Z",
+        "days_on_market": "15",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.380029,
+          38.40671
         ]
       }
     },
@@ -8524,6 +8524,27 @@
         "coordinates": [
           -82.051634,
           26.745455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4a9dbd81-da4f-59de-8d00-7148333e96b7",
+        "address": "2940-Dover-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1402,
+        "listed_at": "2026-04-01T16:20:13.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.309207,
+          38.812429
         ]
       }
     },
