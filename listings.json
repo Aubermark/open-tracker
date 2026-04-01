@@ -1369,6 +1369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bbb376e-0383-497e-8a22-4ed5a5f55abd",
+        "address": "1613-Couser-Ave-New-Braunfels-TX-78132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2010,
+        "listed_at": "2026-04-01T15:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.291449,
+          29.783302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bfd84f2-7e96-59a4-8fc6-c30ceaaeff0b",
         "address": "23322-Greenway-Creek-Ln-Spring-TX-77373-17811672",
         "beds": 3,
