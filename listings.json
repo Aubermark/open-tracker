@@ -7228,6 +7228,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fce692f-2056-5f4a-886d-3fe562091664",
+        "address": "1115-Morriswood-Dr-Joelton-TN-37080",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1382,
+        "listed_at": "2026-04-01T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.975255,
+          36.365606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fed267c-c463-5761-b0c9-80d80dcfae96",
         "address": "127-Wagon-Trl-Willow-Spring-NC-27592",
         "beds": 3,
