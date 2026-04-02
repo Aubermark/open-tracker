@@ -8068,27 +8068,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "47261bb7-9096-5ea1-84e3-3e0f0d737ef4",
-        "address": "80-Riverstone-Dr-Covington-GA-30014",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3115,
-        "listed_at": "2026-02-26T07:33:46.000Z",
-        "days_on_market": ">39",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.893368,
-          33.591137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4730b21d-e64d-5a0e-a53e-2ca62b431f65",
         "address": "2154-Hinton-Dr-Se-Smyrna-GA-30080",
         "beds": 4,
@@ -14473,6 +14452,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c834f41-d020-54ad-9788-83c132af9975",
+        "address": "7848-Desert-Bell-Ave-Las-Vegas-NV-89128",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2406,
+        "listed_at": "2026-04-02T21:00:06.000Z",
+        "days_on_market": "31",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.266069,
+          36.191998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c84f53e-68f1-41cf-83dd-314c3c1becfe",
         "address": "408-N-Palm-Springs-Way-Tracy-CA-95391",
         "beds": 4,
@@ -14845,27 +14845,6 @@
         "coordinates": [
           -98.657948,
           29.49091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7f59a639-6906-5722-840d-1ca64f2f2f03",
-        "address": "35-Peter-St-Holliston-MA-01746",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3244,
-        "listed_at": "2026-04-02T19:40:06.000Z",
-        "days_on_market": "28",
-        "current_price": 1030000,
-        "price_label": "$1.030M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.442585,
-          42.192715
         ]
       }
     },
@@ -19444,6 +19423,27 @@
         "coordinates": [
           -80.201051,
           32.977368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a86c60af-0354-5289-9076-f8b4410c9a1c",
+        "address": "8112-Princess-Jeanne-Ave-Ne-Albuquerque-NM-87110",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-04-02T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.552369,
+          35.097628
         ]
       }
     },
