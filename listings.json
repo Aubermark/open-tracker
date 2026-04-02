@@ -8866,6 +8866,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4d5818eb-7f93-5678-bad8-d845b1fcabb1",
+        "address": "10-Perrot-St-Worcester-MA-01602",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1621,
+        "listed_at": "2026-04-02T16:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.836577,
+          42.266732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d6b8576-c8f6-53b1-bf75-d4430753b6aa",
         "address": "520-Osprey-Ln-Woodstock-GA-30188",
         "beds": 5,
@@ -28117,27 +28138,6 @@
         "coordinates": [
           -112.022021,
           41.499173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc44cef0-2127-543a-90ae-ac8d735d4306",
-        "address": "4043-Larkspur-Pl-Winston-Salem-NC-27105",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 971,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">39",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.19708,
-          36.145931
         ]
       }
     },
