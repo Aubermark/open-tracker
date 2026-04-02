@@ -20374,6 +20374,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1b0dc17-1abf-49d2-b44b-1f189bbba5e8",
+        "address": "914-Lucent-St-El-Dorado-Hills-CA-95762",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1634,
+        "listed_at": "2026-04-02T22:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 563000,
+        "price_label": "$563K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.058993,
+          38.609621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
         "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
         "beds": 3,
