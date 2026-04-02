@@ -1474,6 +1474,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cd2a5c2-2cf8-5f55-af33-a24ccfe229d6",
+        "address": "509-Robinhood-Dr-Irving-TX-75061",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1449,
+        "listed_at": "2026-04-02T19:00:05.000Z",
+        "days_on_market": "21",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.982251,
+          32.82122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cd4c23c-fbf4-5d74-8c7b-fdbcdf6fe47c",
         "address": "1205-Standing-Oak-Dr-Salisbury-NC-28146",
         "beds": 4,
@@ -6844,27 +6865,6 @@
         "coordinates": [
           -96.333701,
           32.92884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3b4ebbfd-0792-5bbc-9374-863f580e60a5",
-        "address": "14-Muskogee-Xing-Dallas-GA-30132",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 3212,
-        "listed_at": "2026-03-18T21:00:07.000Z",
-        "days_on_market": "15",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.852668,
-          33.997766
         ]
       }
     },
@@ -14698,6 +14698,27 @@
         "coordinates": [
           -84.047769,
           33.442786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7e4f66c0-44bf-5017-b582-04d602bbd10a",
+        "address": "7847-N-Winding-Trl-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-04-02T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.333361,
+          34.656039
         ]
       }
     },
