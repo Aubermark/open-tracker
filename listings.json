@@ -3007,6 +3007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18a619e7-d8cf-55cc-ac26-d64da3a40437",
+        "address": "5119-Teakwood-Dr-Kannapolis-NC-28083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1484,
+        "listed_at": "2026-04-02T21:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 387000,
+        "price_label": "$387K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.527405,
+          35.487849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1913c725-5f14-5410-9c85-59d773b1b88f",
         "address": "10049-Southlawn-Cir-Commerce-City-CO-80022",
         "beds": 3,
@@ -21670,6 +21691,27 @@
         "coordinates": [
           -97.767319,
           31.085547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bcb3bff9-917d-5cac-b66c-2bca681acf21",
+        "address": "201-Camellia-Dr-Hutto-TX-78634",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1981,
+        "listed_at": "2026-04-02T21:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.539639,
+          30.527072
         ]
       }
     },
