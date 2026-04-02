@@ -6241,6 +6241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "35d61bdf-770e-5895-adbd-806c90f17bc3",
+        "address": "214-Cornell-Dr-Warner-Robins-GA-31093",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1761,
+        "listed_at": "2026-04-02T09:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65194,
+          32.636917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36279d7f-0ef7-5d3f-a812-9131fdffb61a",
         "address": "14504-W-139th-St-Olathe-KS-66062",
         "beds": 3,
