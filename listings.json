@@ -20668,6 +20668,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b51ce2f6-edbc-5663-9470-4f49ce5cc9b6",
+        "address": "1289-Clubview-Blvd-S-Columbus-OH-43235",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2624,
+        "listed_at": "2026-04-02T21:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 632000,
+        "price_label": "$632K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.051943,
+          40.124793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b599e0fc-b7d8-5761-95f7-8bbe4a5d585c",
         "address": "1308-Morning-Ridge-Trl-Aubrey-TX-76227",
         "beds": 3,
