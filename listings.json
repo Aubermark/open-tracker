@@ -13507,6 +13507,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "761f13e7-33be-5705-9b03-ed6199a58886",
+        "address": "438-Pinon-Creek-Rd-Se-Albuquerque-NM-87123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2175,
+        "listed_at": "2026-04-02T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.493959,
+          35.062774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7665bfda-1abb-5387-b2d4-e369b38f225b",
         "address": "12712-Saint-Mary-Dr-Manor-TX-78653",
         "beds": 3,
@@ -27865,6 +27886,27 @@
         "coordinates": [
           -77.490234,
           39.012942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa832419-bdc1-5bbe-b388-ee1035874df9",
+        "address": "3516-Gables-Dr-Fayetteville-NC-28311",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1828,
+        "listed_at": "2026-04-02T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.888543,
+          35.109147
         ]
       }
     },
