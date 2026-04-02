@@ -7648,6 +7648,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4263cce4-f6d6-582b-aa4b-5f7f3084516e",
+        "address": "827-Dovefield-Ln-Lexington-SC-29073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1160,
+        "listed_at": "2026-04-02T16:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.210583,
+          33.939739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42b2c16b-2fc8-5ffe-a717-0fd3f108895f",
         "address": "2312-Meadecroft-Rd-Charlotte-NC-28214",
         "beds": 3,
