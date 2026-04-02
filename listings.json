@@ -10924,6 +10924,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fe89bf5-a4f0-50eb-8ed3-ee2d6174e483",
+        "address": "1209-Westerfeld-Dr-Ne-Albuquerque-NM-87112",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1116,
+        "listed_at": "2026-04-02T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.53436,
+          35.092236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ffdbdb0-4671-4573-902b-23f0fd0b5db2",
         "address": "5509-Carmel-Creek-Dr-Mustang-OK-73064",
         "beds": 4,
@@ -19234,27 +19255,6 @@
         "coordinates": [
           -80.106611,
           26.277433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a61fe013-e867-521b-b43e-29d38e4b0d5c",
-        "address": "905-Vernon-Rd-Columbus-OH-43209",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2292,
-        "listed_at": "2026-03-21T08:18:51.000Z",
-        "days_on_market": "12",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.92943,
-          39.951091
         ]
       }
     },
@@ -28117,6 +28117,27 @@
         "coordinates": [
           -112.063326,
           33.044553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc3cb4a3-c4cc-5a58-ba3a-bbf8a4c53c09",
+        "address": "20710-Miller-Ave-Cleveland-OH-44119",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1504,
+        "listed_at": "2026-04-02T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.535856,
+          41.588453
         ]
       }
     },
