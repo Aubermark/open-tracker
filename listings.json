@@ -8971,6 +8971,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4dcab4fe-0c43-518f-b5cf-2e3516567493",
+        "address": "1911-Smoke-Ridge-Ct-Apt-1-Charlotte-NC-28210",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1030,
+        "listed_at": "2026-04-02T18:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 157000,
+        "price_label": "$157K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87127,
+          35.121166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4e08a334-4b20-59e4-8d5f-5123fec3cc0a",
         "address": "3020-W-Rosa-Vista-Dr-Taylorsville-UT-84129",
         "beds": 4,
