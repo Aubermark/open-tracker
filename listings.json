@@ -12919,6 +12919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e8c8b0c-2a3d-524b-b5ad-40cc64864b29",
+        "address": "121-Shining-Armor-Ct-Mooresville-NC-28117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1649,
+        "listed_at": "2026-04-02T18:50:06.000Z",
+        "days_on_market": "36",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.844328,
+          35.57783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6eb1b0fc-0f3a-557c-b948-c6eded618af6",
         "address": "105-Kings-Way-Dr-Rhome-TX-76078",
         "beds": 3,
@@ -18646,6 +18667,27 @@
         "coordinates": [
           -82.475228,
           27.5994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1aafba5-1d36-541b-8a31-d708b8a82c26",
+        "address": "909-Winchester-Ct-Brandon-FL-33510",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1136,
+        "listed_at": "2026-04-02T18:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.324393,
+          27.953302
         ]
       }
     },
@@ -25030,27 +25072,6 @@
         "coordinates": [
           -86.725169,
           36.375028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "deff201c-ba99-5efc-b8b0-28cdb5888d30",
-        "address": "312-Montrose-Ave-Nw-Canton-OH-44708",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1648,
-        "listed_at": "2026-03-09T17:30:06.000Z",
-        "days_on_market": "24",
-        "current_price": 201000,
-        "price_label": "$201K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.415159,
-          40.801537
         ]
       }
     },
