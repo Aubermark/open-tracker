@@ -17644,6 +17644,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a4bf35c-cdce-5340-a200-1abb164701ef",
+        "address": "414-Shady-Willow-Ln-Rolesville-NC-27571",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1942,
+        "listed_at": "2026-04-02T09:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 394000,
+        "price_label": "$394K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.461971,
+          35.932623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a627cff-1856-5ca1-8991-d7ccff9a2c80",
         "address": "7846-Cayuga-Dr-New-Port-Richey-FL-34653",
         "beds": 3,
