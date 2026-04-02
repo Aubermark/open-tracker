@@ -3658,6 +3658,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ef441e3-b0c5-54fa-8a06-69819223d31c",
+        "address": "13387-Quinta-Way-Desert-Hot-Springs-CA-92240",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1614,
+        "listed_at": "2026-04-02T22:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.476424,
+          33.951538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f003b2b-7cd5-46ab-a74f-7a50b0802c22",
         "address": "7911-Summit-Trail-Ln-Porter-TX-77365",
         "beds": 4,
@@ -16174,6 +16195,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c84d7ce-b83b-5e8f-a71a-a22ddfdabab6",
+        "address": "15385-Trolley-St-Lathrop-CA-95330",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1502,
+        "listed_at": "2026-04-02T22:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.299627,
+          37.822592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8cf0ce93-4b86-5b75-8c12-c66089b110b9",
         "address": "1203-Bristolwood-St-Brandon-FL-33510",
         "beds": 3,
@@ -16945,6 +16987,27 @@
         "coordinates": [
           -122.491416,
           45.500104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92f11cc7-1f45-5965-8699-4d33edf329f5",
+        "address": "6332-Downeast-Dr-Fort-Worth-TX-76179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1601,
+        "listed_at": "2026-04-02T22:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.393726,
+          32.853794
         ]
       }
     },
