@@ -11617,6 +11617,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65914b1c-cb4d-5495-9b74-f4e0d85c286a",
+        "address": "11037-Wyndham-Pointe-Dr-Charlotte-NC-28213",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2008,
+        "listed_at": "2026-04-02T20:40:05.000Z",
+        "days_on_market": "16",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.705053,
+          35.297607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65e6684f-2180-5d99-b272-111046b3f076",
         "address": "4051-Gordon-Ct-Winston-Salem-NC-27104",
         "beds": 3,
@@ -21907,27 +21928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bf077f24-a421-5e04-8ad8-41057fa3f78e",
-        "address": "218-Morris-Creek-Dr-Hoschton-GA-30548",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2756,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">39",
-        "current_price": 419000,
-        "price_label": "$419K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.705643,
-          34.092687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bf2ec94c-d4be-5199-874b-e8eda5d47cf7",
         "address": "13850-Clayborn-St-Midland-NC-28107",
         "beds": 2,
@@ -24064,6 +24064,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d51e54b0-21e2-5c7b-bc48-18e5660ae460",
+        "address": "6620-Iron-Brigade-Ln-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1540,
+        "listed_at": "2026-04-02T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.822429,
+          35.305998
         ]
       }
     },
