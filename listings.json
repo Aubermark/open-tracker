@@ -5170,6 +5170,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ae78b7e-5924-5ae3-bf34-33f2a3e09828",
+        "address": "353-Cedar-Dr-Loveland-OH-45140",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4129,
+        "listed_at": "2026-04-02T21:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.252779,
+          39.258843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ae7f11b-2470-58d9-9168-5966e5829eb4",
         "address": "1306-Morningside-Dr-Lake-Wales-FL-33853",
         "beds": 3,
@@ -14509,27 +14530,6 @@
         "coordinates": [
           -81.654081,
           28.111078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7d475d88-8aef-5cbf-9f3e-c8e27d8e4981",
-        "address": "106-Hendel-Ave-North-Arlington-NJ-07031",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1652,
-        "listed_at": "2026-03-12T20:50:07.000Z",
-        "days_on_market": ">39",
-        "current_price": 595000,
-        "price_label": "$595K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.139257,
-          40.788333
         ]
       }
     },
