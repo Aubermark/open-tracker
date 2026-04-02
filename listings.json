@@ -6409,27 +6409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3768a34a-be47-5ec7-83d4-e7607e1f514f",
-        "address": "9036-Limecrest-Dr-Riverside-CA-92508",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1677,
-        "listed_at": "2026-03-12T07:40:03.000Z",
-        "days_on_market": ">39",
-        "current_price": 707000,
-        "price_label": "$707K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.319138,
-          33.88828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
         "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
         "beds": 4,
@@ -12367,6 +12346,27 @@
         "coordinates": [
           -112.434597,
           33.551046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6ae5839e-fee0-5ece-85e4-d1ca5145f5ce",
+        "address": "2800-N-Surrey-Dr-Carrollton-TX-75006",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2270,
+        "listed_at": "2026-04-02T17:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 532000,
+        "price_label": "$532K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.859774,
+          32.967261
         ]
       }
     },
