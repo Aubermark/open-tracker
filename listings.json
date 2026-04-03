@@ -4750,6 +4750,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26469641-edf2-58ad-91b9-b8db6a852398",
+        "address": "16338-Vine-Cliff-Ave-Hudson-FL-34667",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-04-03T23:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.620348,
+          28.393454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26488063-1c9e-595f-952a-0f8f443000b3",
         "address": "3011-Nw-Dogwood-Ave-Redmond-OR-97756",
         "beds": 3,
