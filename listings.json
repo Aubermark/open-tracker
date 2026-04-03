@@ -1054,6 +1054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "084e1d1b-b85b-5e55-a762-f73f6036aa5f",
+        "address": "2819-Burdette-Dr-Augusta-GA-30909",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1692,
+        "listed_at": "2026-04-03T17:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.101997,
+          33.461602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "086aee8b-6858-5ab4-98de-1158b1718e43",
         "address": "926-Wisdom-Ln-Pacific-MO-63069",
         "beds": 2,
@@ -22012,6 +22033,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc617546-a92e-5cc9-9b6f-58f5c49e86ad",
+        "address": "4202-Cromwell-Dr-Tampa-FL-33610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1293,
+        "listed_at": "2026-04-03T17:20:06.000Z",
+        "days_on_market": ">40",
+        "current_price": 297000,
+        "price_label": "$297K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.367691,
+          27.983645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcb3bff9-917d-5cac-b66c-2bca681acf21",
         "address": "201-Camellia-Dr-Hutto-TX-78634",
         "beds": 4,
@@ -28621,6 +28663,27 @@
         "coordinates": [
           -82.204286,
           29.080948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fcf1aa85-0720-5508-a493-fad09b514a81",
+        "address": "7121-Winding-Creek-Rd-Dallas-TX-75252",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2512,
+        "listed_at": "2026-04-03T17:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.790369,
+          32.996379
         ]
       }
     },
