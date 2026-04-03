@@ -29404,6 +29404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ffc22186-83d2-5e56-90b9-cb8f4030c210",
+        "address": "724-13th-St-Ne-Washington-DC-20002",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2264,
+        "listed_at": "2026-04-03T22:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 796000,
+        "price_label": "$796K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98858,
+          38.899785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fff71c17-0fc5-5b14-895d-d174bf7ed211",
         "address": "9429-Harkness-Ave-S-Cottage-Grove-MN-55016",
         "beds": 6,
