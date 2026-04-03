@@ -6514,27 +6514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "379a7925-a3c9-5deb-b5d3-044438348d07",
-        "address": "2924-Sand-Hills-Dr-Chester-VA-23831",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1200,
-        "listed_at": "2026-02-26T07:33:46.000Z",
-        "days_on_market": ">40",
-        "current_price": 313000,
-        "price_label": "$313K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.418273,
-          37.34331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "384616bc-6b44-5d15-8aa5-9aba61e291b8",
         "address": "2744-Lisa-Dr-Jonesboro-GA-30236",
         "beds": 3,
@@ -13459,6 +13438,27 @@
         "coordinates": [
           -82.203958,
           27.042337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "742c14f5-9620-5f15-9e55-67d1045f3dbc",
+        "address": "510-Wicklow-Dr-Manchester-MO-63021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1660,
+        "listed_at": "2026-04-03T15:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.520791,
+          38.584443
         ]
       }
     },
