@@ -10231,6 +10231,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "582a6aa7-2d08-5393-8c80-944241acde65",
+        "address": "5-Tracy-Ann-Dr-North-Grafton-MA-01536",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1840,
+        "listed_at": "2026-04-03T18:40:06.000Z",
+        "days_on_market": "19",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.696419,
+          42.229485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5841f298-ef20-5761-bfee-de9fe6e75609",
         "address": "3737-Jamestown-Cir-Raleigh-NC-27609",
         "beds": 2,
@@ -27277,6 +27298,27 @@
         "coordinates": [
           -97.596847,
           30.810988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f06b845c-ba96-5605-bd09-519a2c95ef17",
+        "address": "10014-Hardesty-Ave-Kansas-City-MO-64137",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1152,
+        "listed_at": "2026-04-03T18:40:06.000Z",
+        "days_on_market": "38",
+        "current_price": 164000,
+        "price_label": "$164K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526563,
+          38.942195
         ]
       }
     },
