@@ -13171,6 +13171,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "704da5d9-8079-5b5f-9983-4621d48d45dc",
+        "address": "403-Heath-Pl-Smyrna-TN-37167",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1846,
+        "listed_at": "2026-04-03T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.561396,
+          35.984573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7065fa73-4273-55f0-9592-d9aa2e8df1a7",
         "address": "1951-Pin-Oak-Dr-Flower-Mound-TX-75028",
         "beds": 4,
