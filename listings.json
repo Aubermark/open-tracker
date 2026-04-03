@@ -26485,6 +26485,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7d99ba4-e10d-531c-ae6f-72d15a04d23e",
+        "address": "7737-Sylvaner-Ln-Atlanta-GA-30349",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2567,
+        "listed_at": "2026-04-03T21:10:05.000Z",
+        "days_on_market": "22",
+        "current_price": 354000,
+        "price_label": "$354K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.642301,
+          33.670928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e850903f-329d-5436-b8e0-9a8fee5eba05",
         "address": "6412-Pleasant-Creek-Ct-Raleigh-NC-27613",
         "beds": 3,
