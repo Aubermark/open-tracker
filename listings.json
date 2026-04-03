@@ -5149,6 +5149,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
+        "address": "2272-W-5th-St-Cleveland-OH-44113",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 3099,
+        "listed_at": "2026-04-03T20:40:06.000Z",
+        "days_on_market": ">40",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.683282,
+          41.482429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "291bce45-6bf6-58bb-9d14-cf8a9d8af405",
         "address": "9115-W-Hinsdale-Pl-Littleton-CO-80128",
         "beds": 4,
@@ -15664,6 +15685,27 @@
         "coordinates": [
           -111.887297,
           33.217702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8555c447-4d84-5088-8fb3-6b3daa6fea53",
+        "address": "9300-Bradley-Ct-Manassas-Park-VA-20111",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4126,
+        "listed_at": "2026-04-03T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42692,
+          38.763238
         ]
       }
     },
