@@ -20311,6 +20311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af1214af-50ad-557c-803a-84984a597eed",
+        "address": "2409-Se-Higgins-Dr-Vancouver-WA-98683",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2337,
+        "listed_at": "2026-04-03T22:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532008,
+          45.603464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "af218610-87c1-5c05-9a7a-f943dfb84ddb",
         "address": "3-Timber-Creek-Ct-Taylors-SC-29687",
         "beds": 3,
