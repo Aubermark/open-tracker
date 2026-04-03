@@ -8866,6 +8866,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4bef5620-b36b-5905-8d93-54848eca853b",
+        "address": "4383-S-Saginaw-Hill-Dr-Tucson-AZ-85746",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2098,
+        "listed_at": "2026-04-03T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0575,
+          32.169536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4c261dc8-8ab5-5495-a01e-a076261d90e7",
         "address": "122-Griffin-Way-Canton-GA-30115",
         "beds": 6,
