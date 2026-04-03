@@ -11932,27 +11932,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "67cbdc3b-e3c5-5472-bb3e-2959c6bad486",
-        "address": "8418-W-Payson-Rd-Tolleson-AZ-85353",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2318,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">40",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.241471,
-          33.422105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67e28256-afd4-5fd3-b222-6323a8942cb0",
         "address": "80-Play-House-Dr-Ringgold-GA-30736",
         "beds": 4,
@@ -14404,6 +14383,27 @@
         "coordinates": [
           -86.626828,
           36.092525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b91e756-92b2-5742-b4b6-43a8392a3d0a",
+        "address": "210-Hickory-Pointe-Dr-Lebanon-TN-37087",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2474,
+        "listed_at": "2026-04-03T15:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.358991,
+          36.203057
         ]
       }
     },
