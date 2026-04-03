@@ -1579,6 +1579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d93bdc1-6979-53d6-952c-ef338adffd1f",
+        "address": "5654-Tower-Rd-Riverside-CA-92506",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1652,
+        "listed_at": "2026-04-03T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 731000,
+        "price_label": "$731K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.401825,
+          33.967066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dabb6a2-3fc4-4717-8a28-42c0cc096e7c",
         "address": "4750-Summerchase-Ln-Cumming-GA-30028",
         "beds": 5,
@@ -4981,6 +5002,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28448ca5-5bd0-58a2-ba9d-5c640ca5669b",
+        "address": "3127-S-Eugene-Mesa-AZ-85212",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1227,
+        "listed_at": "2026-04-03T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.651232,
+          33.358904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "287541da-f4c6-59fd-84e2-713e351aa84f",
         "address": "8281-Sw-196th-Court-Rd-Dunnellon-FL-34432",
         "beds": 3,
@@ -6235,27 +6277,6 @@
         "coordinates": [
           -82.572866,
           34.844428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3492c014-fc61-55f0-87e1-a7b214c4156b",
-        "address": "791-Cedar-Lake-Dr-Se-Conyers-GA-30094",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1656,
-        "listed_at": "2026-03-25T07:32:46.000Z",
-        "days_on_market": "10",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.023962,
-          33.559993
         ]
       }
     },
@@ -12724,27 +12745,6 @@
         "coordinates": [
           -97.577807,
           30.238005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6c9fb05d-e610-5e8d-81d9-61dc03ab4d14",
-        "address": "5316-Prairie-Ln-Grand-Prairie-TX-75052",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1856,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">40",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.021502,
-          32.644616
         ]
       }
     },
