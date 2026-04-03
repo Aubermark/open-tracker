@@ -5674,6 +5674,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e2bfe30-e74d-56a3-8205-ecde38f94712",
+        "address": "4157-Chantilly-Ln-Frisco-TX-75034",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3703,
+        "listed_at": "2026-04-03T16:27:18.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.887739,
+          33.112351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e31be84-8cb2-5550-a2e7-0a6f58df563f",
         "address": "9176-Chickasaw-Ct-Jonesboro-GA-30236",
         "beds": 3,
@@ -16231,6 +16252,27 @@
         "coordinates": [
           -98.416611,
           29.632486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8b570951-046b-4549-ae4a-00d7b4eef7fd",
+        "address": "1794-W-Sawtooth-Way-San-Tan-Valley-AZ-85144",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1344,
+        "listed_at": "2026-04-03T16:27:18.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.585235,
+          33.192312
         ]
       }
     },
