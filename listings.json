@@ -25246,6 +25246,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dbff7ac5-ee68-5171-90c9-d5d98cdde619",
+        "address": "20623-Petunia-Peak-St-Katy-TX-77449",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1757,
+        "listed_at": "2026-04-03T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.735145,
+          29.862369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dc12d94d-bee7-571c-baa6-eaa57ca79e17",
         "address": "10454-Iron-Gate-Ln-Jonesboro-GA-30238",
         "beds": 3,
