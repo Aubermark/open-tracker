@@ -4561,6 +4561,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25761f6b-50b7-5959-8991-9071c9e02a6d",
+        "address": "554-Crossings-Cir-Tallmadge-OH-44278",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1711,
+        "listed_at": "2026-04-03T23:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.454833,
+          41.116929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25918895-3298-502e-83a2-f36de8b58e3d",
         "address": "1608-Wickham-Dr-Burleson-TX-76028",
         "beds": 3,
@@ -6928,6 +6949,27 @@
         "coordinates": [
           -78.50371,
           35.787833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3aea4d94-0c77-5537-a25e-372eb52aec52",
+        "address": "12244-Olivetta-Ct-Las-Vegas-NV-89138",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2780,
+        "listed_at": "2026-04-03T23:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 1100000,
+        "price_label": "$1.100M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.36866,
+          36.176708
         ]
       }
     },
