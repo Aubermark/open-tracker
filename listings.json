@@ -11911,6 +11911,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66f1b9f0-4103-5487-8e92-f94fc76b1cca",
+        "address": "8189-Shady-Maple-Dr-Canal-Winchester-OH-43110-17867859",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3549,
+        "listed_at": "2026-04-03T20:20:05.000Z",
+        "days_on_market": "28",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.761424,
+          39.853189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6733f938-4222-5c8d-8381-de750c99c9f0",
         "address": "249-Southberry-Ln-Lexington-SC-29072",
         "beds": 5,
@@ -26416,27 +26437,6 @@
         "coordinates": [
           -78.882904,
           35.991228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e83ea8fa-0618-51da-83e4-e870364e54f9",
-        "address": "2422-Kingston-St-Arlington-TX-76015",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1631,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">40",
-        "current_price": 263000,
-        "price_label": "$263K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.131024,
-          32.704145
         ]
       }
     },
