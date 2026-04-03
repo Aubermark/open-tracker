@@ -1306,6 +1306,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a0735a9-a07a-5755-9488-0fdbe8fb5bdd",
+        "address": "13724-W-Harvest-Ave-Litchfield-Park-AZ-85340",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2596,
+        "listed_at": "2026-04-03T18:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 711000,
+        "price_label": "$711K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.354302,
+          33.514149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a0d1c0b-0e9c-4539-96ae-2d570e6ffc2f",
         "address": "6511-Wild-Orchid-Ct-Fredericksburg-VA-22407",
         "beds": 3,
