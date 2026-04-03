@@ -13108,6 +13108,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6fa1262e-c812-5277-a531-7d33e0609a28",
+        "address": "913-Jayellen-Ct-Burleson-TX-76028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1360,
+        "listed_at": "2026-04-03T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.348035,
+          32.536451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6fc563a4-6f0f-5895-9128-9d33a0eb67ea",
         "address": "9336-January-Dr-Las-Vegas-NV-89134",
         "beds": 2,
