@@ -19261,6 +19261,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a44efa5c-7d4d-51b9-a087-f76a34c9e36f",
+        "address": "511-Affirmed-Ln-Alpharetta-GA-30004",
+        "beds": 6,
+        "baths": 5.5,
+        "sqft": 6453,
+        "listed_at": "2026-04-03T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 1665000,
+        "price_label": "$1.665M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.334877,
+          34.127914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a45dc6ad-c33e-52d3-8d9b-fe4c860b2c17",
         "address": "1101-E-Morehead-St-Apt-33-Charlotte-NC-28204",
         "beds": 2,
@@ -25576,6 +25597,27 @@
         "coordinates": [
           -82.360509,
           27.874158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ddfc6b82-317a-5344-8378-19eef3e908bb",
+        "address": "3345-Sw-Lake-Shore-Dr-Blue-Springs-MO-64014",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1812,
+        "listed_at": "2026-04-03T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.267937,
+          38.985523
         ]
       }
     },
