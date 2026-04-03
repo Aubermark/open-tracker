@@ -24826,6 +24826,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d705859a-7d33-57dc-bd36-d1cf817abcb0",
+        "address": "1205-Mistyhaynes-Way-Grayson-GA-30017",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1760,
+        "listed_at": "2026-04-03T19:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.973196,
+          33.862129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d73b072b-ce23-5082-b647-cb852bc52abc",
         "address": "1509-Center-St-Des-Plaines-IL-60018",
         "beds": 4,
