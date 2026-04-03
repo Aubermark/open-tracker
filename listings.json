@@ -12058,6 +12058,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "689e615b-8559-5704-93da-f0708bdaa004",
+        "address": "2016-E-River-Rd-Unit-101-Tucson-AZ-85718",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 720,
+        "listed_at": "2026-04-03T15:40:06.000Z",
+        "days_on_market": ">40",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.941249,
+          32.284361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68ff9af6-00f5-5c6e-ac07-9ed9ad9aa255",
         "address": "2692-E-Silk-Oak-Dr-Tempe-AZ-85281",
         "beds": 2,
@@ -16777,6 +16798,27 @@
         "coordinates": [
           -97.383714,
           32.579146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90dc9e01-8fb0-5e4d-a65c-9a1ca955f964",
+        "address": "3935-Lake-Lanier-Dr-Duluth-GA-30097",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2267,
+        "listed_at": "2026-04-03T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.123402,
+          34.024151
         ]
       }
     },
@@ -26842,6 +26884,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "edb6fa3e-48c3-57ba-9e45-5e9eef18d8ba",
+        "address": "1013-Dunbar-Dr-Atlanta-GA-30338",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1002,
+        "listed_at": "2026-04-03T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.301683,
+          33.927333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edba051f-3832-4fed-9eef-ebea287528e7",
         "address": "29-Craig-Ct-Saint-Augustine-FL-32092",
         "beds": 3,
@@ -27157,6 +27220,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f1d0c505-9e83-52c8-976f-f8b277114029",
+        "address": "4067-Lions-Gate-Douglasville-GA-30135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1635,
+        "listed_at": "2026-04-03T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.796768,
+          33.695571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f1f35a13-477a-5ebc-848f-93aa17748399",
         "address": "973-Bidwell-St-West-St-Paul-MN-55118",
         "beds": 3,
@@ -27445,27 +27529,6 @@
         "coordinates": [
           -85.942369,
           39.89897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f478349e-db67-5d3b-9dda-d03e871da388",
-        "address": "16116-Gardendale-Dr-Tampa-FL-33624",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1918,
-        "listed_at": "2026-03-23T13:30:07.000Z",
-        "days_on_market": ">40",
-        "current_price": 443000,
-        "price_label": "$443K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.528965,
-          28.101214
         ]
       }
     },
