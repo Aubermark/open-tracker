@@ -29047,6 +29047,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ffa2e0a5-a99f-597d-81c2-ede8393c5b4b",
+        "address": "3607-Duffy-Cir-North-Las-Vegas-NV-89031",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1628,
+        "listed_at": "2026-04-03T16:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.188693,
+          36.239718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fff71c17-0fc5-5b14-895d-d174bf7ed211",
         "address": "9429-Harkness-Ave-S-Cottage-Grove-MN-55016",
         "beds": 6,
