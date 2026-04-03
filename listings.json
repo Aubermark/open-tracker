@@ -24805,6 +24805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d9c5d1d1-0ce5-5323-8d6e-2f3a2c58e1b1",
+        "address": "2406-Manchester-Dr-Carrollton-TX-75006",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3562,
+        "listed_at": "2026-04-03T08:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.859953,
+          32.975392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9eed2d2-c9ba-5fb9-b025-aab458ab7334",
         "address": "413-Sherwood-Dr-W-Newark-OH-43055",
         "beds": 4,
