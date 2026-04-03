@@ -10735,27 +10735,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5dfce272-20c9-5127-879f-517c89d43219",
-        "address": "1702-Blue-Jay-Dr-Ennis-TX-75119",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1349,
-        "listed_at": "2026-03-12T07:40:03.000Z",
-        "days_on_market": ">40",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.628082,
-          32.363321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5e071e8b-1377-5d23-aa97-be60c7c11005",
         "address": "1229-Kirby-St-Ne-Albuquerque-NM-87112",
         "beds": 3,
@@ -27697,6 +27676,27 @@
         "coordinates": [
           -111.075161,
           32.369792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f238c90a-91d1-58b7-960d-b586082a09ad",
+        "address": "1151-S-Karen-Ln-Gilbert-AZ-85296",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1892,
+        "listed_at": "2026-04-03T21:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.730427,
+          33.330227
         ]
       }
     },
