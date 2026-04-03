@@ -11827,27 +11827,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "665f4884-023f-57bc-b94f-2968464ed264",
-        "address": "1314-Deer-Trail-Rd-Hoover-AL-35226",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1986,
-        "listed_at": "2026-03-30T20:50:08.000Z",
-        "days_on_market": "4",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.87223,
-          33.353798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66812888-f56e-5041-8167-31c8fb37fc2e",
         "address": "7447-Redpoll-Rd-Nw-Albuquerque-NM-87114",
         "beds": 3,
@@ -21544,6 +21523,27 @@
         "coordinates": [
           -97.195995,
           32.662914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b95873ad-1701-5f5c-8748-38669d8b77c7",
+        "address": "8505-Tallahassee-Ln-Fort-Worth-TX-76123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-04-03T18:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.367448,
+          32.618297
         ]
       }
     },
