@@ -28837,6 +28837,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fd937298-8534-58d7-819a-dad2b698a0ed",
+        "address": "2760-Calico-Bass-Ln-Johns-Island-SC-29455",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1472,
+        "listed_at": "2026-04-03T18:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.051789,
+          32.748259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fdb16555-1f59-5c89-aa2a-91c90e3353ba",
         "address": "10803-Fountaingrove-Dr-Charlotte-NC-28262",
         "beds": 5,
