@@ -15586,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8434c397-a350-5358-8e25-81d51f84892b",
+        "address": "18803-Luminescent-Ln-Spring-TX-77379",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1271,
+        "listed_at": "2026-04-03T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.491085,
+          30.041672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "84a853d8-d8b4-56a1-8b88-1b1fefc9f5ed",
         "address": "25210-S-Wyoming-Ave-Sun-Lakes-AZ-85248",
         "beds": 2,
@@ -18436,27 +18457,6 @@
         "coordinates": [
           -83.775896,
           33.779527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9df03689-dfa5-5ac1-9f6e-35cb7d3c62c2",
-        "address": "7118-Brockington-Dr-Katy-TX-77494",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2070,
-        "listed_at": "2026-03-24T22:50:05.000Z",
-        "days_on_market": "22",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.781177,
-          29.706673
         ]
       }
     },
@@ -22825,6 +22825,27 @@
         "coordinates": [
           -80.869073,
           35.019373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3bd8395-a912-5a5e-9f42-4422fa4501ac",
+        "address": "216-Blue-Crystal-Dr-Deland-FL-32720",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2647,
+        "listed_at": "2026-04-03T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.307594,
+          28.989985
         ]
       }
     },
