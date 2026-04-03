@@ -27283,6 +27283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f23933c5-ece6-5e52-b0fb-0e240bbedf29",
+        "address": "903-Long-Ave-Garner-NC-27529",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2461,
+        "listed_at": "2026-04-03T16:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.597443,
+          35.693089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f25a9128-bb54-5e35-92db-cd8e578e67c7",
         "address": "14110-Lora-St-Smithville-MO-64089",
         "beds": 3,
