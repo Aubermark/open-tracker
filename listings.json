@@ -14977,6 +14977,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ee9bbfb-06bc-464f-a0df-c6ef1470ea52",
+        "address": "169-Corapeake-Way-Apex-NC-27539",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2146,
+        "listed_at": "2026-04-03T20:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 527000,
+        "price_label": "$527K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.882633,
+          35.683192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ef3bf57-fcf8-567e-9041-19394f7fbe61",
         "address": "2052-Leanne-Ct-Winter-Park-FL-32792",
         "beds": 4,
