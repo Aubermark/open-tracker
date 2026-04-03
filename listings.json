@@ -14389,6 +14389,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b554f5f-c46d-5b34-9ee9-dd5341b164ba",
+        "address": "2741-Barrington-Dr-Plano-TX-75093",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3005,
+        "listed_at": "2026-04-03T08:55:05.000Z",
+        "days_on_market": "0",
+        "current_price": 730000,
+        "price_label": "$730K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.833535,
+          33.038628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b6c5815-635b-5dc7-9d05-c82753670a57",
         "address": "2416-Bayview-Dr-Nashville-TN-37217",
         "beds": 3,

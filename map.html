@@ -8,7 +8,7 @@
   <style>
     body, html { margin: 0; padding: 0; height: 100%; }
     #map { width: 100%; height: 100%; }
-
+ 
     #back-btn {
       position: absolute;
       top: 16px;
@@ -31,7 +31,7 @@
       transition: background 0.2s;
     }
     #back-btn:hover { background: #f0f0f0; }
-
+ 
     #legend {
       position: absolute;
       bottom: 24px;
@@ -46,8 +46,7 @@
       color: #444;
       min-width: 190px;
     }
-
-    /* DOM filter items */
+ 
     .legend-item {
       display: flex;
       align-items: center;
@@ -66,8 +65,7 @@
       border-radius: 50%;
       flex-shrink: 0;
     }
-
-    /* Layer toggle items */
+ 
     .layer-toggle {
       display: flex;
       align-items: center;
@@ -99,13 +97,25 @@
       border-radius: 50%;
       flex-shrink: 0;
     }
-
+ 
     .legend-sep {
       border: none;
       border-top: 1px solid #eee;
       margin: 8px 0;
     }
-
+ 
+    .dom-count {
+      margin-left: auto;
+      font-size: 11px;
+      font-weight: 700;
+      color: #555;
+      background: rgba(0,0,0,0.07);
+      border-radius: 10px;
+      padding: 1px 7px;
+      min-width: 22px;
+      text-align: center;
+    }
+ 
     #viewport-badge {
       position: absolute;
       top: 16px;
@@ -125,17 +135,17 @@
   </style>
 </head>
 <body>
-
+ 
 <div id="map"></div>
-
+ 
 <a id="back-btn" href="https://aubermark.github.io/open-tracker/">
   ← Data Explorer
 </a>
-
+ 
 <div id="viewport-badge">⟳ Cargando capa…</div>
-
+ 
 <div id="legend"></div>
-
+ 
 <script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
 <script>
   // ─── Map init ────────────────────────────────────────────────────────────────
@@ -145,7 +155,7 @@
     center: [-96.0, 38.0],
     zoom: 4
   });
-
+ 
   // ─── DOM filter state (listings) ────────────────────────────────────────────
   const domNumber = [
     "to-number",
@@ -155,7 +165,7 @@
       ["to-string", ["get", "days_on_market"]]
     ]
   ];
-
+ 
   const domColorExpression = [
     "case",
     ["<=", domNumber, 1],   "#a8c623",
@@ -164,7 +174,7 @@
     ["<=", domNumber, 120], "#FF9800",
     "#E65100"
   ];
-
+ 
   const domIconExpression = [
     "case",
     ["<=", domNumber, 1],   "pill-lime",
@@ -173,7 +183,7 @@
     ["<=", domNumber, 120], "pill-orange",
     "pill-red"
   ];
-
+ 
   const DOM_RANGES = [
     { key: 0,   label: "New homes today",  color: "#a8c623" },
     { key: 1,   label: "1 – 7 days",       color: "#21f36b" },
@@ -181,9 +191,43 @@
     { key: 40,  label: "40 – 120 days",    color: "#FF9800" },
     { key: 120, label: "+120 days",        color: "#E65100" },
   ];
-
+ 
   const activeFilters = new Set(DOM_RANGES.map(r => r.key));
-
+ 
+  // ─── DOM counts ──────────────────────────────────────────────────────────────
+  let domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+ 
+  function parseDOMValue(raw) {
+    const s = String(raw);
+    return parseFloat(s.startsWith(">") ? s.slice(1) : s) || 0;
+  }
+ 
+  function computeDOMCounts(features) {
+    domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+    features.forEach(f => {
+      const d = parseDOMValue(f.properties?.days_on_market ?? 0);
+      if      (d <= 1)              domCounts[0]++;    // exactamente 0 (nuevo hoy)
+      else if (d > 1   && d <= 7)   domCounts[1]++;    // 1 – 7
+      else if (d > 7   && d < 40)  domCounts[7]++;    // 7 – 40
+      else if (d >= 40  && d <= 120) domCounts[40]++;   // 40 – 120
+      else if (d > 120)             domCounts[120]++;  // +120
+    });
+  }
+ 
+  function updateDOMCounts() {
+    document.querySelectorAll(".legend-item[data-key]").forEach(item => {
+      const key = Number(item.dataset.key);
+      let countEl = item.querySelector(".dom-count");
+      if (!countEl) {
+        countEl = document.createElement("span");
+        countEl.className = "dom-count";
+        item.appendChild(countEl);
+      }
+      countEl.textContent = (domCounts[key] ?? 0).toLocaleString();
+    });
+  }
+ 
+  // ─── Filter helpers ──────────────────────────────────────────────────────────
   function buildDOMFilter() {
     if (activeFilters.size === 0) return ["==", ["id"], -1];
     if (activeFilters.size === DOM_RANGES.length) return null;
@@ -195,27 +239,29 @@
     if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
     return ["any", ...conditions];
   }
-
+ 
   function applyDOMFilter() {
     const f = buildDOMFilter();
     map.setFilter("listings-dots", f);
     map.setFilter("listings-bg",   f);
   }
-
+ 
   function toggleDOMFilter(key) {
     if (activeFilters.has(key)) activeFilters.delete(key);
     else activeFilters.add(key);
     updateDOMUI();
     applyDOMFilter();
+    updateDOMCounts();
   }
-
+ 
   function toggleAll() {
     if (activeFilters.size === DOM_RANGES.length) activeFilters.clear();
     else DOM_RANGES.forEach(r => activeFilters.add(r.key));
     updateDOMUI();
     applyDOMFilter();
+    updateDOMCounts();
   }
-
+ 
   function updateDOMUI() {
     const btn = document.getElementById("toggle-all-btn");
     if (btn) btn.textContent = activeFilters.size === DOM_RANGES.length ? "None" : "All";
@@ -226,9 +272,8 @@
       item.style.filter  = on ? "none" : "grayscale(1)";
     });
   }
-
+ 
   // ─── Overlay layers config ───────────────────────────────────────────────────
-  // Each overlay: id, label, file, type (fill/line), color, active (start hidden)
   const OVERLAYS = [
     {
       id:     "parques",
@@ -237,7 +282,6 @@
       type:   "fill",
       color:  "#2ecc71",
       active: false,
-      // MapLibre layer paint per type
       paint: {
         "fill-color":   "#2ecc71",
         "fill-opacity": 0.35,
@@ -265,74 +309,66 @@
       layerType: "line"
     }
   ];
-
-  // Track viewport-load state per overlay
+ 
   const overlayState = {};
   OVERLAYS.forEach(ov => {
     overlayState[ov.id] = {
       active:   ov.active,
       loading:  false,
-      loaded:   false,   // full file cached in memory
-      fullData: null,    // GeoJSON FeatureCollection (cached after first load)
-      lastBbox: null,    // last bbox string used for viewport filter
+      loaded:   false,
+      fullData: null,
+      lastBbox: null,
     };
   });
-
-  // ─── Viewport bbox helper ────────────────────────────────────────────────────
+ 
+  // ─── Viewport bbox helpers ───────────────────────────────────────────────────
   function getMapBbox() {
     const b = map.getBounds();
     return [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()];
   }
-
+ 
   function bboxKey(bbox) {
     return bbox.map(n => n.toFixed(3)).join(",");
   }
-
-  // Point-in-bbox check
+ 
   function coordInBbox(coord, bbox) {
     return coord[0] >= bbox[0] && coord[0] <= bbox[2] &&
            coord[1] >= bbox[1] && coord[1] <= bbox[3];
   }
-
-  // Returns true if a geometry intersects the bbox (fast approximation using bounds)
+ 
   function geomIntersectsBbox(geom, bbox) {
     if (!geom) return false;
     const t = geom.type;
-
     function checkCoords(c) {
       if (typeof c[0] === "number") return coordInBbox(c, bbox);
       return c.some(checkCoords);
     }
-
-    // For polygons / multipolygons also check if bbox center is inside
-    // (simple: just check if any coordinate is in bbox OR bbox overlaps geom bounds)
     if (t === "Point") return coordInBbox(geom.coordinates, bbox);
     return checkCoords(geom.coordinates);
   }
-
+ 
   function filterFeaturesToBbox(fc, bbox) {
     return {
       type: "FeatureCollection",
       features: fc.features.filter(f => geomIntersectsBbox(f.geometry, bbox))
     };
   }
-
+ 
   // ─── Load / update a single overlay for current viewport ────────────────────
   async function loadOverlayViewport(ovId) {
     const ov    = OVERLAYS.find(o => o.id === ovId);
     const state = overlayState[ovId];
     if (!state.active) return;
-
+ 
     const bbox    = getMapBbox();
     const bboxStr = bboxKey(bbox);
-    if (bboxStr === state.lastBbox) return; // viewport hasn't changed enough
+    if (bboxStr === state.lastBbox) return;
     state.lastBbox = bboxStr;
-
+ 
     showBadge(`⟳ Loading ${ov.label}…`);
     state.loading = true;
-
+ 
     try {
-      // Fetch full file only once — cache in memory
       if (!state.fullData) {
         const res = await fetch(ov.file + "?v=" + Date.now());
         if (!res.ok) throw new Error("HTTP " + res.status);
@@ -340,11 +376,10 @@
         state.loaded   = true;
         console.log(`[${ovId}] loaded ${state.fullData.features.length} features total`);
       }
-
-      // Filter to viewport
+ 
       const viewData = filterFeaturesToBbox(state.fullData, bbox);
       console.log(`[${ovId}] viewport: ${viewData.features.length} features`);
-
+ 
       if (map.getSource(ovId)) {
         map.getSource(ovId).setData(viewData);
       }
@@ -355,7 +390,7 @@
       hideBadge();
     }
   }
-
+ 
   function showBadge(text) {
     const el = document.getElementById("viewport-badge");
     el.textContent = text;
@@ -364,30 +399,28 @@
   function hideBadge() {
     document.getElementById("viewport-badge").style.display = "none";
   }
-
+ 
   // ─── Toggle overlay visibility ───────────────────────────────────────────────
   function setOverlayActive(ovId, active) {
     const state = overlayState[ovId];
     state.active = active;
-
-    if (!map.getLayer(ovId)) return; // layers not yet added
-
+ 
+    if (!map.getLayer(ovId)) return;
+ 
     map.setLayoutProperty(ovId, "visibility", active ? "visible" : "none");
-
+ 
     if (active) {
-      // Reset lastBbox to force reload
       state.lastBbox = null;
       loadOverlayViewport(ovId);
     }
-
-    // Update legend UI
+ 
     const chip = document.querySelector(`.layer-toggle[data-overlay="${ovId}"]`);
     if (chip) {
       if (active) chip.classList.add("active");
       else chip.classList.remove("active");
     }
   }
-
+ 
   // ─── Pill image generator ────────────────────────────────────────────────────
   function makeRoundedRect(color, width, height, radius) {
     const canvas = document.createElement("canvas");
@@ -409,23 +442,22 @@
     ctx.fill();
     return ctx.getImageData(0, 0, width, height);
   }
-
+ 
   // ─── Legend builder ──────────────────────────────────────────────────────────
   function buildLegend() {
     const legend = document.getElementById("legend");
     legend.innerHTML = "";
-
-    // ── Section 1: overlay toggles (parques + rutas) ──
+ 
+    // ── Section 1: overlay toggles ──
     const ovTitle = document.createElement("div");
     ovTitle.style.cssText = "font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;margin-bottom:8px;";
     ovTitle.textContent = "Layers";
     legend.appendChild(ovTitle);
-
+ 
     OVERLAYS.forEach(ov => {
       const item = document.createElement("div");
       item.className = "layer-toggle";
       item.dataset.overlay = ov.id;
-      // swatch
       const swatchEl = ov.layerType === "fill"
         ? `<div class="layer-dot" style="background:${ov.color};opacity:0.8;"></div>`
         : `<div class="layer-swatch" style="background:${ov.color};"></div>`;
@@ -438,13 +470,13 @@
       });
       legend.appendChild(item);
     });
-
+ 
     // ── Separator ──
     const sep = document.createElement("hr");
     sep.className = "legend-sep";
     legend.appendChild(sep);
-
-    // ── Section 2: DOM filter (listings) ──
+ 
+    // ── Section 2: DOM filter ──
     const header = document.createElement("div");
     header.style.cssText = "display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;";
     header.innerHTML = `
@@ -458,7 +490,7 @@
       </button>
     `;
     legend.appendChild(header);
-
+ 
     DOM_RANGES.forEach(range => {
       const item = document.createElement("div");
       item.className = "legend-item";
@@ -472,12 +504,15 @@
       item.addEventListener("click", () => toggleDOMFilter(range.key));
       legend.appendChild(item);
     });
+ 
+    // Inject counts if already computed
+    updateDOMCounts();
   }
-
+ 
   // ─── Map load ────────────────────────────────────────────────────────────────
   map.on("load", async () => {
-
-    // ── Hide most base labels, keep country/state/major cities ──
+ 
+    // ── Hide most base labels ──
     const ALLOWED_LAYERS = ["place_state","place_country_1","place_country_2","place_city_r6","place_city_r5"];
     map.getStyle().layers.forEach(layer => {
       if (layer.layout && layer.layout["text-field"])
@@ -488,15 +523,13 @@
     });
     if (map.getLayer("place_city_r6")) map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
     if (map.getLayer("place_city_r5")) map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
-
+ 
     // ── Overlay sources + layers (hidden initially) ──
     OVERLAYS.forEach(ov => {
-      // Empty source — data filled on demand when activated
       map.addSource(ov.id, {
         type: "geojson",
         data: { type: "FeatureCollection", features: [] }
       });
-
       map.addLayer({
         id:      ov.id,
         type:    ov.layerType,
@@ -505,14 +538,23 @@
         paint:   ov.paint
       });
     });
-
+ 
     // ── Listings source + layers ──
     map.addSource("listings", {
       type: "geojson",
       data: "listings.json?v=" + Date.now()
     });
-
-    // Register pill images
+ 
+    // ── Fetch listings.json to compute DOM counts ──
+    fetch("listings.json")
+      .then(r => r.json())
+      .then(gj => {
+        computeDOMCounts(gj.features);
+        updateDOMCounts();
+      })
+      .catch(err => console.warn("Could not compute DOM counts:", err));
+ 
+    // ── Register pill images ──
     const PILL_COLORS = {
       "pill-lime":   "#a8c623",
       "pill-green":  "#21f36b",
@@ -523,8 +565,8 @@
     for (const [name, color] of Object.entries(PILL_COLORS)) {
       map.addImage(name, makeRoundedRect(color, 120, 40, 10), { pixelRatio: 2 });
     }
-
-    // Dot layer (zoom 3–7)
+ 
+    // ── Dot layer (zoom 3–7) ──
     map.addLayer({
       id: "listings-dots",
       type: "circle",
@@ -538,8 +580,8 @@
         "circle-stroke-width": 1.5
       }
     });
-
-    // Pill label layer (zoom 7+)
+ 
+    // ── Pill label layer (zoom 7+) ──
     map.addLayer({
       id: "listings-bg",
       type: "symbol",
@@ -562,7 +604,7 @@
       },
       paint: { "text-color": "#ffffff" }
     });
-
+ 
     // ── Popups ──
     const showPopup = (e) => {
       const f = e.features[0];
@@ -578,37 +620,34 @@
         `)
         .addTo(map);
     };
-
+ 
     ["listings-bg", "listings-dots"].forEach(lyr => {
       map.on("mouseenter", lyr, () => { map.getCanvas().style.cursor = "pointer"; });
       map.on("mouseleave", lyr, () => { map.getCanvas().style.cursor = ""; });
       map.on("click",      lyr, showPopup);
     });
-
-    // Parques popup
-    map.on("mouseenter", "parques",       () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "parques",       () => { map.getCanvas().style.cursor = ""; });
-    map.on("click",      "parques",       (e) => {
+ 
+    map.on("mouseenter", "parques", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "parques", () => { map.getCanvas().style.cursor = ""; });
+    map.on("click",      "parques", (e) => {
       const p = e.features[0].properties;
       new maplibregl.Popup()
         .setLngLat(e.lngLat)
         .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Park"}</strong></div>`)
         .addTo(map);
     });
-
-    // Ruta ciclista popup
-    map.on("mouseenter", "rutaciclista",  () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "rutaciclista",  () => { map.getCanvas().style.cursor = ""; });
-    map.on("click",      "rutaciclista",  (e) => {
+ 
+    map.on("mouseenter", "rutaciclista", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "rutaciclista", () => { map.getCanvas().style.cursor = ""; });
+    map.on("click",      "rutaciclista", (e) => {
       const p = e.features[0].properties;
       new maplibregl.Popup()
         .setLngLat(e.lngLat)
         .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Cycling Route"}</strong><br><span style="font-size:12px;color:#888;">${p.highway || ""}</span></div>`)
         .addTo(map);
     });
-
+ 
     // ── Viewport-based layer refresh on map move ──
-    // Debounced: waits 400ms after the user stops moving before fetching
     let moveTimer = null;
     map.on("moveend", () => {
       clearTimeout(moveTimer);
@@ -620,11 +659,11 @@
         });
       }, 400);
     });
-
+ 
     // ── Build legend ──
     buildLegend();
   });
 </script>
-
+ 
 </body>
 </html>
