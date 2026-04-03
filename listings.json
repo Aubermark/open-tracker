@@ -7711,27 +7711,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "42b2c16b-2fc8-5ffe-a717-0fd3f108895f",
-        "address": "2312-Meadecroft-Rd-Charlotte-NC-28214",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1403,
-        "listed_at": "2026-03-30T20:20:08.000Z",
-        "days_on_market": "4",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.956006,
-          35.287846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "42b8a15b-a8d2-546a-9543-853dfc39d0c9",
         "address": "5409-Hickory-Dr-Fort-Pierce-FL-34982",
         "beds": 3,
@@ -25051,6 +25030,27 @@
         "coordinates": [
           -81.875392,
           30.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db684b35-673c-524e-80a9-908406a75d46",
+        "address": "8592-Dylan-Michael-Dr-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1958,
+        "listed_at": "2026-04-03T13:30:05.000Z",
+        "days_on_market": "35",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.793222,
+          30.263735
         ]
       }
     },
