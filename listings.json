@@ -7774,27 +7774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "42c0aa71-9709-5e8d-b98a-949740920797",
-        "address": "231-Maggie-St-Longmont-CO-80501",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2154,
-        "listed_at": "2026-03-24T22:20:07.000Z",
-        "days_on_market": "10",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.063801,
-          40.157801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "434d8b2d-7b5c-57ae-a670-56557e558d55",
         "address": "3933-Massey-Run-Raleigh-NC-27616-17967643",
         "beds": 3,
@@ -19555,27 +19534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a6a2dc0b-1eea-54f5-9a33-4cba9d095ed6",
-        "address": "401-Belinda-Pkwy-Mount-Juliet-TN-37122",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2877,
-        "listed_at": "2026-03-31T18:50:07.000Z",
-        "days_on_market": "3",
-        "current_price": 364000,
-        "price_label": "$364K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.479764,
-          36.171105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a6ab1e3e-39fd-53b6-aa23-25acc044cde3",
         "address": "11987-Bird-Key-Blvd-Fishers-IN-46037",
         "beds": 4,
@@ -25051,6 +25009,27 @@
         "coordinates": [
           -80.330287,
           27.334504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d95774ee-4d41-50ef-aad4-73479b98b883",
+        "address": "543-Tanda-Ln-Hutto-TX-78634",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-04-03T19:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.581889,
+          30.51981
         ]
       }
     },
