@@ -3574,6 +3574,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1d499cd9-8507-5702-9b68-a90d3aa89e58",
+        "address": "110-Strawn-Kyle-TX-78640",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 1956,
+        "listed_at": "2026-04-03T23:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.880228,
+          30.007968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d506238-7985-500a-a98b-8c4c8eef1ada",
         "address": "4917-Laura-Jeanne-Blvd-#-52-Murfreesboro-TN-37129",
         "beds": 2,
