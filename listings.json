@@ -3868,6 +3868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "205c042b-3f47-5c1c-a27e-1f82b8293b81",
+        "address": "4106-Walnut-Hill-Ln-Dallas-TX-75229",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2452,
+        "listed_at": "2026-04-03T08:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 820000,
+        "price_label": "$820K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.842322,
+          32.880004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "205e6ecf-7d15-51e7-aeb8-14069570dae3",
         "address": "2650-Merry-Rd-Cumming-GA-30041",
         "beds": 3,
