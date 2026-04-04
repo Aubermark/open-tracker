@@ -2318,6 +2318,7 @@
   font-size: 13px;
   color: #cbd5e1;
   table-layout: fixed;
+  margin-top:15px;
 }
 
 #table-sold-ranges th:first-child {
@@ -2348,7 +2349,7 @@
 .ranges-row-pct .ranges-pct {
   font-variant-numeric: tabular-nums;
   font-size: 12px;
-  color: rgba(148, 163, 184, 0.5);
+  color: rgba(148, 163, 184, 0.85);
   padding-bottom: 10px;
 }
 
@@ -2684,6 +2685,87 @@
 
           </br>
 
+
+          <section class="layout-full-ranges">
+          <div class="card-wide-ranges">
+            <div class="card-header-ranges">
+              <div>
+                <div class="card-title">Potential Sales · Q2 Operational Range Breakdown</div>
+                <div class="card-subtitle">
+                  Distribution of delisted Opendoor properties by days on market at time of removal, scoped to the current operational quarter.
+                  <div>* Counts may shift over time as delisted properties can return to the market and exit their current range.</div>
+                </div>
+              </div>
+              
+            </div>
+
+            
+    <table id="table-sold-ranges">
+      <thead>
+        <tr>
+          <th>PRE-TRACKING</th>
+          <th>0-7 D</th><th>8-30 D</th><th>31-60 D</th><th>61-90 D</th><th>91-120 D</th><th>+120 D</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="ranges-row-count">
+          <td class="ranges-count pretracking-cell">493</td>
+          <td class="ranges-count">83</td><td class="ranges-count">206</td><td class="ranges-count">4</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
+        </tr>
+        <tr class="ranges-row-pct">
+          <td></td>
+          <td class="ranges-pct">28.3%</td><td class="ranges-pct">70.3%</td><td class="ranges-pct">1.4%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
+        </tr>
+        <tr class="ranges-row-bar">
+          <td></td>
+          
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:28.3%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:70.3%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:1.4%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+        </tr>
+      </tbody>
+    </table>
+  
+          </div>
+        </section>
+
+        </br>
+
+
+
           <div class="info-card-collapsible">
             <div class="info-card-header" onclick="this.parentElement.classList.toggle('open')">
               <h3>How We Track Opendoor Inventory</h3>
@@ -2930,83 +3012,7 @@
 
           </br>
 
-          <section class="layout-full-ranges">
-          <div class="card-wide-ranges">
-            <div class="card-header-ranges">
-              <div>
-                <div class="card-title">Potential Sales · Q2 Operational Range Breakdown</div>
-                <div class="card-subtitle">
-                  Distribution of delisted Opendoor properties by days on market at time of removal, scoped to the current operational quarter.
-                  <div>* Counts may shift over time as delisted properties can return to the market and exit their current range.</div>
-                </div>
-              </div>
-              
-            </div>
-
-            
-    <table id="table-sold-ranges">
-      <thead>
-        <tr>
-          <th>PRE-TRACKING</th>
-          <th>0-7 D</th><th>8-30 D</th><th>31-60 D</th><th>61-90 D</th><th>91-120 D</th><th>+120 D</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr class="ranges-row-count">
-          <td class="ranges-count pretracking-cell">493</td>
-          <td class="ranges-count">83</td><td class="ranges-count">206</td><td class="ranges-count">4</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
-        </tr>
-        <tr class="ranges-row-pct">
-          <td></td>
-          <td class="ranges-pct">28.3%</td><td class="ranges-pct">70.3%</td><td class="ranges-pct">1.4%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
-        </tr>
-        <tr class="ranges-row-bar">
-          <td></td>
           
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:28.3%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:70.3%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:1.4%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-        </tr>
-      </tbody>
-    </table>
-  
-          </div>
-        </section>
-
-        </br>
 
         <!-- Chart + table -->
         <section class="layout-main">
