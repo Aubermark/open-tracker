@@ -2308,6 +2308,86 @@
   margin-left: 4px;
 }
 
+
+
+
+
+#table-sold-ranges {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  color: #cbd5e1;
+}
+
+#table-sold-ranges thead tr {
+  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+#table-sold-ranges th {
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: rgba(148, 163, 184, 0.5);
+  padding: 8px 12px;
+}
+
+#table-sold-ranges td {
+  padding: 7px 12px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.07);
+  vertical-align: middle;
+}
+
+#table-sold-ranges tbody tr:hover {
+  background: rgba(148, 163, 184, 0.04);
+}
+
+#table-sold-ranges tr.row-pretracking td {
+  opacity: 0.5;
+}
+
+.ranges-count {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: #f1f5f9;
+  width: 60px;
+}
+
+.ranges-pct {
+  font-variant-numeric: tabular-nums;
+  color: rgba(148, 163, 184, 0.6);
+  font-size: 12px;
+  width: 60px;
+  text-align: right;
+}
+
+.ranges-bar-cell {
+  width: 100%;
+  padding-right: 16px;
+}
+
+.ranges-bar-track {
+  width: 100%;
+  height: 4px;
+  background: rgba(148, 163, 184, 0.1);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.ranges-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #22d3ee, #0ea5e9);
+  border-radius: 2px;
+  transition: width 0.4s ease;
+}
+
+#table-sold-ranges tr.ranges-total-row td {
+  border-top: 1px solid rgba(148, 163, 184, 0.2);
+  border-bottom: none;
+  padding-top: 10px;
+  color: #f1f5f9;
+}
+
     </style>
   </head>
 
@@ -2377,7 +2457,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">04/04/2026, 11:10 (CET)</span>
+                <span class="hero-meta-value">04/04/2026, 11:12 (CET)</span>
               </div>
           </div>
         </section>
@@ -2825,6 +2905,79 @@
         </section>
 
           </br>
+
+          <section class="layout-full-ranges">
+          <div class="card-wide-ranges">
+            <div class="card-header-ranges">
+              <div>
+                <div class="card-title">Top Markets Last Week Summary</div>
+                <div class="card-subtitle">
+                  Market metrics from the tracked Opendoor inventory last week.
+                  <div>* P. SOLD indicates a potential sale, not a completed one. Can be returned.</div>
+                </div>
+              </div>
+              <span class="card-tag">Resume</span>
+            </div>
+
+            
+    <table id="table-sold-ranges">
+      <tr>
+        <th>Range</th>
+        <th>Count</th>
+        <th>% of Total</th>
+      </tr>
+      
+          <tr>
+            <td><span class="badge badge-old">PRE-TRACKING</span></td>
+            <td class="price-cell">493</td>
+            <td class="date-cell"></td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">0-7 D</span></td>
+            <td class="price-cell">83</td>
+            <td class="date-cell">28.3%</td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">8-30 D</span></td>
+            <td class="price-cell">206</td>
+            <td class="date-cell">70.3%</td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">31-60 D</span></td>
+            <td class="price-cell">4</td>
+            <td class="date-cell">1.4%</td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">61-90 D</span></td>
+            <td class="price-cell">0</td>
+            <td class="date-cell">0.0%</td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">91-120 D</span></td>
+            <td class="price-cell">0</td>
+            <td class="date-cell">0.0%</td>
+          </tr>
+        
+          <tr>
+            <td><span class="badge badge-days-dom">+120 D</span></td>
+            <td class="price-cell">0</td>
+            <td class="date-cell">0.0%</td>
+          </tr>
+        
+      <tr class="row-total">
+        <td><strong>TOTAL</strong></td>
+        <td class="price-cell"><strong>293</strong></td>
+        <td class="date-cell"></td>
+      </tr>
+    </table>
+  
+          </div>
+        </section>
 
         <!-- Chart + table -->
         <section class="layout-main">
