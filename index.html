@@ -2413,6 +2413,54 @@
   backdrop-filter: blur(8px);
 }
 
+
+
+
+
+.ranges-label-cell {
+  text-align: left;
+  padding: 8px 12px;
+}
+
+.ranges-row-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+
+.label-sold {
+  background: rgba(34, 197, 94, 0.15);
+  color: #4ade80;
+}
+
+.label-active {
+  background: rgba(34, 211, 238, 0.15);
+  color: #22d3ee;
+}
+
+.ranges-section-divider td {
+  padding: 10px 12px 4px;
+  border-top: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.ranges-section-title {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: rgba(148, 163, 184, 0.35);
+  text-align: left;
+}
+
+.bar-sold {
+  background: linear-gradient(90deg, #4ade80, #22c55e);
+}
+
+.bar-active {
+  background: linear-gradient(90deg, #22d3ee, #0ea5e9);
+}
+
     </style>
   </head>
 
@@ -2703,59 +2751,129 @@
     <table id="table-sold-ranges">
       <thead>
         <tr>
+          <th></th>
           <th>PRE-TRACKING</th>
           <th>0-7 D</th><th>8-30 D</th><th>31-60 D</th><th>61-90 D</th><th>91-120 D</th><th>+120 D</th>
         </tr>
       </thead>
       <tbody>
-        <tr class="ranges-row-count">
-          <td class="ranges-count pretracking-cell">495</td>
-          <td class="ranges-count">100</td><td class="ranges-count">174</td><td class="ranges-count">19</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
-        </tr>
-        <tr class="ranges-row-pct">
-          <td></td>
-          <td class="ranges-pct">34.1%</td><td class="ranges-pct">59.4%</td><td class="ranges-pct">6.5%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
-        </tr>
-        <tr class="ranges-row-bar">
-          <td></td>
-          
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:34.1%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:59.4%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:6.5%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-              <td class="ranges-bar-cell">
-                <div class="ranges-bar-track">
-                  <div class="ranges-bar-fill" style="width:0.0%"></div>
-                </div>
-              </td>
-            
-        </tr>
+        <tr class="ranges-section-divider"><td colspan="8" class="ranges-section-title">P. SOLD</td></tr>
+        
+    <tr class="ranges-row-count">
+      <td class="ranges-label-cell"><span class="ranges-row-label label-sold">SOLD</span></td>
+      <td class="ranges-count pretracking-cell">495</td>
+      <td class="ranges-count">100</td><td class="ranges-count">174</td><td class="ranges-count">19</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
+    </tr>
+  
+        
+    <tr class="ranges-row-pct">
+      <td></td>
+      <td></td>
+      <td class="ranges-pct">34.1%</td><td class="ranges-pct">59.4%</td><td class="ranges-pct">6.5%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
+    </tr>
+  
+        
+    <tr class="ranges-row-bar">
+      <td></td>
+      <td></td>
+      
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:34.1%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:59.4%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:6.5%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-sold" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+    </tr>
+  
+
+        <tr class="ranges-section-divider"><td colspan="8" class="ranges-section-title">LISTINGS</td></tr>
+        
+    <tr class="ranges-row-count">
+      <td class="ranges-label-cell"><span class="ranges-row-label label-active">ACTIVE</span></td>
+      <td class="ranges-count pretracking-cell">562</td>
+      <td class="ranges-count">188</td><td class="ranges-count">463</td><td class="ranges-count">192</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
+    </tr>
+  
+        
+    <tr class="ranges-row-pct">
+      <td></td>
+      <td></td>
+      <td class="ranges-pct">22.3%</td><td class="ranges-pct">54.9%</td><td class="ranges-pct">22.8%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
+    </tr>
+  
+        
+    <tr class="ranges-row-bar">
+      <td></td>
+      <td></td>
+      
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:22.3%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:54.9%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:22.8%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+          <td class="ranges-bar-cell">
+            <div class="ranges-bar-track">
+              <div class="ranges-bar-fill bar-active" style="width:0.0%"></div>
+            </div>
+          </td>
+        
+    </tr>
+  
       </tbody>
     </table>
   
@@ -2974,15 +3092,15 @@
           </tr>
         
           <tr>
-            <td>SC</td><td class="num-cell">100</td><td class="price-cell">7</td><td class="price-cell">$2.36M</td><td>6.54%</td><td>10</td><td>2</td><td class="cut-cell">18</td><td>$361.19K</td>
-          </tr>
-        
-          <tr>
             <td>OH</td><td class="num-cell">45</td><td class="price-cell">7</td><td class="price-cell">$2.12M</td><td>13.46%</td><td>9</td><td>4</td><td class="cut-cell">11</td><td>$366.56K</td>
           </tr>
         
           <tr>
             <td>MO</td><td class="num-cell">27</td><td class="price-cell">7</td><td class="price-cell">$2.39M</td><td>20.59%</td><td>6</td><td>2</td><td class="cut-cell">3</td><td>$293.89K</td>
+          </tr>
+        
+          <tr>
+            <td>SC</td><td class="num-cell">100</td><td class="price-cell">6</td><td class="price-cell">$2.06M</td><td>5.66%</td><td>10</td><td>2</td><td class="cut-cell">18</td><td>$361.19K</td>
           </tr>
         
       </tbody>
