@@ -2320,17 +2320,6 @@
   table-layout: fixed;
 }
 
-#table-sold-ranges th {
-  text-align: center;
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  color: rgba(148, 163, 184, 0.5);
-  padding: 8px 12px;
-  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
-  width: calc(100% / 7);
-}
-
 #table-sold-ranges th:first-child {
   color: #a78bfa;
   opacity: 0.6;
@@ -2382,8 +2371,41 @@
   transition: width 0.4s ease;
 }
 
+
+
+
+#table-sold-ranges th {
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: rgba(241, 245, 249, 0.75);
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+  width: calc(100% / 7);
+}
+
+#table-sold-ranges th:first-child {
+  color: #a78bfa;
+  opacity: 1;
+}
+
+.ranges-row-count .ranges-count {
+  font-variant-numeric: tabular-nums;
+  font-size: 17px;
+  font-weight: 700;
+  color: #f1f5f9;
+  padding-top: 16px;
+}
+
+.ranges-row-count .pretracking-cell {
+  font-size: 17px;
+  color: #a78bfa;
+  opacity: 0.6;
+}
+
 .card-wide-ranges {
-  background: rgba(15, 23, 42, 0.6);
+  background: rgba(8, 14, 28, 0.85);
   border: 1px solid rgba(148, 163, 184, 0.1);
   border-radius: 12px;
   padding: 24px 28px;
@@ -2459,7 +2481,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">04/04/2026, 11:22 (CET)</span>
+                <span class="hero-meta-value">04/04/2026, 11:27 (CET)</span>
               </div>
           </div>
         </section>
@@ -2912,9 +2934,9 @@
           <div class="card-wide-ranges">
             <div class="card-header-ranges">
               <div>
-                <div class="card-title">Potential Sales · Range Breakdown</div>
+                <div class="card-title">Potential Sales · Q2 Operational Range Breakdown</div>
                 <div class="card-subtitle">
-                  Distribution of delisted Opendoor properties by days on market at time of removal.
+                  Distribution of delisted Opendoor properties by days on market at time of removal, scoped to the current operational quarter.
                   <div>* Counts may shift over time as delisted properties can return to the market and exit their current range.</div>
                 </div>
               </div>
