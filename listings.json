@@ -7816,6 +7816,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4297b955-775f-5394-b0d3-b018a34434fa",
+        "address": "4309-Saltmarsh-Sparrow-Dr-Windermere-FL-34786",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3697,
+        "listed_at": "2026-04-04T00:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 825000,
+        "price_label": "$825K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6019,
+          28.491162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42b8a15b-a8d2-546a-9543-853dfc39d0c9",
         "address": "5409-Hickory-Dr-Fort-Pierce-FL-34982",
         "beds": 3,
