@@ -26506,6 +26506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9a738b9-ec72-5cb0-9745-47b9597c63bf",
+        "address": "51109-Mayfair-Ter-Novi-MI-48374",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3409,
+        "listed_at": "2026-04-04T20:50:06.000Z",
+        "days_on_market": ">41",
+        "current_price": 569000,
+        "price_label": "$569K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.550882,
+          42.489915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9e56075-5a9c-5d45-82a9-7e2c9d67dffa",
         "address": "103-Linda-Dr-Hendersonville-TN-37075",
         "beds": 3,
