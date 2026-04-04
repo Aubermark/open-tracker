@@ -11974,6 +11974,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67138300-8dd2-5a65-98f7-06b1f8f7b777",
+        "address": "1038-Cash-St-Alvin-TX-77511",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1648,
+        "listed_at": "2026-04-04T15:00:06.000Z",
+        "days_on_market": "17",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.253366,
+          29.441293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6733f938-4222-5c8d-8381-de750c99c9f0",
         "address": "249-Southberry-Ln-Lexington-SC-29072",
         "beds": 5,
