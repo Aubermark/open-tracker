@@ -2457,7 +2457,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">04/04/2026, 11:12 (CET)</span>
+                <span class="hero-meta-value">04/04/2026, 11:16 (CET)</span>
               </div>
           </div>
         </section>
@@ -2910,10 +2910,10 @@
           <div class="card-wide-ranges">
             <div class="card-header-ranges">
               <div>
-                <div class="card-title">Top Markets Last Week Summary</div>
+                <div class="card-title">Potential Sales · Range Breakdown</div>
                 <div class="card-subtitle">
-                  Market metrics from the tracked Opendoor inventory last week.
-                  <div>* P. SOLD indicates a potential sale, not a completed one. Can be returned.</div>
+                  Distribution of delisted Opendoor properties by days on market at time of removal.
+                  <div>* Counts may shift over time as delisted properties can return to the market and exit their current range.</div>
                 </div>
               </div>
               <span class="card-tag">Resume</span>
@@ -2921,59 +2921,66 @@
 
             
     <table id="table-sold-ranges">
-      <tr>
-        <th>Range</th>
-        <th>Count</th>
-        <th>% of Total</th>
-      </tr>
-      
-          <tr>
-            <td><span class="badge badge-old">PRE-TRACKING</span></td>
-            <td class="price-cell">493</td>
-            <td class="date-cell"></td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">0-7 D</span></td>
-            <td class="price-cell">83</td>
-            <td class="date-cell">28.3%</td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">8-30 D</span></td>
-            <td class="price-cell">206</td>
-            <td class="date-cell">70.3%</td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">31-60 D</span></td>
-            <td class="price-cell">4</td>
-            <td class="date-cell">1.4%</td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">61-90 D</span></td>
-            <td class="price-cell">0</td>
-            <td class="date-cell">0.0%</td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">91-120 D</span></td>
-            <td class="price-cell">0</td>
-            <td class="date-cell">0.0%</td>
-          </tr>
-        
-          <tr>
-            <td><span class="badge badge-days-dom">+120 D</span></td>
-            <td class="price-cell">0</td>
-            <td class="date-cell">0.0%</td>
-          </tr>
-        
-      <tr class="row-total">
-        <td><strong>TOTAL</strong></td>
-        <td class="price-cell"><strong>293</strong></td>
-        <td class="date-cell"></td>
-      </tr>
+      <thead>
+        <tr>
+          <th>PRE-TRACKING</th>
+          <th>0-7 D</th><th>8-30 D</th><th>31-60 D</th><th>61-90 D</th><th>91-120 D</th><th>+120 D</th>
+          <th>TOTAL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="ranges-row-count">
+          <td class="ranges-count pretracking-cell">493</td>
+          <td class="ranges-count">83</td><td class="ranges-count">206</td><td class="ranges-count">4</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
+          <td class="ranges-count total-cell">293</td>
+        </tr>
+        <tr class="ranges-row-pct">
+          <td></td>
+          <td class="ranges-pct">28.3%</td><td class="ranges-pct">70.3%</td><td class="ranges-pct">1.4%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
+          <td class="ranges-pct">100%</td>
+        </tr>
+        <tr class="ranges-row-bar">
+          <td></td>
+          
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:28.3%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:70.3%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:1.4%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+              <td class="ranges-bar-cell">
+                <div class="ranges-bar-track">
+                  <div class="ranges-bar-fill" style="width:0.0%"></div>
+                </div>
+              </td>
+            
+          <td></td>
+        </tr>
+      </tbody>
     </table>
   
           </div>
