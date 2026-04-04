@@ -2317,58 +2317,59 @@
   border-collapse: collapse;
   font-size: 13px;
   color: #cbd5e1;
-}
-
-#table-sold-ranges thead tr {
-  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+  table-layout: fixed;
 }
 
 #table-sold-ranges th {
-  text-align: left;
+  text-align: center;
   font-size: 11px;
   font-weight: 600;
   letter-spacing: 0.08em;
   color: rgba(148, 163, 184, 0.5);
   padding: 8px 12px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+  width: calc(100% / 7);
+}
+
+#table-sold-ranges th:first-child {
+  color: #a78bfa;
+  opacity: 0.6;
 }
 
 #table-sold-ranges td {
-  padding: 7px 12px;
-  border-bottom: 1px solid rgba(148, 163, 184, 0.07);
+  text-align: center;
+  padding: 8px 12px;
   vertical-align: middle;
+  width: calc(100% / 7);
 }
 
-#table-sold-ranges tbody tr:hover {
-  background: rgba(148, 163, 184, 0.04);
-}
-
-#table-sold-ranges tr.row-pretracking td {
-  opacity: 0.5;
-}
-
-.ranges-count {
+.ranges-row-count .ranges-count {
   font-variant-numeric: tabular-nums;
-  font-weight: 600;
+  font-size: 22px;
+  font-weight: 700;
   color: #f1f5f9;
-  width: 60px;
+  padding-top: 16px;
 }
 
-.ranges-pct {
+.ranges-row-count .pretracking-cell {
+  color: #a78bfa;
+  opacity: 0.6;
+}
+
+.ranges-row-pct .ranges-pct {
   font-variant-numeric: tabular-nums;
-  color: rgba(148, 163, 184, 0.6);
   font-size: 12px;
-  width: 60px;
-  text-align: right;
+  color: rgba(148, 163, 184, 0.5);
+  padding-bottom: 10px;
 }
 
 .ranges-bar-cell {
-  width: 100%;
-  padding-right: 16px;
+  padding: 0 12px 12px;
 }
 
 .ranges-bar-track {
   width: 100%;
-  height: 4px;
+  height: 3px;
   background: rgba(148, 163, 184, 0.1);
   border-radius: 2px;
   overflow: hidden;
@@ -2381,11 +2382,12 @@
   transition: width 0.4s ease;
 }
 
-#table-sold-ranges tr.ranges-total-row td {
-  border-top: 1px solid rgba(148, 163, 184, 0.2);
-  border-bottom: none;
-  padding-top: 10px;
-  color: #f1f5f9;
+.card-wide-ranges {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(148, 163, 184, 0.1);
+  border-radius: 12px;
+  padding: 24px 28px;
+  backdrop-filter: blur(8px);
 }
 
     </style>
@@ -2457,7 +2459,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">04/04/2026, 11:16 (CET)</span>
+                <span class="hero-meta-value">04/04/2026, 11:20 (CET)</span>
               </div>
           </div>
         </section>
@@ -2925,19 +2927,16 @@
         <tr>
           <th>PRE-TRACKING</th>
           <th>0-7 D</th><th>8-30 D</th><th>31-60 D</th><th>61-90 D</th><th>91-120 D</th><th>+120 D</th>
-          <th>TOTAL</th>
         </tr>
       </thead>
       <tbody>
         <tr class="ranges-row-count">
           <td class="ranges-count pretracking-cell">493</td>
           <td class="ranges-count">83</td><td class="ranges-count">206</td><td class="ranges-count">4</td><td class="ranges-count">0</td><td class="ranges-count">0</td><td class="ranges-count">0</td>
-          <td class="ranges-count total-cell">293</td>
         </tr>
         <tr class="ranges-row-pct">
           <td></td>
           <td class="ranges-pct">28.3%</td><td class="ranges-pct">70.3%</td><td class="ranges-pct">1.4%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td><td class="ranges-pct">0.0%</td>
-          <td class="ranges-pct">100%</td>
         </tr>
         <tr class="ranges-row-bar">
           <td></td>
@@ -2978,7 +2977,6 @@
                 </div>
               </td>
             
-          <td></td>
         </tr>
       </tbody>
     </table>
