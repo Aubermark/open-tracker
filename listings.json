@@ -12310,6 +12310,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a8e2a74-fde7-5feb-9e98-3e39e3202af7",
+        "address": "932-Jefferson-Ave-Saint-Paul-MN-55102",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1267,
+        "listed_at": "2026-04-04T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.139585,
+          44.930341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a941963-6612-56ec-9e3c-83bedbcac3e3",
         "address": "3867-Daylily-Way-Douglasville-GA-30135",
         "beds": 3,
