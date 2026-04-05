@@ -2377,6 +2377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13ef8687-abf0-5319-bb26-18068b9faad0",
+        "address": "30497-Iron-Bark-Ct-Temecula-CA-92591",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1197,
+        "listed_at": "2026-04-05T06:25:08.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.128454,
+          33.511754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14140fa7-f80e-5e21-90a4-89e4be44c793",
         "address": "3641-Kay-Dr-Zanesville-OH-43701",
         "beds": 3,
@@ -27052,6 +27073,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ecc6a013-65ea-5261-adba-211bf5144b5c",
+        "address": "3024-W-Salter-Dr-Phoenix-AZ-85027",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1101,
+        "listed_at": "2026-04-05T06:25:08.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.123747,
+          33.6824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eccf04ae-57ca-5064-bcbf-97611a60005b",
         "address": "1250-Lakeside-Dr-Mc-Calla-AL-35111",
         "beds": 3,
@@ -27172,6 +27214,27 @@
         "coordinates": [
           -81.573047,
           30.020499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ed7c6636-2fd1-5b91-b7a3-25a383783f72",
+        "address": "132-Grafton-Ln-Lexington-SC-29072",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1553,
+        "listed_at": "2026-04-05T06:25:08.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.307793,
+          33.97048
         ]
       }
     },
