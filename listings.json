@@ -22600,6 +22600,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1f0d6a3-236a-5bea-bdf1-450204653319",
+        "address": "17005-78th-Pl-N-Maple-Grove-MN-55311",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1628,
+        "listed_at": "2026-04-05T19:30:08.000Z",
+        "days_on_market": ">42",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4959,
+          45.096964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c25cb5dc-f3bf-55cd-ba26-8f39d9c211f7",
         "address": "15102-Imes-Ln-Austin-TX-78725",
         "beds": 3,
