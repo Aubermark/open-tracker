@@ -20290,27 +20290,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ae9bb6d3-b571-5fa5-b0a5-ebb71b43cb9b",
-        "address": "5316-Marmith-Ave-Sacramento-CA-95841",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1580,
-        "listed_at": "2026-03-12T19:10:07.000Z",
-        "days_on_market": "25",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.340626,
-          38.65781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "aeafbc71-4e86-5662-908a-d5623c6f80d2",
         "address": "4028-Catalpa-Ave-Knoxville-TN-37914",
         "beds": 3,
@@ -25702,6 +25681,27 @@
         "coordinates": [
           -83.894603,
           34.125464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e0221057-064d-55da-bad2-915f9720a240",
+        "address": "568-Willow-Green-Dr-Las-Vegas-NV-89169",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1146,
+        "listed_at": "2026-04-06T19:00:05.000Z",
+        "days_on_market": ">43",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15079,
+          36.12448
         ]
       }
     },
