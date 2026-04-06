@@ -15775,6 +15775,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85e3a55e-4a08-4b4e-adfc-450a50e3c545",
+        "address": "2522-S-Colosseum-Ct-New-Caney-TX-77357",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1681,
+        "listed_at": "2026-04-06T20:50:07.000Z",
+        "days_on_market": "33",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.154636,
+          30.181402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e4d8b3-755c-593d-b4ca-9fb5595c20ad",
         "address": "4902-W-Windrose-Dr-Glendale-AZ-85304",
         "beds": 3,
