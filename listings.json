@@ -10378,6 +10378,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59ebd44e-1448-50b8-9028-8f3ff673cbca",
+        "address": "5508-Red-Tailed-Hawk-Dr-Hillsboro-MO-63050",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1120,
+        "listed_at": "2026-04-06T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.573109,
+          38.239679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "59ff4b83-862c-5e3b-aa9c-9f9fa36b412c",
         "address": "4307-Blueduck-Dr-Killeen-TX-76549",
         "beds": 3,
