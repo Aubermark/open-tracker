@@ -5443,6 +5443,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c7c1b89-4b07-56c1-9577-d43f63c66afe",
+        "address": "8508-W-Ruth-Ave-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-04-06T18:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.24261,
+          33.562309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c8e8042-5c12-53ea-a502-0829980e1a69",
         "address": "868-Scott-Rd-Riverdale-GA-30296",
         "beds": 3,
