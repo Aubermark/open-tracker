@@ -4036,6 +4036,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "219f7086-38b0-53dd-91a1-efd63949a964",
+        "address": "10103-Meredith-Ave-Silver-Spring-MD-20910",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1996,
+        "listed_at": "2026-04-06T20:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063877,
+          39.020989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21a6b407-a587-55b4-9bd8-dc1be70aff83",
         "address": "1562-Amy-Cir-Deltona-FL-32738",
         "beds": 3,
@@ -15475,6 +15496,27 @@
         "coordinates": [
           -97.666244,
           30.629167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "83547b12-2ea2-5304-867c-f5dbb2247b03",
+        "address": "12473-Nw-Lynch-Ln-Port-Saint-Lucie-FL-34987-18071800",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1649,
+        "listed_at": "2026-04-06T20:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45236,
+          27.327477
         ]
       }
     },
