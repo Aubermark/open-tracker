@@ -21424,6 +21424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b84c3b51-7f93-5134-8828-4364a9815717",
+        "address": "905-Cedar-Dr-Melbourne-FL-32901",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1170,
+        "listed_at": "2026-04-06T13:10:05.000Z",
+        "days_on_market": "4",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.605721,
+          28.058667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8625249-f2cd-59a0-b725-d28c22e1613c",
         "address": "4879-Nw-55th-Pl-Fort-Lauderdale-FL-33319",
         "beds": 4,
