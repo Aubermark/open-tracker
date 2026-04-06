@@ -16489,6 +16489,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8b80e5f6-7553-4ae7-9ce1-db4bd76826e0",
+        "address": "511-Debbie-Dr-Sedro-Woolley-WA-98284",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2048,
+        "listed_at": "2026-04-06T17:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249027,
+          48.513016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c17166c-ca31-5641-862e-d30afb0f8074",
         "address": "5202-E-2nd-St-Tucson-AZ-85711",
         "beds": 3,
@@ -20725,27 +20746,6 @@
         "coordinates": [
           -121.058993,
           38.609621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b1e0ae30-2ed6-5af1-8ba6-d50859f6e105",
-        "address": "6266-Pilgrimage-Rd-Colorado-Springs-CO-80925",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1444,
-        "listed_at": "2026-03-30T17:00:06.000Z",
-        "days_on_market": "20",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.641276,
-          38.742143
         ]
       }
     },
