@@ -15145,6 +15145,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "806b8c6d-c8a0-5154-bffb-b0cc1eb51819",
+        "address": "2613-Oak-Blossom-Dr-Mc-Kinney-TX-75071",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2656,
+        "listed_at": "2026-04-06T11:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 542000,
+        "price_label": "$542K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.648591,
+          33.241436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "80f98298-436a-5135-8ba1-6f278efb0250",
         "address": "401-Kenshire-Dr-Benbrook-TX-76126",
         "beds": 4,
