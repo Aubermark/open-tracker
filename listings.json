@@ -7312,6 +7312,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3dd981e6-4db5-5a23-a9f7-28d205935806",
+        "address": "9941-E-Hawthorne-St-Tucson-AZ-85748",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1729,
+        "listed_at": "2026-04-06T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.779875,
+          32.233409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3de081d7-83e9-5cc6-99c7-547ff75a4cf5",
         "address": "12202-N-Highland-Ave-Kansas-City-MO-64165",
         "beds": 4,
@@ -8629,27 +8650,6 @@
         "coordinates": [
           -98.268942,
           29.860071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4a1f0089-5ffd-56d6-9f81-6d259b4581a0",
-        "address": "1762-W-Calle-La-Paz-Tucson-AZ-85713",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1321,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">43",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.002254,
-          32.184264
         ]
       }
     },
@@ -15895,6 +15895,27 @@
         "coordinates": [
           -81.741658,
           30.156298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "874e707c-967d-53db-aed2-c0c026d76f71",
+        "address": "1207-Manor-Ct-Richmond-TX-77406",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2389,
+        "listed_at": "2026-04-06T17:00:06.000Z",
+        "days_on_market": "39",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.737381,
+          29.623344
         ]
       }
     },
