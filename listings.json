@@ -7480,6 +7480,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40c739ce-74fd-562a-bd87-3c83efea6203",
+        "address": "602-Torero-Dr-Little-Elm-TX-75068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1269,
+        "listed_at": "2026-04-06T21:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.993071,
+          33.183778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40c7dcdb-ec19-52f3-9537-78c6ad7dfce8",
         "address": "28-Meadows-Ct-Dawsonville-GA-30534",
         "beds": 5,
