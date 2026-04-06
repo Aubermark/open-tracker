@@ -15775,6 +15775,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "862d8878-dfcc-5cb6-b576-ca3275a535f3",
+        "address": "40-Glen-Eagles-Rd-Washington-NJ-07882",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3595,
+        "listed_at": "2026-04-06T16:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.990362,
+          40.773108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "863acee4-b732-5af4-a521-df9f804fb4dd",
         "address": "9248-N-Eaglestone-Loop-Tucson-AZ-85742",
         "beds": 3,
@@ -17827,6 +17848,27 @@
         "coordinates": [
           -122.789559,
           45.356843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "986b620e-a3d0-5ff0-9dd2-91fca1020e5b",
+        "address": "308-Algrave-Way-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1573,
+        "listed_at": "2026-04-06T16:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908732,
+          34.170296
         ]
       }
     },
