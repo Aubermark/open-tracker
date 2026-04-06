@@ -1159,6 +1159,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0928fd85-b1be-4363-b2ff-f656f1e668a5",
+        "address": "2744-Se-Ashfield-Dr-Port-Saint-Lucie-FL-34984",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2289,
+        "listed_at": "2026-04-06T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 493000,
+        "price_label": "$493K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.298511,
+          27.209655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09d2bb09-7041-5a9b-bbde-0c9f6e345d12",
         "address": "8951-Merseyside-Ave-Jacksonville-FL-32219",
         "beds": 4,
@@ -26206,6 +26227,27 @@
         "coordinates": [
           -96.951307,
           32.918655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e63dd336-b04f-5f60-bf92-cd429010dd6e",
+        "address": "7085-W-Andrew-Ln-Peoria-AZ-85383",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2437,
+        "listed_at": "2026-04-06T20:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 505000,
+        "price_label": "$505K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.212931,
+          33.756858
         ]
       }
     },
