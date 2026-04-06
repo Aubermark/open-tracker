@@ -13024,6 +13024,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ecd6d04-8af7-5d12-87c2-272eceeb08ab",
+        "address": "2225-Green-Oak-Dr-Jacksonville-FL-32211",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1484,
+        "listed_at": "2026-04-06T20:30:07.000Z",
+        "days_on_market": "28",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.590331,
+          30.34577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f2a34e8-ec97-5126-ada4-e66759296102",
         "address": "4806-Hazelwood-Ave-Baltimore-MD-21206",
         "beds": 4,
@@ -27361,27 +27382,6 @@
         "coordinates": [
           -90.287494,
           38.530799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ee0d0406-86b4-5769-a9a4-0de86a4b3967",
-        "address": "919-Colony-Creek-Dr-Lawrenceville-GA-30043",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2796,
-        "listed_at": "2026-03-25T07:32:46.000Z",
-        "days_on_market": "13",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.040844,
-          33.97175
         ]
       }
     },
