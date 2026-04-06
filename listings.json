@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02e421fc-3b7d-50d4-bb71-37894e7f8655",
+        "address": "24466-W-Pueblo-Ave-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-04-06T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.577303,
+          33.407632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02edad3c-8f89-41e6-a30a-1154072f514d",
         "address": "2323-Sunrise-Dr-Cheney-WA-99004",
         "beds": 3,
@@ -4219,27 +4240,6 @@
         "coordinates": [
           -81.469774,
           28.143935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "22ccfd90-4c8c-52de-b7eb-26d312d11375",
-        "address": "11241-Aliyah-Dr-Hampton-GA-30228",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2036,
-        "listed_at": "2026-03-31T17:10:08.000Z",
-        "days_on_market": "6",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.331095,
-          33.448903
         ]
       }
     },
@@ -22321,27 +22321,6 @@
         "coordinates": [
           -80.978051,
           34.159157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "be3f2116-1693-4db8-b08e-a22e6a2d385f",
-        "address": "320-Pacific-Waters-Seguin-TX-78155",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1885,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "31",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.028884,
-          29.62693
         ]
       }
     },
