@@ -11491,6 +11491,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63a856cb-6583-53f6-98a9-765093998c08",
+        "address": "23115-E-Oxbow-Dr-Florence-AZ-85132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-04-06T08:01:45.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.319285,
+          32.981468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63a9afd3-a25d-5879-803e-a67ac72164bf",
         "address": "1911-Winston-Store-Loop-Richmond-TX-77469-16784991",
         "beds": 5,
