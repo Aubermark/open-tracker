@@ -27745,6 +27745,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f3e5c047-1331-5eab-8aa6-6dc71e152f53",
+        "address": "142-Allenton-Way-Statesville-NC-28677",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1961,
+        "listed_at": "2026-04-06T15:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.861287,
+          35.742806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f44a4e8d-e5e3-5ef0-bad6-acf3d93aa7c9",
         "address": "3336-Betts-Dr-Ne-Albuquerque-NM-87111",
         "beds": 3,
