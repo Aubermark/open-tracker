@@ -15376,6 +15376,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "82032daf-88b2-5530-b383-137bac6b0a18",
+        "address": "6945-Talon-Bluff-Dr-Fort-Worth-TX-76179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1853,
+        "listed_at": "2026-04-06T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.439847,
+          32.866317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "826cfd70-b555-57f0-b916-e4f5fad03fca",
         "address": "603-Old-Paint-Rd-Raymore-MO-64083",
         "beds": 4,
