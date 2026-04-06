@@ -8572,6 +8572,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "496bebb5-bcb2-582f-aea4-6e8eee26f3f0",
+        "address": "97-Palmer-Pl-Richmond-Hill-GA-31324",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2350,
+        "listed_at": "2026-04-06T21:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.293152,
+          31.909883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "49b94e2a-cf73-55ae-9e30-b80327080cc5",
         "address": "411-Little-Carter-Cv-Loganville-GA-30052",
         "beds": 4,
