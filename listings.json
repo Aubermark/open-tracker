@@ -20353,6 +20353,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae4c31be-52df-5d98-af8c-322d5d62c07e",
+        "address": "3940-E-Blue-Spruce-Ln-Gilbert-AZ-85298",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2989,
+        "listed_at": "2026-04-06T22:20:05.000Z",
+        "days_on_market": ">43",
+        "current_price": 607000,
+        "price_label": "$607K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70449,
+          33.24956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae513782-4c35-5869-bc57-c87c70c37e59",
         "address": "2027-Pine-Knot-Dr-Heartland-TX-75126-17830153",
         "beds": 3,
