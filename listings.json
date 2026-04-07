@@ -13675,27 +13675,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "744a41c1-c6a1-5b52-b785-2e981e2985c1",
-        "address": "41404-W-Coltin-Way-Maricopa-AZ-85138-17620673",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2191,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">44",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.012474,
-          33.06867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7468769e-0e86-50ea-a421-e09ec2804c2d",
         "address": "29552-Copper-Ridge-Rd-Menifee-CA-92584",
         "beds": 5,
@@ -19780,6 +19759,27 @@
         "coordinates": [
           -104.918548,
           40.337453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a4e56f92-69ae-5e34-aa91-30e06855178b",
+        "address": "917-Garnet-Cir-Chesnee-SC-29323",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2644,
+        "listed_at": "2026-04-07T18:00:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.953463,
+          35.093222
         ]
       }
     },
