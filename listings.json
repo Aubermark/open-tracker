@@ -27661,6 +27661,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "efc096fa-27e6-50f2-a26d-28ce8826cc50",
+        "address": "5011-Lake-Holw-Douglasville-GA-30135",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3998,
+        "listed_at": "2026-04-07T19:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 527000,
+        "price_label": "$527K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.728927,
+          33.704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f06b845c-ba96-5605-bd09-519a2c95ef17",
         "address": "10014-Hardesty-Ave-Kansas-City-MO-64137",
         "beds": 4,
