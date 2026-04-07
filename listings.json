@@ -1033,6 +1033,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08b52bbe-8059-5af8-ba80-9ed673d1d643",
+        "address": "4829-Bluecap-Ct-Mesquite-TX-75181",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3243,
+        "listed_at": "2026-04-07T15:00:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.537807,
+          32.717354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08c71509-fe71-5164-8d12-4f1d32ecd0b7",
         "address": "1952-S-Follett-Way-Gilbert-AZ-85295",
         "beds": 4,
@@ -8950,6 +8971,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4d36ee2e-2730-55f6-b83b-fdd2cfc6033d",
+        "address": "107-Tall-Pines-Rd-Ladson-SC-29456",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1285,
+        "listed_at": "2026-04-07T15:00:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.102021,
+          33.006493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d5818eb-7f93-5678-bad8-d845b1fcabb1",
         "address": "10-Perrot-St-Worcester-MA-01602",
         "beds": 4,
@@ -12556,6 +12598,27 @@
         "coordinates": [
           -81.264485,
           28.926555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6b36fa80-6b9f-5998-b8f0-9b87d1dc7e8f",
+        "address": "510-Carter-Ridge-Dr-Reidsville-NC-27320",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1623,
+        "listed_at": "2026-04-07T15:00:06.000Z",
+        "days_on_market": "42",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.698249,
+          36.346408
         ]
       }
     },
