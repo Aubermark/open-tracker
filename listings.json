@@ -10210,6 +10210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57f52be6-2752-59d0-b9c9-42c093704011",
+        "address": "4414-Edward-St-Texas-City-TX-77591",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 983,
+        "listed_at": "2026-04-07T22:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 173000,
+        "price_label": "$173K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.962601,
+          29.385026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5803fdee-402b-5dfc-bfd3-24e846fa6711",
         "address": "23-Plaza-Modena-Lake-Elsinore-CA-92532",
         "beds": 4,
