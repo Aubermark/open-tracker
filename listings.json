@@ -6808,6 +6808,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a7080df-8ce6-58e0-b307-22403194c574",
+        "address": "1918-Noe-Blvd-Forney-TX-75126",
+        "beds": 7,
+        "baths": 5,
+        "sqft": 4236,
+        "listed_at": "2026-04-07T23:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 1400000,
+        "price_label": "$1.400M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.488427,
+          32.814573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3a733012-0ebe-40d5-b803-360d4f7c67b9",
         "address": "1365-Highway-1-S-Lugoff-SC-29078",
         "beds": 3,
@@ -7936,6 +7957,27 @@
         "coordinates": [
           -78.889178,
           35.997887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "446fa5c5-6cdd-5d1f-b507-4e79d4b81a39",
+        "address": "1666-Sparkleberry-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1972,
+        "listed_at": "2026-04-07T23:00:05.000Z",
+        "days_on_market": "42",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.427865,
+          36.516302
         ]
       }
     },
