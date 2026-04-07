@@ -5380,6 +5380,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c21056a-9610-57ec-9a21-6d4b068d1054",
+        "address": "5073-Farm-Valley-Dr-Ne-Woodstock-GA-30188",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1293,
+        "listed_at": "2026-04-07T21:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.528879,
+          34.073813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c2980f1-e0e1-54aa-9e0c-fabe0c879b0a",
         "address": "890-Morgan-Towne-Way-Venice-FL-34292",
         "beds": 4,
