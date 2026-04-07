@@ -9559,27 +9559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "519b2366-a62c-5945-922f-540e2ab3e43b",
-        "address": "732-N-Janeway-Ave-Moore-OK-73160",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 850,
-        "listed_at": "2026-03-24T18:50:05.000Z",
-        "days_on_market": "36",
-        "current_price": 142000,
-        "price_label": "$142K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.501528,
-          35.344697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "51ed0380-1aef-566c-8972-bfbf8a244839",
         "address": "10844-Verawood-Dr-Riverview-FL-33579",
         "beds": 3,
@@ -18205,6 +18184,27 @@
         "coordinates": [
           -104.764489,
           39.489746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "99bf3c22-5761-59c2-b0d9-cfbfd5cf1009",
+        "address": "1302-Belvon-Pl-Cleburne-TX-76033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1783,
+        "listed_at": "2026-04-07T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.407575,
+          32.345712
         ]
       }
     },
