@@ -2251,6 +2251,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "132c2a33-964e-5e3b-98a6-0c76573f5112",
+        "address": "7892-Mariners-Pointe-Cir-Denver-NC-28037",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1729,
+        "listed_at": "2026-04-07T16:50:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.992666,
+          35.483378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "133538c1-fa25-532a-95c0-f105ce0b5d0d",
         "address": "1045-James-Dr-Kissimmee-FL-34759",
         "beds": 4,
@@ -21523,27 +21544,6 @@
         "coordinates": [
           -80.804223,
           35.302825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b6bf0602-848e-5c66-a4d9-81a3b835da18",
-        "address": "143-Easton-Dr-South-Lyon-MI-48178",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3978,
-        "listed_at": "2026-03-30T20:50:08.000Z",
-        "days_on_market": "8",
-        "current_price": 553000,
-        "price_label": "$553K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.638384,
-          42.458764
         ]
       }
     },
