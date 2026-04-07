@@ -5569,6 +5569,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cde5a3a-7751-566b-a1c3-6f88bd0128fe",
+        "address": "1036-Glenwyck-Dr-Braselton-GA-30517",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1980,
+        "listed_at": "2026-04-07T19:30:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.744918,
+          34.124797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ceee988-31d8-50ba-909f-fcad4afec88e",
         "address": "2310-Redfish-Dr-Texas-City-TX-77591",
         "beds": 3,
@@ -22384,6 +22405,27 @@
         "coordinates": [
           -82.367691,
           27.983645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bc887b47-637e-5dae-a828-1c93695904cd",
+        "address": "542-Lee-St-Thomson-GA-30824",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1612,
+        "listed_at": "2026-04-07T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.509832,
+          33.473999
         ]
       }
     },
