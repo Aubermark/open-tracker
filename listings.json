@@ -16300,6 +16300,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "886ab05c-a2f3-5e31-9e23-a4ff4b4d916d",
+        "address": "11301-Mansfield-Crossing-Ct-North-Chesterfield-VA-23236",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1646,
+        "listed_at": "2026-04-07T19:00:09.000Z",
+        "days_on_market": ">44",
+        "current_price": 344000,
+        "price_label": "$344K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.603258,
+          37.472706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
         "address": "225-Ash-Cir-Trussville-AL-35173",
         "beds": 3,
