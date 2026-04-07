@@ -23545,6 +23545,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cab8c5e6-3ab7-5a0f-b78c-e5f78101dc27",
+        "address": "9881-Hyacinth-Way-Conroe-TX-77385",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2065,
+        "listed_at": "2026-04-07T22:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.428581,
+          30.217186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cad69989-8b77-5e25-bff0-3c0dad08ef7d",
         "address": "1177-Kenwood-Ave-Winter-Park-FL-32789",
         "beds": 5,
