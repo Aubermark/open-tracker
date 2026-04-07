@@ -11659,6 +11659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63eb477f-93a7-50cd-9440-5ec4f2aa2c60",
+        "address": "503-Glencoe-Ct-Mason-OH-45040",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 814,
+        "listed_at": "2026-04-07T18:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 186000,
+        "price_label": "$186K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28351,
+          39.358063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64051ee0-c489-5b9a-8547-b33599c78ecc",
         "address": "9522-W-Woodland-Dr-Boise-ID-83704",
         "beds": 3,
