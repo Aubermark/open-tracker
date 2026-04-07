@@ -13129,6 +13129,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ece1c0c-93cf-5dc9-885e-3152c5c97f70",
+        "address": "3135-Pierce-St-Ne-Minneapolis-MN-55418",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1260,
+        "listed_at": "2026-04-07T21:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.240581,
+          45.025068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f2a34e8-ec97-5126-ada4-e66759296102",
         "address": "4806-Hazelwood-Ave-Baltimore-MD-21206",
         "beds": 4,
