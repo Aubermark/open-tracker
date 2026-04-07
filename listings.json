@@ -12814,6 +12814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c9fb05d-e610-5e8d-81d9-61dc03ab4d14",
+        "address": "5316-Prairie-Ln-Grand-Prairie-TX-75052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1856,
+        "listed_at": "2026-04-07T16:00:06.000Z",
+        "days_on_market": ">44",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.021502,
+          32.644616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d0c798a-a24d-5907-9d23-0f718ad9507c",
         "address": "2116-Cason-Ln-Murfreesboro-TN-37128",
         "beds": 2,
