@@ -27577,6 +27577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ef097b27-4f63-5dfb-aac5-f1ac447a7450",
+        "address": "254-Sorrel-Tree-Dr-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1872,
+        "listed_at": "2026-04-07T22:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.887273,
+          34.080049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ef2b2dd5-bd4a-5fa8-86d5-1e8da43fd218",
         "address": "3303-Deaver-Dr-Corona-CA-92882",
         "beds": 3,
