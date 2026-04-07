@@ -21382,6 +21382,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b55d0295-6a1a-5462-9507-606b274cfee5",
+        "address": "8710-Surrey-Ct-Temple-TX-76502",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1875,
+        "listed_at": "2026-04-07T18:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.443554,
+          31.100669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b599e0fc-b7d8-5761-95f7-8bbe4a5d585c",
         "address": "1308-Morning-Ridge-Trl-Aubrey-TX-76227",
         "beds": 3,
