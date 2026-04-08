@@ -16510,6 +16510,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "87e8e9e1-1927-5fb3-8650-c8e5a802e395",
+        "address": "1027-Halletts-Peak-Pl-Lawrenceville-GA-30044",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2492,
+        "listed_at": "2026-04-08T22:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 581000,
+        "price_label": "$581K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.113289,
+          33.933482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "88199c3c-341b-5b60-84f6-d50d78adb449",
         "address": "3202-Magnolia-Blvd-Temple-TX-76502",
         "beds": 4,
@@ -22426,27 +22447,6 @@
         "coordinates": [
           -80.19548,
           33.040702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bb217312-f40a-5e0a-8c58-a14c15e6cd80",
-        "address": "2041-Spencer-St-Deland-FL-32720",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1549,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": "36",
-        "current_price": 307000,
-        "price_label": "$307K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.355637,
-          29.10542
         ]
       }
     },
