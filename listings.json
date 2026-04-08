@@ -29068,6 +29068,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fc1dd914-7536-56a8-a383-6620917c0e65",
+        "address": "15011-Mission-St-Hesperia-CA-92345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1798,
+        "listed_at": "2026-04-08T14:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 486000,
+        "price_label": "$486K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.335751,
+          34.393859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fc327d25-9d79-5def-b27f-23e9a707bc53",
         "address": "46123-W-Rainbow-Dr-Maricopa-AZ-85139",
         "beds": 4,
