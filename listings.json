@@ -8887,6 +8887,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b5a43e1-5358-5bc0-8b36-c240b210d084",
+        "address": "6941-Laura-Hts-Schertz-TX-78154",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3443,
+        "listed_at": "2026-04-08T22:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.264409,
+          29.490633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b7885a6-3f52-5eff-9789-c5e8782fcc4c",
         "address": "403-Vermont-St-Green-Cove-Springs-FL-32043",
         "beds": 3,
@@ -23917,6 +23938,27 @@
         "coordinates": [
           -80.980697,
           35.092069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb8f9186-ea55-567f-983f-e079acc70b5f",
+        "address": "2118-Landsmere-Dr-Se-Mableton-GA-30126",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2556,
+        "listed_at": "2026-04-08T22:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491213,
+          33.82228
         ]
       }
     },
