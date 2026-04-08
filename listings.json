@@ -11197,6 +11197,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f8bd0cf-2c75-5dd6-9ea5-1ffb1aad30a9",
+        "address": "504-Woodbriar-Noble-OK-73068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1282,
+        "listed_at": "2026-04-08T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.393351,
+          35.152587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5fbc02b9-f11f-5a28-8133-6f9d6dbfcb9d",
         "address": "1450-Raven-Rd-Clarksville-TN-37042",
         "beds": 5,
@@ -19822,27 +19843,6 @@
         "coordinates": [
           -82.735221,
           27.844491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a49db6db-76a8-5a86-9f23-acaf99c59fb5",
-        "address": "205-Westfield-Dr-Franklin-TN-37064",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1725,
-        "listed_at": "2026-04-08T19:10:05.000Z",
-        "days_on_market": "27",
-        "current_price": 565000,
-        "price_label": "$565K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.886402,
-          35.93095
         ]
       }
     },
@@ -29020,27 +29020,6 @@
         "coordinates": [
           -84.494917,
           33.705177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa3efe46-8732-5bc8-8fe7-3ba1878157d1",
-        "address": "761-Cloud-Dr-Clarksville-TN-37043",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1226,
-        "listed_at": "2026-03-26T07:38:29.000Z",
-        "days_on_market": "23",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.272403,
-          36.484125
         ]
       }
     },
