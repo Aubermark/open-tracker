@@ -6997,6 +6997,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3afe6609-e540-56c5-931e-738b23d5dc4d",
+        "address": "2308-Dillards-Dr-Chickasha-OK-73018",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1216,
+        "listed_at": "2026-04-08T20:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.962772,
+          35.018501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b2b60d3-990f-5df6-b018-8319996e912e",
         "address": "5512-Huffines-Blvd-Royse-City-TX-75189",
         "beds": 4,
@@ -26479,6 +26500,27 @@
         "coordinates": [
           -78.700621,
           35.954198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3e02a30-36be-50c4-9861-66cb3a33655a",
+        "address": "4851-Cedar-Springs-Rd-Apt-281-Dallas-TX-75219",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 841,
+        "listed_at": "2026-04-08T20:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 110000,
+        "price_label": "$110K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.823117,
+          32.818993
         ]
       }
     },
