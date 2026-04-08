@@ -18694,6 +18694,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9cb1e33b-e0a1-5965-8a6f-9131771b3df1",
+        "address": "2124-Highland-River-Dr-Wylie-TX-75098",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1867,
+        "listed_at": "2026-04-08T10:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.550388,
+          32.986201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d4280de-acde-5457-8f78-ed4a05a47610",
         "address": "6206-Suellen-Ln-Killeen-TX-76542",
         "beds": 4,
