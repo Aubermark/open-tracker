@@ -12352,6 +12352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68bed08b-988e-5e6f-84fd-121969fadc35",
+        "address": "412-Green-Cedar-Dr-League-City-TX-77573",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2703,
+        "listed_at": "2026-04-08T21:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.130768,
+          29.494957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68ff9af6-00f5-5c6e-ac07-9ed9ad9aa255",
         "address": "2692-E-Silk-Oak-Dr-Tempe-AZ-85281",
         "beds": 2,
