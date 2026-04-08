@@ -24007,6 +24007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd426834-3788-52b7-aff8-3d95194fe165",
+        "address": "6909-Kittery-Ave-Citrus-Heights-CA-95621",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1402,
+        "listed_at": "2026-04-08T16:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 506000,
+        "price_label": "$506K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.303216,
+          38.692533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cddb309b-bdc4-56ae-b16b-510cdebf90ab",
         "address": "5806-Waggoner-Ct-Rex-GA-30273",
         "beds": 3,
