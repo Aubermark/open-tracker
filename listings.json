@@ -21781,6 +21781,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8138fb5-2348-5633-ace9-d9e9cda9e106",
+        "address": "5790-W-26th-Ave-#-202-Hialeah-FL-33016",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1173,
+        "listed_at": "2026-04-08T17:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.336281,
+          25.875041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b826fa0f-b017-5518-af56-72df5ae5e541",
         "address": "3672-Platina-Park-Ct-Decatur-GA-30034",
         "beds": 3,
