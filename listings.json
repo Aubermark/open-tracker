@@ -8929,6 +8929,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4bc88c37-2f1e-5958-9f2f-edd37452c898",
+        "address": "448-Mac-Gregor-Rd-Winter-Springs-FL-32708",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1477,
+        "listed_at": "2026-04-08T17:30:09.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.309925,
+          28.708166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4bdf5043-d088-55c3-a8cd-af7f89ef5793",
         "address": "517-W-5th-St-Converse-TX-78109",
         "beds": 3,
