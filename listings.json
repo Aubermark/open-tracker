@@ -2314,6 +2314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13e2a6a1-44b9-51f7-87bf-18ecb1a349e8",
+        "address": "256-Morrell-Kyle-TX-78640",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1636,
+        "listed_at": "2026-04-08T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.885601,
+          30.011019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13ef8687-abf0-5319-bb26-18068b9faad0",
         "address": "30497-Iron-Bark-Ct-Temecula-CA-92591",
         "beds": 2,
@@ -20395,6 +20416,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ab05d084-1739-536a-908a-62f88c940fc9",
+        "address": "400-Village-Pkwy-Ne-Apt-142-Atlanta-GA-30306",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1396,
+        "listed_at": "2026-04-08T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 538000,
+        "price_label": "$538K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.359917,
+          33.767274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ab183dd9-b05d-50b1-ae68-b8d62d3afbf5",
         "address": "12826-W-Mulberry-Dr-Avondale-AZ-85392",
         "beds": 4,
@@ -23329,27 +23371,6 @@
         "coordinates": [
           -80.880867,
           34.088966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c4e14c9a-b1de-4c22-878b-f573925df05c",
-        "address": "",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1546,
-        "listed_at": "2026-04-08T14:20:06.000Z",
-        "days_on_market": ">45",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.791985,
-          33.24693
         ]
       }
     },
