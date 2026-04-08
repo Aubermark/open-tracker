@@ -14683,6 +14683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7bf51db9-276c-5de6-ae82-e4b7ee216eb7",
+        "address": "509-8th-St-Farmington-MN-55024",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1859,
+        "listed_at": "2026-04-08T14:30:06.000Z",
+        "days_on_market": ">45",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.136447,
+          44.637149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c0e506e-9a56-551d-abd1-aa3bfb9506a8",
         "address": "1903-Winget-St-Gastonia-NC-28052",
         "beds": 3,
