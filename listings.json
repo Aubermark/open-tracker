@@ -9811,6 +9811,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53f63ec8-1c24-59cf-a94e-4ac1b3ac5512",
+        "address": "3706-Cheswick-Dr-Holiday-FL-34691-17500688",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1036,
+        "listed_at": "2026-04-08T16:20:06.000Z",
+        "days_on_market": "44",
+        "current_price": 198000,
+        "price_label": "$198K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.75004,
+          28.212723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5404f3a3-00ed-5915-b9e1-2ccafe047c09",
         "address": "930-Fontmore-Rd-Apt-C-Colorado-Springs-CO-80904",
         "beds": 3,
