@@ -6115,6 +6115,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "332b7916-e2f6-5b77-a072-067f797d73ce",
+        "address": "1128-Hobart-Dr-Marysville-CA-95901",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1048,
+        "listed_at": "2026-04-08T15:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.56947,
+          39.161949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "337633e8-1b1c-5425-a9f0-556498588215",
         "address": "12230-Sw-187th-Ter-Miami-FL-33177-10207307",
         "beds": 4,
@@ -14236,6 +14257,27 @@
         "coordinates": [
           -112.332663,
           33.614798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "788528c6-3908-5e54-afe4-113bb39a95e6",
+        "address": "8932-Prestwick-Cir-N-Brooklyn-Park-MN-55443",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1964,
+        "listed_at": "2026-04-08T15:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.341431,
+          45.118866
         ]
       }
     },
