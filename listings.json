@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3865a460-d854-55c3-9765-994792710cd7",
+        "address": "230-Prescott-St-Locust-Grove-GA-30248",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2374,
+        "listed_at": "2026-04-08T17:00:08.000Z",
+        "days_on_market": "44",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.195781,
+          33.368794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3869be29-0da4-5ac5-add6-57296cd0c0f4",
         "address": "5610-Northport-Dr-Indianapolis-IN-46221",
         "beds": 3,
@@ -11107,6 +11128,27 @@
         "coordinates": [
           -86.162375,
           39.97119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5fbc02b9-f11f-5a28-8133-6f9d6dbfcb9d",
+        "address": "1450-Raven-Rd-Clarksville-TN-37042",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 1956,
+        "listed_at": "2026-04-08T17:00:08.000Z",
+        "days_on_market": ">45",
+        "current_price": 314000,
+        "price_label": "$314K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.367189,
+          36.638459
         ]
       }
     },
