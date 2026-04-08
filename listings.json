@@ -949,27 +949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "086aee8b-6858-5ab4-98de-1158b1718e43",
-        "address": "926-Wisdom-Ln-Pacific-MO-63069",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1278,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "36",
-        "current_price": 241000,
-        "price_label": "$241K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.785358,
-          38.489946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "088fdbb1-d11b-5e8e-99be-75719757c1dc",
         "address": "6359-W-Orchid-Ln-Glendale-AZ-85302",
         "beds": 3,
@@ -13759,6 +13738,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "749ee9e3-4ffc-50f4-b3a0-aedb5568350c",
+        "address": "1871-Tara-Trl-Lancaster-SC-29720",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2596,
+        "listed_at": "2026-04-08T14:20:06.000Z",
+        "days_on_market": ">45",
+        "current_price": 431000,
+        "price_label": "$431K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.774632,
+          34.757966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "754177b1-4960-58fe-8f2c-be53e03960bd",
         "address": "10-Knollwood-Ct-Dawsonville-GA-30534",
         "beds": 4,
@@ -23140,6 +23140,27 @@
         "coordinates": [
           -80.880867,
           34.088966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4e14c9a-b1de-4c22-878b-f573925df05c",
+        "address": "",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1546,
+        "listed_at": "2026-04-08T14:20:06.000Z",
+        "days_on_market": ">45",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.791985,
+          33.24693
         ]
       }
     },
