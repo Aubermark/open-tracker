@@ -9538,6 +9538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ff216fe-1784-5bb1-95eb-a51339b1c358",
+        "address": "16820-57th-Ave-N-Plymouth-MN-55446",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3043,
+        "listed_at": "2026-04-08T20:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 805000,
+        "price_label": "$805K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.493975,
+          45.0571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "500bc2b4-b750-59f0-83aa-46a44214b0ec",
         "address": "10018-W-Miami-St-Tolleson-AZ-85353-17995895",
         "beds": 3,
@@ -14803,6 +14824,27 @@
         "coordinates": [
           -93.136447,
           44.637149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7bf644cc-f509-5ca0-8fd2-c84bd07f35aa",
+        "address": "12917-Meadows-Dr-Oklahoma-City-OK-73120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1432,
+        "listed_at": "2026-04-08T20:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.559566,
+          35.601442
         ]
       }
     },
