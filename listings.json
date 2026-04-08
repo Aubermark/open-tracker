@@ -8425,6 +8425,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "481609a2-aa5d-5d8f-9319-b96e5a0b49e0",
+        "address": "210-Expedition-Way-San-Antonio-TX-78220",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1429,
+        "listed_at": "2026-04-08T22:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.363848,
+          29.424229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "481f51c1-4fc6-5340-815b-f7c6a8948ac6",
         "address": "2015-Upland-Plover-Ct-Rosenberg-TX-77471",
         "beds": 3,
@@ -10855,6 +10876,27 @@
         "coordinates": [
           -97.564783,
           30.461911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5c60e7b4-7483-52c9-a34c-a7cc0c2f9c72",
+        "address": "5921-Sw-41st-St-West-Park-FL-33023",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1056,
+        "listed_at": "2026-04-08T22:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.203817,
+          25.973098
         ]
       }
     },
