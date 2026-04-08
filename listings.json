@@ -8152,6 +8152,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45f2d6f3-8874-52a5-841f-62e01ba4fe93",
+        "address": "6628-Cool-Water-Ct-Charlotte-NC-28215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1309,
+        "listed_at": "2026-04-08T06:31:31.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.740105,
+          35.247705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "467bf7e3-dbc3-5ff9-bc32-2944817058e6",
         "address": "6817-Chickering-Rd-Fort-Worth-TX-76116",
         "beds": 4,
@@ -24778,6 +24799,27 @@
         "coordinates": [
           -81.03011,
           34.992024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3c4ba62-fb08-55c8-98bf-94fd5aa64101",
+        "address": "11849-Blackeyed-Susan-Dr-Riverview-FL-33579",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2995,
+        "listed_at": "2026-04-08T06:31:31.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.290427,
+          27.783674
         ]
       }
     },
