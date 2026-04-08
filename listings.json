@@ -7711,27 +7711,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4253bc67-a38e-4848-a548-a1ed5f24957f",
-        "address": "2118-Chris-Dr-Winter-Haven-FL-33884",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1433,
-        "listed_at": "2026-03-12T07:40:03.000Z",
-        "days_on_market": ">45",
-        "current_price": 252000,
-        "price_label": "$252K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.65706,
-          27.922154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4263cce4-f6d6-582b-aa4b-5f7f3084516e",
         "address": "827-Dovefield-Ln-Lexington-SC-29073",
         "beds": 3,
@@ -19780,6 +19759,27 @@
         "coordinates": [
           -82.735221,
           27.844491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a49db6db-76a8-5a86-9f23-acaf99c59fb5",
+        "address": "205-Westfield-Dr-Franklin-TN-37064",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1725,
+        "listed_at": "2026-04-08T19:10:05.000Z",
+        "days_on_market": "27",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.886402,
+          35.93095
         ]
       }
     },
