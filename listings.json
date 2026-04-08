@@ -20521,6 +20521,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad1b2959-ad65-50fd-aed3-c54f3e4fe5a6",
+        "address": "4479-Alpine-Ct-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3334,
+        "listed_at": "2026-04-08T18:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 418000,
+        "price_label": "$418K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00526,
+          33.786484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad8371b2-4e1d-5b89-91f9-ed223f8f3aa8",
         "address": "3727-Pimilico-Trace-Ln-Charlotte-NC-28216",
         "beds": 3,
