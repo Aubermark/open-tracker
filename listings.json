@@ -3385,6 +3385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c60989c-f9da-5999-a3af-b16aeac953e7",
+        "address": "3732-Sugarberry-Dr-Mesquite-TX-75150",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1332,
+        "listed_at": "2026-04-08T20:20:07.000Z",
+        "days_on_market": ">45",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.597374,
+          32.817099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c6412cc-b6bd-50b5-8557-cf682b9dd7fc",
         "address": "2797-Gresham-Rd-Se-Atlanta-GA-30316",
         "beds": 3,
@@ -13480,27 +13501,6 @@
         "coordinates": [
           -86.561396,
           35.984573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7085f9e3-6f73-43d0-9c20-777ce7a108fc",
-        "address": "700-Hickory-Point-Dr-Lexington-NC-27292",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2511,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "26",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.296691,
-          35.696515
         ]
       }
     },
