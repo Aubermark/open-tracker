@@ -14116,6 +14116,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "771e603b-2b51-501b-a9b5-8173576690f0",
+        "address": "1062-Blair-Ave-St-Paul-MN-55104",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 696,
+        "listed_at": "2026-04-08T16:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.145048,
+          44.961013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77536343-0dc9-5c81-85ca-7613e0e30c88",
         "address": "33515-Forest-West-St-Magnolia-TX-77354",
         "beds": 3,
@@ -28411,27 +28432,6 @@
         "coordinates": [
           -112.603852,
           33.418386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f6489125-d78c-5aab-af58-c783af4458de",
-        "address": "4095-Heather-View-Ln-Winston-Salem-NC-27127",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2235,
-        "listed_at": "2026-04-03T19:10:05.000Z",
-        "days_on_market": "5",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.295415,
-          36.039739
         ]
       }
     },
