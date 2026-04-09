@@ -5212,6 +5212,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ad894da-c5d8-511a-8259-b70e2f388c42",
+        "address": "1696-Chatham-Cir-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1144,
+        "listed_at": "2026-04-09T22:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.478872,
+          28.649889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ae78b7e-5924-5ae3-bf34-33f2a3e09828",
         "address": "353-Cedar-Dr-Loveland-OH-45140",
         "beds": 4,
