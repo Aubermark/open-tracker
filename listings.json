@@ -550,6 +550,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "04a1e145-795d-583a-8905-5a7edf4f4a7b",
+        "address": "4117-White-Pine-Dr-Raleigh-NC-27612",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2177,
+        "listed_at": "2026-04-09T18:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.696148,
+          35.838003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05225e37-2547-5579-bc04-9a829a9cff0b",
         "address": "7030-Wessex-Way-Cumming-GA-30028",
         "beds": 3,
