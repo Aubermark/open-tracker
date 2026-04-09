@@ -1327,6 +1327,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b043229-c42b-56d7-80e6-42ea6ed3056f",
+        "address": "4445-Dorsett-Shoals-Run-Douglasville-GA-30135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 3006,
+        "listed_at": "2026-04-09T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.754041,
+          33.685428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bbb376e-0383-497e-8a22-4ed5a5f55abd",
         "address": "1613-Couser-Ave-New-Braunfels-TX-78132",
         "beds": 3,
@@ -7348,6 +7369,27 @@
         "coordinates": [
           -94.557353,
           39.315149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3e5c3ee2-57ba-5c5e-bac5-1de759a98265",
+        "address": "6218-Old-Corral-St-Charlotte-NC-28277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1803,
+        "listed_at": "2026-04-09T21:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 546000,
+        "price_label": "$546K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.799414,
+          35.040129
         ]
       }
     },
@@ -19906,27 +19948,6 @@
         "coordinates": [
           -116.669983,
           43.622684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a486b018-47da-5406-8f77-66563fec7008",
-        "address": "6628-Brock-St-Dublin-OH-43017",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1439,
-        "listed_at": "2026-04-09T20:50:06.000Z",
-        "days_on_market": ">46",
-        "current_price": 352000,
-        "price_label": "$352K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.100655,
-          40.090093
         ]
       }
     },
