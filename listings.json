@@ -21025,6 +21025,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af6c7046-eda8-572d-9f0a-8ed7db203893",
+        "address": "32-Island-Shoals-Rd-Jackson-GA-30233",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1892,
+        "listed_at": "2026-04-09T21:20:06.000Z",
+        "days_on_market": ">46",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.951334,
+          33.454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afa545e6-dc68-59f3-bdd0-f1f08c69cfdc",
         "address": "70-Sunny-Brook-Dr-Newnan-GA-30263",
         "beds": 4,
@@ -22762,27 +22783,6 @@
         "coordinates": [
           -97.539639,
           30.527072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bd0267ee-6ec6-57e4-b2c1-48a3ae00b999",
-        "address": "8040-Goldenrod-Ct-Indianapolis-IN-46219",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1770,
-        "listed_at": "2026-04-07T17:20:06.000Z",
-        "days_on_market": ">46",
-        "current_price": 238000,
-        "price_label": "$238K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.024777,
-          39.787296
         ]
       }
     },
