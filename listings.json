@@ -19975,6 +19975,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a486b018-47da-5406-8f77-66563fec7008",
+        "address": "6628-Brock-St-Dublin-OH-43017",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1439,
+        "listed_at": "2026-04-09T23:10:06.000Z",
+        "days_on_market": ">46",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.100655,
+          40.090093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a48f6d28-f288-5933-ae86-bd6e39b37ff6",
         "address": "6955-80th-Ave-N-Pinellas-Park-FL-33781",
         "beds": 4,
