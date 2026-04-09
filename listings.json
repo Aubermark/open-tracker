@@ -2734,27 +2734,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1658c942-1fd3-598f-b6c7-0b5a99767553",
-        "address": "1220-Bergmann-Dr-Stillwater-MN-55082",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1276,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">46",
-        "current_price": 283000,
-        "price_label": "$283K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.861653,
-          45.0404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "165ee1a5-40c5-5fbe-a6a5-5d67206b4677",
         "address": "8024-Eagle-St-Mount-Pleasant-NC-28124",
         "beds": 4,
@@ -19423,6 +19402,27 @@
         "coordinates": [
           -80.11689,
           32.947414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a23fc663-c3c4-5f34-8d75-f3c836b5bd97",
+        "address": "8833-Deer-Run-Ct-Indianapolis-IN-46256",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1358,
+        "listed_at": "2026-04-09T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01194,
+          39.914022
         ]
       }
     },
