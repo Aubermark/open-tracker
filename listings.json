@@ -5191,6 +5191,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29cace07-ac41-5bf4-8150-5e44c8a49e16",
+        "address": "1430-Stoneleigh-Hill-Rd-Lithonia-GA-30058",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1949,
+        "listed_at": "2026-04-09T22:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.156691,
+          33.750224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ad51ae7-73d8-599c-a677-2f9e1d89d725",
         "address": "1009-Chalkville-School-Rd-Center-Point-AL-35215",
         "beds": 3,
