@@ -9643,6 +9643,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5061d705-a7f5-5c94-9847-671828890ef0",
+        "address": "1205-Maple-Ln-Pleasant-Hill-MO-64080",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2848,
+        "listed_at": "2026-04-09T21:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.259304,
+          38.797202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "513dc448-e811-52e8-b99a-dffde3005a47",
         "address": "431-Cedarcrest-Rd-Dallas-GA-30132",
         "beds": 3,
@@ -20704,6 +20725,27 @@
         "coordinates": [
           -116.54499,
           33.869125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "acc46a9d-903e-54af-b2fd-6642df7fa6e1",
+        "address": "5145-Cliff-Oaks-Dr-Fort-Worth-TX-76179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1881,
+        "listed_at": "2026-04-09T21:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.378404,
+          32.83732
         ]
       }
     },
