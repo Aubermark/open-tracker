@@ -277,6 +277,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
+        "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3716,
+        "listed_at": "2026-04-09T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75996,
+          33.05575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0205efd6-4c54-5485-9b4b-af33de10f1cf",
         "address": "5014-Alder-Bend-Ln-Richmond-TX-77469",
         "beds": 4,
