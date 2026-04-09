@@ -17455,6 +17455,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "903de168-1ca9-53c3-9fdc-ac4297c8e99f",
+        "address": "1902-Kelona-Dr-Spring-TX-77386",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1749,
+        "listed_at": "2026-04-09T20:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.412208,
+          30.134437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "905cfc8a-2272-40f9-9fa9-850bb7fa4f26",
         "address": "32038-Pop-Ash-Pl-San-Antonio-FL-33576",
         "beds": 3,
@@ -22951,6 +22972,27 @@
         "coordinates": [
           -122.967917,
           45.548484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0769737-ba27-5af8-bba2-28b681d68ccd",
+        "address": "6114-Cedar-Ridge-Rd-Columbia-SC-29206",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2896,
+        "listed_at": "2026-04-09T20:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945779,
+          34.035899
         ]
       }
     },
