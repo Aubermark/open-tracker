@@ -17980,6 +17980,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9588ba02-841c-511b-8dcf-8d181ecb316f",
+        "address": "28840-N-121st-Ln-Peoria-AZ-85383",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1916,
+        "listed_at": "2026-04-09T18:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.322959,
+          33.744792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9600bfb4-39f2-4de2-b8ae-89df7b342511",
         "address": "3000-Adencrest-Pl-Fuquay-Varina-NC-27526",
         "beds": 5,
@@ -22720,6 +22741,27 @@
         "coordinates": [
           -85.094844,
           35.125007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
+        "address": "5708-Maxfli-Dr-Schertz-TX-78108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-04-09T18:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.221246,
+          29.619438
         ]
       }
     },
