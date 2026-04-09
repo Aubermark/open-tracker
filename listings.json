@@ -11848,6 +11848,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65e6684f-2180-5d99-b272-111046b3f076",
+        "address": "4051-Gordon-Ct-Winston-Salem-NC-27104",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1077,
+        "listed_at": "2026-04-09T17:20:07.000Z",
+        "days_on_market": ">46",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.318838,
+          36.087949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "661e0a08-0c84-4a0b-86c2-1d10bc7dd67d",
         "address": "94-W-San-Diego-Dr-Tracy-CA-95391",
         "beds": 4,
