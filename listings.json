@@ -16615,6 +16615,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88f5ab1a-96fb-59d5-8c74-097294655c7c",
+        "address": "6330-Sw-135th-Ave-#-39-Miami-FL-33183",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1616,
+        "listed_at": "2026-04-09T23:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 508000,
+        "price_label": "$508K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.412843,
+          25.707344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8935d5f0-2210-5b9e-9b4f-442a173a6df5",
         "address": "5918-Zenith-Ave-N-Brooklyn-Center-MN-55429",
         "beds": 3,
