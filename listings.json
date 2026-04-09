@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "032e6bae-8558-5005-a3a9-454c47190d70",
+        "address": "7668-Benecia-Dr-Fountain-CO-80817",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1968,
+        "listed_at": "2026-04-09T23:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.689736,
+          38.673735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03530389-9eb5-51bc-a480-a87d49a3fd24",
         "address": "632-Kickapoo-Ct-Webster-TX-77598",
         "beds": 4,
