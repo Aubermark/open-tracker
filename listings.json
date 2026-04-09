@@ -4183,27 +4183,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "225a9229-4675-5891-a97a-73c1c4f1f405",
-        "address": "2645-230th-Ct-Nw-St-Francis-MN-55070",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1488,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">46",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.333232,
-          45.386388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2275a9da-be69-5d2c-a39f-e2697fda8170",
         "address": "473-Tarragon-Pl-Kissimmee-FL-34758",
         "beds": 4,
@@ -16615,6 +16594,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8935d5f0-2210-5b9e-9b4f-442a173a6df5",
+        "address": "5918-Zenith-Ave-N-Brooklyn-Center-MN-55429",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1757,
+        "listed_at": "2026-04-09T22:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32138,
+          45.062859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "894b9faa-8434-5d72-8c7f-f3733cb2e90c",
         "address": "8124-Bock-Farm-Pl-Alexandria-VA-22306",
         "beds": 4,
@@ -26605,27 +26605,6 @@
         "coordinates": [
           -97.292843,
           32.903114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e4ab022d-0012-4df3-854b-181ab6f08521",
-        "address": "46-Ellabelle-Ct-Senoia-GA-30276",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3691,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">46",
-        "current_price": 585000,
-        "price_label": "$585K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.62612,
-          33.286302
         ]
       }
     },
