@@ -2167,6 +2167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1332f14c-939b-57fa-a261-b3e0552a0781",
+        "address": "7770-Llangollen-Way-Cumming-GA-30041-18065301",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3334,
+        "listed_at": "2026-04-09T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 676000,
+        "price_label": "$676K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.186395,
+          34.085783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "133538c1-fa25-532a-95c0-f105ce0b5d0d",
         "address": "1045-James-Dr-Kissimmee-FL-34759",
         "beds": 4,
@@ -15727,6 +15748,27 @@
         "coordinates": [
           -81.050343,
           34.914776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8297e035-42cf-5106-ab63-fdfbc03c023a",
+        "address": "18331-W-Ivy-Ln-Surprise-AZ-85388",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 4794,
+        "listed_at": "2026-04-09T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.453906,
+          33.625981
         ]
       }
     },
