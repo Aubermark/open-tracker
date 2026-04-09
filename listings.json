@@ -13045,6 +13045,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c1f8213-0c64-5a01-a655-43015f6df082",
+        "address": "352-Highbanks-Valley-Ct-Newark-OH-43055",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2199,
+        "listed_at": "2026-04-09T21:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.486767,
+          40.050557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c20b5a9-15f9-5223-8dc9-88dff0b87b1a",
         "address": "15305-Lucian-St-Austin-TX-78725",
         "beds": 3,
@@ -25051,6 +25072,27 @@
         "coordinates": [
           -82.290427,
           27.783674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3f0388b-af47-538b-8d1e-b9da0afc0860",
+        "address": "40-Cranbrook-Ct-Covington-GA-30016",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2468,
+        "listed_at": "2026-04-09T21:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.930488,
+          33.49866
         ]
       }
     },
