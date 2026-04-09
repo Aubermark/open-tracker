@@ -10210,6 +10210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "575736b1-78b3-5d6a-9b3c-28c6d73d2c2a",
+        "address": "895-Honey-Locust-Dr-Fate-TX-75087",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2544,
+        "listed_at": "2026-04-09T16:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.382419,
+          32.949452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "575ab458-a504-5cbd-a0fd-406fc5b557ac",
         "address": "3480-Milton-St-N-Shoreview-MN-55126",
         "beds": 4,
@@ -12472,27 +12493,6 @@
         "coordinates": [
           -81.991911,
           29.778462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6a821568-239e-54c8-9263-d555062572f8",
-        "address": "4207-Fallen-Oaks-Dr-Houston-TX-77091",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1441,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": ">46",
-        "current_price": 207000,
-        "price_label": "$207K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.449689,
-          29.844253
         ]
       }
     },
