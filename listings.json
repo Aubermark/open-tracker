@@ -12457,6 +12457,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "69680780-ca73-5774-8acb-0467646b4bc4",
+        "address": "13138-W-Sierra-Vista-Dr-Glendale-AZ-85307",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1312,
+        "listed_at": "2026-04-09T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.342604,
+          33.530516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6979e197-b9ae-4386-a455-66bf96da9f90",
         "address": "4-Mayhaw-Pt-Sharpsburg-GA-30277",
         "beds": 3,
@@ -19885,6 +19906,27 @@
         "coordinates": [
           -116.669983,
           43.622684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a486b018-47da-5406-8f77-66563fec7008",
+        "address": "6628-Brock-St-Dublin-OH-43017",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1439,
+        "listed_at": "2026-04-09T20:50:06.000Z",
+        "days_on_market": ">46",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.100655,
+          40.090093
         ]
       }
     },
