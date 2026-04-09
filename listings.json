@@ -13864,27 +13864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7468769e-0e86-50ea-a421-e09ec2804c2d",
-        "address": "29552-Copper-Ridge-Rd-Menifee-CA-92584",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2913,
-        "listed_at": "2026-03-31T06:43:19.000Z",
-        "days_on_market": "10",
-        "current_price": 675000,
-        "price_label": "$675K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.143772,
-          33.696949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7488886f-a6d1-5c84-a0e8-f82ff5da510a",
         "address": "1099-E-Sourwood-Dr-Gilbert-AZ-85298",
         "beds": 4,
@@ -19339,6 +19318,27 @@
         "coordinates": [
           -78.881615,
           35.137828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a0653654-23ca-5e80-8620-98980ea0d106",
+        "address": "12927-Colony-Heath-Ln-Houston-TX-77085",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1703,
+        "listed_at": "2026-04-09T22:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.473141,
+          29.635274
         ]
       }
     },
