@@ -14263,6 +14263,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "775b4f8f-54b2-5772-b1f5-cc95f9c982a4",
+        "address": "90-Scotts-Pine-Cir-Wake-Forest-NC-27587",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2750,
+        "listed_at": "2026-04-09T19:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 641000,
+        "price_label": "$641K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.539967,
+          36.024718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "776e587d-d625-5737-b912-eb8473be0311",
         "address": "105-Wineberry-Way-Greenville-SC-29615",
         "beds": 3,
@@ -18268,6 +18289,27 @@
         "coordinates": [
           -112.147407,
           33.71101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9812226a-0ecd-5f49-9312-88a98d883132",
+        "address": "6137-Sparling-Hills-Cir-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1266,
+        "listed_at": "2026-04-09T19:50:06.000Z",
+        "days_on_market": ">46",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.466214,
+          28.602364
         ]
       }
     },
