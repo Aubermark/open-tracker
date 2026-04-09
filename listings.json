@@ -17854,6 +17854,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "94800db6-c25a-5711-ba8b-3c057f7b912b",
+        "address": "204-Wallace-Cir-Lexington-SC-29073-17427355",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1220,
+        "listed_at": "2026-04-09T19:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137328,
+          33.997829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9487ea1c-30cb-5779-85bf-46b75e33ef42",
         "address": "10826-N-Fairway-Ct-E-Sun-City-AZ-85351",
         "beds": 2,
@@ -18226,27 +18247,6 @@
         "coordinates": [
           -122.789559,
           45.356843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9855276f-f23f-5d39-887d-1b3558332951",
-        "address": "1100-Oleander-St-Englewood-FL-34223",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 3284,
-        "listed_at": "2026-04-07T06:32:17.000Z",
-        "days_on_market": "3",
-        "current_price": 615000,
-        "price_label": "$615K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.376414,
-          26.982332
         ]
       }
     },
