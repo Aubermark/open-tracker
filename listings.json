@@ -23020,6 +23020,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c0dbc307-2dab-53db-a58e-7eb227c4fbf5",
+        "address": "12919-Freemont-Peak-Ln-Humble-TX-77346",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3907,
+        "listed_at": "2026-04-09T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.181952,
+          29.972058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c13f94f9-e129-4e8a-9fea-a5b93fb4984d",
         "address": "3505-Aqua-Point-Pl-Cumming-GA-30041",
         "beds": 5,
