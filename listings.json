@@ -18841,6 +18841,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e548721-bbc9-5926-94a7-2e0e49d19d3a",
+        "address": "1012-Crepe-Myrtle-Ln-Anna-TX-75409",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2338,
+        "listed_at": "2026-04-09T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.56637,
+          33.321644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e761df9-e27a-526e-ba40-8f31f1893d9e",
         "address": "5908-Tee-Pee-Trce-Antioch-TN-37013",
         "beds": 4,
