@@ -23524,6 +23524,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c36d3af5-0947-5aba-a542-63fd259ec101",
+        "address": "4941-Chip-Shot-Ln-Indianapolis-IN-46235",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3200,
+        "listed_at": "2026-04-10T16:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.958654,
+          39.845263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c381c8f9-fbd1-5c7e-8553-cc644586444d",
         "address": "3081-Crosswind-Dr-Fort-Mill-SC-29707",
         "beds": 4,
@@ -26752,27 +26773,6 @@
         "coordinates": [
           -84.204078,
           34.223017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e50d2cb0-156c-5ee6-8f6e-6893708f0a2f",
-        "address": "6048-Old-Telegraph-Rd-Alexandria-VA-22310",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 3104,
-        "listed_at": "2026-04-08T19:00:06.000Z",
-        "days_on_market": "44",
-        "current_price": 756000,
-        "price_label": "$756K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.094444,
-          38.786476
         ]
       }
     },
