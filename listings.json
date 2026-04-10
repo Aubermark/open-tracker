@@ -1075,6 +1075,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08fa09d0-208c-538d-acbc-18b189369108",
+        "address": "5211-E-20th-St-Tucson-AZ-85711",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1798,
+        "listed_at": "2026-04-10T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.882091,
+          32.209888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09050ad2-42b8-5091-9f51-49de2c362731",
         "address": "5503-Antioch-Rd-Oxford-NC-27565",
         "beds": 3,
