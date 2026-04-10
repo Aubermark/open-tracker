@@ -14893,6 +14893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b56dbe0-9d75-597b-812d-a72687a29ecd",
+        "address": "3705-Chancellorsville-Ct-Raleigh-NC-27610",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2240,
+        "listed_at": "2026-04-10T19:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.534276,
+          35.728355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b6c5815-635b-5dc7-9d05-c82753670a57",
         "address": "2416-Bayview-Dr-Nashville-TN-37217",
         "beds": 3,
