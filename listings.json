@@ -25981,6 +25981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db788a86-9b4d-5c18-bc31-520615848417",
+        "address": "5403-S-Sicily-Way-Aurora-CO-80015",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3813,
+        "listed_at": "2026-04-10T19:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 681000,
+        "price_label": "$681K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.727994,
+          39.61811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db900a80-a180-4bc9-a6b2-946e0eaa0a00",
         "address": "10925-Glacier-Ln-N-Maple-Grove-MN-55369",
         "beds": 3,
