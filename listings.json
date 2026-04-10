@@ -7774,6 +7774,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42740f54-2511-58c3-88b4-c2d2c95faa59",
+        "address": "13907-Castle-Ct-Chantilly-VA-20151",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2968,
+        "listed_at": "2026-04-10T17:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.428403,
+          38.87662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4297b955-775f-5394-b0d3-b018a34434fa",
         "address": "4309-Saltmarsh-Sparrow-Dr-Windermere-FL-34786",
         "beds": 5,
@@ -20935,6 +20956,27 @@
         "coordinates": [
           -122.532008,
           45.603464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "af1811fd-1b3f-5aa0-9690-6644e23109b2",
+        "address": "73-Gables-Blvd-Weston-FL-33326",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2562,
+        "listed_at": "2026-04-10T17:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 765000,
+        "price_label": "$765K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.378226,
+          26.127234
         ]
       }
     },
