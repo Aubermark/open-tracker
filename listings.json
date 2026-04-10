@@ -5065,6 +5065,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28af68b3-fb52-535d-8dfa-5eead3eda4fe",
+        "address": "904-Memory-Ln-Mc-Kinney-TX-75070",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1899,
+        "listed_at": "2026-04-10T20:10:16.000Z",
+        "days_on_market": "39",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.740442,
+          33.195055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28f48bbd-30f2-5801-b06f-0b6aedef7665",
         "address": "954-S-Old-Orchard-Ln-Lewisville-TX-75067",
         "beds": 3,
@@ -6613,6 +6634,27 @@
         "coordinates": [
           -97.048857,
           33.069158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "37755ded-9f50-5919-9f0c-e656df72cb1f",
+        "address": "287-Gano-Ave-Orange-Park-FL-32073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1466,
+        "listed_at": "2026-04-10T20:10:16.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74135,
+          30.170091
         ]
       }
     },
@@ -19402,6 +19444,27 @@
         "coordinates": [
           -80.784655,
           35.361863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a019753f-8b92-52b0-8586-e32ddfa69895",
+        "address": "1331-E-Elton-Ave-Mesa-AZ-85204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1358,
+        "listed_at": "2026-04-10T20:10:16.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.802133,
+          33.405574
         ]
       }
     },
