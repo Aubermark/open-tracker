@@ -13528,6 +13528,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6fc7551c-7626-527c-8b81-039d2f79f335",
+        "address": "9500-N-Albatross-Dr-Tucson-AZ-85742",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1724,
+        "listed_at": "2026-04-10T15:20:05.000Z",
+        "days_on_market": ">47",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.075519,
+          32.378955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ffab4e5-dbac-4829-bb22-46e24ed2eae3",
         "address": "3612-Bailey-Lake-Dr-Fuquay-Varina-NC-27526",
         "beds": 4,
@@ -26668,6 +26689,27 @@
         "coordinates": [
           -96.823117,
           32.818993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e421ff9a-ccbf-5dea-b696-ab5c5e6aa8e1",
+        "address": "18625-Wooded-Crk-San-Antonio-TX-78259",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2039,
+        "listed_at": "2026-04-10T15:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.455171,
+          29.612037
         ]
       }
     },
