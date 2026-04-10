@@ -4288,6 +4288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2322d7d9-fc38-5dd4-ad0a-05643ab4d6cd",
+        "address": "5959-E-Teton-Cir-Mesa-AZ-85215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1446,
+        "listed_at": "2026-04-10T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.699663,
+          33.489296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "233a5061-24e0-5a50-a502-78564224cab3",
         "address": "20224-Northport-Dr-Cornelius-NC-28031",
         "beds": 4,
