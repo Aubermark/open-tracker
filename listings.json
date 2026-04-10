@@ -655,6 +655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "056697a8-19ec-5f00-b1e9-c35379623b04",
+        "address": "912-Amsterdam-Dr-Colorado-Springs-CO-80907",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2061,
+        "listed_at": "2026-04-10T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.841332,
+          38.885284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "058051ed-c8a9-534f-b42c-31aa7a427d9b",
         "address": "309-Se-Shawn-Ct-Blue-Springs-MO-64014",
         "beds": 3,
@@ -23203,6 +23224,27 @@
         "coordinates": [
           -97.72734,
           31.064149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0b3878a-70ae-5338-8ee9-4cd09217e9eb",
+        "address": "5530-Jean-Ridge-Ln-Odenville-AL-35120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-04-10T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.449565,
+          33.652523
         ]
       }
     },
