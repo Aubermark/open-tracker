@@ -8362,6 +8362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46a4a637-51b1-4a08-a89e-5ca6ddacfea0",
+        "address": "1717-Willow-Landing-Way-Willow-Spring-NC-27592",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2396,
+        "listed_at": "2026-04-10T21:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 505000,
+        "price_label": "$505K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.699295,
+          35.583038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "471c0bda-29d1-5f39-a157-1111a7147457",
         "address": "3503-Somerton-Dr-La-Porte-TX-77571",
         "beds": 3,
