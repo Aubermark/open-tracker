@@ -8341,6 +8341,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "475d42d2-7725-4112-8b85-141aec123119",
+        "address": "1254-Dunbar-St-Altamonte-Springs-FL-32701",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1852,
+        "listed_at": "2026-04-10T19:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.347427,
+          28.666142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "479e77f8-1a6e-51c5-8255-e3e6a62a4aa9",
         "address": "7395-Cortney-Glen-Ln-Lewisville-NC-27023",
         "beds": 3,
@@ -23182,6 +23203,27 @@
         "coordinates": [
           -80.855829,
           35.319976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bfddbd2c-9ed9-5ba6-8ea7-d040286bce48",
+        "address": "2739-N-73rd-Dr-Phoenix-AZ-85035",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1675,
+        "listed_at": "2026-04-10T19:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.216302,
+          33.478779
         ]
       }
     },
