@@ -1999,6 +1999,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10356c6b-be62-5f7c-a545-fa4934d5b6b2",
+        "address": "803-Magnolia-St-Alamogordo-NM-88310",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1231,
+        "listed_at": "2026-04-10T16:10:11.000Z",
+        "days_on_market": "0",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.951636,
+          32.878725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1075b3d6-33a2-5278-9ca5-a64219f2f6ff",
         "address": "640-Aidan-Dr-Sumter-SC-29154",
         "beds": 3,
