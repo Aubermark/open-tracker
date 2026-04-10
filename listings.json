@@ -8341,6 +8341,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46a0d46e-0fb5-5866-a173-27ab59e69d1f",
+        "address": "3717-Dutch-Iris-Ln-Fort-Worth-TX-76140",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2464,
+        "listed_at": "2026-04-10T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.263916,
+          32.649697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "471c0bda-29d1-5f39-a157-1111a7147457",
         "address": "3503-Somerton-Dr-La-Porte-TX-77571",
         "beds": 3,
