@@ -14074,6 +14074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7640787d-dea2-4684-b79d-ee13ecc9d38f",
+        "address": "414-Buford-Way-Mount-Holly-NC-28120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-04-10T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.002074,
+          35.315382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7665bfda-1abb-5387-b2d4-e369b38f225b",
         "address": "12712-Saint-Mary-Dr-Manor-TX-78653",
         "beds": 3,
@@ -18940,27 +18961,6 @@
         "coordinates": [
           -80.83551,
           35.582647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9c27ab3a-62de-5a64-8fe3-a620ee95a455",
-        "address": "8212-Boulder-River-Trl-Mc-Kinney-TX-75070",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3218,
-        "listed_at": "2026-03-27T07:42:10.000Z",
-        "days_on_market": "15",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.723033,
-          33.162503
         ]
       }
     },
