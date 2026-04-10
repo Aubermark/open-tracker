@@ -9202,6 +9202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4cc23538-6b6b-5379-bd5e-c4013b9cf1f3",
+        "address": "5533-Satel-Dr-Orlando-FL-32810",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1566,
+        "listed_at": "2026-04-10T20:50:06.000Z",
+        "days_on_market": "3",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.408685,
+          28.61234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d11a69d-f054-5edf-b467-1556b2893379",
         "address": "416-Fossil-Rock-Dr-Azle-TX-76020",
         "beds": 3,
@@ -10057,27 +10078,6 @@
         "coordinates": [
           -112.208648,
           33.490371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "53f63ec8-1c24-59cf-a94e-4ac1b3ac5512",
-        "address": "3706-Cheswick-Dr-Holiday-FL-34691-17500688",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1036,
-        "listed_at": "2026-04-08T16:20:06.000Z",
-        "days_on_market": "46",
-        "current_price": 198000,
-        "price_label": "$198K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.75004,
-          28.212723
         ]
       }
     },
@@ -12010,6 +12010,27 @@
         "coordinates": [
           -90.329763,
           38.813714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "65002f4b-ce36-5f1b-92e9-a2fdce0c261d",
+        "address": "22251-E-Via-De-Olivos-Ct-Queen-Creek-AZ-85142",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1953,
+        "listed_at": "2026-04-10T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.604929,
+          33.232814
         ]
       }
     },
