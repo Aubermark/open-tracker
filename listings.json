@@ -1621,6 +1621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc3f439-ad55-54bf-98d0-1378751b7d3b",
+        "address": "1200-Boxwood-Dr-Crowley-TX-76036",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2002,
+        "listed_at": "2026-04-10T14:40:05.000Z",
+        "days_on_market": "37",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.374666,
+          32.565957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e50b0a3-85fb-5ee6-9181-765f552096a9",
         "address": "336-4th-Ave-Sw-Rio-Rancho-NM-87124",
         "beds": 3,
