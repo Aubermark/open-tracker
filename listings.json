@@ -10630,6 +10630,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58a6291c-99c6-5a47-a424-46701b9af68b",
+        "address": "45458-Oak-Trail-Sq-Sterling-VA-20164",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1749,
+        "listed_at": "2026-04-11T14:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 522000,
+        "price_label": "$522K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.428212,
+          39.000349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58ac96bf-2c89-5d4a-a4d9-afe2e63dd191",
         "address": "9526-Ascending-Prt-Converse-TX-78109",
         "beds": 4,
