@@ -10147,6 +10147,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
+        "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1560,
+        "listed_at": "2026-04-11T15:10:05.000Z",
+        "days_on_market": ">48",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.854109,
+          33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "550a19c4-1265-56c8-9c4e-632b4db6114b",
         "address": "7545-Bon-Soir-Corpus-Christi-TX-78414",
         "beds": 3,
@@ -13144,27 +13165,6 @@
         "coordinates": [
           -90.657124,
           38.788358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6c1f8213-0c64-5a01-a655-43015f6df082",
-        "address": "352-Highbanks-Valley-Ct-Newark-OH-43055",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2199,
-        "listed_at": "2026-04-09T21:10:06.000Z",
-        "days_on_market": "2",
-        "current_price": 443000,
-        "price_label": "$443K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.486767,
-          40.050557
         ]
       }
     },
@@ -21943,27 +21943,6 @@
         "coordinates": [
           -94.348913,
           38.641395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b45a718e-791f-5cf3-9067-c13894881bed",
-        "address": "1619-Basil-Dr-Columbus-OH-43227",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1671,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">48",
-        "current_price": 223000,
-        "price_label": "$223K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.895884,
-          39.939851
         ]
       }
     },
