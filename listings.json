@@ -25015,6 +25015,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cf9e6559-ba55-5583-910e-b226a2bbf2f7",
+        "address": "1108-Albemarle-Cir-Noblesville-IN-46062",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2360,
+        "listed_at": "2026-04-11T16:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.044152,
+          40.068645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfb2a575-fc08-5bfa-b4c4-cd19122b17d7",
         "address": "100-Battery-Creek-Dr-Gaston-SC-29053",
         "beds": 3,
