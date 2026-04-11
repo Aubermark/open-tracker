@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36e80213-c4c2-4fb7-8211-1aca748aa3d4",
+        "address": "4462-Hovenweep-Way-Indianapolis-IN-46235",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2460,
+        "listed_at": "2026-04-11T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.962161,
+          39.839349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36e8f190-f570-5717-b6bf-bee09bbdd957",
         "address": "18062-E-104th-Pl-Unit-B-Commerce-City-CO-80022",
         "beds": 3,
