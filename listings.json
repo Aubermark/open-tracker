@@ -7102,6 +7102,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c320b7d-3ef5-5ee6-afb5-1bbe14a18920",
+        "address": "8456-Jackies-Dr-Cincinnati-OH-45239",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1833,
+        "listed_at": "2026-04-12T20:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.579667,
+          39.224374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c3e962b-02e4-5070-9894-c1d980bfd345",
         "address": "6915-E-Portia-St-Mesa-AZ-85207",
         "beds": 4,
@@ -16588,27 +16609,6 @@
         "coordinates": [
           -76.612403,
           36.058052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "88f5ab1a-96fb-59d5-8c74-097294655c7c",
-        "address": "6330-Sw-135th-Ave-#-39-Miami-FL-33183",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1616,
-        "listed_at": "2026-04-09T23:00:06.000Z",
-        "days_on_market": "3",
-        "current_price": 508000,
-        "price_label": "$508K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.412843,
-          25.707344
         ]
       }
     },
