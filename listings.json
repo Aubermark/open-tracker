@@ -27094,6 +27094,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7f38740-8bfb-54bf-820a-1e68358a0c59",
+        "address": "3373-Brook-Spring-Dr-Grove-City-OH-43123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2252,
+        "listed_at": "2026-04-12T20:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.086448,
+          39.912546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e850903f-329d-5436-b8e0-9a8fee5eba05",
         "address": "6412-Pleasant-Creek-Ct-Raleigh-NC-27613",
         "beds": 3,
