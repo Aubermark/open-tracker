@@ -12604,6 +12604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "69eb313a-885c-5018-aae4-82ac1c905990",
+        "address": "8016-Stonegate-Dr-Cincinnati-OH-45255",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1964,
+        "listed_at": "2026-04-12T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.332993,
+          39.077974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a5533c3-025a-5d53-8b4d-4de6a5ee4e13",
         "address": "1067-Zophi-St-Nashville-TN-37216",
         "beds": 2,
