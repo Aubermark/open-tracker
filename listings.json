@@ -8404,27 +8404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "47adb66e-6697-58c8-8c79-025541d42e18",
-        "address": "23286-Southdown-Manor-Ter-Unit-108-Ashburn-VA-20148-17652272",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 942,
-        "listed_at": "2026-03-26T21:40:08.000Z",
-        "days_on_market": "17",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.512617,
-          38.972831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "47b424a4-099b-4291-915c-4f0637acf279",
         "address": "161-Donovan-Ave-Locust-Grove-GA-30248",
         "beds": 5,
@@ -9112,6 +9091,27 @@
         "coordinates": [
           -84.405156,
           34.270731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4c2db9b0-f09a-5d28-afe6-70e53d15adbe",
+        "address": "9639-Margrave-Dr-Gastonia-NC-28056",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2233,
+        "listed_at": "2026-04-12T13:30:05.000Z",
+        "days_on_market": ">49",
+        "current_price": 359000,
+        "price_label": "$359K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.115731,
+          35.181644
         ]
       }
     },
@@ -13837,27 +13837,6 @@
         "coordinates": [
           -76.812434,
           38.834286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "73264967-90da-522e-b314-6b5fe7e0b7ca",
-        "address": "2296-Briarwood-Cir-Sw-Conyers-GA-30094",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "48",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.061122,
-          33.669913
         ]
       }
     },
@@ -19738,27 +19717,6 @@
         "coordinates": [
           -82.324393,
           27.953302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a1c810f6-ee99-4966-b308-cd9df61a0e96",
-        "address": "996-Gratton-Rd-Clarksville-TN-37043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 3422,
-        "listed_at": "2026-03-24T17:40:08.000Z",
-        "days_on_market": "19",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.294759,
-          36.495263
         ]
       }
     },
