@@ -20101,6 +20101,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a622c3b3-3e06-581f-bcc8-e6e145bbea23",
+        "address": "116-Stonemill-Ct-Irmo-SC-29063",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1974,
+        "listed_at": "2026-04-12T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230692,
+          34.131419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a625b620-dbf3-579e-8b16-e8ec2837b8c0",
         "address": "8710-94th-Ave-Seminole-FL-33777",
         "beds": 3,
