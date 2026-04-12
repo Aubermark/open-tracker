@@ -15481,6 +15481,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7fe93513-66d0-50c9-aee6-007b761731ac",
+        "address": "1182-Sanderling-Dr-Reynoldsburg-OH-43068",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-04-12T20:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.772537,
+          39.961275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "801c1ee8-f0c7-5f0f-8abe-9bd85750ffe9",
         "address": "2553-Cumberland-Trl-Balch-Springs-TX-75181",
         "beds": 3,
