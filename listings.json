@@ -2839,6 +2839,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15e17643-ec02-5c09-bf3a-751cfba5681b",
+        "address": "7779-Harthill-Park-Ave-Las-Vegas-NV-89113",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2701,
+        "listed_at": "2026-04-12T17:40:07.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.254613,
+          36.082418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15f97a69-81d9-5765-b5e3-b1e3c129e292",
         "address": "4744-Ponderay-Ln-Sacramento-CA-95841",
         "beds": 4,
@@ -15769,27 +15790,6 @@
         "coordinates": [
           -81.050343,
           34.914776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "82b88fd8-4043-563b-96dd-b7b6d3aeda9c",
-        "address": "2903-Pendleton-Ln-Sw-Marietta-GA-30064",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3055,
-        "listed_at": "2026-03-25T07:32:46.000Z",
-        "days_on_market": "19",
-        "current_price": 455000,
-        "price_label": "$455K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.639605,
-          33.908901
         ]
       }
     },
