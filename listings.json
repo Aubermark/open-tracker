@@ -7459,6 +7459,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e9b76c9-4918-5d28-9cbb-aef098a67cea",
+        "address": "1111-3rd-Ln-Pleasant-Grove-AL-35127",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-04-12T21:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.963756,
+          33.482426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3ec86664-06d5-5948-8e12-891ad630a0f6",
         "address": "432-Fern-Bay-Dr-Sw-Atlanta-GA-30331-17781460",
         "beds": 3,
