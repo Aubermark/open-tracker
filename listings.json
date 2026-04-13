@@ -3616,27 +3616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d90e175-93cf-51b4-b755-5ae999424864",
-        "address": "2079-Sw-Kimberly-Ave-Port-Saint-Lucie-FL-34953",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 912,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "46",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.411725,
-          27.289674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1de9bdb2-6b36-5671-9c5c-6b2cf4602b5c",
         "address": "78440-Via-Palomino-La-Quinta-CA-92253",
         "beds": 2,
@@ -14452,6 +14431,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "780c0148-b564-5689-af1d-1579f57f7bd2",
+        "address": "8911-Alto-Way-Indianapolis-IN-46231",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2544,
+        "listed_at": "2026-04-13T20:40:09.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.319472,
+          39.747505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "786229ee-6952-57d0-b705-76ef3fa9e803",
         "address": "14509-N-126th-Ave-El-Mirage-AZ-85335",
         "beds": 3,
@@ -24532,27 +24532,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ce779614-24c7-5457-b47a-ba338e16f51b",
-        "address": "5026-Royal-Cypress-Dr-Katy-TX-77449",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1170,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "47",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.709504,
-          29.847403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ce7c93f5-7b34-51aa-9d23-4b21cdbd100e",
         "address": "644-Carybrook-Ct-York-SC-29745",
         "beds": 4,
@@ -28243,6 +28222,27 @@
         "coordinates": [
           -84.728927,
           33.704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0492b42-4d92-5952-8cfe-7456a717ce5a",
+        "address": "4105-Toroella-St-Durham-NC-27704",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1236,
+        "listed_at": "2026-04-13T20:40:09.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.913473,
+          36.056316
         ]
       }
     },
