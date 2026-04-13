@@ -3217,27 +3217,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1a1fa436-6bbc-5030-850d-36328d945ae1",
-        "address": "9622-Scarborough-Ct-Summerville-SC-29485",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1613,
-        "listed_at": "2026-04-13T19:00:05.000Z",
-        "days_on_market": "0",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.127769,
-          32.948948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1a5934df-b000-534a-90e3-399ab7ff0152",
         "address": "159-Hadleigh-Dr-Lexington-SC-29072",
         "beds": 3,
@@ -18946,27 +18925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9bbaad99-5df4-5b2f-af6e-101b4e321b0c",
-        "address": "5528-W-Greenbriar-Dr-Glendale-AZ-85308",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 896,
-        "listed_at": "2026-03-30T23:10:05.000Z",
-        "days_on_market": "14",
-        "current_price": 316000,
-        "price_label": "$316K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.17919,
-          33.643087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9bc38819-089e-516d-a124-0e1c6bae7041",
         "address": "1820-Bertino-Way-Rockwall-TX-75032",
         "beds": 4,
@@ -24610,6 +24568,27 @@
         "coordinates": [
           -84.279341,
           33.595138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cddc6a04-ea98-59e0-a517-9268dbe74c48",
+        "address": "13911-Persimmon-Cv-San-Antonio-TX-78245",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2710,
+        "listed_at": "2026-04-13T22:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.77019,
+          29.413405
         ]
       }
     },
