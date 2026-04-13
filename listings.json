@@ -2692,27 +2692,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1553e4d2-97b5-51b2-b8c0-26b1dbcc6e2d",
-        "address": "2120-Patterson-Rd-Durham-NC-27704",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1134,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": ">50",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.785444,
-          36.015032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -5290,6 +5269,27 @@
         "coordinates": [
           -84.156691,
           33.750224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2a04f290-3908-5c87-9d0f-2b1fa6eefa5d",
+        "address": "4442-Rolling-Pine-Dr-West-Bloomfield-MI-48323",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3278,
+        "listed_at": "2026-04-13T20:30:07.000Z",
+        "days_on_market": "21",
+        "current_price": 597000,
+        "price_label": "$597K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.414441,
+          42.571288
         ]
       }
     },
@@ -20725,6 +20725,27 @@
         "coordinates": [
           -82.843393,
           39.911831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac0c6df8-54ae-58f2-80ca-61cd85341076",
+        "address": "410-B-St-Belton-MO-64012",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1526,
+        "listed_at": "2026-04-13T20:30:07.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.530223,
+          38.812892
         ]
       }
     },
