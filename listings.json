@@ -3238,6 +3238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a1fa436-6bbc-5030-850d-36328d945ae1",
+        "address": "9622-Scarborough-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1613,
+        "listed_at": "2026-04-13T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.127769,
+          32.948948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a5934df-b000-534a-90e3-399ab7ff0152",
         "address": "159-Hadleigh-Dr-Lexington-SC-29072",
         "beds": 3,
@@ -9658,27 +9679,6 @@
         "coordinates": [
           -84.264568,
           33.215324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5061d705-a7f5-5c94-9847-671828890ef0",
-        "address": "1205-Maple-Ln-Pleasant-Hill-MO-64080",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2848,
-        "listed_at": "2026-04-09T21:30:06.000Z",
-        "days_on_market": "4",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.259304,
-          38.797202
         ]
       }
     },
