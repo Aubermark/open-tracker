@@ -9244,6 +9244,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4dc79e2e-9b0b-5e62-b8bb-8e82fb442d12",
+        "address": "8230-E-11th-St-Indianapolis-IN-46219",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1368,
+        "listed_at": "2026-04-13T21:40:05.000Z",
+        "days_on_market": ">50",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.021536,
+          39.78338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4dc8471e-2419-5ed8-bfb9-ae5f7c854702",
         "address": "429-Old-Speedway-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -22972,6 +22993,27 @@
         "coordinates": [
           -80.978051,
           34.159157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "be37a158-272e-50ca-b78d-0a9a0d1ec6b0",
+        "address": "4321-Pine-Springs-Ct-Raleigh-NC-27613",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1316,
+        "listed_at": "2026-04-13T21:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.70951,
+          35.864795
         ]
       }
     },
