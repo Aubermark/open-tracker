@@ -15040,27 +15040,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7c4ba706-53b5-5e36-8277-516b76c4e743",
-        "address": "3711-Bonita-Glen-Ter-Bonita-CA-91902",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1960,
-        "listed_at": "2026-03-26T07:38:29.000Z",
-        "days_on_market": "36",
-        "current_price": 1225000,
-        "price_label": "$1.225M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.021293,
-          32.66675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7c5f6b3b-a91f-5aba-8ea9-a14389e248ac",
         "address": "682-Coventry-Township-Ln-Marietta-GA-30062",
         "beds": 2,
@@ -17071,6 +17050,27 @@
         "coordinates": [
           -122.249027,
           48.513016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8c077d18-582a-52a8-b76e-a37a406a2696",
+        "address": "521-Dayton-Rd-Rock-Hill-SC-29732",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1981,
+        "listed_at": "2026-04-13T18:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.061898,
+          34.988545
         ]
       }
     },
@@ -26038,27 +26038,6 @@
         "coordinates": [
           -81.793222,
           30.263735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "db788a86-9b4d-5c18-bc31-520615848417",
-        "address": "5403-S-Sicily-Way-Aurora-CO-80015",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3813,
-        "listed_at": "2026-04-10T19:20:08.000Z",
-        "days_on_market": "3",
-        "current_price": 681000,
-        "price_label": "$681K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.727994,
-          39.61811
         ]
       }
     },
