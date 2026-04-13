@@ -193,6 +193,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "012898f9-0f91-4146-aa15-40c2cd53ccea",
+        "address": "3022-Basswood-St-Little-Canada-MN-55117",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1719,
+        "listed_at": "2026-04-13T21:50:06.000Z",
+        "days_on_market": ">50",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07972,
+          45.032881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "016018a4-d660-513f-9981-0aa9c56df1a6",
         "address": "16138-Substation-Rd-Locust-NC-28097",
         "beds": 3,
@@ -7537,6 +7558,27 @@
         "coordinates": [
           -84.717373,
           33.810492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3f463897-da0f-5a02-9e2f-c96c65b6ab0e",
+        "address": "101-Oak-St-Smyrna-TN-37167",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2126,
+        "listed_at": "2026-04-13T21:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.515864,
+          35.98356
         ]
       }
     },
@@ -24694,27 +24736,6 @@
         "coordinates": [
           -115.144693,
           36.045321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cf08541f-01cc-5921-bad4-82dac72ad60b",
-        "address": "2880-Donnell-Dr-Unit-503-Round-Rock-TX-78664",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1745,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "24",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.624636,
-          30.488771
         ]
       }
     },
