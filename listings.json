@@ -21655,27 +21655,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b445fa1c-e3d3-55f8-8733-907fbfb9eeeb",
-        "address": "101-Trinity-Cir-Harrisonville-MO-64701",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1449,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "5",
-        "current_price": 286000,
-        "price_label": "$286K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.348913,
-          38.641395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b45c5846-f34a-5601-a9ea-4cc083439e60",
         "address": "1543-Sw-32nd-St-Fort-Lauderdale-FL-33315",
         "beds": 3,
@@ -22951,6 +22930,27 @@
         "coordinates": [
           -117.582306,
           47.502504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bec00870-a852-5c75-ad16-76acc7dc6bcb",
+        "address": "354-111th-Ave-Nw-Coon-Rapids-MN-55448",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1988,
+        "listed_at": "2026-04-13T15:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27578,
+          45.170887
         ]
       }
     },
