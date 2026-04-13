@@ -2167,6 +2167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1123c34d-d880-4bd3-b728-1ec7d83e3bf5",
+        "address": "26666-Dash-Dr-Menifee-CA-92585",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2035,
+        "listed_at": "2026-04-13T17:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 637000,
+        "price_label": "$637K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.168408,
+          33.729404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1190ec2c-d4a1-531d-abe8-0294ac0cdc93",
         "address": "2511-S-Entwistle-St-Gilbert-AZ-85295",
         "beds": 3,
