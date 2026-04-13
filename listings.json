@@ -13087,6 +13087,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c482c1f-9f2f-5759-8353-79859eccd665",
+        "address": "1021-Dekleva-Dr-Apopka-FL-32712",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1953,
+        "listed_at": "2026-04-13T08:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.555872,
+          28.6986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c9fb05d-e610-5e8d-81d9-61dc03ab4d14",
         "address": "5316-Prairie-Ln-Grand-Prairie-TX-75052",
         "beds": 3,
