@@ -10714,6 +10714,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5a97ac76-82fd-5b3b-84ff-e2760b6cb7f2",
+        "address": "1564-S-Wolfe-Rd-Sunnyvale-CA-94087",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1747,
+        "listed_at": "2026-04-13T16:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 2740000,
+        "price_label": "$2.740M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.013934,
+          37.342804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5aa2a97e-2bbb-58b6-af38-99f6bb5a5403",
         "address": "7115-Water-Glen-Ln-Manvel-TX-77578",
         "beds": 4,
