@@ -23314,6 +23314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1126e42-ec3f-5298-bd93-1e0281b818d7",
+        "address": "4098-La-Junta-Dr-Loveland-CO-80538",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3266,
+        "listed_at": "2026-04-13T22:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.12015,
+          40.434298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c13f94f9-e129-4e8a-9fea-a5b93fb4984d",
         "address": "3505-Aqua-Point-Pl-Cumming-GA-30041",
         "beds": 5,
