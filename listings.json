@@ -17938,6 +17938,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9345e4e2-61f8-59f5-819b-b9f29a4b50a7",
+        "address": "7423-Henderson-Park-Rd-Huntersville-NC-28078",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1736,
+        "listed_at": "2026-04-13T15:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.910823,
+          35.402416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "938b9050-5fbf-5a9c-b761-e394fba9a6fd",
         "address": "569-E-Aloha-Ln-Sandy-UT-84070",
         "beds": 4,
@@ -27718,6 +27739,27 @@
         "coordinates": [
           -87.062486,
           33.3297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eced4336-6dd1-5d1c-a5e4-863ae975cf1f",
+        "address": "4170-Hathaway-Ln-Mount-Olive-AL-35117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1509,
+        "listed_at": "2026-04-13T15:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.864295,
+          33.632285
         ]
       }
     },
