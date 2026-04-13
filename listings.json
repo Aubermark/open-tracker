@@ -23083,6 +23083,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bf7bd9b8-5330-5b51-813a-9d74109daf02",
+        "address": "403-Keesaw-Gln-Grovetown-GA-30813",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3400,
+        "listed_at": "2026-04-13T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23162,
+          33.508226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bfddbd2c-9ed9-5ba6-8ea7-d040286bce48",
         "address": "2739-N-73rd-Dr-Phoenix-AZ-85035",
         "beds": 3,
