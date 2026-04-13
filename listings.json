@@ -20815,6 +20815,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad04bf97-b68e-5efd-9e7f-5f253f14716d",
+        "address": "353-Chestnut-Grove-Ct-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1950,
+        "listed_at": "2026-04-13T19:50:06.000Z",
+        "days_on_market": "34",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.417066,
+          36.559262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad06205a-2465-5a55-b9e6-3a1a1e05ec31",
         "address": "6023-Winterhaven-Dr-Houston-TX-77087",
         "beds": 4,
