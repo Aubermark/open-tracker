@@ -16111,6 +16111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "84c5c96f-1152-50d4-abce-9459999b4221",
+        "address": "40839-Mostyn-Hill-Dr-Magnolia-TX-77354",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-04-13T22:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.670385,
+          30.237498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8555c447-4d84-5088-8fb3-6b3daa6fea53",
         "address": "9300-Bradley-Ct-Manassas-Park-VA-20111",
         "beds": 5,
