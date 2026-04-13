@@ -4540,27 +4540,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "259dcd45-474b-5118-917c-90f6c1569207",
-        "address": "8806-Seneca-Rd-Palmetto-GA-30268",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1600,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "13",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.604903,
-          33.517166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "25a41384-5716-58a1-b613-0434efdedfe4",
         "address": "416-Busby-Ln-Winder-GA-30680",
         "beds": 4,
@@ -10168,6 +10147,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55fc8fc6-608c-5acf-8509-fc8a63b9444e",
+        "address": "6032-Briggs-Dr-Charlotte-NC-28269-6077059",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-04-13T14:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.793207,
+          35.324182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5643bcce-a7ff-408d-9936-7de774cbf8e3",
         "address": "113-Amy-Aly-San-Antonio-TX-78253",
         "beds": 5,
@@ -10183,27 +10183,6 @@
         "coordinates": [
           -98.809682,
           29.40805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "56630e84-e9ae-5058-bdc0-1eb23a27ae30",
-        "address": "1719-Lindenhall-Dr-Loveland-OH-45140",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2000,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "49",
-        "current_price": 397000,
-        "price_label": "$397K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.288019,
-          39.274936
         ]
       }
     },
