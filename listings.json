@@ -28522,6 +28522,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f30de995-4c07-5195-bc0a-56657cf3369b",
+        "address": "461-Darter-Dr-Nw-Kennesaw-GA-30144",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1930,
+        "listed_at": "2026-04-13T09:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.668843,
+          34.043324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f329538f-d946-55c2-9404-fa6d216a6563",
         "address": "2575-Raindrop-Ct-Decatur-GA-30034",
         "beds": 4,
