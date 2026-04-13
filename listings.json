@@ -24469,6 +24469,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd843fa3-3a75-5486-9be6-8aecb5540d12",
+        "address": "109-Crown-Colony-Ct-Lexington-SC-29073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1107,
+        "listed_at": "2026-04-13T21:10:10.000Z",
+        "days_on_market": "0",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.227081,
+          33.897286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cddb309b-bdc4-56ae-b16b-510cdebf90ab",
         "address": "5806-Waggoner-Ct-Rex-GA-30273",
         "beds": 3,
@@ -24589,6 +24610,27 @@
         "coordinates": [
           -84.481064,
           34.14481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ceb1d4dc-c889-5648-9bf1-2126e6f02aa0",
+        "address": "2405-Celosia-Dr-Charlotte-NC-28262",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1303,
+        "listed_at": "2026-04-13T21:10:10.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.711119,
+          35.319186
         ]
       }
     },
