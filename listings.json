@@ -1306,6 +1306,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a90afd2-1c14-5480-af31-fb24d4e9f1c8",
+        "address": "8684-Cedar-Springs-Cir-Leeds-AL-35094",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1270,
+        "listed_at": "2026-04-13T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.534158,
+          33.552264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0aab0761-a3b1-55ab-a413-8997e3e7cd24",
         "address": "2811-Iveywood-Dr-Monroe-NC-28110",
         "beds": 4,
@@ -3400,27 +3421,6 @@
         "coordinates": [
           -84.168582,
           33.869184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1c3ef2e2-9eef-53a3-8636-bdfc1c31a4e1",
-        "address": "802-San-Jacinto-Cir-Baytown-TX-77521",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1295,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "46",
-        "current_price": 185000,
-        "price_label": "$185K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.976731,
-          29.79824
         ]
       }
     },
@@ -25177,6 +25177,27 @@
         "coordinates": [
           -81.400965,
           28.676474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3772f00-d87a-50e7-a1e0-a80fcaf27228",
+        "address": "14862-W-Pershing-St-Surprise-AZ-85379",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1985,
+        "listed_at": "2026-04-13T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 447000,
+        "price_label": "$447K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.379976,
+          33.605561
         ]
       }
     },
