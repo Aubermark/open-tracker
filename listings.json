@@ -28039,6 +28039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "edc2de06-0bce-4a0d-bd7f-1e0ba038ec1f",
+        "address": "8-Mayhaw-Pt-Sharpsburg-GA-30277",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2008,
+        "listed_at": "2026-04-13T17:40:06.000Z",
+        "days_on_market": "34",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.693107,
+          33.355948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edf29551-7962-5c72-ac4d-d8d86dd87fe8",
         "address": "826-Catskill-Dr-Saint-Louis-MO-63125",
         "beds": 2,
