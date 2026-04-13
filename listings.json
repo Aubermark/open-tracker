@@ -7060,6 +7060,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
+        "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1720,
+        "listed_at": "2026-04-13T23:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.553114,
+          35.863401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b55b9dd-4721-5f6c-9b55-a35248252251",
         "address": "3740-Konica-Ct-Las-Vegas-NV-89129",
         "beds": 3,
