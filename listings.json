@@ -12058,6 +12058,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "658870d6-62c6-5ec2-a2e8-2f05363d7412",
+        "address": "2813-Wood-Dr-Ne-Center-Point-AL-35215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1899,
+        "listed_at": "2026-04-13T23:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67751,
+          33.659407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65914b1c-cb4d-5495-9b74-f4e0d85c286a",
         "address": "11037-Wyndham-Pointe-Dr-Charlotte-NC-28213",
         "beds": 3,
