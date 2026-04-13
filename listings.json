@@ -4519,6 +4519,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24e230a6-339c-5128-bac2-82259029ece7",
+        "address": "7049-Woodland-Ave-Chagrin-Falls-OH-44023",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3147,
+        "listed_at": "2026-04-13T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.390275,
+          41.413941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "252db0ea-c745-592b-9977-3dc815ff4691",
         "address": "167-Bridgewood-Dr-Se-Conyers-GA-30094",
         "beds": 3,
@@ -13606,6 +13627,27 @@
         "coordinates": [
           -115.135301,
           36.000314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "700c81a2-760f-5776-93bd-4b05eecaf308",
+        "address": "36795-W-Mondragone-Ln-Maricopa-AZ-85138",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1192,
+        "listed_at": "2026-04-13T18:30:09.000Z",
+        "days_on_market": ">50",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.962925,
+          33.038239
         ]
       }
     },
@@ -27388,6 +27430,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ea74d4bf-2121-54c7-a072-d8908372161e",
+        "address": "10184-Ferncrest-St-Firestone-CO-80504",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-04-13T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.926061,
+          40.148325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ea7589eb-8fcc-40cd-ab95-d03698745dca",
         "address": "2047-Emerald-Lake-Trl-Dayton-TX-77535",
         "beds": 5,
@@ -28537,6 +28600,27 @@
         "coordinates": [
           -106.675729,
           35.185658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2e479b8-ca3b-5448-8e6e-ace683d5284e",
+        "address": "28449-N-46th-St-Cave-Creek-AZ-85331",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2504,
+        "listed_at": "2026-04-13T18:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 686000,
+        "price_label": "$686K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.980874,
+          33.744236
         ]
       }
     },
