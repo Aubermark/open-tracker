@@ -14599,27 +14599,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "78ccc8b2-8cee-53cb-ae95-c9e399dd2569",
-        "address": "12015-Landen-Dr-Charlotte-NC-28277",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1975,
-        "listed_at": "2026-03-19T17:20:08.000Z",
-        "days_on_market": "25",
-        "current_price": 590000,
-        "price_label": "$590K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.798231,
-          35.037599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "79a45c8a-15ef-5782-bb00-7335d2d09d44",
         "address": "1242-Elterwater-Ln-Spartanburg-SC-29306",
         "beds": 4,
@@ -15664,6 +15643,27 @@
         "coordinates": [
           -112.203721,
           33.561227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8154990d-597e-5e00-9cd7-88157756abb9",
+        "address": "10414-W-Sun-City-Blvd-Sun-City-AZ-85351",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1172,
+        "listed_at": "2026-04-13T20:20:09.000Z",
+        "days_on_market": "46",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.283798,
+          33.587506
         ]
       }
     },
