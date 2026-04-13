@@ -2062,6 +2062,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fc1b1c2-447c-5726-85c8-e42b684af162",
+        "address": "4814-Monet-Way-Sacramento-CA-95842",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-04-13T15:30:06.000Z",
+        "days_on_market": "28",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.351865,
+          38.686092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10356c6b-be62-5f7c-a545-fa4934d5b6b2",
         "address": "803-Magnolia-St-Alamogordo-NM-88310",
         "beds": 3,
