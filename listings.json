@@ -24427,6 +24427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbef7bc5-c284-5202-bee6-2dc63411662d",
+        "address": "4450-Savage-Pointe-Dr-Franklin-TN-37064",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4431,
+        "listed_at": "2026-04-13T23:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 2350000,
+        "price_label": "$2.350M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.794965,
+          35.818819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cc18c7ee-5765-5e08-8718-b5523becc0b8",
         "address": "258-Los-Altos-Pl-American-Canyon-CA-94503",
         "beds": 3,
