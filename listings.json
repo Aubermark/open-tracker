@@ -25288,6 +25288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d46c2e7f-bffd-546b-9a69-2c673d696e2b",
+        "address": "4847-Tower-Rd-Apt-C-Greensboro-NC-27410",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1450,
+        "listed_at": "2026-04-13T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.875493,
+          36.075624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d470a0f1-db7c-4ae5-b8db-2a91e89f2177",
         "address": "3728-Los-Cabos-Dr-Mustang-OK-73064",
         "beds": 3,
@@ -26521,6 +26542,27 @@
         "coordinates": [
           -80.676255,
           34.967836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e0cf0f1f-c123-5932-a810-971b8648ca64",
+        "address": "6729-Nokomis-Cir-Colorado-Springs-CO-80915",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1424,
+        "listed_at": "2026-04-13T20:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.702654,
+          38.855838
         ]
       }
     },
