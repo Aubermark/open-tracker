@@ -5758,6 +5758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f57af8b-8441-5833-b0bb-1ba9779ce1c6",
+        "address": "3801-Grecian-Ct-Plano-TX-75074",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1447,
+        "listed_at": "2026-04-14T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.659492,
+          33.020327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2fa1aa43-8971-5e21-9866-1646ec85b4ee",
         "address": "10101-N-91st-Ave-Unit-154-Peoria-AZ-85345",
         "beds": 2,
@@ -12178,6 +12199,27 @@
         "coordinates": [
           -81.62154,
           30.165422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "66520ab0-335d-5bf9-80c5-3d5cddccae93",
+        "address": "27-Alexander-Rd-Hopkinton-MA-01748",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3229,
+        "listed_at": "2026-04-14T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 1135000,
+        "price_label": "$1.135M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.525774,
+          42.203911
         ]
       }
     },
@@ -25498,6 +25540,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d52c7d97-cd19-5dc4-b70a-f52c84a0402e",
+        "address": "9200-Nash-Ln-North-Ridgeville-OH-44039",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1720,
+        "listed_at": "2026-04-14T18:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.044438,
+          41.357366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d5511fdf-4d07-57b8-88b6-47ccca1e81bb",
         "address": "6303-Klondike-River-Rd-Lithonia-GA-30038",
         "beds": 3,
@@ -26773,27 +26836,6 @@
         "coordinates": [
           -78.21792,
           33.989729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e285f8ee-ee88-57f9-9f2b-ed5644cd5b23",
-        "address": "161-Grove-Rd-Locust-Grove-GA-30248",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 984,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">51",
-        "current_price": 204000,
-        "price_label": "$204K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.099586,
-          33.344048
         ]
       }
     },
