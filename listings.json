@@ -7039,6 +7039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b521836-28a6-52aa-8ae7-78bb94d80017",
+        "address": "9696-Ravenscroft-Ln-Nw-Concord-NC-28027",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2886,
+        "listed_at": "2026-04-14T16:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.741476,
+          35.439619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b55b9dd-4721-5f6c-9b55-a35248252251",
         "address": "3740-Konica-Ct-Las-Vegas-NV-89129",
         "beds": 3,
@@ -12478,27 +12499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "68bed08b-988e-5e6f-84fd-121969fadc35",
-        "address": "412-Green-Cedar-Dr-League-City-TX-77573",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2703,
-        "listed_at": "2026-04-08T21:40:05.000Z",
-        "days_on_market": "6",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.130768,
-          29.494957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "68ff9af6-00f5-5c6e-ac07-9ed9ad9aa255",
         "address": "2692-E-Silk-Oak-Dr-Tempe-AZ-85281",
         "beds": 2,
@@ -17659,27 +17659,6 @@
         "coordinates": [
           -80.356355,
           36.153923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "913f22f2-5ae0-57d9-b255-be4f379195a3",
-        "address": "8632-94th-St-Seminole-FL-33777",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1386,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "46",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.76944,
-          27.85079
         ]
       }
     },
