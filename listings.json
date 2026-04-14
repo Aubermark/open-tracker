@@ -361,6 +361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02cf51fb-e939-547d-8b12-88584505f5ae",
+        "address": "3517-Sardis-Way-Yukon-OK-73099",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-04-14T17:20:06.000Z",
+        "days_on_market": "49",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.714654,
+          35.430858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02e421fc-3b7d-50d4-bb71-37894e7f8655",
         "address": "24466-W-Pueblo-Ave-Buckeye-AZ-85326",
         "beds": 3,
