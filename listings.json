@@ -529,6 +529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03e37d87-01e6-5d2a-a539-8a7d63a28447",
+        "address": "17-Crestview-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1782,
+        "listed_at": "2026-04-14T21:40:08.000Z",
+        "days_on_market": ">51",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.104081,
+          39.631982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0469e881-a50d-5e93-8387-2dfe8a3f6fdd",
         "address": "18236-N-Jameson-Dr-Maricopa-AZ-85138",
         "beds": 3,
@@ -1321,27 +1342,6 @@
         "coordinates": [
           -80.507355,
           35.016527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0aaef3b4-ec78-50ff-ae20-52f8c911a324",
-        "address": "181-Scalybark-Rd-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2575,
-        "listed_at": "2026-04-10T19:14:10.000Z",
-        "days_on_market": "4",
-        "current_price": 675000,
-        "price_label": "$675K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.231198,
-          32.968604
         ]
       }
     },
