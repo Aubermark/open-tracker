@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3173e6fc-a852-5574-aa2f-6c2fd5ac8d32",
+        "address": "636-Merioneth-Dr-Ne-Fort-Walton-Beach-FL-32547",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1638,
+        "listed_at": "2026-04-14T18:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.605332,
+          30.456456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
         "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
         "beds": 3,
@@ -11716,27 +11737,6 @@
         "coordinates": [
           -81.642962,
           35.409935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "62defc09-40c9-5c04-a61c-33403ce96fd8",
-        "address": "5375-Wandering-Way-Mason-OH-45040",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3523,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">51",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.310183,
-          39.392427
         ]
       }
     },
@@ -18967,27 +18967,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9c1ff50d-7eae-54c0-982e-b4593bf9e204",
-        "address": "9314-E-68th-Ter-Raytown-MO-64133",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1723,
-        "listed_at": "2026-04-10T19:14:10.000Z",
-        "days_on_market": ">51",
-        "current_price": 212000,
-        "price_label": "$212K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.471738,
-          38.999128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9c947c81-30d4-5865-a9b8-0bc1da7a5f4e",
         "address": "10623-Redwood-Dr-Baytown-TX-77523",
         "beds": 3,
@@ -23686,27 +23665,6 @@
         "coordinates": [
           -80.880867,
           34.088966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c63be079-815f-467c-8d14-6d7500cf3c75",
-        "address": "177-Cibolo-Creek-Loop-Bastrop-TX-78602",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2608,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">51",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.38689,
-          30.125158
         ]
       }
     },
