@@ -7921,6 +7921,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42c0aa71-9709-5e8d-b98a-949740920797",
+        "address": "231-Maggie-St-Longmont-CO-80501",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2154,
+        "listed_at": "2026-04-14T19:40:05.000Z",
+        "days_on_market": "21",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.063801,
+          40.157801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "434d8b2d-7b5c-57ae-a670-56557e558d55",
         "address": "3933-Massey-Run-Raleigh-NC-27616-17967643",
         "beds": 3,
@@ -11905,6 +11926,27 @@
         "coordinates": [
           -112.079671,
           33.655708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "638613bd-0bc6-5f17-b7a0-43fc2559ae20",
+        "address": "249-Hollingsworth-Ln-Lexington-SC-29072",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1843,
+        "listed_at": "2026-04-14T19:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.314844,
+          33.974264
         ]
       }
     },
