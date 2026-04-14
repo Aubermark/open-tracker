@@ -1180,6 +1180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09dbb271-a222-52c3-98b9-c627e8392b61",
+        "address": "5163-Tarpon-St-North-Port-FL-34286",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1464,
+        "listed_at": "2026-04-14T15:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.161824,
+          27.102327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09e33230-67ff-540e-a1f6-636c4e4f35da",
         "address": "127-Redwood-Track-Crse-Ocala-FL-34472",
         "beds": 3,
@@ -5668,6 +5689,27 @@
         "coordinates": [
           -95.432141,
           29.784819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ed008bf-9dd6-5cf1-bd26-86c53803bccd",
+        "address": "8479-Lake-Dr-Cedar-Hill-MO-63016",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1112,
+        "listed_at": "2026-04-14T15:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 184000,
+        "price_label": "$184K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.651745,
+          38.320427
         ]
       }
     },
@@ -10609,27 +10651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59ebd44e-1448-50b8-9028-8f3ff673cbca",
-        "address": "5508-Red-Tailed-Hawk-Dr-Hillsboro-MO-63050",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1120,
-        "listed_at": "2026-04-06T21:00:07.000Z",
-        "days_on_market": "8",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.573109,
-          38.239679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59ee1bb0-3f91-5226-9665-b6bb56a6a8c6",
         "address": "103-Comanche-Ct-Waxahachie-TX-75165",
         "beds": 3,
@@ -12052,6 +12073,27 @@
         "coordinates": [
           -121.542534,
           37.784858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "662a9163-1c99-55b9-9a53-ed52bacb0522",
+        "address": "133-Stowe-Ct-Fox-Lake-IL-60020",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2479,
+        "listed_at": "2026-04-14T15:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.159531,
+          42.353252
         ]
       }
     },
