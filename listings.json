@@ -5590,6 +5590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d7a0421-dd36-5fb8-974c-65fc146d320e",
+        "address": "9615-Beckwood-Post-Dr-Houston-TX-77095",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2770,
+        "listed_at": "2026-04-14T22:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.676429,
+          29.915339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d943462-0e51-50b3-9c64-91862c960f99",
         "address": "3511-Countryview-Dr-Canal-Winchester-OH-43110",
         "beds": 3,
@@ -26962,6 +26983,27 @@
         "coordinates": [
           -78.21792,
           33.989729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e285f8ee-ee88-57f9-9f2b-ed5644cd5b23",
+        "address": "161-Grove-Rd-Locust-Grove-GA-30248",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 984,
+        "listed_at": "2026-04-14T22:10:09.000Z",
+        "days_on_market": ">51",
+        "current_price": 204000,
+        "price_label": "$204K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.099586,
+          33.344048
         ]
       }
     },
