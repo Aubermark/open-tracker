@@ -5905,6 +5905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30b73ce2-1ec7-59ad-9d52-5ee5355f9e69",
+        "address": "8911-Rich-Trace-St-San-Antonio-TX-78251",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1675,
+        "listed_at": "2026-04-14T17:30:06.000Z",
+        "days_on_market": "19",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.658078,
+          29.450025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30ccad1a-f0fe-49dc-8402-e7a77e3479bd",
         "address": "1818-Irby-Ct-Tavares-FL-32778",
         "beds": 3,
