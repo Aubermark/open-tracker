@@ -10735,6 +10735,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59ee1bb0-3f91-5226-9665-b6bb56a6a8c6",
+        "address": "103-Comanche-Ct-Waxahachie-TX-75165",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1767,
+        "listed_at": "2026-04-14T14:10:06.000Z",
+        "days_on_market": "50",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.834066,
+          32.415715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "59ff4b83-862c-5e3b-aa9c-9f9fa36b412c",
         "address": "4307-Blueduck-Dr-Killeen-TX-76549",
         "beds": 3,
@@ -24673,6 +24694,27 @@
         "coordinates": [
           -74.518922,
           40.49341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce643a95-7572-5521-9904-2095ff45ea26",
+        "address": "201-Allen-Dr-O-Fallon-MO-63366",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1090,
+        "listed_at": "2026-04-14T14:10:06.000Z",
+        "days_on_market": ">51",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.697307,
+          38.819312
         ]
       }
     },
