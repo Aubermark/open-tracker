@@ -2272,6 +2272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
+        "address": "659-Day-Break-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1729,
+        "listed_at": "2026-04-14T18:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.119073,
+          39.590031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1281c288-ea3a-5648-b1d6-8c1914cd172a",
         "address": "4731-Stable-Holw-San-Antonio-TX-78244",
         "beds": 3,
@@ -22636,6 +22657,27 @@
         "coordinates": [
           -82.309464,
           34.765004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bb4a65e2-0666-44d4-9fc9-ecbc38d43c13",
+        "address": "163-Paddle-Boat-Way-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2072,
+        "listed_at": "2026-04-14T18:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.255135,
+          32.923293
         ]
       }
     },
