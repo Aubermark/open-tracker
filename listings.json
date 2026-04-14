@@ -718,27 +718,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0676da39-873f-55bf-8faf-7c79a73c0132",
-        "address": "3012-Hill-St-Round-Rock-TX-78664",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1363,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "25",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.619191,
-          30.489285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "06a4c315-ed25-54e3-8ce6-934e06ae2be0",
         "address": "9065-Cinnabay-Dr-Charlotte-NC-28216",
         "beds": 2,
@@ -15607,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ecd2cfa-63aa-5599-afb4-9736fb73b784",
+        "address": "17790-N-114th-Ln-Surprise-AZ-85374",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1833,
+        "listed_at": "2026-04-14T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.306684,
+          33.645125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ee9bbfb-06bc-464f-a0df-c6ef1470ea52",
         "address": "169-Corapeake-Way-Apex-NC-27539",
         "beds": 4,
@@ -26716,6 +26716,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dffe9710-8427-4f13-ae81-089d89407b1e",
+        "address": "11079-Roaring-Fork-St-Caldwell-ID-83605",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2485,
+        "listed_at": "2026-04-14T21:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.614876,
+          43.666775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e064e109-6abe-50ea-acd7-007f90456f91",
         "address": "14012-Underclift-St-Nw-Andover-MN-55304",
         "beds": 3,
@@ -28306,27 +28327,6 @@
         "coordinates": [
           -84.693107,
           33.355948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "edc53a6f-33e4-5bc6-ad0d-b593dbba524a",
-        "address": "5580-E-10th-Ave-Apache-Junction-AZ-85119",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3582,
-        "listed_at": "2026-04-14T19:50:07.000Z",
-        "days_on_market": "0",
-        "current_price": 780000,
-        "price_label": "$780K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.485841,
-          33.406419
         ]
       }
     },
