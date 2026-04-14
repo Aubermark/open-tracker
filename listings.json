@@ -5527,27 +5527,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2d19faa3-8f94-5230-a9b4-cd6605747878",
-        "address": "916-Longfellow-Ave-Royal-Oak-MI-48067",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1897,
-        "listed_at": "2026-04-13T22:00:09.000Z",
-        "days_on_market": "1",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.13489,
-          42.48191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2d378a0a-d73f-5c7f-ba52-8ecb8f430145",
         "address": "400-Caravaggio-Cir-Sacramento-CA-95835",
         "beds": 3,
@@ -28348,6 +28327,27 @@
         "coordinates": [
           -84.693107,
           33.355948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "edc53a6f-33e4-5bc6-ad0d-b593dbba524a",
+        "address": "5580-E-10th-Ave-Apache-Junction-AZ-85119",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3582,
+        "listed_at": "2026-04-14T19:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.485841,
+          33.406419
         ]
       }
     },
