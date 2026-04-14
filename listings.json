@@ -151,6 +151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01101734-0302-5602-89ac-a787f5df7fa3",
+        "address": "3896-Sheffield-Park-Way-Westfield-IN-46074",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3356,
+        "listed_at": "2026-04-14T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 492000,
+        "price_label": "$492K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.102069,
+          40.049359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01280b8a-31b9-5a6e-a756-2f4e23a1f720",
         "address": "21016-68th-Street-Ct-E-Bonney-Lake-WA-98391",
         "beds": 3,
@@ -14662,6 +14683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78132bde-3d9e-56c0-9aed-c8fe16344f45",
+        "address": "251-Sugnet-Way-Sacramento-CA-95838",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1715,
+        "listed_at": "2026-04-14T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 482000,
+        "price_label": "$482K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.461501,
+          38.63674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "786229ee-6952-57d0-b705-76ef3fa9e803",
         "address": "14509-N-126th-Ave-El-Mirage-AZ-85335",
         "beds": 3,
@@ -27928,6 +27970,27 @@
         "coordinates": [
           -82.93373,
           42.461596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec7c4f6e-2c82-5c59-808d-5232c904fa6f",
+        "address": "14102-Vindel-Cir-Fort-Myers-FL-33905",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2606,
+        "listed_at": "2026-04-14T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.722566,
+          26.692704
         ]
       }
     },
