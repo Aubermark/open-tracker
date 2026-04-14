@@ -22642,6 +22642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba97ce88-503e-5bfc-8f56-ebc82ba0c124",
+        "address": "984-Forest-Pond-Ct-Marietta-GA-30068",
+        "beds": 6,
+        "baths": 3.5,
+        "sqft": 4964,
+        "listed_at": "2026-04-14T01:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.394911,
+          33.973028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb0b03cc-be5f-56b2-aff9-733032d8af49",
         "address": "5326-Elmwood-Ln-Middletown-OH-45044",
         "beds": 5,
