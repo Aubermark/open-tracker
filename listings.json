@@ -13486,6 +13486,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6eabf6b1-21c4-51a2-90a2-b941c7b430f9",
+        "address": "7009-Whisperwood-Ave-Spring-Hill-TN-37174",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2749,
+        "listed_at": "2026-04-14T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.891215,
+          35.770368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6eb1b0fc-0f3a-557c-b948-c6eded618af6",
         "address": "105-Kings-Way-Dr-Rhome-TX-76078",
         "beds": 3,
@@ -16084,27 +16105,6 @@
         "coordinates": [
           -96.642278,
           33.196904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "838ff700-778c-53a6-b599-eaf848f4e34b",
-        "address": "3419-Router-Cmn-Fremont-CA-94538",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 1891,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">51",
-        "current_price": 1247000,
-        "price_label": "$1.247M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.94563,
-          37.505266
         ]
       }
     },
@@ -23965,6 +23965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c9e22545-9e13-5b4c-b774-c193aac92da1",
+        "address": "2722-E-Nisbet-Rd-Phoenix-AZ-85032",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1727,
+        "listed_at": "2026-04-14T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 616000,
+        "price_label": "$616K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.023466,
+          33.622851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca2ba9a7-e43c-5da0-bbbd-87e3d9793642",
         "address": "310-Allatoona-Rd-Lawrenceville-GA-30043",
         "beds": 3,
@@ -30070,6 +30091,27 @@
         "coordinates": [
           -122.752172,
           45.462279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "feda87c4-955e-5ce9-80c7-5b7335fe560f",
+        "address": "6901-Malvern-Ct-Lithonia-GA-30038",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1624,
+        "listed_at": "2026-04-14T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.116637,
+          33.630921
         ]
       }
     },
