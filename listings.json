@@ -13822,6 +13822,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7065fa73-4273-55f0-9592-d9aa2e8df1a7",
+        "address": "1951-Pin-Oak-Dr-Flower-Mound-TX-75028",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2352,
+        "listed_at": "2026-04-14T20:50:10.000Z",
+        "days_on_market": "24",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.057617,
+          33.042258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "70b4386c-29cb-50e3-a6ec-dcc402cef52c",
         "address": "8615-Virginia-Cir-N-St-Louis-Park-MN-55426",
         "beds": 3,
@@ -21508,6 +21529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1b0c2cd-69e6-5685-80c9-46423fa0345d",
+        "address": "2521-Winged-Dove-Dr-League-City-TX-77573",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1956,
+        "listed_at": "2026-04-14T20:50:10.000Z",
+        "days_on_market": "6",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.125815,
+          29.471383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1b0dc17-1abf-49d2-b44b-1f189bbba5e8",
         "address": "914-Lucent-St-El-Dorado-Hills-CA-95762",
         "beds": 3,
@@ -22342,27 +22384,6 @@
         "coordinates": [
           -86.397042,
           36.187767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8c9e7b7-f1cf-526e-b672-dd15e3223064",
-        "address": "8545-Trail-Wind-Dr-Tampa-FL-33647",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1144,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "38",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.366881,
-          28.167102
         ]
       }
     },
