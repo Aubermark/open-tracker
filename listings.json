@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0052fadc-b091-547e-8196-b9fe5714b547",
+        "address": "205-Snapper-Way-Kissimmee-FL-34759",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1282,
+        "listed_at": "2026-04-14T22:00:07.000Z",
+        "days_on_market": ">51",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498465,
+          28.076917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00b3f0f4-48ac-5ca4-95e0-536ab1c6a2b6",
         "address": "102-Se-43rd-Ln-Cape-Coral-FL-33904",
         "beds": 3,
@@ -17281,6 +17302,27 @@
         "coordinates": [
           -110.88167,
           32.234173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8c1ee2cc-af7d-5062-b8d1-b575c13987c0",
+        "address": "1704-River-Oak-Ln-Royse-City-TX-75189",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-04-14T22:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.281923,
+          32.98628
         ]
       }
     },
