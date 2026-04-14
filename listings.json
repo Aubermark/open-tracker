@@ -8110,6 +8110,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44d8988d-bebe-5d75-bcd2-1948e6a45f48",
+        "address": "1355-Mills-Cove-Dr-Covington-GA-30016",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2178,
+        "listed_at": "2026-04-14T00:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.944218,
+          33.56541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45687d56-ce67-599e-9e22-389fa335f66a",
         "address": "436-Cleveland-Ave-Lincoln-Park-MI-48146",
         "beds": 3,
@@ -22489,27 +22510,6 @@
         "coordinates": [
           -80.346896,
           27.311477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b9ea633f-4cdb-5a04-8762-fb9fcf1c9830",
-        "address": "1803-W-Kiowa-Cir-Mesa-AZ-85202",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1555,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "41",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.873588,
-          33.374826
         ]
       }
     },
