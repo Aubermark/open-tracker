@@ -10966,6 +10966,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c09e631-9c0e-5801-af26-ca7a105a279d",
+        "address": "10225-Mangrove-Well-Rd-Ruskin-FL-33573-17896607",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2447,
+        "listed_at": "2026-04-14T19:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.336818,
+          27.742109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c10db61-ab4d-4e54-8017-4759af75a797",
         "address": "7794-Desert-Wrangler-Dr-Colorado-Springs-CO-80908",
         "beds": 4,
@@ -13942,27 +13963,6 @@
         "coordinates": [
           -111.707458,
           33.346538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7365ef06-7c17-5fa0-80cd-673df9c198ac",
-        "address": "3993-Suburban-Ln-North-Port-FL-34287",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1259,
-        "listed_at": "2026-04-03T06:53:13.000Z",
-        "days_on_market": "12",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.203958,
-          27.042337
         ]
       }
     },
