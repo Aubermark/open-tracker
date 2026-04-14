@@ -7417,6 +7417,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3dfe40f1-6453-5a33-80e5-3fbefca1932b",
+        "address": "1612-E-University-St-Bloomington-IN-47401",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2378,
+        "listed_at": "2026-04-14T17:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.513312,
+          39.159862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e5c3ee2-57ba-5c5e-bac5-1de759a98265",
         "address": "6218-Old-Corral-St-Charlotte-NC-28277",
         "beds": 3,
