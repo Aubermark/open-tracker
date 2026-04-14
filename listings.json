@@ -20647,27 +20647,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ab361f99-07f7-51a8-860d-d6482adfba22",
-        "address": "16131-W-Port-Royale-Ln-Surprise-AZ-85379",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2958,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "19",
-        "current_price": 449000,
-        "price_label": "$449K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.406074,
-          33.619641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ab6e3d5b-37b8-5e07-bc98-5e5327b00bd1",
         "address": "116-San-Jacinto-Hutto-TX-78634",
         "beds": 3,
@@ -27298,6 +27277,27 @@
         "coordinates": [
           -78.882904,
           35.991228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e7a2bea7-9c43-58af-b8fa-9aca2d1eddcc",
+        "address": "321-Beacon-Hill-Dr-Allen-TX-75013",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3133,
+        "listed_at": "2026-04-14T16:30:06.000Z",
+        "days_on_market": ">51",
+        "current_price": 608000,
+        "price_label": "$608K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.704409,
+          33.104357
         ]
       }
     },
