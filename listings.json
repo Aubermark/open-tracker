@@ -2986,6 +2986,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16797c8c-c11b-55e1-8dd8-e977c6615b80",
+        "address": "172-Watercress-Ct-Stockbridge-GA-30281",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1380,
+        "listed_at": "2026-04-14T01:50:08.000Z",
+        "days_on_market": "0",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24876,
+          33.508523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16a0be1e-6433-5349-bf47-814629ed055b",
         "address": "6057-Buena-Suerte-Rd-Yucca-Valley-CA-92284",
         "beds": 3,
