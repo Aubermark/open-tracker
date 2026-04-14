@@ -20269,6 +20269,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a6537fc8-108e-5ab1-90af-b3ba430ad59c",
+        "address": "12-Buckland-Ct-White-GA-30184",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1817,
+        "listed_at": "2026-04-14T02:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.710944,
+          34.23834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a66b21bc-1422-5f8c-9944-20205e29f7e2",
         "address": "2243-Bolton-St-Saint-Charles-MO-63301",
         "beds": 3,
