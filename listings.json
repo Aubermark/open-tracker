@@ -11995,6 +11995,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6539776f-cb15-5dbd-94d6-d53c81e73483",
+        "address": "4393-Sw-Calah-Cir-Port-Saint-Lucie-FL-34953",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1234,
+        "listed_at": "2026-04-14T15:00:06.000Z",
+        "days_on_market": ">51",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.341056,
+          27.215534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65428fb6-28d3-527d-b2d9-1947cb2abafe",
         "address": "1539-Biscayne-Bay-Dr-Jacksonville-FL-32218",
         "beds": 2,
@@ -30007,6 +30028,27 @@
         "coordinates": [
           -84.017292,
           33.908426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe68b74d-9fbb-5e0b-b272-480afdd90e72",
+        "address": "216-Ne-Greystone-Way-Grain-Valley-MO-64029",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1926,
+        "listed_at": "2026-04-14T15:00:06.000Z",
+        "days_on_market": ">51",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.19314,
+          39.028962
         ]
       }
     },
