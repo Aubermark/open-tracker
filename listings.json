@@ -6808,6 +6808,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a3b216c-602f-54e5-91db-39e2040b2e39",
+        "address": "13331-Harpley-Ct-Alpharetta-GA-30004",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2064,
+        "listed_at": "2026-04-14T21:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.260365,
+          34.105188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3a53aff9-8329-514a-b692-df447b771b53",
         "address": "1602-Pleasant-Ln-Copperas-Cove-TX-76522",
         "beds": 3,
@@ -19759,27 +19780,6 @@
         "coordinates": [
           -80.11689,
           32.947414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a23fc663-c3c4-5f34-8d75-f3c836b5bd97",
-        "address": "8833-Deer-Run-Ct-Indianapolis-IN-46256",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1358,
-        "listed_at": "2026-04-09T16:30:05.000Z",
-        "days_on_market": "5",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.01194,
-          39.914022
         ]
       }
     },
