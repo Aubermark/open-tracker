@@ -18274,6 +18274,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92b611cd-cbcd-59c6-a0fb-1d7673a74538",
+        "address": "217-Crestwood-Dr-Whiteland-IN-46184",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 925,
+        "listed_at": "2026-04-15T19:20:09.000Z",
+        "days_on_market": ">52",
+        "current_price": 186000,
+        "price_label": "$186K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.100205,
+          39.552893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92f11cc7-1f45-5965-8699-4d33edf329f5",
         "address": "6332-Downeast-Dr-Fort-Worth-TX-76179",
         "beds": 3,
