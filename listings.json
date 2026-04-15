@@ -25792,6 +25792,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d572a259-d445-5f99-9291-0064d8263dab",
+        "address": "38235-W-La-Paz-St-Maricopa-AZ-85138",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2515,
+        "listed_at": "2026-04-15T10:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.978125,
+          33.055668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d591f831-1e9c-5789-a621-413401c3f28f",
         "address": "112-Coopers-Hawk-Cir-Irmo-SC-29063",
         "beds": 4,
