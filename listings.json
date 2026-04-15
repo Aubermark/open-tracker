@@ -9307,6 +9307,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4d4d8993-8123-5c08-a6ea-4a2dfd01cca7",
+        "address": "5609-Executive-Dr-New-Port-Richey-FL-34652",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2692,
+        "listed_at": "2026-04-15T16:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.716836,
+          28.240644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d5818eb-7f93-5678-bad8-d845b1fcabb1",
         "address": "10-Perrot-St-Worcester-MA-01602",
         "beds": 4,
