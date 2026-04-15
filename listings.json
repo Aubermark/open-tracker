@@ -2986,6 +2986,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1688034b-0987-519e-872e-755ed51bab5c",
+        "address": "3215-W-Pollack-St-Phoenix-AZ-85041",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2167,
+        "listed_at": "2026-04-15T10:20:11.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.128075,
+          33.379832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16a0be1e-6433-5349-bf47-814629ed055b",
         "address": "6057-Buena-Suerte-Rd-Yucca-Valley-CA-92284",
         "beds": 3,
