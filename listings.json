@@ -5212,27 +5212,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2a04f290-3908-5c87-9d0f-2b1fa6eefa5d",
-        "address": "4442-Rolling-Pine-Dr-West-Bloomfield-MI-48323",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 3278,
-        "listed_at": "2026-04-13T20:30:07.000Z",
-        "days_on_market": "23",
-        "current_price": 597000,
-        "price_label": "$597K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.414441,
-          42.571288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2ad894da-c5d8-511a-8259-b70e2f388c42",
         "address": "1696-Chatham-Cir-Apopka-FL-32703",
         "beds": 3,
@@ -7726,6 +7705,27 @@
         "coordinates": [
           -94.696813,
           38.95692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40c739ce-74fd-562a-bd87-3c83efea6203",
+        "address": "602-Torero-Dr-Little-Elm-TX-75068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1269,
+        "listed_at": "2026-04-15T16:30:08.000Z",
+        "days_on_market": "9",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.993071,
+          33.183778
         ]
       }
     },
@@ -15586,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e4f66c0-44bf-5017-b582-04d602bbd10a",
+        "address": "7847-N-Winding-Trl-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-04-15T16:30:08.000Z",
+        "days_on_market": "13",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.333361,
+          34.656039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e511983-faa8-5f52-b31e-a06475ae39fe",
         "address": "415-Piedmont-Cir-Covington-GA-30016",
         "beds": 6,
@@ -19465,27 +19486,6 @@
         "coordinates": [
           -78.627916,
           35.776395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9fff13b7-aa83-5ea0-b003-939a45f43422",
-        "address": "225-Griffin-Park-Rd-Griffin-GA-30223",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1360,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">52",
-        "current_price": 166000,
-        "price_label": "$166K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.219963,
-          33.237862
         ]
       }
     },
