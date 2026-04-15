@@ -4393,27 +4393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2383ae28-c14a-5539-92b9-da8df597364f",
-        "address": "11402-W-1200-N-Monticello-IN-47960",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1815,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "42",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.744951,
-          40.723262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2390f3bc-3e52-5b18-bb9e-bf83f20dc95a",
         "address": "310-Mitchell-St-Belmont-NC-28012",
         "beds": 3,
@@ -12226,27 +12205,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "658870d6-62c6-5ec2-a2e8-2f05363d7412",
-        "address": "2813-Wood-Dr-Ne-Center-Point-AL-35215",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1899,
-        "listed_at": "2026-04-13T23:30:06.000Z",
-        "days_on_market": "2",
-        "current_price": 188000,
-        "price_label": "$188K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.67751,
-          33.659407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "65914b1c-cb4d-5495-9b74-f4e0d85c286a",
         "address": "11037-Wyndham-Pointe-Dr-Charlotte-NC-28213",
         "beds": 3,
@@ -18226,6 +18184,27 @@
         "coordinates": [
           -122.491416,
           45.500104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92b611cd-cbcd-59c6-a0fb-1d7673a74538",
+        "address": "217-Crestwood-Dr-Whiteland-IN-46184",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 925,
+        "listed_at": "2026-04-15T16:40:07.000Z",
+        "days_on_market": ">52",
+        "current_price": 186000,
+        "price_label": "$186K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.100205,
+          39.552893
         ]
       }
     },
