@@ -13297,6 +13297,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bf4b8dd-40c5-50bf-80ac-b3522b804788",
+        "address": "13789-Bretton-Dr-Soddy-Daisy-TN-37379",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 640,
+        "listed_at": "2026-04-15T19:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 184000,
+        "price_label": "$184K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.086339,
+          35.327048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bf6c914-de1e-5774-8f58-47560c59e597",
         "address": "50-Deer-Grove-Dr-Saint-Peters-MO-63376",
         "beds": 2,
@@ -18247,27 +18268,6 @@
         "coordinates": [
           -122.491416,
           45.500104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "92b611cd-cbcd-59c6-a0fb-1d7673a74538",
-        "address": "217-Crestwood-Dr-Whiteland-IN-46184",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 925,
-        "listed_at": "2026-04-15T16:40:07.000Z",
-        "days_on_market": ">52",
-        "current_price": 186000,
-        "price_label": "$186K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.100205,
-          39.552893
         ]
       }
     },
