@@ -1012,6 +1012,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "083a9e19-7c00-5d7d-8626-8489e12e62ea",
+        "address": "1514-Willow-Gate-Way-Auburn-GA-30011",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-04-15T21:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8469,
+          34.00056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "084e1d1b-b85b-5e55-a762-f73f6036aa5f",
         "address": "2819-Burdette-Dr-Augusta-GA-30909",
         "beds": 3,
@@ -18373,6 +18394,27 @@
         "coordinates": [
           -111.212953,
           32.433223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "931ddef3-561f-50ab-ab06-498e3bcfd4a9",
+        "address": "15140-N-174th-Dr-Surprise-AZ-85388",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2581,
+        "listed_at": "2026-04-15T21:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.434757,
+          33.622374
         ]
       }
     },
