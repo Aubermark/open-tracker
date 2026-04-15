@@ -25141,6 +25141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cf472325-cc8a-529a-b59b-7f5faf775153",
+        "address": "4150-W-Medlock-Dr-Phoenix-AZ-85019",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1332,
+        "listed_at": "2026-04-15T20:00:07.000Z",
+        "days_on_market": "47",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.148619,
+          33.513037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cf94c9b7-6a80-5211-aa08-a1cc64fd1c8f",
         "address": "7423-Pool-Compass-Loop-Wesley-Chapel-FL-33545",
         "beds": 3,
@@ -29314,6 +29335,27 @@
         "coordinates": [
           -85.942369,
           39.89897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f462db11-ea3d-551d-85ff-4840d2387676",
+        "address": "2232-Bradford-Pear-Dr-Little-Elm-TX-75068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-04-15T20:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.902802,
+          33.176803
         ]
       }
     },
