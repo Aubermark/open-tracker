@@ -16552,6 +16552,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "861f75c4-472f-5437-a442-1a3c170c7d3f",
+        "address": "905-Kensal-Green-Dr-Kernersville-NC-27284",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1886,
+        "listed_at": "2026-04-15T14:40:06.000Z",
+        "days_on_market": "34",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.053555,
+          36.126532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "862cf263-07f9-5c05-bc2a-7d02ab09567a",
         "address": "10073-Wintercreeper-Ct-Plain-City-OH-43064",
         "beds": 4,
