@@ -22243,6 +22243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b69dd48d-84c9-599c-a7c4-b98bc35890a7",
+        "address": "2976-Claymille-Blvd-Nashville-TN-37207",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2512,
+        "listed_at": "2026-04-15T13:30:06.000Z",
+        "days_on_market": "20",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802713,
+          36.228218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6b293b8-fbb5-56fa-a25b-57a3a627fed6",
         "address": "433-Heath-Pl-Smyrna-TN-37167",
         "beds": 3,
