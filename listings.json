@@ -6010,6 +6010,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30e46b9a-5508-501f-aad6-de94abbdab56",
+        "address": "152-Whitehall-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1876,
+        "listed_at": "2026-04-15T19:40:06.000Z",
+        "days_on_market": ">52",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.408671,
+          36.597099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3112b687-0a9a-5ceb-91b4-aa7037712362",
         "address": "18803-N-33rd-Dr-Phoenix-AZ-85027",
         "beds": 2,
