@@ -13948,6 +13948,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "712154e2-6bd8-5301-a4c2-e8f1ae0f1c53",
+        "address": "1309-Winding-Brook-Dr-Garland-TX-75044",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3673,
+        "listed_at": "2026-04-15T18:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.646815,
+          32.9835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "718e45f6-736b-520c-a3d3-e0a989715423",
         "address": "104-Perpetuation-Dr-Austin-TX-78734",
         "beds": 3,
@@ -18982,27 +19003,6 @@
         "coordinates": [
           -84.19986,
           33.101055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9a4bf35c-cdce-5340-a200-1abb164701ef",
-        "address": "414-Shady-Willow-Ln-Rolesville-NC-27571",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1942,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "14",
-        "current_price": 386000,
-        "price_label": "$386K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.461971,
-          35.932623
         ]
       }
     },
