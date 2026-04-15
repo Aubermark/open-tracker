@@ -20416,6 +20416,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a66e2fe1-2f5e-5b1f-9297-64ccda84735c",
+        "address": "3214-Ringtail-Ln-Charlotte-NC-28216",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2280,
+        "listed_at": "2026-04-15T17:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.910175,
+          35.318724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a6819f24-f379-523b-a6c3-b1b3c64f2904",
         "address": "3495-Cattle-Dr-Sacramento-CA-95834",
         "beds": 2,
