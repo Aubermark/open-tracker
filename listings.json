@@ -23839,27 +23839,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c34e72b0-76f0-53d1-bd91-6cb4809494b2",
-        "address": "3546-Broad-Oak-Ct-Decatur-GA-30034",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2332,
-        "listed_at": "2026-04-11T07:22:08.000Z",
-        "days_on_market": "5",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.267319,
-          33.678819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c3672f46-25fe-42e0-a369-fd29a15453b2",
         "address": "3720-Los-Cabos-Dr-Mustang-OK-73064",
         "beds": 3,
@@ -29146,6 +29125,27 @@
         "coordinates": [
           -84.23368,
           33.712014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f3817e46-9231-5dcd-905b-b68c39969a41",
+        "address": "7033-Brightwork-Ln-#-1019-C-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1545,
+        "listed_at": "2026-04-15T17:30:09.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.843206,
+          35.286217
         ]
       }
     },
