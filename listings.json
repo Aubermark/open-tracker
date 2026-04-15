@@ -22306,6 +22306,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6bf0602-848e-5c66-a4d9-81a3b835da18",
+        "address": "143-Easton-Dr-South-Lyon-MI-48178",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3978,
+        "listed_at": "2026-04-15T17:00:06.000Z",
+        "days_on_market": "16",
+        "current_price": 553000,
+        "price_label": "$553K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.638384,
+          42.458764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6f48992-85f9-5915-8a3f-b3e68e475912",
         "address": "1930-Ne-23rd-Ter-Jensen-Beach-FL-34957",
         "beds": 3,
@@ -27865,27 +27886,6 @@
         "coordinates": [
           -115.065505,
           36.237452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ea913e5f-dd08-5965-b1b4-7753fece7f67",
-        "address": "9663-W-Canyon-Ter-Unit-1-San-Diego-CA-92123",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1100,
-        "listed_at": "2026-03-02T21:00:07.000Z",
-        "days_on_market": "44",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.118743,
-          32.802251
         ]
       }
     },
