@@ -7333,6 +7333,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d12a72f-03b1-5761-9659-f7ce85aa533f",
+        "address": "4209-Hickory-St-Macclenny-FL-32063",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2976,
+        "listed_at": "2026-04-15T17:10:09.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.110881,
+          30.250317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d3229f5-42e7-588c-ba94-ab6dad56117e",
         "address": "404-W-6th-St-Irving-TX-75060",
         "beds": 3,
