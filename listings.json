@@ -26128,6 +26128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d8515769-4817-5ee2-b51d-6d42a33e0a4d",
+        "address": "1918-Spring-Ave-Atlanta-GA-30344",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 702,
+        "listed_at": "2026-04-15T19:30:08.000Z",
+        "days_on_market": "0",
+        "current_price": 184000,
+        "price_label": "$184K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.451272,
+          33.687191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d85aef6a-f71f-5662-801d-1937ed631fc0",
         "address": "412-Black-Forest-Dr-Clayton-NC-27527",
         "beds": 3,
