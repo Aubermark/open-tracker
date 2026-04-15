@@ -3763,6 +3763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f34f117-49f2-5de2-a026-a4ad581b73e5",
+        "address": "2120-Village-Green-Dr-Fairburn-GA-30213",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1951,
+        "listed_at": "2026-04-15T19:00:07.000Z",
+        "days_on_market": ">52",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.597037,
+          33.58645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f617872-ae9b-54af-8bc1-e66e8c6bd3ae",
         "address": "5924-Mc-Dowell-Run-Dr-Huntersville-NC-28078",
         "beds": 3,
@@ -19318,27 +19339,6 @@
         "coordinates": [
           -96.56637,
           33.321644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9e761df9-e27a-526e-ba40-8f31f1893d9e",
-        "address": "5908-Tee-Pee-Trce-Antioch-TN-37013",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2139,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">52",
-        "current_price": 446000,
-        "price_label": "$446K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.680035,
-          36.010696
         ]
       }
     },
