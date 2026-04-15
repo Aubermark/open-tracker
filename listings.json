@@ -19849,6 +19849,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1af9fc1-37bb-50c5-b5a5-00e1172ea578",
+        "address": "8532-Hawley-Way-Elk-Grove-CA-95624",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1776,
+        "listed_at": "2026-04-15T20:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.40145,
+          38.447062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1dca753-d198-5325-ba31-cf506db073af",
         "address": "6263-Paseo-Callado-Carlsbad-CA-92009",
         "beds": 3,
@@ -26563,27 +26584,6 @@
         "coordinates": [
           -98.539272,
           29.337621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc12d94d-bee7-571c-baa6-eaa57ca79e17",
-        "address": "10454-Iron-Gate-Ln-Jonesboro-GA-30238",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1387,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">52",
-        "current_price": 223000,
-        "price_label": "$223K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.355245,
-          33.469956
         ]
       }
     },
