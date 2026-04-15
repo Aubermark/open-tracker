@@ -5674,6 +5674,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e371e42-80b3-51a0-8361-1dda8d75256a",
+        "address": "51-Oakleigh-Ln-Maitland-FL-32751",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 4149,
+        "listed_at": "2026-04-15T16:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 1240000,
+        "price_label": "$1.240M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.354273,
+          28.62641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e4d0f15-a1c5-5b23-92d1-7ef88d30bbac",
         "address": "6625-Letein-St-Houston-TX-77008",
         "beds": 3,
@@ -8986,6 +9007,27 @@
         "coordinates": [
           -90.309207,
           38.812429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4af2a03c-61af-5ac2-8df7-275e55b2fb8e",
+        "address": "",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1619,
+        "listed_at": "2026-04-15T16:50:07.000Z",
+        "days_on_market": ">52",
+        "current_price": 419000,
+        "price_label": "$419K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62868,
+          42.354853
         ]
       }
     },
