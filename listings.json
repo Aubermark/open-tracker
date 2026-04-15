@@ -403,6 +403,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02cf51fb-e939-547d-8b12-88584505f5ae",
+        "address": "3517-Sardis-Way-Yukon-OK-73099",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-04-15T15:30:05.000Z",
+        "days_on_market": "50",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.714654,
+          35.430858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02e421fc-3b7d-50d4-bb71-37894e7f8655",
         "address": "24466-W-Pueblo-Ave-Buckeye-AZ-85326",
         "beds": 3,
@@ -544,6 +565,27 @@
         "coordinates": [
           -90.550844,
           38.732411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "03e37d87-01e6-5d2a-a539-8a7d63a28447",
+        "address": "17-Crestview-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1782,
+        "listed_at": "2026-04-15T15:30:05.000Z",
+        "days_on_market": ">52",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.104081,
+          39.631982
         ]
       }
     },
@@ -18820,27 +18862,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "99bf3c22-5761-59c2-b0d9-cfbfd5cf1009",
-        "address": "1302-Belvon-Pl-Cleburne-TX-76033",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1783,
-        "listed_at": "2026-04-07T21:00:05.000Z",
-        "days_on_market": "8",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.407575,
-          32.345712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "99d10176-2ccf-5b73-a7fa-ba359dd695f0",
         "address": "479-Grand-National-Ln-Elgin-SC-29045",
         "beds": 4,
@@ -22027,6 +22048,27 @@
         "coordinates": [
           -83.051943,
           40.124793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b53b5aac-1721-5c2e-a7dd-16607d99cab9",
+        "address": "39823-Knollridge-Dr-Temecula-CA-92591",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 904,
+        "listed_at": "2026-04-15T15:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.148614,
+          33.541178
         ]
       }
     },
