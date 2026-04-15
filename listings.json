@@ -3175,6 +3175,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1950092c-afac-5725-b371-2824a4fe44a4",
+        "address": "706-Crescent-Dr-Cherryville-NC-28021",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3978,
+        "listed_at": "2026-04-15T19:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 523000,
+        "price_label": "$523K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.370569,
+          35.373474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "195b52a1-a918-5d1d-ae4a-c74e6923fc96",
         "address": "224-Pinecrest-Ct-Roseville-CA-95678",
         "beds": 4,
@@ -19387,6 +19408,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e761df9-e27a-526e-ba40-8f31f1893d9e",
+        "address": "5908-Tee-Pee-Trce-Antioch-TN-37013",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2139,
+        "listed_at": "2026-04-15T19:50:06.000Z",
+        "days_on_market": ">52",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.680035,
+          36.010696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9eb3645a-3dc1-409f-846b-9a4eb389e835",
         "address": "9435-Gulf-Shore-Ter-Parrish-FL-34219",
         "beds": 4,
@@ -24883,27 +24925,6 @@
         "coordinates": [
           -74.518922,
           40.49341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce643a95-7572-5521-9904-2095ff45ea26",
-        "address": "201-Allen-Dr-O-Fallon-MO-63366",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1090,
-        "listed_at": "2026-04-14T14:10:06.000Z",
-        "days_on_market": ">52",
-        "current_price": 234000,
-        "price_label": "$234K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.697307,
-          38.819312
         ]
       }
     },
