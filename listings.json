@@ -30286,6 +30286,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fe621b82-71f1-5c43-821f-d2d706e5ff83",
+        "address": "3367-Turkey-Creek-Dr-Green-Cove-Springs-FL-32043",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3056,
+        "listed_at": "2026-04-15T14:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.698097,
+          30.000962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe68b74d-9fbb-5e0b-b272-480afdd90e72",
         "address": "216-Ne-Greystone-Way-Grain-Valley-MO-64029",
         "beds": 4,
