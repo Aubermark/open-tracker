@@ -2020,27 +2020,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0f6c24fa-6d62-553e-99ea-a2dd8c833f99",
-        "address": "4474-Lake-Blvd-Clearwater-FL-33762",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1149,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">52",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.693419,
-          27.866543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0f8b483a-1667-5dee-a404-b2d21281885d",
         "address": "3302-Windsor-St-Pearland-TX-77581",
         "beds": 3,
@@ -20389,6 +20368,27 @@
         "coordinates": [
           -90.541591,
           38.794136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a6819f24-f379-523b-a6c3-b1b3c64f2904",
+        "address": "3495-Cattle-Dr-Sacramento-CA-95834",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 941,
+        "listed_at": "2026-04-15T15:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493072,
+          38.631323
         ]
       }
     },
