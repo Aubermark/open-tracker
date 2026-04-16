@@ -3091,6 +3091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17f0cef9-f68d-59ae-a4da-a80d084b8c45",
+        "address": "1614-Colfax-Dr-Se-Concord-NC-28025",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1970,
+        "listed_at": "2026-04-16T18:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.536759,
+          35.392836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "182d08ba-b46a-5a69-b654-60b0f1f437a2",
         "address": "707-Willowmoore-Ave-Thomasville-NC-27360",
         "beds": 3,
