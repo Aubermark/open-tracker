@@ -7417,6 +7417,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d1de655-dec0-59d1-b944-93e2503ef618",
+        "address": "257-Indian-Ridge-Ln-Lake-Villa-IL-60046",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1614,
+        "listed_at": "2026-04-16T20:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07618,
+          42.401099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d3229f5-42e7-588c-ba94-ab6dad56117e",
         "address": "404-W-6th-St-Irving-TX-75060",
         "beds": 3,
@@ -20221,27 +20242,6 @@
         "coordinates": [
           -83.100655,
           40.090093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a48f6d28-f288-5933-ae86-bd6e39b37ff6",
-        "address": "6955-80th-Ave-N-Pinellas-Park-FL-33781",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1547,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">53",
-        "current_price": 364000,
-        "price_label": "$364K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.735221,
-          27.844491
         ]
       }
     },
