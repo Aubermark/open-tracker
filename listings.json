@@ -4750,6 +4750,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26f9ae11-1033-55bb-b853-aeaee8b2ac4f",
+        "address": "1901-Parrish-Dr-Columbia-SC-29206",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3009,
+        "listed_at": "2026-04-16T19:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 850000,
+        "price_label": "$850K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.974574,
+          34.024768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27073c58-3fd6-575b-9d4a-8c201e6d2b11",
         "address": "14719-Sandy-Ridge-Rd-Lake-Hughes-CA-93532",
         "beds": 3,
