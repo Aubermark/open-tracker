@@ -1495,6 +1495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b9c2bd6-d735-5315-b73f-0a5a36d59589",
+        "address": "3226-Ne-30th-Ct-Ocala-FL-34479",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1508,
+        "listed_at": "2026-04-16T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.095353,
+          29.220118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bbb376e-0383-497e-8a22-4ed5a5f55abd",
         "address": "1613-Couser-Ave-New-Braunfels-TX-78132",
         "beds": 3,
@@ -3022,6 +3043,27 @@
         "coordinates": [
           -112.128075,
           33.379832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1699219b-2b30-57de-a0c4-c7822649f37b",
+        "address": "4507-Malvern-Rd-Durham-NC-27707",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1916,
+        "listed_at": "2026-04-16T19:20:06.000Z",
+        "days_on_market": "28",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.958738,
+          35.929211
         ]
       }
     },
@@ -7684,6 +7726,27 @@
         "coordinates": [
           -86.515864,
           35.98356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3f73d69f-6a63-5f1a-889a-276c480eef35",
+        "address": "192-Solheim-Ln-Raleigh-NC-27603",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2386,
+        "listed_at": "2026-04-16T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.661606,
+          35.669861
         ]
       }
     },
@@ -20872,6 +20935,27 @@
         "coordinates": [
           -97.526267,
           30.530909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa40a1bf-fcf5-5207-ac5d-f8fbcf0d5919",
+        "address": "4993-Winding-Ridge-Dr-Greensboro-NC-27406",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3900,
+        "listed_at": "2026-04-16T19:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.686613,
+          35.976322
         ]
       }
     },
