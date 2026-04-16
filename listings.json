@@ -9181,27 +9181,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4b7885a6-3f52-5eff-9789-c5e8782fcc4c",
-        "address": "403-Vermont-St-Green-Cove-Springs-FL-32043",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1080,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "32",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.691919,
-          29.98456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4bc88c37-2f1e-5958-9f2f-edd37452c898",
         "address": "448-Mac-Gregor-Rd-Winter-Springs-FL-32708",
         "beds": 3,
@@ -21802,27 +21781,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b2a16cc3-faff-543d-8ee1-f55c78041ff1",
-        "address": "1602-Gettysburg-Pl-Atlanta-GA-30350",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1100,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "48",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.335963,
-          33.99021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b2bb5413-492e-58e2-b63e-170c9e09742b",
         "address": "1703-Oak-Branch-Ct-Brandon-FL-33511",
         "beds": 2,
@@ -28852,6 +28810,27 @@
         "coordinates": [
           -78.913473,
           36.056316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0602f49-e1c1-5e20-b8da-ddcd3800a76c",
+        "address": "1418-Dire-Wolf-Ave-North-Las-Vegas-NV-89084",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3841,
+        "listed_at": "2026-04-16T18:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 730000,
+        "price_label": "$730K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.161343,
+          36.28939
         ]
       }
     },
