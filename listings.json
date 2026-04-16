@@ -5506,27 +5506,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ceee988-31d8-50ba-909f-fcad4afec88e",
-        "address": "2310-Redfish-Dr-Texas-City-TX-77591",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1469,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">53",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.011689,
-          29.404698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2d378a0a-d73f-5c7f-ba52-8ecb8f430145",
         "address": "400-Caravaggio-Cir-Sacramento-CA-95835",
         "beds": 3,
@@ -7831,6 +7810,27 @@
         "coordinates": [
           -86.208566,
           39.97802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4196123d-65d6-5f32-be73-074a483631fe",
+        "address": "12839-Glengary-Dr-Fishers-IN-46038",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-04-16T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.989821,
+          39.974798
         ]
       }
     },
@@ -15901,6 +15901,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8098a37f-3393-5e09-8911-9f11967e4075",
+        "address": "6268-Lakewood-Trl-Pinson-AL-35126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1913,
+        "listed_at": "2026-04-16T17:40:08.000Z",
+        "days_on_market": ">53",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.609856,
+          33.759161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "80c7f81c-8ecd-5e04-9d3c-f99018b828fa",
         "address": "8271-Moorhaven-Way-Sacramento-CA-95828",
         "beds": 3,
@@ -22258,6 +22279,27 @@
         "coordinates": [
           -81.091002,
           33.882866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b62729eb-6524-56eb-ba35-85bdfb046779",
+        "address": "1539-S-Van-Gordon-Ct-Lakewood-CO-80228",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2598,
+        "listed_at": "2026-04-16T17:40:08.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.132667,
+          39.688844
         ]
       }
     },
