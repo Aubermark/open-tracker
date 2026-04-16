@@ -4393,27 +4393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "23724a50-ffdf-56e4-b8c9-ab5f0025014e",
-        "address": "146-Willdon-Dr-Portland-TN-37148",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1205,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "20",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.476277,
-          36.584419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2382a48d-436f-5d12-81c6-673b94329e13",
         "address": "6452-Spring-Ranch-Dr-Fort-Worth-TX-76179",
         "beds": 4,
@@ -16888,27 +16867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "88199c3c-341b-5b60-84f6-d50d78adb449",
-        "address": "3202-Magnolia-Blvd-Temple-TX-76502",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2601,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">53",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.390617,
-          31.066708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "883e9226-933a-59b4-82b4-047276dc0d3d",
         "address": "23006-Woodlawn-Rdg-San-Antonio-TX-78259",
         "beds": 3,
@@ -24154,6 +24112,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6eba06e-263d-5f3e-b087-8817358e77cd",
+        "address": "312-Crowfoot-Dr-Harker-Heights-TX-76548",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3263,
+        "listed_at": "2026-04-16T19:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.667962,
+          31.048605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c741a87b-0ff9-5aeb-8807-ec9b6af95dba",
         "address": "509-Stone-Crossing-Ln-Fort-Worth-TX-76140",
         "beds": 3,
@@ -27340,6 +27319,27 @@
         "coordinates": [
           -84.225835,
           33.874891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3b01b8b-5e28-5b15-ae24-cbca0b38f5a4",
+        "address": "510-E-5400-S-Ogden-UT-84405",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1913,
+        "listed_at": "2026-04-16T19:50:06.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.968228,
+          41.165545
         ]
       }
     },
