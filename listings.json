@@ -25582,27 +25582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d3c2a2e8-1e88-532d-8d11-3c626f70b191",
-        "address": "2405-Falling-Leaf-Ct-Rock-Hill-SC-29732",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2569,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">53",
-        "current_price": 438000,
-        "price_label": "$438K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.03011,
-          34.992024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d3c4ba62-fb08-55c8-98bf-94fd5aa64101",
         "address": "11849-Blackeyed-Susan-Dr-Riverview-FL-33579",
         "beds": 5,
@@ -25933,6 +25912,27 @@
         "coordinates": [
           -81.175073,
           35.098023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d667175c-9547-5e98-82b2-ff04e8ef12ee",
+        "address": "997-Shaffer-Trl-Oviedo-FL-32765",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1702,
+        "listed_at": "2026-04-16T17:20:07.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.198752,
+          28.649167
         ]
       }
     },
