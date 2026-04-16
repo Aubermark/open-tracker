@@ -2860,6 +2860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15b9d276-3c1b-53dc-bfbc-233d34817e63",
+        "address": "5816-Janet-Dr-Trussville-AL-35173",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1137,
+        "listed_at": "2026-04-16T20:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 203000,
+        "price_label": "$203K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.559572,
+          33.720227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15e17643-ec02-5c09-bf3a-751cfba5681b",
         "address": "7779-Harthill-Park-Ave-Las-Vegas-NV-89113",
         "beds": 4,
