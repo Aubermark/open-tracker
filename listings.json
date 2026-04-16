@@ -9622,27 +9622,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4e6e80db-c58f-5c6c-a64a-f0d2be23ac20",
-        "address": "129-Bramble-Oak-Dr-Woodstock-GA-30188",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1758,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">53",
-        "current_price": 399000,
-        "price_label": "$399K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.423381,
-          34.079876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4e933d22-c0f2-5341-b0b7-d5ba0940197e",
         "address": "4818-Liberty-Plz-Acworth-GA-30101",
         "beds": 3,
@@ -14593,6 +14572,27 @@
         "coordinates": [
           -121.340175,
           38.572037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "77108529-7c04-586e-959f-baa484673bb5",
+        "address": "1608-Kythira-Dr-Apex-NC-27502",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3401,
+        "listed_at": "2026-04-16T18:20:06.000Z",
+        "days_on_market": ">53",
+        "current_price": 742000,
+        "price_label": "$742K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.921305,
+          35.722731
         ]
       }
     },
