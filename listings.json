@@ -466,6 +466,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03185b43-70c0-5714-8d33-ff0bfc174630",
+        "address": "3956-E-Arabian-Dr-Gilbert-AZ-85296",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2132,
+        "listed_at": "2026-04-16T17:00:07.000Z",
+        "days_on_market": "0",
+        "current_price": 772000,
+        "price_label": "$772K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.705003,
+          33.337314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "032e6bae-8558-5005-a3a9-454c47190d70",
         "address": "7668-Benecia-Dr-Fountain-CO-80817",
         "beds": 3,
@@ -15874,6 +15895,27 @@
         "coordinates": [
           -96.648591,
           33.241436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "80c7f81c-8ecd-5e04-9d3c-f99018b828fa",
+        "address": "8271-Moorhaven-Way-Sacramento-CA-95828",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-04-16T17:00:07.000Z",
+        "days_on_market": "38",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.404051,
+          38.484776
         ]
       }
     },
