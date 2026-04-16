@@ -8026,6 +8026,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4349223d-8575-5784-9cda-8dd915d962a2",
+        "address": "2155-Airdale-Rd-Lancaster-SC-29720",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1075,
+        "listed_at": "2026-04-16T18:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.778459,
+          34.772497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "434d8b2d-7b5c-57ae-a670-56557e558d55",
         "address": "3933-Massey-Run-Raleigh-NC-27616-17967643",
         "beds": 3,
@@ -12850,27 +12871,6 @@
         "coordinates": [
           -80.805023,
           35.052908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6a5533c3-025a-5d53-8b4d-4de6a5ee4e13",
-        "address": "1067-Zophi-St-Nashville-TN-37216",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1392,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "28",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.740366,
-          36.205026
         ]
       }
     },
@@ -25681,6 +25681,27 @@
         "coordinates": [
           -83.930488,
           33.49866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4286563-1dcf-5936-a4f1-dff57af7ded1",
+        "address": "7920-Horn-Tail-Ct-Las-Vegas-NV-89131",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1074,
+        "listed_at": "2026-04-16T18:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.262598,
+          36.304303
         ]
       }
     },
