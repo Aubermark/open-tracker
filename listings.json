@@ -13570,27 +13570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6ece1c0c-93cf-5dc9-885e-3152c5c97f70",
-        "address": "3135-Pierce-St-Ne-Minneapolis-MN-55418",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1260,
-        "listed_at": "2026-04-07T21:20:07.000Z",
-        "days_on_market": "9",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.240581,
-          45.025068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6f36e7b5-006b-5b8b-852b-e7e601bda807",
         "address": "606-Via-Corona-Mesquite-TX-75150",
         "beds": 4,
@@ -14719,6 +14698,27 @@
         "coordinates": [
           -97.365581,
           31.052196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7800af76-859d-577f-9d2f-6cb1bc89924a",
+        "address": "5434-Larchmont-Ct-N-Pinellas-Park-FL-33782",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 998,
+        "listed_at": "2026-04-16T18:50:06.000Z",
+        "days_on_market": "44",
+        "current_price": 141000,
+        "price_label": "$141K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70821,
+          27.866325
         ]
       }
     },
@@ -17659,6 +17659,27 @@
         "coordinates": [
           -97.836406,
           30.005628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8f028fb5-2a97-54b0-b48c-b17485cc1769",
+        "address": "5017-Marne-Dr-Black-Jack-MO-63033",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2888,
+        "listed_at": "2026-04-16T18:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26043,
+          38.799507
         ]
       }
     },
