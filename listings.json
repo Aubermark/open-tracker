@@ -4267,6 +4267,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22923562-f34f-5612-8803-464d08dfb47d",
+        "address": "10-Diamant-Way-Aliso-Viejo-CA-92656",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1545,
+        "listed_at": "2026-04-16T19:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 975000,
+        "price_label": "$975K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.730452,
+          33.554091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23070e2a-5b2e-55f0-ae7f-dbc4601f0b73",
         "address": "225-Lily-Cove-Dr-Loganville-GA-30052",
         "beds": 5,
