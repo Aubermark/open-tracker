@@ -2524,6 +2524,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13baff61-523d-4024-ad81-102e5b453727",
+        "address": "2270-Luna-Haven-St-Henderson-NV-89044",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3079,
+        "listed_at": "2026-04-17T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 770000,
+        "price_label": "$770K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.140595,
+          35.946341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13e2a6a1-44b9-51f7-87bf-18ecb1a349e8",
         "address": "256-Morrell-Kyle-TX-78640",
         "beds": 4,
