@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "359b5d5b-2092-5572-a58c-0d1945283e57",
+        "address": "200-Dogwood-Dr-Canton-GA-30114",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1286,
+        "listed_at": "2026-04-17T21:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.500539,
+          34.201331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35d5de57-6249-5649-ad80-59a087c1f692",
         "address": "806-Wedgewood-Dr-Mount-Dora-FL-32757",
         "beds": 3,
@@ -19891,6 +19912,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9fe022be-01f0-583e-827c-e5b5de589c5f",
+        "address": "15237-N-147th-Ln-Surprise-AZ-85379",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1441,
+        "listed_at": "2026-04-17T21:30:05.000Z",
+        "days_on_market": ">54",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.377175,
+          33.622457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9fe1dec4-2448-57a5-b9fa-e114681151eb",
         "address": "309-Haywood-St-Raleigh-NC-27601",
         "beds": 3,
@@ -31246,6 +31288,27 @@
         "coordinates": [
           -80.344463,
           27.344522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fef0281f-0700-5dd6-aa0e-35f0c0f2d553",
+        "address": "272-Wolfe-Ln-Inman-SC-29349",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1129,
+        "listed_at": "2026-04-17T21:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.083111,
+          35.036722
         ]
       }
     },
