@@ -3637,27 +3637,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1cff99ea-7796-531d-a119-92e6582f2c2a",
-        "address": "8433-Upland-Ln-N-Maple-Grove-MN-55311",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3699,
-        "listed_at": "2026-03-18T12:50:08.000Z",
-        "days_on_market": "30",
-        "current_price": 595000,
-        "price_label": "$595K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.481237,
-          45.107795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1d30fb20-3c53-53b3-acb9-9998eb7ccd53",
         "address": "1010-Buckhurst-Dr-College-Park-GA-30349",
         "beds": 3,
@@ -6004,6 +5983,27 @@
         "coordinates": [
           -114.934884,
           35.998843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "30650a46-a2c3-51bd-8a5f-3940fc10b33d",
+        "address": "524-Green-Willow-Cir-Wendell-NC-27591",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1602,
+        "listed_at": "2026-04-17T16:20:04.000Z",
+        "days_on_market": "36",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.368906,
+          35.789811
         ]
       }
     },
@@ -15412,6 +15412,27 @@
         "coordinates": [
           -81.654081,
           28.111078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7cbb0ff7-50c5-5e0a-a92d-5703edaced25",
+        "address": "820-Nw-78th-Ave-Pembroke-Pines-FL-33024",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2084,
+        "listed_at": "2026-04-17T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24423,
+          26.016323
         ]
       }
     },
@@ -28012,6 +28033,27 @@
         "coordinates": [
           -83.550882,
           42.489915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9e56075-5a9c-5d45-82a9-7e2c9d67dffa",
+        "address": "103-Linda-Dr-Hendersonville-TN-37075",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1572,
+        "listed_at": "2026-04-17T16:20:04.000Z",
+        "days_on_market": "50",
+        "current_price": 379000,
+        "price_label": "$379K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.625665,
+          36.259981
         ]
       }
     },
