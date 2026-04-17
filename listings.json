@@ -12646,6 +12646,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6682d776-163e-5dbf-85c2-81c0fd45cd2d",
+        "address": "14101-W-Windrose-Dr-Surprise-AZ-85379",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1636,
+        "listed_at": "2026-04-17T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.363801,
+          33.599851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "66db6490-4f47-5d2b-9df9-f6d474399405",
         "address": "169-Manley-Dr-Hampton-GA-30228",
         "beds": 4,
@@ -13375,6 +13396,27 @@
         "coordinates": [
           -84.507065,
           34.054832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6b53b887-ac5e-51b9-ad72-23e40672a703",
+        "address": "6729-S-Pine-Landing-Way-West-Jordan-UT-84084",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1235,
+        "listed_at": "2026-04-17T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.983525,
+          40.629386
         ]
       }
     },
