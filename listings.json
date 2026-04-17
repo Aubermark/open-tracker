@@ -739,6 +739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05b11cdb-70c4-5653-9807-f4a67f9efc89",
+        "address": "12437-Field-Point-Way-Spring-Hill-FL-34610",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2385,
+        "listed_at": "2026-04-17T06:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.558261,
+          28.338737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05b5417d-5e93-4321-96a5-2a4baa8020ae",
         "address": "8513-Lilias-Cir-Jacksonville-FL-32219",
         "beds": 3,
