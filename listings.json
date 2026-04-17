@@ -6745,6 +6745,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "38818fba-ad6e-5e73-9a95-ba975e3a5b61",
+        "address": "242-Kingswood-Dr-Clarksville-TN-37043-18019524",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1750,
+        "listed_at": "2026-04-17T18:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.285041,
+          36.521395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "38add8c3-2845-5954-bfa6-906d953cf40f",
         "address": "1234-England-Ter-Hampton-GA-30228",
         "beds": 4,
@@ -14614,6 +14635,27 @@
         "coordinates": [
           -95.856257,
           29.867032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76d6c20d-f372-53df-a5bd-fd4a06ff4fa9",
+        "address": "6457-Myrtlewood-Dr-Lakeland-FL-33810-12992593",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1657,
+        "listed_at": "2026-04-17T18:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.988854,
+          28.127227
         ]
       }
     },
