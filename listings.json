@@ -19723,6 +19723,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9df85130-bf76-54a6-a048-d0d49fbf8fcd",
+        "address": "537-Nandina-Dr-Goose-Creek-SC-29445",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-04-17T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.005541,
+          33.022663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e05baa3-d126-594f-b0ef-29d06685710d",
         "address": "1174-Onaway-Ct-Columbus-OH-43228",
         "beds": 3,
@@ -20095,27 +20116,6 @@
         "coordinates": [
           -80.13892,
           33.100204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a0f812e3-bdb7-54cf-b1d1-b7dfd1e46dfe",
-        "address": "5655-Tomah-Dr-Colorado-Springs-CO-80918",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1820,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "49",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.783775,
-          38.913456
         ]
       }
     },
@@ -31351,6 +31351,27 @@
         "coordinates": [
           -115.188693,
           36.239718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffbc0688-9eed-5938-a66c-7fea570b020e",
+        "address": "280-Sugar-Gum-Ln-266-Pinehurst-NC-28374",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 950,
+        "listed_at": "2026-04-17T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.479199,
+          35.17466
         ]
       }
     },
