@@ -30853,6 +30853,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "febb8469-358a-5dcd-bb04-88ce706dc2f3",
+        "address": "1718-W-Colter-Street-Unit-174-174-Phoenix-AZ-85015",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1349,
+        "listed_at": "2026-04-17T08:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.096384,
+          33.513376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fec455c5-7707-553f-b3de-a7092892e05d",
         "address": "7350-Sw-Stewart-St-Portland-OR-97223",
         "beds": 2,
