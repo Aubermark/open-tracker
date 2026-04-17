@@ -3784,6 +3784,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1eaa20e1-e5a7-59d8-88ee-43482e05544e",
+        "address": "4036-White-Opal-St-Las-Vegas-NV-89130",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2956,
+        "listed_at": "2026-04-17T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.223362,
+          36.232817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1ee95915-2c63-53f6-8f49-b0f4247cf5bc",
         "address": "170-Cannon-Dale-Rd-Columbia-SC-29212",
         "beds": 4,
