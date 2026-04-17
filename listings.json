@@ -16636,6 +16636,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "84afb483-602d-54bc-9866-0df0bc641d42",
+        "address": "5342-N-Palmer-Ave-Kansas-City-MO-64119",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-04-17T19:50:05.000Z",
+        "days_on_market": "46",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.490659,
+          39.191211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "84c5c96f-1152-50d4-abce-9459999b4221",
         "address": "40839-Mostyn-Hill-Dr-Magnolia-TX-77354",
         "beds": 3,
