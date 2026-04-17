@@ -14683,27 +14683,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7754d02e-8516-531b-8090-9b7cd2ffe5b2",
-        "address": "3-Tommy-Cir-Goose-Creek-SC-29445",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1805,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">54",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.038298,
-          33.013068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "775b4f8f-54b2-5772-b1f5-cc95f9c982a4",
         "address": "90-Scotts-Pine-Cir-Wake-Forest-NC-27587",
         "beds": 4,
@@ -16441,6 +16420,27 @@
         "coordinates": [
           -95.491085,
           30.041672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "845cd0f3-9250-5f82-8462-41893178ea5d",
+        "address": "1717-Ne-20th-Ave-Fort-Lauderdale-FL-33305",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1736,
+        "listed_at": "2026-04-17T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1065000,
+        "price_label": "$1.065M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12136,
+          26.150597
         ]
       }
     },
