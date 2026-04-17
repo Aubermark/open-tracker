@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13338cc5-b229-5ac1-b819-675c4b6729f3",
+        "address": "4904-W-Banquet-Ave-West-Jordan-UT-84081",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1195,
+        "listed_at": "2026-04-17T20:10:04.000Z",
+        "days_on_market": "28",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.007829,
+          40.633759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "133538c1-fa25-532a-95c0-f105ce0b5d0d",
         "address": "1045-James-Dr-Kissimmee-FL-34759",
         "beds": 4,
@@ -28810,6 +28831,27 @@
         "coordinates": [
           -87.062486,
           33.3297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ece94c91-8ab5-51be-8622-40c7c301352e",
+        "address": "2113-W-Eagle-Feather-Rd-Phoenix-AZ-85085",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3774,
+        "listed_at": "2026-04-17T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.105086,
+          33.786861
         ]
       }
     },
