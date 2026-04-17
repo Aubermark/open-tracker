@@ -7921,6 +7921,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "415d25f6-7802-57f6-8aff-e67a9de69f58",
+        "address": "138-Niven-Path-Jarrell-TX-76537",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2590,
+        "listed_at": "2026-04-17T16:50:04.000Z",
+        "days_on_market": ">54",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.600189,
+          30.809617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
         "address": "13167-Roma-Bnd-Carmel-IN-46074",
         "beds": 3,
