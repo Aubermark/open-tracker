@@ -4708,6 +4708,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25cf5386-f680-56ca-89bf-49ea3c10a571",
+        "address": "112-Westchester-Dr-White-House-TN-37188",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1572,
+        "listed_at": "2026-04-17T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.672938,
+          36.463204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25d4502e-6b1c-42b6-b809-1e65827b071c",
         "address": "200-Garnet-Ave-Kissimmee-FL-34758",
         "beds": 4,
