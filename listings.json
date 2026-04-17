@@ -8488,6 +8488,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4532932b-e4a2-5c3a-99ff-a5eee2229fcd",
+        "address": "4468-Winchester-Hills-Way-Birmingham-AL-35215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1174,
+        "listed_at": "2026-04-17T19:10:08.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.660884,
+          33.66367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45687d56-ce67-599e-9e22-389fa335f66a",
         "address": "436-Cleveland-Ave-Lincoln-Park-MI-48146",
         "beds": 3,
