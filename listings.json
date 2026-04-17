@@ -16531,6 +16531,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85a75a8e-a702-589e-8dbf-1fcf987cc271",
+        "address": "804-Hampton-Way-Merritt-Island-FL-32953",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-04-17T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.691728,
+          28.36229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e3a55e-4a08-4b4e-adfc-450a50e3c545",
         "address": "2522-S-Colosseum-Ct-New-Caney-TX-77357",
         "beds": 4,
@@ -16861,6 +16882,27 @@
         "coordinates": [
           -84.113289,
           33.933482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "88349082-6d7f-5275-8930-67d229457594",
+        "address": "2312-E-Susan-Dr-Gilbert-AZ-85298",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3078,
+        "listed_at": "2026-04-17T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 850000,
+        "price_label": "$850K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.739528,
+          33.211483
         ]
       }
     },
