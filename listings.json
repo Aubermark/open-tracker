@@ -256,6 +256,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0164fe49-3421-5f16-8643-5aebdf112757",
+        "address": "336-Price-St-Goose-Creek-SC-29445",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1136,
+        "listed_at": "2026-04-17T15:40:04.000Z",
+        "days_on_market": "28",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.029723,
+          32.98277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0190efa5-a6f9-4d49-aff4-458bf24d22e6",
         "address": "5413-Austin-Rd-Monroe-NC-28112",
         "beds": 3,
@@ -25765,6 +25786,27 @@
         "coordinates": [
           -83.930488,
           33.49866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3fd165c-83cd-5825-8b77-2ec7217ac17a",
+        "address": "6065-Caprice-Dr-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1338,
+        "listed_at": "2026-04-17T15:40:04.000Z",
+        "days_on_market": ">54",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.787211,
+          30.23865
         ]
       }
     },
