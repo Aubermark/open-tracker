@@ -21025,6 +21025,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a89248f0-ea4e-5c4a-a501-a5fc6419faed",
+        "address": "606-W-Beautiful-Ln-Phoenix-AZ-85041",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1385,
+        "listed_at": "2026-04-17T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.082047,
+          33.375579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a8f44251-b3d6-53c1-bad8-188fe03b5f8c",
         "address": "10906-Rosin-Jaw-Trl-San-Antonio-TX-78245",
         "beds": 3,
