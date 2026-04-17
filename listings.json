@@ -3007,27 +3007,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "165ee1a5-40c5-5fbe-a6a5-5d67206b4677",
-        "address": "8024-Eagle-St-Mount-Pleasant-NC-28124",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1628,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">54",
-        "current_price": 332000,
-        "price_label": "$332K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.443056,
-          35.404061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1677f6e0-fa2b-5d9f-90da-4b1418460387",
         "address": "161-Gilbert-St-Apt-16-San-Francisco-CA-94103",
         "beds": 1,
@@ -12535,6 +12514,27 @@
         "coordinates": [
           -81.636174,
           31.828562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "658c0180-2282-5342-a99e-9873afdbd51f",
+        "address": "610-Executive-Blvd-Delaware-OH-43015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1679,
+        "listed_at": "2026-04-17T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08215,
+          40.316831
         ]
       }
     },
