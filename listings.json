@@ -26107,6 +26107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d47934ec-730f-5acd-8cd4-b508d82791ea",
+        "address": "10149-E-Danbury-Pl-Tucson-AZ-85748",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1600,
+        "listed_at": "2026-04-17T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.776026,
+          32.216144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d4abc639-c5c8-5759-80db-92fb3ec7eeed",
         "address": "5406-W-El-Caminito-Dr-Glendale-AZ-85302",
         "beds": 3,
@@ -28768,6 +28789,27 @@
         "coordinates": [
           -83.702001,
           34.102242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ed1ebf54-dc12-5f70-9d42-076959649aca",
+        "address": "9741-Flooded-Field-Dr-Ladson-SC-29456",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1742,
+        "listed_at": "2026-04-17T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12531,
+          32.963033
         ]
       }
     },
