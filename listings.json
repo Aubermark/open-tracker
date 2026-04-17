@@ -10525,6 +10525,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54e94290-6522-50b4-92af-9e313e4dc045",
+        "address": "9463-Maple-Way-Indianapolis-IN-46268",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1234,
+        "listed_at": "2026-04-17T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 156000,
+        "price_label": "$156K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.203723,
+          39.924676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "550a19c4-1265-56c8-9c4e-632b4db6114b",
         "address": "7545-Bon-Soir-Corpus-Christi-TX-78414",
         "beds": 3,
