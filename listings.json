@@ -17896,27 +17896,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "903de168-1ca9-53c3-9fdc-ac4297c8e99f",
-        "address": "1902-Kelona-Dr-Spring-TX-77386",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1749,
-        "listed_at": "2026-04-09T20:20:06.000Z",
-        "days_on_market": "8",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.412208,
-          30.134437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "905cfc8a-2272-40f9-9fa9-850bb7fa4f26",
         "address": "32038-Pop-Ash-Pl-San-Antonio-FL-33576",
         "beds": 3,
@@ -27655,6 +27634,27 @@
         "coordinates": [
           -112.212931,
           33.756858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e644bb95-8ae5-5c3a-9f42-86ef5448b6c1",
+        "address": "5017-Atlanta-St-Anderson-IN-46013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1468,
+        "listed_at": "2026-04-17T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 227000,
+        "price_label": "$227K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.660022,
+          40.06382
         ]
       }
     },
