@@ -11827,6 +11827,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61990939-6dfc-5ff5-ab65-cb0df6e1b0fe",
+        "address": "5037-Sw-140th-Ter-Miramar-FL-33027",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1700,
+        "listed_at": "2026-04-17T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.331257,
+          25.961741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61a6c8d5-1842-498a-bc84-11bc89486fd5",
         "address": "483-Murphys-Dr-Saint-Johns-FL-32259",
         "beds": 2,
