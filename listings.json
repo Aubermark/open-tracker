@@ -5716,6 +5716,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d641d12-25c8-5efb-a20e-136a0cfbf7cb",
+        "address": "2425-S-235th-Dr-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1567,
+        "listed_at": "2026-04-18T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.556865,
+          33.424577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d75da54-083f-5f55-a0e3-7562229110dc",
         "address": "280-Devonshire-Rd-Montesano-WA-98563",
         "beds": 4,
@@ -12577,27 +12598,6 @@
         "coordinates": [
           -83.08215,
           40.316831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65914b1c-cb4d-5495-9b74-f4e0d85c286a",
-        "address": "11037-Wyndham-Pointe-Dr-Charlotte-NC-28213",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2008,
-        "listed_at": "2026-04-02T20:40:05.000Z",
-        "days_on_market": "32",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.705053,
-          35.297607
         ]
       }
     },
