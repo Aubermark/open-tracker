@@ -29467,6 +29467,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f0435c8e-69da-5778-a9f1-aef7e815c132",
+        "address": "1706-Barlow-Trl-Corpus-Christi-TX-78410",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-04-19T07:30:32.000Z",
+        "days_on_market": "0",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.552147,
+          27.815199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f0492b42-4d92-5952-8cfe-7456a717ce5a",
         "address": "4105-Toroella-St-Durham-NC-27704",
         "beds": 3,
