@@ -21445,6 +21445,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ab7a3b57-ade1-5ac9-8182-bc90fa01d003",
+        "address": "9206-W-Mescal-St-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-04-19T20:30:05.000Z",
+        "days_on_market": ">56",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.257016,
+          33.585985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "abb826cb-28f6-5d92-ba4f-7652fc925a65",
         "address": "98-Cole-Ct-Se-Ludowici-GA-31316",
         "beds": 4,
