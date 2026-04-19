@@ -8551,6 +8551,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "459cc249-4b6b-5f66-b74f-0e6066ddb2d5",
+        "address": "235-Murchison-Dr-Cedar-Creek-TX-78612",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1801,
+        "listed_at": "2026-04-19T17:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.481823,
+          30.102352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45b30af7-3e24-5fac-acc5-f064f9ee40f7",
         "address": "9179-Dover-St-Lithia-Springs-GA-30122",
         "beds": 5,
