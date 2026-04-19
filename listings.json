@@ -3952,6 +3952,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fa711df-c1c5-5d67-9556-36d7547ddb16",
+        "address": "2103-Williamsburg-Ct-N-League-City-TX-77573",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1479,
+        "listed_at": "2026-04-19T17:20:06.000Z",
+        "days_on_market": ">56",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.118693,
+          29.495258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1fde425c-ad79-4019-9245-a1fd09ff75b3",
         "address": "200-Cobalt-Dr-Fayetteville-GA-30214",
         "beds": 4,
