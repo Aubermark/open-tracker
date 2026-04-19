@@ -3679,6 +3679,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1d90e175-93cf-51b4-b755-5ae999424864",
+        "address": "2079-Sw-Kimberly-Ave-Port-Saint-Lucie-FL-34953",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 912,
+        "listed_at": "2026-04-19T15:40:04.000Z",
+        "days_on_market": "52",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.411725,
+          27.289674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1de9bdb2-6b36-5671-9c5c-6b2cf4602b5c",
         "address": "78440-Via-Palomino-La-Quinta-CA-92253",
         "beds": 2,
