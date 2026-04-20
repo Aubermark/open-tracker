@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00978d5c-08b3-56e5-8ff0-c11c141bebc3",
+        "address": "6224-Silver-Edge-St-North-Las-Vegas-NV-89031",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3012,
+        "listed_at": "2026-04-20T17:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 599000,
+        "price_label": "$599K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.173418,
+          36.273822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00b3f0f4-48ac-5ca4-95e0-536ab1c6a2b6",
         "address": "102-Se-43rd-Ln-Cape-Coral-FL-33904",
         "beds": 3,
