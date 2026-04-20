@@ -6703,27 +6703,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "36ce3869-6b12-59f3-9072-04e05199ea17",
-        "address": "821-E-Mission-St-Crowley-TX-76036",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1102,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">57",
-        "current_price": 208000,
-        "price_label": "$208K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.346404,
-          32.579005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "36e80213-c4c2-4fb7-8211-1aca748aa3d4",
         "address": "4462-Hovenweep-Way-Indianapolis-IN-46235",
         "beds": 5,
@@ -13690,6 +13669,27 @@
         "coordinates": [
           -97.577807,
           30.238005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6c43cf5c-0fd4-57c1-9492-99c26506a943",
+        "address": "11918-Sonora-Springs-Dr-Tomball-TX-77375",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2354,
+        "listed_at": "2026-04-20T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.597778,
+          30.043256
         ]
       }
     },
