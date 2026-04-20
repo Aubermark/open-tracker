@@ -4,27 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "004baf94-247b-5ee8-a9d3-599389d68b88",
-        "address": "2908-Hayling-Dr-Raleigh-NC-27610",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1740,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">57",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.582549,
-          35.743442
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "00978d5c-08b3-56e5-8ff0-c11c141bebc3",
         "address": "6224-Silver-Edge-St-North-Las-Vegas-NV-89031",
         "beds": 4,
@@ -4471,6 +4450,27 @@
         "coordinates": [
           -81.020392,
           35.182095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "23e6af47-d299-5162-880b-058aba24c8e6",
+        "address": "849-S-780-W-Tooele-UT-84074",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2132,
+        "listed_at": "2026-04-20T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.318259,
+          40.515479
         ]
       }
     },
@@ -23119,27 +23119,6 @@
         "coordinates": [
           -81.915842,
           41.423898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8c3be48-58b4-54dd-a590-c2747bc6b8e4",
-        "address": "309-Cedar-Glade-Ct-Lebanon-TN-37090",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1772,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "32",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.397042,
-          36.187767
         ]
       }
     },
