@@ -1873,27 +1873,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ec63a17-3060-544d-982a-395c8d206b0c",
-        "address": "605-N-Meadows-Ln-Easley-SC-29642",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2978,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">57",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.576142,
-          34.765748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0eea233c-502c-5461-b5d0-9e6e643ebafb",
         "address": "566-Bridgette-Dr-Clarksville-TN-37042",
         "beds": 3,
@@ -3442,6 +3421,27 @@
         "coordinates": [
           -95.721158,
           29.869658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1b9c44fe-c9cd-5927-991b-df0857a2e96f",
+        "address": "38034-N-Hudson-Trl-Anthem-AZ-85086-166269",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2168,
+        "listed_at": "2026-04-20T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 536000,
+        "price_label": "$536K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.142034,
+          33.829949
         ]
       }
     },
@@ -22237,27 +22237,6 @@
         "coordinates": [
           -95.125815,
           29.471383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b1b0dc17-1abf-49d2-b44b-1f189bbba5e8",
-        "address": "914-Lucent-St-El-Dorado-Hills-CA-95762",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1634,
-        "listed_at": "2026-04-02T22:40:06.000Z",
-        "days_on_market": "18",
-        "current_price": 563000,
-        "price_label": "$563K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.058993,
-          38.609621
         ]
       }
     },
