@@ -17014,6 +17014,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85e42fec-a500-5b95-9335-2f9a08d99e33",
+        "address": "12948-Shandon-Ln-Fishers-IN-46038",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1208,
+        "listed_at": "2026-04-20T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.996303,
+          39.976271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e4d8b3-755c-593d-b4ca-9fb5595c20ad",
         "address": "4902-W-Windrose-Dr-Glendale-AZ-85304",
         "beds": 3,
@@ -17680,6 +17701,27 @@
         "coordinates": [
           -84.599924,
           33.731343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8b2568eb-1c47-5f27-b70b-5a35b2810b2d",
+        "address": "816-N-23rd-St-Copperas-Cove-TX-76522",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1333,
+        "listed_at": "2026-04-20T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.90738,
+          31.13781
         ]
       }
     },
@@ -22117,6 +22159,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "afaafc74-e51b-5046-9453-aaa067778565",
+        "address": "124-Scotland-Ridge-Dr-Winston-Salem-NC-27107",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1410,
+        "listed_at": "2026-04-20T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.163682,
+          36.085528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afe70faa-c925-5fbe-adf0-c3c9870d2e5a",
         "address": "2300-E-Magma-Rd-Unit-115-San-Tan-Valley-AZ-85143",
         "beds": 3,
@@ -24190,27 +24253,6 @@
         "coordinates": [
           -97.72734,
           31.064149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0b3878a-70ae-5338-8ee9-4cd09217e9eb",
-        "address": "5530-Jean-Ridge-Ln-Odenville-AL-35120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1276,
-        "listed_at": "2026-04-10T19:30:06.000Z",
-        "days_on_market": "10",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.449565,
-          33.652523
         ]
       }
     },
