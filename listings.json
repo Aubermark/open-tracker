@@ -6493,6 +6493,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "333d33fa-62f4-54e2-8075-9770fca9cae5",
+        "address": "1134-Somerset-Springs-Dr-Spring-Hill-TN-37174",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1609,
+        "listed_at": "2026-04-20T23:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.896561,
+          35.740192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "334079e1-6385-5201-ae51-9eb12dcce771",
         "address": "17052-Sw-39th-Cir-Ocala-FL-34473",
         "beds": 3,
@@ -26164,6 +26185,27 @@
         "coordinates": [
           -97.422232,
           32.619561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0813a3b-2d13-5bbd-81e2-a2102d1bbf2f",
+        "address": "16802-Enderbush-Ln-Eureka-MO-63025",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3515,
+        "listed_at": "2026-04-20T23:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.630455,
+          38.511143
         ]
       }
     },
