@@ -1222,6 +1222,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0928731a-44ff-5f72-9f7e-32f00286fcf0",
+        "address": "6747-Waverhill-Dr-Indianapolis-IN-46217",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-04-20T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.207214,
+          39.666788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09682a7e-f8ab-54e5-ba44-d6c1a708e2ee",
         "address": "324-Bassedena-Cir-S-Lakeland-FL-33805",
         "beds": 3,
@@ -25372,27 +25393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ceb1d4dc-c889-5648-9bf1-2126e6f02aa0",
-        "address": "2405-Celosia-Dr-Charlotte-NC-28262",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1303,
-        "listed_at": "2026-04-13T21:10:10.000Z",
-        "days_on_market": "7",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.711119,
-          35.319186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ceddcf26-59b6-5ed4-9041-65aacfedafc0",
         "address": "7948-Boardwalk-Way-Las-Vegas-NV-89123",
         "beds": 5,
@@ -30784,6 +30784,27 @@
         "coordinates": [
           -84.833705,
           33.602119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fcd6bdee-3ea5-5c76-9392-fc592d8ee1ed",
+        "address": "5033-Sw-97th-Ln-Ocala-FL-34476",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2280,
+        "listed_at": "2026-04-20T16:30:04.000Z",
+        "days_on_market": "32",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.204286,
+          29.080948
         ]
       }
     },
