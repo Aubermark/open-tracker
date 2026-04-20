@@ -1621,27 +1621,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0cd2a5c2-2cf8-5f55-af33-a24ccfe229d6",
-        "address": "509-Robinhood-Dr-Irving-TX-75061",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1449,
-        "listed_at": "2026-04-02T19:00:05.000Z",
-        "days_on_market": "39",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.982251,
-          32.82122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0cd4c23c-fbf4-5d74-8c7b-fdbcdf6fe47c",
         "address": "1205-Standing-Oak-Dr-Salisbury-NC-28146",
         "beds": 4,
@@ -11632,6 +11611,27 @@
         "coordinates": [
           -96.693955,
           32.710702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
+        "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1387,
+        "listed_at": "2026-04-20T23:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.594518,
+          34.162309
         ]
       }
     },
@@ -30490,6 +30490,27 @@
         "coordinates": [
           -79.736548,
           36.51836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f59b98cb-f241-5c02-b26f-b1e0c2894364",
+        "address": "83-Palm-Blvd-Dunedin-FL-34698",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3143,
+        "listed_at": "2026-04-20T23:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1335000,
+        "price_label": "$1.335M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.785327,
+          28.040979
         ]
       }
     },
