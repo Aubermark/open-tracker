@@ -25540,6 +25540,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce8f0375-7a76-5d1a-bd3d-e2d5c6b27ad2",
+        "address": "528-Pecan-Dr-Schertz-TX-78154",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1365,
+        "listed_at": "2026-04-20T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.274591,
+          29.561282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce93993f-3380-52d3-ba75-a59801888d95",
         "address": "25202-W-Jackson-Ave-Buckeye-AZ-85326",
         "beds": 3,
