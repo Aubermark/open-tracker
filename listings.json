@@ -10609,6 +10609,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5517208d-2a69-5f85-9d97-119720f5187c",
+        "address": "457-Marathon-Ln-Sanford-FL-32771",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2844,
+        "listed_at": "2026-04-20T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.241549,
+          28.802274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "557861e8-aeaa-5bde-a077-393051b0312e",
         "address": "417-Remington-Dr-Murphy-TX-75094",
         "beds": 4,
@@ -18814,6 +18835,27 @@
         "coordinates": [
           -84.157547,
           33.48826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "93b2b22d-32e6-54a3-ac54-532b73aecc64",
+        "address": "1105-Fox-Run-Trl-Platte-City-MO-64079",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2247,
+        "listed_at": "2026-04-20T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 401000,
+        "price_label": "$401K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.76828,
+          39.347246
         ]
       }
     },
@@ -30847,27 +30889,6 @@
         "coordinates": [
           -84.833705,
           33.602119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fcd6bdee-3ea5-5c76-9392-fc592d8ee1ed",
-        "address": "5033-Sw-97th-Ln-Ocala-FL-34476",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2280,
-        "listed_at": "2026-04-20T16:30:04.000Z",
-        "days_on_market": "32",
-        "current_price": 336000,
-        "price_label": "$336K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.204286,
-          29.080948
         ]
       }
     },
