@@ -10189,27 +10189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5173df28-4ba0-5d8a-8db9-f6a6d6eb5028",
-        "address": "4307-Esta-Lee-Ave-Killeen-TX-76549",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1719,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">57",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.801014,
-          31.094665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5199ff7d-7fa7-53fa-8837-91fbcc49fc88",
         "address": "835-Sinclair-Way-Jonesboro-GA-30238",
         "beds": 3,
@@ -13249,6 +13228,27 @@
         "coordinates": [
           -80.805023,
           35.052908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "69eb313a-885c-5018-aae4-82ac1c905990",
+        "address": "8016-Stonegate-Dr-Cincinnati-OH-45255",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1964,
+        "listed_at": "2026-04-20T18:10:07.000Z",
+        "days_on_market": "8",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.332993,
+          39.077974
         ]
       }
     },
@@ -19507,6 +19507,27 @@
         "coordinates": [
           -84.507924,
           34.084026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a824670-ffa8-5fee-920b-05c050f19d72",
+        "address": "6475-Grandview-Dr-Eden-Prairie-MN-55346",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1857,
+        "listed_at": "2026-04-20T18:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 462000,
+        "price_label": "$462K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.496745,
+          44.886376
         ]
       }
     },
