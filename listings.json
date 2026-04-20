@@ -8761,6 +8761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "471c0bda-29d1-5f39-a157-1111a7147457",
+        "address": "3503-Somerton-Dr-La-Porte-TX-77571",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1664,
+        "listed_at": "2026-04-20T13:50:06.000Z",
+        "days_on_market": "54",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.105452,
+          29.657384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4730b21d-e64d-5a0e-a53e-2ca62b431f65",
         "address": "2154-Hinton-Dr-Se-Smyrna-GA-30080",
         "beds": 4,
@@ -29818,27 +29839,6 @@
         "coordinates": [
           -111.530138,
           33.227144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f30a39ce-bd71-52c1-8d7d-d79afc14d5b5",
-        "address": "5344-Highland-Place-Way-Hermitage-TN-37076",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2786,
-        "listed_at": "2026-04-01T19:30:06.000Z",
-        "days_on_market": ">57",
-        "current_price": 614000,
-        "price_label": "$614K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.641448,
-          36.192172
         ]
       }
     },
