@@ -17077,27 +17077,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "876c0c9c-a1e9-589b-a172-48a5b2f21328",
-        "address": "1200-Iola-St-Aurora-CO-80010",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1186,
-        "listed_at": "2026-03-31T16:50:06.000Z",
-        "days_on_market": ">57",
-        "current_price": 439000,
-        "price_label": "$439K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.864397,
-          39.734834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "87c4b2c0-4b3d-5f81-bb34-7c019520c47e",
         "address": "130-Keeper-Irvine-CA-92618",
         "beds": 3,
@@ -20956,6 +20935,27 @@
         "coordinates": [
           -96.573269,
           33.02371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a7245fe3-d05f-5662-8247-be927c96acdc",
+        "address": "570-Catalina-Dr-Colorado-Springs-CO-80906",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1863,
+        "listed_at": "2026-04-20T17:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.796039,
+          38.775457
         ]
       }
     },
