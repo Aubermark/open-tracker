@@ -3007,6 +3007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1670ce24-60a1-4ec7-87b8-b96c6e425f5e",
+        "address": "3616-Ne-170th-St-Vancouver-WA-98686",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2325,
+        "listed_at": "2026-04-20T23:00:04.000Z",
+        "days_on_market": ">57",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.633431,
+          45.744887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1677f6e0-fa2b-5d9f-90da-4b1418460387",
         "address": "161-Gilbert-St-Apt-16-San-Francisco-CA-94103",
         "beds": 1,
@@ -21775,6 +21796,27 @@
         "coordinates": [
           -94.530223,
           38.812892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac49235c-be43-5626-8ee8-b3395db5d352",
+        "address": "1500-Shady-Oak-Cir-Birmingham-AL-35235",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1152,
+        "listed_at": "2026-04-20T23:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.651561,
+          33.621175
         ]
       }
     },
