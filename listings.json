@@ -10483,6 +10483,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53ae2684-f3f4-55b0-9741-cdeb86e89075",
+        "address": "18641-Fairburn-St-Hesperia-CA-92345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1800,
+        "listed_at": "2026-04-20T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.256032,
+          34.393698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5404f3a3-00ed-5915-b9e1-2ccafe047c09",
         "address": "930-Fontmore-Rd-Apt-C-Colorado-Springs-CO-80904",
         "beds": 3,
@@ -17071,27 +17092,6 @@
         "coordinates": [
           -117.716241,
           33.67205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "87d41890-a139-536e-bc91-0479316428eb",
-        "address": "13414-Hartland-Lake-Ln-Houston-TX-77044-17661805",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2919,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": ">57",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.16404,
-          29.9697
         ]
       }
     },
