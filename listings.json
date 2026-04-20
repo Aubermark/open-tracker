@@ -28102,6 +28102,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7642f41-fdec-558e-8222-dbb66ed258a7",
+        "address": "601-Evans-Ct-El-Dorado-Hills-CA-95762",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1712,
+        "listed_at": "2026-04-20T15:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.064033,
+          38.623094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e79aedcb-7539-573f-baec-a0df3e0dc6ec",
         "address": "604-Eastway-Ave-Durham-NC-27703",
         "beds": 3,
