@@ -12877,6 +12877,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67437325-eb71-5c8b-985c-14d6d458db36",
+        "address": "8843-Cardinal-Flower-Ln-Indianapolis-IN-46231",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2035,
+        "listed_at": "2026-04-20T16:40:05.000Z",
+        "days_on_market": ">57",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.318575,
+          39.740793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6759f77d-8920-5c53-ae8e-04412499ef89",
         "address": "1516-Gatlinburg-Dr-Pflugerville-TX-78660",
         "beds": 3,
@@ -22012,6 +22033,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b058f896-fe98-51a5-b7d0-964e41f3092f",
+        "address": "1136-Burch-Ln-Saint-Louis-MO-63130",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1945,
+        "listed_at": "2026-04-20T16:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.328888,
+          38.669608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b0bcb2c7-f85d-5663-b298-b85fccac232d",
         "address": "4201-Hoyt-Ct-Wheat-Ridge-CO-80033",
         "beds": 3,
@@ -25009,27 +25051,6 @@
         "coordinates": [
           -112.205828,
           33.661271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cbb45e79-4b73-5e99-a789-470c6b44d877",
-        "address": "18715-Libby-Rd-Maple-Heights-OH-44137",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1596,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "49",
-        "current_price": 180000,
-        "price_label": "$180K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.548407,
-          41.417271
         ]
       }
     },
