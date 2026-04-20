@@ -1243,6 +1243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09436ade-4301-50e8-8b0d-e1ba87a35429",
+        "address": "2432-Centaurus-Dr-Garland-TX-75044",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1459,
+        "listed_at": "2026-04-20T23:10:04.000Z",
+        "days_on_market": ">57",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.667518,
+          32.948239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09682a7e-f8ab-54e5-ba44-d6c1a708e2ee",
         "address": "324-Bassedena-Cir-S-Lakeland-FL-33805",
         "beds": 3,
@@ -25576,6 +25597,27 @@
         "coordinates": [
           -111.969598,
           33.745761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cd26cef5-1242-5d27-8f50-47cc7f96e1eb",
+        "address": "515-Teresa-Ln-Canton-GA-30115",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3978,
+        "listed_at": "2026-04-20T23:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 587000,
+        "price_label": "$587K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.427527,
+          34.173918
         ]
       }
     },
