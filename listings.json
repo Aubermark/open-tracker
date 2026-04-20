@@ -2209,6 +2209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11ec216a-e732-5b19-a2cb-691057b82fda",
+        "address": "15626-Dove-Meadow-Street-San-Antonio-TX-78248",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2452,
+        "listed_at": "2026-04-20T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 488000,
+        "price_label": "$488K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.520596,
+          29.592763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
         "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
         "beds": 3,
@@ -24883,6 +24904,27 @@
         "coordinates": [
           -84.004165,
           33.56875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c835c3cb-c565-5181-a541-a1890479eb93",
+        "address": "1195-Therns-Ferry-Dr-Fort-Mill-SC-29708",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2916,
+        "listed_at": "2026-04-20T21:50:04.000Z",
+        "days_on_market": "3",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.992676,
+          35.00693
         ]
       }
     },
