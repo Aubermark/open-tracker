@@ -5212,27 +5212,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "287989bf-9bb9-4279-81ca-ad300dbc4c1c",
-        "address": "3100-Holden-St-Elgin-IL-60124",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2438,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "35",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.357371,
-          42.017089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "289567ef-6c9d-4dfa-b418-fbc2db561b74",
         "address": "8475-Anker-Way-Elk-Grove-CA-95757",
         "beds": 4,
@@ -6466,6 +6445,27 @@
         "coordinates": [
           -121.56947,
           39.161949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "334079e1-6385-5201-ae51-9eb12dcce771",
+        "address": "17052-Sw-39th-Cir-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1545,
+        "listed_at": "2026-04-20T22:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.184512,
+          28.972723
         ]
       }
     },
