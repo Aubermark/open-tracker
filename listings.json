@@ -6010,6 +6010,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f99eccc-0fa1-5c55-b426-c2d3a18195f6",
+        "address": "14405-Scottburgh-Glen-Dr-Wimauma-FL-33598",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1749,
+        "listed_at": "2026-04-20T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.319308,
+          27.764844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2fa1aa43-8971-5e21-9866-1646ec85b4ee",
         "address": "10101-N-91st-Ave-Unit-154-Peoria-AZ-85345",
         "beds": 2,
@@ -7705,27 +7726,6 @@
         "coordinates": [
           -86.478728,
           35.92933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3dd981e6-4db5-5a23-a9f7-28d205935806",
-        "address": "9941-E-Hawthorne-St-Tucson-AZ-85748",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1729,
-        "listed_at": "2026-04-06T17:00:06.000Z",
-        "days_on_market": "14",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.779875,
-          32.233409
         ]
       }
     },
@@ -12094,6 +12094,27 @@
         "coordinates": [
           -81.845634,
           30.158889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "614df151-a631-55cc-a379-3022e26339a0",
+        "address": "1144-Hawthorne-Ave-E-St-Paul-MN-55106",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1544,
+        "listed_at": "2026-04-20T21:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.052168,
+          44.978185
         ]
       }
     },
@@ -17890,27 +17911,6 @@
         "coordinates": [
           -96.877635,
           33.036167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8c604d66-f83a-5012-9632-c23510896f44",
-        "address": "60-Muirfield-Dr-Covington-GA-30016",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 4024,
-        "listed_at": "2026-03-19T07:30:00.000Z",
-        "days_on_market": ">57",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.950759,
-          33.532831
         ]
       }
     },
