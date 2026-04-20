@@ -1642,6 +1642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
+        "address": "829-E-4th-St-Englewood-FL-34223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1398,
+        "listed_at": "2026-04-20T22:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.334724,
+          26.942348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d1e96fc-3731-56fe-8e43-7344fb336034",
         "address": "315-Pewter-Cir-Simpsonville-SC-29680",
         "beds": 5,
@@ -25933,27 +25954,6 @@
         "coordinates": [
           -86.041526,
           40.292693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cfefca45-8b7a-5008-a061-5840c8ea3172",
-        "address": "945-Countryside-Dr-Troy-MO-63379",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1700,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "32",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.987664,
-          38.973118
         ]
       }
     },
