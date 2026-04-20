@@ -17266,27 +17266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8935d5f0-2210-5b9e-9b4f-442a173a6df5",
-        "address": "5918-Zenith-Ave-N-Brooklyn-Center-MN-55429",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1757,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "11",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.32138,
-          45.062859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "894b9faa-8434-5d72-8c7f-f3733cb2e90c",
         "address": "8124-Bock-Farm-Pl-Alexandria-VA-22306",
         "beds": 4,
@@ -23140,6 +23119,27 @@
         "coordinates": [
           -81.915842,
           41.423898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8c4039a-8ce8-552d-ac56-bf4eca343258",
+        "address": "1108-Ne-Tamera-Ln-Portland-OR-97220",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1270,
+        "listed_at": "2026-04-20T19:30:05.000Z",
+        "days_on_market": ">57",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.567724,
+          45.530343
         ]
       }
     },
