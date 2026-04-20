@@ -23146,27 +23146,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b922befd-b287-5f32-8f1d-de44671c8423",
-        "address": "5120-Red-River-Dr-Arlington-TX-76017",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1634,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "35",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.195995,
-          32.662914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b95ce058-72df-4f8a-a7e3-5302665f014c",
         "address": "7939-Coastal-Prairie-Dr-Porter-TX-77365",
         "beds": 4,
@@ -26374,6 +26353,27 @@
         "coordinates": [
           -96.768931,
           33.2817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d5fbfffc-df64-5614-9373-0ca54101bc92",
+        "address": "2357-Pokagon-St-Avon-IN-46123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1851,
+        "listed_at": "2026-04-20T17:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.380575,
+          39.797685
         ]
       }
     },
