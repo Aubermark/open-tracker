@@ -340,6 +340,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "020e318d-ba1e-55d6-bbe9-ded71d55e864",
+        "address": "4322-Sunny-Creek-Pl-Kissimmee-FL-34746",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-04-20T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 309000,
+        "price_label": "$309K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.457151,
+          28.24761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02165863-ef08-503d-9526-86d93bd7d03e",
         "address": "18560-Sierra-Springs-Sq-Leesburg-VA-20176",
         "beds": 3,
@@ -2392,27 +2413,6 @@
         "coordinates": [
           -112.007829,
           40.633759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "133538c1-fa25-532a-95c0-f105ce0b5d0d",
-        "address": "1045-James-Dr-Kissimmee-FL-34759",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2184,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">57",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.512128,
-          28.039522
         ]
       }
     },
