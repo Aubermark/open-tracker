@@ -25,27 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "00b3f0f4-48ac-5ca4-95e0-536ab1c6a2b6",
-        "address": "102-Se-43rd-Ln-Cape-Coral-FL-33904",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1329,
-        "listed_at": "2026-04-01T20:50:05.000Z",
-        "days_on_market": "19",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.97388,
-          26.57077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "00c0eb84-e662-5e97-9c10-4d86a3486f0c",
         "address": "15800-E-121st-Ave-Unit-Q5-Lochbuie-CO-80603",
         "beds": 2,
@@ -25534,6 +25513,27 @@
         "coordinates": [
           -84.767684,
           33.379336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce74655a-67e9-5feb-b37f-bcbee3f04e45",
+        "address": "1116-Cunningham-Ave-Saint-Charles-MO-63301",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1040,
+        "listed_at": "2026-04-20T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.504407,
+          38.777593
         ]
       }
     },
