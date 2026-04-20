@@ -23440,6 +23440,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bb74600c-aeb3-5298-a281-34ec00c4a06c",
+        "address": "12014-Cheviott-Hill-Ln-Charlotte-NC-28213",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1972,
+        "listed_at": "2026-04-20T16:10:05.000Z",
+        "days_on_market": "14",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.680808,
+          35.308334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bbf73dd9-1f38-492d-bae4-2d342d824f6e",
         "address": "4242-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
