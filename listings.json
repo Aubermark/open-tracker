@@ -3133,6 +3133,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "170b793f-0093-5821-b1f4-ebc7cc19228c",
+        "address": "642-W-Cassidy-Pl-Tucson-AZ-85737",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1524,
+        "listed_at": "2026-04-20T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.980008,
+          32.395298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
         "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
         "beds": 4,
@@ -20368,6 +20389,27 @@
         "coordinates": [
           -122.890629,
           45.532213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a284ec8e-960c-5d50-b974-5b40cb6f6c85",
+        "address": "18676-Mill-Grove-Dr-Noblesville-IN-46062",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2545,
+        "listed_at": "2026-04-20T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.066222,
+          40.059255
         ]
       }
     },
