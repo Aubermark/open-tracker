@@ -7459,6 +7459,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c57428c-be3b-536e-a8bf-289f576436f0",
+        "address": "8757-Roberts-Ct-Olmsted-Falls-OH-44138",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1822,
+        "listed_at": "2026-04-20T20:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.887848,
+          41.365263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c866a8b-5894-5299-a5b9-326c729cbb91",
         "address": "5328-Ridge-Forest-Dr-Stone-Mountain-GA-30083",
         "beds": 4,
@@ -12094,6 +12115,27 @@
         "coordinates": [
           -86.582003,
           36.168233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "618aecba-649d-5846-b768-57217e54d447",
+        "address": "120-Brookstone-Ct-Athens-GA-30605",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1310,
+        "listed_at": "2026-04-20T20:00:08.000Z",
+        "days_on_market": "0",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.332953,
+          33.905196
         ]
       }
     },
