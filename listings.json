@@ -1159,6 +1159,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08ff188f-0e50-5782-b320-67d7af96aa93",
+        "address": "12708-Lampton-Ln-Fort-Washington-MD-20744",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1975,
+        "listed_at": "2026-04-20T22:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.991156,
+          38.715721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09050ad2-42b8-5091-9f51-49de2c362731",
         "address": "5503-Antioch-Rd-Oxford-NC-27565",
         "beds": 3,
@@ -23818,6 +23839,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bba7a8f6-a7f6-53e3-81eb-2aaa7691d02e",
+        "address": "1501-Bunting-Dr-Argyle-TX-76226",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2810,
+        "listed_at": "2026-04-20T22:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.237341,
+          33.116898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bbf73dd9-1f38-492d-bae4-2d342d824f6e",
         "address": "4242-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
@@ -29409,10 +29451,10 @@
         "beds": 3,
         "baths": 2,
         "sqft": 1187,
-        "listed_at": "2026-04-16T16:18:49.000Z",
+        "listed_at": "2026-04-20T22:30:05.000Z",
         "days_on_market": "4",
-        "current_price": 466434.04,
-        "price_label": "$466K"
+        "current_price": 455000,
+        "price_label": "$455K"
       },
       "geometry": {
         "type": "Point",
