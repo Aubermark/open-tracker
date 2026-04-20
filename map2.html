@@ -32,6 +32,104 @@
     }
     #back-btn:hover { background: #f0f0f0; }
 
+    /* ── SEARCH BAR ── */
+    #search-container {
+      position: absolute;
+      top: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 14px rgba(0,0,0,0.15);
+      padding: 6px 10px;
+      width: min(380px, calc(100vw - 240px));
+    }
+    #search-input {
+      flex: 1;
+      border: none;
+      outline: none;
+      font-family: sans-serif;
+      font-size: 13px;
+      color: #333;
+      background: transparent;
+      min-width: 0;
+    }
+    #search-input::placeholder { color: #aaa; }
+    #search-btn {
+      border: none;
+      background: #2196F3;
+      color: white;
+      border-radius: 8px;
+      padding: 5px 12px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.2s;
+    }
+    #search-btn:hover { background: #1976D2; }
+    #search-btn:disabled { background: #aaa; cursor: default; }
+
+    /* ── SEARCH RESULTS DROPDOWN ── */
+    #search-results {
+      position: absolute;
+      top: calc(100% + 6px);
+      left: 0;
+      right: 0;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+      overflow: hidden;
+      display: none;
+      z-index: 20;
+    }
+    .search-result-item {
+      padding: 9px 14px;
+      font-family: sans-serif;
+      font-size: 12px;
+      color: #333;
+      cursor: pointer;
+      border-bottom: 1px solid #f0f0f0;
+      transition: background 0.15s;
+    }
+    .search-result-item:last-child { border-bottom: none; }
+    .search-result-item:hover { background: #f0f7ff; }
+    .search-result-item .result-price {
+      font-weight: 700;
+      color: #2196F3;
+      font-size: 13px;
+    }
+    .search-result-item .result-dom {
+      color: #888;
+      font-size: 11px;
+      margin-top: 2px;
+    }
+    .search-result-item .result-type {
+      display: inline-block;
+      background: #e3f2fd;
+      color: #1565c0;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 1px 6px;
+      border-radius: 10px;
+      margin-right: 6px;
+    }
+    .search-result-item .result-type.geocode {
+      background: #f3e5f5;
+      color: #6a1b9a;
+    }
+    #search-no-results {
+      padding: 10px 14px;
+      font-family: sans-serif;
+      font-size: 12px;
+      color: #888;
+      text-align: center;
+    }
+
     #legend {
       position: absolute;
       bottom: 24px;
@@ -47,7 +145,6 @@
       min-width: 190px;
     }
 
-    /* DOM filter items */
     .legend-item {
       display: flex;
       align-items: center;
@@ -67,7 +164,6 @@
       flex-shrink: 0;
     }
 
-    /* Layer toggle items */
     .layer-toggle {
       display: flex;
       align-items: center;
@@ -106,9 +202,21 @@
       margin: 8px 0;
     }
 
+    .dom-count {
+      margin-left: auto;
+      font-size: 11px;
+      font-weight: 700;
+      color: #555;
+      background: rgba(0,0,0,0.07);
+      border-radius: 10px;
+      padding: 1px 7px;
+      min-width: 22px;
+      text-align: center;
+    }
+
     #viewport-badge {
       position: absolute;
-      top: 16px;
+      top: 58px;
       left: 50%;
       transform: translateX(-50%);
       background: rgba(0,0,0,0.55);
@@ -122,6 +230,21 @@
       pointer-events: none;
       white-space: nowrap;
     }
+
+    /* ── SELECTED MARKER ── */
+    .selected-pulse {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: rgba(33,150,243,0.35);
+      border: 2px solid #2196F3;
+      animation: pulse-ring 1.4s ease-out infinite;
+    }
+    @keyframes pulse-ring {
+      0%   { transform: scale(1);   opacity: 1; }
+      70%  { transform: scale(2.2); opacity: 0; }
+      100% { transform: scale(2.2); opacity: 0; }
+    }
   </style>
 </head>
 <body>
@@ -131,6 +254,17 @@
 <a id="back-btn" href="https://aubermark.github.io/open-tracker/">
   ← Data Explorer
 </a>
+
+<!-- SEARCH BAR -->
+<div id="search-container">
+  <svg width="14" height="14" viewBox="0 0 20 20" fill="none" style="flex-shrink:0;opacity:0.4">
+    <circle cx="8.5" cy="8.5" r="6" stroke="#333" stroke-width="2"/>
+    <path d="M13 13L18 18" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  </svg>
+  <input id="search-input" type="text" placeholder="Search address… e.g. 123 Main St" autocomplete="off" />
+  <button id="search-btn" onclick="runSearch()">Search</button>
+  <div id="search-results"></div>
+</div>
 
 <div id="viewport-badge">⟳ Cargando capa…</div>
 
@@ -144,6 +278,211 @@
     style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
     center: [-96.0, 38.0],
     zoom: 4
+  });
+
+  // ─── Search state ────────────────────────────────────────────────────────────
+  let listingsGeoJSON = null;
+  let selectedMarker = null;
+  let activePopup = null;
+
+  // Normalize string for fuzzy matching
+  function normalize(s) {
+    return String(s || "").toLowerCase().replace(/[^a-z0-9]/g, " ").replace(/s+/g, " ").trim();
+  }
+
+  // Score: how well does query match address
+  function matchScore(query, address) {
+    const q = normalize(query);
+    const a = normalize(address);
+    if (a === q) return 100;
+    if (a.startsWith(q)) return 90;
+    if (a.includes(q)) return 70;
+    // token overlap
+    const qTokens = q.split(" ").filter(Boolean);
+    const aTokens = a.split(" ").filter(Boolean);
+    const matched = qTokens.filter(t => aTokens.some(at => at.startsWith(t) || t.startsWith(at)));
+    return Math.round((matched.length / Math.max(qTokens.length, 1)) * 50);
+  }
+
+  // Search listings locally by address field
+  function searchListings(query) {
+    if (!listingsGeoJSON || !query.trim()) return [];
+    const results = [];
+    listingsGeoJSON.features.forEach(f => {
+      const addr = f.properties?.address || "";
+      const score = matchScore(query, addr);
+      if (score >= 30) results.push({ feature: f, score });
+    });
+    results.sort((a, b) => b.score - a.score);
+    return results.slice(0, 6);
+  }
+
+  // ─── Show search results dropdown ───────────────────────────────────────────
+  function showResultsDropdown(listingMatches, geocodeResults) {
+    const container = document.getElementById("search-results");
+    container.innerHTML = "";
+
+    if (listingMatches.length === 0 && geocodeResults.length === 0) {
+      container.innerHTML = '<div id="search-no-results">No results found</div>';
+      container.style.display = "block";
+      return;
+    }
+
+    listingMatches.forEach(({ feature }) => {
+      const p = feature.properties;
+      const el = document.createElement("div");
+      el.className = "search-result-item";
+      el.innerHTML = `
+        <span class="result-type">Listing</span><span class="result-price">${p.price_label || ""}</span>
+        <div style="margin-top:3px;color:#555;">${p.address || "Unknown address"}</div>
+        <div class="result-dom">⏱ ${p.days_on_market} days on market</div>
+      `;
+      el.addEventListener("click", () => {
+        flyToListing(feature);
+        closeDropdown();
+      });
+      container.appendChild(el);
+    });
+
+    geocodeResults.forEach(result => {
+      const el = document.createElement("div");
+      el.className = "search-result-item";
+      el.innerHTML = `
+        <span class="result-type geocode">Location</span>
+        <span style="color:#555;">${result.display_name}</span>
+      `;
+      el.addEventListener("click", () => {
+        flyToGeocode(result);
+        closeDropdown();
+      });
+      container.appendChild(el);
+    });
+
+    container.style.display = "block";
+  }
+
+  function closeDropdown() {
+    document.getElementById("search-results").style.display = "none";
+  }
+
+  // ─── Fly to a listing feature ────────────────────────────────────────────────
+  function flyToListing(feature) {
+    const coords = feature.geometry.coordinates;
+    const p = feature.properties;
+
+    // Remove previous selection marker
+    if (selectedMarker) { selectedMarker.remove(); selectedMarker = null; }
+    if (activePopup)    { activePopup.remove();    activePopup = null; }
+
+    // Fly to location
+    map.flyTo({ center: coords, zoom: 14, speed: 1.4, curve: 1.2 });
+
+    // Add pulse marker
+    const el = document.createElement("div");
+    el.className = "selected-pulse";
+    selectedMarker = new maplibregl.Marker({ element: el, anchor: "center" })
+      .setLngLat(coords)
+      .addTo(map);
+
+    // Open popup after fly ends
+    map.once("moveend", () => {
+      if (activePopup) activePopup.remove();
+      activePopup = new maplibregl.Popup({ offset: 18 })
+        .setLngLat(coords)
+        .setHTML(`
+          <div style="font-family:sans-serif;">
+            <strong>${p.address || ""}</strong><br>
+            <span style="color:#333;font-size:18px;">${p.price_label || ""}</span><br>
+            <span style="color:#888;font-size:12px;">⏱ ${p.days_on_market} days on market</span>
+          </div>
+        `)
+        .addTo(map);
+    });
+
+    // Update search input
+    document.getElementById("search-input").value = p.address || "";
+  }
+
+  // ─── Fly to a geocode result ─────────────────────────────────────────────────
+  function flyToGeocode(result) {
+    const lng = parseFloat(result.lon);
+    const lat = parseFloat(result.lat);
+
+    if (selectedMarker) { selectedMarker.remove(); selectedMarker = null; }
+    if (activePopup)    { activePopup.remove();    activePopup = null; }
+
+    map.flyTo({ center: [lng, lat], zoom: 14, speed: 1.4, curve: 1.2 });
+
+    const el = document.createElement("div");
+    el.className = "selected-pulse";
+    selectedMarker = new maplibregl.Marker({ element: el, anchor: "center" })
+      .setLngLat([lng, lat])
+      .addTo(map);
+
+    document.getElementById("search-input").value = result.display_name.split(",")[0];
+  }
+
+  // ─── Main search function ────────────────────────────────────────────────────
+  async function runSearch() {
+    const query = document.getElementById("search-input").value.trim();
+    if (!query) return;
+
+    const btn = document.getElementById("search-btn");
+    btn.disabled = true;
+    btn.textContent = "…";
+
+    try {
+      // 1. Search local listings first
+      const listingMatches = searchListings(query);
+
+      // If strong listing match → show immediately without geocoding
+      if (listingMatches.length > 0 && listingMatches[0].score >= 70) {
+        showResultsDropdown(listingMatches, []);
+        // Auto-select if single perfect match
+        if (listingMatches.length === 1 || listingMatches[0].score === 100) {
+          flyToListing(listingMatches[0].feature);
+          closeDropdown();
+        }
+        return;
+      }
+
+      // 2. Geocode with Nominatim (for address lookup, no API key needed)
+      let geocodeResults = [];
+      try {
+        const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)}&format=json&limit=3&countrycodes=us`;
+        const res = await fetch(url, {
+          headers: { "Accept-Language": "en", "User-Agent": "MapListingsApp/1.0" }
+        });
+        if (res.ok) geocodeResults = await res.json();
+      } catch (e) {
+        console.warn("Geocoding failed:", e);
+      }
+
+      showResultsDropdown(listingMatches, geocodeResults);
+
+      // If only one geocode result and no listing match, fly directly
+      if (listingMatches.length === 0 && geocodeResults.length === 1) {
+        flyToGeocode(geocodeResults[0]);
+        closeDropdown();
+      }
+
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Search";
+    }
+  }
+
+  // ─── Keyboard: Enter triggers search, Escape closes dropdown ────────────────
+  document.getElementById("search-input").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") runSearch();
+    if (e.key === "Escape") closeDropdown();
+  });
+
+  // Close dropdown when clicking outside
+  document.addEventListener("click", (e) => {
+    if (!document.getElementById("search-container").contains(e.target)) {
+      closeDropdown();
+    }
   });
 
   // ─── DOM filter state (listings) ────────────────────────────────────────────
@@ -160,7 +499,7 @@
     "case",
     ["<=", domNumber, 1],   "#a8c623",
     ["<=", domNumber, 7],   "#21f36b",
-    ["<=", domNumber, 45],  "#2196F3",
+    ["<=", domNumber, 39],  "#2196F3",
     ["<=", domNumber, 120], "#FF9800",
     "#E65100"
   ];
@@ -169,7 +508,7 @@
     "case",
     ["<=", domNumber, 1],   "pill-lime",
     ["<=", domNumber, 7],   "pill-green",
-    ["<=", domNumber, 45],  "pill-blue",
+    ["<=", domNumber, 39],  "pill-blue",
     ["<=", domNumber, 120], "pill-orange",
     "pill-red"
   ];
@@ -177,12 +516,43 @@
   const DOM_RANGES = [
     { key: 0,   label: "New homes today",  color: "#a8c623" },
     { key: 1,   label: "1 – 7 days",       color: "#21f36b" },
-    { key: 7,   label: "7 – 45 days",      color: "#2196F3" },
-    { key: 45,  label: "45 – 120 days",    color: "#FF9800" },
+    { key: 7,   label: "7 – 40 days",      color: "#2196F3" },
+    { key: 40,  label: "40 – 120 days",    color: "#FF9800" },
     { key: 120, label: "+120 days",        color: "#E65100" },
   ];
 
   const activeFilters = new Set(DOM_RANGES.map(r => r.key));
+  let domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+
+  function parseDOMValue(raw) {
+    const s = String(raw);
+    return parseFloat(s.startsWith(">") ? s.slice(1) : s) || 0;
+  }
+
+  function computeDOMCounts(features) {
+    domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+    features.forEach(f => {
+      const d = parseDOMValue(f.properties?.days_on_market ?? 0);
+      if      (d <= 1)              domCounts[0]++;
+      else if (d > 1   && d <= 7)   domCounts[1]++;
+      else if (d > 7   && d < 40)   domCounts[7]++;
+      else if (d >= 40  && d <= 120) domCounts[40]++;
+      else if (d > 120)             domCounts[120]++;
+    });
+  }
+
+  function updateDOMCounts() {
+    document.querySelectorAll(".legend-item[data-key]").forEach(item => {
+      const key = Number(item.dataset.key);
+      let countEl = item.querySelector(".dom-count");
+      if (!countEl) {
+        countEl = document.createElement("span");
+        countEl.className = "dom-count";
+        item.appendChild(countEl);
+      }
+      countEl.textContent = (domCounts[key] ?? 0).toLocaleString();
+    });
+  }
 
   function buildDOMFilter() {
     if (activeFilters.size === 0) return ["==", ["id"], -1];
@@ -190,8 +560,8 @@
     const conditions = [];
     if (activeFilters.has(0))   conditions.push(["<=", domNumber, 1]);
     if (activeFilters.has(1))   conditions.push(["all", [">", domNumber, 1],  ["<=", domNumber, 7]]);
-    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 45]]);
-    if (activeFilters.has(45))  conditions.push(["all", [">", domNumber, 45], ["<=", domNumber, 120]]);
+    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 39]]);
+    if (activeFilters.has(40))  conditions.push(["all", [">", domNumber, 39], ["<=", domNumber, 120]]);
     if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
     return ["any", ...conditions];
   }
@@ -207,6 +577,7 @@
     else activeFilters.add(key);
     updateDOMUI();
     applyDOMFilter();
+    updateDOMCounts();
   }
 
   function toggleAll() {
@@ -214,6 +585,7 @@
     else DOM_RANGES.forEach(r => activeFilters.add(r.key));
     updateDOMUI();
     applyDOMFilter();
+    updateDOMCounts();
   }
 
   function updateDOMUI() {
@@ -228,7 +600,6 @@
   }
 
   // ─── Overlay layers config ───────────────────────────────────────────────────
-  // Each overlay: id, label, file, type (fill/line), color, active (start hidden)
   const OVERLAYS = [
     {
       id:     "parques",
@@ -237,7 +608,6 @@
       type:   "fill",
       color:  "#2ecc71",
       active: false,
-      // MapLibre layer paint per type
       paint: {
         "fill-color":   "#2ecc71",
         "fill-opacity": 0.35,
@@ -266,88 +636,51 @@
     }
   ];
 
-  // Track viewport-load state per overlay
   const overlayState = {};
   OVERLAYS.forEach(ov => {
-    overlayState[ov.id] = {
-      active:   ov.active,
-      loading:  false,
-      loaded:   false,   // full file cached in memory
-      fullData: null,    // GeoJSON FeatureCollection (cached after first load)
-      lastBbox: null,    // last bbox string used for viewport filter
-    };
+    overlayState[ov.id] = { active: ov.active, loading: false, loaded: false, fullData: null, lastBbox: null };
   });
 
-  // ─── Viewport bbox helper ────────────────────────────────────────────────────
   function getMapBbox() {
     const b = map.getBounds();
     return [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()];
   }
-
-  function bboxKey(bbox) {
-    return bbox.map(n => n.toFixed(3)).join(",");
-  }
-
-  // Point-in-bbox check
+  function bboxKey(bbox) { return bbox.map(n => n.toFixed(3)).join(","); }
   function coordInBbox(coord, bbox) {
-    return coord[0] >= bbox[0] && coord[0] <= bbox[2] &&
-           coord[1] >= bbox[1] && coord[1] <= bbox[3];
+    return coord[0] >= bbox[0] && coord[0] <= bbox[2] && coord[1] >= bbox[1] && coord[1] <= bbox[3];
   }
-
-  // Returns true if a geometry intersects the bbox (fast approximation using bounds)
   function geomIntersectsBbox(geom, bbox) {
     if (!geom) return false;
-    const t = geom.type;
-
     function checkCoords(c) {
       if (typeof c[0] === "number") return coordInBbox(c, bbox);
       return c.some(checkCoords);
     }
-
-    // For polygons / multipolygons also check if bbox center is inside
-    // (simple: just check if any coordinate is in bbox OR bbox overlaps geom bounds)
-    if (t === "Point") return coordInBbox(geom.coordinates, bbox);
+    if (geom.type === "Point") return coordInBbox(geom.coordinates, bbox);
     return checkCoords(geom.coordinates);
   }
-
   function filterFeaturesToBbox(fc, bbox) {
-    return {
-      type: "FeatureCollection",
-      features: fc.features.filter(f => geomIntersectsBbox(f.geometry, bbox))
-    };
+    return { type: "FeatureCollection", features: fc.features.filter(f => geomIntersectsBbox(f.geometry, bbox)) };
   }
 
-  // ─── Load / update a single overlay for current viewport ────────────────────
   async function loadOverlayViewport(ovId) {
     const ov    = OVERLAYS.find(o => o.id === ovId);
     const state = overlayState[ovId];
     if (!state.active) return;
-
     const bbox    = getMapBbox();
     const bboxStr = bboxKey(bbox);
-    if (bboxStr === state.lastBbox) return; // viewport hasn't changed enough
+    if (bboxStr === state.lastBbox) return;
     state.lastBbox = bboxStr;
-
     showBadge(`⟳ Loading ${ov.label}…`);
     state.loading = true;
-
     try {
-      // Fetch full file only once — cache in memory
       if (!state.fullData) {
         const res = await fetch(ov.file + "?v=" + Date.now());
         if (!res.ok) throw new Error("HTTP " + res.status);
         state.fullData = await res.json();
-        state.loaded   = true;
-        console.log(`[${ovId}] loaded ${state.fullData.features.length} features total`);
+        state.loaded = true;
       }
-
-      // Filter to viewport
       const viewData = filterFeaturesToBbox(state.fullData, bbox);
-      console.log(`[${ovId}] viewport: ${viewData.features.length} features`);
-
-      if (map.getSource(ovId)) {
-        map.getSource(ovId).setData(viewData);
-      }
+      if (map.getSource(ovId)) map.getSource(ovId).setData(viewData);
     } catch (err) {
       console.error(`[${ovId}] load error:`, err);
     } finally {
@@ -365,22 +698,12 @@
     document.getElementById("viewport-badge").style.display = "none";
   }
 
-  // ─── Toggle overlay visibility ───────────────────────────────────────────────
   function setOverlayActive(ovId, active) {
     const state = overlayState[ovId];
     state.active = active;
-
-    if (!map.getLayer(ovId)) return; // layers not yet added
-
+    if (!map.getLayer(ovId)) return;
     map.setLayoutProperty(ovId, "visibility", active ? "visible" : "none");
-
-    if (active) {
-      // Reset lastBbox to force reload
-      state.lastBbox = null;
-      loadOverlayViewport(ovId);
-    }
-
-    // Update legend UI
+    if (active) { state.lastBbox = null; loadOverlayViewport(ovId); }
     const chip = document.querySelector(`.layer-toggle[data-overlay="${ovId}"]`);
     if (chip) {
       if (active) chip.classList.add("active");
@@ -388,7 +711,6 @@
     }
   }
 
-  // ─── Pill image generator ────────────────────────────────────────────────────
   function makeRoundedRect(color, width, height, radius) {
     const canvas = document.createElement("canvas");
     canvas.width = width; canvas.height = height;
@@ -396,69 +718,47 @@
     ctx.clearRect(0, 0, width, height);
     ctx.fillStyle = color;
     ctx.beginPath();
-    ctx.moveTo(radius, 0);
-    ctx.lineTo(width - radius, 0);
+    ctx.moveTo(radius, 0); ctx.lineTo(width - radius, 0);
     ctx.quadraticCurveTo(width, 0, width, radius);
     ctx.lineTo(width, height - radius);
     ctx.quadraticCurveTo(width, height, width - radius, height);
     ctx.lineTo(radius, height);
     ctx.quadraticCurveTo(0, height, 0, height - radius);
-    ctx.lineTo(0, radius);
-    ctx.quadraticCurveTo(0, 0, radius, 0);
-    ctx.closePath();
-    ctx.fill();
+    ctx.lineTo(0, radius); ctx.quadraticCurveTo(0, 0, radius, 0);
+    ctx.closePath(); ctx.fill();
     return ctx.getImageData(0, 0, width, height);
   }
 
-  // ─── Legend builder ──────────────────────────────────────────────────────────
   function buildLegend() {
     const legend = document.getElementById("legend");
     legend.innerHTML = "";
-
-    // ── Section 1: overlay toggles (parques + rutas) ──
     const ovTitle = document.createElement("div");
     ovTitle.style.cssText = "font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;margin-bottom:8px;";
     ovTitle.textContent = "Layers";
     legend.appendChild(ovTitle);
-
     OVERLAYS.forEach(ov => {
       const item = document.createElement("div");
       item.className = "layer-toggle";
       item.dataset.overlay = ov.id;
-      // swatch
       const swatchEl = ov.layerType === "fill"
         ? `<div class="layer-dot" style="background:${ov.color};opacity:0.8;"></div>`
         : `<div class="layer-swatch" style="background:${ov.color};"></div>`;
       item.innerHTML = `${swatchEl}<span style="font-size:12px;font-weight:600;color:#333;">${ov.label}</span>`;
       item.style.border = `2px solid ${ov.color}`;
       item.style.background = ov.color + "18";
-      item.addEventListener("click", () => {
-        const newActive = !overlayState[ov.id].active;
-        setOverlayActive(ov.id, newActive);
-      });
+      item.addEventListener("click", () => setOverlayActive(ov.id, !overlayState[ov.id].active));
       legend.appendChild(item);
     });
-
-    // ── Separator ──
     const sep = document.createElement("hr");
     sep.className = "legend-sep";
     legend.appendChild(sep);
-
-    // ── Section 2: DOM filter (listings) ──
     const header = document.createElement("div");
     header.style.cssText = "display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;";
     header.innerHTML = `
-      <h4 style="margin:0;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;">
-        Days on listing
-      </h4>
-      <button id="toggle-all-btn" onclick="toggleAll()" style="
-        font-size:10px;border:1px solid #ccc;background:#f5f5f5;border-radius:6px;
-        padding:2px 8px;cursor:pointer;color:#555;font-weight:600;line-height:1.6;">
-        None
-      </button>
+      <h4 style="margin:0;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#aaa;">Days on listing</h4>
+      <button id="toggle-all-btn" onclick="toggleAll()" style="font-size:10px;border:1px solid #ccc;background:#f5f5f5;border-radius:6px;padding:2px 8px;cursor:pointer;color:#555;font-weight:600;line-height:1.6;">None</button>
     `;
     legend.appendChild(header);
-
     DOM_RANGES.forEach(range => {
       const item = document.createElement("div");
       item.className = "legend-item";
@@ -472,12 +772,11 @@
       item.addEventListener("click", () => toggleDOMFilter(range.key));
       legend.appendChild(item);
     });
+    updateDOMCounts();
   }
 
   // ─── Map load ────────────────────────────────────────────────────────────────
   map.on("load", async () => {
-
-    // ── Hide most base labels, keep country/state/major cities ──
     const ALLOWED_LAYERS = ["place_state","place_country_1","place_country_2","place_city_r6","place_city_r5"];
     map.getStyle().layers.forEach(layer => {
       if (layer.layout && layer.layout["text-field"])
@@ -489,48 +788,33 @@
     if (map.getLayer("place_city_r6")) map.setFilter("place_city_r6", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
     if (map.getLayer("place_city_r5")) map.setFilter("place_city_r5", ["all", ["==", ["get", "class"], "city"], ["<=", ["get", "rank"], 9]]);
 
-    // ── Overlay sources + layers (hidden initially) ──
     OVERLAYS.forEach(ov => {
-      // Empty source — data filled on demand when activated
-      map.addSource(ov.id, {
-        type: "geojson",
-        data: { type: "FeatureCollection", features: [] }
-      });
-
-      map.addLayer({
-        id:      ov.id,
-        type:    ov.layerType,
-        source:  ov.id,
-        layout:  { visibility: "none" },
-        paint:   ov.paint
-      });
+      map.addSource(ov.id, { type: "geojson", data: { type: "FeatureCollection", features: [] } });
+      map.addLayer({ id: ov.id, type: ov.layerType, source: ov.id, layout: { visibility: "none" }, paint: ov.paint });
     });
 
-    // ── Listings source + layers ──
-    map.addSource("listings", {
-      type: "geojson",
-      data: "listings.json?v=" + Date.now()
-    });
+    map.addSource("listings", { type: "geojson", data: "listings.json?v=" + Date.now() });
 
-    // Register pill images
+    // Fetch and store listings for search + DOM counts
+    fetch("listings.json")
+      .then(r => r.json())
+      .then(gj => {
+        listingsGeoJSON = gj;          // ← store for search
+        computeDOMCounts(gj.features);
+        updateDOMCounts();
+      })
+      .catch(err => console.warn("Could not load listings:", err));
+
     const PILL_COLORS = {
-      "pill-lime":   "#a8c623",
-      "pill-green":  "#21f36b",
-      "pill-blue":   "#2196F3",
-      "pill-orange": "#FF9800",
-      "pill-red":    "#E65100",
+      "pill-lime": "#a8c623", "pill-green": "#21f36b",
+      "pill-blue": "#2196F3", "pill-orange": "#FF9800", "pill-red": "#E65100",
     };
     for (const [name, color] of Object.entries(PILL_COLORS)) {
       map.addImage(name, makeRoundedRect(color, 120, 40, 10), { pixelRatio: 2 });
     }
 
-    // Dot layer (zoom 3–7)
     map.addLayer({
-      id: "listings-dots",
-      type: "circle",
-      source: "listings",
-      minzoom: 3,
-      maxzoom: 7,
+      id: "listings-dots", type: "circle", source: "listings", minzoom: 3, maxzoom: 7,
       paint: {
         "circle-radius": ["interpolate", ["linear"], ["zoom"], 3, 3, 7, 6],
         "circle-color": domColorExpression,
@@ -539,31 +823,21 @@
       }
     });
 
-    // Pill label layer (zoom 7+)
     map.addLayer({
-      id: "listings-bg",
-      type: "symbol",
-      source: "listings",
-      minzoom: 7,
+      id: "listings-bg", type: "symbol", source: "listings", minzoom: 7,
       layout: {
-        "icon-image":              domIconExpression,
-        "icon-allow-overlap":      true,
-        "icon-ignore-placement":   true,
-        "icon-text-fit":           "both",
-        "icon-text-fit-padding":   [6, 14, 6, 14],
-        "text-field":              ["get", "price_label"],
-        "text-anchor":             "center",
-        "text-font":               ["Open Sans Bold"],
-        "text-allow-overlap":      true,
-        "text-ignore-placement":   true,
-        "symbol-avoid-edges":      false,
+        "icon-image": domIconExpression,
+        "icon-allow-overlap": true, "icon-ignore-placement": true,
+        "icon-text-fit": "both", "icon-text-fit-padding": [6, 14, 6, 14],
+        "text-field": ["get", "price_label"], "text-anchor": "center",
+        "text-font": ["Open Sans Bold"], "text-allow-overlap": true,
+        "text-ignore-placement": true, "symbol-avoid-edges": false,
         "text-size": ["interpolate", ["linear"], ["zoom"], 7, 9, 8, 12, 10, 15, 12, 20, 14, 26],
         "text-padding": 4,
       },
       paint: { "text-color": "#ffffff" }
     });
 
-    // ── Popups ──
     const showPopup = (e) => {
       const f = e.features[0];
       const p = f.properties;
@@ -582,46 +856,37 @@
     ["listings-bg", "listings-dots"].forEach(lyr => {
       map.on("mouseenter", lyr, () => { map.getCanvas().style.cursor = "pointer"; });
       map.on("mouseleave", lyr, () => { map.getCanvas().style.cursor = ""; });
-      map.on("click",      lyr, showPopup);
+      map.on("click", lyr, showPopup);
     });
 
-    // Parques popup
-    map.on("mouseenter", "parques",       () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "parques",       () => { map.getCanvas().style.cursor = ""; });
-    map.on("click",      "parques",       (e) => {
+    map.on("mouseenter", "parques", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "parques", () => { map.getCanvas().style.cursor = ""; });
+    map.on("click", "parques", (e) => {
       const p = e.features[0].properties;
-      new maplibregl.Popup()
-        .setLngLat(e.lngLat)
+      new maplibregl.Popup().setLngLat(e.lngLat)
         .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Park"}</strong></div>`)
         .addTo(map);
     });
 
-    // Ruta ciclista popup
-    map.on("mouseenter", "rutaciclista",  () => { map.getCanvas().style.cursor = "pointer"; });
-    map.on("mouseleave", "rutaciclista",  () => { map.getCanvas().style.cursor = ""; });
-    map.on("click",      "rutaciclista",  (e) => {
+    map.on("mouseenter", "rutaciclista", () => { map.getCanvas().style.cursor = "pointer"; });
+    map.on("mouseleave", "rutaciclista", () => { map.getCanvas().style.cursor = ""; });
+    map.on("click", "rutaciclista", (e) => {
       const p = e.features[0].properties;
-      new maplibregl.Popup()
-        .setLngLat(e.lngLat)
-        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Ruta ciclista"}</strong><br><span style="font-size:12px;color:#888;">${p.highway || ""}</span></div>`)
+      new maplibregl.Popup().setLngLat(e.lngLat)
+        .setHTML(`<div style="font-family:sans-serif;"><strong>${p.name || "Cycling Route"}</strong><br><span style="font-size:12px;color:#888;">${p.highway || ""}</span></div>`)
         .addTo(map);
     });
 
-    // ── Viewport-based layer refresh on map move ──
-    // Debounced: waits 400ms after the user stops moving before fetching
     let moveTimer = null;
     map.on("moveend", () => {
       clearTimeout(moveTimer);
       moveTimer = setTimeout(() => {
         OVERLAYS.forEach(ov => {
-          if (overlayState[ov.id].active) {
-            loadOverlayViewport(ov.id);
-          }
+          if (overlayState[ov.id].active) loadOverlayViewport(ov.id);
         });
       }, 400);
     });
 
-    // ── Build legend ──
     buildLegend();
   });
 </script>
