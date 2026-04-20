@@ -4015,6 +4015,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2024f6f9-c522-5eec-a704-fed095ec32a9",
+        "address": "11424-Rolling-River-Blvd-Jacksonville-FL-32219",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1846,
+        "listed_at": "2026-04-20T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.761801,
+          30.442034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "205c042b-3f47-5c1c-a27e-1f82b8293b81",
         "address": "4106-Walnut-Hill-Ln-Dallas-TX-75229",
         "beds": 4,
@@ -7327,6 +7348,27 @@
         "coordinates": [
           -115.270939,
           36.22912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b653c03-ecbc-5120-9335-1f26fa09302f",
+        "address": "11009-Rackhurst-Ave-Las-Vegas-NV-89134",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2334,
+        "listed_at": "2026-04-20T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 695000,
+        "price_label": "$695K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.33726,
+          36.205855
         ]
       }
     },
@@ -30973,6 +31015,27 @@
         "coordinates": [
           -112.022021,
           41.499173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc44cef0-2127-543a-90ae-ac8d735d4306",
+        "address": "4043-Larkspur-Pl-Winston-Salem-NC-27105",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 971,
+        "listed_at": "2026-04-20T21:40:04.000Z",
+        "days_on_market": ">57",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19708,
+          36.145931
         ]
       }
     },
