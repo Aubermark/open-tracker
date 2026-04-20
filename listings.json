@@ -3091,6 +3091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c9eed9-a909-505f-886a-93584c537b98",
+        "address": "2925-Lake-Port-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2870,
+        "listed_at": "2026-04-20T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.993959,
+          33.803707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16f0bcee-2d6c-54b0-ae91-aad8d8682410",
         "address": "9580-Brentwood-Way-Unit-D-Westminster-CO-80021",
         "beds": 2,
@@ -14914,27 +14935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7693869d-b825-532f-9328-6b8f9144ed05",
-        "address": "406-Landing-Place-Dr-Wendell-NC-27591",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1064,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "32",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.375678,
-          35.775838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7698c6e5-b35d-5df1-88e9-ec92bbb413e1",
         "address": "2296-Talbot-Rdg-Jonesboro-GA-30236",
         "beds": 4,
@@ -22432,6 +22432,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b17ffb4b-e839-58c4-834e-acbb2746fa44",
+        "address": "206-Daisy-St-Thomasville-NC-27360",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1107,
+        "listed_at": "2026-04-20T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.098124,
+          35.811045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b18a94ee-3c1a-5aa7-a141-50ec8130e826",
         "address": "7739-Inverness-Dr-Indianapolis-IN-46237",
         "beds": 4,
@@ -27760,27 +27781,6 @@
         "coordinates": [
           -80.676255,
           34.967836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e0cf0f1f-c123-5932-a810-971b8648ca64",
-        "address": "6729-Nokomis-Cir-Colorado-Springs-CO-80915",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1424,
-        "listed_at": "2026-04-13T20:50:06.000Z",
-        "days_on_market": "7",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.702654,
-          38.855838
         ]
       }
     },
