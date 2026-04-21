@@ -13591,27 +13591,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6b336fb3-6077-5cd4-baef-37898befa72d",
-        "address": "546-Gifford-Ct-Deltona-FL-32725",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1637,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": ">58",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.264485,
-          28.926555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6b36fa80-6b9f-5998-b8f0-9b87d1dc7e8f",
         "address": "510-Carter-Ridge-Dr-Reidsville-NC-27320",
         "beds": 4,
@@ -29461,6 +29440,27 @@
         "coordinates": [
           -79.03025,
           35.926567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eef36762-ea66-51e1-82c8-3f9cb1a1c4fa",
+        "address": "10225-Misty-Moss-Ct-Mint-Hill-NC-28227",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2329,
+        "listed_at": "2026-04-21T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 526000,
+        "price_label": "$526K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.666857,
+          35.167784
         ]
       }
     },
