@@ -13066,27 +13066,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6792edf8-d231-596c-b419-371f73c93edf",
-        "address": "9023-W-Mauna-Loa-Ln-Peoria-AZ-85381",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2170,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">58",
-        "current_price": 431000,
-        "price_label": "$431K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.252402,
-          33.619081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67abd674-cae3-5073-9519-cbec408bec6e",
         "address": "59130-Oak-Glen-Ave-Saint-Helens-OR-97051",
         "beds": 3,
@@ -14509,6 +14488,27 @@
         "coordinates": [
           -81.027717,
           34.876571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7303a6a3-31e4-5730-840c-e21d986d3421",
+        "address": "1033-Chestnut-Hill-Cir-Sw-Marietta-GA-30064",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2739,
+        "listed_at": "2026-04-21T22:00:01.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.583504,
+          33.940367
         ]
       }
     },
