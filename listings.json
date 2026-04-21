@@ -18169,27 +18169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f028fb5-2a97-54b0-b48c-b17485cc1769",
-        "address": "5017-Marne-Dr-Black-Jack-MO-63033",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2888,
-        "listed_at": "2026-04-16T18:50:05.000Z",
-        "days_on_market": "5",
-        "current_price": 271000,
-        "price_label": "$271K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.26043,
-          38.799507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8f0c3949-6038-5753-8bea-676a0dd17b1f",
         "address": "6206-W-900-N-Mc-Cordsville-IN-46055",
         "beds": 4,
@@ -25540,6 +25519,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cdc7beba-e57a-525f-b7be-6af900868633",
+        "address": "3092-Bella-Vista-Dr-Davenport-FL-33897",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2167,
+        "listed_at": "2026-04-21T18:00:02.000Z",
+        "days_on_market": "42",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.661936,
+          28.280118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cddb309b-bdc4-56ae-b16b-510cdebf90ab",
         "address": "5806-Waggoner-Ct-Rex-GA-30273",
         "beds": 3,
@@ -30910,6 +30910,27 @@
         "coordinates": [
           -84.494917,
           33.705177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa5c1132-ad9a-5848-8aa5-1589da726234",
+        "address": "43684-Phelps-Ter-Ashburn-VA-20147",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1890,
+        "listed_at": "2026-04-21T18:00:02.000Z",
+        "days_on_market": "21",
+        "current_price": 711000,
+        "price_label": "$711K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.490234,
+          39.012942
         ]
       }
     },
