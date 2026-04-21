@@ -3238,6 +3238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1913c725-5f14-5410-9c85-59d773b1b88f",
+        "address": "10049-Southlawn-Cir-Commerce-City-CO-80022",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-04-21T16:50:02.000Z",
+        "days_on_market": "26",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.781668,
+          39.879478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1950092c-afac-5725-b371-2824a4fe44a4",
         "address": "706-Crescent-Dr-Cherryville-NC-28021",
         "beds": 5,
