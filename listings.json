@@ -6241,6 +6241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "317b7ca4-a82b-560e-80a0-babdd905c4f1",
+        "address": "5815-Akin-Elm-San-Antonio-TX-78261",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2466,
+        "listed_at": "2026-04-21T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37318,
+          29.650821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
         "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
         "beds": 3,
