@@ -9832,27 +9832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4dcab4fe-0c43-518f-b5cf-2e3516567493",
-        "address": "1911-Smoke-Ridge-Ct-Apt-1-Charlotte-NC-28210",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1030,
-        "listed_at": "2026-04-02T18:20:06.000Z",
-        "days_on_market": "19",
-        "current_price": 157000,
-        "price_label": "$157K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.87127,
-          35.121166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4e08a334-4b20-59e4-8d5f-5123fec3cc0a",
         "address": "3020-W-Rosa-Vista-Dr-Taylorsville-UT-84129",
         "beds": 4,
@@ -17491,6 +17470,27 @@
         "coordinates": [
           -82.224345,
           34.968152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89bb5fea-9bf5-5365-b5cb-36de5b3fb3e9",
+        "address": "208-Forest-Way-Schertz-TX-78154",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1296,
+        "listed_at": "2026-04-21T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.250739,
+          29.555204
         ]
       }
     },
@@ -27466,27 +27466,6 @@
         "coordinates": [
           -83.953491,
           33.334519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dd3463a0-787a-5a0d-af70-d63ce5360f21",
-        "address": "1817-Colorado-Ct-Burleson-TX-76028",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2656,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">58",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.360539,
-          32.518236
         ]
       }
     },
