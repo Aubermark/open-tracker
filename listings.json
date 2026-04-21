@@ -27619,6 +27619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dcd72b60-519f-5413-b354-42356471beb7",
+        "address": "4770-Feather-Creek-Ct-Stone-Mountain-GA-30087",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3563,
+        "listed_at": "2026-04-21T09:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.082843,
+          33.784284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dcfb8a39-cdca-5c96-ae17-54e5f6ae88f1",
         "address": "241-Four-Points-Rd-Jackson-GA-30233",
         "beds": 3,
