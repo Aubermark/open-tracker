@@ -3931,27 +3931,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1f62df9d-5ad7-572a-be32-f1246d8ccaf2",
-        "address": "3013-Tansy-St-Tavares-FL-32778",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2296,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">58",
-        "current_price": 326000,
-        "price_label": "$326K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.701451,
-          28.830202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f901c7e-f44d-4053-b8fc-ef7223079c06",
         "address": "130-Speargrass-Ln-Odem-TX-78370",
         "beds": 3,
@@ -25624,27 +25603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cf1a9524-e39c-51ea-b541-c7fbb2374c33",
-        "address": "5315-N-18th-St-Unit-3-Phoenix-AZ-85016",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1212,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">58",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.042382,
-          33.514825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cf302884-0a4e-5452-b982-581f134fc810",
         "address": "6895-Valley-Forest-Dr-Cumming-GA-30041-17905026",
         "beds": 4,
@@ -28075,6 +28033,27 @@
         "coordinates": [
           -84.204078,
           34.223017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e541b974-b519-5b79-917f-be2d3021ffca",
+        "address": "773-Harbor-View-Rd-Charleston-SC-29412",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-04-21T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.926913,
+          32.741645
         ]
       }
     },
