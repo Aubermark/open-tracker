@@ -10609,6 +10609,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5455e42d-db2f-57e8-8522-b511a5c9e138",
+        "address": "5305-Belews-Creek-Rd-Walkertown-NC-27051",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3242,
+        "listed_at": "2026-04-21T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1268,
+          36.178943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
         "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
         "beds": 3,
