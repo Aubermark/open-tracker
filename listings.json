@@ -16594,6 +16594,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "827f797f-b424-5981-a1dc-ee5fc9be2315",
+        "address": "1321-Petite-Dr-Saint-Louis-MO-63138",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 2014,
+        "listed_at": "2026-04-21T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 167000,
+        "price_label": "$167K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20959,
+          38.777445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "828d8548-b0e7-5e0c-947c-d6240f9d31b3",
         "address": "138-Woodside-Village-Dr-Rock-Hill-SC-29730",
         "beds": 4,
