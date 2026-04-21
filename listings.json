@@ -8320,6 +8320,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43a968aa-749c-5fc5-b81f-9a820f329f09",
+        "address": "1303-Farm-Branch-Dr-Sw-Concord-NC-28027",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2606,
+        "listed_at": "2026-04-21T21:00:01.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.621738,
+          35.37028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43c32b40-7e4a-5c91-8706-382dd27a9bdb",
         "address": "3945-Whisper-Fld-Schertz-TX-78108",
         "beds": 3,
@@ -30196,27 +30217,6 @@
         "coordinates": [
           -90.257731,
           38.553763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f4e5dea2-3975-5a7c-ab15-a613ae898c0a",
-        "address": "401-Grand-Harbor-Blvd-Ninety-Six-SC-29666",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2510,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": "35",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.965813,
-          34.204828
         ]
       }
     },
