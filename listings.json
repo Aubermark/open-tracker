@@ -20017,6 +20017,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9ecda836-661e-50dc-8b7f-58b8d7304b14",
+        "address": "6095-Coral-View-Dr-Harrisburg-NC-28075",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2584,
+        "listed_at": "2026-04-21T22:10:01.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.679174,
+          35.322353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9ecffd77-0114-5a6d-88b1-899f3926a9b2",
         "address": "2221-Laguna-Dr-Rowlett-TX-75088",
         "beds": 4,
