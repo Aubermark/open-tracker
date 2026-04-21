@@ -24322,6 +24322,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c115fa8a-4786-559d-88c1-b77de2996567",
+        "address": "9814-Dean-Cove-Ln-Orlando-FL-32825",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1054,
+        "listed_at": "2026-04-21T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.247681,
+          28.560257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c13f94f9-e129-4e8a-9fea-a5b93fb4984d",
         "address": "3505-Aqua-Point-Pl-Cumming-GA-30041",
         "beds": 5,
