@@ -1810,6 +1810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ea5dd48-4bee-52c7-aed7-1942a5445153",
+        "address": "2326-W-Paradise-Dr-Phoenix-AZ-85029-17914046",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1392,
+        "listed_at": "2026-04-21T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.109189,
+          33.595262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ea8f87c-f690-5479-96e1-414d4b9c53fb",
         "address": "14537-Mira-Vista-Ln-Lockeford-CA-95237",
         "beds": 7,
@@ -3925,27 +3946,6 @@
         "coordinates": [
           -97.59493,
           27.944633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1f99b899-05e3-5f00-9bd5-19372457c059",
-        "address": "20818-Meadowhill-Dr-Spring-TX-77388",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2237,
-        "listed_at": "2026-04-07T17:20:06.000Z",
-        "days_on_market": ">58",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.47097,
-          30.065461
         ]
       }
     },
@@ -23776,6 +23776,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcfcd506-2cd5-5b4e-a8bb-50f7818b4261",
+        "address": "2030-Main-St-Nw-Apt-203-Atlanta-GA-30318",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1800,
+        "listed_at": "2026-04-21T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.472221,
+          33.810895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bd59696e-d8d3-59ed-9caf-041a841fb716",
         "address": "100-Broken-Lance-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -24946,6 +24967,27 @@
         "coordinates": [
           -122.452964,
           37.635292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "caace61b-b771-50aa-bbe5-7c56a06b3ef1",
+        "address": "19858-W-Rancho-Dr-Litchfield-Park-AZ-85340",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2605,
+        "listed_at": "2026-04-21T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 542000,
+        "price_label": "$542K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4868,
+          33.521603
         ]
       }
     },
