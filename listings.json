@@ -11575,6 +11575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c0f691d-95bb-5a0e-ad43-1b0df7da07ec",
+        "address": "1667-Crestdale-Rd-Rock-Hill-SC-29732",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1512,
+        "listed_at": "2026-04-21T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.996441,
+          34.982263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c10db61-ab4d-4e54-8017-4759af75a797",
         "address": "7794-Desert-Wrangler-Dr-Colorado-Springs-CO-80908",
         "beds": 4,
@@ -24694,27 +24715,6 @@
         "coordinates": [
           -78.516397,
           35.881692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c7b00081-6a37-5d3a-b299-89f4b1967894",
-        "address": "3452-Indian-River-Pkwy-Mims-FL-32754",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1828,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "28",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.867723,
-          28.689017
         ]
       }
     },
