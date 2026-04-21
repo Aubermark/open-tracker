@@ -28396,6 +28396,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e62bd34e-5f2b-51c8-99f5-5e3cf8ff17a7",
+        "address": "11104-W-Dawnlight-Dr-Marana-AZ-85653",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1950,
+        "listed_at": "2026-04-21T00:40:04.000Z",
+        "days_on_market": ">57",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.202179,
+          32.426829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e63dd336-b04f-5f60-bf92-cd429010dd6e",
         "address": "7085-W-Andrew-Ln-Peoria-AZ-85383",
         "beds": 4,
