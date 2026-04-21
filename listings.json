@@ -20311,6 +20311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0fdee74-851f-5b91-9df4-1eadaa091b1e",
+        "address": "5901-Small-Hill-Ct-Citrus-Heights-CA-95621",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1537,
+        "listed_at": "2026-04-21T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 527000,
+        "price_label": "$527K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.326692,
+          38.683998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a14b3262-597c-59ef-a8a4-46a9d496410e",
         "address": "750-W-Gentile-St-Layton-UT-84041",
         "beds": 3,
