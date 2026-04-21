@@ -17812,6 +17812,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c255e7e-8a99-5f4d-8630-8beaa6ce9d3e",
+        "address": "11466-E-27th-Ave-Denver-CO-80238",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3365,
+        "listed_at": "2026-04-21T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 845000,
+        "price_label": "$845K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.854765,
+          39.75528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c6025e3-5ed1-51cb-b1a4-9b732c8a1d1b",
         "address": "2029-Diamond-Ridge-Dr-Carrollton-TX-75010",
         "beds": 4,
@@ -30574,6 +30595,27 @@
         "coordinates": [
           -99.111038,
           30.037017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f949e48c-627f-55f2-8e4f-c1a12ba05705",
+        "address": "990-Old-Linn-Rd-China-Grove-NC-28023",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 854,
+        "listed_at": "2026-04-21T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.561083,
+          35.549939
         ]
       }
     },
