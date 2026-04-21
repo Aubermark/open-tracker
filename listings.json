@@ -11449,6 +11449,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b639dc3-622e-54f4-8dac-15facbd36ae3",
+        "address": "1171-Saddlehorn-Cir-Winter-Springs-FL-32708",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1611,
+        "listed_at": "2026-04-21T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.257877,
+          28.656234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b66f993-0689-5898-b8ee-03877c19a8ce",
         "address": "2158-Joseph-Hewes-Ct-Orange-Park-FL-32073",
         "beds": 3,
@@ -17281,27 +17302,6 @@
         "coordinates": [
           -82.353051,
           34.742894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "87e8e9e1-1927-5fb3-8650-c8e5a802e395",
-        "address": "1027-Halletts-Peak-Pl-Lawrenceville-GA-30044",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2492,
-        "listed_at": "2026-04-08T22:40:06.000Z",
-        "days_on_market": "13",
-        "current_price": 581000,
-        "price_label": "$581K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.113289,
-          33.933482
         ]
       }
     },
@@ -27976,6 +27976,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e2fc82c6-196b-598e-87e2-57c274737b74",
+        "address": "314-N-Briggs-Ave-Durham-NC-27703",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 950,
+        "listed_at": "2026-04-21T19:00:05.000Z",
+        "days_on_market": "29",
+        "current_price": 213000,
+        "price_label": "$213K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.874601,
+          35.989926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e3b01b8b-5e28-5b15-ae24-cbca0b38f5a4",
         "address": "510-E-5400-S-Ogden-UT-84405",
         "beds": 3,
@@ -29797,27 +29818,6 @@
         "coordinates": [
           -79.720539,
           36.500413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1b129a6-eeaa-5c34-b13b-93bb57fa9f16",
-        "address": "769-Grissom-Dr-Colorado-Springs-CO-80915",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1490,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">58",
-        "current_price": 368000,
-        "price_label": "$368K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.723987,
-          38.843387
         ]
       }
     },
