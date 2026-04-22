@@ -445,27 +445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03185b43-70c0-5714-8d33-ff0bfc174630",
-        "address": "3956-E-Arabian-Dr-Gilbert-AZ-85296",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2132,
-        "listed_at": "2026-04-16T17:00:07.000Z",
-        "days_on_market": "6",
-        "current_price": 772000,
-        "price_label": "$772K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.705003,
-          33.337314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "032e6bae-8558-5005-a3a9-454c47190d70",
         "address": "7668-Benecia-Dr-Fountain-CO-80817",
         "beds": 3,
@@ -6304,6 +6283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "329f573d-4d40-50c9-9a96-83d707118bac",
+        "address": "4037-Briarhill-Dr-Charlotte-NC-28215",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 960,
+        "listed_at": "2026-04-22T18:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.753136,
+          35.23631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32f897c3-6a74-5cce-94da-0c481b23b6be",
         "address": "324-Praline-Way-Fort-Mill-SC-29715",
         "beds": 3,
@@ -6529,27 +6529,6 @@
         "coordinates": [
           -82.22677,
           28.236656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "34c1743b-fcdb-5843-aff1-88ed31d771ac",
-        "address": "4220-Boulder-Park-Dr-Euless-TX-76040",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1556,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">59",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.071896,
-          32.826493
         ]
       }
     },
