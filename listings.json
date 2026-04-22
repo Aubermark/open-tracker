@@ -16783,6 +16783,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "843ac6ef-e0e8-5ebd-8bb7-d8790935fe56",
+        "address": "214-Park-Ave-Anna-TX-75409",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-04-22T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.549025,
+          33.371968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "845cd0f3-9250-5f82-8462-41893178ea5d",
         "address": "1717-Ne-20th-Ave-Fort-Lauderdale-FL-33305",
         "beds": 3,
