@@ -508,6 +508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03c1b770-54bc-5a82-9a22-ba1a55d8fd72",
+        "address": "1411-N-Alberta-St-Apt-8-Portland-OR-97217",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-04-22T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681457,
+          45.559212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03d620bf-fa52-5f13-9dbd-850e92aae594",
         "address": "18320-Candice-Dr-Triangle-VA-22172",
         "beds": 4,
