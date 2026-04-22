@@ -19345,6 +19345,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97d573f7-6171-5c60-9772-f993bde720b9",
+        "address": "5-Hempstead-Pl-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2088,
+        "listed_at": "2026-04-22T18:30:01.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8796,
+          34.160615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9853ae4c-1012-529e-8565-8e106591e56a",
         "address": "10989-Sw-Oneida-St-Tualatin-OR-97062",
         "beds": 3,
