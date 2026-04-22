@@ -4918,6 +4918,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "273f387a-9e80-5f29-b9cb-6a8819044f91",
+        "address": "3372-Vinemont-Dr-Thompsons-Station-TN-37179",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2564,
+        "listed_at": "2026-04-22T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.891313,
+          35.834645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27414ea0-f81d-40ad-944b-f0da8525a58c",
         "address": "709-Peroni-Ave-Debary-FL-32713",
         "beds": 4,
