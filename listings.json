@@ -6409,6 +6409,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3372c11c-50bf-5bc9-a970-fb0658d49550",
+        "address": "408-N-1500-W-Clearfield-UT-84015",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 1791,
+        "listed_at": "2026-04-22T23:10:01.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.054273,
+          41.119361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33ad0cd6-022e-5ac1-af6e-6c465fc4a63f",
         "address": "7405-E-Cross-Ridge-Pl-Tucson-AZ-85710",
         "beds": 3,
@@ -22195,6 +22216,27 @@
         "coordinates": [
           -84.434622,
           33.999225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b04aaa91-06cd-59b4-a929-6203a0def9fe",
+        "address": "3548-Durant-River-Dr-Las-Vegas-NV-89122",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1374,
+        "listed_at": "2026-04-22T23:10:01.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0297,
+          36.125192
         ]
       }
     },
