@@ -6178,6 +6178,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3168f6db-c445-551d-8b80-5ff7334d267e",
+        "address": "2855-Mossy-Meadow-Dr-High-Point-NC-27265",
+        "beds": 2,
+        "baths": 3,
+        "sqft": 1565,
+        "listed_at": "2026-04-22T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.977634,
+          36.012612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3173e6fc-a852-5574-aa2f-6c2fd5ac8d32",
         "address": "636-Merioneth-Dr-Ne-Fort-Walton-Beach-FL-32547",
         "beds": 3,
@@ -20857,6 +20878,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a4ab8b40-92d8-5df4-b0ef-4d5cfd60166b",
+        "address": "408-Ocean-Ct-Clearwater-FL-33756",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-04-22T20:20:02.000Z",
+        "days_on_market": "41",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.779339,
+          27.930581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a4d3d94a-ef99-58e4-8345-99546232d374",
         "address": "20442-E-Thornton-Ct-Queen-Creek-AZ-85142",
         "beds": 5,
@@ -24568,6 +24610,27 @@
         "coordinates": [
           -80.880867,
           34.088966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c68604a2-79bc-565d-afdc-84e9a8297be1",
+        "address": "2027-Ferdinand-Ct-Indianapolis-IN-46234",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1207,
+        "listed_at": "2026-04-22T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.327801,
+          39.793576
         ]
       }
     },
