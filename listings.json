@@ -16363,6 +16363,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8098a37f-3393-5e09-8911-9f11967e4075",
+        "address": "6268-Lakewood-Trl-Pinson-AL-35126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1913,
+        "listed_at": "2026-04-22T13:20:02.000Z",
+        "days_on_market": ">59",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.609856,
+          33.759161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "80c7f81c-8ecd-5e04-9d3c-f99018b828fa",
         "address": "8271-Moorhaven-Way-Sacramento-CA-95828",
         "beds": 3,
