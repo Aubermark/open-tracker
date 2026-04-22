@@ -17833,6 +17833,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c59f16f-5816-5727-a701-3ab68dc93974",
+        "address": "4134-Fawn-Ln-Se-Smyrna-GA-30082",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1259,
+        "listed_at": "2026-04-22T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.547573,
+          33.8536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c6025e3-5ed1-51cb-b1a4-9b732c8a1d1b",
         "address": "2029-Diamond-Ridge-Dr-Carrollton-TX-75010",
         "beds": 4,
