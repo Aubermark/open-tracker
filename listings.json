@@ -6388,6 +6388,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33442f67-e661-5acc-a4f7-ec120d33b03d",
+        "address": "9816-Mullins-Crossing-Dr-Fort-Worth-TX-76126",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2542,
+        "listed_at": "2026-04-22T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.486529,
+          32.675158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33ad0cd6-022e-5ac1-af6e-6c465fc4a63f",
         "address": "7405-E-Cross-Ridge-Pl-Tucson-AZ-85710",
         "beds": 3,
@@ -21817,27 +21838,6 @@
         "coordinates": [
           -78.847963,
           35.940117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ae2f9a43-2c62-489f-b5ec-4ee84a9a1720",
-        "address": "3315-Linstead-Ct-Loganville-GA-30052",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2529,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">59",
-        "current_price": 423000,
-        "price_label": "$423K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.952906,
-          33.84592
         ]
       }
     },
