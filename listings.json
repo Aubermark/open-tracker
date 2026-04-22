@@ -31546,6 +31546,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ffa2e0a5-a99f-597d-81c2-ede8393c5b4b",
+        "address": "3607-Duffy-Cir-North-Las-Vegas-NV-89031",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1628,
+        "listed_at": "2026-04-22T17:00:01.000Z",
+        "days_on_market": "19",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.188693,
+          36.239718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ffbc0688-9eed-5938-a66c-7fea570b020e",
         "address": "280-Sugar-Gum-Ln-266-Pinehurst-NC-28374",
         "beds": 2,
