@@ -5044,6 +5044,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
+        "address": "2237-Nw-158th-St-Edmond-OK-73013",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1582,
+        "listed_at": "2026-04-22T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.553594,
+          35.631298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27cde974-994c-5f37-8ff4-67483775a74a",
         "address": "828-Pebblecreek-Dr-Burleson-TX-76028",
         "beds": 4,
