@@ -12730,27 +12730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "658c0180-2282-5342-a99e-9873afdbd51f",
-        "address": "610-Executive-Blvd-Delaware-OH-43015",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1679,
-        "listed_at": "2026-04-17T21:50:03.000Z",
-        "days_on_market": "5",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.08215,
-          40.316831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "65e6684f-2180-5d99-b272-111046b3f076",
         "address": "4051-Gordon-Ct-Winston-Salem-NC-27104",
         "beds": 3,
@@ -15223,6 +15202,27 @@
         "coordinates": [
           -112.332663,
           33.614798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78750069-0838-570f-a560-57fcaa65b5e0",
+        "address": "557-E-Hollow-Creek-Rd-Draper-UT-84020",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 5241,
+        "listed_at": "2026-04-22T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1225000,
+        "price_label": "$1.225M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.874265,
+          40.495122
         ]
       }
     },
@@ -31540,27 +31540,6 @@
         "coordinates": [
           -105.154199,
           39.678201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ffa2e0a5-a99f-597d-81c2-ede8393c5b4b",
-        "address": "3607-Duffy-Cir-North-Las-Vegas-NV-89031",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1628,
-        "listed_at": "2026-04-22T17:00:01.000Z",
-        "days_on_market": "19",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.188693,
-          36.239718
         ]
       }
     },
