@@ -13192,6 +13192,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68867690-2c66-5ab6-b7a3-ced2987de7b0",
+        "address": "1109-Frienza-Ave-Sacramento-CA-95815",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1138,
+        "listed_at": "2026-04-22T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.44109,
+          38.613165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68867734-0fe9-5c02-aeb7-b13d7abb9f0c",
         "address": "5333-Buckner-Dr-Flower-Mound-TX-75028",
         "beds": 3,
@@ -16510,6 +16531,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8297e035-42cf-5106-ab63-fdfbc03c023a",
+        "address": "18331-W-Ivy-Ln-Surprise-AZ-85388",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 4794,
+        "listed_at": "2026-04-22T16:40:02.000Z",
+        "days_on_market": "13",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.453906,
+          33.625981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "82bb4d80-28e5-5e91-bcfc-ebdf3f307575",
         "address": "8321-Cloverglen-Ln-Fort-Worth-TX-76123",
         "beds": 3,
@@ -16630,27 +16672,6 @@
         "coordinates": [
           -80.764505,
           35.384223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "839a337a-d029-5a59-9d85-e834bd341353",
-        "address": "715-E-72nd-Ter-Kansas-City-MO-64131",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1133,
-        "listed_at": "2026-04-10T19:14:10.000Z",
-        "days_on_market": ">59",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.57794,
-          38.995817
         ]
       }
     },
