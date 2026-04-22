@@ -20269,6 +20269,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0ac69bc-97b9-55b3-8625-69f9ed7380bf",
+        "address": "108-Austin-Dr-Folsom-CA-95630",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1207,
+        "listed_at": "2026-04-22T21:40:01.000Z",
+        "days_on_market": "56",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.167836,
+          38.667038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0cef0fe-8712-5b51-a905-80a07e40bfe9",
         "address": "256-Jefferson-Cir-Macon-GA-31220",
         "beds": 3,
