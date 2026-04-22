@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02fa1090-0a7c-5f35-8917-daf5ee7a4a56",
+        "address": "220-E-2000-S-Orem-UT-84058",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1272,
+        "listed_at": "2026-04-22T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.689966,
+          40.26046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03185b43-70c0-5714-8d33-ff0bfc174630",
         "address": "3956-E-Arabian-Dr-Gilbert-AZ-85296",
         "beds": 4,
