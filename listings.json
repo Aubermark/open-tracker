@@ -12289,27 +12289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "61abdd2b-a4ce-5e75-af44-d7b013bbf722",
-        "address": "13433-N-Emberwood-Dr-Sun-City-AZ-85351",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1318,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">59",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.274253,
-          33.60598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "61e07fa2-4382-5b02-8f39-ec0ead5fabda",
         "address": "1905-S-Milledge-Ave-Apt-5-Athens-GA-30605",
         "beds": 2,
@@ -16426,27 +16405,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8118bf87-0896-502f-b56a-dfdd37847df2",
-        "address": "11694-N-166th-Dr-Surprise-AZ-85388",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2284,
-        "listed_at": "2026-03-17T20:30:08.000Z",
-        "days_on_market": "36",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.416457,
-          33.590703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
         "address": "8605-N-67th-Ln-Peoria-AZ-85345",
         "beds": 3,
@@ -20431,6 +20389,27 @@
         "coordinates": [
           -111.980741,
           41.060412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1a02450-a19c-5f4b-b302-3bee1a1ca756",
+        "address": "8095-Brookville-Way-Avon-IN-46123",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3208,
+        "listed_at": "2026-04-22T15:30:02.000Z",
+        "days_on_market": "23",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.379763,
+          39.798042
         ]
       }
     },
@@ -25177,27 +25156,6 @@
         "coordinates": [
           -80.147813,
           32.992569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cb8a547e-fb23-5b7c-87cf-291edb73f18d",
-        "address": "16027-Harbor-Hill-Dr-Charlotte-NC-28273-17364711",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2711,
-        "listed_at": "2026-04-07T06:32:18.000Z",
-        "days_on_market": "47",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.980697,
-          35.092069
         ]
       }
     },
