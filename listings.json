@@ -12940,27 +12940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "66f1b9f0-4103-5487-8e92-f94fc76b1cca",
-        "address": "8189-Shady-Maple-Dr-Canal-Winchester-OH-43110-17867859",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3549,
-        "listed_at": "2026-04-03T20:20:05.000Z",
-        "days_on_market": "47",
-        "current_price": 530000,
-        "price_label": "$530K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.761424,
-          39.853189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67138300-8dd2-5a65-98f7-06b1f8f7b777",
         "address": "1038-Cash-St-Alvin-TX-77511",
         "beds": 3,
@@ -31162,6 +31141,27 @@
         "coordinates": [
           -80.355034,
           25.67634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd81c44a-8072-51a6-b1e1-3df915140e28",
+        "address": "20016-W-Washington-St-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1444,
+        "listed_at": "2026-04-22T17:50:02.000Z",
+        "days_on_market": "52",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.491398,
+          33.44652
         ]
       }
     },
