@@ -14389,6 +14389,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71ca54cd-7e05-5ab7-b156-3746625694e1",
+        "address": "1729-S-Desert-View-Pl-Apache-Junction-AZ-85120",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1833,
+        "listed_at": "2026-04-22T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.573523,
+          33.399525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71e4d686-6ad0-51c3-abab-5397e1057aa4",
         "address": "2829-Deer-Creek-Ct-Indian-Head-MD-20640",
         "beds": 3,
