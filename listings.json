@@ -12268,6 +12268,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60dfb461-72e6-5dec-a370-85ae3e31230f",
+        "address": "600-Northern-Way-Apt-205-Winter-Springs-FL-32708",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-04-23T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.257558,
+          28.682102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "614df151-a631-55cc-a379-3022e26339a0",
         "address": "1144-Hawthorne-Ave-E-St-Paul-MN-55106",
         "beds": 2,
@@ -28138,27 +28159,6 @@
         "coordinates": [
           -85.660022,
           40.06382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e644e0c6-fa8e-5161-bf1a-49ab3fd16b65",
-        "address": "991-Calma-Dr-Chula-Vista-CA-91910-17659962",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2293,
-        "listed_at": "2026-04-17T22:00:05.000Z",
-        "days_on_market": "29",
-        "current_price": 1105000,
-        "price_label": "$1.105M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.031053,
-          32.628362
         ]
       }
     },
