@@ -30979,6 +30979,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fc89b10a-649c-510d-994e-afda06c16928",
+        "address": "7722-Oak-Grove-Cir-Lake-Worth-FL-33467",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1856,
+        "listed_at": "2026-04-23T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.167885,
+          26.585412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fca47e86-7eaf-5993-8bdc-1b8a9c7452e8",
         "address": "1545-S-Beltline-Blvd-Columbia-SC-29205",
         "beds": 3,
