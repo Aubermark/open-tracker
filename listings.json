@@ -2167,6 +2167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "117931c5-5bd3-5d1c-ae36-78f1c9d912f3",
+        "address": "1605-Country-Club-Dr-Friendswood-TX-77546",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2663,
+        "listed_at": "2026-04-23T16:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.218232,
+          29.47893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1190ec2c-d4a1-531d-abe8-0294ac0cdc93",
         "address": "2511-S-Entwistle-St-Gilbert-AZ-85295",
         "beds": 3,
