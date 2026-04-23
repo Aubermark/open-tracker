@@ -20878,6 +20878,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a4aa187b-2c07-5472-b81b-df6c35e1cc11",
+        "address": "3143-Chase-Ct-Sw-Marietta-GA-30008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1898,
+        "listed_at": "2026-04-23T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 382000,
+        "price_label": "$382K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.599558,
+          33.877588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a4d3d94a-ef99-58e4-8345-99546232d374",
         "address": "20442-E-Thornton-Ct-Queen-Creek-AZ-85142",
         "beds": 5,
@@ -23140,27 +23161,6 @@
         "coordinates": [
           -80.336281,
           25.875041
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b826fa0f-b017-5518-af56-72df5ae5e541",
-        "address": "3672-Platina-Park-Ct-Decatur-GA-30034",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1575,
-        "listed_at": "2026-03-26T17:50:09.000Z",
-        "days_on_market": ">60",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.230052,
-          33.67436
         ]
       }
     },
