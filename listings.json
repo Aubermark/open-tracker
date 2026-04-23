@@ -9391,27 +9391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4af2a03c-61af-5ac2-8df7-275e55b2fb8e",
-        "address": "",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1619,
-        "listed_at": "2026-04-15T16:50:07.000Z",
-        "days_on_market": ">60",
-        "current_price": 419000,
-        "price_label": "$419K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.62868,
-          42.354853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4b24e1ab-ecf4-5985-b1b2-38295d73d44a",
         "address": "131-W-6th-Ave-San-Manuel-AZ-85631",
         "beds": 3,
@@ -21424,6 +21403,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aad32c66-944e-571f-a0bd-d77162dc6922",
+        "address": "1217-Ashley-Dr-Weatherford-TX-76087",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2268,
+        "listed_at": "2026-04-23T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.820042,
+          32.722171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ab05d084-1739-536a-908a-62f88c940fc9",
         "address": "400-Village-Pkwy-Ne-Apt-142-Atlanta-GA-30306",
         "beds": 2,
@@ -30706,27 +30706,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "fab0e5b7-a143-57ba-86d2-c5c83d56ec81",
-        "address": "5105-Williamette-Ln-Killeen-TX-76549",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2160,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "35",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.796873,
-          31.084878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "fabb76a8-69ba-5278-b4c7-e8b828d4ad39",
         "address": "1965-Deer-Creek-Trl-Buford-GA-30519",
         "beds": 4,
@@ -31099,6 +31078,27 @@
         "coordinates": [
           -80.355034,
           25.67634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd77efbc-b324-5214-b919-55747228084a",
+        "address": "16-Thomas-Ct-Nw-Cartersville-GA-30121",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1185,
+        "listed_at": "2026-04-23T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.820728,
+          34.265927
         ]
       }
     },
