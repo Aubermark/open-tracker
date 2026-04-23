@@ -9412,27 +9412,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4a2e274c-e668-52e8-a5fb-430e201dffd0",
-        "address": "332-Cutty-Sark-Rd-Winston-Salem-NC-27103",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1970,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "49",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.363386,
-          36.045715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4a5f6275-dd69-585f-aeb3-6cd1d626d492",
         "address": "1302-Old-Market-Sq-Greenwood-IN-46143",
         "beds": 3,
@@ -30574,6 +30553,27 @@
         "coordinates": [
           -82.591404,
           28.441909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f97a57b1-b2a1-5171-b742-6699ff1a7987",
+        "address": "9716-Hardesty-Ave-Kansas-City-MO-64137",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-04-23T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526489,
+          38.948023
         ]
       }
     },
