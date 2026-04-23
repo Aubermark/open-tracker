@@ -3343,6 +3343,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a1fa436-6bbc-5030-850d-36328d945ae1",
+        "address": "9622-Scarborough-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1613,
+        "listed_at": "2026-04-23T17:10:02.000Z",
+        "days_on_market": "10",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.127769,
+          32.948948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a5934df-b000-534a-90e3-399ab7ff0152",
         "address": "159-Hadleigh-Dr-Lexington-SC-29072",
         "beds": 3,
@@ -5290,6 +5311,27 @@
         "coordinates": [
           -81.679456,
           35.253458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "29a41a45-eb1d-5a2d-83a3-3a64a60e1e5f",
+        "address": "6767-Thistle-Down-Dr-Harrisburg-NC-28075",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3190,
+        "listed_at": "2026-04-23T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.600491,
+          35.320525
         ]
       }
     },
@@ -15895,27 +15937,6 @@
         "coordinates": [
           -112.333361,
           34.656039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7e511983-faa8-5f52-b31e-a06475ae39fe",
-        "address": "415-Piedmont-Cir-Covington-GA-30016",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3736,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": "51",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.954964,
-          33.625719
         ]
       }
     },
@@ -29230,6 +29251,27 @@
         "coordinates": [
           -90.287494,
           38.530799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ee05ea41-697d-5674-b4a5-9633c286b09b",
+        "address": "4644-Doral-Park-Ave-Kissimmee-FL-34758",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2178,
+        "listed_at": "2026-04-23T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.471528,
+          28.204594
         ]
       }
     },
