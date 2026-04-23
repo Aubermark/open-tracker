@@ -4498,6 +4498,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23d14e5e-0aab-50f0-abcd-8d7296b2006a",
+        "address": "9801-Cedarcrest-Dr-Providence-Village-TX-76227",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1493,
+        "listed_at": "2026-04-23T17:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.963995,
+          33.231463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23e6af47-d299-5162-880b-058aba24c8e6",
         "address": "849-S-780-W-Tooele-UT-84074",
         "beds": 5,
@@ -9076,6 +9097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4822aadb-d15c-5db8-87b4-f8c14467e8c0",
+        "address": "6-Pinellas-Ct-Simpsonville-SC-29680",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1563,
+        "listed_at": "2026-04-23T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.296372,
+          34.725655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48313ae1-24cf-552c-9ae1-0f6e8ca2bd90",
         "address": "368-Holstein-Dr-Dallas-NC-28034",
         "beds": 5,
@@ -9826,6 +9868,27 @@
         "coordinates": [
           -97.39223,
           30.357785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4dc69876-c390-5755-941e-405035d19990",
+        "address": "5024-W-Siesta-Way-Laveen-AZ-85339",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2569,
+        "listed_at": "2026-04-23T17:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 497000,
+        "price_label": "$497K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.168055,
+          33.364704
         ]
       }
     },
@@ -21418,27 +21481,6 @@
         "coordinates": [
           -79.686613,
           35.976322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aa814072-de27-5418-8ce7-2fecdc746a2b",
-        "address": "901-S-Smith-Rd-Unit-1074-Tempe-AZ-85281",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1805,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">60",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.900297,
-          33.419858
         ]
       }
     },
