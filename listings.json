@@ -26191,6 +26191,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d3c2a2e8-1e88-532d-8d11-3c626f70b191",
+        "address": "2405-Falling-Leaf-Ct-Rock-Hill-SC-29732",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2569,
+        "listed_at": "2026-04-23T14:00:02.000Z",
+        "days_on_market": ">60",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03011,
+          34.992024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d3c4ba62-fb08-55c8-98bf-94fd5aa64101",
         "address": "11849-Blackeyed-Susan-Dr-Riverview-FL-33579",
         "beds": 5,
