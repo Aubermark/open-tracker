@@ -12226,6 +12226,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "603abd54-73fb-59f6-a322-cd9c91b8cda5",
+        "address": "5023-Drake-Pond-Ln-Rock-Hill-SC-29732",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1108,
+        "listed_at": "2026-04-23T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.108325,
+          35.009504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60a76875-33d8-5a47-aa21-4e79623fd3cd",
         "address": "177-Orient-Dr-Saint-Augustine-FL-32092",
         "beds": 4,
@@ -21907,6 +21928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae1eb479-c03e-50ae-a2a3-78001c973f3e",
+        "address": "3800-El-Portal-Ave-Las-Vegas-NV-89102",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-04-23T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.192002,
+          36.147418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae48686a-379f-5da3-9c69-c6ec4b36c859",
         "address": "212-Congaree-River-Dr-Summerville-SC-29485",
         "beds": 3,
@@ -26185,27 +26227,6 @@
         "coordinates": [
           -112.379976,
           33.605561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d37c7e65-99e7-5af1-b5b4-82648d70e6e1",
-        "address": "27938-22nd-Ave-S-Federal-Way-WA-98003",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2150,
-        "listed_at": "2026-04-13T16:20:05.000Z",
-        "days_on_market": "10",
-        "current_price": 650000,
-        "price_label": "$650K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.304405,
-          47.350529
         ]
       }
     },
