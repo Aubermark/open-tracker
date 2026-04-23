@@ -499,7 +499,8 @@
     "case",
     ["<=", domNumber, 1],   "#a8c623",
     ["<=", domNumber, 7],   "#21f36b",
-    ["<=", domNumber, 39],  "#2196F3",
+    ["<=", domNumber, 30],  "#2196F3",
+    ["<=", domNumber, 59],  "#9821f3",
     ["<=", domNumber, 120], "#FF9800",
     "#E65100"
   ];
@@ -508,7 +509,8 @@
     "case",
     ["<=", domNumber, 1],   "pill-lime",
     ["<=", domNumber, 7],   "pill-green",
-    ["<=", domNumber, 39],  "pill-blue",
+    ["<=", domNumber, 30],  "pill-blue",
+    ["<=", domNumber, 59],  "pill-violet",
     ["<=", domNumber, 120], "pill-orange",
     "pill-red"
   ];
@@ -516,13 +518,14 @@
   const DOM_RANGES = [
     { key: 0,   label: "New homes today",  color: "#a8c623" },
     { key: 1,   label: "1 – 7 days",       color: "#21f36b" },
-    { key: 7,   label: "7 – 40 days",      color: "#2196F3" },
-    { key: 40,  label: "40 – 120 days",    color: "#FF9800" },
+    { key: 7,   label: "7 – 30 days",      color: "#2196F3" },
+    { key: 30,  label: "7 – 30 days",      color: "#9821f3" },
+    { key: 60,  label: "60 – 120 days",    color: "#FF9800" },
     { key: 120, label: "+120 days",        color: "#E65100" },
   ];
 
   const activeFilters = new Set(DOM_RANGES.map(r => r.key));
-  let domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+  let domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0,  120: 0 };
 
   function parseDOMValue(raw) {
     const s = String(raw);
@@ -530,13 +533,14 @@
   }
 
   function computeDOMCounts(features) {
-    domCounts = { 0: 0, 1: 0, 7: 0, 40: 0, 120: 0 };
+    domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0, 120: 0 };
     features.forEach(f => {
       const d = parseDOMValue(f.properties?.days_on_market ?? 0);
       if      (d <= 1)              domCounts[0]++;
       else if (d > 1   && d <= 7)   domCounts[1]++;
-      else if (d > 7   && d < 40)   domCounts[7]++;
-      else if (d >= 40  && d <= 120) domCounts[40]++;
+      else if (d > 7   && d < 30)   domCounts[7]++;
+      else if (d > 30   && d < 59)   domCounts[30]++;
+      else if (d >= 60  && d <= 120) domCounts[60]++;
       else if (d > 120)             domCounts[120]++;
     });
   }
@@ -560,8 +564,9 @@
     const conditions = [];
     if (activeFilters.has(0))   conditions.push(["<=", domNumber, 1]);
     if (activeFilters.has(1))   conditions.push(["all", [">", domNumber, 1],  ["<=", domNumber, 7]]);
-    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 39]]);
-    if (activeFilters.has(40))  conditions.push(["all", [">", domNumber, 39], ["<=", domNumber, 120]]);
+    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 7],  ["<=", domNumber, 30]]);
+    if (activeFilters.has(7))   conditions.push(["all", [">", domNumber, 30],  ["<=", domNumber, 59]]);
+    if (activeFilters.has(60))  conditions.push(["all", [">", domNumber, 59], ["<=", domNumber, 120]]);
     if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
     return ["any", ...conditions];
   }
@@ -806,7 +811,7 @@
       .catch(err => console.warn("Could not load listings:", err));
 
     const PILL_COLORS = {
-      "pill-lime": "#a8c623", "pill-green": "#21f36b",
+      "pill-lime": "#a8c623", "pill-green": "#21f36b", "pill-violet": "#9821f3",
       "pill-blue": "#2196F3", "pill-orange": "#FF9800", "pill-red": "#E65100",
     };
     for (const [name, color] of Object.entries(PILL_COLORS)) {
