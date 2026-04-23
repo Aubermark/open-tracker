@@ -7627,6 +7627,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3ca9a755-34ec-5e99-bd10-de8ea3100b27",
+        "address": "6009-Randleman-Dr-Del-Valle-TX-78617",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2068,
+        "listed_at": "2026-04-23T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.611941,
+          30.16863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3cc0ce80-34f1-5bc4-95fd-aa5ca84c765b",
         "address": "9720-Austin-St-Ne-Blaine-MN-55014",
         "beds": 4,
@@ -8650,6 +8671,27 @@
         "coordinates": [
           -86.660884,
           33.66367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4555fc07-dc27-5d23-ac1f-2a48ed82825d",
+        "address": "1519-E-Desert-Ln-Phoenix-AZ-85042",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2346,
+        "listed_at": "2026-04-23T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.049941,
+          33.371841
         ]
       }
     },
