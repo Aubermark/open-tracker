@@ -3091,6 +3091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16f473d7-df44-5f36-b62f-8c66d6fe8376",
+        "address": "20620-W-Walton-Dr-Buckeye-AZ-85396",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3117,
+        "listed_at": "2026-04-23T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 677000,
+        "price_label": "$677K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.503126,
+          33.495315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "170b793f-0093-5821-b1f4-ebc7cc19228c",
         "address": "642-W-Cassidy-Pl-Tucson-AZ-85737",
         "beds": 3,
@@ -23251,6 +23272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8f012f1-1dd3-5874-b5cc-24428354372b",
+        "address": "765-Trebor-Dr-Garner-NC-27529",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2321,
+        "listed_at": "2026-04-23T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 482000,
+        "price_label": "$482K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.629918,
+          35.652697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8fa6b35-1a09-5e9e-82ed-d544d64c8ff4",
         "address": "510-24th-St-Sw-Rochester-MN-55902",
         "beds": 4,
@@ -29671,27 +29713,6 @@
         "coordinates": [
           -93.091264,
           44.916861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f209126e-1326-58ba-90b9-d6251569b8ab",
-        "address": "5141-W-Aquamarine-St-Tucson-AZ-85742",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1677,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "46",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.075161,
-          32.369792
         ]
       }
     },
