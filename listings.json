@@ -10504,6 +10504,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53eea9a1-5e2f-5a56-83ef-0da6c9b36b91",
+        "address": "1172-Dogwood-Forest-Dr-Ne-Marietta-GA-30068",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2096,
+        "listed_at": "2026-04-23T06:30:11.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.459625,
+          33.978678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5404f3a3-00ed-5915-b9e1-2ccafe047c09",
         "address": "930-Fontmore-Rd-Apt-C-Colorado-Springs-CO-80904",
         "beds": 3,
@@ -20830,6 +20851,27 @@
         "coordinates": [
           -83.100655,
           40.090093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a48f80c2-8a72-5873-ac96-4d07d9fff220",
+        "address": "1202-Jimson-Cir-Se-Conyers-GA-30013",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 5070,
+        "listed_at": "2026-04-23T06:30:11.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.001964,
+          33.62586
         ]
       }
     },
