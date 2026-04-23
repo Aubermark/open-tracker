@@ -5086,6 +5086,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "287541da-f4c6-59fd-84e2-713e351aa84f",
+        "address": "8281-Sw-196th-Court-Rd-Dunnellon-FL-34432",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2198,
+        "listed_at": "2026-04-23T15:10:02.000Z",
+        "days_on_market": ">60",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.447153,
+          29.101545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "289567ef-6c9d-4dfa-b418-fbc2db561b74",
         "address": "8475-Anker-Way-Elk-Grove-CA-95757",
         "beds": 4,
@@ -11800,27 +11821,6 @@
         "coordinates": [
           -106.51317,
           35.093418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5e89ba8c-47d3-5dda-a5ad-171e1adb993f",
-        "address": "501-Yellowstone-Ct-Antioch-TN-37013",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1918,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">60",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.592077,
-          36.034667
         ]
       }
     },
