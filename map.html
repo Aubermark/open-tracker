@@ -538,8 +538,8 @@
       const d = parseDOMValue(f.properties?.days_on_market ?? 0);
       if      (d <= 1)              domCounts[0]++;
       else if (d > 1   && d <= 7)   domCounts[1]++;
-      else if (d > 7   && d < 30)   domCounts[7]++;
-      else if (d > 30   && d < 59)   domCounts[30]++;
+      else if (d > 7   && d <= 30)   domCounts[7]++;
+      else if (d > 30   && d <= 59)   domCounts[30]++;
       else if (d >= 60  && d <= 120) domCounts[60]++;
       else if (d > 120)             domCounts[120]++;
     });

@@ -3574,6 +3574,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c559fa9-f36b-52ea-aa7c-1d06dabe0851",
+        "address": "6734-Wandering-Creek-Dr-Charlotte-NC-28216",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2292,
+        "listed_at": "2026-04-23T18:08:47.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908085,
+          35.302146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c5a0b6a-0f6f-53f0-8e7d-d80bed16a3f6",
         "address": "990-Mulberry-Bay-Dr-Dacula-GA-30019",
         "beds": 5,
@@ -6970,27 +6991,6 @@
         "coordinates": [
           -84.302208,
           33.497199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3865a460-d854-55c3-9765-994792710cd7",
-        "address": "230-Prescott-St-Locust-Grove-GA-30248",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2374,
-        "listed_at": "2026-04-08T17:00:08.000Z",
-        "days_on_market": "59",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.195781,
-          33.368794
         ]
       }
     },
