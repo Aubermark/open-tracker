@@ -8005,6 +8005,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f467dfe-b5fa-5f4c-8ddc-a5bc6aafdc63",
+        "address": "115-Whitestone-Trl-Calera-AL-35040",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1424,
+        "listed_at": "2026-04-23T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.786942,
+          33.154146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f73d69f-6a63-5f1a-889a-276c480eef35",
         "address": "192-Solheim-Ln-Raleigh-NC-27603",
         "beds": 3,
