@@ -15397,27 +15397,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a357e21-cf50-514b-8d4e-2f407a05b3df",
-        "address": "21911-S-215th-St-Queen-Creek-AZ-85142",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2198,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">60",
-        "current_price": 437000,
-        "price_label": "$437K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.619954,
-          33.249464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a90cc10-f7d2-5bfb-b4d5-1711979e9b3f",
         "address": "147-Lake-Jogassee-Dr-Summerville-SC-29485",
         "beds": 3,
@@ -18898,6 +18877,27 @@
         "coordinates": [
           -80.910823,
           35.402416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9345ebfc-3c1e-5653-8a93-d28dff4d355b",
+        "address": "2440-Bracknell-Forest-Trl-Tavares-FL-32778",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1629,
+        "listed_at": "2026-04-23T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.699354,
+          28.806631
         ]
       }
     },
@@ -29803,6 +29803,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f2355745-c5a5-5a5e-b7b5-3694b9f9ecd7",
+        "address": "5865-E-Holmes-Ave-Mesa-AZ-85206",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2126,
+        "listed_at": "2026-04-23T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70415,
+          33.388526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f238c90a-91d1-58b7-960d-b586082a09ad",
         "address": "1151-S-Karen-Ln-Gilbert-AZ-85296",
         "beds": 3,
@@ -30175,27 +30196,6 @@
         "coordinates": [
           -90.257731,
           38.553763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f50b8e41-f4f9-512e-bd37-24be388102ad",
-        "address": "40402-Mostyn-Dr-Magnolia-TX-77354",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2615,
-        "listed_at": "2026-04-23T01:30:01.000Z",
-        "days_on_market": "48",
-        "current_price": 480000,
-        "price_label": "$480K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.66792,
-          30.233427
         ]
       }
     },
