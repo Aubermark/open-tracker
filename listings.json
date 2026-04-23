@@ -214,27 +214,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "01642749-eaba-54a7-bfc4-c38526e762df",
-        "address": "12059-Alta-Carmel-Ct-Unit-168-San-Diego-CA-92128",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1036,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">60",
-        "current_price": 564000,
-        "price_label": "$564K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.072022,
-          32.993217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0190efa5-a6f9-4d49-aff4-458bf24d22e6",
         "address": "5413-Austin-Rd-Monroe-NC-28112",
         "beds": 3,
@@ -17344,6 +17323,27 @@
         "coordinates": [
           -77.075448,
           38.738119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "894cab3f-b769-434f-8b10-917761c6ef5e",
+        "address": "3500-Bailey-Lake-Dr-Fuquay-Varina-NC-27526",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2878,
+        "listed_at": "2026-04-23T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 551000,
+        "price_label": "$551K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.742951,
+          35.581389
         ]
       }
     },
