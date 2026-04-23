@@ -404,15 +404,27 @@
   function flyToListing(feature) {
     const coords = feature.geometry.coordinates;
     const p = feature.properties;
+
     if (selectedMarker) { selectedMarker.remove(); selectedMarker = null; }
     if (activePopup)    { activePopup.remove();    activePopup = null; }
+
+    // ── Cancelar cualquier listener moveend pendiente ──
+    if (flyToListing._pendingMoveEnd) {
+      map.off("moveend", flyToListing._pendingMoveEnd);
+      flyToListing._pendingMoveEnd = null;
+    }
+
     map.flyTo({ center: coords, zoom: 14, speed: 1.4, curve: 1.2 });
+
     const el = document.createElement("div");
     el.className = "selected-pulse";
     selectedMarker = new maplibregl.Marker({ element: el, anchor: "center" })
       .setLngLat(coords).addTo(map);
-    map.once("moveend", () => {
-      if (activePopup) activePopup.remove();
+
+    // Guardar referencia al handler para poder cancelarlo
+    const onMoveEnd = () => {
+      flyToListing._pendingMoveEnd = null;
+      if (activePopup) { activePopup.remove(); activePopup = null; }
       activePopup = new maplibregl.Popup({ offset: 18 })
         .setLngLat(coords)
         .setHTML(`
@@ -422,9 +434,13 @@
             <span style="color:#888;font-size:12px;">⏱ ${p.days_on_market} days on market</span>
           </div>
         `).addTo(map);
-    });
+    };
+
+    flyToListing._pendingMoveEnd = onMoveEnd;
+    map.once("moveend", onMoveEnd);
+
     document.getElementById("search-input").value = p.address || "";
-  }
+}
 
   // ─── Fly to geocode ────────────────────────────────────────────────────────
   function flyToGeocode(result) {
