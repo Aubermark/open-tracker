@@ -27031,6 +27031,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
+        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1069,
+        "listed_at": "2026-04-23T18:20:02.000Z",
+        "days_on_market": ">60",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.200266,
+          33.786085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "da5d80e6-0c49-538c-b5b4-51d65fc33635",
         "address": "1830-Bellgrove-St-Lakeland-FL-33805",
         "beds": 3,
@@ -30175,6 +30196,27 @@
         "coordinates": [
           -95.66792,
           30.233427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f551e257-5424-563e-9f12-89029b065149",
+        "address": "9904-Pronghorn-Rd-Mc-Kinney-TX-75071",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2187,
+        "listed_at": "2026-04-23T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.748595,
+          33.205406
         ]
       }
     },
