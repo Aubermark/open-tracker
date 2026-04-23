@@ -11869,6 +11869,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ddf7295-82b4-5d1b-8e46-fadc1675c680",
+        "address": "11862-Alexandra-Dr-Jacksonville-FL-32218",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1293,
+        "listed_at": "2026-04-23T21:40:02.000Z",
+        "days_on_market": "13",
+        "current_price": 251000,
+        "price_label": "$251K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.694182,
+          30.450423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5df6a6df-ab8f-5e0d-8f39-4d23b381b20f",
         "address": "7763-W-Pipestone-Pl-Phoenix-AZ-85035",
         "beds": 4,
@@ -14068,6 +14089,27 @@
         "coordinates": [
           -97.46751,
           33.053982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6ece1c0c-93cf-5dc9-885e-3152c5c97f70",
+        "address": "3135-Pierce-St-Ne-Minneapolis-MN-55418",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1260,
+        "listed_at": "2026-04-23T21:40:02.000Z",
+        "days_on_market": "16",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.240581,
+          45.025068
         ]
       }
     },
