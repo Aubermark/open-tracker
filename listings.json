@@ -9139,6 +9139,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
+        "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "listed_at": "2026-04-24T23:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.326256,
+          34.658557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45dc74f3-172f-5e07-b8c7-778eb9cba8f2",
         "address": "1938-Gordon-Ct-Erie-CO-80516",
         "beds": 3,
@@ -28432,6 +28453,27 @@
         "coordinates": [
           -80.611856,
           34.285181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e1417ddb-cb1d-5705-89a2-c58d07405990",
+        "address": "6302-Zanes-Ct-Plano-TX-75023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1872,
+        "listed_at": "2026-04-24T23:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.717168,
+          33.058376
         ]
       }
     },
