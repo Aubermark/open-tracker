@@ -27619,6 +27619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db44b96f-194e-50d9-b03c-e7f91a5e9ed4",
+        "address": "727-E-Mahoney-Cir-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1309,
+        "listed_at": "2026-04-24T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.580337,
+          33.365482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db900a80-a180-4bc9-a6b2-946e0eaa0a00",
         "address": "10925-Glacier-Ln-N-Maple-Grove-MN-55369",
         "beds": 3,
