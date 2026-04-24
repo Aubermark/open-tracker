@@ -21067,6 +21067,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1dca753-d198-5325-ba31-cf506db073af",
+        "address": "6263-Paseo-Callado-Carlsbad-CA-92009",
+        "beds": 3,
+        "baths": 4.5,
+        "sqft": 3363,
+        "listed_at": "2026-04-24T17:20:02.000Z",
+        "days_on_market": ">61",
+        "current_price": 1750000,
+        "price_label": "$1.750M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.231375,
+          33.122747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1ee5f37-5227-5a65-aa41-7179fac17615",
         "address": "4860-Hearthside-Dr-Summerville-SC-29485",
         "beds": 3,
@@ -22384,27 +22405,6 @@
         "coordinates": [
           -84.00526,
           33.786484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad8371b2-4e1d-5b89-91f9-ed223f8f3aa8",
-        "address": "3727-Pimilico-Trace-Ln-Charlotte-NC-28216",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1575,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "59",
-        "current_price": 324000,
-        "price_label": "$324K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.879839,
-          35.338751
         ]
       }
     },
@@ -26185,6 +26185,27 @@
         "coordinates": [
           -86.044152,
           40.068645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cfb209d7-f0c6-50d9-9780-29e1a082ff5d",
+        "address": "9153-E-Palm-Tree-Dr-Scottsdale-AZ-85255",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2772,
+        "listed_at": "2026-04-24T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1150000,
+        "price_label": "$1.150M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.883393,
+          33.660849
         ]
       }
     },
