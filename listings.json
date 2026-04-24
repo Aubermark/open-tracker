@@ -14494,6 +14494,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6da597e2-d394-508a-92b3-5825b29514ac",
+        "address": "314-Hartman-Branch-Ln-Winston-Salem-NC-27127",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2088,
+        "listed_at": "2026-04-24T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24896,
+          35.994237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6dc545ce-711e-5802-8c41-eb4e1eb779b3",
         "address": "2234-E-Paraiso-Dr-Phoenix-AZ-85024",
         "beds": 4,
