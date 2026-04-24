@@ -5527,6 +5527,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29fabf66-2d9e-50ab-8362-404f9e592255",
+        "address": "16201-Alsdell-Rd-Midlothian-VA-23112",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3755,
+        "listed_at": "2026-04-24T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 975000,
+        "price_label": "$975K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.709547,
+          37.479153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a06c1e3-4ae2-5619-a004-21490349484e",
         "address": "2030-N-78th-Gln-Phoenix-AZ-85035",
         "beds": 3,
