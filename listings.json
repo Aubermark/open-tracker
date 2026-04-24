@@ -6619,6 +6619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "337633e8-1b1c-5425-a9f0-556498588215",
+        "address": "12230-Sw-187th-Ter-Miami-FL-33177-10207307",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1673,
+        "listed_at": "2026-04-24T15:30:02.000Z",
+        "days_on_market": "44",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.389625,
+          25.593495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33ad0cd6-022e-5ac1-af6e-6c465fc4a63f",
         "address": "7405-E-Cross-Ridge-Pl-Tucson-AZ-85710",
         "beds": 3,
@@ -30805,6 +30826,27 @@
         "coordinates": [
           -85.0184,
           33.980111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f83d1935-7657-568c-888d-dde0f8aedab4",
+        "address": "232-Misty-Pike-Dr-Raleigh-NC-27603",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2336,
+        "listed_at": "2026-04-24T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.692444,
+          35.663035
         ]
       }
     },
