@@ -3322,6 +3322,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1910d4a8-6dc2-5127-b155-f1f7ced1903e",
+        "address": "1520-Herrin-Ave-Charlotte-NC-28205",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1110,
+        "listed_at": "2026-04-24T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.792446,
+          35.24029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1913c725-5f14-5410-9c85-59d773b1b88f",
         "address": "10049-Southlawn-Cir-Commerce-City-CO-80022",
         "beds": 3,
