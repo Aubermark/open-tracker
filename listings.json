@@ -30538,6 +30538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f5ea9c39-f9f6-4003-bc1d-d705e1e5d976",
+        "address": "82-Buckhorn-Branch-Park-Clayton-NC-27520",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2611,
+        "listed_at": "2026-04-24T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.43864,
+          35.632261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f6308dbd-dc2e-58d1-944e-7752442a5f5d",
         "address": "25703-W-Crown-King-Rd-Buckeye-AZ-85326",
         "beds": 4,
