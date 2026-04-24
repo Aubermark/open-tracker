@@ -1579,27 +1579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0c3218b8-cb21-5b0c-a7a6-0141b6980dc1",
-        "address": "125-Stockmar-Rd-Villa-Rica-GA-30180",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1977,
-        "listed_at": "2026-04-24T20:50:02.000Z",
-        "days_on_market": "50",
-        "current_price": 302000,
-        "price_label": "$302K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.903507,
-          33.748155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
         "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
         "beds": 4,
@@ -7768,6 +7747,27 @@
         "coordinates": [
           -86.697341,
           36.280482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b7129a6-f9b1-565c-9fcb-eb3f1cb3972f",
+        "address": "5401-Bentgrass-Dr-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1922,
+        "listed_at": "2026-04-24T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.542633,
+          35.781979
         ]
       }
     },
@@ -19807,6 +19807,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95122c83-f42b-5098-a91a-e053be33297b",
+        "address": "5935-Southseas-St-Houston-TX-77033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1452,
+        "listed_at": "2026-04-24T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.330694,
+          29.676568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95206a76-82ef-483c-916f-139b6e4fc70a",
         "address": "2943-N-Sun-City-Ave-Star-ID-83669",
         "beds": 5,
@@ -23875,6 +23896,27 @@
         "coordinates": [
           -81.915842,
           41.423898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8c3be48-58b4-54dd-a590-c2747bc6b8e4",
+        "address": "309-Cedar-Glade-Ct-Lebanon-TN-37090",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1772,
+        "listed_at": "2026-04-24T21:40:02.000Z",
+        "days_on_market": "36",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.397042,
+          36.187767
         ]
       }
     },
