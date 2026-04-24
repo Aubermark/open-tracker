@@ -970,6 +970,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0804d3cf-0861-5203-8d77-966ca079c1fc",
+        "address": "2006-Wexford-Way-Statesville-NC-28625",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1608,
+        "listed_at": "2026-04-24T22:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.851035,
+          35.801377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08094c9f-3d3b-5413-a5ca-f37ac8ff13f9",
         "address": "19-Crispwater-Way-Hopkinton-MA-01748",
         "beds": 2,
