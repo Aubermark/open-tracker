@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03185b43-70c0-5714-8d33-ff0bfc174630",
+        "address": "3956-E-Arabian-Dr-Gilbert-AZ-85296",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2132,
+        "listed_at": "2026-04-24T14:50:02.000Z",
+        "days_on_market": "8",
+        "current_price": 772000,
+        "price_label": "$772K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.705003,
+          33.337314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "032e6bae-8558-5005-a3a9-454c47190d70",
         "address": "7668-Benecia-Dr-Fountain-CO-80817",
         "beds": 3,
@@ -12142,6 +12163,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5dc7b82a-348b-5c38-a49e-d332dc8a306b",
+        "address": "1305-Ivey-Grove-Ct-Fuquay-Varina-NC-27526",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3670,
+        "listed_at": "2026-04-24T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77735,
+          35.565986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ddf7295-82b4-5d1b-8e46-fadc1675c680",
         "address": "11862-Alexandra-Dr-Jacksonville-FL-32218",
         "beds": 3,
@@ -19744,6 +19786,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "96a118e0-230f-5986-a669-e3a8b3018151",
+        "address": "4403-Upland-Stream-Ln-Katy-TX-77493",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2296,
+        "listed_at": "2026-04-24T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.791615,
+          29.836977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9715101f-e069-5151-89fb-06bb20662a4e",
         "address": "479-Clearwater-Way-Monroe-GA-30655",
         "beds": 4,
@@ -19969,27 +20032,6 @@
         "coordinates": [
           -80.874267,
           35.142308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9a0507b9-9cf7-5fab-97ca-483045f3bc0f",
-        "address": "121-Pelham-Ln-Fort-Mill-SC-29715",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1886,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "29",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.907161,
-          35.026548
         ]
       }
     },
