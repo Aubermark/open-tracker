@@ -26863,6 +26863,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5286425-d6bd-5407-a0c3-f41c81980712",
+        "address": "4436-Chowning-Way-Atlanta-GA-30338",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1396,
+        "listed_at": "2026-04-24T10:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.302694,
+          33.925006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d52c7d97-cd19-5dc4-b70a-f52c84a0402e",
         "address": "9200-Nash-Ln-North-Ridgeville-OH-44039",
         "beds": 3,
@@ -27067,6 +27088,27 @@
         "coordinates": [
           -83.973196,
           33.862129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d734fd7a-1b96-5c7a-8ee2-5183a1f207c6",
+        "address": "1441-Pepper-Tree-Ln-San-Bernardino-CA-92404",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 952,
+        "listed_at": "2026-04-24T10:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.274386,
+          34.125822
         ]
       }
     },
