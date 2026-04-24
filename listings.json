@@ -7123,6 +7123,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37aa7032-49f9-5dcf-9f42-22294f519456",
+        "address": "3255-Whitehall-Dr-Dallas-TX-75229",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3297,
+        "listed_at": "2026-04-24T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.866553,
+          32.901076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "384616bc-6b44-5d15-8aa5-9aba61e291b8",
         "address": "2744-Lisa-Dr-Jonesboro-GA-30236",
         "beds": 3,
