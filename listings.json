@@ -12352,6 +12352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5eaf3369-e761-55e4-857b-26040f423471",
+        "address": "4663-W-Runyon-Lake-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1200,
+        "listed_at": "2026-04-24T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.190848,
+          39.599499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ec707de-968c-597e-ab07-bf9c53283b39",
         "address": "414-Binnacle-Way-Crosby-TX-77532",
         "beds": 3,
@@ -18982,27 +19003,6 @@
         "coordinates": [
           -84.123402,
           34.024151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "90f22bb4-d46e-5543-9419-acb5abf5458c",
-        "address": "1722-Furnace-Road-Ext-Lincolnton-NC-28092",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1580,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": ">61",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.130583,
-          35.509863
         ]
       }
     },
