@@ -13129,6 +13129,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62beb166-685f-5f9d-9816-22fe13709be1",
+        "address": "361-Kelly-Bay-Rd-Walterboro-SC-29488",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2868,
+        "listed_at": "2026-04-24T23:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.623098,
+          33.033554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "630f34b9-9e3a-5206-90fb-941623396768",
         "address": "12567-Sw-Pembroke-Cir-N-Lake-Suzy-FL-34269",
         "beds": 3,
@@ -17659,6 +17680,27 @@
         "coordinates": [
           -95.670385,
           30.237498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85538ef2-5bca-5b69-9e38-2f1d43a7dfaf",
+        "address": "1107-Wynnes-Ridge-Cir-Se-Marietta-GA-30067",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1179,
+        "listed_at": "2026-04-24T23:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.468339,
+          33.913762
         ]
       }
     },
