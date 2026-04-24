@@ -13129,6 +13129,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63ec17bc-0987-5e5c-b3bb-e8363761b8a9",
+        "address": "41977-W-Lunar-St-Maricopa-AZ-85138",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2694,
+        "listed_at": "2026-04-24T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.018705,
+          33.037217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "649920ea-4f43-5d0d-b836-b61ca8970e8b",
         "address": "17836-Mary-Margaret-St-Dallas-TX-75287",
         "beds": 3,
@@ -17260,27 +17281,6 @@
         "coordinates": [
           -96.642278,
           33.196904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8392b0a5-dbc9-50e0-a9fb-83791c791d10",
-        "address": "5439-Cambridge-Bay-Dr-Charlotte-NC-28269",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2025,
-        "listed_at": "2026-04-18T06:45:15.000Z",
-        "days_on_market": "7",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.764505,
-          35.384223
         ]
       }
     },
@@ -29530,6 +29530,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eced4336-6dd1-5d1c-a5e4-863ae975cf1f",
+        "address": "4170-Hathaway-Ln-Mount-Olive-AL-35117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1509,
+        "listed_at": "2026-04-24T18:20:03.000Z",
+        "days_on_market": "11",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.864295,
+          33.632285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ed1da7f9-debf-5e06-b430-9ead640d5495",
         "address": "943-Liberty-Bell-Run-Hoschton-GA-30548",
         "beds": 3,
@@ -31015,27 +31036,6 @@
         "coordinates": [
           -99.111038,
           30.037017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f949e48c-627f-55f2-8e4f-c1a12ba05705",
-        "address": "990-Old-Linn-Rd-China-Grove-NC-28023",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 854,
-        "listed_at": "2026-04-21T20:50:02.000Z",
-        "days_on_market": "3",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.561083,
-          35.549939
         ]
       }
     },
