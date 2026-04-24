@@ -14242,6 +14242,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d79c35a-14f4-5039-9992-0640939bbef7",
+        "address": "6891-Clinton-Corners-Dr-W-Jacksonville-FL-32222",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1927,
+        "listed_at": "2026-04-24T13:20:02.000Z",
+        "days_on_market": ">61",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.822595,
+          30.221663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d7e808e-020b-52a2-b502-6ec291b87fc9",
         "address": "7020-Sweet-Creek-Rd-Duluth-GA-30097",
         "beds": 4,
