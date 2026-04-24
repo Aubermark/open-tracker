@@ -2377,6 +2377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "127655cb-ea18-5a80-a3b0-c227715d7861",
+        "address": "21469-Hunter-Hart-Dr-Porter-TX-77365",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1790,
+        "listed_at": "2026-04-24T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241917,
+          30.096035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1281c288-ea3a-5648-b1d6-8c1914cd172a",
         "address": "4731-Stable-Holw-San-Antonio-TX-78244",
         "beds": 3,
@@ -22783,27 +22804,6 @@
         "coordinates": [
           -80.378226,
           26.127234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af218610-87c1-5c05-9a7a-f943dfb84ddb",
-        "address": "3-Timber-Creek-Ct-Taylors-SC-29687",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1372,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">61",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.314257,
-          34.909296
         ]
       }
     },
