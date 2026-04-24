@@ -3238,6 +3238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "177301c8-d520-551e-8ff6-aef5b6ab7e5c",
+        "address": "4730-Carmel-St-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-04-24T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.445213,
+          28.589964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
         "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
         "beds": 4,
