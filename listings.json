@@ -20017,6 +20017,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a425b56-6a1e-5176-880e-86d670b8362e",
+        "address": "3772-Havenmist-Cv-Suwanee-GA-30024",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2212,
+        "listed_at": "2026-04-24T10:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.034917,
+          34.063845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a627cff-1856-5ca1-8991-d7ccff9a2c80",
         "address": "7846-Cayuga-Dr-New-Port-Richey-FL-34653",
         "beds": 3,
