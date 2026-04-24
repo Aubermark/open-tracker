@@ -8635,6 +8635,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4342cbcd-2d82-5b7a-810a-5b895ecff803",
+        "address": "4716-Queen-Pierrette-St-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1494,
+        "listed_at": "2026-04-24T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.563995,
+          35.722767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4349223d-8575-5784-9cda-8dd915d962a2",
         "address": "2155-Airdale-Rd-Lancaster-SC-29720",
         "beds": 3,
@@ -10939,6 +10960,27 @@
         "coordinates": [
           -80.1268,
           36.178943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5468b9b8-19af-50e7-ada3-da4cee28fc18",
+        "address": "3830-N-Springfield-St-Buckeye-AZ-85396",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1970,
+        "listed_at": "2026-04-24T16:30:03.000Z",
+        "days_on_market": ">61",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.50087,
+          33.490407
         ]
       }
     },
@@ -14530,6 +14572,27 @@
         "coordinates": [
           -93.240581,
           45.025068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6f289213-8333-5129-9a7d-a4ff8bb99f0f",
+        "address": "100-Carnicelli-Ct-Smyrna-TN-37167",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1396,
+        "listed_at": "2026-04-24T16:30:03.000Z",
+        "days_on_market": "59",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.518786,
+          35.962337
         ]
       }
     },
