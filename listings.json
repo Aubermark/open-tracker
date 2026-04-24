@@ -14788,6 +14788,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6fe3e5d2-0fde-5fd5-9593-047e0067136c",
+        "address": "10186-Zeno-St-Commerce-City-CO-80022",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1982,
+        "listed_at": "2026-04-24T18:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 447000,
+        "price_label": "$447K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.772294,
+          39.881501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ffab4e5-dbac-4829-bb22-46e24ed2eae3",
         "address": "3612-Bailey-Lake-Dr-Fuquay-Varina-NC-27526",
         "beds": 4,
@@ -21859,6 +21880,27 @@
         "coordinates": [
           -112.082047,
           33.375579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a8fa1219-8a23-51d4-b8ba-66702554b7d9",
+        "address": "20405-E-15th-Ter-N-Independence-MO-64056",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1570,
+        "listed_at": "2026-04-24T18:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.336735,
+          39.131036
         ]
       }
     },
