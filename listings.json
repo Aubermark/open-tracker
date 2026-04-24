@@ -6472,27 +6472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "31e3bc4e-4bbf-53e2-8545-bfbdded0e463",
-        "address": "709-Sandy-Trl-Fort-Worth-TX-76120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1338,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">61",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.193533,
-          32.769875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "31e3d137-5718-5dc5-8092-fb735aef5a42",
         "address": "3325-Steed-Dr-Florissant-MO-63033",
         "beds": 3,
@@ -7222,6 +7201,27 @@
         "coordinates": [
           -84.302208,
           33.497199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3865a460-d854-55c3-9765-994792710cd7",
+        "address": "230-Prescott-St-Locust-Grove-GA-30248",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2374,
+        "listed_at": "2026-04-24T22:10:02.000Z",
+        "days_on_market": "60",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.195781,
+          33.368794
         ]
       }
     },
