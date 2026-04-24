@@ -11323,6 +11323,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5619769c-b59a-540b-b212-8dd43ddf74d6",
+        "address": "4939-Shady-Oaks-Ln-Friendswood-TX-77546",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1855,
+        "listed_at": "2026-04-24T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.183895,
+          29.538823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "564099fd-d5ea-5926-b5ec-00847f112d88",
         "address": "3233-Lancer-Dr-Powder-Springs-GA-30127",
         "beds": 3,
@@ -12472,6 +12493,27 @@
         "coordinates": [
           -106.51317,
           35.093418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e835ce0-3e3a-58f1-b9cb-b5cd0006a976",
+        "address": "613-Applewood-St-Moore-OK-73160",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1624,
+        "listed_at": "2026-04-24T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.456055,
+          35.332095
         ]
       }
     },
@@ -14404,6 +14446,27 @@
         "coordinates": [
           -90.657124,
           38.788358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6c047e77-1b24-5eca-9f55-4f8bf5f0af79",
+        "address": "10330-E-Weaver-Pl-Englewood-CO-80111",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2373,
+        "listed_at": "2026-04-24T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.869563,
+          39.599274
         ]
       }
     },
@@ -30049,27 +30112,6 @@
         "coordinates": [
           -86.394107,
           39.766303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "efb2b963-7ab0-5411-8865-fde34cbce618",
-        "address": "501-Yearwood-Ln-Jarrell-TX-76537",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1339,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "50",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.596847,
-          30.810988
         ]
       }
     },
