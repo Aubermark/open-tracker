@@ -10735,6 +10735,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52be92dd-1a1f-5e47-96c6-ba1e99e2f0f9",
+        "address": "1912-24th-Ave-Longmont-CO-80501",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2168,
+        "listed_at": "2026-04-24T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 477000,
+        "price_label": "$477K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.124548,
+          40.199908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "52d02e86-e620-587f-b368-0db3defb7819",
         "address": "967-Lamplighter-Dr-Nw-Palm-Bay-FL-32907",
         "beds": 4,
@@ -19303,6 +19324,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92a48821-21c6-59ca-9801-132b2cf69f43",
+        "address": "415-Prestige-Ct-Pleasant-View-TN-37146",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1840,
+        "listed_at": "2026-04-24T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.019036,
+          36.387953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92b3499e-1c35-5014-8a4e-18cc29457196",
         "address": "3100-Se-166th-Ave-Portland-OR-97236",
         "beds": 4,
@@ -22552,6 +22594,27 @@
         "coordinates": [
           -83.867833,
           35.999001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aed53e0b-4d39-5b55-8951-19d47311bdca",
+        "address": "17457-N-14th-Ave-Phoenix-AZ-85023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1068,
+        "listed_at": "2026-04-24T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.089171,
+          33.645485
         ]
       }
     },
