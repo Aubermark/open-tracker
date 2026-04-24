@@ -3091,6 +3091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1693fe9a-5574-52ee-8883-8134f87f9c6f",
+        "address": "19110-Piney-Way-Dr-Tomball-TX-77375",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2269,
+        "listed_at": "2026-04-24T19:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.599814,
+          30.04681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1699219b-2b30-57de-a0c4-c7822649f37b",
         "address": "4507-Malvern-Rd-Durham-NC-27707",
         "beds": 3,
@@ -3547,6 +3568,27 @@
         "coordinates": [
           -84.249726,
           33.864852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1a9847c6-477f-59ce-8bf4-017453a570d4",
+        "address": "5790-Bentwood-Dr-Middletown-OH-45042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1352,
+        "listed_at": "2026-04-24T19:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.323174,
+          39.528691
         ]
       }
     },
@@ -24910,27 +24952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c1521295-d1d3-5284-884e-95c055a5a036",
-        "address": "1657-Marsh-Pointe-Dr-Clermont-FL-34711",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2922,
-        "listed_at": "2026-02-22T18:26:01.000Z",
-        "days_on_market": ">61",
-        "current_price": 570000,
-        "price_label": "$570K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.79844,
-          28.583136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c1816344-2854-5a91-8fa9-7074b0906d87",
         "address": "3601-Cape-Ln-Conyers-GA-30013",
         "beds": 4,
@@ -30805,6 +30826,27 @@
         "coordinates": [
           -78.43864,
           35.632261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f5eef7d4-a8f8-59f7-86ce-56189336f25f",
+        "address": "522-27th-Ave-N-Texas-City-TX-77590",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1296,
+        "listed_at": "2026-04-24T19:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 204000,
+        "price_label": "$204K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.902502,
+          29.410099
         ]
       }
     },
