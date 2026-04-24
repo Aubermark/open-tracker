@@ -10861,6 +10861,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52e26ae5-59b9-5ce8-b4d4-d353c9bb4357",
+        "address": "5103-Sydney-Harbour-Ct-Killeen-TX-76549",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2700,
+        "listed_at": "2026-04-24T23:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.806133,
+          31.083675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "53105fd2-dd40-56da-9c45-5719ad01e7c2",
         "address": "101-Creek-Vista-Way-Columbia-SC-29206",
         "beds": 5,
@@ -30070,6 +30091,27 @@
         "coordinates": [
           -79.03025,
           35.926567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eed0bfd2-d2fd-51f4-9c28-82eadd770d9b",
+        "address": "10009-Wild-Dogwood-Ct-Charlotte-NC-28273",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2056,
+        "listed_at": "2026-04-24T23:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.972917,
+          35.154922
         ]
       }
     },
