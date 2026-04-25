@@ -15607,6 +15607,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7561fb13-1c3a-5d06-ad0e-70055b72228d",
+        "address": "116-Crosscreek-Dr-Columbia-SC-29212",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3705,
+        "listed_at": "2026-04-25T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18237,
+          34.065656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75a69ad7-51ae-4e07-b5c9-df97b57eae9e",
         "address": "142-Magnolia-St-Woodruff-SC-29388",
         "beds": 4,
