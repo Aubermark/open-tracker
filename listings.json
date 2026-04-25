@@ -16489,27 +16489,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7bc3a050-4111-5fd4-927a-175ab08beb9d",
-        "address": "13142-E-Mesa-Verde-Dr-Moorpark-CA-93021",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1307,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">62",
-        "current_price": 800000,
-        "price_label": "$800K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.879867,
-          34.271716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7bf644cc-f509-5ca0-8fd2-c84bd07f35aa",
         "address": "12917-Meadows-Dr-Oklahoma-City-OK-73120",
         "beds": 3,
@@ -19003,6 +18982,27 @@
         "coordinates": [
           -95.468122,
           30.086458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8e01cc3c-cb00-581c-a4fc-58a0063f3fc7",
+        "address": "1209-Vienna-Ct-Hampton-GA-30228",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2672,
+        "listed_at": "2026-04-25T15:50:02.000Z",
+        "days_on_market": ">62",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.356434,
+          33.447746
         ]
       }
     },
