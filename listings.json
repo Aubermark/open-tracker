@@ -27619,6 +27619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d83e3eb6-d079-510e-8781-f51c98347260",
+        "address": "231-Downey-Dr-Wellsville-KS-66092",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1002,
+        "listed_at": "2026-04-25T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.081667,
+          38.72654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d8515769-4817-5ee2-b51d-6d42a33e0a4d",
         "address": "1918-Spring-Ave-Atlanta-GA-30344",
         "beds": 2,
