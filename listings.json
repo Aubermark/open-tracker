@@ -16216,6 +16216,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
+        "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2439,
+        "listed_at": "2026-04-25T00:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.668055,
+          30.233602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a90cc10-f7d2-5bfb-b4d5-1711979e9b3f",
         "address": "147-Lake-Jogassee-Dr-Summerville-SC-29485",
         "beds": 3,
