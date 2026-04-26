@@ -2548,7 +2548,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 16:03 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 16:05 (CET)</span>
               </div>
           </div>
         </section>
@@ -4049,8 +4049,8 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
   });
   const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
   const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
-  const acqCancelLow = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.10));
-  const acqCancelHigh = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.20));
+  const acqCancelLow = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.90));
+  const acqCancelHigh = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.80));
 
   function initAcqChart() {
     const chart = echarts.init(document.getElementById('acqListingsChart'), null, {
