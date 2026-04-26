@@ -11092,6 +11092,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54a6d9b1-0160-592a-a59c-9894f8a76a4b",
+        "address": "5629-Lowell-Cliff-St-North-Las-Vegas-NV-89081",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2703,
+        "listed_at": "2026-04-26T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.130014,
+          36.262714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
         "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
         "beds": 3,
