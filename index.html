@@ -2543,7 +2543,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 15:00 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 15:02 (CET)</span>
               </div>
           </div>
         </section>
@@ -3973,7 +3973,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
 
       series: [{
-        name: 'Houses P. Sold',
+        name: 'P. Sold',
         type: 'line',
         data: valuesOptimized,
         smooth: false,
@@ -4029,6 +4029,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
   const acqLabels = weeklyAcqData.map(d => {
     const raw = d.week_of;
     const date = new Date(raw);
+    date.setDate(date.getDate() + 1);
     const year = date.getUTCFullYear();
     const month = String(date.getUTCMonth() + 1).padStart(2, '0');
     const day = String(date.getUTCDate()).padStart(2, '0');
