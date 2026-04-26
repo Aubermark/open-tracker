@@ -2548,7 +2548,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 16:00 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 16:03 (CET)</span>
               </div>
           </div>
         </section>
@@ -4033,7 +4033,6 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
 </script>
 
 
-
 <script>
   const weeklyAcqData = [{"week_of":"2026-04-17T22:00:00.000Z","contracts_acquired":465,"new_listings":201,"contracts_wow_change":-129,"listings_wow_change":30},{"week_of":"2026-04-10T22:00:00.000Z","contracts_acquired":594,"new_listings":171,"contracts_wow_change":-64,"listings_wow_change":-23},{"week_of":"2026-04-03T22:00:00.000Z","contracts_acquired":658,"new_listings":194,"contracts_wow_change":113,"listings_wow_change":25},{"week_of":"2026-03-27T23:00:00.000Z","contracts_acquired":545,"new_listings":169,"contracts_wow_change":-65,"listings_wow_change":9},{"week_of":"2026-03-20T23:00:00.000Z","contracts_acquired":610,"new_listings":160,"contracts_wow_change":163,"listings_wow_change":-42},{"week_of":"2026-03-13T23:00:00.000Z","contracts_acquired":447,"new_listings":202,"contracts_wow_change":57,"listings_wow_change":7},{"week_of":"2026-03-06T23:00:00.000Z","contracts_acquired":390,"new_listings":195,"contracts_wow_change":null,"listings_wow_change":null}];
 
@@ -4050,6 +4049,8 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
   });
   const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
   const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
+  const acqCancelLow = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.10));
+  const acqCancelHigh = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.20));
 
   function initAcqChart() {
     const chart = echarts.init(document.getElementById('acqListingsChart'), null, {
@@ -4059,6 +4060,7 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
 
     const colorContracts = '#4FC3F7';
     const colorListings = '#81C784';
+    const colorCancel = 'rgba(255,152,0,';
 
     const options = {
       animation: false,
@@ -4078,7 +4080,10 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
         formatter: function(params) {
           var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
           params.forEach(function(p) {
-            var color = p.seriesIndex === 0 ? colorContracts : colorListings;
+            var color;
+            if (p.seriesIndex === 0) color = colorContracts;
+            else if (p.seriesIndex === 1) color = colorListings;
+            else color = '#FF9800';
             result += '<div style="display:flex;justify-content:space-between;gap:24px;">' +
               '<span style="color:' + color + ';">● ' + p.seriesName + '</span>' +
               '<span style="font-weight:600;">' + p.value + '</span>' +
@@ -4089,7 +4094,7 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
       },
 
       legend: {
-        data: ['Contracts acquired', 'New listings'],
+        data: ['Contracts acquired', 'New listings', 'Cancellations (10%)', 'Cancellations (20%)'],
         top: 0,
         textStyle: { color: '#cfd8dc', fontSize: 12 },
         itemStyle: { borderWidth: 0 },
@@ -4168,6 +4173,37 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
             borderRadius: [3, 3, 0, 0]
           },
           emphasis: { disabled: true }
+        },
+        {
+          name: 'Cancellations (10%)',
+          type: 'line',
+          yAxisIndex: 0,
+          data: acqCancelLow,
+          smooth: false,
+          symbol: 'none',
+          lineStyle: { color: 'rgba(255,152,0,0.5)', width: 1, type: 'dashed' },
+          areaStyle: null,
+          emphasis: { disabled: true }
+        },
+        {
+          name: 'Cancellations (20%)',
+          type: 'line',
+          yAxisIndex: 0,
+          data: acqCancelHigh,
+          smooth: false,
+          symbol: 'none',
+          lineStyle: { color: 'rgba(255,152,0,0.8)', width: 1, type: 'dashed' },
+          areaStyle: {
+            color: {
+              type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+              colorStops: [
+                { offset: 0, color: 'rgba(255,152,0,0.08)' },
+                { offset: 1, color: 'rgba(255,152,0,0)' }
+              ]
+            },
+            origin: 'start'
+          },
+          emphasis: { disabled: true }
         }
       ]
     };
@@ -4185,6 +4221,7 @@ LFG <a href="https://twitter.com/hashtag/RisingDynasty?src=hashtag_click?ref_src
   });
   acqObserver.observe(acqChartContainer);
 </script>
+
 
 
 
