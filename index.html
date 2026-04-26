@@ -2543,7 +2543,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 14:50 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 14:51 (CET)</span>
               </div>
           </div>
         </section>
@@ -4102,8 +4102,6 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
       yAxis: [
         {
           type: 'value',
-          name: 'Contracts',
-          nameTextStyle: { color: '#4FC3F7', fontSize: 11 },
           axisLine: { show: false },
           axisTick: { show: false },
           axisLabel: { color: '#4FC3F7', fontSize: 11 },
@@ -4111,15 +4109,6 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
             show: true,
             lineStyle: { color: 'rgba(255,255,255,0.08)', width: 1, type: 'dashed' }
           }
-        },
-        {
-          type: 'value',
-          name: 'Listings',
-          nameTextStyle: { color: '#81C784', fontSize: 11 },
-          axisLine: { show: false },
-          axisTick: { show: false },
-          axisLabel: { color: '#81C784', fontSize: 11 },
-          splitLine: { show: false }
         }
       ],
 
@@ -4148,7 +4137,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
         {
           name: 'New listings',
           type: 'bar',
-          yAxisIndex: 1,
+          yAxisIndex: 0,
           data: acqListings,
           barMaxWidth: 28,
           itemStyle: {
