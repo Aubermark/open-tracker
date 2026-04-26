@@ -24532,6 +24532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bd8dbc57-ded9-580f-99f5-04457d4016ea",
+        "address": "521-S-Fairview-St-Woodland-Park-CO-80863",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1266,
+        "listed_at": "2026-04-26T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 382000,
+        "price_label": "$382K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.051308,
+          38.989101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bdae0d47-9897-5248-922a-5e9fb1ba87fd",
         "address": "60-W-Monte-Cristo-Dr-Wickenburg-AZ-85390",
         "beds": 3,
