@@ -1264,6 +1264,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0980506d-b767-51a8-ad59-abfb8501cb61",
+        "address": "15087-Carrick-Rd-Noblesville-IN-46062",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4260,
+        "listed_at": "2026-04-26T06:44:59.000Z",
+        "days_on_market": "0",
+        "current_price": 630000,
+        "price_label": "$630K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.060505,
+          40.007652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09d2bb09-7041-5a9b-bbde-0c9f6e345d12",
         "address": "8951-Merseyside-Ave-Jacksonville-FL-32219",
         "beds": 4,
@@ -4330,6 +4351,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20929067-74bc-5984-9295-3d01bc1ff35e",
+        "address": "731-Goldenrod-Way-Norcross-GA-30093",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2675,
+        "listed_at": "2026-04-26T06:44:59.000Z",
+        "days_on_market": "0",
+        "current_price": 487000,
+        "price_label": "$487K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.191789,
+          33.881149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2099e9d8-1154-5837-a292-03f5e88590f9",
         "address": "1015-Locklin-Way-Woodland-Park-CO-80863",
         "beds": 3,
@@ -5590,6 +5632,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a2c7318-abeb-5895-8d27-05f52d487a44",
+        "address": "403-Eagle-Claw-Ct-Chapin-SC-29036",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2884,
+        "listed_at": "2026-04-26T06:44:59.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.335232,
+          34.163309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ad894da-c5d8-511a-8259-b70e2f388c42",
         "address": "1696-Chatham-Cir-Apopka-FL-32703",
         "beds": 3,
@@ -5941,27 +6004,6 @@
         "coordinates": [
           -112.556865,
           33.424577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2d75da54-083f-5f55-a0e3-7562229110dc",
-        "address": "280-Devonshire-Rd-Montesano-WA-98563",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2659,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": "43",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.646244,
-          46.964141
         ]
       }
     },
@@ -7516,27 +7558,6 @@
         "coordinates": [
           -84.314099,
           34.00901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3ac197c7-43ec-525d-bda2-055a73fe26d5",
-        "address": "806-Widewaters-Pkwy-Knightdale-NC-27545",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2218,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "51",
-        "current_price": 384000,
-        "price_label": "$384K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.50371,
-          35.787833
         ]
       }
     },
@@ -9553,6 +9574,27 @@
         "coordinates": [
           -97.526527,
           30.530423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "48a8fb19-8b91-5bfc-b699-824057562e50",
+        "address": "981-Fellowship-Rd-Fairburn-GA-30213",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1915,
+        "listed_at": "2026-04-26T06:44:59.000Z",
+        "days_on_market": ">62",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.562437,
+          33.563079
         ]
       }
     },
@@ -16609,27 +16651,6 @@
         "coordinates": [
           -80.24423,
           26.016323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7cee1a58-2250-5ce4-90a5-a12ccfde40f3",
-        "address": "5048-Kerry-Downs-Rd-Hoover-AL-35242",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2785,
-        "listed_at": "2026-04-14T18:00:07.000Z",
-        "days_on_market": ">62",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.715012,
-          33.404516
         ]
       }
     },
@@ -24841,27 +24862,6 @@
         "coordinates": [
           -112.216302,
           33.478779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c018656d-e2ea-5a94-afeb-fc5dfaf68cfd",
-        "address": "1402-Ne-Edgefield-St-Hillsboro-OR-97124",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1560,
-        "listed_at": "2026-03-31T06:43:19.000Z",
-        "days_on_market": "26",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.967917,
-          45.548484
         ]
       }
     },
