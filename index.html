@@ -2543,7 +2543,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 14:51 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 14:57 (CET)</span>
               </div>
           </div>
         </section>
@@ -4026,7 +4026,14 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
   weeklyAcqData.sort((a, b) => new Date(a.week_of) - new Date(b.week_of));
 
-  const acqLabels = weeklyAcqData.map(d => d.week_of.substring(0, 10));
+  const acqLabels = weeklyAcqData.map(d => {
+    const raw = d.week_of;
+    if (typeof raw === 'string') return raw.substring(0, 10);
+    // Si viene como objeto Date de MySQL
+    const offset = raw.getTimezoneOffset();
+    const adjusted = new Date(raw.getTime() - offset * 60000);
+    return adjusted.toISOString().substring(0, 10);
+  });
   const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
   const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
 
