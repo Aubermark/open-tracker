@@ -12898,6 +12898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6192e09b-d2a3-5b00-a0e4-383cc2614055",
+        "address": "212-House-Ave-Sandia-TX-78383",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2442,
+        "listed_at": "2026-04-26T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.931325,
+          28.041615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61990939-6dfc-5ff5-ab65-cb0df6e1b0fe",
         "address": "5037-Sw-140th-Ter-Miramar-FL-33027",
         "beds": 3,
