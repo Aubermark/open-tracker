@@ -12793,27 +12793,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "60a76875-33d8-5a47-aa21-4e79623fd3cd",
-        "address": "177-Orient-Dr-Saint-Augustine-FL-32092",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1944,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": ">63",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.440514,
-          29.944249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "60d49577-f5d0-5b71-a849-d534f4bcab66",
         "address": "875-Quiet-Stone-Ln-Orange-Park-FL-32065",
         "beds": 4,
@@ -19591,6 +19570,27 @@
         "coordinates": [
           -86.100205,
           39.552893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92c4065f-485c-5427-b51e-8c7d2295fd34",
+        "address": "8396-Westpointe-Dr-Fairfax-Station-VA-22039",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4750,
+        "listed_at": "2026-04-26T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1245000,
+        "price_label": "$1.245M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278235,
+          38.730805
         ]
       }
     },
