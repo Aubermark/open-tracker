@@ -2543,7 +2543,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 14:30 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 14:43 (CET)</span>
               </div>
           </div>
         </section>
@@ -3135,6 +3135,17 @@
 
             <div id="weeklyChart" style="width:100%; height:350px; min-height:350px;"></div>
 
+
+          </div>
+        </section>
+
+
+
+        <section>
+          <div class="chart-box">
+            <div class="card-title">LISTINGS/ACQUISITIONS</div>
+
+            <div id="acqListingsChart" style="width:100%; height:400px;"></div>
 
           </div>
         </section>
@@ -4005,6 +4016,164 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
   observer.observe(chartContainer);
 </script>
+
+
+
+<script>
+  const weeklyAcqData = [{"week_of":"2026-04-17T22:00:00.000Z","contracts_acquired":465,"new_listings":201,"contracts_wow_change":-129,"listings_wow_change":30},{"week_of":"2026-04-10T22:00:00.000Z","contracts_acquired":594,"new_listings":171,"contracts_wow_change":-64,"listings_wow_change":-23},{"week_of":"2026-04-03T22:00:00.000Z","contracts_acquired":658,"new_listings":194,"contracts_wow_change":113,"listings_wow_change":25},{"week_of":"2026-03-27T23:00:00.000Z","contracts_acquired":545,"new_listings":169,"contracts_wow_change":-65,"listings_wow_change":9},{"week_of":"2026-03-20T23:00:00.000Z","contracts_acquired":610,"new_listings":160,"contracts_wow_change":163,"listings_wow_change":-42},{"week_of":"2026-03-13T23:00:00.000Z","contracts_acquired":447,"new_listings":202,"contracts_wow_change":57,"listings_wow_change":7},{"week_of":"2026-03-06T23:00:00.000Z","contracts_acquired":390,"new_listings":195,"contracts_wow_change":null,"listings_wow_change":null}];
+
+  weeklyAcqData.sort((a, b) => new Date(a.week_of) - new Date(b.week_of));
+
+  const labels = weeklyAcqData.map(d => d.week_of.substring(0, 10));
+  const contracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
+  const listings = weeklyAcqData.map(d => d.new_listings ?? 0);
+
+  function initAcqChart() {
+    const chart = echarts.init(document.getElementById('acqListingsChart'), null, {
+      renderer: 'canvas',
+      useDirtyRect: true
+    });
+
+    const colorContracts = '#4FC3F7';
+    const colorListings = '#81C784';
+
+    const options = {
+      animation: false,
+      backgroundColor: 'transparent',
+
+      tooltip: {
+        trigger: 'axis',
+        backgroundColor: 'rgba(0,0,0,0.75)',
+        borderColor: '#4FC3F7',
+        borderWidth: 1,
+        textStyle: { color: '#fff', fontSize: 12 },
+        padding: 10,
+        axisPointer: {
+          type: 'line',
+          lineStyle: { color: '#4FC3F7', width: 1.5, type: 'dashed' }
+        },
+        formatter: function(params) {
+          var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
+          params.forEach(function(p) {
+            var color = p.seriesIndex === 0 ? colorContracts : colorListings;
+            result += '<div style="display:flex;justify-content:space-between;gap:24px;">' +
+              '<span style="color:' + color + ';">● ' + p.seriesName + '</span>' +
+              '<span style="font-weight:600;">' + p.value + '</span>' +
+              '</div>';
+          });
+          return result;
+        }
+      },
+
+      legend: {
+        data: ['Contracts acquired', 'New listings'],
+        top: 0,
+        textStyle: { color: '#cfd8dc', fontSize: 12 },
+        itemStyle: { borderWidth: 0 },
+        icon: 'circle',
+        itemWidth: 8,
+        itemHeight: 8
+      },
+
+      grid: {
+        left: 6,
+        right: 6,
+        top: 36,
+        bottom: 20,
+        containLabel: true
+      },
+
+      xAxis: {
+        type: 'category',
+        data: labels,
+        axisLine: { lineStyle: { color: '#444' } },
+        axisTick: { show: false },
+        axisLabel: {
+          color: '#aaa',
+          fontSize: 11,
+          rotate: 30,
+          interval: 0
+        },
+        splitLine: { show: false }
+      },
+
+      yAxis: [
+        {
+          type: 'value',
+          name: 'Contracts',
+          nameTextStyle: { color: '#4FC3F7', fontSize: 11 },
+          axisLine: { show: false },
+          axisTick: { show: false },
+          axisLabel: { color: '#4FC3F7', fontSize: 11 },
+          splitLine: {
+            show: true,
+            lineStyle: { color: 'rgba(255,255,255,0.08)', width: 1, type: 'dashed' }
+          }
+        },
+        {
+          type: 'value',
+          name: 'Listings',
+          nameTextStyle: { color: '#81C784', fontSize: 11 },
+          axisLine: { show: false },
+          axisTick: { show: false },
+          axisLabel: { color: '#81C784', fontSize: 11 },
+          splitLine: { show: false }
+        }
+      ],
+
+      series: [
+        {
+          name: 'Contracts acquired',
+          type: 'line',
+          yAxisIndex: 0,
+          data: contracts,
+          smooth: false,
+          symbol: 'circle',
+          symbolSize: 5,
+          itemStyle: { color: colorContracts, borderColor: '#fff', borderWidth: 1 },
+          lineStyle: { color: colorContracts, width: 2 },
+          areaStyle: {
+            color: {
+              type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+              colorStops: [
+                { offset: 0, color: 'rgba(79,195,247,0.18)' },
+                { offset: 1, color: 'rgba(79,195,247,0)' }
+              ]
+            }
+          },
+          emphasis: { disabled: true }
+        },
+        {
+          name: 'New listings',
+          type: 'bar',
+          yAxisIndex: 1,
+          data: listings,
+          barMaxWidth: 28,
+          itemStyle: {
+            color: 'rgba(129,199,132,0.45)',
+            borderColor: '#81C784',
+            borderWidth: 1,
+            borderRadius: [3, 3, 0, 0]
+          },
+          emphasis: { disabled: true }
+        }
+      ]
+    };
+
+    chart.setOption(options);
+    window.addEventListener('resize', () => chart.resize());
+  }
+
+  const acqChartContainer = document.getElementById('acqListingsChart');
+  const acqObserver = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      initAcqChart();
+      acqObserver.disconnect();
+    }
+  });
+  acqObserver.observe(acqChartContainer);
+</script>
+
 
 
   </body>
