@@ -3139,7 +3139,7 @@
           </div>
         </section>
 
-
+        </br>
 
         <section>
           <div class="chart-box">
@@ -4028,11 +4028,11 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
   const acqLabels = weeklyAcqData.map(d => {
     const raw = d.week_of;
-    if (typeof raw === 'string') return raw.substring(0, 10);
-    // Si viene como objeto Date de MySQL
-    const offset = raw.getTimezoneOffset();
-    const adjusted = new Date(raw.getTime() - offset * 60000);
-    return adjusted.toISOString().substring(0, 10);
+    const date = new Date(raw);
+    const year = date.getUTCFullYear();
+    const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(date.getUTCDate()).padStart(2, '0');
+    return year + '-' + month + '-' + day;
   });
   const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
   const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
