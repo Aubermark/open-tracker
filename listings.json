@@ -26464,6 +26464,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d07b0274-184f-5f5d-b5bc-0213dd6a9b19",
+        "address": "8692-Hickory-Creek-Ct-North-Charleston-SC-29420",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2699,
+        "listed_at": "2026-04-26T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.133916,
+          32.914815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0813a3b-2d13-5bbd-81e2-a2102d1bbf2f",
         "address": "16802-Enderbush-Ln-Eureka-MO-63025",
         "beds": 4,
