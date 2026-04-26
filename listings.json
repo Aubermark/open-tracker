@@ -7333,6 +7333,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3968f1d6-dac6-5c5e-a997-d7d771779abc",
+        "address": "19-Central-Ave-East-Brunswick-NJ-08816",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2084,
+        "listed_at": "2026-04-26T19:10:01.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.376098,
+          40.413615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3991b222-c00a-57cc-ac98-0fde77b670e8",
         "address": "4050-Huntingreen-Ln-Apt-A-Winston-Salem-NC-27106",
         "beds": 3,
@@ -15538,27 +15559,6 @@
         "coordinates": [
           -81.18237,
           34.065656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "75a69ad7-51ae-4e07-b5c9-df97b57eae9e",
-        "address": "142-Magnolia-St-Woodruff-SC-29388",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2895,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": "37",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.108471,
-          34.862438
         ]
       }
     },
