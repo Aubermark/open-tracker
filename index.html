@@ -2543,7 +2543,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">26/04/2026, 14:43 (CET)</span>
+                <span class="hero-meta-value">26/04/2026, 14:45 (CET)</span>
               </div>
           </div>
         </section>
@@ -4024,9 +4024,9 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
   weeklyAcqData.sort((a, b) => new Date(a.week_of) - new Date(b.week_of));
 
-  const labels = weeklyAcqData.map(d => d.week_of.substring(0, 10));
-  const contracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
-  const listings = weeklyAcqData.map(d => d.new_listings ?? 0);
+  const acqLabels = weeklyAcqData.map(d => d.week_of.substring(0, 10));
+  const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
+  const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
 
   function initAcqChart() {
     const chart = echarts.init(document.getElementById('acqListingsChart'), null, {
@@ -4085,7 +4085,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
 
       xAxis: {
         type: 'category',
-        data: labels,
+        data: acqLabels,
         axisLine: { lineStyle: { color: '#444' } },
         axisTick: { show: false },
         axisLabel: {
@@ -4126,7 +4126,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
           name: 'Contracts acquired',
           type: 'line',
           yAxisIndex: 0,
-          data: contracts,
+          data: acqContracts,
           smooth: false,
           symbol: 'circle',
           symbolSize: 5,
@@ -4147,7 +4147,7 @@ Kelly is a Navy veteran who is racing to raise funds for veteran well-being thro
           name: 'New listings',
           type: 'bar',
           yAxisIndex: 1,
-          data: listings,
+          data: acqListings,
           barMaxWidth: 28,
           itemStyle: {
             color: 'rgba(129,199,132,0.45)',
