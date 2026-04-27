@@ -5527,27 +5527,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
-        "address": "2272-W-5th-St-Cleveland-OH-44113",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 3099,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">64",
-        "current_price": 540000,
-        "price_label": "$540K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.683282,
-          41.482429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "294e03cf-6f77-5e79-bc3d-3a1b8fac3b37",
         "address": "50-Cranbrook-Ct-Covington-GA-30016",
         "beds": 3,
@@ -11554,6 +11533,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57e0db87-05d7-50f5-8626-a2f0bc7df1f5",
+        "address": "624-Green-Willow-Cir-Wendell-NC-27591",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2057,
+        "listed_at": "2026-04-27T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.367442,
+          35.78972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57f52be6-2752-59d0-b9c9-42c093704011",
         "address": "4414-Edward-St-Texas-City-TX-77591",
         "beds": 2,
@@ -14404,27 +14404,6 @@
         "coordinates": [
           -80.309921,
           36.048823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6be51b15-643e-5a8d-a742-08e176afca5a",
-        "address": "6020-Nw-Expressway-Oklahoma-City-OK-73132",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1386,
-        "listed_at": "2026-04-27T16:40:02.000Z",
-        "days_on_market": ">64",
-        "current_price": 104000,
-        "price_label": "$104K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.622823,
-          35.549777
         ]
       }
     },
