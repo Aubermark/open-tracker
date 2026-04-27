@@ -7669,27 +7669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3a733012-0ebe-40d5-b803-360d4f7c67b9",
-        "address": "1365-Highway-1-S-Lugoff-SC-29078",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1700,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "59",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.711967,
-          34.212335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3a81e99e-ad8d-5c7a-8540-93652ded0b08",
         "address": "243-Meadow-Saffron-Dr-Lexington-SC-29073",
         "beds": 5,
@@ -8797,6 +8776,27 @@
         "coordinates": [
           -96.581265,
           33.418584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "433e4d70-eeff-52a4-b45c-a8d009a7c11a",
+        "address": "1385-Bender-Ave-Daytona-Beach-FL-32117",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1016,
+        "listed_at": "2026-04-27T20:30:10.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.051726,
+          29.248823
         ]
       }
     },
