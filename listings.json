@@ -20479,6 +20479,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99804a5f-b904-542f-829e-15975a4d04e4",
+        "address": "4681-Sweetwater-Ave-Powder-Springs-GA-30127",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2104,
+        "listed_at": "2026-04-27T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.694916,
+          33.862047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99d10176-2ccf-5b73-a7fa-ba359dd695f0",
         "address": "479-Grand-National-Ln-Elgin-SC-29045",
         "beds": 4,
