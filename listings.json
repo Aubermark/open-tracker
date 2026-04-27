@@ -6514,6 +6514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31752059-46ee-5c53-bc66-80df1e8a6d16",
+        "address": "2611-W-Ellis-Dr-Tempe-AZ-85282",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1463,
+        "listed_at": "2026-04-27T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.976459,
+          33.380881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "317b7ca4-a82b-560e-80a0-babdd905c4f1",
         "address": "5815-Akin-Elm-San-Antonio-TX-78261",
         "beds": 5,
@@ -20095,6 +20116,27 @@
         "coordinates": [
           -97.393445,
           32.620325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "95889ccd-10c6-5857-af8c-253a318bcb5c",
+        "address": "3229-Regents-Park-Ln-Unit-D-Greensboro-NC-27455",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1452,
+        "listed_at": "2026-04-27T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 201000,
+        "price_label": "$201K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.836191,
+          36.142335
         ]
       }
     },
