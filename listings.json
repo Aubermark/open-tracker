@@ -7081,6 +7081,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "357a8e94-258d-57e6-8505-1dcb0e432471",
+        "address": "4333-Cocina-Ln-Palmdale-CA-93551",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1756,
+        "listed_at": "2026-04-27T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208136,
+          34.620172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
         "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
         "beds": 3,
@@ -10414,27 +10435,6 @@
         "coordinates": [
           -115.225111,
           36.005537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4ee8dcdf-55c4-5585-9cf3-775a76193d1a",
-        "address": "105-Kimball-Bridge-Cv-Alpharetta-GA-30022",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3126,
-        "listed_at": "2026-03-26T21:10:07.000Z",
-        "days_on_market": "32",
-        "current_price": 805000,
-        "price_label": "$805K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.244731,
-          34.047884
         ]
       }
     },
@@ -28348,27 +28348,6 @@
         "coordinates": [
           -80.676255,
           34.967836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e0d12861-0585-5529-9289-3ef49b6f4968",
-        "address": "6086-Cougar-Ln-Charlotte-NC-28269",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 976,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">64",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.80569,
-          35.328158
         ]
       }
     },
