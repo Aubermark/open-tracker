@@ -7795,6 +7795,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
+        "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1720,
+        "listed_at": "2026-04-27T21:00:03.000Z",
+        "days_on_market": "14",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.553114,
+          35.863401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b521836-28a6-52aa-8ae7-78bb94d80017",
         "address": "9696-Ravenscroft-Ln-Nw-Concord-NC-28027",
         "beds": 5,
@@ -9826,6 +9847,27 @@
         "coordinates": [
           -82.43967,
           28.127286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "49f23953-84b4-5dd8-972f-e2a6a35bb538",
+        "address": "1034-Sweet-River-Dr-O-Fallon-MO-63366",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-04-27T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73528,
+          38.879755
         ]
       }
     },
