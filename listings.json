@@ -235,6 +235,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01937afd-cd12-5995-9e6b-4044842103d9",
+        "address": "207-Ne-3rd-Ter-Williston-FL-32696",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-04-27T06:32:43.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.443899,
+          29.390058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "019e34de-b754-5c97-9763-2c70ffe2413e",
         "address": "6811-Kingman-Dr-Indianapolis-IN-46256",
         "beds": 3,
@@ -5674,27 +5695,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ae78b7e-5924-5ae3-bf34-33f2a3e09828",
-        "address": "353-Cedar-Dr-Loveland-OH-45140",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4129,
-        "listed_at": "2026-04-02T21:50:05.000Z",
-        "days_on_market": "24",
-        "current_price": 900000,
-        "price_label": "$900K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.252779,
-          39.258843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2ae7f11b-2470-58d9-9168-5966e5829eb4",
         "address": "1306-Morningside-Dr-Lake-Wales-FL-33853",
         "beds": 3,
@@ -6508,6 +6508,27 @@
         "coordinates": [
           -98.37318,
           29.650821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "31c32c31-a05e-55e8-830c-388be14021ef",
+        "address": "107-Starling-St-Selma-NC-27576",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1442,
+        "listed_at": "2026-04-27T06:32:43.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.247252,
+          35.508336
         ]
       }
     },
@@ -11527,27 +11548,6 @@
         "coordinates": [
           -84.808565,
           33.260618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "57ca4238-2368-53ef-aa7c-0966cd8f61b6",
-        "address": "1000-Hidden-Cove-Way-Columbus-OH-43228",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2086,
-        "listed_at": "2026-03-31T15:20:06.000Z",
-        "days_on_market": "26",
-        "current_price": 382000,
-        "price_label": "$382K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.117931,
-          39.931722
         ]
       }
     },
@@ -17161,27 +17161,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "815bc2a9-5378-52c1-93a8-de9a8de1389a",
-        "address": "1409-Rivers-Creek-Ln-Little-Elm-TX-75068",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1763,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">63",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.919006,
-          33.208648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "81c5c5c9-f702-5620-ab35-3e36eca1ab2a",
         "address": "910-Devonport-Dr-Raleigh-NC-27610",
         "beds": 3,
@@ -21466,27 +21445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a3a7609a-af62-5776-83ec-d98eefd78025",
-        "address": "3609-Limousine-Pkwy-Mc-Kinney-TX-75071",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2051,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "60",
-        "current_price": 398000,
-        "price_label": "$398K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.65498,
-          33.238036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a3ac8bd8-f7d8-5d9f-b91b-dd130b956e37",
         "address": "302-A-Ensley-Ave-Old-Hickory-TN-37138",
         "beds": 3,
@@ -25093,27 +25051,6 @@
         "coordinates": [
           -82.337983,
           27.982602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3402f81-ab70-5212-8af7-45eb275cb475",
-        "address": "1110-Deerhaven-Ct-Loveland-OH-45140",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2093,
-        "listed_at": "2026-03-12T07:40:03.000Z",
-        "days_on_market": ">63",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.231479,
-          39.211878
         ]
       }
     },
@@ -31960,6 +31897,27 @@
         "coordinates": [
           -81.750745,
           28.118226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe251091-dc75-52c6-93df-b10be0d81064",
+        "address": "5736-Sea-Breeze-Ln-Fort-Worth-TX-76135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-04-27T06:32:43.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.413785,
+          32.825039
         ]
       }
     },
