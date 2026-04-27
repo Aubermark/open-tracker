@@ -5086,6 +5086,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "264fcb7d-070a-5441-b5df-6650044a38a8",
+        "address": "1407-Figueroa-St-The-Villages-FL-32162",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1687,
+        "listed_at": "2026-04-27T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.991109,
+          28.94798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26eaa8a7-7d2b-5d3b-8c65-c735a157277b",
         "address": "2108-Woodland-Oaks-Dr-Arlington-TX-76013",
         "beds": 3,
@@ -28642,6 +28663,27 @@
         "coordinates": [
           -84.204078,
           34.223017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4f6d437-f112-52ad-80e3-be711ae949ef",
+        "address": "1114-S-Tiago-Dr-Gilbert-AZ-85233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1543,
+        "listed_at": "2026-04-27T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.80764,
+          33.328978
         ]
       }
     },
