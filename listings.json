@@ -14305,6 +14305,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6be51b15-643e-5a8d-a742-08e176afca5a",
+        "address": "6020-Nw-Expressway-Oklahoma-City-OK-73132",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1386,
+        "listed_at": "2026-04-27T16:40:02.000Z",
+        "days_on_market": ">64",
+        "current_price": 104000,
+        "price_label": "$104K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.622823,
+          35.549777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bf440c0-614f-5bfb-9eb4-654fdcd40d90",
         "address": "10726-Sugar-Hill-Dr-Houston-TX-77042",
         "beds": 4,
@@ -19822,6 +19843,27 @@
         "coordinates": [
           -112.286209,
           33.582211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94bd8958-604a-5062-ae53-4da93774fdfa",
+        "address": "514-E-Vekol-Rd-Casa-Grande-AZ-85122",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1706,
+        "listed_at": "2026-04-27T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.747805,
+          32.901676
         ]
       }
     },
