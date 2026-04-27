@@ -2671,27 +2671,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "14521ae6-c79d-4b57-8fb5-1ed57b597a03",
-        "address": "88-Round-Robin-Run-Saint-Johns-FL-32259",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1663,
-        "listed_at": "2026-03-26T07:38:28.000Z",
-        "days_on_market": "54",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.55474,
-          30.049851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "145755d7-095f-55d5-a701-ffeb82431b5b",
         "address": "25-Camden-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -18226,6 +18205,27 @@
         "coordinates": [
           -80.08734,
           35.849109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
+        "address": "16627-Carse-Ave-Harvey-IL-60426",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2354,
+        "listed_at": "2026-04-27T14:20:02.000Z",
+        "days_on_market": ">64",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.638504,
+          41.587133
         ]
       }
     },
