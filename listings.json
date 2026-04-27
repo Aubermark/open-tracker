@@ -5821,6 +5821,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b9e89dd-ef50-5a6d-b4fa-6b621e89c6f6",
+        "address": "815-Jamestown-Dr-Apt-3-Gastonia-NC-28056",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1296,
+        "listed_at": "2026-04-27T21:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.163919,
+          35.214735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bbbe4d9-77e9-5b82-b8ef-eb207b36fff4",
         "address": "1278-E-Altadonna-Ct-San-Tan-Valley-AZ-85140",
         "beds": 4,
@@ -15775,27 +15796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7640787d-dea2-4684-b79d-ee13ecc9d38f",
-        "address": "414-Buford-Way-Mount-Holly-NC-28120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1696,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "17",
-        "current_price": 394000,
-        "price_label": "$394K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.002074,
-          35.315382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7665bfda-1abb-5387-b2d4-e369b38f225b",
         "address": "12712-Saint-Mary-Dr-Manor-TX-78653",
         "beds": 3,
@@ -25303,27 +25303,6 @@
         "coordinates": [
           -95.713703,
           29.812458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c289da56-76c0-44ad-a161-24035f6601c1",
-        "address": "2471-Tyrone-Dr-Shakopee-MN-55379",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2692,
-        "listed_at": "2026-04-02T06:35:10.000Z",
-        "days_on_market": ">64",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.48975,
-          44.776418
         ]
       }
     },
