@@ -5317,6 +5317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27508cd2-d04d-53d1-b878-f23b85180576",
+        "address": "12701-N-Gibbs-Ave-Marana-AZ-85653",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2110,
+        "listed_at": "2026-04-27T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.193819,
+          32.437117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27644a4f-2203-5fad-858c-47076d5cc278",
         "address": "11212-Carrick-Stone-St-Wimauma-FL-33598",
         "beds": 3,
@@ -10939,6 +10960,27 @@
         "coordinates": [
           -95.115645,
           30.197144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5392c698-c4c6-569b-a157-b9a6a6c5604a",
+        "address": "5135-Coral-Burst-Cir-Loveland-CO-80538",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2734,
+        "listed_at": "2026-04-27T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.089057,
+          40.445417
         ]
       }
     },
