@@ -718,27 +718,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "05b5417d-5e93-4321-96a5-2a4baa8020ae",
-        "address": "8513-Lilias-Cir-Jacksonville-FL-32219",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1500,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": ">64",
-        "current_price": 259000,
-        "price_label": "$259K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.79318,
-          30.41026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "06a4c315-ed25-54e3-8ce6-934e06ae2be0",
         "address": "9065-Cinnabay-Dr-Charlotte-NC-28216",
         "beds": 2,
@@ -5290,6 +5269,27 @@
         "coordinates": [
           -97.358239,
           32.546664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "27dfb152-4390-585a-872c-92e0f4628a7f",
+        "address": "1770-Ne-37th-St-Ocala-FL-34479",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-04-27T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.114514,
+          29.225033
         ]
       }
     },
