@@ -29026,6 +29026,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7c31ce3-ad04-5fdf-be3c-5708ae18c408",
+        "address": "100-James-Ridge-Dr-Stockbridge-GA-30281",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3482,
+        "listed_at": "2026-04-27T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.223346,
+          33.584487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e7f38740-8bfb-54bf-820a-1e68358a0c59",
         "address": "3373-Brook-Spring-Dr-Grove-City-OH-43123",
         "beds": 3,
