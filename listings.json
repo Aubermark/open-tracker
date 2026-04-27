@@ -7270,27 +7270,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "384616bc-6b44-5d15-8aa5-9aba61e291b8",
-        "address": "2744-Lisa-Dr-Jonesboro-GA-30236",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1646,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">64",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.302208,
-          33.497199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3865a460-d854-55c3-9765-994792710cd7",
         "address": "230-Prescott-St-Locust-Grove-GA-30248",
         "beds": 5,
@@ -27907,6 +27886,27 @@
         "coordinates": [
           -83.953491,
           33.334519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd3463a0-787a-5a0d-af70-d63ce5360f21",
+        "address": "1817-Colorado-Ct-Burleson-TX-76028",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2656,
+        "listed_at": "2026-04-27T19:00:02.000Z",
+        "days_on_market": ">64",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.360539,
+          32.518236
         ]
       }
     },
