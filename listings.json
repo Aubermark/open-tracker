@@ -4,6 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "008b89b6-8024-5397-84db-2b7cc821ed10",
+        "address": "301-Hocutt-Dr-Clayton-NC-27520",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1375,
+        "listed_at": "2026-04-27T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.475883,
+          35.644055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00978d5c-08b3-56e5-8ff0-c11c141bebc3",
         "address": "6224-Silver-Edge-St-North-Las-Vegas-NV-89031",
         "beds": 4,
