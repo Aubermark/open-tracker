@@ -5380,6 +5380,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27999697-68c6-5ec2-8ea2-ecc660058502",
+        "address": "4958-Scotts-Creek-Trl-Peachtree-Corners-GA-30096",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2701,
+        "listed_at": "2026-04-27T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.203649,
+          33.977917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
         "address": "2237-Nw-158th-St-Edmond-OK-73013",
         "beds": 3,
@@ -22663,27 +22684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ac0c6df8-54ae-58f2-80ca-61cd85341076",
-        "address": "410-B-St-Belton-MO-64012",
-        "beds": 4,
-        "baths": 1,
-        "sqft": 1526,
-        "listed_at": "2026-04-13T20:30:07.000Z",
-        "days_on_market": "14",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.530223,
-          38.812892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ac49235c-be43-5626-8ee8-b3395db5d352",
         "address": "1500-Shady-Oak-Cir-Birmingham-AL-35235",
         "beds": 3,
@@ -27892,27 +27892,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "db2c457d-119f-59fc-8c4a-ed132860ebe4",
-        "address": "2400-Creekview-Dr-Plano-TX-75093",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2939,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "17",
-        "current_price": 790000,
-        "price_label": "$790K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.843562,
-          33.032185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "db44b96f-194e-50d9-b03c-e7f91a5e9ed4",
         "address": "727-E-Mahoney-Cir-Buckeye-AZ-85326",
         "beds": 3,
@@ -28474,27 +28453,6 @@
         "coordinates": [
           -80.611856,
           34.285181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e1417ddb-cb1d-5705-89a2-c58d07405990",
-        "address": "6302-Zanes-Ct-Plano-TX-75023",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1872,
-        "listed_at": "2026-04-24T23:50:02.000Z",
-        "days_on_market": "3",
-        "current_price": 443000,
-        "price_label": "$443K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.717168,
-          33.058376
         ]
       }
     },
