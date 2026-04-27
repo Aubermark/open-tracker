@@ -1516,6 +1516,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ae46985-f1f0-5a6d-b596-1189e90e8366",
+        "address": "5412-Conroy-St-Fort-Worth-TX-76134",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1456,
+        "listed_at": "2026-04-27T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.313644,
+          32.66565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0afd743d-0fec-57b2-847a-f0c9c1e8eee3",
         "address": "9618-Tamalpais-Dr-Dallas-TX-75217",
         "beds": 3,
