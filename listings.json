@@ -12709,6 +12709,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ee8fe3e-8c2d-5581-bb87-e56f0212b3d5",
+        "address": "2059-N-St-Francis-Pl-Casa-Grande-AZ-85122",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1521,
+        "listed_at": "2026-04-27T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 278000,
+        "price_label": "$278K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.717626,
+          32.910894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f01796f-84cd-5a74-bcd2-1d7bf6372e88",
         "address": "1041-Shenencock-Way-Roseville-CA-95747",
         "beds": 3,
@@ -28018,6 +28039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dc0d66ad-6135-57da-8d41-38f529e217cf",
+        "address": "101-Picadilly-Loop-Summerville-SC-29483",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2581,
+        "listed_at": "2026-04-27T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.234742,
+          32.993611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dc1319c1-88bb-4218-8d3c-1d83923f181f",
         "address": "8289-Sw-196th-Court-Rd-Dunnellon-FL-34432",
         "beds": 4,
@@ -28474,6 +28516,27 @@
         "coordinates": [
           -80.611856,
           34.285181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e1377373-7075-5c02-9c6a-7e286bc1b122",
+        "address": "225-La-Jolla-Live-Oak-TX-78233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1378,
+        "listed_at": "2026-04-27T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.333902,
+          29.556383
         ]
       }
     },
