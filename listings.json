@@ -22075,6 +22075,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a6ff1347-bfa7-5520-9756-9f92b3ee32f0",
+        "address": "21158-E-Stonecrest-Dr-Queen-Creek-AZ-85142",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1762,
+        "listed_at": "2026-04-27T20:10:22.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.625949,
+          33.244942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a71b459b-a417-54f1-9b5a-14f289b048c4",
         "address": "1711-Kennedy-Dr-Wylie-TX-75098",
         "beds": 4,
@@ -30616,6 +30637,27 @@
         "coordinates": [
           -110.718336,
           32.101656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2cb7690-abd3-50fc-a11b-460387e65a43",
+        "address": "1301-Star-Ct-Deltona-FL-32725",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2248,
+        "listed_at": "2026-04-27T20:10:22.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.236606,
+          28.912643
         ]
       }
     },
