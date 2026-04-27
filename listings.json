@@ -23545,6 +23545,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6b4ab9c-60c0-5441-a37d-bf7f2a183101",
+        "address": "2993-S-160th-Ln-Goodyear-AZ-85338",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2832,
+        "listed_at": "2026-04-27T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.40341,
+          33.418874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6f48992-85f9-5915-8a3f-b3e68e475912",
         "address": "1930-Ne-23rd-Ter-Jensen-Beach-FL-34957",
         "beds": 3,
