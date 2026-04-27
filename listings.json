@@ -17728,6 +17728,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "86413bd6-70db-5a48-8c77-e64c1e7c32fc",
+        "address": "2112-Axson-St-Cayce-SC-29033",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1128,
+        "listed_at": "2026-04-27T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.083254,
+          33.953075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8684725a-89b3-5fcd-a18b-d5b4e149df27",
         "address": "4012-Cedarwood-Dr-Pearland-TX-77584",
         "beds": 4,
@@ -21796,6 +21817,27 @@
         "coordinates": [
           -98.316092,
           29.491932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a6f9dde8-10f4-40f3-a802-7ef71cb256eb",
+        "address": "169-Kingstons-Cv-Clarksville-TN-37042",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2722,
+        "listed_at": "2026-04-27T16:30:03.000Z",
+        "days_on_market": ">64",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.364957,
+          36.629322
         ]
       }
     },
