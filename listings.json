@@ -13066,27 +13066,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6248640d-de58-530d-9c96-80079915e67c",
-        "address": "7594-Beverly-Dr-Fayetteville-NC-28314",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1737,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "56",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0569,
-          35.040624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "626446b0-7429-5a14-8dbe-1fac51351d24",
         "address": "115-S-Withrow-Dr-Shelby-NC-28150",
         "beds": 3,
@@ -18079,6 +18058,27 @@
         "coordinates": [
           -81.499052,
           28.556569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "88b0a21e-89b2-5926-94fe-777befcc4895",
+        "address": "2211-Dana-Dr-Flower-Mound-TX-75028",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3270,
+        "listed_at": "2026-04-27T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 680000,
+        "price_label": "$680K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.062779,
+          33.012761
         ]
       }
     },
@@ -30784,6 +30784,27 @@
         "coordinates": [
           -77.13488,
           38.824454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f5556f1b-c335-564e-ac09-58685942c13e",
+        "address": "603-48th-St-W-Palmetto-FL-34221",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 987,
+        "listed_at": "2026-04-27T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.570045,
+          27.556602
         ]
       }
     },
