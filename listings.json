@@ -130,6 +130,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00f709e1-7447-52aa-95b2-dd377061ad94",
+        "address": "127-Nelson-St-Durham-NC-27707",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-04-27T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90566,
+          35.973706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "010c3484-7586-5d05-9370-87bc64b2a31a",
         "address": "2806-Fullers-Aly-Kennesaw-GA-30144",
         "beds": 3,
@@ -17308,6 +17329,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8305f382-a348-5c24-a3ca-9e674a783709",
+        "address": "1200-E-River-Rd-Unit-L158-Tucson-AZ-85718",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 753,
+        "listed_at": "2026-04-27T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.952802,
+          32.291836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "832f8892-0491-5fe4-ab30-bbb929ea6b5f",
         "address": "1105-E-17th-St-Georgetown-TX-78626",
         "beds": 3,
@@ -25141,6 +25183,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c356fdb3-f4b6-5116-b6a7-b2921a3a3039",
+        "address": "26902-Sparrow-Rdg-San-Antonio-TX-78261",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2610,
+        "listed_at": "2026-04-27T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.447536,
+          29.69756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3672f46-25fe-42e0-a369-fd29a15453b2",
         "address": "3720-Los-Cabos-Dr-Mustang-OK-73064",
         "beds": 3,
@@ -28306,27 +28369,6 @@
         "coordinates": [
           -96.717168,
           33.058376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e1515ab1-9812-53ca-9b17-97a020ced256",
-        "address": "413-Dubina-Ave-Georgetown-TX-78626",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1750,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">64",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.6401,
-          30.595517
         ]
       }
     },
