@@ -17455,6 +17455,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "82fd36d8-d911-47f6-b64d-cefbb2f0edfc",
+        "address": "136-Dellmar-Dr-Raeford-NC-28376",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3107,
+        "listed_at": "2026-04-27T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.115006,
+          35.03528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8305f382-a348-5c24-a3ca-9e674a783709",
         "address": "1200-E-River-Rd-Unit-L158-Tucson-AZ-85718",
         "beds": 1,
@@ -31435,6 +31456,27 @@
         "coordinates": [
           -82.591404,
           28.441909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f97a57b1-b2a1-5171-b742-6699ff1a7987",
+        "address": "9716-Hardesty-Ave-Kansas-City-MO-64137",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-04-27T20:50:04.000Z",
+        "days_on_market": "4",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526489,
+          38.948023
         ]
       }
     },
