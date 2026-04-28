@@ -4750,6 +4750,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23b5a9eb-1ee9-54e4-b8ac-0955916ac21e",
+        "address": "209-Clayton-Ave-Keenesburg-CO-80643",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1320,
+        "listed_at": "2026-04-28T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.517919,
+          40.113784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23d14e5e-0aab-50f0-abcd-8d7296b2006a",
         "address": "9801-Cedarcrest-Dr-Providence-Village-TX-76227",
         "beds": 3,
@@ -31750,6 +31771,27 @@
         "coordinates": [
           -80.906376,
           35.54833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb72b894-41c2-5d36-82f8-fa414c432d3e",
+        "address": "903-Mazatlan-Ct-Arlington-TX-76002",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1961,
+        "listed_at": "2026-04-28T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.093056,
+          32.609447
         ]
       }
     },
