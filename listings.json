@@ -6262,6 +6262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f242134-8833-5318-8ee9-e240bb985641",
+        "address": "14624-W-Blackwood-Dr-Sun-City-West-AZ-85375",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1404,
+        "listed_at": "2026-04-28T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.374739,
+          33.674097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f44061d-173b-5614-a08e-cd752005b883",
         "address": "6515-Bentley-Ridge-Dr-Cumming-GA-30040",
         "beds": 4,
@@ -23539,27 +23560,6 @@
         "coordinates": [
           -104.950227,
           39.57846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b17ffb4b-e839-58c4-834e-acbb2746fa44",
-        "address": "206-Daisy-St-Thomasville-NC-27360",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1107,
-        "listed_at": "2026-04-20T22:00:05.000Z",
-        "days_on_market": "8",
-        "current_price": 242000,
-        "price_label": "$242K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.098124,
-          35.811045
         ]
       }
     },
