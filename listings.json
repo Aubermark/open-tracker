@@ -31483,6 +31483,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f92b8521-9f40-50b2-bcfc-fcf046928b9a",
+        "address": "28441-Silverking-Trl-Santa-Clarita-CA-91390",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1744,
+        "listed_at": "2026-04-28T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.511216,
+          34.461521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f94fab6f-128e-58e3-9816-003a987428f9",
         "address": "19822-Rippling-Brook-Ln-Tomball-TX-77375-17890627",
         "beds": 3,
