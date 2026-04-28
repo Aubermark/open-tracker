@@ -13696,27 +13696,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6539776f-cb15-5dbd-94d6-d53c81e73483",
-        "address": "4393-Sw-Calah-Cir-Port-Saint-Lucie-FL-34953",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1234,
-        "listed_at": "2026-04-14T15:00:06.000Z",
-        "days_on_market": ">65",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.341056,
-          27.215534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "65428fb6-28d3-527d-b2d9-1947cb2abafe",
         "address": "1539-Biscayne-Bay-Dr-Jacksonville-FL-32218",
         "beds": 2,
@@ -22810,6 +22789,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ababc45e-ac05-5136-b1c0-5e5e85cd912c",
+        "address": "4246-E-Tyson-St-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1601,
+        "listed_at": "2026-04-28T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6985,
+          33.311437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "abb826cb-28f6-5d92-ba4f-7652fc925a65",
         "address": "98-Cole-Ct-Se-Ludowici-GA-31316",
         "beds": 4,
@@ -28537,27 +28537,6 @@
         "coordinates": [
           -93.359947,
           45.225068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e07e8ec0-c12f-5fbb-86f4-69848d115356",
-        "address": "2009-Trindle-Vine-Ln-Waxhaw-NC-28173",
-        "beds": 6,
-        "baths": 5.5,
-        "sqft": 4152,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": ">65",
-        "current_price": 669000,
-        "price_label": "$669K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.676255,
-          34.967836
         ]
       }
     },
