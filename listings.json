@@ -8488,27 +8488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "40cb574d-90b4-5a01-83fc-21d57133f7c5",
-        "address": "4603-Bluestem-Ln-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1283,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": "39",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.700668,
-          31.068416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4132e17b-e6e7-56fc-b7a3-9e3051e85008",
         "address": "2603-Bethel-Springs-Ln-League-City-TX-77573",
         "beds": 4,
@@ -12619,6 +12598,27 @@
         "coordinates": [
           -106.51317,
           35.093418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e81a846-e91e-5d4c-904d-b14c04aa55a7",
+        "address": "7768-Syracuse-Dr-Clermont-FL-34714",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2207,
+        "listed_at": "2026-04-28T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.716673,
+          28.460919
         ]
       }
     },
