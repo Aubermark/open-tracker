@@ -8236,6 +8236,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3de081d7-83e9-5cc6-99c7-547ff75a4cf5",
+        "address": "12202-N-Highland-Ave-Kansas-City-MO-64165",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2553,
+        "listed_at": "2026-04-28T19:00:02.000Z",
+        "days_on_market": ">65",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.557353,
+          39.315149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e5c3ee2-57ba-5c5e-bac5-1de759a98265",
         "address": "6218-Old-Corral-St-Charlotte-NC-28277",
         "beds": 3,
