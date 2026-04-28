@@ -2986,6 +2986,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15f96fe0-407e-521a-bf50-387dc4e98ab5",
+        "address": "3628-Riverhead-Dr-Arlington-TX-76015",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1228,
+        "listed_at": "2026-04-28T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.121021,
+          32.684732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15f97a69-81d9-5765-b5e3-b1e3c129e292",
         "address": "4744-Ponderay-Ln-Sacramento-CA-95841",
         "beds": 4,
@@ -16315,27 +16336,6 @@
         "coordinates": [
           -78.79822,
           35.921654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "78c39a13-bb96-5f18-a480-ec13c60ce0b4",
-        "address": "13201-E-53rd-St-Kansas-City-MO-64133",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 2019,
-        "listed_at": "2026-04-23T01:30:01.000Z",
-        "days_on_market": ">65",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.425107,
-          39.025285
         ]
       }
     },
