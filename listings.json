@@ -15502,6 +15502,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "72f3065b-4ace-571e-9eb0-4e7693129929",
+        "address": "108-W-Dogwood-Dr-Mebane-NC-27302",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1450,
+        "listed_at": "2026-04-28T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.282092,
+          36.078067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7303a6a3-31e4-5730-840c-e21d986d3421",
         "address": "1033-Chestnut-Hill-Cir-Sw-Marietta-GA-30064",
         "beds": 4,
