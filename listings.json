@@ -14788,6 +14788,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
+        "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1997,
+        "listed_at": "2026-04-28T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.109986,
+          33.642955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d0c798a-a24d-5907-9d23-0f718ad9507c",
         "address": "2116-Cason-Ln-Murfreesboro-TN-37128",
         "beds": 2,
@@ -27970,6 +27991,27 @@
         "coordinates": [
           -84.200266,
           33.786085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da5d80e6-0c49-538c-b5b4-51d65fc33635",
+        "address": "1830-Bellgrove-St-Lakeland-FL-33805",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1174,
+        "listed_at": "2026-04-28T21:20:03.000Z",
+        "days_on_market": "35",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.985938,
+          28.068904
         ]
       }
     },
