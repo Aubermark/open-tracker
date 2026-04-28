@@ -4015,6 +4015,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1de9bdb2-6b36-5671-9c5c-6b2cf4602b5c",
+        "address": "78440-Via-Palomino-La-Quinta-CA-92253",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2443,
+        "listed_at": "2026-04-28T19:30:02.000Z",
+        "days_on_market": "63",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.296521,
+          33.725125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e21328b-2897-5979-b2ec-f5bf5b930e30",
         "address": "101-Denison-St-Fredericksburg-VA-22406",
         "beds": 3,
@@ -6424,6 +6445,27 @@
         "coordinates": [
           -114.934884,
           35.998843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "30600ab0-7f56-593e-8aee-f1e30d20a04e",
+        "address": "12883-Nw-Scottston-Ter-Banks-OR-97106",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1219,
+        "listed_at": "2026-04-28T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109057,
+          45.6138
         ]
       }
     },
@@ -26143,27 +26185,6 @@
         "coordinates": [
           -111.969598,
           33.745761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cd26cef5-1242-5d27-8f50-47cc7f96e1eb",
-        "address": "515-Teresa-Ln-Canton-GA-30115",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3978,
-        "listed_at": "2026-04-20T23:10:04.000Z",
-        "days_on_market": "8",
-        "current_price": 587000,
-        "price_label": "$587K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.427527,
-          34.173918
         ]
       }
     },
