@@ -14914,6 +14914,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e9e8bbf-3d10-523a-9668-86abd27fe76f",
+        "address": "17451-Sw-25th-Cir-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1282,
+        "listed_at": "2026-04-28T17:53:06.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.164047,
+          28.966407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6eabf6b1-21c4-51a2-90a2-b941c7b430f9",
         "address": "7009-Whisperwood-Ave-Spring-Hill-TN-37174",
         "beds": 3,
