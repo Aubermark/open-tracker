@@ -3847,27 +3847,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1c60989c-f9da-5999-a3af-b16aeac953e7",
-        "address": "3732-Sugarberry-Dr-Mesquite-TX-75150",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1332,
-        "listed_at": "2026-04-08T20:20:07.000Z",
-        "days_on_market": ">65",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.597374,
-          32.817099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1c6412cc-b6bd-50b5-8557-cf682b9dd7fc",
         "address": "2797-Gresham-Rd-Se-Atlanta-GA-30316",
         "beds": 3,
@@ -5710,27 +5689,6 @@
         "coordinates": [
           -77.709547,
           37.479153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2a06c1e3-4ae2-5619-a004-21490349484e",
-        "address": "2030-N-78th-Gln-Phoenix-AZ-85035",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1837,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": "12",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.22895,
-          33.470486
         ]
       }
     },
@@ -15601,6 +15559,27 @@
         "coordinates": [
           -111.707458,
           33.346538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "741c5c56-2a98-5c87-9bb6-d066b1868c64",
+        "address": "8804-S-Brentwood-St-Littleton-CO-80128",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 4184,
+        "listed_at": "2026-04-28T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1200000,
+        "price_label": "$1.200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.090952,
+          39.557174
         ]
       }
     },
