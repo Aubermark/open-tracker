@@ -8299,6 +8299,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3df74d8e-cac4-531a-a1eb-d468ea4687c2",
+        "address": "3915-Frank-Vance-Rd-Charlotte-NC-28216",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2288,
+        "listed_at": "2026-04-28T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.869618,
+          35.325219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e5c3ee2-57ba-5c5e-bac5-1de759a98265",
         "address": "6218-Old-Corral-St-Charlotte-NC-28277",
         "beds": 3,
@@ -8524,6 +8545,27 @@
         "coordinates": [
           -84.046703,
           34.376911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40f50d7b-0f98-5b1a-ab2f-b30a449b866c",
+        "address": "375-Walnut-Ln-Corryton-TN-37721",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-04-28T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.796138,
+          36.173833
         ]
       }
     },
@@ -23902,6 +23944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b69dd48d-84c9-599c-a7c4-b98bc35890a7",
+        "address": "2976-Claymille-Blvd-Nashville-TN-37207",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2512,
+        "listed_at": "2026-04-28T20:00:03.000Z",
+        "days_on_market": "33",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802713,
+          36.228218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6b293b8-fbb5-56fa-a25b-57a3a627fed6",
         "address": "433-Heath-Pl-Smyrna-TN-37167",
         "beds": 3,
@@ -28873,27 +28936,6 @@
         "coordinates": [
           -96.951307,
           32.918655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e62bd34e-5f2b-51c8-99f5-5e3cf8ff17a7",
-        "address": "11104-W-Dawnlight-Dr-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1950,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": ">65",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.202179,
-          32.426829
         ]
       }
     },
