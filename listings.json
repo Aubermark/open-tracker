@@ -4834,6 +4834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24a07aad-d613-5db1-a8ec-d50a02c5e11c",
+        "address": "5721-Loire-Blvd-Corpus-Christi-TX-78414",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2349,
+        "listed_at": "2026-04-28T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.391235,
+          27.665791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24a669ae-8f14-57da-80cf-f321eb822d3c",
         "address": "2928-Thurman-Dairy-Loop-Wake-Forest-NC-27587",
         "beds": 5,
@@ -6025,6 +6046,27 @@
         "coordinates": [
           -83.744918,
           34.124797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2d19faa3-8f94-5230-a9b4-cd6605747878",
+        "address": "916-Longfellow-Ave-Royal-Oak-MI-48067",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1897,
+        "listed_at": "2026-04-28T14:50:02.000Z",
+        "days_on_market": "15",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13489,
+          42.48191
         ]
       }
     },
