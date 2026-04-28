@@ -26905,6 +26905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d2657268-810c-544d-b31d-754ee83ab5f8",
+        "address": "568-Val-Verde-St-Aubrey-TX-76227",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1637,
+        "listed_at": "2026-04-28T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.981969,
+          33.286439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d2933f9b-818c-53a5-8e33-69cea448b97f",
         "address": "842-Via-Principale-New-Braunfels-TX-78132",
         "beds": 4,
