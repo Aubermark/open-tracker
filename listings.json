@@ -3280,6 +3280,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17091de5-e2f8-5e84-91da-3d3ff6ab1147",
+        "address": "1143-E-Harbor-View-Dr-Gilbert-AZ-85234",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2134,
+        "listed_at": "2026-04-28T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.764768,
+          33.355394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "170b793f-0093-5821-b1f4-ebc7cc19228c",
         "address": "642-W-Cassidy-Pl-Tucson-AZ-85737",
         "beds": 3,
@@ -24001,27 +24022,6 @@
         "coordinates": [
           -86.802713,
           36.228218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b6b293b8-fbb5-56fa-a25b-57a3a627fed6",
-        "address": "433-Heath-Pl-Smyrna-TN-37167",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1706,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": ">65",
-        "current_price": 311000,
-        "price_label": "$311K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.559828,
-          35.984077
         ]
       }
     },
