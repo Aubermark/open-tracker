@@ -30202,6 +30202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ef5aafc9-22ba-5df6-8924-2a219df2b9b1",
+        "address": "4395-Meadow-Ln-Lincolnton-NC-28092",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1479,
+        "listed_at": "2026-04-28T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.12923,
+          35.502508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ef5d2ea4-a7a2-5e81-aa3b-34bf99ea298f",
         "address": "227-Park-Place-Ct-Avon-IN-46123",
         "beds": 3,
