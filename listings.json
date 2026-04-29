@@ -28522,6 +28522,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "df51500d-e5ab-5592-91ef-1055483eb131",
+        "address": "8816-Nw-121st-Ter-Oklahoma-City-OK-73162",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2850,
+        "listed_at": "2026-04-29T11:10:01.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.670516,
+          35.594081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dffe9710-8427-4f13-ae81-089d89407b1e",
         "address": "11079-Roaring-Fork-St-Caldwell-ID-83605",
         "beds": 4,
