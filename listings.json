@@ -10126,6 +10126,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a9dbd81-da4f-59de-8d00-7148333e96b7",
+        "address": "2940-Dover-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1402,
+        "listed_at": "2026-04-29T13:50:02.000Z",
+        "days_on_market": "28",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.309207,
+          38.812429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b24e1ab-ecf4-5985-b1b2-38295d73d44a",
         "address": "131-W-6th-Ave-San-Manuel-AZ-85631",
         "beds": 3,
@@ -29965,6 +29986,27 @@
         "coordinates": [
           -80.743364,
           35.35796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec9472a7-7d39-52fc-9237-fb2ec60e8380",
+        "address": "4409-Idlewood-Ln-Tucker-GA-30084",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1594,
+        "listed_at": "2026-04-29T13:50:02.000Z",
+        "days_on_market": ">66",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21069,
+          33.835381
         ]
       }
     },
