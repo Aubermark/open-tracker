@@ -28081,6 +28081,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db684b35-673c-524e-80a9-908406a75d46",
+        "address": "8592-Dylan-Michael-Dr-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1958,
+        "listed_at": "2026-04-29T13:40:03.000Z",
+        "days_on_market": "61",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.793222,
+          30.263735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db900a80-a180-4bc9-a6b2-946e0eaa0a00",
         "address": "10925-Glacier-Ln-N-Maple-Grove-MN-55369",
         "beds": 3,
