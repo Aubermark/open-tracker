@@ -29866,6 +29866,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ebff9817-5868-5bed-8636-598f30bab453",
+        "address": "414-Glensprings-Dr-Fletcher-NC-28732",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1662,
+        "listed_at": "2026-04-29T14:30:02.000Z",
+        "days_on_market": "26",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.508247,
+          35.427582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ec17ad02-a26e-517d-bb9a-8d4ec1cb5078",
         "address": "717-Twisted-Oaks-Ln-Buda-TX-78610",
         "beds": 3,
