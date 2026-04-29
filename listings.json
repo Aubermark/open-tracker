@@ -12247,27 +12247,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5b8c0384-4c7a-519a-8422-2e9fa2246441",
-        "address": "7431-Ridgewick-Dr-Dallas-TX-75217",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1683,
-        "listed_at": "2026-04-13T20:00:05.000Z",
-        "days_on_market": "16",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.693955,
-          32.710702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5b8e1caa-324e-57a8-8451-c615aad657bb",
         "address": "1204-Forestwood-Dr-Oldsmar-FL-34677",
         "beds": 3,
@@ -27262,6 +27241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5351656-ee8b-5742-bd68-d37653bf3da8",
+        "address": "12746-River-Rock-Way-Longmont-CO-80504",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2119,
+        "listed_at": "2026-04-29T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.968023,
+          40.18587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d572a259-d445-5f99-9291-0064d8263dab",
         "address": "38235-W-La-Paz-St-Maricopa-AZ-85138",
         "beds": 5,
@@ -28390,6 +28390,27 @@
         "coordinates": [
           -97.670516,
           35.594081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df8ad21b-0692-5a2d-9615-e3ed8f0cd704",
+        "address": "15-Regal-Ln-Covington-GA-30016",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2406,
+        "listed_at": "2026-04-29T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.944944,
+          33.577584
         ]
       }
     },
