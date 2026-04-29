@@ -25498,6 +25498,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c85dc633-faa3-5961-a9ff-746b471173d6",
+        "address": "3346-Babson-Ct-Franklin-OH-45005",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3943,
+        "listed_at": "2026-04-29T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.304505,
+          39.490771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c8944579-2351-5dda-8b23-79af0a87e452",
         "address": "1036-Cedar-Forest-Dr-Conroe-TX-77384",
         "beds": 4,
