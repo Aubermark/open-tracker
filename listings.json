@@ -3490,6 +3490,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18c6b123-cef3-5306-8b1b-8f0bef13da4f",
+        "address": "6252-Anita-Dr-Cleveland-OH-44130",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1296,
+        "listed_at": "2026-04-29T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.779678,
+          41.39355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1910d4a8-6dc2-5127-b155-f1f7ced1903e",
         "address": "1520-Herrin-Ave-Charlotte-NC-28205",
         "beds": 3,
@@ -18793,27 +18814,6 @@
         "coordinates": [
           -86.523576,
           34.806727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8a7fa9f4-4cd0-51dc-be13-438f7110fc95",
-        "address": "6670-S-Birch-Creek-Ave-Meridian-ID-83642",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1885,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "37",
-        "current_price": 429000,
-        "price_label": "$429K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.412784,
-          43.544125
         ]
       }
     },
