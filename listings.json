@@ -17602,6 +17602,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "839a337a-d029-5a59-9d85-e834bd341353",
+        "address": "715-E-72nd-Ter-Kansas-City-MO-64131",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1133,
+        "listed_at": "2026-04-29T21:00:02.000Z",
+        "days_on_market": ">66",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57794,
+          38.995817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "83bd6057-56e7-5b77-a61e-05a301e1ab31",
         "address": "12325-Switchgrass-San-Antonio-TX-78252",
         "beds": 3,
