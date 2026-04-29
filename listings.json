@@ -2818,6 +2818,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1537fdc0-a3fd-5059-9ad8-fcb36b39502c",
+        "address": "3207-Ringtail-Ln-Charlotte-NC-28216",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2470,
+        "listed_at": "2026-04-29T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91065,
+          35.319016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -3988,27 +4009,6 @@
         "coordinates": [
           -80.411725,
           27.289674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1de9bdb2-6b36-5671-9c5c-6b2cf4602b5c",
-        "address": "78440-Via-Palomino-La-Quinta-CA-92253",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 2443,
-        "listed_at": "2026-04-28T19:30:02.000Z",
-        "days_on_market": "64",
-        "current_price": 585000,
-        "price_label": "$585K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.296521,
-          33.725125
         ]
       }
     },
@@ -16762,6 +16762,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7bf15d8b-6bf1-5ae8-b5ce-6a46bcf9a95e",
+        "address": "10244-Hoover-St-Spring-Hill-FL-34608",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2325,
+        "listed_at": "2026-04-29T17:30:02.000Z",
+        "days_on_market": ">66",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.553296,
+          28.468662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7bf644cc-f509-5ca0-8fd2-c84bd07f35aa",
         "address": "12917-Meadows-Dr-Oklahoma-City-OK-73120",
         "beds": 3,
@@ -21292,6 +21313,27 @@
         "coordinates": [
           -96.56637,
           33.321644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e8d67d6-4356-5bcb-a9db-3f60e988976d",
+        "address": "6906-King-George-Pl-Corpus-Christi-TX-78414",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2174,
+        "listed_at": "2026-04-29T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.379059,
+          27.643702
         ]
       }
     },
