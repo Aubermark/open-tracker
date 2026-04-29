@@ -14074,6 +14074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68237419-5c7a-5a4a-aa47-f1b3e9ded92f",
+        "address": "1272-Owen-Cir-Sugar-Hill-GA-30518",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2217,
+        "listed_at": "2026-04-29T19:20:03.000Z",
+        "days_on_market": "49",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02593,
+          34.092044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68547a2a-2a62-532e-a9b2-aedab4905702",
         "address": "6403-Canyon-Park-Dr-Katy-TX-77450",
         "beds": 5,
