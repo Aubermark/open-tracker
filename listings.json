@@ -30853,6 +30853,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f38614c2-8ae3-5841-9e4b-60259a9e73e4",
+        "address": "12643-Horseshoe-Bend-Dr-Lithia-FL-33547",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2642,
+        "listed_at": "2026-04-29T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.232997,
+          27.810139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3c7637a-7bd5-59b2-bac5-a2c31a17eb5f",
         "address": "6515-Carriage-Dr-Alexandria-VA-22310",
         "beds": 4,
@@ -31960,27 +31981,6 @@
         "coordinates": [
           -80.19708,
           36.145931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc89b10a-649c-510d-994e-afda06c16928",
-        "address": "7722-Oak-Grove-Cir-Lake-Worth-FL-33467",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1856,
-        "listed_at": "2026-04-23T21:10:02.000Z",
-        "days_on_market": "6",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.167885,
-          26.585412
         ]
       }
     },
