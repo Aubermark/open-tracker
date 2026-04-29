@@ -5863,6 +5863,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c7c1b89-4b07-56c1-9577-d43f63c66afe",
+        "address": "8508-W-Ruth-Ave-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-04-29T21:30:02.000Z",
+        "days_on_market": "23",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.24261,
+          33.562309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c9328b7-d731-5765-852e-712f48e61fa9",
         "address": "277-Christian-Cir-Carrollton-GA-30116",
         "beds": 4,
@@ -31813,27 +31834,6 @@
         "coordinates": [
           -80.19708,
           36.145931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fca47e86-7eaf-5993-8bdc-1b8a9c7452e8",
-        "address": "1545-S-Beltline-Blvd-Columbia-SC-29205",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1363,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">66",
-        "current_price": 228000,
-        "price_label": "$228K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.985592,
-          33.96994
         ]
       }
     },
