@@ -5926,27 +5926,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2cb02fab-2a6b-409b-b7cb-4252f409b407",
-        "address": "8699-Bynum-Dr-Colorado-Springs-CO-80908",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2723,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": ">66",
-        "current_price": 489000,
-        "price_label": "$489K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.681303,
-          38.957485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2cc53ec3-6992-5120-9b81-5f708863b941",
         "address": "4018-City-Homes-Pl-Charlotte-NC-28209",
         "beds": 4,
@@ -10057,6 +10036,27 @@
         "coordinates": [
           -86.071635,
           39.598855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4a9dbd81-da4f-59de-8d00-7148333e96b7",
+        "address": "2940-Dover-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1402,
+        "listed_at": "2026-04-29T16:00:03.000Z",
+        "days_on_market": "28",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.309207,
+          38.812429
         ]
       }
     },
