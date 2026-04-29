@@ -12016,27 +12016,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59450f27-cd5a-534b-9083-f0036937a570",
-        "address": "20000-Mitchell-Pl-Unit-45-Denver-CO-80249",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1758,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "47",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.754728,
-          39.776732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59706624-60e6-5043-8270-2daf3057f110",
         "address": "2519-N-Richey-Blvd-Tucson-AZ-85716",
         "beds": 2,
@@ -25897,6 +25876,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "caac7297-5b09-57b3-b618-bd3c42541692",
+        "address": "109-Rockrose-Ave-Clayton-NC-27527",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2817,
+        "listed_at": "2026-04-29T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.392966,
+          35.651179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "caace61b-b771-50aa-bbe5-7c56a06b3ef1",
         "address": "19858-W-Rancho-Dr-Litchfield-Park-AZ-85340",
         "beds": 4,
@@ -26185,27 +26185,6 @@
         "coordinates": [
           -86.794965,
           35.818819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cc18c7ee-5765-5e08-8718-b5523becc0b8",
-        "address": "258-Los-Altos-Pl-American-Canyon-CA-94503",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1080,
-        "listed_at": "2026-03-23T20:50:05.000Z",
-        "days_on_market": ">66",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.259,
-          38.174182
         ]
       }
     },
@@ -28075,6 +28054,27 @@
         "coordinates": [
           -106.691205,
           35.234977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dbb7293d-2106-53c1-94fa-593930006bf1",
+        "address": "13804-Candidate-Pl-Tampa-FL-33613",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-04-29T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 448000,
+        "price_label": "$448K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464424,
+          28.07114
         ]
       }
     },
