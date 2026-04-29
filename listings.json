@@ -11743,6 +11743,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57add268-0c9d-5031-8525-5dd97e6074ba",
+        "address": "317-Wren-Dr-Big-Bear-Lake-CA-92315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1536,
+        "listed_at": "2026-04-29T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.896278,
+          34.246798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57e0db87-05d7-50f5-8626-a2f0bc7df1f5",
         "address": "624-Green-Willow-Cir-Wendell-NC-27591",
         "beds": 3,
