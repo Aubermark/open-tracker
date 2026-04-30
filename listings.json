@@ -2629,6 +2629,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
+        "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2896,
+        "listed_at": "2026-04-30T06:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969602,
+          33.688202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13baff61-523d-4024-ad81-102e5b453727",
         "address": "2270-Luna-Haven-St-Henderson-NV-89044",
         "beds": 4,
