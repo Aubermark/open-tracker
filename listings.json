@@ -5401,6 +5401,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27d2d1f4-eb9c-5ae6-a1ad-8f7e4cb9d237",
+        "address": "3216-Ranbir-Dr-Durham-NC-27713",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1792,
+        "listed_at": "2026-04-30T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.903661,
+          35.932433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27dfb152-4390-585a-872c-92e0f4628a7f",
         "address": "1770-Ne-37th-St-Ocala-FL-34479",
         "beds": 3,
@@ -6004,6 +6025,27 @@
         "coordinates": [
           -83.744918,
           34.124797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ceee988-31d8-50ba-909f-fcad4afec88e",
+        "address": "2310-Redfish-Dr-Texas-City-TX-77591",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1469,
+        "listed_at": "2026-04-30T19:50:03.000Z",
+        "days_on_market": ">67",
+        "current_price": 222000,
+        "price_label": "$222K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.011689,
+          29.404698
         ]
       }
     },
@@ -7096,6 +7138,27 @@
         "coordinates": [
           -98.029339,
           29.62654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "35660734-dfa5-5c59-af32-5be10f6f0889",
+        "address": "64-Garden-Grv-Newnan-GA-30265",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1616,
+        "listed_at": "2026-04-30T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 348000,
+        "price_label": "$348K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73496,
+          33.374072
         ]
       }
     },
