@@ -24616,6 +24616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba9f4942-9be2-51b4-8c66-60bfde8e8714",
+        "address": "303-Stancil-St-Smithfield-NC-27577",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 988,
+        "listed_at": "2026-04-30T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.362306,
+          35.530273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb1c57c3-5262-53b9-8a5f-11ebd5cc0c7b",
         "address": "318-Aberdeen-Cir-Summerville-SC-29483",
         "beds": 4,
