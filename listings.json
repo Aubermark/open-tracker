@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02575f18-a5ef-54c7-87d6-252f5d1c0518",
+        "address": "825-Summerville-Dr-Delaware-OH-43015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1392,
+        "listed_at": "2026-04-30T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.102275,
+          40.301907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02ac9036-2b0f-5fe5-920e-0b07c3bcb42f",
         "address": "172-Mandy-Ln-Lenoir-City-TN-37772",
         "beds": 3,
@@ -1006,27 +1027,6 @@
         "coordinates": [
           -84.142082,
           33.510648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0804d3cf-0861-5203-8d77-966ca079c1fc",
-        "address": "2006-Wexford-Way-Statesville-NC-28625",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1608,
-        "listed_at": "2026-04-24T22:50:01.000Z",
-        "days_on_market": "6",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.851035,
-          35.801377
         ]
       }
     },
@@ -26332,6 +26332,27 @@
         "coordinates": [
           -86.794965,
           35.818819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc1cb968-ddc3-5336-ab29-dd7b88cde36e",
+        "address": "5925-Davon-St-Jacksonville-FL-32244",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1670,
+        "listed_at": "2026-04-30T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.718076,
+          30.242515
         ]
       }
     },
