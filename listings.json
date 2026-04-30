@@ -14725,6 +14725,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c9fb05d-e610-5e8d-81d9-61dc03ab4d14",
+        "address": "5316-Prairie-Ln-Grand-Prairie-TX-75052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1856,
+        "listed_at": "2026-04-30T17:10:02.000Z",
+        "days_on_market": ">67",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.021502,
+          32.644616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
         "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
         "beds": 3,
