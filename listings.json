@@ -16552,6 +16552,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79c13af2-1978-5007-ae98-ba1c9a7238d2",
+        "address": "1187-Bordeaux-Ct-Olivehurst-CA-95961",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2600,
+        "listed_at": "2026-04-30T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.539206,
+          38.989987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
         "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
