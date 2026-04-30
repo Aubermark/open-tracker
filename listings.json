@@ -15124,6 +15124,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6f8914a9-b7fe-5180-a6f3-216966918677",
+        "address": "4558-Coopers-Creek-Pl-Se-Smyrna-GA-30082",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1490,
+        "listed_at": "2026-04-30T06:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.507768,
+          33.845071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f9cb1be-8fb7-5c90-9489-fe4875f5b3c1",
         "address": "9640-N-Carousel-Cir-Summerville-SC-29485",
         "beds": 3,
