@@ -12583,6 +12583,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5dca7ed9-e78a-5563-8391-67e02c487678",
+        "address": "1005-Ne-44th-St-Kansas-City-MO-64116",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 688,
+        "listed_at": "2026-04-30T19:40:01.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.567822,
+          39.174084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ddf7295-82b4-5d1b-8e46-fadc1675c680",
         "address": "11862-Alexandra-Dr-Jacksonville-FL-32218",
         "beds": 3,
