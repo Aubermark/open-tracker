@@ -24112,6 +24112,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b82d0147-1b6e-53ab-ad32-bb79b3c44589",
+        "address": "208-Autumn-Trl-Acworth-GA-30102",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2320,
+        "listed_at": "2026-04-30T06:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618462,
+          34.083808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8376bd9-f5be-5f2b-a721-03dec80ec9b7",
         "address": "4583-Crestone-Peak-St-Brighton-CO-80601",
         "beds": 3,
