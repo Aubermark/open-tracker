@@ -22201,6 +22201,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a61d41b8-5170-560c-994d-1fa38c03df37",
+        "address": "2650-Oxbow-Way-Sw-Marietta-GA-30008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1898,
+        "listed_at": "2026-04-30T07:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.602703,
+          33.889132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a61f4e65-faac-59e1-9905-5b237ab4ca72",
         "address": "3-Hollow-Tree-Way-Greenville-SC-29605",
         "beds": 3,
