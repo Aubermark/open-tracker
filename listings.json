@@ -5506,6 +5506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "285d8814-0566-5919-bc39-db6c88dec610",
+        "address": "11397-W-Lincoln-St-Avondale-AZ-85323-17948163",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2578,
+        "listed_at": "2026-04-30T16:00:01.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.305119,
+          33.440769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "287541da-f4c6-59fd-84e2-713e351aa84f",
         "address": "8281-Sw-196th-Court-Rd-Dunnellon-FL-34432",
         "beds": 3,
