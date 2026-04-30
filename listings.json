@@ -2440,6 +2440,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12944bdf-3ced-5371-98da-2df1880ef29e",
+        "address": "1555-Rose-Pointe-Dr-Loganville-GA-30052",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2877,
+        "listed_at": "2026-04-30T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.958582,
+          33.836034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12ba21b8-28ad-54d8-b5ec-546548640000",
         "address": "7132-Teaberry-Ct-Ooltewah-TN-37363",
         "beds": 4,
@@ -20851,27 +20872,6 @@
         "coordinates": [
           -84.034917,
           34.063845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9a627cff-1856-5ca1-8991-d7ccff9a2c80",
-        "address": "7846-Cayuga-Dr-New-Port-Richey-FL-34653",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1510,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">67",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.684554,
-          28.268526
         ]
       }
     },
