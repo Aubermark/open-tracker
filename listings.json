@@ -17959,6 +17959,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85d52405-faf6-5526-8882-d270fc5dbdd0",
+        "address": "17-Belgian-Blue-Dr-Garner-NC-27529",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2064,
+        "listed_at": "2026-04-30T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.566547,
+          35.591853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e3a55e-4a08-4b4e-adfc-450a50e3c545",
         "address": "2522-S-Colosseum-Ct-New-Caney-TX-77357",
         "beds": 4,
