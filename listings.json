@@ -445,6 +445,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "021d5b2f-1c7a-537e-bd33-5ffdf3328140",
+        "address": "3621-Rolridge-Rd-Henrico-VA-23233",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3121,
+        "listed_at": "2026-04-30T20:50:02.000Z",
+        "days_on_market": ">67",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.64207,
+          37.643152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02575f18-a5ef-54c7-87d6-252f5d1c0518",
         "address": "825-Summerville-Dr-Delaware-OH-43015",
         "beds": 3,
@@ -2665,6 +2686,27 @@
         "coordinates": [
           -115.140595,
           35.946341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "13c5e206-b863-5286-a8df-d0fb42ef4726",
+        "address": "3431-Hickory-View-Dr-Nw-Marietta-GA-30064",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2675,
+        "listed_at": "2026-04-30T20:50:02.000Z",
+        "days_on_market": ">67",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64477,
+          33.971117
         ]
       }
     },
@@ -10204,27 +10246,6 @@
         "coordinates": [
           -81.309925,
           28.708166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4bdf5043-d088-55c3-a8cd-af7f89ef5793",
-        "address": "517-W-5th-St-Converse-TX-78109",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1299,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">67",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.320805,
-          29.521669
         ]
       }
     },
@@ -31204,6 +31225,27 @@
         "coordinates": [
           -111.530138,
           33.227144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f3688ac5-81d2-5806-8216-c8912c71b08f",
+        "address": "7746-Hansley-Dr-Chattanooga-TN-37416",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-04-30T20:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.172129,
+          35.079828
         ]
       }
     },
