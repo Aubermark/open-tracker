@@ -25582,6 +25582,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c67fd9aa-e341-56bd-97d6-405b8b6b7c6c",
+        "address": "1913-Ne-Grant-Cir-Blue-Springs-MO-64014",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1558,
+        "listed_at": "2026-04-30T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.256183,
+          39.039334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c68604a2-79bc-565d-afdc-84e9a8297be1",
         "address": "2027-Ferdinand-Ct-Indianapolis-IN-46234",
         "beds": 3,
