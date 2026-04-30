@@ -21382,6 +21382,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a006e695-453f-57bc-bbc7-cd274c625fca",
+        "address": "1537-Mintz-Ave-Fayetteville-NC-28303",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1803,
+        "listed_at": "2026-04-30T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.930752,
+          35.099433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0188a66-67e8-583b-b661-9c6161ff4aad",
         "address": "12525-Panthersville-Dr-Charlotte-NC-28269",
         "beds": 3,
@@ -22447,6 +22468,27 @@
         "coordinates": [
           -94.336735,
           39.131036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a96fead9-0fd8-5502-8606-af657e864c36",
+        "address": "4975-Bentridge-Dr-Nw-Concord-NC-28027",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1740,
+        "listed_at": "2026-04-30T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.668384,
+          35.373772
         ]
       }
     },
@@ -30868,27 +30910,6 @@
         "coordinates": [
           -111.530138,
           33.227144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f329538f-d946-55c2-9404-fa6d216a6563",
-        "address": "2575-Raindrop-Ct-Decatur-GA-30034",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1876,
-        "listed_at": "2026-03-30T17:00:06.000Z",
-        "days_on_market": "31",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.23368,
-          33.712014
         ]
       }
     },
