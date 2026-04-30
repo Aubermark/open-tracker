@@ -30181,6 +30181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ed87e2d9-9598-5b57-b37d-e9c0d62101e7",
+        "address": "2865-Pingree-Ave-Ogden-UT-84401",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 801,
+        "listed_at": "2026-04-30T16:20:02.000Z",
+        "days_on_market": ">67",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.977928,
+          41.212998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edb6fa3e-48c3-57ba-9e45-5e9eef18d8ba",
         "address": "1013-Dunbar-Dr-Atlanta-GA-30338",
         "beds": 2,
