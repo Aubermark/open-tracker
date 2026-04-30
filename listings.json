@@ -1516,27 +1516,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0b01ea11-9bbe-5a39-ac58-abb223605805",
-        "address": "6584-Snowbird-Ln-Douglasville-GA-30134",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1540,
-        "listed_at": "2026-03-16T18:50:08.000Z",
-        "days_on_market": ">67",
-        "current_price": 259000,
-        "price_label": "$259K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.743323,
-          33.765936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0b043229-c42b-56d7-80e6-42ea6ed3056f",
         "address": "4445-Dorsett-Shoals-Run-Douglasville-GA-30135",
         "beds": 3,
@@ -10477,6 +10456,27 @@
         "coordinates": [
           -121.378767,
           38.374799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4e3398a1-7381-5fc3-9d64-578266da0800",
+        "address": "128-Dutch-Lake-Trl-Howard-Lake-MN-55349",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2480,
+        "listed_at": "2026-04-30T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.059277,
+          45.05274
         ]
       }
     },
