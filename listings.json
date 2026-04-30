@@ -4960,6 +4960,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
+        "address": "819-Scenic-Cir-Seymour-TN-37865",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1500,
+        "listed_at": "2026-04-30T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.754558,
+          35.894039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "252db0ea-c745-592b-9977-3dc815ff4691",
         "address": "167-Bridgewood-Dr-Se-Conyers-GA-30094",
         "beds": 3,
@@ -25855,27 +25876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c7b2fb74-6db4-5cc2-9afa-93b47d8825be",
-        "address": "4261-Foxrun-Dr-Chino-Hills-CA-91709",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2276,
-        "listed_at": "2026-04-17T06:34:34.000Z",
-        "days_on_market": "14",
-        "current_price": 1020000,
-        "price_label": "$1.020M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7113,
-          33.955837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c7f6bf2b-a4a5-59e2-bc6b-139e993e7279",
         "address": "2127-Saranac-Dr-Colorado-Springs-CO-80910",
         "beds": 3,
@@ -26605,6 +26605,27 @@
         "coordinates": [
           -81.661936,
           28.280118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cddc6a04-ea98-59e0-a517-9268dbe74c48",
+        "address": "13911-Persimmon-Cv-San-Antonio-TX-78245",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2710,
+        "listed_at": "2026-04-30T21:00:02.000Z",
+        "days_on_market": "17",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.77019,
+          29.413405
         ]
       }
     },
