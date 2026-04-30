@@ -15355,27 +15355,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "704da5d9-8079-5b5f-9983-4621d48d45dc",
-        "address": "403-Heath-Pl-Smyrna-TN-37167",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1846,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": "27",
-        "current_price": 329000,
-        "price_label": "$329K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.561396,
-          35.984573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "70b4386c-29cb-50e3-a6ec-dcc402cef52c",
         "address": "8615-Virginia-Cir-N-St-Louis-Park-MN-55426",
         "beds": 3,
@@ -18016,27 +17995,6 @@
         "coordinates": [
           -95.154636,
           30.181402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85e42fec-a500-5b95-9335-2f9a08d99e33",
-        "address": "12948-Shandon-Ln-Fishers-IN-46038",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1208,
-        "listed_at": "2026-04-20T20:30:05.000Z",
-        "days_on_market": "10",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.996303,
-          39.976271
         ]
       }
     },
@@ -23245,6 +23203,27 @@
         "coordinates": [
           -97.708229,
           31.095766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "af8610a2-18cd-5055-8d7a-cf4fceb4b4ed",
+        "address": "2807-Clingman-St-Hopewell-VA-23860",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2117,
+        "listed_at": "2026-04-30T14:40:02.000Z",
+        "days_on_market": ">67",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.310702,
+          37.293955
         ]
       }
     },
