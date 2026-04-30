@@ -4519,6 +4519,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21644f6c-3292-565d-8bfc-2cb6657d0d51",
+        "address": "221-Sterry-Ct-Antioch-TN-37013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1604,
+        "listed_at": "2026-04-30T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.699072,
+          36.053955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "219f7086-38b0-53dd-91a1-efd63949a964",
         "address": "10103-Meredith-Ave-Silver-Spring-MD-20910",
         "beds": 3,
@@ -10672,6 +10693,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ef1b315-de17-5eff-91ea-d2206b421c5a",
+        "address": "4189-Black-Bear-Dr-Lebanon-OH-45036",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2094,
+        "listed_at": "2026-04-30T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.284768,
+          39.463393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f111543-5611-58c4-89ba-f63f7d265c05",
         "address": "4028-Nations-Dr-Douglasville-GA-30135",
         "beds": 5,
@@ -14971,6 +15013,27 @@
         "coordinates": [
           -84.168477,
           34.039605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6d8a3d1d-ca62-5078-a466-23b0c1c6ff0d",
+        "address": "203-W-Hogan-Dr-Copperas-Cove-TX-76522",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1918,
+        "listed_at": "2026-04-30T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.895871,
+          31.133148
         ]
       }
     },
@@ -29650,27 +29713,6 @@
         "coordinates": [
           -112.616149,
           33.669284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e7c31ce3-ad04-5fdf-be3c-5708ae18c408",
-        "address": "100-James-Ridge-Dr-Stockbridge-GA-30281",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3482,
-        "listed_at": "2026-04-27T17:40:03.000Z",
-        "days_on_market": "3",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.223346,
-          33.584487
         ]
       }
     },
