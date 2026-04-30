@@ -20731,6 +20731,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99d995df-fc16-50af-83b4-c492234fc5e3",
+        "address": "185-Boiling-Brook-Dr-Statesville-NC-28625",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3216,
+        "listed_at": "2026-04-30T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870372,
+          35.829545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99dc96c4-34f9-59a9-95e3-cb6e3ade3da7",
         "address": "6621-Starcrest-Dr-Charlotte-NC-28210",
         "beds": 3,
@@ -23644,6 +23665,27 @@
         "coordinates": [
           -87.314207,
           36.592902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b381359c-220d-5ef6-a02b-9a7ebe3471a3",
+        "address": "7707-Windmere-Ct-Irving-TX-75063",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2185,
+        "listed_at": "2026-04-30T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.982822,
+          32.914136
         ]
       }
     },
