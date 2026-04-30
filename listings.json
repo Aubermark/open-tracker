@@ -29341,6 +29341,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7b58da2-27af-5143-9796-0fceb21dda50",
+        "address": "20359-N-262nd-Dr-Buckeye-AZ-85396",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 2323,
+        "listed_at": "2026-04-30T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.616149,
+          33.669284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e7c31ce3-ad04-5fdf-be3c-5708ae18c408",
         "address": "100-James-Ridge-Dr-Stockbridge-GA-30281",
         "beds": 4,
