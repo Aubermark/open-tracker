@@ -2692,6 +2692,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13e3444b-4eb3-5410-8e8a-a727ca5be7b3",
+        "address": "11963-Henderson-Dr-Frisco-TX-75035",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2691,
+        "listed_at": "2026-04-30T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 489000,
+        "price_label": "$489K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774021,
+          33.178701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13ef8687-abf0-5319-bb26-18068b9faad0",
         "address": "30497-Iron-Bark-Ct-Temecula-CA-92591",
         "beds": 2,
@@ -28033,6 +28054,27 @@
         "coordinates": [
           -81.985938,
           28.068904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db174ef0-5e80-5f8e-80a0-3093445ce3fd",
+        "address": "16960-Tack-Ln-Moreno-Valley-CA-92555",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1311,
+        "listed_at": "2026-04-30T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.209861,
+          33.875236
         ]
       }
     },
