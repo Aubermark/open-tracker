@@ -4,6 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0075cf63-bb79-5e57-acb7-50b4f569ade3",
+        "address": "3311-Garland-Ave-Richmond-VA-23222",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2160,
+        "listed_at": "2026-04-30T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 462000,
+        "price_label": "$462K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.433452,
+          37.576448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "008b89b6-8024-5397-84db-2b7cc821ed10",
         "address": "301-Hocutt-Dr-Clayton-NC-27520",
         "beds": 3,
