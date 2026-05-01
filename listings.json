@@ -10336,6 +10336,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a867dc3-03e3-5a95-a2ae-da07b9f8485e",
+        "address": "6452-Crystal-Creek-Dr-Frisco-TX-75034",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3581,
+        "listed_at": "2026-05-01T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 915000,
+        "price_label": "$915K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.866231,
+          33.132064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a9dbd81-da4f-59de-8d00-7148333e96b7",
         "address": "2940-Dover-Dr-Florissant-MO-63033",
         "beds": 3,
