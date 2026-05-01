@@ -5926,6 +5926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "296b85e8-4ece-5b08-914a-29aa016810e4",
+        "address": "1210-Fillmore-Dr-San-Antonio-TX-78245",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2191,
+        "listed_at": "2026-05-01T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.687916,
+          29.422798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "297d8336-a7ac-5024-824d-f8b28f961da2",
         "address": "113-Haven-Ln-Shelby-NC-28152",
         "beds": 3,
@@ -10735,6 +10756,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e66b834-d456-5001-a9bc-c99e0724cb0f",
+        "address": "314-Glenn-Ave-Columbia-SC-29203",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1338,
+        "listed_at": "2026-05-01T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.055824,
+          34.043561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4eb4ed8c-e627-5444-b7ec-728e6d25fe1e",
         "address": "512-Hidden-Hills-Ct-Marietta-GA-30066",
         "beds": 3,
@@ -11275,6 +11317,27 @@
         "coordinates": [
           -80.973163,
           34.023468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "532d1749-35c2-5c2b-8571-4489fa5432db",
+        "address": "501-W-Clover-Park-Dr-Fort-Worth-TX-76140",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2451,
+        "listed_at": "2026-05-01T17:20:02.000Z",
+        "days_on_market": "50",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.326714,
+          32.600503
         ]
       }
     },
