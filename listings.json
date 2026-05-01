@@ -2293,6 +2293,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1171f34b-b47e-5913-a869-7eb02b94708b",
+        "address": "40-Duo-Dr-Martinsville-IN-46151",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1007,
+        "listed_at": "2026-05-01T18:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.428631,
+          39.409596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1190ec2c-d4a1-531d-abe8-0294ac0cdc93",
         "address": "2511-S-Entwistle-St-Gilbert-AZ-85295",
         "beds": 3,
@@ -2455,27 +2476,6 @@
         "coordinates": [
           -81.59444,
           28.443584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
-        "address": "659-Day-Break-Dr-Greenwood-IN-46143",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1729,
-        "listed_at": "2026-04-14T18:40:05.000Z",
-        "days_on_market": "17",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.119073,
-          39.590031
         ]
       }
     },
