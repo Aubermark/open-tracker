@@ -14263,27 +14263,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "67e5901c-eb28-5ac1-9985-3fb8b1055b02",
-        "address": "58-Llama-Trl-Palm-Coast-FL-32164",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1952,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": ">68",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.206053,
-          29.443716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67fb622b-7201-572d-8c9a-1f4b9f10998f",
         "address": "6814-Garnet-Trail-Ln-Richmond-TX-77469",
         "beds": 3,
@@ -18961,6 +18940,27 @@
         "coordinates": [
           -93.278577,
           44.676768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89d58d28-36bb-582f-acb9-1f75590062a5",
+        "address": "4247-Richmond-Ave-Spring-Branch-TX-78070",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2290,
+        "listed_at": "2026-05-01T13:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 567000,
+        "price_label": "$567K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.369152,
+          29.830206
         ]
       }
     },
