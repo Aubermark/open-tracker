@@ -7417,27 +7417,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "35d5de57-6249-5649-ad80-59a087c1f692",
-        "address": "806-Wedgewood-Dr-Mount-Dora-FL-32757",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1201,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">68",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.637016,
-          28.788832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "35d61bdf-770e-5895-adbd-806c90f17bc3",
         "address": "214-Cornell-Dr-Warner-Robins-GA-31093",
         "beds": 3,
@@ -27613,6 +27592,27 @@
         "coordinates": [
           -76.963685,
           38.878137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d43b665a-b089-50fe-a1ae-9c0b350008eb",
+        "address": "5029-County-Road-2720-Caddo-Mills-TX-75135",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2064,
+        "listed_at": "2026-05-01T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 531000,
+        "price_label": "$531K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.268527,
+          33.099377
         ]
       }
     },
