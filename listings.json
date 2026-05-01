@@ -4330,6 +4330,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f901c7e-f44d-4053-b8fc-ef7223079c06",
+        "address": "130-Speargrass-Ln-Odem-TX-78370",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-05-01T14:00:02.000Z",
+        "days_on_market": "60",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.59493,
+          27.944633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1fa711df-c1c5-5d67-9556-36d7547ddb16",
         "address": "2103-Williamsburg-Ct-N-League-City-TX-77573",
         "beds": 3,
