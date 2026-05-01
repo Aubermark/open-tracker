@@ -20101,6 +20101,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "913f22f2-5ae0-57d9-b255-be4f379195a3",
+        "address": "8632-94th-St-Seminole-FL-33777",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1386,
+        "listed_at": "2026-05-01T20:30:02.000Z",
+        "days_on_market": "63",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.76944,
+          27.85079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9153ee0f-03a3-56c0-ab5f-31c84bcba642",
         "address": "5633-Barclay-Ct-Fort-Mill-SC-29707",
         "beds": 4,
@@ -22195,6 +22216,27 @@
         "coordinates": [
           -121.40145,
           38.447062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a200e0c1-6678-5a1c-be02-809e57cc88a4",
+        "address": "3404-Redwood-Rd-Durham-NC-27704",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1456,
+        "listed_at": "2026-05-01T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.790434,
+          36.037467
         ]
       }
     },
