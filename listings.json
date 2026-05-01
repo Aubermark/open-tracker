@@ -19009,6 +19009,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "89c9d5c6-6f05-5945-bbc7-9d96bbc8030d",
+        "address": "4272-Summersweet-Ln-Crowley-TX-76036",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3115,
+        "listed_at": "2026-05-01T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.386128,
+          32.591742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "89d0ed6c-57d5-560d-b863-16b38cf8a674",
         "address": "639-N-57th-Pl-Mesa-AZ-85205",
         "beds": 2,
