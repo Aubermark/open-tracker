@@ -13318,27 +13318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "60dfb461-72e6-5dec-a370-85ae3e31230f",
-        "address": "600-Northern-Way-Apt-205-Winter-Springs-FL-32708",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1425,
-        "listed_at": "2026-04-23T19:00:02.000Z",
-        "days_on_market": "8",
-        "current_price": 238000,
-        "price_label": "$238K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.257558,
-          28.682102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6108a2f5-56cb-5d0d-aced-008c6ac60c75",
         "address": "1133-W-Edgewater-Dr-Tucson-AZ-85704",
         "beds": 4,
@@ -19633,27 +19612,6 @@
         "coordinates": [
           -87.003914,
           34.803997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8f3b0b5b-5526-5aea-8ef8-adf9814d576a",
-        "address": "1048-E-6th-Ave-Mesa-AZ-85204",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1106,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "51",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.808358,
-          33.40449
         ]
       }
     },
@@ -32002,6 +31960,27 @@
         "coordinates": [
           -86.044004,
           39.499752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8e63a7d-9b0e-5584-bc84-b93eafd2a926",
+        "address": "815-Grants-Cyn-San-Antonio-TX-78251",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2145,
+        "listed_at": "2026-05-01T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.692644,
+          29.442129
         ]
       }
     },
