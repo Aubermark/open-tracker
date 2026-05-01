@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39ea57bd-5bfc-5fcb-b325-79a10c5b342c",
+        "address": "27807-Pluto-St-Highland-CA-92346",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1051,
+        "listed_at": "2026-05-01T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.197769,
+          34.120059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39fc7d82-1c5e-5582-b714-1617ed18537c",
         "address": "5321-Abbottswood-Dr-Smyrna-TN-37167",
         "beds": 4,
@@ -9196,27 +9217,6 @@
         "coordinates": [
           -81.359577,
           29.937929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4381a85b-ace5-5243-81a2-6d17c80721a1",
-        "address": "107-Herring-Way-Kissimmee-FL-34759",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1952,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "50",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.494929,
-          28.078178
         ]
       }
     },
@@ -15118,27 +15118,6 @@
         "coordinates": [
           -97.895871,
           31.133148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6da597e2-d394-508a-92b3-5825b29514ac",
-        "address": "314-Hartman-Branch-Ln-Winston-Salem-NC-27127",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2088,
-        "listed_at": "2026-04-24T19:40:02.000Z",
-        "days_on_market": "7",
-        "current_price": 343000,
-        "price_label": "$343K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.24896,
-          35.994237
         ]
       }
     },
