@@ -28165,6 +28165,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d8893b8b-b419-59a8-be7e-ddd40f49135b",
+        "address": "335-Homeville-Rd-Collierville-TN-38017",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-05-01T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.657991,
+          35.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d949826b-7c06-427c-be91-3cd2e8f4228b",
         "address": "19240-Gray-Horse-Dr-Foley-AL-36535",
         "beds": 4,
