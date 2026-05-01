@@ -14725,27 +14725,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6ac4a4bd-8fed-4424-a03e-a8ca9cb06406",
-        "address": "5926-Juna-Ave-Plainfield-IN-46168",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2432,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": ">68",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.419876,
-          39.702116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6ae46eac-5539-5129-ac0b-abd4e9e9902c",
         "address": "7921-N-175th-Ave-Waddell-AZ-85355",
         "beds": 3,
@@ -26122,6 +26101,27 @@
         "coordinates": [
           -111.787624,
           33.304068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4c358b2-3a46-5e9c-aef3-da51b6338d19",
+        "address": "3005-Teakwood-St-Anna-TX-75409",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1718,
+        "listed_at": "2026-05-01T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.564035,
+          33.321767
         ]
       }
     },
