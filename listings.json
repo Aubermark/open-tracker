@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11f22d05-8f86-5c2c-b2d0-f23327904113",
+        "address": "9625-N-Broadmede-St-Tucson-AZ-85742",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1772,
+        "listed_at": "2026-05-01T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.029403,
+          32.381352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
         "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
         "beds": 3,
@@ -17617,6 +17638,27 @@
         "coordinates": [
           -77.309676,
           38.660561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7fc352b0-46c9-5f4a-b260-ea7ea17b2ebb",
+        "address": "2614-Chelsea-Manor-Blvd-Brandon-FL-33510",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1657,
+        "listed_at": "2026-05-01T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.319407,
+          27.965411
         ]
       }
     },
