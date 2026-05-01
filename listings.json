@@ -22894,6 +22894,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aacefbdf-3886-58f2-a54f-3b2bfc5fd3cb",
+        "address": "3041-Forrester-St-Durham-NC-27704",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 928,
+        "listed_at": "2026-05-01T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.874164,
+          36.040606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aad32c66-944e-571f-a0bd-d77162dc6922",
         "address": "1217-Ashley-Dr-Weatherford-TX-76087",
         "beds": 4,
@@ -32338,6 +32359,27 @@
         "coordinates": [
           -85.754001,
           39.510464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb729a58-fff8-5eed-bdb3-eab471bae855",
+        "address": "1332-Kesser-Dr-Plano-TX-75025",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1811,
+        "listed_at": "2026-05-01T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.717652,
+          33.080968
         ]
       }
     },
