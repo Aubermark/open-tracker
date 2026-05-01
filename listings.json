@@ -26023,6 +26023,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7b29cca-f8ae-596d-93c1-927c878140ab",
+        "address": "20-Craig-Way-Covington-GA-30016",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1674,
+        "listed_at": "2026-05-01T16:20:03.000Z",
+        "days_on_market": "15",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.979467,
+          33.587454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7f6bf2b-a4a5-59e2-bc6b-139e993e7279",
         "address": "2127-Saranac-Dr-Colorado-Springs-CO-80910",
         "beds": 3,
