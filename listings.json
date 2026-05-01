@@ -4225,6 +4225,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e371ef4-86e3-53b6-8303-573342bbe0ca",
+        "address": "608-Lower-Heritage-Way-Farmington-MN-55024",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2434,
+        "listed_at": "2026-05-01T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.140719,
+          44.623628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e395d6d-9389-5a4f-90dd-7abbff979661",
         "address": "18133-W-Golden-Ln-Waddell-AZ-85355-6142899",
         "beds": 5,
@@ -24589,6 +24610,27 @@
         "coordinates": [
           -81.915842,
           41.423898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8be25be-ec04-5ade-875f-f76c682011d6",
+        "address": "2114-S-Eagle-Ct-Aurora-CO-80014",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2124,
+        "listed_at": "2026-05-01T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.816001,
+          39.678813
         ]
       }
     },
