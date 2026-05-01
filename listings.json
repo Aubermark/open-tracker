@@ -23818,6 +23818,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "afbbaf97-5bb2-5321-875c-7523b18fcc50",
+        "address": "1690-Sparkleberry-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1330,
+        "listed_at": "2026-05-01T21:40:03.000Z",
+        "days_on_market": "49",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.428527,
+          36.513789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "affc4436-fb5f-5079-b529-8e44a31a6f45",
         "address": "18306-Water-Mill-Dr-Cypress-TX-77429",
         "beds": 4,
@@ -28600,27 +28621,6 @@
         "coordinates": [
           -82.419427,
           40.068359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d9fa40fa-a19e-5946-8b3b-171dec84e73d",
-        "address": "740-Garrett-Green-Way-Fort-Mill-SC-29715",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3500,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": "37",
-        "current_price": 566000,
-        "price_label": "$566K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.92605,
-          35.002644
         ]
       }
     },
