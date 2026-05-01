@@ -8152,6 +8152,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3af601e2-340c-5df1-ae74-779d470df4de",
+        "address": "17520-Anona-Ct-Grass-Valley-CA-95949",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1200,
+        "listed_at": "2026-05-01T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.060578,
+          39.104652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3afe6609-e540-56c5-931e-738b23d5dc4d",
         "address": "2308-Dillards-Dr-Chickasha-OK-73018",
         "beds": 3,
@@ -26143,6 +26164,27 @@
         "coordinates": [
           -84.218058,
           34.038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c6475ebc-5b7b-5186-81f6-22ecaac185fa",
+        "address": "366-Frank-Burns-Way-Kings-Mountain-NC-28086",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1800,
+        "listed_at": "2026-05-01T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.385736,
+          35.228505
         ]
       }
     },
