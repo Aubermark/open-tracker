@@ -12835,6 +12835,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d940429-ea4c-5d6d-a2c4-5a4b62c9ba3f",
+        "address": "12642-Nw-Barnes-Rd-Apt-3-Portland-OR-97229",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 812,
+        "listed_at": "2026-05-01T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.806824,
+          45.523276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d973b5a-5161-538f-9d09-b72b9f7c81aa",
         "address": "306-Revis-Creek-Ct-Simpsonville-SC-29681",
         "beds": 3,
@@ -25996,6 +26017,27 @@
         "coordinates": [
           -86.327801,
           39.793576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c6975822-51c6-590a-b931-9c602201b513",
+        "address": "41978-W-Ramona-St-Maricopa-AZ-85138",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2674,
+        "listed_at": "2026-05-01T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 362000,
+        "price_label": "$362K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.018865,
+          33.036702
         ]
       }
     },
