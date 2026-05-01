@@ -4414,27 +4414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1fa711df-c1c5-5d67-9556-36d7547ddb16",
-        "address": "2103-Williamsburg-Ct-N-League-City-TX-77573",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1479,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": ">68",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.118693,
-          29.495258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1fde425c-ad79-4019-9245-a1fd09ff75b3",
         "address": "200-Cobalt-Dr-Fayetteville-GA-30214",
         "beds": 4,
@@ -21691,6 +21670,27 @@
         "coordinates": [
           -82.474977,
           27.599133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9eb6c80b-d76e-4183-a968-7d43c26029e7",
+        "address": "4043-Mancini-Rd-Spartanburg-SC-29307",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2586,
+        "listed_at": "2026-05-01T19:30:02.000Z",
+        "days_on_market": ">68",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.888049,
+          34.993031
         ]
       }
     },
