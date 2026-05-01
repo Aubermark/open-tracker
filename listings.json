@@ -23755,6 +23755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af6295ae-4493-59f3-b4b3-f573009dc35c",
+        "address": "2627-Fisk-Rd-Montgomery-AL-36111",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1340,
+        "listed_at": "2026-05-01T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 110000,
+        "price_label": "$110K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.260982,
+          32.335173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "af8610a2-18cd-5055-8d7a-cf4fceb4b4ed",
         "address": "2807-Clingman-St-Hopewell-VA-23860",
         "beds": 4,
