@@ -5380,6 +5380,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2618fb4f-6f02-57f5-8ece-128e45eb5d02",
+        "address": "7361-Proxima-Rd-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1476,
+        "listed_at": "2026-05-01T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76883,
+          30.254735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "263cb746-26ba-5808-b217-1a866ac8ba6d",
         "address": "4484-Northridge-Trl-Ellenwood-GA-30294",
         "beds": 3,
@@ -10819,6 +10840,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ec17c32-c264-5b2a-a1d5-f5b607e6eea9",
+        "address": "4658-Tramezzo-Way-El-Dorado-Hills-CA-95762",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2025,
+        "listed_at": "2026-05-01T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.041244,
+          38.671607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4ef1b315-de17-5eff-91ea-d2206b421c5a",
         "address": "4189-Black-Bear-Dr-Lebanon-OH-45036",
         "beds": 3,
@@ -16126,6 +16168,27 @@
         "coordinates": [
           -81.18237,
           34.065656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7579ba12-3c62-53d8-9d52-ab7a72ece72b",
+        "address": "3694-Foxdale-Ct-Amelia-OH-45102",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2488,
+        "listed_at": "2026-05-01T17:50:03.000Z",
+        "days_on_market": "44",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.229493,
+          39.047358
         ]
       }
     },
