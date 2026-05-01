@@ -1915,6 +1915,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e95b248-4011-5e11-be62-04a09164d657",
+        "address": "17303-Greenbay-Ave-Lansing-IL-60438",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 851,
+        "listed_at": "2026-05-01T16:10:03.000Z",
+        "days_on_market": "32",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540292,
+          41.580927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ea5dd48-4bee-52c7-aed7-1942a5445153",
         "address": "2326-W-Paradise-Dr-Phoenix-AZ-85029-17914046",
         "beds": 3,
@@ -6025,6 +6046,27 @@
         "coordinates": [
           -86.159239,
           39.777472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b7ce0a2-dfca-5aee-8bbd-074f2f1c8100",
+        "address": "4322-Rhapsody-Ln-Indianapolis-IN-46235",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2094,
+        "listed_at": "2026-05-01T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.983713,
+          39.836401
         ]
       }
     },
@@ -25141,27 +25183,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bd8dbc57-ded9-580f-99f5-04457d4016ea",
-        "address": "521-S-Fairview-St-Woodland-Park-CO-80863",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1266,
-        "listed_at": "2026-04-26T20:30:02.000Z",
-        "days_on_market": "5",
-        "current_price": 382000,
-        "price_label": "$382K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.051308,
-          38.989101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bdae0d47-9897-5248-922a-5e9fb1ba87fd",
         "address": "60-W-Monte-Cristo-Dr-Wickenburg-AZ-85390",
         "beds": 3,
@@ -30679,27 +30700,6 @@
         "coordinates": [
           -90.287494,
           38.530799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ee05ea41-697d-5674-b4a5-9633c286b09b",
-        "address": "4644-Doral-Park-Ave-Kissimmee-FL-34758",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2178,
-        "listed_at": "2026-04-23T17:10:02.000Z",
-        "days_on_market": "8",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.471528,
-          28.204594
         ]
       }
     },
