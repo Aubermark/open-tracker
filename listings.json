@@ -172,6 +172,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00f85311-a2e5-58d4-9c2a-c484d3756d8c",
+        "address": "659-Island-Park-Dr-Daniel-Island-SC-29492",
+        "beds": 3,
+        "baths": 5.5,
+        "sqft": 4513,
+        "listed_at": "2026-05-01T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 3350000,
+        "price_label": "$3.350M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.906581,
+          32.875745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "010c3484-7586-5d05-9370-87bc64b2a31a",
         "address": "2806-Fullers-Aly-Kennesaw-GA-30144",
         "beds": 3,
@@ -13801,6 +13822,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "638613bd-0bc6-5f17-b7a0-43fc2559ae20",
+        "address": "249-Hollingsworth-Ln-Lexington-SC-29072",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1843,
+        "listed_at": "2026-05-01T20:00:03.000Z",
+        "days_on_market": "17",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.314844,
+          33.974264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63a856cb-6583-53f6-98a9-765093998c08",
         "address": "23115-E-Oxbow-Dr-Florence-AZ-85132",
         "beds": 3,
@@ -23923,6 +23965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b0ce0a3d-1c3e-5632-abf8-582209cabb9a",
+        "address": "3321-Enclave-Blvd-Mulberry-FL-33860",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1859,
+        "listed_at": "2026-05-01T20:00:03.000Z",
+        "days_on_market": "49",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.001798,
+          27.915531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b0e69e6f-7437-5b77-a606-d4fc4841edd9",
         "address": "249-Knight-Valley-Cir-Columbia-SC-29209",
         "beds": 3,
@@ -30322,27 +30385,6 @@
         "coordinates": [
           -112.302527,
           33.421557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eaa882be-c875-5d31-ba09-aeb1de697626",
-        "address": "12534-Chiswick-Rd-Houston-TX-77047",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1968,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">68",
-        "current_price": 263000,
-        "price_label": "$263K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.407141,
-          29.626174
         ]
       }
     },
