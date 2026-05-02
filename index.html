@@ -3983,7 +3983,6 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
 
   const labels = weeklySoldData.map(item => item.week_end.substring(0, 10));
   const values = weeklySoldData.map(item => item.sold_count);
-  const inventoryValues = weeklySoldData.map(item => item.inventory_listings);
   const activeValues = weeklySoldData.map(item => item.active_listings);
   const pctValues = weeklySoldData.map(item => item.sold_pct);
 
@@ -3991,17 +3990,15 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
     const MAX_POINTS = 60;
     let labelsOpt = labels;
     let valuesOpt = values;
-    let inventoryOpt = inventoryValues;
     let activeOpt = activeValues;
     let pctOpt = pctValues;
 
     if (labels.length > MAX_POINTS) {
       const step = Math.ceil(labels.length / MAX_POINTS);
-      labelsOpt    = labels.filter((_, i) => i % step === 0);
-      valuesOpt    = values.filter((_, i) => i % step === 0);
-      inventoryOpt = inventoryValues.filter((_, i) => i % step === 0);
-      activeOpt    = activeValues.filter((_, i) => i % step === 0);
-      pctOpt       = pctValues.filter((_, i) => i % step === 0);
+      labelsOpt = labels.filter((_, i) => i % step === 0);
+      valuesOpt = values.filter((_, i) => i % step === 0);
+      activeOpt = activeValues.filter((_, i) => i % step === 0);
+      pctOpt    = pctValues.filter((_, i) => i % step === 0);
     }
 
     const chart = echarts.init(document.getElementById('weeklyChart'), null, {
@@ -4009,17 +4006,16 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
       useDirtyRect: true
     });
 
-    const lineColor      = '#4FC3F7';
-    const pointColor     = '#81D4FA';
-    const inventoryColor = 'rgba(100, 181, 246, 0.35)';
-    const activeColor    = 'rgba(77, 208, 225, 0.45)';
-    const pctColor       = '#FFD54F';
+    const lineColor  = '#4FC3F7';
+    const pointColor = '#81D4FA';
+    const activeColor = 'rgba(77, 208, 225, 0.45)';
+    const pctColor   = '#FFD54F';
 
-    const minInventory   = Math.min(...inventoryOpt);
-    const maxInventory   = Math.max(...inventoryOpt);
+    const minActive      = Math.min(...activeOpt);
+    const maxActive      = Math.max(...activeOpt);
     const barHeightRatio = 0.75;
-    const secondaryMax   = Math.ceil(maxInventory / barHeightRatio / 100) * 100;
-    const secondaryMin   = Math.floor((minInventory * 0.85) / 100) * 100;
+    const secondaryMax   = Math.ceil(maxActive / barHeightRatio / 100) * 100;
+    const secondaryMin   = Math.floor((minActive * 0.85) / 100) * 100;
 
     const options = {
       animation: false,
@@ -4040,8 +4036,7 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
           const idx = labelsOpt.indexOf(params[0].axisValue);
           let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
 
-          // Orden fijo: P. Sold primero, luego el resto
-          const order = ['P. Sold', 'Inventory Listings', 'Active Listings', 'Rotation %'];
+          const order = ['P. Sold', 'Active Listings', 'Rotation %'];
           const paramMap = {};
           params.forEach(function(p) { paramMap[p.seriesName] = p; });
 
@@ -4072,7 +4067,7 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
       },
 
       legend: {
-        data: ['P. Sold', 'Inventory Listings', 'Active Listings', 'Rotation %'],
+        data: ['P. Sold', 'Active Listings', 'Rotation %'],
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
         itemWidth: 12,
@@ -4124,24 +4119,11 @@ $OPEN Warrants  x.com/YeeTak8/status…</p>&mdash; Yee (@YeeTak8)
 
       series: [
         {
-          name: 'Inventory Listings',
-          type: 'bar',
-          yAxisIndex: 1,
-          data: inventoryOpt,
-          barMaxWidth: 20,
-          stack: 'listings',
-          itemStyle: { color: inventoryColor, borderRadius: [0, 0, 0, 0] },
-          emphasis: { disabled: true }
-        },
-        {
           name: 'Active Listings',
           type: 'bar',
           yAxisIndex: 1,
-          data: activeOpt.map(function(active, i) {
-            return active - inventoryOpt[i];
-          }),
+          data: activeOpt,
           barMaxWidth: 20,
-          stack: 'listings',
           itemStyle: { color: activeColor, borderRadius: [2, 2, 0, 0] },
           emphasis: { disabled: true }
         },
