@@ -2554,7 +2554,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">02/05/2026, 13:30 (CET)</span>
+                <span class="hero-meta-value">02/05/2026, 13:33 (CET)</span>
               </div>
           </div>
         </section>
@@ -4045,19 +4045,36 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
           lineStyle: { color: lineColor, width: 1.5, type: 'dashed' }
         },
         formatter: function(params) {
+          const idx = labelsOpt.indexOf(params[0].axisValue);
           let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
-          params.forEach(function(p) {
-            const dot = '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + p.color + ';margin-right:5px"></span>';
-            const val = p.seriesName === 'Rotation %'
-              ? p.value + '%'
-              : p.value.toLocaleString();
 
-            if (p.seriesName === 'P. Sold') {
-              html += '<div style="font-size:15px;font-weight:700;margin:4px 0">' + dot + p.seriesName + ': <strong style="font-size:17px">' + val + '</strong></div>';
+          // Orden fijo: P. Sold primero, luego el resto
+          const order = ['P. Sold', 'Inventory Listings', 'Active Listings', 'Rotation %'];
+          const paramMap = {};
+          params.forEach(function(p) { paramMap[p.seriesName] = p; });
+
+          order.forEach(function(name) {
+            const p = paramMap[name];
+            if (!p) return;
+
+            const dot = '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + p.color + ';margin-right:5px"></span>';
+
+            let displayVal;
+            if (name === 'Active Listings') {
+              displayVal = idx >= 0 ? activeOpt[idx].toLocaleString() : p.value.toLocaleString();
+            } else if (name === 'Rotation %') {
+              displayVal = p.value + '%';
             } else {
-              html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">' + dot + p.seriesName + ': <span>' + val + '</span></div>';
+              displayVal = p.value.toLocaleString();
+            }
+
+            if (name === 'P. Sold') {
+              html += '<div style="font-size:15px;font-weight:700;margin:4px 0">' + dot + name + ': <strong style="font-size:17px">' + displayVal + '</strong></div>';
+            } else {
+              html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">' + dot + name + ': <span>' + displayVal + '</span></div>';
             }
           });
+
           return html;
         }
       },
@@ -4119,16 +4136,20 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
           type: 'bar',
           yAxisIndex: 1,
           data: inventoryOpt,
-          barMaxWidth: 16,
-          itemStyle: { color: inventoryColor, borderRadius: [2, 2, 0, 0] },
+          barMaxWidth: 20,
+          stack: 'listings',
+          itemStyle: { color: inventoryColor, borderRadius: [0, 0, 0, 0] },
           emphasis: { disabled: true }
         },
         {
           name: 'Active Listings',
           type: 'bar',
           yAxisIndex: 1,
-          data: activeOpt,
-          barMaxWidth: 16,
+          data: activeOpt.map(function(active, i) {
+            return active - inventoryOpt[i];
+          }),
+          barMaxWidth: 20,
+          stack: 'listings',
           itemStyle: { color: activeColor, borderRadius: [2, 2, 0, 0] },
           emphasis: { disabled: true }
         },
