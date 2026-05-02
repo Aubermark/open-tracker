@@ -4045,13 +4045,18 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
           lineStyle: { color: lineColor, width: 1.5, type: 'dashed' }
         },
         formatter: function(params) {
-          let html = '<div style="margin-bottom:4px;font-weight:600">' + params[0].axisValue + '</div>';
+          let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
           params.forEach(function(p) {
             const dot = '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + p.color + ';margin-right:5px"></span>';
             const val = p.seriesName === 'Rotation %'
               ? p.value + '%'
               : p.value.toLocaleString();
-            html += '<div>' + dot + p.seriesName + ': <strong>' + val + '</strong></div>';
+
+            if (p.seriesName === 'P. Sold') {
+              html += '<div style="font-size:15px;font-weight:700;margin:4px 0">' + dot + p.seriesName + ': <strong style="font-size:17px">' + val + '</strong></div>';
+            } else {
+              html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">' + dot + p.seriesName + ': <span>' + val + '</span></div>';
+            }
           });
           return html;
         }
