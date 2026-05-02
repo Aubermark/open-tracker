@@ -2554,7 +2554,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">02/05/2026, 13:21 (CET)</span>
+                <span class="hero-meta-value">02/05/2026, 13:26 (CET)</span>
               </div>
           </div>
         </section>
@@ -4023,9 +4023,11 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
     const activeColor    = 'rgba(77, 208, 225, 0.45)';
     const pctColor       = '#FFD54F';
 
+    const minInventory   = Math.min(...inventoryOpt);
     const maxInventory   = Math.max(...inventoryOpt);
-    const barHeightRatio = 0.55;
+    const barHeightRatio = 0.75;
     const secondaryMax   = Math.ceil(maxInventory / barHeightRatio / 100) * 100;
+    const secondaryMin   = Math.floor((minInventory * 0.85) / 100) * 100;
 
     const options = {
       animation: false,
@@ -4056,7 +4058,7 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
       },
 
       legend: {
-        data: ['P. Sold', 'Total Listings', 'Active Listings', 'Rotation %'],
+        data: ['P. Sold', 'Inventory Listings', 'Active Listings', 'Rotation %'],
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
         itemWidth: 12,
@@ -4093,7 +4095,7 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
           type: 'value',
           show: false,
           max: secondaryMax,
-          min: 0
+          min: secondaryMin
         },
         {
           type: 'value',
@@ -4108,7 +4110,7 @@ https://timothysykes.com/news/opendoor-technologies-inc-open-news-2026_04_30/…
 
       series: [
         {
-          name: 'Total Listings',
+          name: 'Inventory Listings',
           type: 'bar',
           yAxisIndex: 1,
           data: inventoryOpt,
