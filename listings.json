@@ -2104,27 +2104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0f26dbee-d8bb-538d-a301-7fcb87dfd895",
-        "address": "7142-Ellison-Rd-Stokesdale-NC-27357",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1702,
-        "listed_at": "2026-05-01T05:55:27.000Z",
-        "days_on_market": "2",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.950007,
-          36.230448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0f280d28-4343-55d1-86bb-b298e2c459ec",
         "address": "1754-Silverdale-Ln-Lithia-Springs-GA-30122",
         "beds": 3,
@@ -29356,6 +29335,27 @@
         "coordinates": [
           -93.359947,
           45.225068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e0c367c2-b894-56a1-b645-ee0a98e1d549",
+        "address": "2711-Mossgrove-Park-San-Antonio-TX-78230",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3455,
+        "listed_at": "2026-05-03T00:48:17.000Z",
+        "days_on_market": "0",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.539552,
+          29.55133
         ]
       }
     },
