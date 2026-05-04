@@ -7669,6 +7669,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3885d132-ad1a-5626-9501-c2834c576063",
+        "address": "5333-N-Euclid-Ave-Kansas-City-MO-64118",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1008,
+        "listed_at": "2026-05-04T23:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.554992,
+          39.191212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "38b3cd19-4e9c-54ec-ac03-699bd93cf01b",
         "address": "3959-E-Morrison-Ranch-Pkwy-Gilbert-AZ-85296",
         "beds": 3,
