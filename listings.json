@@ -2923,27 +2923,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
-        "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1197,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": ">71",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.546461,
-          35.877577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "15682c99-61b4-5001-895f-ba2e0bd2f204",
         "address": "11520-Captiva-Kay-Dr-Riverview-FL-33569",
         "beds": 3,
@@ -20059,6 +20038,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91dede16-b8e3-56b0-a718-288f957ee382",
+        "address": "7001-Edmundson-Dr-Arlington-TX-76002",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2125,
+        "listed_at": "2026-05-04T22:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.112181,
+          32.631488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91eddef4-66f0-55d3-815b-189035bba0dc",
         "address": "112-Coral-Ln-Mooresville-NC-28117",
         "beds": 3,
@@ -26101,27 +26101,6 @@
         "coordinates": [
           -98.447536,
           29.69756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3672f46-25fe-42e0-a369-fd29a15453b2",
-        "address": "3720-Los-Cabos-Dr-Mustang-OK-73064",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1522,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": "68",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.73184,
-          35.426839
         ]
       }
     },
