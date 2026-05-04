@@ -10525,6 +10525,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4dc25f65-85db-5fee-a8fe-6d3f8d575930",
+        "address": "504-Welshcrest-Ct-Antioch-TN-37013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1622,
+        "listed_at": "2026-05-04T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.649156,
+          36.068987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4dc79e2e-9b0b-5e62-b8bb-8e82fb442d12",
         "address": "8230-E-11th-St-Indianapolis-IN-46219",
         "beds": 3,
@@ -26542,6 +26563,27 @@
         "coordinates": [
           -112.023466,
           33.622851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c9f549cd-43b3-5c50-b9e9-1d2f42abf3bf",
+        "address": "1064-Munroe-Falls-Kent-Rd-Kent-OH-44240",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1628,
+        "listed_at": "2026-05-04T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3809,
+          41.142486
         ]
       }
     },
