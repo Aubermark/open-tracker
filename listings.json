@@ -5548,27 +5548,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "27d2d1f4-eb9c-5ae6-a1ad-8f7e4cb9d237",
-        "address": "3216-Ranbir-Dr-Durham-NC-27713",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1792,
-        "listed_at": "2026-04-30T19:50:02.000Z",
-        "days_on_market": "4",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.903661,
-          35.932433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "27dfb152-4390-585a-872c-92e0f4628a7f",
         "address": "1770-Ne-37th-St-Ocala-FL-34479",
         "beds": 3,
@@ -27424,6 +27403,27 @@
         "coordinates": [
           -90.630455,
           38.511143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d08180db-ba17-59cd-825f-811118fa2f57",
+        "address": "107-David-Bolin-Dr-La-Vergne-TN-37086",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1115,
+        "listed_at": "2026-05-04T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.548691,
+          36.032154
         ]
       }
     },
