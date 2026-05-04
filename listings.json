@@ -3511,6 +3511,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "183e020f-4a9c-5195-90c7-37a44840c76a",
+        "address": "3265-W-Mauna-Loa-Ln-Phoenix-AZ-85053",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1128,
+        "listed_at": "2026-05-04T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.130375,
+          33.621268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18c6b123-cef3-5306-8b1b-8f0bef13da4f",
         "address": "6252-Anita-Dr-Cleveland-OH-44130",
         "beds": 3,
@@ -10981,6 +11002,27 @@
         "coordinates": [
           -82.325917,
           27.820073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5204c179-8fab-5950-8ed6-998bbe6ee202",
+        "address": "8929-Sterling-Ln-Port-Richey-FL-34668",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1307,
+        "listed_at": "2026-05-04T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.700278,
+          28.287069
         ]
       }
     },
