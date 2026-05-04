@@ -31168,6 +31168,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee7f47a3-cf9a-50b4-b690-d42a0129afe8",
+        "address": "8232-Moorhaven-Way-Sacramento-CA-95828",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1187,
+        "listed_at": "2026-05-04T22:00:02.000Z",
+        "days_on_market": "18",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.403834,
+          38.485949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eea2ea3f-5ff2-50d0-b620-4c3a9dfc6d99",
         "address": "813-Copper-Beech-Ln-Wake-Forest-NC-27587",
         "beds": 5,
