@@ -11092,6 +11092,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52025e49-a926-5113-8e09-877b96179ab2",
+        "address": "426-Heatherwood-Dr-Oswego-IL-60543",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3866,
+        "listed_at": "2026-05-04T23:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.385718,
+          41.690058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5204c179-8fab-5950-8ed6-998bbe6ee202",
         "address": "8929-Sterling-Ln-Port-Richey-FL-34668",
         "beds": 3,
@@ -26296,6 +26317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c55d6dc7-ee31-5cc3-ab7b-cb505c4a0063",
+        "address": "1-Kenilworth-Ave-Sumter-SC-29150",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1444,
+        "listed_at": "2026-05-04T23:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.376939,
+          33.921121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6475ebc-5b7b-5186-81f6-22ecaac185fa",
         "address": "366-Frank-Burns-Way-Kings-Mountain-NC-28086",
         "beds": 3,
@@ -32338,6 +32380,27 @@
         "coordinates": [
           -84.358408,
           33.828144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6afa1c7-6c46-5c1f-9dbc-e43c78423c81",
+        "address": "124-Amelia-Garden-Way-Lawrenceville-GA-30045",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1356,
+        "listed_at": "2026-05-04T23:30:02.000Z",
+        "days_on_market": "53",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.956529,
+          33.964975
         ]
       }
     },
