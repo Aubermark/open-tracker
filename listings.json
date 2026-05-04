@@ -27283,6 +27283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d003ed28-cf9a-5951-9e60-bc2914efac1d",
+        "address": "779-Proud-Waters-Ct-Las-Vegas-NV-89178",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1782,
+        "listed_at": "2026-05-04T15:30:02.000Z",
+        "days_on_market": "24",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.306438,
+          36.029991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0150d42-c6d2-5d05-b192-718af06f696e",
         "address": "428-Kubota-Dr-Murfreesboro-TN-37128",
         "beds": 3,
