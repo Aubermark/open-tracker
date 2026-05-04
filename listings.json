@@ -17581,6 +17581,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8118bf87-0896-502f-b56a-dfdd37847df2",
+        "address": "11694-N-166th-Dr-Surprise-AZ-85388",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2284,
+        "listed_at": "2026-05-04T15:20:03.000Z",
+        "days_on_market": "48",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.416457,
+          33.590703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
         "address": "8605-N-67th-Ln-Peoria-AZ-85345",
         "beds": 3,
