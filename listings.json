@@ -26107,6 +26107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c2d0832b-6f90-58e2-8062-1600985fe2df",
+        "address": "10338-Electric-Blvd-Northfield-OH-44067",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1467,
+        "listed_at": "2026-05-04T23:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53323,
+          41.340034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c345ecab-fa51-59dc-a93d-cf91f687daff",
         "address": "700-Magnolia-Crest-Ct-Odenville-AL-35120",
         "beds": 3,
