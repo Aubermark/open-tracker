@@ -30811,6 +30811,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee05ea41-697d-5674-b4a5-9633c286b09b",
+        "address": "4644-Doral-Park-Ave-Kissimmee-FL-34758",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2178,
+        "listed_at": "2026-05-04T13:30:02.000Z",
+        "days_on_market": "11",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.471528,
+          28.204594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eea2ea3f-5ff2-50d0-b620-4c3a9dfc6d99",
         "address": "813-Copper-Beech-Ln-Wake-Forest-NC-27587",
         "beds": 5,
