@@ -17644,6 +17644,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81a21de9-bb83-5f79-ad12-570d4f6cad75",
+        "address": "1952-Nuevo-St-Hemet-CA-92545",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1459,
+        "listed_at": "2026-05-04T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.991614,
+          33.757994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81c5c5c9-f702-5620-ab35-3e36eca1ab2a",
         "address": "910-Devonport-Dr-Raleigh-NC-27610",
         "beds": 3,
@@ -30133,6 +30154,27 @@
         "coordinates": [
           -83.550882,
           42.489915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9db37a5-6d9e-5969-854f-fff53e25c2b4",
+        "address": "2804-Rice-Dr-Rowlett-TX-75088",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1778,
+        "listed_at": "2026-05-04T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.523033,
+          32.888727
         ]
       }
     },
