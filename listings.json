@@ -22453,6 +22453,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a6239de1-1721-5998-b26d-32f9c01104a2",
+        "address": "817-S-9th-St-Alhambra-CA-91801",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1299,
+        "listed_at": "2026-05-04T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 990000,
+        "price_label": "$990K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.133541,
+          34.083348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a66b21bc-1422-5f8c-9944-20205e29f7e2",
         "address": "2243-Bolton-St-Saint-Charles-MO-63301",
         "beds": 3,
@@ -25786,6 +25807,27 @@
         "coordinates": [
           -82.337983,
           27.982602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c345ecab-fa51-59dc-a93d-cf91f687daff",
+        "address": "700-Magnolia-Crest-Ct-Odenville-AL-35120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1397,
+        "listed_at": "2026-05-04T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.471556,
+          33.647007
         ]
       }
     },
