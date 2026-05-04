@@ -16657,6 +16657,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78b8cad1-81db-5749-bb67-f1ac2e85de40",
+        "address": "13824-Langston-Lake-Rd-Fort-Worth-TX-76262",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2934,
+        "listed_at": "2026-05-04T22:30:02.000Z",
+        "days_on_market": "68",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.27767,
+          32.982225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78c1b145-81e1-5f87-acd6-a984ec544653",
         "address": "2501-Huntscroft-Ln-Apt-203-Raleigh-NC-27617",
         "beds": 1,
@@ -32065,6 +32086,27 @@
         "coordinates": [
           -90.257731,
           38.553763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4fa61a5-8c8c-5037-9475-244b17c4d0d3",
+        "address": "3720-Majestic-Dr-Sw-Marietta-GA-30060",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1750,
+        "listed_at": "2026-05-04T22:30:02.000Z",
+        "days_on_market": "52",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.587478,
+          33.867476
         ]
       }
     },
