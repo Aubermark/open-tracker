@@ -3931,6 +3931,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c60989c-f9da-5999-a3af-b16aeac953e7",
+        "address": "3732-Sugarberry-Dr-Mesquite-TX-75150",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1332,
+        "listed_at": "2026-05-04T17:50:03.000Z",
+        "days_on_market": ">71",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.597374,
+          32.817099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c6412cc-b6bd-50b5-8557-cf682b9dd7fc",
         "address": "2797-Gresham-Rd-Se-Atlanta-GA-30316",
         "beds": 3,
@@ -16027,27 +16048,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7579ba12-3c62-53d8-9d52-ab7a72ece72b",
-        "address": "3694-Foxdale-Ct-Amelia-OH-45102",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2488,
-        "listed_at": "2026-05-01T17:50:03.000Z",
-        "days_on_market": "47",
-        "current_price": 376000,
-        "price_label": "$376K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.229493,
-          39.047358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "75b1a475-2d9a-5d86-afcf-9b9677c3489a",
         "address": "6454-Faulkner-Dr-North-Chesterfield-VA-23234",
         "beds": 4,
@@ -22768,27 +22768,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a8fa1219-8a23-51d4-b8ba-66702554b7d9",
-        "address": "20405-E-15th-Ter-N-Independence-MO-64056",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1570,
-        "listed_at": "2026-04-24T18:50:01.000Z",
-        "days_on_market": "10",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.336735,
-          39.131036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a96fead9-0fd8-5502-8606-af657e864c36",
         "address": "4975-Bentridge-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -25261,27 +25240,6 @@
         "coordinates": [
           -78.459607,
           36.050346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bd64313c-b0be-5172-a597-0091aeeb0cc1",
-        "address": "2905-Steadman-Vly-Sw-Marietta-GA-30064",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1870,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">71",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.642493,
-          33.930367
         ]
       }
     },
