@@ -7354,6 +7354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36066ac0-2caa-5b79-a103-13aad61a0f78",
+        "address": "7889-Bay-Meadows-Dr-Pensacola-FL-32507",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1829,
+        "listed_at": "2026-05-04T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.317461,
+          30.379794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "361c5988-03e7-5caf-adf0-822e76732805",
         "address": "8544-Westchester-Dr-Douglasville-GA-30134",
         "beds": 3,
