@@ -2629,6 +2629,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13b19dc9-2d73-5b55-956f-7b16e87489e2",
+        "address": "5406-S-Hearsey-Dr-Austin-TX-78744",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2170,
+        "listed_at": "2026-05-04T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.732639,
+          30.19809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
         "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
         "beds": 4,
@@ -15538,27 +15559,6 @@
         "coordinates": [
           -74.447334,
           40.574195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "702ea89f-df46-5a75-90aa-4bc7bbb9b79f",
-        "address": "5864-Nw-Hann-Dr-Port-Saint-Lucie-FL-34986",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2125,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "45",
-        "current_price": 409000,
-        "price_label": "$409K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.409091,
-          27.354285
         ]
       }
     },
