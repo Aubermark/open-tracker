@@ -5758,6 +5758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28d205d7-1161-529b-a250-97b15e912b74",
+        "address": "6223-S-Cottonfields-Ln-Laveen-AZ-85339",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1610,
+        "listed_at": "2026-05-04T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.179987,
+          33.389596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28f48bbd-30f2-5801-b06f-0b6aedef7665",
         "address": "954-S-Old-Orchard-Ln-Lewisville-TX-75067",
         "beds": 3,
