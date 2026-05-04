@@ -30034,6 +30034,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e89daae3-6a4a-5e1e-8df4-bade154b1ce4",
+        "address": "861-77th-St-S-Birmingham-AL-35206",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2059,
+        "listed_at": "2026-05-04T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.713444,
+          33.554568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e93e0cf4-cd6a-5ec5-a2af-e5e26e165b22",
         "address": "6219-Boykin-Spaniel-Rd-Charlotte-NC-28277",
         "beds": 4,
@@ -30406,27 +30427,6 @@
         "coordinates": [
           -80.966654,
           35.257722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ebf8bd7a-171a-5d75-9b29-bf58a40fe186",
-        "address": "3615-W-Augusta-Ave-Phoenix-AZ-85051",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1709,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "52",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.137605,
-          33.550866
         ]
       }
     },
