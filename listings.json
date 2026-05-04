@@ -14809,6 +14809,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bf4b8dd-40c5-50bf-80ac-b3522b804788",
+        "address": "13789-Bretton-Dr-Soddy-Daisy-TN-37379",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 640,
+        "listed_at": "2026-05-04T13:10:02.000Z",
+        "days_on_market": "19",
+        "current_price": 184000,
+        "price_label": "$184K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.086339,
+          35.327048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bf6c914-de1e-5774-8f58-47560c59e597",
         "address": "50-Deer-Grove-Dr-Saint-Peters-MO-63376",
         "beds": 2,
