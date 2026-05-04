@@ -11869,6 +11869,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57bb6cf9-eed2-541c-a97c-6edeea1713a5",
+        "address": "3204-Millstone-Creek-Rd-Lancaster-SC-29720",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2878,
+        "listed_at": "2026-05-04T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 880000,
+        "price_label": "$880K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.797248,
+          34.88354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57e0db87-05d7-50f5-8626-a2f0bc7df1f5",
         "address": "624-Green-Willow-Cir-Wendell-NC-27591",
         "beds": 3,
@@ -13144,27 +13165,6 @@
         "coordinates": [
           -81.108325,
           35.009504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "60a76875-33d8-5a47-aa21-4e79623fd3cd",
-        "address": "177-Orient-Dr-Saint-Augustine-FL-32092",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1944,
-        "listed_at": "2026-04-28T12:10:02.000Z",
-        "days_on_market": ">71",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.440514,
-          29.944249
         ]
       }
     },
@@ -15286,6 +15286,27 @@
         "coordinates": [
           -97.348035,
           32.536451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6fbf5b79-bf4c-56f1-b9bb-6247637db087",
+        "address": "612-Carver-Pond-Ln-Waxhaw-NC-28173",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3021,
+        "listed_at": "2026-05-04T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 805000,
+        "price_label": "$805K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.797223,
+          35.016698
         ]
       }
     },
