@@ -12814,6 +12814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5e87a575-6fb2-58f1-8fe0-1bd88da8cd5d",
+        "address": "2905-E-Chelsea-St-Tampa-FL-33610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-05-04T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42754,
+          27.984882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ea696e6-25fb-57b4-a0b0-f177e40f0add",
         "address": "340-Elm-Ave-Lewisburg-TN-37091",
         "beds": 3,
