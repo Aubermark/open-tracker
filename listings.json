@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "123d1c8a-94ac-5b9c-9c50-41825d4684ba",
+        "address": "6493-S-5135-W-West-Jordan-UT-84081",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1332,
+        "listed_at": "2026-05-04T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.013168,
+          40.633436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "127655cb-ea18-5a80-a3b0-c227715d7861",
         "address": "21469-Hunter-Hart-Dr-Porter-TX-77365",
         "beds": 4,
@@ -13858,27 +13879,6 @@
         "coordinates": [
           -111.604929,
           33.232814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65323802-6bae-5ccb-80c3-2cd3c7c41f36",
-        "address": "2840-Meridian-Dr-Dacula-GA-30019",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2308,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "52",
-        "current_price": 422000,
-        "price_label": "$422K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.929098,
-          34.054818
         ]
       }
     },
