@@ -7291,6 +7291,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "35b66f13-eb82-5bd5-9122-089dfa2665ab",
+        "address": "6764-W-Tether-Trl-Peoria-AZ-85383",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2556,
+        "listed_at": "2026-05-04T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.205019,
+          33.723808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35d61bdf-770e-5895-adbd-806c90f17bc3",
         "address": "214-Cornell-Dr-Warner-Robins-GA-31093",
         "beds": 3,
@@ -13774,6 +13795,27 @@
         "coordinates": [
           -81.636174,
           31.828562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "65797167-ad2e-5808-851f-3d3f692981de",
+        "address": "9606-Ballin-David-Dr-Spring-TX-77379",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1765,
+        "listed_at": "2026-05-04T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.564708,
+          30.018299
         ]
       }
     },
@@ -24694,6 +24736,27 @@
         "coordinates": [
           -82.474977,
           27.599133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b93b8019-711e-56f4-871d-935556f90465",
+        "address": "202-Old-Dupont-Rd-Wilmington-DE-19804",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2000,
+        "listed_at": "2026-05-04T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.587938,
+          39.737187
         ]
       }
     },
