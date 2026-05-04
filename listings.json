@@ -19639,6 +19639,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8fe2ec55-3804-510f-9c1e-efa32404d7aa",
+        "address": "3215-Braewick-Pl-Charlotte-NC-28227",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 830,
+        "listed_at": "2026-05-04T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.719843,
+          35.177038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90326081-4924-47ac-ab8b-f43df7deecbf",
         "address": "70-Stocking-Pond-Rd-Inwood-WV-25428",
         "beds": 4,
@@ -30868,6 +30889,27 @@
         "coordinates": [
           -90.287494,
           38.530799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ee59ddfe-5518-55ad-a0c8-8c29f0791394",
+        "address": "5839-Blonde-Cyn-San-Antonio-TX-78252",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-05-04T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.708991,
+          29.374425
         ]
       }
     },
