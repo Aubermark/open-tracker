@@ -4309,6 +4309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fc3a939-5f1a-59c8-9344-f755cbab1335",
+        "address": "10064-Morning-Mist-Ln-Sarasota-FL-34241",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-05-04T22:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.406258,
+          27.240082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1fde425c-ad79-4019-9245-a1fd09ff75b3",
         "address": "200-Cobalt-Dr-Fayetteville-GA-30214",
         "beds": 4,
@@ -28915,6 +28936,27 @@
         "coordinates": [
           -112.580337,
           33.365482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db587e49-c768-5b49-a88c-21f0a40f1609",
+        "address": "1325-Keifer-Ln-Unit-201-Las-Vegas-NV-89128",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1192,
+        "listed_at": "2026-05-04T22:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.263425,
+          36.185965
         ]
       }
     },
