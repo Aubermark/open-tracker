@@ -1747,6 +1747,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d8009e8-861a-541c-a2ef-37f1b889a41b",
+        "address": "1108-Wind-Haven-Dr-New-Braunfels-TX-78130",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1776,
+        "listed_at": "2026-05-04T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.07221,
+          29.700308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d93bdc1-6979-53d6-952c-ef338adffd1f",
         "address": "5654-Tower-Rd-Riverside-CA-92506",
         "beds": 3,
@@ -18295,6 +18316,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85a218cd-5b16-5d9c-9f48-d6bfcd22ee61",
+        "address": "48-Peachtree-Ave-Ne-Apt-213-Atlanta-GA-30305",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 753,
+        "listed_at": "2026-05-04T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.378183,
+          33.835439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85a75a8e-a702-589e-8dbf-1fcf987cc271",
         "address": "804-Hampton-Way-Merritt-Island-FL-32953",
         "beds": 3,
@@ -24421,6 +24463,27 @@
         "coordinates": [
           -112.40341,
           33.418874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b7322253-eae0-5d93-b167-da1bc7c10199",
+        "address": "4703-W-Hoha-Ln-Tucson-AZ-85741",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1610,
+        "listed_at": "2026-05-04T21:10:02.000Z",
+        "days_on_market": "24",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.065466,
+          32.348734
         ]
       }
     },
