@@ -10084,6 +10084,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b04341a-74c6-5087-ac57-678bba830f75",
+        "address": "5917-Raza-Rd-Pearland-TX-77584",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2048,
+        "listed_at": "2026-05-05T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.312208,
+          29.535083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b24e1ab-ecf4-5985-b1b2-38295d73d44a",
         "address": "131-W-6th-Ave-San-Manuel-AZ-85631",
         "beds": 3,
@@ -31015,6 +31036,27 @@
         "coordinates": [
           -79.03025,
           35.926567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eecc0bd9-b136-54a1-aaab-b4d17b048902",
+        "address": "1128-Weatherstone-Dr-Ne-Atlanta-GA-30324",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-05-05T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.336498,
+          33.811848
         ]
       }
     },
