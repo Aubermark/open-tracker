@@ -15145,6 +15145,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ece1c0c-93cf-5dc9-885e-3152c5c97f70",
+        "address": "3135-Pierce-St-Ne-Minneapolis-MN-55418",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1260,
+        "listed_at": "2026-05-05T19:10:03.000Z",
+        "days_on_market": "28",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.240581,
+          45.025068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f36e7b5-006b-5b8b-852b-e7e601bda807",
         "address": "606-Via-Corona-Mesquite-TX-75150",
         "beds": 4,
@@ -23293,6 +23314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae277c57-11a4-5308-8d71-545dc1d4dc01",
+        "address": "3132-S-Owasso-Ave-Tulsa-OK-74105",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2035,
+        "listed_at": "2026-05-05T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.977584,
+          36.117668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae48686a-379f-5da3-9c69-c6ec4b36c859",
         "address": "212-Congaree-River-Dr-Summerville-SC-29485",
         "beds": 3,
@@ -27655,6 +27697,27 @@
         "coordinates": [
           -98.268157,
           29.774017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d2c884a3-8578-5971-b500-de5e590d2329",
+        "address": "7274-Pine-Barrens-St-Las-Vegas-NV-89148",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1732,
+        "listed_at": "2026-05-05T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.28711,
+          36.056061
         ]
       }
     },
