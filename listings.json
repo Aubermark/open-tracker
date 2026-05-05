@@ -2902,6 +2902,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15b5d677-344d-51d8-826a-760d23bb168f",
+        "address": "16818-Desert-Willow-St-Victorville-CA-92394",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2916,
+        "listed_at": "2026-05-05T17:30:02.000Z",
+        "days_on_market": ">72",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.319571,
+          34.554905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15b9d276-3c1b-53dc-bfbc-233d34817e63",
         "address": "5816-Janet-Dr-Trussville-AL-35173",
         "beds": 3,
@@ -13753,6 +13774,27 @@
         "coordinates": [
           -95.564708,
           30.018299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "658c0180-2282-5342-a99e-9873afdbd51f",
+        "address": "610-Executive-Blvd-Delaware-OH-43015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1679,
+        "listed_at": "2026-05-05T17:30:02.000Z",
+        "days_on_market": "18",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08215,
+          40.316831
         ]
       }
     },
