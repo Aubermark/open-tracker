@@ -3868,6 +3868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c8e8dc9-54e9-5be8-b9bd-31e96fcb7aca",
+        "address": "4835-Sandra-Ln-White-Bear-Lake-MN-55110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2284,
+        "listed_at": "2026-05-05T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.033488,
+          45.087533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1cfb2217-4472-5236-bf70-2cbd5ea14499",
         "address": "1848-Westridge-Dr-Birmingham-AL-35235-17995083",
         "beds": 3,
@@ -5920,6 +5941,27 @@
         "coordinates": [
           -86.159239,
           39.777472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b5f232f-30f1-5a0a-af6b-df8bb20e966a",
+        "address": "8422-Alabama-Ave-Temple-TX-76502",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1427,
+        "listed_at": "2026-05-05T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.431144,
+          31.125638
         ]
       }
     },
