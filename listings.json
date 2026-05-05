@@ -26128,6 +26128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c5dffa50-82f5-52d2-8b14-3ebcd4fb7d49",
+        "address": "4616-Robbins-Ave-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1154,
+        "listed_at": "2026-05-05T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.456286,
+          28.599129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6475ebc-5b7b-5186-81f6-22ecaac185fa",
         "address": "366-Frank-Burns-Way-Kings-Mountain-NC-28086",
         "beds": 3,
@@ -30490,6 +30511,27 @@
         "coordinates": [
           -88.441607,
           42.15069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb707642-9ec2-5729-8a62-b94a7a86d2d9",
+        "address": "262-Sw-Panther-Trce-Port-Saint-Lucie-FL-34953",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1487,
+        "listed_at": "2026-05-05T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.358918,
+          27.24185
         ]
       }
     },
