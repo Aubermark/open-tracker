@@ -32218,6 +32218,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f8b64641-5218-538d-b904-7e30f02e4a59",
+        "address": "128-Mikaela-Ave-Defuniak-Springs-FL-32433",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1384,
+        "listed_at": "2026-05-05T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.128194,
+          30.742771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f8e63a7d-9b0e-5584-bc84-b93eafd2a926",
         "address": "815-Grants-Cyn-San-Antonio-TX-78251",
         "beds": 3,
