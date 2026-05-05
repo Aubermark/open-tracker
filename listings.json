@@ -10441,6 +10441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4db9753c-a109-43fc-9b49-1c36182b77d4",
+        "address": "207-S-Ocean-Breeze-Lake-Worth-Beach-FL-33460",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2102,
+        "listed_at": "2026-05-05T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.051753,
+          26.613063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4dc25f65-85db-5fee-a8fe-6d3f8d575930",
         "address": "504-Welshcrest-Ct-Antioch-TN-37013",
         "beds": 3,
@@ -27871,6 +27892,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d3a3f822-ca56-511e-97e3-6318cb019ad6",
+        "address": "35854-Castlemeadow-Dr-Farmington-Hills-MI-48335",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 6072,
+        "listed_at": "2026-05-05T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 745000,
+        "price_label": "$745K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.399008,
+          42.457243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d3c4ba62-fb08-55c8-98bf-94fd5aa64101",
         "address": "11849-Blackeyed-Susan-Dr-Riverview-FL-33579",
         "beds": 5,
@@ -29755,6 +29797,27 @@
         "coordinates": [
           -111.80764,
           33.328978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e51e9486-f7f8-500e-8857-c05036eeab58",
+        "address": "4156-Seclusion-Bay-Ave-North-Las-Vegas-NV-89081",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2564,
+        "listed_at": "2026-05-05T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.082719,
+          36.267479
         ]
       }
     },
