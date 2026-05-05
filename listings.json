@@ -20920,6 +20920,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95fadf73-c1f7-5f16-965f-0be835c7880c",
+        "address": "1865-Beckham-St-Cumming-GA-30041",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2932,
+        "listed_at": "2026-05-05T05:12:31.000Z",
+        "days_on_market": "0",
+        "current_price": 755000,
+        "price_label": "$755K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.144606,
+          34.152199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9604dc7e-efbd-5bd7-8614-7f64cb267faa",
         "address": "10209-Broadway-St-Carmel-IN-46280",
         "beds": 3,
