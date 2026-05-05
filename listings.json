@@ -14830,27 +14830,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6c9fb05d-e610-5e8d-81d9-61dc03ab4d14",
-        "address": "5316-Prairie-Ln-Grand-Prairie-TX-75052",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1856,
-        "listed_at": "2026-04-30T17:10:02.000Z",
-        "days_on_market": ">72",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.021502,
-          32.644616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
         "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
         "beds": 3,
@@ -15517,6 +15496,27 @@
         "coordinates": [
           -85.038689,
           33.611027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "71c98e61-2678-54bd-af96-e54be4999497",
+        "address": "3646-Meadowlark-Ln-Brownsburg-IN-46112",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2420,
+        "listed_at": "2026-05-05T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.36093,
+          39.81677
         ]
       }
     },
@@ -28558,27 +28558,6 @@
         "coordinates": [
           -85.016084,
           33.901639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "daa69e5d-791e-56c8-8b66-1a8f2d81d98d",
-        "address": "10813-W-Wilshire-Dr-Avondale-AZ-85392",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1493,
-        "listed_at": "2026-04-30T18:40:02.000Z",
-        "days_on_market": "5",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.292771,
-          33.4736
         ]
       }
     },
