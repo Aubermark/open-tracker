@@ -13381,6 +13381,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60a76875-33d8-5a47-aa21-4e79623fd3cd",
+        "address": "177-Orient-Dr-Saint-Augustine-FL-32092",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1944,
+        "listed_at": "2026-05-05T12:50:02.000Z",
+        "days_on_market": ">72",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.440514,
+          29.944249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60d49577-f5d0-5b71-a849-d534f4bcab66",
         "address": "875-Quiet-Stone-Ln-Orange-Park-FL-32065",
         "beds": 4,
