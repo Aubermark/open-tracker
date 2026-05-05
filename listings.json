@@ -26926,6 +26926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cc685f25-fdbf-5121-9ae1-fd26a417ab28",
+        "address": "12614-A-Bar-Dr-Santa-Fe-TX-77510",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1532,
+        "listed_at": "2026-05-05T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.093046,
+          29.378475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cc968ab7-7fc7-57be-829e-0f5046f9cacb",
         "address": "2855-Jerome-Rd-Atlanta-GA-30349",
         "beds": 3,
