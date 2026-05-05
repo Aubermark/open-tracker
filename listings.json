@@ -26821,6 +26821,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbbe7761-4bc9-5653-b0b1-8e9b84efab17",
+        "address": "5517-W-Bay-Ct-Midlothian-VA-23112",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3062,
+        "listed_at": "2026-05-05T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.668145,
+          37.421206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbdb909f-3f06-57b2-83b5-e44f43430fc7",
         "address": "4116-Buenaview-Ct-Nashville-TN-37218",
         "beds": 4,
