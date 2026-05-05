@@ -8635,6 +8635,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40bbf8d3-9cee-5c71-b724-7aaba8d5c305",
+        "address": "616-River-Rd-Teaneck-NJ-07666",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1853,
+        "listed_at": "2026-05-05T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.031484,
+          40.886888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40c739ce-74fd-562a-bd87-3c83efea6203",
         "address": "602-Torero-Dr-Little-Elm-TX-75068",
         "beds": 3,
@@ -15853,6 +15874,27 @@
         "coordinates": [
           -111.707458,
           33.346538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7352650d-1a21-51e9-8c99-d45ca36058c5",
+        "address": "1114-Slumber-Pass-San-Antonio-TX-78260",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2559,
+        "listed_at": "2026-05-05T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50545,
+          29.693235
         ]
       }
     },
@@ -30007,27 +30049,6 @@
         "coordinates": [
           -76.7854,
           38.995425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e59b9433-6d7b-5287-a35c-92756df44773",
-        "address": "4056-Wortham-Way-Decatur-GA-30034",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1501,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">72",
-        "current_price": 229000,
-        "price_label": "$229K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.224154,
-          33.6771
         ]
       }
     },
