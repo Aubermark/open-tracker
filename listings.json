@@ -1327,27 +1327,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "09d2bb09-7041-5a9b-bbde-0c9f6e345d12",
-        "address": "8951-Merseyside-Ave-Jacksonville-FL-32219",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1856,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": ">72",
-        "current_price": 268000,
-        "price_label": "$268K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.771705,
-          30.411889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "09dbb271-a222-52c3-98b9-c627e8392b61",
         "address": "5163-Tarpon-St-North-Port-FL-34286",
         "beds": 3,
@@ -7495,27 +7474,6 @@
         "coordinates": [
           -104.77734,
           39.886274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3732ab0a-d162-4bdb-830a-3b5e7a43031e",
-        "address": "24-Erin-Hills-Rd-Commercial-Point-OH-43116",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2399,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">72",
-        "current_price": 433000,
-        "price_label": "$433K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.031945,
-          39.771965
         ]
       }
     },
@@ -33052,6 +33010,27 @@
         "coordinates": [
           -84.833705,
           33.602119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fcd6bdee-3ea5-5c76-9392-fc592d8ee1ed",
+        "address": "5033-Sw-97th-Ln-Ocala-FL-34476",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2280,
+        "listed_at": "2026-05-05T15:50:03.000Z",
+        "days_on_market": "47",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.204286,
+          29.080948
         ]
       }
     },
