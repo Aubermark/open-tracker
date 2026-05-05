@@ -7564,6 +7564,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "38d71006-d31a-59a4-a2a3-d7ccb3b71fa2",
+        "address": "6736-Wise-Ave-Saint-Louis-MO-63139",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1294,
+        "listed_at": "2026-05-05T20:40:05.000Z",
+        "days_on_market": ">72",
+        "current_price": 222000,
+        "price_label": "$222K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.302074,
+          38.628736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39050b98-2fdf-526e-84b7-00ba9ea8d2da",
         "address": "6247-Ellenwood-Dr-Rex-GA-30273",
         "beds": 3,
@@ -14389,6 +14410,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "698ad04a-88d2-5709-8369-a530339e7bac",
+        "address": "934-Witherbee-Way-Little-River-SC-29566",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1888,
+        "listed_at": "2026-05-05T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.623655,
+          33.879108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "69ba74fa-b4ef-5437-b59b-290317cac510",
         "address": "8141-Long-Nook-Ln-Charlotte-NC-28277",
         "beds": 4,
@@ -18940,27 +18982,6 @@
         "coordinates": [
           -111.585235,
           33.192312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8b5c2af0-94e5-57c0-a850-3fc6c8d89d59",
-        "address": "801-Cannon-Dr-Euless-TX-76040",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1014,
-        "listed_at": "2026-04-24T23:20:02.000Z",
-        "days_on_market": "11",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.08443,
-          32.826486
         ]
       }
     },
