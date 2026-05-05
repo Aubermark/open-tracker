@@ -5023,27 +5023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "253ee1ad-34fa-5580-94b4-35ad2e01a83d",
-        "address": "8967-Crestview-Cir-Union-City-GA-30291",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2816,
-        "listed_at": "2026-04-16T16:18:50.000Z",
-        "days_on_market": "19",
-        "current_price": 322000,
-        "price_label": "$322K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.563473,
-          33.605679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "25918895-3298-502e-83a2-f36de8b58e3d",
         "address": "1608-Wickham-Dr-Burleson-TX-76028",
         "beds": 3,
@@ -16273,27 +16252,6 @@
         "coordinates": [
           -81.08272,
           35.219916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "76f502d0-f3fd-51ee-8ce9-8e954a8c5dc6",
-        "address": "2037-Fairview-Ln-Sanford-NC-27330",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1232,
-        "listed_at": "2026-05-05T19:30:04.000Z",
-        "days_on_market": "29",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.183666,
-          35.506315
         ]
       }
     },
@@ -28474,6 +28432,27 @@
         "coordinates": [
           -81.198752,
           28.649167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d69806c7-d6ec-5101-b4e1-b60bd159ba99",
+        "address": "384-Mildred-St-Painesville-OH-44077",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1204,
+        "listed_at": "2026-05-05T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.242779,
+          41.716793
         ]
       }
     },
