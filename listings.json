@@ -26254,6 +26254,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7b2fb74-6db4-5cc2-9afa-93b47d8825be",
+        "address": "4261-Foxrun-Dr-Chino-Hills-CA-91709",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2276,
+        "listed_at": "2026-05-05T20:30:02.000Z",
+        "days_on_market": "19",
+        "current_price": 1020000,
+        "price_label": "$1.020M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7113,
+          33.955837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7f6bf2b-a4a5-59e2-bc6b-139e993e7279",
         "address": "2127-Saranac-Dr-Colorado-Springs-CO-80910",
         "beds": 3,
@@ -27424,6 +27445,27 @@
         "coordinates": [
           -86.409992,
           35.801084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d039365f-aa97-5ca4-82fe-65c9b92514c6",
+        "address": "10422-Elk-Point-Ln-Houston-TX-77064",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-05-05T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.576484,
+          29.918875
         ]
       }
     },
