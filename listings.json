@@ -8110,6 +8110,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c412882-9411-5b8c-a3f6-5978ab349240",
+        "address": "3701-Westminster-Dr-Carrollton-TX-75007",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1873,
+        "listed_at": "2026-05-05T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.890462,
+          33.01191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c45c44d-2bff-5441-a5dd-50942193d044",
         "address": "1300-Green-Turf-Ln-Elgin-SC-29045",
         "beds": 5,
@@ -8692,27 +8713,6 @@
         "coordinates": [
           -80.884517,
           34.157115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "415d25f6-7802-57f6-8aff-e67a9de69f58",
-        "address": "138-Niven-Path-Jarrell-TX-76537",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2590,
-        "listed_at": "2026-04-17T16:50:04.000Z",
-        "days_on_market": ">72",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.600189,
-          30.809617
         ]
       }
     },
