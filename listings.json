@@ -10546,27 +10546,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4eb4ed8c-e627-5444-b7ec-728e6d25fe1e",
-        "address": "512-Hidden-Hills-Ct-Marietta-GA-30066",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1616,
-        "listed_at": "2026-02-26T07:33:45.000Z",
-        "days_on_market": ">72",
-        "current_price": 383000,
-        "price_label": "$383K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.5361,
-          34.011059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4ebe2275-81ae-5eee-9956-19bc4645ddb7",
         "address": "10125-Herons-Rise-St-Las-Vegas-NV-89141",
         "beds": 4,
@@ -29803,6 +29782,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e6fe41f9-4d4a-583f-9239-f7dee31fc4a2",
+        "address": "86-Hamilton-Hedge-Pl-Cary-NC-27519",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2984,
+        "listed_at": "2026-05-05T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.861128,
+          35.825558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e75ab798-68a5-5d19-919c-d31f7910e6e4",
         "address": "29467-Leemoor-Dr-Southfield-MI-48076",
         "beds": 3,
@@ -32548,6 +32548,27 @@
         "coordinates": [
           -83.863634,
           34.097144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "faf63a5c-f2b8-51e4-83c6-1f9485d3c4d2",
+        "address": "4925-Pembridge-Dr-Indianapolis-IN-46254",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1271,
+        "listed_at": "2026-05-05T18:00:03.000Z",
+        "days_on_market": ">72",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.279515,
+          39.842084
         ]
       }
     },
