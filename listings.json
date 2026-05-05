@@ -17980,6 +17980,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "851c1ca5-f4c9-531e-83eb-84fbee83a404",
+        "address": "5444-Kenbridge-Dr-Cleveland-OH-44143",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2775,
+        "listed_at": "2026-05-05T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.483093,
+          41.544183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85247aba-524e-5bbd-b6e6-a4ad3c0680eb",
         "address": "248-Colfax-Dr-Boiling-Springs-SC-29316",
         "beds": 4,
@@ -19444,6 +19465,27 @@
         "coordinates": [
           -80.886279,
           34.165987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8faf80b3-62ca-5d29-ae64-32543d6e1eda",
+        "address": "367-Trellis-Bay-Dr-Saint-Augustine-FL-32092",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2670,
+        "listed_at": "2026-05-05T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 546000,
+        "price_label": "$546K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498645,
+          30.032963
         ]
       }
     },
@@ -21754,6 +21796,27 @@
         "coordinates": [
           -80.13892,
           33.100204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a0f812e3-bdb7-54cf-b1d1-b7dfd1e46dfe",
+        "address": "5655-Tomah-Dr-Colorado-Springs-CO-80918",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1820,
+        "listed_at": "2026-05-05T18:30:02.000Z",
+        "days_on_market": "67",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.783775,
+          38.913456
         ]
       }
     },
@@ -30763,27 +30826,6 @@
         "coordinates": [
           -84.301683,
           33.927333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "edba051f-3832-4fed-9eef-ebea287528e7",
-        "address": "29-Craig-Ct-Saint-Augustine-FL-32092",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1707,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "63",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.573051,
-          30.020347
         ]
       }
     },
