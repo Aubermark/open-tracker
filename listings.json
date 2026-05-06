@@ -30265,6 +30265,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e6e61596-7491-5884-b5e6-ad449b121c70",
+        "address": "18915-Nest-Fern-Cir-Tampa-FL-33647",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2000,
+        "listed_at": "2026-05-06T13:20:04.000Z",
+        "days_on_market": ">73",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.368915,
+          28.145892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e6fe41f9-4d4a-583f-9239-f7dee31fc4a2",
         "address": "86-Hamilton-Hedge-Pl-Cary-NC-27519",
         "beds": 4,
