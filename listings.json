@@ -6241,6 +6241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e4a80ae-67db-5bd9-8b9a-68e0ac84df27",
+        "address": "1311-Norwood-Hills-Dr-O-Fallon-MO-63366",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3293,
+        "listed_at": "2026-05-06T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.72614,
+          38.787189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e4d0f15-a1c5-5b23-92d1-7ef88d30bbac",
         "address": "6625-Letein-St-Houston-TX-77008",
         "beds": 3,
@@ -13417,27 +13438,6 @@
         "coordinates": [
           -97.847239,
           30.51938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "637f38e8-2f8c-5660-85a6-9ca3939a2315",
-        "address": "18621-N-4th-Dr-Phoenix-AZ-85027",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1192,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": ">73",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.079671,
-          33.655708
         ]
       }
     },
@@ -21733,27 +21733,6 @@
         "coordinates": [
           -83.769799,
           32.8759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a0e79553-4d0b-5ef5-9aa6-a0f6b2280c69",
-        "address": "512-Killdeer-Rd-Summerville-SC-29486",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2790,
-        "listed_at": "2026-04-06T19:20:05.000Z",
-        "days_on_market": "30",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.13892,
-          33.100204
         ]
       }
     },
