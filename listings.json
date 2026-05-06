@@ -14473,6 +14473,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a62c2d8-8ad2-5fba-b33a-a53b1177862e",
+        "address": "8517-Tamar-Trl-Fort-Worth-TX-76118",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1354,
+        "listed_at": "2026-05-06T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.193706,
+          32.79968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a8e2a74-fde7-5feb-9e98-3e39e3202af7",
         "address": "932-Jefferson-Ave-Saint-Paul-MN-55102",
         "beds": 4,
@@ -26422,27 +26443,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c7fca266-2cf5-5c5a-a38c-0816a567bab9",
-        "address": "165-Christian-Woods-Dr-Conyers-GA-30013",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1450,
-        "listed_at": "2026-03-13T22:30:07.000Z",
-        "days_on_market": ">73",
-        "current_price": 268000,
-        "price_label": "$268K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.004165,
-          33.56875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c85dc633-faa3-5961-a9ff-746b471173d6",
         "address": "3346-Babson-Ct-Franklin-OH-45005",
         "beds": 4,
@@ -29146,6 +29146,27 @@
         "coordinates": [
           -82.447444,
           29.10143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dc459561-28bc-5f37-a114-bc8338ea8629",
+        "address": "510-Green-Spring-Cir-Winter-Springs-FL-32708",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1180,
+        "listed_at": "2026-05-06T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.298473,
+          28.69439
         ]
       }
     },
