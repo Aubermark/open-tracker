@@ -19912,6 +19912,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92cabfd1-afa2-5464-8137-93cc1f64e624",
+        "address": "21923-37th-Ave-Se-Bothell-WA-98021",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3745,
+        "listed_at": "2026-05-06T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1795000,
+        "price_label": "$1.795M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.183792,
+          47.798676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92db586e-0080-587e-84e5-90451e4eb2b2",
         "address": "1405-Turtle-Cove-Dr-Little-Elm-TX-75068-18066104",
         "beds": 4,
