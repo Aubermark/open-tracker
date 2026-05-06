@@ -25645,6 +25645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c04e5113-423d-56b1-bbe1-33ed8c4dcc35",
+        "address": "4252-Little-Rock-Vw-Colorado-Springs-CO-80911",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1867,
+        "listed_at": "2026-05-06T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.743185,
+          38.769452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0769737-ba27-5af8-bba2-28b681d68ccd",
         "address": "6114-Cedar-Ridge-Rd-Columbia-SC-29206",
         "beds": 3,
