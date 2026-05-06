@@ -22726,6 +22726,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a974f0a5-86b1-5428-aecb-e90693a0fa70",
+        "address": "1512-Buckingham-Ave-Gastonia-NC-28054",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2300,
+        "listed_at": "2026-05-06T18:40:03.000Z",
+        "days_on_market": "54",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.157067,
+          35.240478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a99f929e-1d39-51c4-8eb9-9adc38a194f3",
         "address": "335-Berry-Oaks-Dr-Bulverde-TX-78163",
         "beds": 4,
