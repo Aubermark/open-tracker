@@ -8761,6 +8761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "418424b6-9a42-50b2-8ec4-211555c14894",
+        "address": "52186-Jacqueline-Ct-Macomb-MI-48042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1660,
+        "listed_at": "2026-05-06T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.961596,
+          42.679337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4196123d-65d6-5f32-be73-074a483631fe",
         "address": "12839-Glengary-Dr-Fishers-IN-46038",
         "beds": 3,
