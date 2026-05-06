@@ -14998,6 +14998,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d84dd0d-0e14-5ae7-a6f8-2289b1391b30",
+        "address": "613-W-Hulett-St-Edgerton-KS-66021",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1310,
+        "listed_at": "2026-05-06T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.017626,
+          38.766054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d8a3d1d-ca62-5078-a466-23b0c1c6ff0d",
         "address": "203-W-Hogan-Dr-Copperas-Cove-TX-76522",
         "beds": 3,
