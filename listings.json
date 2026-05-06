@@ -24448,27 +24448,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b62729eb-6524-56eb-ba35-85bdfb046779",
-        "address": "1539-S-Van-Gordon-Ct-Lakewood-CO-80228",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2598,
-        "listed_at": "2026-04-16T17:40:08.000Z",
-        "days_on_market": "20",
-        "current_price": 720000,
-        "price_label": "$720K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.132667,
-          39.688844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b64daddb-d6a0-5e43-b0e9-91bd67bec62c",
         "address": "8541-Strathmore-Dr-Dallas-TX-75238",
         "beds": 3,
@@ -28054,6 +28033,27 @@
         "coordinates": [
           -83.399008,
           42.457243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3c2a2e8-1e88-532d-8d11-3c626f70b191",
+        "address": "2405-Falling-Leaf-Ct-Rock-Hill-SC-29732",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2569,
+        "listed_at": "2026-05-06T16:40:03.000Z",
+        "days_on_market": ">73",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03011,
+          34.992024
         ]
       }
     },
