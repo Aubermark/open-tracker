@@ -3595,6 +3595,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a1eabcd-f526-5a39-96a0-7bdda8ab2418",
+        "address": "1026-Commack-Dr-Durham-NC-27703",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2362,
+        "listed_at": "2026-05-06T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.847937,
+          35.940543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a1fa436-6bbc-5030-850d-36328d945ae1",
         "address": "9622-Scarborough-Ct-Summerville-SC-29485",
         "beds": 3,
@@ -5416,27 +5437,6 @@
         "coordinates": [
           -111.193819,
           32.437117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "27999697-68c6-5ec2-8ea2-ecc660058502",
-        "address": "4958-Scotts-Creek-Trl-Peachtree-Corners-GA-30096",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2701,
-        "listed_at": "2026-04-27T20:40:03.000Z",
-        "days_on_market": "9",
-        "current_price": 557000,
-        "price_label": "$557K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.203649,
-          33.977917
         ]
       }
     },
