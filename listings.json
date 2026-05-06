@@ -27598,6 +27598,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfb4e580-ce97-51bb-80ad-ea990d651f89",
+        "address": "1610-S-Burning-Tree-Ave-Tucson-AZ-85710",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1985,
+        "listed_at": "2026-05-06T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.806583,
+          32.202096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfcdf102-2303-5f06-baf5-fb0bd2b94ccd",
         "address": "740-1-2-N-Main-St-Tipton-IN-46072",
         "beds": 3,
