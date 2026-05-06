@@ -9412,6 +9412,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46571ea9-cb3b-5344-9572-56a11e6b40f1",
+        "address": "939-Staffordale-Manor-Ln-Houston-TX-77047",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2130,
+        "listed_at": "2026-05-06T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.408529,
+          29.620842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4658998d-212f-56ee-a88f-b97aff3444cf",
         "address": "5654-Forry-Ct-Lancaster-CA-93536",
         "beds": 4,
