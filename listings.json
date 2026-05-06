@@ -19597,6 +19597,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f8469a5-d320-56c8-80ac-db7ba258c2b6",
+        "address": "208-Nw-Summercrest-Blvd-Burleson-TX-76028",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1018,
+        "listed_at": "2026-05-06T13:50:02.000Z",
+        "days_on_market": "61",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338217,
+          32.536011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f9e197d-9a09-5655-9a51-3b9683afc895",
         "address": "227-Faversham-Ln-Columbia-SC-29229",
         "beds": 3,
