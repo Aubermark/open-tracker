@@ -5884,6 +5884,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b2b43c2-fa3f-50b8-8233-69dd924b62a3",
+        "address": "6523-Hunters-Creek-Ln-Baytown-TX-77521",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2447,
+        "listed_at": "2026-05-06T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.928797,
+          29.805816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b4d6716-29ee-544b-b7e8-9648484419ba",
         "address": "727-N-Illinois-St-#-208-Indianapolis-IN-46204",
         "beds": 2,
