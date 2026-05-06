@@ -13276,6 +13276,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61022d06-0d32-504d-8c5b-dc129c503269",
+        "address": "45168-Ingleham-Cir-Callahan-FL-32011",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2198,
+        "listed_at": "2026-05-06T06:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828217,
+          30.571265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "614df151-a631-55cc-a379-3022e26339a0",
         "address": "1144-Hawthorne-Ave-E-St-Paul-MN-55106",
         "beds": 2,
