@@ -1495,6 +1495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b01ea11-9bbe-5a39-ac58-abb223605805",
+        "address": "6584-Snowbird-Ln-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1540,
+        "listed_at": "2026-05-06T14:00:02.000Z",
+        "days_on_market": ">73",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.743323,
+          33.765936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b043229-c42b-56d7-80e6-42ea6ed3056f",
         "address": "4445-Dorsett-Shoals-Run-Douglasville-GA-30135",
         "beds": 3,
