@@ -14746,6 +14746,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b336fb3-6077-5cd4-baef-37898befa72d",
+        "address": "546-Gifford-Ct-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1637,
+        "listed_at": "2026-05-06T14:10:02.000Z",
+        "days_on_market": ">73",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.264485,
+          28.926555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b36fa80-6b9f-5998-b8f0-9b87d1dc7e8f",
         "address": "510-Carter-Ridge-Dr-Reidsville-NC-27320",
         "beds": 4,
