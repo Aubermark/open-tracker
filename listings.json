@@ -2986,27 +2986,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "164813df-d821-5ce4-8f67-8baf6b9bcf04",
-        "address": "2324-W-16th-St-Jacksonville-FL-32209",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1164,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": "40",
-        "current_price": 178000,
-        "price_label": "$178K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.700424,
-          30.353057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1658c942-1fd3-598f-b6c7-0b5a99767553",
         "address": "1220-Bergmann-Dr-Stillwater-MN-55082",
         "beds": 2,
@@ -25954,6 +25933,27 @@
         "coordinates": [
           -81.718866,
           30.315215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3ff5b2d-2b08-5dc6-8461-d34231d9fc77",
+        "address": "127-Genessee-Valley-Rd-Columbia-SC-29223",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2704,
+        "listed_at": "2026-05-06T19:10:02.000Z",
+        "days_on_market": "44",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.880867,
+          34.088966
         ]
       }
     },
