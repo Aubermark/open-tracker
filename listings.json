@@ -1411,6 +1411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a55dad8-a474-57c6-96ce-f9873c68e4c0",
+        "address": "430-Cornwallis-Way-Fayetteville-GA-30214",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1412,
+        "listed_at": "2026-05-07T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.472115,
+          33.452829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0aab0761-a3b1-55ab-a413-8997e3e7cd24",
         "address": "2811-Iveywood-Dr-Monroe-NC-28110",
         "beds": 4,
