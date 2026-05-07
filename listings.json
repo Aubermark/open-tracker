@@ -1621,6 +1621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d1ac37a-755c-548c-ae50-de6f41ebef85",
+        "address": "2602-S-11th-Ct-Ridgefield-WA-98642",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2392,
+        "listed_at": "2026-05-07T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.736046,
+          45.796415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d1e96fc-3731-56fe-8e43-7344fb336034",
         "address": "315-Pewter-Cir-Simpsonville-SC-29680",
         "beds": 5,
