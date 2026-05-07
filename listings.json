@@ -802,6 +802,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05c63364-238a-5a18-9036-add78aa9cc87",
+        "address": "1151-Ashland-Dr-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3006,
+        "listed_at": "2026-05-07T21:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90298,
+          34.19278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0666b431-c447-5196-a5aa-1f5f2f608da5",
         "address": "1800-E-Lakeshore-Dr-Unit-1006-Lake-Elsinore-CA-92530",
         "beds": 3,
@@ -5542,6 +5563,27 @@
         "coordinates": [
           -97.028013,
           33.032116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
+        "address": "2272-W-5th-St-Cleveland-OH-44113",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 3099,
+        "listed_at": "2026-05-07T21:30:06.000Z",
+        "days_on_market": ">74",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.683282,
+          41.482429
         ]
       }
     },
