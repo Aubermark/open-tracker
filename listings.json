@@ -12709,6 +12709,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f07c373-b2fc-5c04-977b-b1ac3108ea53",
+        "address": "3105-Anneewakee-Falls-Pkwy-Douglasville-GA-30135",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3294,
+        "listed_at": "2026-05-07T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677694,
+          33.68414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f0ac1ad-f835-5dfc-aad1-04372d208144",
         "address": "2-Ames-Ct-Taylors-SC-29687",
         "beds": 5,
@@ -21838,27 +21859,6 @@
         "coordinates": [
           -80.841312,
           35.211045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a46ffef7-804a-5c37-ac7f-4800403c186c",
-        "address": "561-Briarwood-Rd-Lancaster-SC-29720",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2476,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">74",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.797302,
-          34.724466
         ]
       }
     },
@@ -32023,6 +32023,27 @@
         "coordinates": [
           -78.43864,
           35.632261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f5eef7d4-a8f8-59f7-86ce-56189336f25f",
+        "address": "522-27th-Ave-N-Texas-City-TX-77590",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1296,
+        "listed_at": "2026-05-07T17:40:03.000Z",
+        "days_on_market": "13",
+        "current_price": 204000,
+        "price_label": "$204K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.902502,
+          29.410099
         ]
       }
     },
