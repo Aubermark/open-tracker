@@ -7312,6 +7312,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36ee9520-84a6-5a7f-ac99-30865a9849bd",
+        "address": "20504-N-261st-Ave-Buckeye-AZ-85396",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2158,
+        "listed_at": "2026-05-07T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.613279,
+          33.670569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
         "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
         "beds": 4,
@@ -16840,27 +16861,6 @@
         "coordinates": [
           -84.047769,
           33.442786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7e511983-faa8-5f52-b31e-a06475ae39fe",
-        "address": "415-Piedmont-Cir-Covington-GA-30016",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3736,
-        "listed_at": "2026-05-01T05:55:27.000Z",
-        "days_on_market": "65",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.954964,
-          33.625719
         ]
       }
     },
