@@ -19009,6 +19009,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8e38683e-39fe-515d-86c1-784675dc2323",
+        "address": "6625-Suburban-Dr-Raleigh-NC-27615",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1448,
+        "listed_at": "2026-05-07T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 526000,
+        "price_label": "$526K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.627915,
+          35.874079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8e5e9a14-ae14-5105-8519-0ee3fe5fe739",
         "address": "119-Albany-Manor-Dr-Wentzville-MO-63385",
         "beds": 4,
