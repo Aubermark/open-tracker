@@ -12982,6 +12982,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60dfb461-72e6-5dec-a370-85ae3e31230f",
+        "address": "600-Northern-Way-Apt-205-Winter-Springs-FL-32708",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-05-07T14:50:03.000Z",
+        "days_on_market": "14",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.257558,
+          28.682102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61022d06-0d32-504d-8c5b-dc129c503269",
         "address": "45168-Ingleham-Cir-Callahan-FL-32011",
         "beds": 4,
@@ -30700,6 +30721,27 @@
         "coordinates": [
           -80.850696,
           35.083863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec880b29-6913-58f8-b8e8-b75c7786ecf6",
+        "address": "1523-Van-Buren-Ave-Sw-Concord-NC-28025",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2278,
+        "listed_at": "2026-05-07T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.587369,
+          35.313833
         ]
       }
     },
