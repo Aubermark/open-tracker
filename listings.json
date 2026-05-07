@@ -20899,6 +20899,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c6839f3-b9d5-5b15-8fdc-36fc19c33246",
+        "address": "3809-S-Drumm-Ave-Independence-MO-64055",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1526,
+        "listed_at": "2026-05-07T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.402254,
+          39.050967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c947c81-30d4-5865-a9b8-0bc1da7a5f4e",
         "address": "10623-Redwood-Dr-Baytown-TX-77523",
         "beds": 3,
@@ -27802,6 +27823,27 @@
         "coordinates": [
           -110.776026,
           32.216144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d47c73cd-189b-5f55-90ca-5e820f0e77b4",
+        "address": "112-Queensferry-Rd-Cary-NC-27511",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 5197,
+        "listed_at": "2026-05-07T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1030000,
+        "price_label": "$1.030M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78564,
+          35.751422
         ]
       }
     },
