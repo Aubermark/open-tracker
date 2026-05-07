@@ -20563,6 +20563,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "990ad33d-6099-5b0e-ba43-057651729be5",
+        "address": "2300-Ridgewood-Bedford-TX-76021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1851,
+        "listed_at": "2026-05-07T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 387000,
+        "price_label": "$387K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.136844,
+          32.851434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9913934b-ec5e-5e79-93de-b5594b0faa32",
         "address": "7212-Derickson-Ave-Ne-Albuquerque-NM-87109",
         "beds": 3,
