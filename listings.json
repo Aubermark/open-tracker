@@ -865,6 +865,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06d15432-2f31-5733-9204-ad57befa97f6",
+        "address": "535-Palmetto-Dr-Melbourne-FL-32935",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1457,
+        "listed_at": "2026-05-07T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649769,
+          28.138963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
@@ -28537,6 +28558,27 @@
         "coordinates": [
           -85.016084,
           33.901639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dad8cf67-1256-5146-a34d-179f3516b69e",
+        "address": "1371-Di-Blasi-Dr-Apt-101-Las-Vegas-NV-89119",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1261,
+        "listed_at": "2026-05-07T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.134319,
+          36.089498
         ]
       }
     },
