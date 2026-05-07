@@ -16636,6 +16636,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7bf51db9-276c-5de6-ae82-e4b7ee216eb7",
+        "address": "509-8th-St-Farmington-MN-55024",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1859,
+        "listed_at": "2026-05-07T15:20:03.000Z",
+        "days_on_market": ">74",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.136447,
+          44.637149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7bf644cc-f509-5ca0-8fd2-c84bd07f35aa",
         "address": "12917-Meadows-Dr-Oklahoma-City-OK-73120",
         "beds": 3,
@@ -22615,27 +22636,6 @@
         "coordinates": [
           -85.168492,
           34.803987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aa1d9e30-bbd8-4a3f-a4b8-f235b1ebedc9",
-        "address": "8577-E-Love-Ct-Nampa-ID-83687",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2292,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": ">74",
-        "current_price": 474000,
-        "price_label": "$474K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.564974,
-          43.634523
         ]
       }
     },
