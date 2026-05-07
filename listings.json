@@ -8047,6 +8047,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3bd4e6ad-e309-507b-a615-24df59c1956d",
+        "address": "14292-Se-Meadows-Ln-Clackamas-OR-97015",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2518,
+        "listed_at": "2026-05-07T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.546453,
+          45.419986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3be8536a-eb42-5deb-83b4-58a9cc33696c",
         "address": "2511-Willow-Pond-Ln-Se-Concord-NC-28025",
         "beds": 3,
@@ -17890,27 +17911,6 @@
         "coordinates": [
           -84.468339,
           33.913762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8555c447-4d84-5088-8fb3-6b3daa6fea53",
-        "address": "9300-Bradley-Ct-Manassas-Park-VA-20111",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 4126,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": "34",
-        "current_price": 799000,
-        "price_label": "$799K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.42692,
-          38.763238
         ]
       }
     },
