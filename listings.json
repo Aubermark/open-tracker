@@ -5296,6 +5296,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27999697-68c6-5ec2-8ea2-ecc660058502",
+        "address": "4958-Scotts-Creek-Trl-Peachtree-Corners-GA-30096",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2701,
+        "listed_at": "2026-05-07T20:10:02.000Z",
+        "days_on_market": "10",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.203649,
+          33.977917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
         "address": "2237-Nw-158th-St-Edmond-OK-73013",
         "beds": 3,
@@ -18295,6 +18316,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88fa5686-f2de-5fd5-8692-a4979ebc9ae6",
+        "address": "182-Livingston-Ln-Covington-GA-30016",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1419,
+        "listed_at": "2026-05-07T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.992952,
+          33.545412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8938aa63-5a11-5441-a582-25e6762f5172",
         "address": "6369-Redan-Sq-Lithonia-GA-30058",
         "beds": 2,
@@ -29923,6 +29965,27 @@
         "coordinates": [
           -82.058343,
           35.037814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e695bdb9-edc1-5bc0-955d-4501569c6a59",
+        "address": "6654-Hazelhatch-Dr-Indianapolis-IN-46268",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1236,
+        "listed_at": "2026-05-07T20:10:02.000Z",
+        "days_on_market": "52",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.209052,
+          39.877435
         ]
       }
     },
