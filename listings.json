@@ -22054,6 +22054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a422c37b-61a5-580d-b687-6f69614bdca0",
+        "address": "406-Skylark-Blvd-Satellite-Beach-FL-32937",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2140,
+        "listed_at": "2026-05-07T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.607397,
+          28.208933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a42d33e0-1c53-5cea-b860-38ede9a66ee5",
         "address": "354-Saipan-Pl-San-Antonio-TX-78221",
         "beds": 3,
