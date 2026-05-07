@@ -26359,6 +26359,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca7b3365-49d1-555a-9a08-3345bda7a240",
+        "address": "7411-Shady-Hollow-Ln-San-Antonio-TX-78255",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1405,
+        "listed_at": "2026-05-07T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.633896,
+          29.590766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca8c9e24-d99b-5493-9888-0f6f8e43d13b",
         "address": "2859-Savannah-Walk-Ln-Suwanee-GA-30024",
         "beds": 5,
