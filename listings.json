@@ -15775,6 +15775,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "74189408-1d77-57ab-a0aa-8b71f5a2876c",
+        "address": "208-Green-Cedar-Dr-League-City-TX-77573",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "listed_at": "2026-05-07T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.13085,
+          29.497274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "741c5c56-2a98-5c87-9bb6-d066b1868c64",
         "address": "8804-S-Brentwood-St-Littleton-CO-80128",
         "beds": 5,
