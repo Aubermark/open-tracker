@@ -12877,6 +12877,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ff37130-77cb-5550-851f-013c0ad3931e",
+        "address": "201-Trackers-Rd-Cary-NC-27513",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2144,
+        "listed_at": "2026-05-07T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.814541,
+          35.775513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60d49577-f5d0-5b71-a849-d534f4bcab66",
         "address": "875-Quiet-Stone-Ln-Orange-Park-FL-32065",
         "beds": 4,
