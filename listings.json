@@ -2755,6 +2755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14e04a29-0a83-5bb4-90d1-3e52aa6f549e",
+        "address": "5049-Saphire-Ct-Douglasville-GA-30135",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2219,
+        "listed_at": "2026-05-07T06:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.703579,
+          33.728252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1537fdc0-a3fd-5059-9ad8-fcb36b39502c",
         "address": "3207-Ringtail-Ln-Charlotte-NC-28216",
         "beds": 4,
