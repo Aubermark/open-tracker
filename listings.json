@@ -33184,6 +33184,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fc5c1647-0867-5958-8029-87f9487fbe1e",
+        "address": "1124-Terrace-View-Dr-Fort-Worth-TX-76108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1663,
+        "listed_at": "2026-05-07T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.510328,
+          32.744226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fcc52eb3-1a9f-5b59-89b8-c90d6996edc3",
         "address": "7880-Gable-Dr-Douglasville-GA-30135",
         "beds": 3,
