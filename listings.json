@@ -6157,6 +6157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d9155f0-b712-55eb-8523-78ef7b6bd190",
+        "address": "9207-W-Kerry-Ln-Peoria-AZ-85382",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-05-07T22:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.25753,
+          33.658747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e00d3fc-d6c9-580d-ad90-b2ca8e1917e6",
         "address": "262-N-Loblolly-Xing-Temple-GA-30179",
         "beds": 3,
@@ -7159,6 +7180,27 @@
         "coordinates": [
           -118.208136,
           34.620172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
+        "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1464,
+        "listed_at": "2026-05-07T22:40:02.000Z",
+        "days_on_market": "38",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.931657,
+          33.970381
         ]
       }
     },
