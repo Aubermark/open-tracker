@@ -5905,27 +5905,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c7c1b89-4b07-56c1-9577-d43f63c66afe",
-        "address": "8508-W-Ruth-Ave-Peoria-AZ-85345",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1376,
-        "listed_at": "2026-04-29T21:30:02.000Z",
-        "days_on_market": "31",
-        "current_price": 386000,
-        "price_label": "$386K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.24261,
-          33.562309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2cc53ec3-6992-5120-9b81-5f708863b941",
         "address": "4018-City-Homes-Pl-Charlotte-NC-28209",
         "beds": 4,
@@ -17890,6 +17869,27 @@
         "coordinates": [
           -80.691728,
           28.36229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85c58fbd-d66d-5fe4-ac2f-428ddae83c88",
+        "address": "6033-S-Mack-Ave-Gilbert-AZ-85298",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4553,
+        "listed_at": "2026-05-07T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.721315,
+          33.240522
         ]
       }
     },
