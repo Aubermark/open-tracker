@@ -8299,6 +8299,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e2fb996-94f4-5d3a-b9ad-e61ccadce68a",
+        "address": "724-Woodmere-Dr-Nashville-TN-37217",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1525,
+        "listed_at": "2026-05-07T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 436000,
+        "price_label": "$436K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.711111,
+          36.121298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f3b96fd-db60-50db-a2e9-502c125ebed5",
         "address": "5896-Mills-Creek-Ln-North-Ridgeville-OH-44039",
         "beds": 3,
