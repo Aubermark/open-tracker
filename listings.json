@@ -16342,27 +16342,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "78d83f97-f44b-57cc-999d-c853eaed7f8e",
-        "address": "233-White-Lick-Dr-Indianapolis-IN-46227",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1530,
-        "listed_at": "2026-04-24T06:26:03.000Z",
-        "days_on_market": "14",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.153795,
-          39.698281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "79a45c8a-15ef-5782-bb00-7335d2d09d44",
         "address": "1242-Elterwater-Ln-Spartanburg-SC-29306",
         "beds": 4,
@@ -23560,6 +23539,27 @@
         "coordinates": [
           -82.001798,
           27.915531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0d5bdbb-979f-5b01-9eb1-770f0cfd1acc",
+        "address": "3222-Keenly-Ives-Ct-Buford-GA-30519",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2833,
+        "listed_at": "2026-05-07T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.896673,
+          34.106171
         ]
       }
     },
