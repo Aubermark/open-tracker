@@ -25729,6 +25729,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c37a7c37-d125-59ee-8eec-71cb6c97cb84",
+        "address": "7112-Via-Campanile-Ave-Las-Vegas-NV-89131",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3345,
+        "listed_at": "2026-05-07T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 915000,
+        "price_label": "$915K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.250483,
+          36.297399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c381c8f9-fbd1-5c7e-8553-cc644586444d",
         "address": "3081-Crosswind-Dr-Fort-Mill-SC-29707",
         "beds": 4,
