@@ -2398,27 +2398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "12944bdf-3ced-5371-98da-2df1880ef29e",
-        "address": "1555-Rose-Pointe-Dr-Loganville-GA-30052",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2877,
-        "listed_at": "2026-04-30T15:40:02.000Z",
-        "days_on_market": "8",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.958582,
-          33.836034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "12ba21b8-28ad-54d8-b5ec-546548640000",
         "address": "7132-Teaberry-Ct-Ooltewah-TN-37363",
         "beds": 4,
@@ -5779,27 +5758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2b7ce0a2-dfca-5aee-8bbd-074f2f1c8100",
-        "address": "4322-Rhapsody-Ln-Indianapolis-IN-46235",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2094,
-        "listed_at": "2026-05-01T16:10:02.000Z",
-        "days_on_market": "7",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.983713,
-          39.836401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2b9e89dd-ef50-5a6d-b4fa-6b621e89c6f6",
         "address": "815-Jamestown-Dr-Apt-3-Gastonia-NC-28056",
         "beds": 2,
@@ -7054,6 +7012,27 @@
         "coordinates": [
           -80.825903,
           35.225412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "34e0418d-9326-5ce9-9c8d-f70e34d54541",
+        "address": "8702-Bell-Song-Ln-Huntersville-NC-28078",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2335,
+        "listed_at": "2026-05-08T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.910966,
+          35.383777
         ]
       }
     },
@@ -18583,27 +18562,6 @@
         "coordinates": [
           -98.414681,
           29.578101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "89f668bc-7618-5dd0-8874-17cc6c205b14",
-        "address": "42-Harris-Farm-Ct-Thomasville-NC-27360",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1530,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "50",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.08734,
-          35.849109
         ]
       }
     },
