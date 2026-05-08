@@ -11554,6 +11554,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56d5d7e4-aca7-574a-afe9-d6109d380be7",
+        "address": "1301-Cinnamon-Pl-Galloway-OH-43119",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1608,
+        "listed_at": "2026-05-08T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.147171,
+          39.92657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5720e3c3-a3bd-5336-916a-a5afc180e029",
         "address": "2621-Sandlewood-Cir-Orange-Park-FL-32065",
         "beds": 3,
@@ -27298,27 +27319,6 @@
         "coordinates": [
           -86.409992,
           35.801084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d039365f-aa97-5ca4-82fe-65c9b92514c6",
-        "address": "10422-Elk-Point-Ln-Houston-TX-77064",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1696,
-        "listed_at": "2026-05-05T20:30:02.000Z",
-        "days_on_market": "3",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.576484,
-          29.918875
         ]
       }
     },
