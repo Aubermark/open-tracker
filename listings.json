@@ -4351,27 +4351,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "20820825-c2fa-56d0-b5c3-a052b5fdf183",
-        "address": "1285-E-Easy-St-Tucson-AZ-85719-15377800",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1610,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">75",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.952605,
-          32.278727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "20929067-74bc-5984-9295-3d01bc1ff35e",
         "address": "731-Goldenrod-Way-Norcross-GA-30093",
         "beds": 4,
@@ -12325,27 +12304,6 @@
         "coordinates": [
           -104.658416,
           38.944717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5c326645-47c6-5361-b96e-f6bc6cbc3809",
-        "address": "11318-Brendel-Ln-Corpus-Christi-TX-78410",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1844,
-        "listed_at": "2026-05-04T20:20:02.000Z",
-        "days_on_market": "4",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.592892,
-          27.843438
         ]
       }
     },
@@ -22573,6 +22531,27 @@
         "coordinates": [
           -97.712021,
           31.065325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a77a716e-5462-5ccb-ad07-891ff9952611",
+        "address": "4976-Vicksburg-Ln-Hilliard-OH-43026-18102280",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2554,
+        "listed_at": "2026-05-08T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.110023,
+          40.055827
         ]
       }
     },
