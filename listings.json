@@ -2839,27 +2839,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "15682c99-61b4-5001-895f-ba2e0bd2f204",
-        "address": "11520-Captiva-Kay-Dr-Riverview-FL-33569",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1521,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">75",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.325244,
-          27.831653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "159b5eb0-0260-54cc-a484-2b5bcab38f9a",
         "address": "29212-Ursuline-St-Saint-Clair-Shores-MI-48081",
         "beds": 3,
@@ -18436,6 +18415,27 @@
         "coordinates": [
           -83.992952,
           33.545412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8931cd84-1f72-5453-af25-ed11369246f4",
+        "address": "7698-Falmoth-Bay-Ct-Las-Vegas-NV-89179",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2220,
+        "listed_at": "2026-05-08T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 498000,
+        "price_label": "$498K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.255339,
+          35.992147
         ]
       }
     },
