@@ -21193,6 +21193,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9dfc1404-62bf-5e40-b2ef-4941c0b3e936",
+        "address": "5304-Twin-Brook-Dr-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1680,
+        "listed_at": "2026-05-08T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.825329,
+          35.310585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e548721-bbc9-5926-94a7-2e0e49d19d3a",
         "address": "1012-Crepe-Myrtle-Ln-Anna-TX-75409",
         "beds": 4,
@@ -23938,6 +23959,27 @@
         "coordinates": [
           -107.094949,
           37.254763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b357436e-2d43-5ece-8502-86c987e3830c",
+        "address": "3600-Asaro-Pl-Plano-TX-75025",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3814,
+        "listed_at": "2026-05-08T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 920000,
+        "price_label": "$920K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.761803,
+          33.074183
         ]
       }
     },
