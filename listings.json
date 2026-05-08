@@ -9832,6 +9832,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "496a282d-8008-5f6e-95e9-93bb68a80c43",
+        "address": "7841-Kavanagh-Ct-Sarasota-FL-34240",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1894,
+        "listed_at": "2026-05-08T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408978,
+          27.348187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "496bebb5-bcb2-582f-aea4-6e8eee26f3f0",
         "address": "97-Palmer-Pl-Richmond-Hill-GA-31324",
         "beds": 4,
@@ -11821,6 +11842,27 @@
         "coordinates": [
           -81.463514,
           28.155741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "582a6aa7-2d08-5393-8c80-944241acde65",
+        "address": "5-Tracy-Ann-Dr-North-Grafton-MA-01536",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1840,
+        "listed_at": "2026-05-08T18:10:02.000Z",
+        "days_on_market": "54",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.696419,
+          42.229485
         ]
       }
     },
