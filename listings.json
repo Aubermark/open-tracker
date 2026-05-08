@@ -4813,6 +4813,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24d15f68-0f69-5fe6-a8d5-e06f2b9b0fa3",
+        "address": "2563-Taos-Dr-Grand-Prairie-TX-75051",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "listed_at": "2026-05-08T16:20:05.000Z",
+        "days_on_market": "28",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.988485,
+          32.707809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -6886,6 +6907,27 @@
         "coordinates": [
           -80.389625,
           25.593495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "338116c3-1460-5904-b881-ee0fec7559c2",
+        "address": "15246-Sw-43rd-Terrace-Rd-Ocala-FL-34473",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1289,
+        "listed_at": "2026-05-08T16:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.192805,
+          29.000219
         ]
       }
     },
@@ -15139,27 +15181,6 @@
         "coordinates": [
           -84.507768,
           33.845071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6fa1262e-c812-5277-a531-7d33e0609a28",
-        "address": "913-Jayellen-Ct-Burleson-TX-76028",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1360,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "35",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.348035,
-          32.536451
         ]
       }
     },
