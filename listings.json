@@ -17938,27 +17938,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "85e4d8b3-755c-593d-b4ca-9fb5595c20ad",
-        "address": "4902-W-Windrose-Dr-Glendale-AZ-85304",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1754,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": ">75",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.164467,
-          33.601052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "85ef99ce-8b4f-5eb6-9a4f-66d95320aabb",
         "address": "1721-Mountain-Maple-Ave-Highlands-Ranch-CO-80129",
         "beds": 6,
@@ -24385,6 +24364,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b86ccbea-e428-592c-a7aa-6ba3221977cc",
+        "address": "8421-E-Balfour-Dr-Tucson-AZ-85710",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1518,
+        "listed_at": "2026-05-08T20:00:03.000Z",
+        "days_on_market": "28",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.812514,
+          32.225177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b885ba25-5c8e-5415-9702-3d6787ce4278",
         "address": "4506-Silverdale-Rd-North-Olmsted-OH-44070",
         "beds": 3,
@@ -25114,27 +25114,6 @@
         "coordinates": [
           -83.790889,
           34.342293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "be2f3630-a209-5f4c-a0da-e906bfe15489",
-        "address": "131-Hasty-Hill-Rd-Thomasville-NC-27360",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1132,
-        "listed_at": "2026-04-23T01:30:02.000Z",
-        "days_on_market": ">75",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.078642,
-          35.91772
         ]
       }
     },
@@ -26248,6 +26227,27 @@
         "coordinates": [
           -74.445076,
           40.586688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c971579b-b408-5aaf-8ab1-12fc31bb0438",
+        "address": "100-Watercourse-Way-Greer-SC-29651",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2429,
+        "listed_at": "2026-05-08T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.285716,
+          35.006868
         ]
       }
     },
