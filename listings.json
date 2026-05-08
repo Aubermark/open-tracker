@@ -10021,27 +10021,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4a9dbd81-da4f-59de-8d00-7148333e96b7",
-        "address": "2940-Dover-Dr-Florissant-MO-63033",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1402,
-        "listed_at": "2026-04-29T16:00:03.000Z",
-        "days_on_market": "37",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.309207,
-          38.812429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4b04341a-74c6-5087-ac57-678bba830f75",
         "address": "5917-Raza-Rd-Pearland-TX-77584",
         "beds": 3,
@@ -15433,6 +15412,27 @@
         "coordinates": [
           -96.646815,
           32.9835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7126af56-d5d6-56d3-83d3-74b670b8f13b",
+        "address": "7102-S-Vuelta-De-Tranquilidad-Tucson-AZ-85756",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1264,
+        "listed_at": "2026-05-08T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.870604,
+          32.123166
         ]
       }
     },
