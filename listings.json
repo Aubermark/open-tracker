@@ -2671,6 +2671,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14a0a07a-cf5b-5032-826b-e7a988b83af8",
+        "address": "101-Cambridge-Pointe-Dr-Alabaster-AL-35007",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1448,
+        "listed_at": "2026-05-08T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83272,
+          33.224064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14cb826e-b7e8-5f9b-882d-601b20d831cd",
         "address": "42497-W-Ramirez-Dr-Maricopa-AZ-85138",
         "beds": 4,
@@ -3568,6 +3589,27 @@
         "coordinates": [
           -84.323174,
           39.528691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1ace8c5c-5bd2-5270-976b-8053067ddf1a",
+        "address": "6104-Crupper-Ct-Raleigh-NC-27613",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4067,
+        "listed_at": "2026-05-08T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.697813,
+          35.952054
         ]
       }
     },
@@ -28096,27 +28138,6 @@
         "coordinates": [
           -111.720443,
           33.431703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d632cdc4-2ee7-5a28-bcce-1c68c9f772c2",
-        "address": "2825-Kinloch-Ct-Clover-SC-29710",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 3034,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "28",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.175073,
-          35.098023
         ]
       }
     },
