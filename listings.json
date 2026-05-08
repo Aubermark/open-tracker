@@ -10714,27 +10714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "513dc448-e811-52e8-b99a-dffde3005a47",
-        "address": "431-Cedarcrest-Rd-Dallas-GA-30132",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1758,
-        "listed_at": "2026-04-23T01:10:01.000Z",
-        "days_on_market": "67",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.762473,
-          34.012356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "51413fc4-437a-5b09-a3c5-df3897af8d72",
         "address": "1146-S-Cathay-St-Aurora-CO-80017",
         "beds": 3,
@@ -16756,6 +16735,27 @@
         "coordinates": [
           -121.54153,
           37.784211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7c89be5a-b1c7-5ac0-9f10-9331d9e40653",
+        "address": "20-Leach-Dr-Guntersville-AL-35976-17569517",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1884,
+        "listed_at": "2026-05-08T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.357124,
+          34.388998
         ]
       }
     },
@@ -33073,6 +33073,27 @@
         "coordinates": [
           -97.093056,
           32.609447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb9cfc73-e359-5d6a-993e-16e8df83e3fe",
+        "address": "15525-Bedford-Cir-E-Clearwater-FL-33764",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-05-08T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.735691,
+          27.913658
         ]
       }
     },
