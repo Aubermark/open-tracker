@@ -6787,6 +6787,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "32c4ed39-ecf9-5e77-8028-589d2e4a5b7f",
+        "address": "644-Ashe-Lake-Way-Fuquay-Varina-NC-27526",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2650,
+        "listed_at": "2026-05-08T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 505000,
+        "price_label": "$505K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.751692,
+          35.572997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "332b7916-e2f6-5b77-a072-067f797d73ce",
         "address": "1128-Hobart-Dr-Marysville-CA-95901",
         "beds": 3,
