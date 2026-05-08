@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "021d5b2f-1c7a-537e-bd33-5ffdf3328140",
+        "address": "3621-Rolridge-Rd-Henrico-VA-23233",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3121,
+        "listed_at": "2026-05-08T15:20:03.000Z",
+        "days_on_market": ">75",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.64207,
+          37.643152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02575f18-a5ef-54c7-87d6-252f5d1c0518",
         "address": "825-Summerville-Dr-Delaware-OH-43015",
         "beds": 3,
@@ -7243,27 +7264,6 @@
         "coordinates": [
           -84.734374,
           33.747945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "36279d7f-0ef7-5d3f-a812-9131fdffb61a",
-        "address": "14504-W-139th-St-Olathe-KS-66062",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1763,
-        "listed_at": "2026-05-02T07:01:50.000Z",
-        "days_on_market": "71",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.753697,
-          38.877043
         ]
       }
     },
@@ -25114,6 +25114,27 @@
         "coordinates": [
           -84.472221,
           33.810895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bd31048e-d863-516d-b85a-915c9d0b1d8f",
+        "address": "5410-Vagas-Dr-Rowlett-TX-75088",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1647,
+        "listed_at": "2026-05-08T15:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.514387,
+          32.908337
         ]
       }
     },
