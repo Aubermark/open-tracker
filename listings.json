@@ -3994,6 +3994,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1de9bdb2-6b36-5671-9c5c-6b2cf4602b5c",
+        "address": "78440-Via-Palomino-La-Quinta-CA-92253",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2443,
+        "listed_at": "2026-05-08T15:30:03.000Z",
+        "days_on_market": "73",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.296521,
+          33.725125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1df87d0b-5547-50ed-93d9-144474a80348",
         "address": "738-Flower-St-Beaumont-CA-92223",
         "beds": 5,
@@ -23188,27 +23209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ad8371b2-4e1d-5b89-91f9-ed223f8f3aa8",
-        "address": "3727-Pimilico-Trace-Ln-Charlotte-NC-28216",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1575,
-        "listed_at": "2026-04-30T17:00:03.000Z",
-        "days_on_market": "73",
-        "current_price": 324000,
-        "price_label": "$324K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.879839,
-          35.338751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ade6d1ac-e447-56b9-bb56-fde28f99ed6c",
         "address": "115-Cochran-Farms-Dr-Roswell-GA-30075",
         "beds": 5,
@@ -24694,6 +24694,27 @@
         "coordinates": [
           -80.346896,
           27.311477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9be2274-108a-5141-a6f7-d1157ed49e12",
+        "address": "3072-Nottingham-Rd-S-St-Cloud-MN-56301-17647910",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3201,
+        "listed_at": "2026-05-08T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 516000,
+        "price_label": "$516K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.212408,
+          45.519063
         ]
       }
     },
@@ -29440,6 +29461,27 @@
         "coordinates": [
           -111.494221,
           33.101736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df311c5e-f6f9-5bb5-844a-af5e3b3038cd",
+        "address": "9703-W-Spanish-Moss-Ln-Sun-City-AZ-85373",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2238,
+        "listed_at": "2026-05-08T15:30:03.000Z",
+        "days_on_market": ">75",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.269785,
+          33.651051
         ]
       }
     },
