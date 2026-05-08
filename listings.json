@@ -16930,6 +16930,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ebbd202-73d8-5085-8f2f-98a3b2386410",
+        "address": "8949-Corte-Pellejo-Spring-Valley-CA-91977",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1996,
+        "listed_at": "2026-05-08T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 845000,
+        "price_label": "$845K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.005281,
+          32.697425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ec3a6e7-f153-5d22-bb3f-1d309188e861",
         "address": "2823-E-Norwood-St-Mesa-AZ-85213",
         "beds": 4,
