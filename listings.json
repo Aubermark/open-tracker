@@ -21298,27 +21298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9ed11d80-ddeb-5df8-b9fa-df39b345e5f0",
-        "address": "2808-Ne-39th-St-Kansas-City-MO-64117",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1418,
-        "listed_at": "2026-05-05T21:20:02.000Z",
-        "days_on_market": "3",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.546642,
-          39.165035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9f174051-3f2e-4129-9f9f-b07223586a71",
         "address": "333-Oakhaven-Dr-Holly-Springs-NC-27540",
         "beds": 4,
@@ -29803,6 +29782,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e2f26958-9ec3-514a-9db3-8b975314a503",
+        "address": "252-Stone-Lake-Dr-Dallas-GA-30157",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2301,
+        "listed_at": "2026-05-08T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.763675,
+          33.926565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e3b01b8b-5e28-5b15-ae24-cbca0b38f5a4",
         "address": "510-E-5400-S-Ogden-UT-84405",
         "beds": 3,
@@ -30133,6 +30133,27 @@
         "coordinates": [
           -85.958422,
           39.849312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e60303c5-debf-5ad8-9537-e825a350a72c",
+        "address": "3371-Youth-Monroe-Rd-Loganville-GA-30052",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1312,
+        "listed_at": "2026-05-08T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.843694,
+          33.794557
         ]
       }
     },
