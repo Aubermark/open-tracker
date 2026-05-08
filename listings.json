@@ -23587,6 +23587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "afe70faa-c925-5fbe-adf0-c3c9870d2e5a",
+        "address": "2300-E-Magma-Rd-Unit-115-San-Tan-Valley-AZ-85143",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1224,
+        "listed_at": "2026-05-08T17:30:02.000Z",
+        "days_on_market": ">75",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.54072,
+          33.133368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "affc4436-fb5f-5079-b529-8e44a31a6f45",
         "address": "18306-Water-Mill-Dr-Cypress-TX-77429",
         "beds": 4,
