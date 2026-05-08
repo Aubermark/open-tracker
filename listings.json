@@ -27262,6 +27262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfe0d058-62d6-486a-aebf-c964cfa54bad",
+        "address": "10008-Altura-Cv-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1646,
+        "listed_at": "2026-05-08T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.706478,
+          31.039646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d003ed28-cf9a-5951-9e60-bc2914efac1d",
         "address": "779-Proud-Waters-Ct-Las-Vegas-NV-89178",
         "beds": 3,
