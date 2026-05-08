@@ -22285,6 +22285,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a5a142e0-0fc7-5ec8-9f05-e1f2309c7634",
+        "address": "784-Arbor-Gate-Ln-Lawrenceville-GA-30044",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2355,
+        "listed_at": "2026-05-08T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.052,
+          33.951277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a5b705ac-dbda-52b5-83d8-e07e34569ce6",
         "address": "1631-Glade-Meadows-Dr-Joshua-TX-76058",
         "beds": 4,
