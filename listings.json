@@ -26128,6 +26128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6568d78-9534-5ca9-90c4-08e605b29b79",
+        "address": "3805-Lenna-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2570,
+        "listed_at": "2026-05-08T13:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.011612,
+          33.808983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c67fd9aa-e341-56bd-97d6-405b8b6b7c6c",
         "address": "1913-Ne-Grant-Cir-Blue-Springs-MO-64014",
         "beds": 3,
