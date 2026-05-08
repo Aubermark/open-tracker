@@ -18211,6 +18211,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "86ceda42-c4e8-5f5e-803d-9524897f3ed7",
+        "address": "2512-Townsquare-Dr-Jacksonville-FL-32216",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1225,
+        "listed_at": "2026-05-08T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.566695,
+          30.299703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8703409c-d729-573f-b991-2cb6a83aff0a",
         "address": "606-Gulfstream-Trl-S-Orange-Park-FL-32073",
         "beds": 4,
