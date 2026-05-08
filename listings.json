@@ -33331,6 +33331,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fd27e83c-ea26-55e9-8770-e55b70fb74aa",
+        "address": "5855-Valley-Dr-Unit-2088-North-Las-Vegas-NV-89031",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1104,
+        "listed_at": "2026-05-08T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.198263,
+          36.26665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fd3bea49-4e12-5e27-a182-d6d11e7c638f",
         "address": "965-Sweet-Gum-Kyle-TX-78640-6321284",
         "beds": 4,
