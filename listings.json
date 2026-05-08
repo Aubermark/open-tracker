@@ -9958,27 +9958,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4b24e1ab-ecf4-5985-b1b2-38295d73d44a",
-        "address": "131-W-6th-Ave-San-Manuel-AZ-85631",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1053,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "22",
-        "current_price": 153000,
-        "price_label": "$153K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.635416,
-          32.608399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4b573958-1f6c-46c5-9c8f-4108d3efd774",
         "address": "309-Sw-Hawthorne-Ct-Blue-Springs-MO-64014",
         "beds": 3,
@@ -21634,6 +21613,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1e2cf12-83fe-5238-b09f-548ed19e8e08",
+        "address": "314-Carola-Ln-Lexington-SC-29072",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2060,
+        "listed_at": "2026-05-08T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2082,
+          33.984878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a200e0c1-6678-5a1c-be02-809e57cc88a4",
         "address": "3404-Redwood-Rd-Durham-NC-27704",
         "beds": 3,
@@ -27025,27 +27025,6 @@
         "coordinates": [
           -98.274591,
           29.561282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce93993f-3380-52d3-ba75-a59801888d95",
-        "address": "25202-W-Jackson-Ave-Buckeye-AZ-85326",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1252,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">75",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.593103,
-          33.368503
         ]
       }
     },
