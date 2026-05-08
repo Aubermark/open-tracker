@@ -5464,6 +5464,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "294ac1c2-80a4-4f53-9ce0-6dcf512d0e25",
+        "address": "285-Eagle-Creek-Rd-Nw-Cleveland-TN-37312",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2979,
+        "listed_at": "2026-05-08T19:50:03.000Z",
+        "days_on_market": "39",
+        "current_price": 589000,
+        "price_label": "$589K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.815814,
+          35.267559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "294e03cf-6f77-5e79-bc3d-3a1b8fac3b37",
         "address": "50-Cranbrook-Ct-Covington-GA-30016",
         "beds": 3,
@@ -30679,27 +30700,6 @@
         "coordinates": [
           -88.441607,
           42.15069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eac02ebb-d8dc-5f53-8061-805b0a0ee19c",
-        "address": "5631-Vineyard-Ln-Las-Vegas-NV-89110",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1451,
-        "listed_at": "2026-05-05T20:50:02.000Z",
-        "days_on_market": "3",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.049139,
-          36.160205
         ]
       }
     },
