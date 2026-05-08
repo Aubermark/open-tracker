@@ -16447,27 +16447,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "79c13af2-1978-5007-ae98-ba1c9a7238d2",
-        "address": "1187-Bordeaux-Ct-Olivehurst-CA-95961",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2600,
-        "listed_at": "2026-04-30T21:10:02.000Z",
-        "days_on_market": "8",
-        "current_price": 595000,
-        "price_label": "$595K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.539206,
-          38.989987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
         "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
@@ -21571,27 +21550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a0653654-23ca-5e80-8620-98980ea0d106",
-        "address": "12927-Colony-Heath-Ln-Houston-TX-77085",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1703,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "29",
-        "current_price": 254000,
-        "price_label": "$254K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.473141,
-          29.635274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a078ee44-a3b9-5175-8e54-b1f50db14d1e",
         "address": "27-Glenna-Dr-Saint-Peters-MO-63376",
         "beds": 3,
@@ -24316,6 +24274,27 @@
         "coordinates": [
           -96.688965,
           32.865669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b67d975d-e3dc-5c0a-91d5-23d5c4c10011",
+        "address": "112-Halifax-Cir-Palmer-TX-75152",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1540,
+        "listed_at": "2026-05-08T16:40:02.000Z",
+        "days_on_market": ">75",
+        "current_price": 272000,
+        "price_label": "$272K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67252,
+          32.432696
         ]
       }
     },
