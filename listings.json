@@ -20290,6 +20290,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "944e5308-f7ca-591b-9bd2-458e03554d6a",
+        "address": "2405-Castle-Rock-Rd-Arlington-TX-76006",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3993,
+        "listed_at": "2026-05-09T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.06704,
+          32.786826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "94800db6-c25a-5711-ba8b-3c057f7b912b",
         "address": "204-Wallace-Cir-Lexington-SC-29073-17427355",
         "beds": 2,
