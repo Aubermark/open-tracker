@@ -1432,6 +1432,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a23d0ef-10ca-52b4-9521-34d5ba51cb4d",
+        "address": "410-Madison-St-Roanoke-Rapids-NC-27870",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-05-09T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65451,
+          36.466248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a3666aa-ca79-5f7f-84f8-31b07874e5bd",
         "address": "199-E-Crest-Ave-Winter-Garden-FL-34787",
         "beds": 3,
