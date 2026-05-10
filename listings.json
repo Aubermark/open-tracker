@@ -31273,6 +31273,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ebd586fc-d959-53e5-8f72-eccba52edae5",
+        "address": "603-Marsh-Lake-Rd-Lawrenceville-GA-30045",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1625,
+        "listed_at": "2026-05-10T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.957123,
+          33.958018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ebff9817-5868-5bed-8636-598f30bab453",
         "address": "414-Glensprings-Dr-Fletcher-NC-28732",
         "beds": 3,
