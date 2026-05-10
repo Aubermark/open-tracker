@@ -25393,6 +25393,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bd6eb13a-3f13-5533-9840-c3a28ed70200",
+        "address": "1783-Barrington-Overlook-Marietta-GA-30066",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1944,
+        "listed_at": "2026-05-10T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.551448,
+          33.994739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bdae0d47-9897-5248-922a-5e9fb1ba87fd",
         "address": "60-W-Monte-Cristo-Dr-Wickenburg-AZ-85390",
         "beds": 3,
