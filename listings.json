@@ -3574,27 +3574,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "195b52a1-a918-5d1d-ae4a-c74e6923fc96",
-        "address": "224-Pinecrest-Ct-Roseville-CA-95678",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2611,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": "38",
-        "current_price": 722000,
-        "price_label": "$722K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.29779,
-          38.779525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "19c3332c-ea29-54ea-ac56-eabcead1ff32",
         "address": "6312-Lake-Trail-Dr-Fayetteville-NC-28304",
         "beds": 3,
@@ -25162,6 +25141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bab016cc-dbf8-52a8-bfe1-02e928e8d0eb",
+        "address": "3211-Fox-Mill-Rd-Oakton-VA-22124",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2977,
+        "listed_at": "2026-05-10T05:52:25.000Z",
+        "days_on_market": "0",
+        "current_price": 1035000,
+        "price_label": "$1.035M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.345589,
+          38.890333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb1c57c3-5262-53b9-8a5f-11ebd5cc0c7b",
         "address": "318-Aberdeen-Cir-Summerville-SC-29483",
         "beds": 4,
@@ -27046,6 +27046,27 @@
         "coordinates": [
           -81.360936,
           28.609019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "caf031d9-57a5-557f-b9c9-1c309b6ceef4",
+        "address": "16819-Sonoma-Rdg-San-Antonio-TX-78255",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3432,
+        "listed_at": "2026-05-10T05:52:25.000Z",
+        "days_on_market": "0",
+        "current_price": 810000,
+        "price_label": "$810K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.655496,
+          29.601719
         ]
       }
     },
@@ -33220,27 +33241,6 @@
         "coordinates": [
           -99.111038,
           30.037017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f92b8521-9f40-50b2-bcfc-fcf046928b9a",
-        "address": "28441-Silverking-Trl-Santa-Clarita-CA-91390",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1744,
-        "listed_at": "2026-04-28T20:20:03.000Z",
-        "days_on_market": "11",
-        "current_price": 780000,
-        "price_label": "$780K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.511216,
-          34.461521
         ]
       }
     },
