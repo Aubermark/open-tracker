@@ -7249,6 +7249,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3594b6b4-106a-57eb-97e3-8295636eb87b",
+        "address": "1502-Allen-Dr-Cedar-Hill-TX-75104",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1371,
+        "listed_at": "2026-05-11T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.940755,
+          32.620462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "359b5d5b-2092-5572-a58c-0d1945283e57",
         "address": "200-Dogwood-Dr-Canton-GA-30114",
         "beds": 3,
