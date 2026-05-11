@@ -13507,6 +13507,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64f59680-842c-500d-be0f-cdacceee2807",
+        "address": "1902-E-116th-Pl-Northglenn-CO-80233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1744,
+        "listed_at": "2026-05-11T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.964662,
+          39.906899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64fc2fd0-e23c-56da-a81e-d5294ef1b960",
         "address": "2190-Love-Ln-Florissant-MO-63031",
         "beds": 3,
