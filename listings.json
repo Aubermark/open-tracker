@@ -31567,6 +31567,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ed2c7215-33ec-5e40-aca2-63737f7e6f2c",
+        "address": "10214-Sw-Captiva-Dr-Port-Saint-Lucie-FL-34987",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-05-11T13:20:03.000Z",
+        "days_on_market": ">78",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.425836,
+          27.235006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ed5af259-7e09-4beb-8f11-79eefcdc0ec4",
         "address": "21-Craig-Ct-Saint-Augustine-FL-32092",
         "beds": 3,
