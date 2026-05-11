@@ -20269,6 +20269,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "93c5fbd0-210a-5a6c-9079-31a720c84924",
+        "address": "415-6th-Ave-S-Nampa-ID-83651",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2548,
+        "listed_at": "2026-05-11T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.569854,
+          43.580519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "93fb51d8-aedf-5c2c-9a8d-dfc2091e5ba7",
         "address": "11275-Linden-Dr-Spring-Hill-FL-34609-16150742",
         "beds": 2,
