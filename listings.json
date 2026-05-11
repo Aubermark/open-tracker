@@ -28837,6 +28837,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d96ca4ae-7433-55b3-a644-839946292ae1",
+        "address": "210-Billo-Ct-Weatherford-TX-76087",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2739,
+        "listed_at": "2026-05-11T15:50:04.000Z",
+        "days_on_market": "34",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.733397,
+          32.766816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9c5d1d1-0ce5-5323-8d6e-2f3a2c58e1b1",
         "address": "2406-Manchester-Dr-Carrollton-TX-75006",
         "beds": 5,
