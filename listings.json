@@ -19576,27 +19576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9096158b-a13e-578f-8c21-bff8e9c6f24b",
-        "address": "10401-Fort-Teran-Trl-Crowley-TX-76036",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1747,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "52",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.383714,
-          32.579146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "90b67088-bfbd-55ac-89dc-846f674a6b12",
         "address": "10132-Sw-Trapper-Ter-Beaverton-OR-97008",
         "beds": 2,
@@ -25093,6 +25072,27 @@
         "coordinates": [
           -80.19548,
           33.040702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bb2a668d-50ce-5ff5-877f-97b5b59a4218",
+        "address": "1233-Windy-Meadows-Dr-Burleson-TX-76028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1597,
+        "listed_at": "2026-05-11T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.342518,
+          32.563681
         ]
       }
     },
