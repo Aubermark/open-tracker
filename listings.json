@@ -1831,6 +1831,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
+        "address": "1623-12th-St-Saint-Cloud-FL-34769",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1558,
+        "listed_at": "2026-05-11T22:10:04.000Z",
+        "days_on_market": "55",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.287872,
+          28.246829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e5cdbab-4fce-5bf9-9db1-e75ac89d9d51",
         "address": "1902-New-Orleans-St-Deer-Park-TX-77536",
         "beds": 3,
