@@ -5527,27 +5527,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28d205d7-1161-529b-a250-97b15e912b74",
-        "address": "6223-S-Cottonfields-Ln-Laveen-AZ-85339",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1610,
-        "listed_at": "2026-05-04T23:00:02.000Z",
-        "days_on_market": "7",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.179987,
-          33.389596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
         "address": "2272-W-5th-St-Cleveland-OH-44113",
         "beds": 2,
@@ -17518,27 +17497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8118bf87-0896-502f-b56a-dfdd37847df2",
-        "address": "11694-N-166th-Dr-Surprise-AZ-85388",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2284,
-        "listed_at": "2026-05-04T15:20:03.000Z",
-        "days_on_market": "55",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.416457,
-          33.590703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
         "address": "8605-N-67th-Ln-Peoria-AZ-85345",
         "beds": 3,
@@ -18037,6 +17995,27 @@
         "coordinates": [
           -80.12136,
           26.150597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "848fe80e-7e40-5e2d-9ddd-017aa5dd39d0",
+        "address": "543-Silver-Course-Cir-Ocala-FL-34472",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1576,
+        "listed_at": "2026-05-11T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.012461,
+          29.113699
         ]
       }
     },
