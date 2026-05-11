@@ -5800,27 +5800,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2b5f232f-30f1-5a0a-af6b-df8bb20e966a",
-        "address": "8422-Alabama-Ave-Temple-TX-76502",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1427,
-        "listed_at": "2026-05-05T21:00:02.000Z",
-        "days_on_market": "6",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.431144,
-          31.125638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2b9e89dd-ef50-5a6d-b4fa-6b621e89c6f6",
         "address": "815-Jamestown-Dr-Apt-3-Gastonia-NC-28056",
         "beds": 2,
@@ -16588,6 +16567,27 @@
         "coordinates": [
           -104.749254,
           38.847965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b0ceddf-0eed-5f05-a6e9-efc9149b2735",
+        "address": "4234-Nestleway-Ct-Greensboro-NC-27406",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1427,
+        "listed_at": "2026-05-11T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.809985,
+          36.003127
         ]
       }
     },
