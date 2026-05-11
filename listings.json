@@ -5758,6 +5758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a711521-784a-51ed-830d-643b9345ebdb",
+        "address": "255-Kathy-Dr-Lancaster-VA-22503",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1026,
+        "listed_at": "2026-05-11T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54178,
+          37.728535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a85cb1e-44ee-54bd-8020-fd7d673e604b",
         "address": "505-Ruths-Dr-Woodstock-GA-30188",
         "beds": 3,
