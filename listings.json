@@ -991,6 +991,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0750ea03-3d5f-5284-a3d1-4d63053d1d53",
+        "address": "1204-Britton-Dr-Knoxville-TN-37912",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3043,
+        "listed_at": "2026-05-11T20:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.982783,
+          36.00153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "075bd63e-250b-562e-9722-c4ca83204bd2",
         "address": "5591-Coventry-Dr-Prosper-TX-75078",
         "beds": 3,
@@ -3799,27 +3820,6 @@
         "coordinates": [
           -84.168582,
           33.869184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1c559fa9-f36b-52ea-aa7c-1d06dabe0851",
-        "address": "6734-Wandering-Creek-Dr-Charlotte-NC-28216",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2292,
-        "listed_at": "2026-04-23T18:08:47.000Z",
-        "days_on_market": "18",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.908085,
-          35.302146
         ]
       }
     },
@@ -17995,27 +17995,6 @@
         "coordinates": [
           -82.012461,
           29.113699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "84afb483-602d-54bc-9866-0df0bc641d42",
-        "address": "5342-N-Palmer-Ave-Kansas-City-MO-64119",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 960,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "70",
-        "current_price": 223000,
-        "price_label": "$223K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.490659,
-          39.191211
         ]
       }
     },
