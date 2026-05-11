@@ -11827,6 +11827,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "580c33dd-a2e3-5455-8654-1b280ae69bcb",
+        "address": "4745-Sherrills-Ford-Rd-Salisbury-NC-28147",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1597,
+        "listed_at": "2026-05-11T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.568085,
+          35.687182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5826c938-0d7b-5761-a7e9-725c65572f6f",
         "address": "5145-Roswell-Rd-Unit-7-Atlanta-GA-30342",
         "beds": 2,
@@ -27592,27 +27613,6 @@
         "coordinates": [
           -98.274591,
           29.561282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cea2d6d7-4b32-5860-9943-0e949a7f5dd2",
-        "address": "19300-Elk-Horn-Dr-Pflugerville-TX-78660",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2039,
-        "listed_at": "2026-04-02T21:40:06.000Z",
-        "days_on_market": "39",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.546116,
-          30.451316
         ]
       }
     },
