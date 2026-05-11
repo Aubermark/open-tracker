@@ -23419,6 +23419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad16a510-c6f4-5ce1-934f-c5cabb2abd79",
+        "address": "6472-Haypress-Ct-Las-Vegas-NV-89141-7452671",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1804,
+        "listed_at": "2026-05-11T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.233911,
+          35.993925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad1b2959-ad65-50fd-aed3-c54f3e4fe5a6",
         "address": "4479-Alpine-Ct-Snellville-GA-30039",
         "beds": 4,
