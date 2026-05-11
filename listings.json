@@ -11050,27 +11050,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5244b229-55c6-5b40-a553-98f13f58b64c",
-        "address": "1616-E-Glenhaven-Dr-Phoenix-AZ-85048",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2781,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">78",
-        "current_price": 674000,
-        "price_label": "$674K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.048487,
-          33.294106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "525e151d-e80a-5d1f-9c45-0b196e0416d0",
         "address": "14835-39th-Ave-N-Plymouth-MN-55446",
         "beds": 3,
@@ -18757,6 +18736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "89397fdf-6730-5f1a-8e6a-b2216dd22d84",
+        "address": "569-Lodge-Dr-Saint-Louis-MO-63126",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2612,
+        "listed_at": "2026-05-11T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.394601,
+          38.55775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "894b9faa-8434-5d72-8c7f-f3733cb2e90c",
         "address": "8124-Bock-Farm-Pl-Alexandria-VA-22306",
         "beds": 4,
@@ -24085,27 +24085,6 @@
         "coordinates": [
           -90.328888,
           38.669608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b0bcb2c7-f85d-5663-b298-b85fccac232d",
-        "address": "4201-Hoyt-Ct-Wheat-Ridge-CO-80033",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1800,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "41",
-        "current_price": 598000,
-        "price_label": "$598K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.104722,
-          39.775495
         ]
       }
     },
@@ -33157,6 +33136,27 @@
         "coordinates": [
           -85.013694,
           33.871107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7fde9bf-2637-5147-b60b-6fb03ed65e92",
+        "address": "136-Arbor-Chase-Pkwy-Rockmart-GA-30153",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1962,
+        "listed_at": "2026-05-11T23:00:02.000Z",
+        "days_on_market": "60",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0184,
+          33.980111
         ]
       }
     },
