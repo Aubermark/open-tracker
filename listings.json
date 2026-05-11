@@ -5737,6 +5737,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a85cb1e-44ee-54bd-8020-fd7d673e604b",
+        "address": "505-Ruths-Dr-Woodstock-GA-30188",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2100,
+        "listed_at": "2026-05-11T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.503599,
+          34.138751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ac3c876-367e-57c8-a059-4469e06c5f7c",
         "address": "920-S-Palmetto-Ave-Apt-9-Ontario-CA-91762",
         "beds": 2,
@@ -26185,6 +26206,27 @@
         "coordinates": [
           -111.787624,
           33.304068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c45f5164-1516-5ca9-843c-af54b27fcba4",
+        "address": "1428-Futrelle-Dr-High-Point-NC-27262",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1056,
+        "listed_at": "2026-05-11T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.010191,
+          35.97968
         ]
       }
     },
