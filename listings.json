@@ -14116,6 +14116,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68144de7-0bcd-55af-a888-fc3063048a23",
+        "address": "129-Weatherstone-Rd-Lexington-SC-29072",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1040,
+        "listed_at": "2026-05-11T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.258095,
+          33.994413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "681c488f-5100-590b-a4e6-354565ac16eb",
         "address": "111-Wahoo-Cir-Irmo-SC-29063",
         "beds": 4,
