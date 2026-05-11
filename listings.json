@@ -16783,6 +16783,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b8744c2-b850-5e55-9d52-e24f47f3eec4",
+        "address": "11072-Silver-Surfer-Aly-Winter-Garden-FL-34787",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1770,
+        "listed_at": "2026-05-11T05:51:13.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.640293,
+          28.399307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b91e756-92b2-5742-b4b6-43a8392a3d0a",
         "address": "210-Hickory-Pointe-Dr-Lebanon-TN-37087",
         "beds": 3,
@@ -24652,27 +24673,6 @@
         "coordinates": [
           -84.618462,
           34.083808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8376bd9-f5be-5f2b-a721-03dec80ec9b7",
-        "address": "4583-Crestone-Peak-St-Brighton-CO-80601",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1886,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">77",
-        "current_price": 426000,
-        "price_label": "$426K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.759976,
-          39.986408
         ]
       }
     },
