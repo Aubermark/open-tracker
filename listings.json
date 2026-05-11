@@ -2146,6 +2146,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fdf9a32-87a6-5a54-8fa8-1103631db745",
+        "address": "19106-Lost-Mine-Trl-Spring-TX-77388",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2908,
+        "listed_at": "2026-05-11T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.440956,
+          30.038931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10356c6b-be62-5f7c-a545-fa4934d5b6b2",
         "address": "803-Magnolia-St-Alamogordo-NM-88310",
         "beds": 3,
@@ -13339,27 +13360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "626446b0-7429-5a14-8dbe-1fac51351d24",
-        "address": "115-S-Withrow-Dr-Shelby-NC-28150",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1278,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": "52",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.642962,
-          35.409935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "62beb166-685f-5f9d-9816-22fe13709be1",
         "address": "361-Kelly-Bay-Rd-Walterboro-SC-29488",
         "beds": 4,
@@ -20599,27 +20599,6 @@
         "coordinates": [
           -79.836191,
           36.142335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9588ba02-841c-511b-8dcf-8d181ecb316f",
-        "address": "28840-N-121st-Ln-Peoria-AZ-85383",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1916,
-        "listed_at": "2026-04-09T18:10:08.000Z",
-        "days_on_market": "32",
-        "current_price": 530000,
-        "price_label": "$530K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.322959,
-          33.744792
         ]
       }
     },
