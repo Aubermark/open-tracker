@@ -11533,6 +11533,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56cf1aae-23c5-5abe-b68e-96ad234159e9",
+        "address": "2337-W-Tierra-Buena-Ln-Phoenix-AZ-85023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1395,
+        "listed_at": "2026-05-11T15:10:02.000Z",
+        "days_on_market": "75",
+        "current_price": 414000,
+        "price_label": "$414K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.109648,
+          33.628667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56d5d7e4-aca7-574a-afe9-d6109d380be7",
         "address": "1301-Cinnamon-Pl-Galloway-OH-43119",
         "beds": 4,
