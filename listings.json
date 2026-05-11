@@ -12919,6 +12919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f1c77f4-cc1e-5dae-9210-d46c03b32021",
+        "address": "15143-Gallop-Ln-Fishers-IN-46040",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3133,
+        "listed_at": "2026-05-11T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.892652,
+          39.936177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f49d1ea-8a86-5ca0-ad7d-6bc1a5418ea8",
         "address": "2014-Hunters-Bend-Trl-Ladson-SC-29456",
         "beds": 4,
