@@ -15691,6 +15691,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "720dcd50-63d1-544e-a6ff-3a201aa316d5",
+        "address": "1657-Gresham-Ct-Rock-Hill-SC-29730",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1018,
+        "listed_at": "2026-05-11T17:20:04.000Z",
+        "days_on_market": ">78",
+        "current_price": 272000,
+        "price_label": "$272K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.027717,
+          34.876571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "72f3065b-4ace-571e-9eb0-4e7693129929",
         "address": "108-W-Dogwood-Dr-Mebane-NC-27302",
         "beds": 3,
@@ -29923,27 +29944,6 @@
         "coordinates": [
           -83.944944,
           33.577584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dffe9710-8427-4f13-ae81-089d89407b1e",
-        "address": "11079-Roaring-Fork-St-Caldwell-ID-83605",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2485,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "27",
-        "current_price": 475000,
-        "price_label": "$475K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.614876,
-          43.666775
         ]
       }
     },
