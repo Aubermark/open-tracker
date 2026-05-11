@@ -3595,6 +3595,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19e37918-2d18-5668-8bad-12d3d6919ac0",
+        "address": "2507-E-Caramillo-St-Colorado-Springs-CO-80909",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1772,
+        "listed_at": "2026-05-11T20:20:02.000Z",
+        "days_on_market": "70",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.784398,
+          38.854871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a1eabcd-f526-5a39-96a0-7bdda8ab2418",
         "address": "1026-Commack-Dr-Durham-NC-27703",
         "beds": 4,
