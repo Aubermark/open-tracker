@@ -5569,27 +5569,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28f48bbd-30f2-5801-b06f-0b6aedef7665",
-        "address": "954-S-Old-Orchard-Ln-Lewisville-TX-75067",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1651,
-        "listed_at": "2026-05-11T22:20:02.000Z",
-        "days_on_market": "42",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.028013,
-          33.032116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
         "address": "2272-W-5th-St-Cleveland-OH-44113",
         "beds": 2,
@@ -23392,6 +23371,27 @@
         "coordinates": [
           -86.651561,
           33.621175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac89d8f5-1cc1-5540-b221-f81d4269809e",
+        "address": "6620-S-48th-Ln-Laveen-AZ-85339",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2762,
+        "listed_at": "2026-05-11T22:30:05.000Z",
+        "days_on_market": "6",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.163649,
+          33.385901
         ]
       }
     },
