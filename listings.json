@@ -10084,6 +10084,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a1f0089-5ffd-56d6-9f81-6d259b4581a0",
+        "address": "1762-W-Calle-La-Paz-Tucson-AZ-85713",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1321,
+        "listed_at": "2026-05-11T23:20:02.000Z",
+        "days_on_market": ">78",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002254,
+          32.184264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a2be3ca-e936-5a8a-91fb-10e487ccf7a8",
         "address": "32914-Westwood-Square-East-Dr-Magnolia-TX-77354",
         "beds": 4,
@@ -15475,6 +15496,27 @@
         "coordinates": [
           -74.447334,
           40.574195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "704da5d9-8079-5b5f-9983-4621d48d45dc",
+        "address": "403-Heath-Pl-Smyrna-TN-37167",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1846,
+        "listed_at": "2026-05-11T23:20:02.000Z",
+        "days_on_market": "38",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.561396,
+          35.984573
         ]
       }
     },
@@ -25015,27 +25057,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b9b69866-5487-511a-901d-9b6ecd4072b5",
-        "address": "141-Se-Calmoso-Dr-Port-Saint-Lucie-FL-34983",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1139,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">78",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.346896,
-          27.311477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b9be2274-108a-5141-a6f7-d1157ed49e12",
         "address": "3072-Nottingham-Rd-S-St-Cloud-MN-56301-17647910",
         "beds": 3,
@@ -31561,6 +31582,27 @@
         "coordinates": [
           -84.503771,
           39.214522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ecca0ca1-afa9-523d-8773-5a506c4bcdea",
+        "address": "515-Thistle-St-Port-Angeles-WA-98362",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1171,
+        "listed_at": "2026-05-11T23:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.434755,
+          48.089764
         ]
       }
     },
