@@ -3700,6 +3700,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a75a42d-6746-593c-b2bf-7f639486bb12",
+        "address": "129-N-2nd-St-Middletown-IN-47356",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-05-11T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 193000,
+        "price_label": "$193K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.529711,
+          40.05504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a9847c6-477f-59ce-8bf4-017453a570d4",
         "address": "5790-Bentwood-Dr-Middletown-OH-45042",
         "beds": 3,
