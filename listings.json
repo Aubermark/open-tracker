@@ -5569,6 +5569,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28f48bbd-30f2-5801-b06f-0b6aedef7665",
+        "address": "954-S-Old-Orchard-Ln-Lewisville-TX-75067",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1651,
+        "listed_at": "2026-05-11T22:20:02.000Z",
+        "days_on_market": "42",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.028013,
+          33.032116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
         "address": "2272-W-5th-St-Cleveland-OH-44113",
         "beds": 2,
@@ -19240,6 +19261,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8da5dcf8-a90c-503f-95b6-65175faecc5e",
+        "address": "105-E-Eden-Vly-Adkins-TX-78101",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2861,
+        "listed_at": "2026-05-11T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.221768,
+          29.2819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8da75ae3-1cc8-5bf4-acf3-8e469c52919a",
         "address": "530-Crawfish-Ln-Irmo-SC-29063",
         "beds": 4,
@@ -25765,27 +25807,6 @@
         "coordinates": [
           -80.945779,
           34.035899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
-        "address": "5202-Oster-Dr-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1867,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">78",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.72734,
-          31.064149
         ]
       }
     },
