@@ -26737,6 +26737,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c8c37a3a-3e1e-573e-8479-9b8dca391436",
+        "address": "3209-Swan-Pl-Lynchburg-VA-24501",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1664,
+        "listed_at": "2026-05-11T23:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.154956,
+          37.381087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c93587e5-aee1-5dd0-9421-9b1a22787fe2",
         "address": "1760-Cedarwood-Dr-Piscataway-NJ-08854",
         "beds": 4,
