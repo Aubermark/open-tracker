@@ -4561,6 +4561,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20a5be61-8828-552d-8c88-eb171a1640ef",
+        "address": "3519-Madonna-Ln-Bowie-MD-20715",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1583,
+        "listed_at": "2026-05-11T22:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.755398,
+          38.980938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20b739a1-4998-5a6f-b41e-03b998a8e910",
         "address": "171-River-Ridge-Pl-Welaka-FL-32193",
         "beds": 3,
