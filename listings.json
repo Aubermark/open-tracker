@@ -8425,6 +8425,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d8b77e8-ed38-5810-91fc-b5589b5b95c5",
+        "address": "5013-Shadowbrook-Rd-Waxhaw-NC-28173",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2819,
+        "listed_at": "2026-05-12T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.770131,
+          34.942826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d976f84-0e79-58fc-bece-09252cb8bdd6",
         "address": "8915-Cinder-Ln-Huntersville-NC-28078",
         "beds": 4,
@@ -8713,6 +8734,27 @@
         "coordinates": [
           -94.696813,
           38.95692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4078bed6-e751-55ab-a8cb-7afd6dd51893",
+        "address": "9603-Highmeadow-Dr-Houston-TX-77063",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1650,
+        "listed_at": "2026-05-12T19:40:04.000Z",
+        "days_on_market": "23",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.536112,
+          29.733784
         ]
       }
     },
