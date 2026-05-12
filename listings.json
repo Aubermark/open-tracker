@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2bebdc04-dfc6-5303-ba20-ec5cb8a83d77",
+        "address": "613-4th-St-Ne-Fort-Meade-FL-33841",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1488,
+        "listed_at": "2026-05-12T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.792757,
+          27.756685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bed9922-ad0d-503b-8535-2642c5bf731e",
         "address": "701-Atlantic-St-Se-Washington-DC-20032",
         "beds": 2,
@@ -22957,6 +22978,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a820750e-da62-4b2e-b4af-cdb5e0fe989d",
+        "address": "13592-Gunsmoke-Ln-Cresson-TX-76035",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1718,
+        "listed_at": "2026-05-12T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.595519,
+          32.518028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a86c60af-0354-5289-9076-f8b4410c9a1c",
         "address": "8112-Princess-Jeanne-Ave-Ne-Albuquerque-NM-87110",
         "beds": 3,
@@ -29251,27 +29293,6 @@
         "coordinates": [
           -115.134319,
           36.089498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "db174ef0-5e80-5f8e-80a0-3093445ce3fd",
-        "address": "16960-Tack-Ln-Moreno-Valley-CA-92555",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1311,
-        "listed_at": "2026-04-30T17:20:02.000Z",
-        "days_on_market": "12",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.209861,
-          33.875236
         ]
       }
     },
