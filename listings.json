@@ -17077,6 +17077,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c834f41-d020-54ad-9788-83c132af9975",
+        "address": "7848-Desert-Bell-Ave-Las-Vegas-NV-89128",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2406,
+        "listed_at": "2026-05-12T17:20:03.000Z",
+        "days_on_market": "71",
+        "current_price": 569000,
+        "price_label": "$569K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.266069,
+          36.191998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c84f53e-68f1-41cf-83dd-314c3c1becfe",
         "address": "408-N-Palm-Springs-Way-Tracy-CA-95391",
         "beds": 4,
