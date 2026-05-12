@@ -19240,6 +19240,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8cd1b447-faa7-5e52-861b-ca74aed18409",
+        "address": "10016-Markus-Dr-Mint-Hill-NC-28227",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3475,
+        "listed_at": "2026-05-12T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.678938,
+          35.185302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8cf0ce93-4b86-5b75-8c12-c66089b110b9",
         "address": "1203-Bristolwood-St-Brandon-FL-33510",
         "beds": 3,
@@ -30217,6 +30238,27 @@
         "coordinates": [
           -86.155056,
           39.699086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e41fe7d5-8592-52b4-9924-6866adb78b4b",
+        "address": "6158-Autumn-View-Cv-Nw-Acworth-GA-30101",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1958,
+        "listed_at": "2026-05-12T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.730436,
+          34.049179
         ]
       }
     },
