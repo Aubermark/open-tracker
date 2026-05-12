@@ -17581,6 +17581,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8092b845-f968-58bc-847f-db34aedf5c70",
+        "address": "5947-Arden-Ave-Highland-CA-92346",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2027,
+        "listed_at": "2026-05-12T00:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234644,
+          34.145879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "80c7f81c-8ecd-5e04-9d3c-f99018b828fa",
         "address": "8271-Moorhaven-Way-Sacramento-CA-95828",
         "beds": 3,
