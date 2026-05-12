@@ -2713,27 +2713,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "13ef8687-abf0-5319-bb26-18068b9faad0",
-        "address": "30497-Iron-Bark-Ct-Temecula-CA-92591",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1197,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "38",
-        "current_price": 580000,
-        "price_label": "$580K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.128454,
-          33.511754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "145755d7-095f-55d5-a701-ffeb82431b5b",
         "address": "25-Camden-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -16399,6 +16378,27 @@
         "coordinates": [
           -80.685451,
           35.227079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76cb63c9-39b3-512f-a74e-0a758b3bb60d",
+        "address": "121-Springtree-Fld-Cibolo-TX-78108",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3521,
+        "listed_at": "2026-05-12T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.256438,
+          29.59345
         ]
       }
     },
