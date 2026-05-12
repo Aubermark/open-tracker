@@ -9349,6 +9349,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4555fc07-dc27-5d23-ac1f-2a48ed82825d",
+        "address": "1519-E-Desert-Ln-Phoenix-AZ-85042",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2346,
+        "listed_at": "2026-05-12T18:10:04.000Z",
+        "days_on_market": "19",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.049941,
+          33.371841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "455f5261-d985-5e25-94df-bac803e81d58",
         "address": "130-White-Acres-Dr-Stockbridge-GA-30281-18115388",
         "beds": 3,
