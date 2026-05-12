@@ -16489,6 +16489,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76f502d0-f3fd-51ee-8ce9-8e954a8c5dc6",
+        "address": "2037-Fairview-Ln-Sanford-NC-27330",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1232,
+        "listed_at": "2026-05-12T20:40:02.000Z",
+        "days_on_market": "36",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.183666,
+          35.506315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "770e548e-ba32-56b1-b718-f46ccadf31d8",
         "address": "9648-Elmira-Cir-Sacramento-CA-95827-18067777",
         "beds": 3,
@@ -28474,6 +28495,27 @@
         "coordinates": [
           -96.268527,
           33.099377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4514c3a-b3db-56f5-841c-229e118fc4b9",
+        "address": "5227-W-Bent-Tree-Dr-Phoenix-AZ-85083",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3153,
+        "listed_at": "2026-05-12T20:40:02.000Z",
+        "days_on_market": "3",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.172499,
+          33.733598
         ]
       }
     },
