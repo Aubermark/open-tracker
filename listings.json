@@ -16825,6 +16825,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "793fe865-b3f6-569c-839a-b80d1b4088b2",
+        "address": "5432-Nuthatch-St-Dallas-TX-75236",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1356,
+        "listed_at": "2026-05-12T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.896548,
+          32.678209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "79829df4-01cb-4082-986e-4e3cb2ebf7c6",
         "address": "1251-N-2525-W-Clearfield-UT-84015",
         "beds": 5,
