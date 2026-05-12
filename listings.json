@@ -928,6 +928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06e21861-5d38-59d2-82a0-a7abe5f9e4f8",
+        "address": "3807-Greenhill-Dr-Atlanta-GA-30341",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-05-12T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.305471,
+          33.90395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
@@ -1846,27 +1867,6 @@
         "coordinates": [
           -82.280889,
           28.315073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0e95b248-4011-5e11-be62-04a09164d657",
-        "address": "17303-Greenbay-Ave-Lansing-IL-60438",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 851,
-        "listed_at": "2026-05-01T16:10:03.000Z",
-        "days_on_market": "43",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.540292,
-          41.580927
         ]
       }
     },
@@ -16111,6 +16111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75c4405b-973b-5cdd-9750-838d04c5c5d6",
+        "address": "10506-Yuha-Desert-Ct-Las-Vegas-NV-89183",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1740,
+        "listed_at": "2026-05-12T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.145381,
+          35.998975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "761f13e7-33be-5705-9b03-ed6199a58886",
         "address": "438-Pinon-Creek-Rd-Se-Albuquerque-NM-87123",
         "beds": 3,
@@ -28642,6 +28663,27 @@
         "coordinates": [
           -83.973196,
           33.862129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d7277f58-89bb-53b4-b505-31fe213a6927",
+        "address": "10919-E-Midnight-Moon-Ln-Tucson-AZ-85747",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1785,
+        "listed_at": "2026-05-12T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.758863,
+          32.151448
         ]
       }
     },
