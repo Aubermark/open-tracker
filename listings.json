@@ -14893,6 +14893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cd97aea-d6c4-5edb-9ead-138944b02e88",
+        "address": "3413-Snowy-Egret-Ct-Palm-Harbor-FL-34683",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1535,
+        "listed_at": "2026-05-12T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.743079,
+          28.101306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cf6ac40-6bb6-5207-a8c6-50bd9feaa7a5",
         "address": "820-Pennington-View-Ln-Alpharetta-GA-30004",
         "beds": 5,
