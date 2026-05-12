@@ -13465,6 +13465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62a359cc-5794-5814-abd8-f64763a1b71f",
+        "address": "11747-Huxley-Rd-Charlotte-NC-28277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1683,
+        "listed_at": "2026-05-12T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.808167,
+          35.04929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "62beb166-685f-5f9d-9816-22fe13709be1",
         "address": "361-Kelly-Bay-Rd-Walterboro-SC-29488",
         "beds": 4,
@@ -15496,27 +15517,6 @@
         "coordinates": [
           -84.256097,
           33.683216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "701a1629-53a3-587e-8827-d6f3e3eecfee",
-        "address": "917-Imperial-Lake-Rd-West-Palm-Beach-FL-33413",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1383,
-        "listed_at": "2026-04-26T20:50:01.000Z",
-        "days_on_market": "16",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.143102,
-          26.69016
         ]
       }
     },
