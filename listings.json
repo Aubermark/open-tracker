@@ -15187,6 +15187,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e9358d5-ca48-5fb6-bf69-71bf306d5550",
+        "address": "1015-Westside-Dr-Winter-Garden-FL-34787",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 938,
+        "listed_at": "2026-05-12T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 224000,
+        "price_label": "$224K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.602392,
+          28.549634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6e9b0a4e-cec6-5b83-bff0-f42d02fdb0b3",
         "address": "7165-Stowe-Cir-Fountain-CO-80817",
         "beds": 5,
