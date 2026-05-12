@@ -22243,6 +22243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2e23fa9-578c-5361-8843-544636b6942a",
+        "address": "7336-Amberly-Hills-Rd-Charlotte-NC-28215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1336,
+        "listed_at": "2026-05-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 348000,
+        "price_label": "$348K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.702794,
+          35.246709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2f0459d-39c7-53eb-94f1-4f63660d9c88",
         "address": "3101-E-Bartlett-Ave-North-Las-Vegas-NV-89030",
         "beds": 3,
@@ -24820,6 +24841,27 @@
         "coordinates": [
           -81.915842,
           41.423898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8a535d0-08f3-52eb-a02c-dab0333309f0",
+        "address": "12341-Willingdon-Rd-Huntersville-NC-28078",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2835,
+        "listed_at": "2026-05-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.830326,
+          35.435922
         ]
       }
     },
