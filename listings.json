@@ -29131,6 +29131,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da262ebc-ac5d-5577-b672-03e16cbff35c",
+        "address": "318-Valley-Stream-Rd-Statesville-NC-28677",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4358,
+        "listed_at": "2026-05-12T19:20:01.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.866362,
+          35.785968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "da2d992f-4326-5460-be45-ee9fe6c6a769",
         "address": "1176-Willow-Hill-Ave-Sacramento-CA-95834",
         "beds": 4,
