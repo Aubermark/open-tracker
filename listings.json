@@ -2188,6 +2188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1081a612-255b-5c31-bd33-01001f8488d7",
+        "address": "1050-Rabon-Pond-Dr-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1561,
+        "listed_at": "2026-05-12T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.929514,
+          34.098628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "110af915-ffd1-5530-9719-1fbc0eb8de73",
         "address": "20192-Southwood-Oaks-Dr-Porter-TX-77365",
         "beds": 4,
