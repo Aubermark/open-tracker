@@ -20563,27 +20563,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "94c5231a-8833-52e6-b038-8e9c2d242a91",
-        "address": "4643-W-Shumway-Farm-Rd-Laveen-AZ-85339",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2007,
-        "listed_at": "2026-05-09T19:58:59.000Z",
-        "days_on_market": "2",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.159301,
-          33.383014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "94d936fb-d639-5fc1-b1b3-eecc9980cf9d",
         "address": "1495-S-Peace-Haven-Rd-Clemmons-NC-27012",
         "beds": 3,
@@ -20935,6 +20914,27 @@
         "coordinates": [
           -95.791615,
           29.836977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "970ce0e7-981d-5235-b3d5-f147be63ddc9",
+        "address": "190-Stroud-Dr-Se-Mableton-GA-30126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1225,
+        "listed_at": "2026-05-12T06:23:08.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.552508,
+          33.795688
         ]
       }
     },
@@ -27535,27 +27535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cd04e1da-4a1e-5eb6-9f9b-227aba60a121",
-        "address": "5133-E-Juana-Ct-Cave-Creek-AZ-85331",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1943,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "76",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.969598,
-          33.745761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cd426834-3788-52b7-aff8-3d95194fe165",
         "address": "6909-Kittery-Ave-Citrus-Heights-CA-95621",
         "beds": 3,
@@ -28243,6 +28222,27 @@
         "coordinates": [
           -98.268157,
           29.774017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d29ae3ba-6fd9-5406-a6b1-ba01033739b0",
+        "address": "3624-Harrogate-Rd-Columbia-SC-29210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1434,
+        "listed_at": "2026-05-12T06:23:08.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14584,
+          34.040377
         ]
       }
     },
