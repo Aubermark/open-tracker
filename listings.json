@@ -10945,6 +10945,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5199ff7d-7fa7-53fa-8837-91fbcc49fc88",
+        "address": "835-Sinclair-Way-Jonesboro-GA-30238",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1568,
+        "listed_at": "2026-05-12T19:30:05.000Z",
+        "days_on_market": "41",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.365269,
+          33.470398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "51b1ac6e-c179-53a4-a253-bac10165f038",
         "address": "1710-Se-33rd-St-Gainesville-FL-32641",
         "beds": 3,
@@ -30847,6 +30868,27 @@
         "coordinates": [
           -121.064033,
           38.623094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e7788c51-db47-54ff-a69c-868e092b815e",
+        "address": "17530-W-Cardinal-Dr-Goodyear-AZ-85338",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1450,
+        "listed_at": "2026-05-12T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.425493,
+          33.352861
         ]
       }
     },
