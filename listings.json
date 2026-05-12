@@ -3385,6 +3385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "178d6567-1610-594b-a27e-752dca5b1bc6",
+        "address": "519-Brentview-Hills-Dr-Nashville-TN-37220",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2844,
+        "listed_at": "2026-05-12T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.758521,
+          36.054087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
         "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
         "beds": 4,
@@ -8671,6 +8692,27 @@
         "coordinates": [
           -78.201447,
           35.954577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40543140-10f8-56c6-96a3-a1864cd7c89e",
+        "address": "165-Vintage-Ranch-Cir-La-Vernia-TX-78121",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2798,
+        "listed_at": "2026-05-12T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.189119,
+          29.276241
         ]
       }
     },
