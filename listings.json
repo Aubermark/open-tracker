@@ -7816,6 +7816,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39342c3d-3369-5df9-b933-2941729cc94f",
+        "address": "7908-W-Deanna-Dr-Peoria-AZ-85382",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1971,
+        "listed_at": "2026-05-13T16:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.229754,
+          33.674211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3968f1d6-dac6-5c5e-a997-d7d771779abc",
         "address": "19-Central-Ave-East-Brunswick-NJ-08816",
         "beds": 4,
