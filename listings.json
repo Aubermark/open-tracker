@@ -16426,6 +16426,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "74b35fb2-bf3a-54e5-aff0-23c6c10cdaf6",
+        "address": "5545-Bowman-Dr-Winter-Garden-FL-34787",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1998,
+        "listed_at": "2026-05-13T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.626444,
+          28.467765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "74d5d25f-83d5-5294-91a7-c7cdcf89cbf4",
         "address": "133-Roadster-Row-Summerville-SC-29483",
         "beds": 4,
