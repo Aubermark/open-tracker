@@ -1075,6 +1075,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07c327e0-fd92-5eea-8394-838cba9373c4",
+        "address": "23626-N-45th-Ave-Glendale-AZ-85310",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1786,
+        "listed_at": "2026-05-13T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.156461,
+          33.700749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
