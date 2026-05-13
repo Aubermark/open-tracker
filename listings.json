@@ -6976,27 +6976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32073d57-2f10-50ec-9ea8-ab3e2583d84e",
-        "address": "5719-Rocbridge-Ln-Charlotte-NC-28208",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1569,
-        "listed_at": "2026-03-26T01:20:05.000Z",
-        "days_on_market": ">80",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.921382,
-          35.250789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32637fa7-1303-5f94-b682-794c91f491ed",
         "address": "3499-Fm-1564-E-Greenville-TX-75402",
         "beds": 4,
@@ -24406,6 +24385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae2cfaed-899c-5f2b-a53b-4a9c20338e2d",
+        "address": "8473-Grand-Peak-Vista-Pt-Colorado-Springs-CO-80920",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2898,
+        "listed_at": "2026-05-13T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.738424,
+          38.953997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae48686a-379f-5da3-9c69-c6ec4b36c859",
         "address": "212-Congaree-River-Dr-Summerville-SC-29485",
         "beds": 3,
@@ -24883,6 +24883,27 @@
         "coordinates": [
           -80.903354,
           33.960805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b14878e2-2803-5727-98c5-8edda1f49674",
+        "address": "2972-Royal-Tuscan-Ln-Valrico-FL-33594",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1573,
+        "listed_at": "2026-05-13T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.234297,
+          27.941341
         ]
       }
     },
