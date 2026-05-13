@@ -9370,27 +9370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4349223d-8575-5784-9cda-8dd915d962a2",
-        "address": "2155-Airdale-Rd-Lancaster-SC-29720",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1075,
-        "listed_at": "2026-04-16T18:10:08.000Z",
-        "days_on_market": "27",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.778459,
-          34.772497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "43763082-dfae-538d-be3b-c1e5e5235bd3",
         "address": "75-Millet-Way-Saint-Augustine-FL-32084",
         "beds": 4,
@@ -12493,6 +12472,27 @@
         "coordinates": [
           -95.373222,
           29.477538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5ab4e498-6430-5392-bb19-d5ec830320fa",
+        "address": "911-New-York-St-Edgewater-FL-32132",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 875,
+        "listed_at": "2026-05-13T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90234,
+          28.984795
         ]
       }
     },
@@ -16105,27 +16105,6 @@
         "coordinates": [
           -86.36093,
           39.81677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "71ca54cd-7e05-5ab7-b156-3746625694e1",
-        "address": "1729-S-Desert-View-Pl-Apache-Junction-AZ-85120",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1833,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "21",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.573523,
-          33.399525
         ]
       }
     },
@@ -28117,6 +28096,27 @@
         "coordinates": [
           -86.081697,
           39.830799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc56cc64-0bd0-5d55-b55e-f7708f049b94",
+        "address": "9445-Sleepy-Hollow-Ln-Jonesboro-GA-30238",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1500,
+        "listed_at": "2026-05-13T17:20:02.000Z",
+        "days_on_market": "72",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.401768,
+          33.497963
         ]
       }
     },
