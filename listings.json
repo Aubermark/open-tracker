@@ -1264,27 +1264,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "09116488-bedd-58b0-9a80-e96098649dda",
-        "address": "161-Royalton-Rd-Mooresville-NC-28115",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2336,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "61",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.786352,
-          35.538809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0929628e-6a4e-5f2e-b4cd-11f4ce15e39b",
         "address": "2824-Saint-Bernard-Dr-Dallas-TX-75233",
         "beds": 4,
@@ -4219,6 +4198,27 @@
         "coordinates": [
           -93.140719,
           44.623628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1e49dbde-924f-57c7-8384-984dd3f320f8",
+        "address": "2054-Willowdale-Ct-Mount-Pleasant-SC-29466",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1936,
+        "listed_at": "2026-05-13T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.815061,
+          32.826341
         ]
       }
     },
@@ -19345,27 +19345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "89397fdf-6730-5f1a-8e6a-b2216dd22d84",
-        "address": "569-Lodge-Dr-Saint-Louis-MO-63126",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2612,
-        "listed_at": "2026-05-11T23:00:02.000Z",
-        "days_on_market": "2",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.394601,
-          38.55775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "894b9faa-8434-5d72-8c7f-f3733cb2e90c",
         "address": "8124-Bock-Farm-Pl-Alexandria-VA-22306",
         "beds": 4,
@@ -24085,27 +24064,6 @@
         "coordinates": [
           -86.651561,
           33.621175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac89d8f5-1cc1-5540-b221-f81d4269809e",
-        "address": "6620-S-48th-Ln-Laveen-AZ-85339",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2762,
-        "listed_at": "2026-05-11T22:30:05.000Z",
-        "days_on_market": "8",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.163649,
-          33.385901
         ]
       }
     },
