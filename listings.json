@@ -22894,6 +22894,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a28e719f-72d9-508b-995b-1f748db6b27a",
+        "address": "22039-Sw-Bushong-Ter-Sherwood-OR-97140",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1858,
+        "listed_at": "2026-05-13T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 597000,
+        "price_label": "$597K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.865098,
+          45.359949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2b433f3-662c-5058-8715-bb9725a2666c",
         "address": "1001-Windy-Dr-Brenham-TX-77833",
         "beds": 3,
