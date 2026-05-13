@@ -949,27 +949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "06e21861-5d38-59d2-82a0-a7abe5f9e4f8",
-        "address": "3807-Greenhill-Dr-Atlanta-GA-30341",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1746,
-        "listed_at": "2026-05-12T16:10:02.000Z",
-        "days_on_market": "1",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.305471,
-          33.90395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
@@ -6508,6 +6487,27 @@
         "coordinates": [
           -90.651745,
           38.320427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ed2775a-9ed7-5e15-b29f-a8387936a9b9",
+        "address": "438-N-Ash-Mesa-AZ-85201",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1793,
+        "listed_at": "2026-05-13T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.866919,
+          33.423192
         ]
       }
     },
@@ -32884,6 +32884,27 @@
         "coordinates": [
           -81.12923,
           35.502508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef5d2ea4-a7a2-5e81-aa3b-34bf99ea298f",
+        "address": "227-Park-Place-Ct-Avon-IN-46123",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1410,
+        "listed_at": "2026-05-13T18:30:05.000Z",
+        "days_on_market": "48",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.394107,
+          39.766303
         ]
       }
     },
