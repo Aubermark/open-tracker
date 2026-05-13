@@ -1684,6 +1684,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c2c4433-d072-5cd7-bec1-53f81fcaa572",
+        "address": "2035-S-227th-Ave-Buckeye-AZ-85326",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1940,
+        "listed_at": "2026-05-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.540016,
+          33.427417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
         "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
         "beds": 4,
@@ -8566,6 +8587,27 @@
         "coordinates": [
           -78.605173,
           35.85565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d48ba92-c76e-5864-aeb5-09b0cae93936",
+        "address": "7901-Bell-Dr-Port-Richey-FL-34668",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1310,
+        "listed_at": "2026-05-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68439,
+          28.32809
         ]
       }
     },
@@ -29860,27 +29902,6 @@
         "coordinates": [
           -81.00183,
           32.233804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
-        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1069,
-        "listed_at": "2026-04-23T18:20:02.000Z",
-        "days_on_market": ">80",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.200266,
-          33.786085
         ]
       }
     },
