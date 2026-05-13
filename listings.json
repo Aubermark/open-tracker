@@ -6514,6 +6514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ef9a83a-09f8-5a16-8266-c1e99cae23bc",
+        "address": "160-Aden-Dr-Strasburg-VA-22657",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3576,
+        "listed_at": "2026-05-13T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.342586,
+          39.001324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f242134-8833-5318-8ee9-e240bb985641",
         "address": "14624-W-Blackwood-Dr-Sun-City-West-AZ-85375",
         "beds": 2,
@@ -10834,27 +10855,6 @@
         "coordinates": [
           -84.241842,
           34.124979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4e496f66-1632-514e-bc43-ca737566b231",
-        "address": "17409-Mapleboro-Ave-Maple-Heights-OH-44137",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1022,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">80",
-        "current_price": 141000,
-        "price_label": "$141K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.55767,
-          41.413937
         ]
       }
     },
