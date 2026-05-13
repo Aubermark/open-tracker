@@ -13948,27 +13948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "63bc0faa-f238-50be-863e-e0fefbb67df2",
-        "address": "4555-Rosser-Loop-Dr-Bessemer-AL-35022",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1466,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": ">80",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.987687,
-          33.348319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "63ec17bc-0987-5e5c-b3bb-e8363761b8a9",
         "address": "41977-W-Lunar-St-Maricopa-AZ-85138",
         "beds": 4,
@@ -17617,6 +17596,27 @@
         "coordinates": [
           -97.559566,
           35.601442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7bf84782-30ab-5531-bd6d-523a69306f3c",
+        "address": "5737-Rosecroft-Ct-Rancho-Cucamonga-CA-91739",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3112,
+        "listed_at": "2026-05-13T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1200000,
+        "price_label": "$1.200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.532523,
+          34.149716
         ]
       }
     },
@@ -25849,6 +25849,27 @@
         "coordinates": [
           -78.630534,
           36.024068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9fe3a12-1d07-5633-85ac-d16c8dd714c6",
+        "address": "6288-Fence-Row-Ln-Canal-Winchester-OH-43110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2472,
+        "listed_at": "2026-05-13T20:30:02.000Z",
+        "days_on_market": "76",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83066,
+          39.910906
         ]
       }
     },
