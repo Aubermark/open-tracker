@@ -14914,6 +14914,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6aa2f62c-2928-56be-b08e-ce5036262b4f",
+        "address": "712-Fleetrun-Ave-Columbus-OH-43230",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2058,
+        "listed_at": "2026-05-13T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.856538,
+          40.015406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ac17c0a-1e65-5578-b4a1-ef1fb6b3995b",
         "address": "1634-Singing-Sands-Ave-Henderson-NV-89014",
         "beds": 4,
