@@ -844,27 +844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "05b11cdb-70c4-5653-9807-f4a67f9efc89",
-        "address": "12437-Field-Point-Way-Spring-Hill-FL-34610",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2385,
-        "listed_at": "2026-04-17T06:50:03.000Z",
-        "days_on_market": "27",
-        "current_price": 358000,
-        "price_label": "$358K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.558261,
-          28.338737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "05c63364-238a-5a18-9036-add78aa9cc87",
         "address": "1151-Ashland-Dr-Columbia-SC-29229",
         "beds": 4,
@@ -7459,27 +7438,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
-        "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1464,
-        "listed_at": "2026-05-07T22:40:02.000Z",
-        "days_on_market": "44",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.931657,
-          33.970381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3594b6b4-106a-57eb-97e3-8295636eb87b",
         "address": "1502-Allen-Dr-Cedar-Hill-TX-75104",
         "beds": 3,
@@ -10771,6 +10729,27 @@
         "coordinates": [
           -80.051753,
           26.613063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4dc25f65-85db-5fee-a8fe-6d3f8d575930",
+        "address": "504-Welshcrest-Ct-Antioch-TN-37013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1622,
+        "listed_at": "2026-05-13T18:50:07.000Z",
+        "days_on_market": "9",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.649156,
+          36.068987
         ]
       }
     },
@@ -16399,27 +16378,6 @@
         "coordinates": [
           -98.50545,
           29.693235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "74189408-1d77-57ab-a0aa-8b71f5a2876c",
-        "address": "208-Green-Cedar-Dr-League-City-TX-77573",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1680,
-        "listed_at": "2026-05-07T22:00:04.000Z",
-        "days_on_market": "6",
-        "current_price": 323000,
-        "price_label": "$323K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.13085,
-          29.497274
         ]
       }
     },
@@ -35173,6 +35131,27 @@
         "coordinates": [
           -82.083111,
           35.036722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff0aec4f-4228-5553-87ae-c635ad2dae2e",
+        "address": "709-Hummingbird-Ln-Leander-TX-78641",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2719,
+        "listed_at": "2026-05-13T18:50:07.000Z",
+        "days_on_market": ">80",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.875413,
+          30.631073
         ]
       }
     },
