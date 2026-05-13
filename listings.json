@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4163ac53-1859-512a-b291-585a64f6f1c3",
+        "address": "6586-Dolian-Creek-St-Las-Vegas-NV-89148",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2037,
+        "listed_at": "2026-05-13T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 512000,
+        "price_label": "$512K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.309859,
+          36.068741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41752c88-7cc4-5741-a7dc-2028741c2282",
         "address": "5646-Apple-Grove-Rd-Buford-GA-30519",
         "beds": 4,
@@ -27277,6 +27298,27 @@
         "coordinates": [
           -97.667962,
           31.048605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c7189558-ffe7-524b-a06f-89d988aebefd",
+        "address": "5447-Blueberry-Dr-Orlando-FL-32811",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1165,
+        "listed_at": "2026-05-13T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.453966,
+          28.532033
         ]
       }
     },
