@@ -8866,6 +8866,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fd39ce6-98f8-5259-861a-1cddba6bbb1d",
+        "address": "134-Springway-Dr-Kannapolis-NC-28081",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3240,
+        "listed_at": "2026-05-13T13:00:02.000Z",
+        "days_on_market": "8",
+        "current_price": 517000,
+        "price_label": "$517K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.625527,
+          35.457154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "402eb0b1-af66-5796-abca-65376d3638fd",
         "address": "210-Littlebrook-Dr-Fairfield-OH-45014-17852130",
         "beds": 3,
