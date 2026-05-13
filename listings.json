@@ -2629,27 +2629,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "13081871-4327-548f-9e9e-b405906a7082",
-        "address": "104-Olmstead-Ct-Garner-NC-27529",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2300,
-        "listed_at": "2026-05-09T19:58:59.000Z",
-        "days_on_market": "4",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.640723,
-          35.689706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "13095870-d94c-5ab4-878f-faf31aaea0ca",
         "address": "5550-Regimental-Pl-Cincinnati-OH-45239",
         "beds": 2,
@@ -4135,6 +4114,27 @@
         "coordinates": [
           -86.472841,
           35.891886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1d6a8739-c5a5-5981-bafd-9531945370bb",
+        "address": "106-Woodfield-Ln-Cherryville-NC-28021",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1841,
+        "listed_at": "2026-05-13T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45584,
+          35.316061
         ]
       }
     },
@@ -12724,6 +12724,27 @@
         "coordinates": [
           -104.658416,
           38.944717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5c173d3b-1e43-5012-b36d-00325405084e",
+        "address": "1057-Antigua-Cir-Pensacola-FL-32506",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1354,
+        "listed_at": "2026-05-13T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.350607,
+          30.376501
         ]
       }
     },
