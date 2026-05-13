@@ -17308,6 +17308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79387ea8-d8bb-50bd-8d12-f99041c79fc9",
+        "address": "2779-Island-Point-Dr-Nw-Concord-NC-28027",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1856,
+        "listed_at": "2026-05-13T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.689904,
+          35.377033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "793fe865-b3f6-569c-839a-b80d1b4088b2",
         "address": "5432-Nuthatch-St-Dallas-TX-75236",
         "beds": 3,
