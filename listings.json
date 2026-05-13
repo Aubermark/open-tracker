@@ -34864,6 +34864,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fdf91a4e-bd80-5753-8bcd-80835131bfa6",
+        "address": "5704-Woodard-St-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1195,
+        "listed_at": "2026-05-13T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.809987,
+          35.310563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe2b8cd5-c1fc-51fd-a434-9de13813b0af",
         "address": "4455-Meadow-Valley-Cir-Fairfield-CA-94534",
         "beds": 3,
