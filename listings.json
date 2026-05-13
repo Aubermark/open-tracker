@@ -3028,27 +3028,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "15b5d677-344d-51d8-826a-760d23bb168f",
-        "address": "16818-Desert-Willow-St-Victorville-CA-92394",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2916,
-        "listed_at": "2026-05-05T17:30:02.000Z",
-        "days_on_market": ">80",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.319571,
-          34.554905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "15b6c9f1-44da-5c08-99eb-0656513ef3c7",
         "address": "11106-Brush-Hollow-Rd-Matthews-NC-28105",
         "beds": 4,
@@ -6115,6 +6094,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c296dcb-71d7-5ab4-a55f-81ba9a9aed14",
+        "address": "7296-Candlestone-Dr-Reynoldsburg-OH-43068-18174700",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1248,
+        "listed_at": "2026-05-13T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.804424,
+          39.915269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c2980f1-e0e1-54aa-9e0c-fabe0c879b0a",
         "address": "890-Morgan-Towne-Way-Venice-FL-34292",
         "beds": 4,
@@ -7033,6 +7033,27 @@
         "coordinates": [
           -78.751692,
           35.572997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "32d6a159-351b-5163-a0bc-372ff9b829d8",
+        "address": "2219-Rolling-Oak-Dr-Indianapolis-IN-46214",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1928,
+        "listed_at": "2026-05-13T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.298448,
+          39.795846
         ]
       }
     },
