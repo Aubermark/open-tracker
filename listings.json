@@ -2125,27 +2125,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0f3910a0-0aeb-52e4-a2bf-b9729d819609",
-        "address": "9236-Mark-Twain-Ln-Port-Richey-FL-34668",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 884,
-        "listed_at": "2026-05-11T16:10:04.000Z",
-        "days_on_market": "2",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.684236,
-          28.291951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0f3b726c-4fb0-52fe-89e7-b333563937b7",
         "address": "4467-Woodlark-Ln-Charlotte-NC-28211",
         "beds": 5,
@@ -4156,6 +4135,27 @@
         "coordinates": [
           -80.411725,
           27.289674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1d9f9d28-1461-5e1d-89b3-7fe158c8b2df",
+        "address": "4700-Charlottesville-Rd-Greensboro-NC-27410",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2744,
+        "listed_at": "2026-05-13T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 546000,
+        "price_label": "$546K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.868582,
+          36.097454
         ]
       }
     },
@@ -12772,27 +12772,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5c173d3b-1e43-5012-b36d-00325405084e",
-        "address": "1057-Antigua-Cir-Pensacola-FL-32506",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1354,
-        "listed_at": "2026-05-13T17:10:02.000Z",
-        "days_on_market": "0",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.350607,
-          30.376501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5c56cef6-04f3-5703-ba38-0d36475faf2a",
         "address": "19500-Morgana-Dr-Pflugerville-TX-78660",
         "beds": 4,
@@ -14551,6 +14530,27 @@
         "coordinates": [
           -85.175727,
           34.908035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "67f0ae82-4c7d-57f7-9fe6-814a3c21fb7c",
+        "address": "4870-Conough-Ln-Las-Vegas-NV-89149",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3611,
+        "listed_at": "2026-05-13T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 940000,
+        "price_label": "$940K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.264141,
+          36.249328
         ]
       }
     },
@@ -16441,27 +16441,6 @@
         "coordinates": [
           -105.090952,
           39.557174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "742c14f5-9620-5f15-9e55-67d1045f3dbc",
-        "address": "510-Wicklow-Dr-Manchester-MO-63021",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1660,
-        "listed_at": "2026-05-13T14:50:02.000Z",
-        "days_on_market": "40",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.520791,
-          38.584443
         ]
       }
     },
