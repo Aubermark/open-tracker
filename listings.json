@@ -25414,6 +25414,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6eff024-0d1d-5cc6-8f50-6e7b007c6e25",
+        "address": "104-Frontier-Ln-La-Vergne-TN-37086-12052073",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 925,
+        "listed_at": "2026-05-13T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.540218,
+          36.046115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b7322253-eae0-5d93-b167-da1bc7c10199",
         "address": "4703-W-Hoha-Ln-Tucson-AZ-85741",
         "beds": 3,
@@ -34396,27 +34417,6 @@
         "coordinates": [
           -121.9435,
           38.00705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa220e95-7f70-5073-85a2-d9ad30fa5fe6",
-        "address": "17517-W-Ventura-St-Surprise-AZ-85388",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1454,
-        "listed_at": "2026-04-23T01:40:02.000Z",
-        "days_on_market": ">80",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.435932,
-          33.612067
         ]
       }
     },
