@@ -17161,6 +17161,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78a48d78-319d-58c6-a649-58c6983d645c",
+        "address": "18513-Se-Stephens-St-Portland-OR-97233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 993,
+        "listed_at": "2026-05-13T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.472144,
+          45.509301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78b8cad1-81db-5749-bb67-f1ac2e85de40",
         "address": "13824-Langston-Lake-Rd-Fort-Worth-TX-76262",
         "beds": 4,
