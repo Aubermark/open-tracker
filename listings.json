@@ -15775,6 +15775,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6fae7e3b-2bab-5c46-a868-68389eba7a57",
+        "address": "524-N-Riley-Ave-Indianapolis-IN-46201",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1542,
+        "listed_at": "2026-05-13T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.086625,
+          39.775486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6fc7551c-7626-527c-8b81-039d2f79f335",
         "address": "9500-N-Albatross-Dr-Tucson-AZ-85742",
         "beds": 3,
