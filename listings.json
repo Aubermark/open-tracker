@@ -12772,6 +12772,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c326645-47c6-5361-b96e-f6bc6cbc3809",
+        "address": "11318-Brendel-Ln-Corpus-Christi-TX-78410",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1844,
+        "listed_at": "2026-05-13T22:00:02.000Z",
+        "days_on_market": "9",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.592892,
+          27.843438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c56cef6-04f3-5703-ba38-0d36475faf2a",
         "address": "19500-Morgana-Dr-Pflugerville-TX-78660",
         "beds": 4,
