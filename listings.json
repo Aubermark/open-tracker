@@ -26233,6 +26233,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcff6920-7551-44f7-898b-05a868170857",
+        "address": "1402-Martin-Luther-King-Ave-Kannapolis-NC-28083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1252,
+        "listed_at": "2026-05-13T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.601847,
+          35.488728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bd31048e-d863-516d-b85a-915c9d0b1d8f",
         "address": "5410-Vagas-Dr-Rowlett-TX-75088",
         "beds": 3,
