@@ -20080,27 +20080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f0dc327-d24e-41ef-afbf-7a330de625cf",
-        "address": "16896-Whispering-Pnes-Athens-AL-35611",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2226,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "65",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.003914,
-          34.803997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8f49730c-24cd-5e6d-8669-72a358d04e0c",
         "address": "643-N-Catalina-Ave-Tucson-AZ-85711",
         "beds": 2,
@@ -20368,6 +20347,27 @@
         "coordinates": [
           -84.123402,
           34.024151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90fca9a5-5d27-5b22-bc8d-746e737ea543",
+        "address": "2-Afton-Pl-Durham-NC-27703",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1848,
+        "listed_at": "2026-05-13T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.814642,
+          35.969213
         ]
       }
     },
@@ -31078,6 +31078,27 @@
         "coordinates": [
           -81.315253,
           28.520158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4e98b34-83e3-46a2-9326-41a02939ff04",
+        "address": "16896-Whispering-Pnes-Athens-AL-35611",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2226,
+        "listed_at": "2026-05-13T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.003914,
+          34.803997
         ]
       }
     },
