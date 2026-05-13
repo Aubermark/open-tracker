@@ -26359,6 +26359,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bded693c-b0c6-52a0-bcdf-a84d2d3b2bb6",
+        "address": "4617-Deal-Dr-Fort-Worth-TX-76135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1873,
+        "listed_at": "2026-05-13T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.43138,
+          32.8229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bdf7ad5d-72f4-48ae-b571-d088c67f41a8",
         "address": "2682-N-Broad-Street-Ext-Ne-Rome-GA-30161",
         "beds": 3,
