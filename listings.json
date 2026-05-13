@@ -5107,6 +5107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25658a15-d2e4-5407-83ab-2900d75cbf46",
+        "address": "1440-Tina-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2295,
+        "listed_at": "2026-05-13T18:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.279913,
+          38.798618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25918895-3298-502e-83a2-f36de8b58e3d",
         "address": "1608-Wickham-Dr-Burleson-TX-76028",
         "beds": 3,
@@ -8713,6 +8734,27 @@
         "coordinates": [
           -94.557353,
           39.315149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3de27b45-f208-5125-927c-cfd69245a29e",
+        "address": "3216-Bonassola-Ave-North-Las-Vegas-NV-89031",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3720,
+        "listed_at": "2026-05-13T18:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.183612,
+          36.274524
         ]
       }
     },
