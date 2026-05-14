@@ -14305,6 +14305,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63702f82-f25c-557c-9f54-b91ae905e928",
+        "address": "2631-Alabaster-Ave-Orlando-FL-32833",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1716,
+        "listed_at": "2026-05-14T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.067454,
+          28.508231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "638613bd-0bc6-5f17-b7a0-43fc2559ae20",
         "address": "249-Hollingsworth-Ln-Lexington-SC-29072",
         "beds": 3,
@@ -34354,6 +34375,27 @@
         "coordinates": [
           -98.687269,
           29.442047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2c02836-6c29-5e1a-8cb5-3682f04c0a11",
+        "address": "535-Amquiwood-Ct-Madison-TN-37115",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1264,
+        "listed_at": "2026-05-14T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.718554,
+          36.27416
         ]
       }
     },
