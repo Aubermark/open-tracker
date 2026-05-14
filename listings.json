@@ -18022,6 +18022,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7cbd51ea-df64-477a-b933-1020f8d441bd",
+        "address": "159-Newcastle-Ct-Raeford-NC-28376",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2433,
+        "listed_at": "2026-05-14T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.058643,
+          34.972005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dd55e82-0555-4cff-9f55-c7203a6cf94a",
         "address": "4234-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
@@ -22552,6 +22573,27 @@
         "coordinates": [
           -82.474977,
           27.599133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9ecaa62d-430a-5d75-9066-4cb291c00da6",
+        "address": "1588-Vizcaya-Ln-Naples-FL-34113",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3234,
+        "listed_at": "2026-05-14T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1365000,
+        "price_label": "$1.365M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.720535,
+          26.053469
         ]
       }
     },
@@ -33304,6 +33346,27 @@
         "coordinates": [
           -80.666857,
           35.167784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eefa41df-e632-5f5e-b0d4-2670eef9f4b6",
+        "address": "10742-W-Prickly-Pear-Trl-Peoria-AZ-85383",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3306,
+        "listed_at": "2026-05-14T18:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.286486,
+          33.719297
         ]
       }
     },
