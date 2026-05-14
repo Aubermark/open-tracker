@@ -28039,6 +28039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6a4500b-a6c6-50d4-b228-fbbd36c35b62",
+        "address": "718-Blue-Jay-Rd-Big-Bear-Lake-CA-92315",
+        "beds": 1,
+        "baths": 3,
+        "sqft": 1320,
+        "listed_at": "2026-05-14T22:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.948172,
+          34.239856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6d32ad3-2abd-5568-a063-d7bcd614667d",
         "address": "4400-Ivy-Fork-Dr-Loganville-GA-30052",
         "beds": 4,
@@ -31435,27 +31456,6 @@
         "coordinates": [
           -84.100193,
           33.329143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ded41979-511d-5f87-b771-6e2ef6eb9608",
-        "address": "3008-Creekview-Ln-Goodlettsville-TN-37072",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1872,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "77",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.725169,
-          36.375028
         ]
       }
     },
@@ -35047,6 +35047,27 @@
         "coordinates": [
           -85.0184,
           33.980111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f80f89a5-ced2-5ae2-8d3b-f03861fed9c1",
+        "address": "12209-Willingdon-Rd-Huntersville-NC-28078",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3252,
+        "listed_at": "2026-05-14T22:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 735000,
+        "price_label": "$735K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.829879,
+          35.433382
         ]
       }
     },
