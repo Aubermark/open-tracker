@@ -3070,27 +3070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "15e17643-ec02-5c09-bf3a-751cfba5681b",
-        "address": "7779-Harthill-Park-Ave-Las-Vegas-NV-89113",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2701,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "32",
-        "current_price": 570000,
-        "price_label": "$570K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.254613,
-          36.082418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "15f96fe0-407e-521a-bf50-387dc4e98ab5",
         "address": "3628-Riverhead-Dr-Arlington-TX-76015",
         "beds": 3,
@@ -25960,6 +25939,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "baf1b264-9f21-523c-b091-b502e06f1329",
+        "address": "702-Ranch-Mountain-Dr-Dahlonega-GA-30533",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2436,
+        "listed_at": "2026-05-14T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 755000,
+        "price_label": "$755K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.955773,
+          34.620396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb1c57c3-5262-53b9-8a5f-11ebd5cc0c7b",
         "address": "318-Aberdeen-Cir-Summerville-SC-29483",
         "beds": 4,
@@ -28831,6 +28831,27 @@
         "coordinates": [
           -97.422232,
           32.619561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0791a1f-ae8b-5a09-9b65-cd8e6eaea345",
+        "address": "10845-Gregory-Ln-North-Royalton-OH-44133",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1460,
+        "listed_at": "2026-05-14T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.766993,
+          41.340519
         ]
       }
     },
