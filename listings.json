@@ -23041,27 +23041,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a3a6dea9-2ca9-5b0b-91c9-9b1ac421e4e8",
-        "address": "581-Braxton-Blvd-Fayetteville-NC-28311",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1265,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">81",
-        "current_price": 167000,
-        "price_label": "$167K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.915798,
-          35.153207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a3ac8bd8-f7d8-5d9f-b91b-dd130b956e37",
         "address": "302-A-Ensley-Ave-Old-Hickory-TN-37138",
         "beds": 3,
@@ -27004,6 +26983,27 @@
         "coordinates": [
           -95.713703,
           29.812458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c276d3f1-4b9f-5248-a286-e1ba65bd7765",
+        "address": "6611-E-Julia-St-Tucson-AZ-85710",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1526,
+        "listed_at": "2026-05-14T16:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.85146,
+          32.216599
         ]
       }
     },
@@ -34354,27 +34354,6 @@
         "coordinates": [
           -80.432717,
           35.263494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f7ab9205-91d2-5235-a3c0-7c94debabc27",
-        "address": "300-Majesty-Dr-Rockmart-GA-30153",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1281,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">81",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.013694,
-          33.871107
         ]
       }
     },
