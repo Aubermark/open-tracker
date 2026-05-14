@@ -9643,6 +9643,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "438d0098-6927-55ab-9856-5c5094cf0900",
+        "address": "14734-Yosemite-Ave-S-Savage-MN-55378",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2056,
+        "listed_at": "2026-05-14T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.353539,
+          44.737867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43a968aa-749c-5fc5-b81f-9a820f329f09",
         "address": "1303-Farm-Branch-Dr-Sw-Concord-NC-28027",
         "beds": 3,
@@ -14236,6 +14257,27 @@
         "coordinates": [
           -112.018705,
           33.037217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "640211f3-7b8a-4fd4-aa7f-d41ac331dd8b",
+        "address": "4510-Penkert-Pl-Lakeland-FL-33811",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2712,
+        "listed_at": "2026-05-14T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.053826,
+          27.980435
         ]
       }
     },
