@@ -3427,6 +3427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17d51b8e-536a-53bb-bba4-9dc4dab3e474",
+        "address": "3440-Coach-Lantern-Ave-Wake-Forest-NC-27587",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3119,
+        "listed_at": "2026-05-14T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.519305,
+          35.915435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
         "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
         "beds": 4,
@@ -7558,6 +7579,27 @@
         "coordinates": [
           -87.317461,
           30.379794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "36196099-a195-5b8b-a1d7-3965b729e6b5",
+        "address": "1067-E-Lyle-Canyon-Dr-Sahuarita-AZ-85629",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1131,
+        "listed_at": "2026-05-14T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.963714,
+          31.870691
         ]
       }
     },
@@ -12682,6 +12724,27 @@
         "coordinates": [
           -84.594518,
           34.162309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5bc800ec-2c20-5fa5-956b-14752a3019df",
+        "address": "149-Angel-Garden-Way-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-05-14T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 214000,
+        "price_label": "$214K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945798,
+          34.059874
         ]
       }
     },
@@ -33955,27 +34018,6 @@
         "coordinates": [
           -84.288219,
           33.960454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f660567c-6df9-5378-8331-db58d63a0217",
-        "address": "114-Tannin-Ct-Dallas-GA-30132",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2212,
-        "listed_at": "2026-04-22T14:40:02.000Z",
-        "days_on_market": "44",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.826382,
-          33.971753
         ]
       }
     },
