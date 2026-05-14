@@ -2587,6 +2587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12944bdf-3ced-5371-98da-2df1880ef29e",
+        "address": "1555-Rose-Pointe-Dr-Loganville-GA-30052",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2877,
+        "listed_at": "2026-05-14T15:40:03.000Z",
+        "days_on_market": "14",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.958582,
+          33.836034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12ba21b8-28ad-54d8-b5ec-546548640000",
         "address": "7132-Teaberry-Ct-Ooltewah-TN-37363",
         "beds": 4,
@@ -28522,6 +28543,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce1e2622-8802-5731-a0c5-120ecaab33ce",
+        "address": "5753-Fm-36-S-Quinlan-TX-75474",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2790,
+        "listed_at": "2026-05-14T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 507000,
+        "price_label": "$507K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.174298,
+          32.977566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce66e06b-3bf5-50f7-b998-0487383846ee",
         "address": "101-Thomaston-St-Newnan-GA-30263",
         "beds": 4,
@@ -33766,6 +33808,27 @@
         "coordinates": [
           -84.539669,
           33.882155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f47a4b1f-5f82-5c4b-b098-a46dd777c66a",
+        "address": "671-Scarlet-Baby-Dr-Blythewood-SC-29016",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2730,
+        "listed_at": "2026-05-14T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.006854,
+          34.239949
         ]
       }
     },
