@@ -7837,6 +7837,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "38c2dfe6-2419-591c-b405-a7f497c506e5",
+        "address": "2350-Heritage-Park-Cir-Nw-Kennesaw-GA-30144-18001918",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1595,
+        "listed_at": "2026-05-14T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.561805,
+          34.009991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39050b98-2fdf-526e-84b7-00ba9ea8d2da",
         "address": "6247-Ellenwood-Dr-Rex-GA-30273",
         "beds": 3,
