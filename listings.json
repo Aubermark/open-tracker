@@ -970,6 +970,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
+        "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1605,
+        "listed_at": "2026-05-14T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.183191,
+          33.414923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
         "address": "123-King-Richard-Dr-Griffin-GA-30223",
         "beds": 4,
