@@ -2335,6 +2335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10ba0022-3493-5021-9c30-cbeeaf82f8c3",
+        "address": "1985-Capri-Dr-Decatur-GA-30032",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1614,
+        "listed_at": "2026-05-14T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 342000,
+        "price_label": "$342K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309102,
+          33.724508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "110af915-ffd1-5530-9719-1fbc0eb8de73",
         "address": "20192-Southwood-Oaks-Dr-Porter-TX-77365",
         "beds": 4,
@@ -10855,6 +10876,27 @@
         "coordinates": [
           -80.886904,
           34.143899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4c7f4784-c43b-5c5e-b133-aaa6d3923cc9",
+        "address": "2916-Pinewood-Hill-Dr-Matthews-NC-28105",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2254,
+        "listed_at": "2026-05-14T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 501000,
+        "price_label": "$501K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.701158,
+          35.137143
         ]
       }
     },
