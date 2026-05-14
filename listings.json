@@ -697,6 +697,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "049e5da8-eccd-5b8e-b519-94dfddbfadbf",
+        "address": "1214-Ileagnes-Rd-Raleigh-NC-27603",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2801,
+        "listed_at": "2026-05-14T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654588,
+          35.736767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "049e873e-c081-5616-b9a5-2372d880ff50",
         "address": "511-Bridle-Way-Hopkinsville-KY-42240",
         "beds": 3,
@@ -26647,6 +26668,27 @@
         "coordinates": [
           -80.855829,
           35.319976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf74e4ab-b6f3-51e6-8350-f6be17ab6a8e",
+        "address": "8122-Elktree-Pass-San-Antonio-TX-78254",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2144,
+        "listed_at": "2026-05-14T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.701527,
+          29.51545
         ]
       }
     },
