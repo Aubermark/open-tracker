@@ -14620,27 +14620,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "662a9163-1c99-55b9-9a53-ed52bacb0522",
-        "address": "133-Stowe-Ct-Fox-Lake-IL-60020",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2479,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "30",
-        "current_price": 540000,
-        "price_label": "$540K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.159531,
-          42.353252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66362bf3-3b16-55cd-8a4d-e104ff9eb757",
         "address": "3523-Berkshire-St-New-Port-Richey-FL-34652",
         "beds": 2,
@@ -24322,6 +24301,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aacdab6c-551d-517c-965e-0a1e24ea0e10",
+        "address": "8409-Aztec-Dawn-Ct-Raleigh-NC-27613",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1442,
+        "listed_at": "2026-05-14T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.735452,
+          35.890737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aad32c66-944e-571f-a0bd-d77162dc6922",
         "address": "1217-Ashley-Dr-Weatherford-TX-76087",
         "beds": 4,
@@ -25408,6 +25408,27 @@
         "coordinates": [
           -86.048461,
           39.655186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b1d217da-e895-5f7e-a59b-ccd8c70d0e9c",
+        "address": "2214-Nightgrove-Cir-Crandall-TX-75114",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-05-14T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.436312,
+          32.650572
         ]
       }
     },
@@ -26605,6 +26626,27 @@
         "coordinates": [
           -97.237341,
           33.116898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbf73dd9-1f38-492d-bae4-2d342d824f6e",
+        "address": "4242-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1052,
+        "listed_at": "2026-05-14T20:40:02.000Z",
+        "days_on_market": "64",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.065506,
+          36.23731
         ]
       }
     },
