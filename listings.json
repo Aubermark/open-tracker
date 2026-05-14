@@ -1726,6 +1726,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ce3c2bd-5afc-5390-bfd5-01c0011050dd",
+        "address": "17667-E-Chevelon-Canyon-Cir-Rio-Verde-AZ-85263",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1679,
+        "listed_at": "2026-05-14T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.698759,
+          33.750325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ce6d851-51d3-5c23-9a9e-466068e97e13",
         "address": "8049-S-Carbury-Way-Tucson-AZ-85747-17909058",
         "beds": 4,
