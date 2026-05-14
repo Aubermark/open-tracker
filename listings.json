@@ -11449,6 +11449,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "50f86fa2-3372-5a06-bf55-59af7940ff15",
+        "address": "7807-Bideford-Ln-Houston-TX-77070",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2226,
+        "listed_at": "2026-05-14T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5533,
+          29.985006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "513c1d46-5122-5698-9a09-c42ac2bdb151",
         "address": "5213-Nw-50th-Ter-Tamarac-FL-33319",
         "beds": 3,
