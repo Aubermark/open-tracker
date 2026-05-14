@@ -2524,6 +2524,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12006fa5-fab8-5996-ba82-502c9702a381",
+        "address": "104-Valley-Glen-Dr-Morrisville-NC-27560",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1500,
+        "listed_at": "2026-05-14T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.834852,
+          35.829625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
         "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
         "beds": 3,
@@ -30748,6 +30769,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db7612d6-7891-5ef2-9657-0c9665fd8045",
+        "address": "1014-Heritage-Dr-Madison-TN-37115",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-05-14T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.724078,
+          36.269345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db900a80-a180-4bc9-a6b2-946e0eaa0a00",
         "address": "10925-Glacier-Ln-N-Maple-Grove-MN-55369",
         "beds": 3,
@@ -34543,6 +34585,27 @@
         "coordinates": [
           -94.902502,
           29.410099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6226e16-c5e5-57da-8e69-c68e332feab7",
+        "address": "206-Highway-Ave-Birmingham-AL-35228",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1304,
+        "listed_at": "2026-05-14T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 103000,
+        "price_label": "$103K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.925929,
+          33.450603
         ]
       }
     },
