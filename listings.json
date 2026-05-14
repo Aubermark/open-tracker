@@ -33814,6 +33814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f1271d8e-c43e-5567-b6b3-3318c4449cab",
+        "address": "578-Garden-Ave-Woodbridge-NJ-07095",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1408,
+        "listed_at": "2026-05-14T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 487000,
+        "price_label": "$487K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.272177,
+          40.560621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f12f273c-785d-5c70-9f8e-c2af168c83ca",
         "address": "502-Carrier-St-Lansing-MI-48906",
         "beds": 2,
