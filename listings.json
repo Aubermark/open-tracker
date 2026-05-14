@@ -11869,6 +11869,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55b2ab72-6415-5f8e-9708-9cde7c2cc282",
+        "address": "329-W-Mc-Lelland-Ave-Mooresville-NC-28115",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2939,
+        "listed_at": "2026-05-14T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.815993,
+          35.58384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "55da8bf8-359d-543b-aa4a-e825725619de",
         "address": "1359-S-Almond-Cir-Mesa-AZ-85204",
         "beds": 3,
@@ -12157,6 +12178,27 @@
         "coordinates": [
           -80.797248,
           34.88354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "57c439cc-3246-5b17-8a9e-852e83f10787",
+        "address": "1504-Clover-Ln-Granbury-TX-76048",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1607,
+        "listed_at": "2026-05-14T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.800894,
+          32.424599
         ]
       }
     },
@@ -12661,27 +12703,6 @@
         "coordinates": [
           -95.110938,
           30.007263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5b639dc3-622e-54f4-8dac-15facbd36ae3",
-        "address": "1171-Saddlehorn-Cir-Winter-Springs-FL-32708",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1611,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "23",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.257877,
-          28.656234
         ]
       }
     },
