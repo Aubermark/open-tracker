@@ -18232,27 +18232,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7efb7dab-e22f-56ac-a26f-a6068d93e236",
-        "address": "10-Brownstone-Ln-Greensboro-NC-27410",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1596,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": ">81",
-        "current_price": 277000,
-        "price_label": "$277K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.891506,
-          36.082114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7f344806-3a59-56cb-872d-7aeaae7dea57",
         "address": "5423-Timberhurst-San-Antonio-TX-78250",
         "beds": 3,
@@ -22300,6 +22279,27 @@
         "coordinates": [
           -96.36337,
           32.852995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9c27ab3a-62de-5a64-8fe3-a620ee95a455",
+        "address": "8212-Boulder-River-Trl-Mc-Kinney-TX-75070",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3218,
+        "listed_at": "2026-05-14T18:40:02.000Z",
+        "days_on_market": "49",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.723033,
+          33.162503
         ]
       }
     },
@@ -27613,6 +27613,27 @@
         "coordinates": [
           -84.218058,
           34.038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4e14c9a-b1de-4c22-878b-f573925df05c",
+        "address": "",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1546,
+        "listed_at": "2026-05-14T18:40:02.000Z",
+        "days_on_market": ">81",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.791985,
+          33.24693
         ]
       }
     },
@@ -33997,6 +34018,27 @@
         "coordinates": [
           -81.236606,
           28.912643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2d7ef74-d6a6-50ef-b524-a3019eaa87d6",
+        "address": "1622-Lacy-Ridge-Dr-Belton-TX-76513",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2797,
+        "listed_at": "2026-05-14T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.483847,
+          31.086969
         ]
       }
     },
