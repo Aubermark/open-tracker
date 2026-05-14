@@ -20962,6 +20962,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92efaa1b-4905-5989-815c-63586ff2e72f",
+        "address": "4401-Santee-St-Orlando-FL-32804",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1050,
+        "listed_at": "2026-05-14T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.391686,
+          28.596887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92f11cc7-1f45-5965-8699-4d33edf329f5",
         "address": "6332-Downeast-Dr-Fort-Worth-TX-76179",
         "beds": 3,
@@ -29257,6 +29278,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d184bef7-b818-5735-95ce-68b681b6a8b1",
+        "address": "6705-Farsight-Dr-Fort-Worth-TX-76179",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1802,
+        "listed_at": "2026-05-14T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.419697,
+          32.856738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d1aeedca-7627-5b37-8507-252e71b274a7",
         "address": "4400-Red-Cedar-Ct-Stone-Mountain-GA-30083",
         "beds": 3,
@@ -31729,27 +31771,6 @@
         "coordinates": [
           -111.80764,
           33.328978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e51e9486-f7f8-500e-8857-c05036eeab58",
-        "address": "4156-Seclusion-Bay-Ave-North-Las-Vegas-NV-89081",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2564,
-        "listed_at": "2026-05-05T20:10:02.000Z",
-        "days_on_market": "9",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.082719,
-          36.267479
         ]
       }
     },
