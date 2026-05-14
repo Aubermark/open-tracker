@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2429ec1e-5892-593d-8b5c-d039c6230c90",
+        "address": "1608-Brushy-Creek-Ln-Allen-TX-75002",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3250,
+        "listed_at": "2026-05-14T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.642853,
+          33.123276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24668f24-2297-5522-bef4-d921dd219b18",
         "address": "31008-Satinleaf-Run-Brooksville-FL-34602-17975715",
         "beds": 3,
