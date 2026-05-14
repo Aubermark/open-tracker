@@ -6955,6 +6955,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "313f1248-5c08-5246-922e-69203555faa4",
+        "address": "95443-Woodbridge-Pkwy-Fernandina-Beach-FL-32034",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2640,
+        "listed_at": "2026-05-14T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.506171,
+          30.601003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3168f6db-c445-551d-8b80-5ff7334d267e",
         "address": "2855-Mossy-Meadow-Dr-High-Point-NC-27265",
         "beds": 2,
@@ -7915,6 +7936,27 @@
         "coordinates": [
           -84.561805,
           34.009991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "38d71006-d31a-59a4-a2a3-d7ccb3b71fa2",
+        "address": "6736-Wise-Ave-Saint-Louis-MO-63139",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1294,
+        "listed_at": "2026-05-14T17:50:02.000Z",
+        "days_on_market": ">81",
+        "current_price": 222000,
+        "price_label": "$222K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.302074,
+          38.628736
         ]
       }
     },
