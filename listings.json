@@ -3616,6 +3616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19ad7ca0-98c7-5b08-872b-b6c383d56c78",
+        "address": "321-Eastover-Cir-Summerville-SC-29483-17915291",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2283,
+        "listed_at": "2026-05-14T13:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.148964,
+          33.022922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "19c3332c-ea29-54ea-ac56-eabcead1ff32",
         "address": "6312-Lake-Trail-Dr-Fayetteville-NC-28304",
         "beds": 3,
