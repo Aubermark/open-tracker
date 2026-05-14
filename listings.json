@@ -16657,6 +16657,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "742c14f5-9620-5f15-9e55-67d1045f3dbc",
+        "address": "510-Wicklow-Dr-Manchester-MO-63021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1660,
+        "listed_at": "2026-05-14T18:10:03.000Z",
+        "days_on_market": "41",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.520791,
+          38.584443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "743f1092-adfc-4322-834d-630c1011cb5f",
         "address": "6424-Waterfall-Ln-Princeton-TX-75407",
         "beds": 4,
@@ -35488,6 +35509,27 @@
         "coordinates": [
           -122.128809,
           38.216402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe2bbc84-abed-5f25-9109-d9830d8299c3",
+        "address": "2817-Ingram-Dr-Grand-Prairie-TX-75052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1904,
+        "listed_at": "2026-05-14T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.053203,
+          32.662852
         ]
       }
     },
