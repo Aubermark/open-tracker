@@ -4918,6 +4918,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2272b6cf-c2c5-510d-8f99-895f5b8d4ea3",
+        "address": "138-Matthias-Ct-Mocksville-NC-27028",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2851,
+        "listed_at": "2026-05-14T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.533463,
+          35.9216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22923562-f34f-5612-8803-464d08dfb47d",
         "address": "10-Diamant-Way-Aliso-Viejo-CA-92656",
         "beds": 2,
@@ -5416,6 +5437,27 @@
         "coordinates": [
           -86.822256,
           33.177774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "25f5d055-177f-58e8-8638-530dce2c1173",
+        "address": "786-Se-Ablett-Ln-Port-Saint-Lucie-FL-34984",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1458,
+        "listed_at": "2026-05-14T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.329548,
+          27.268153
         ]
       }
     },
