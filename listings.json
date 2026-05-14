@@ -6955,27 +6955,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "31e3d137-5718-5dc5-8092-fb735aef5a42",
-        "address": "3325-Steed-Dr-Florissant-MO-63033",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2414,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "45",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.293025,
-          38.794285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32637fa7-1303-5f94-b682-794c91f491ed",
         "address": "3499-Fm-1564-E-Greenville-TX-75402",
         "beds": 4,
@@ -15706,6 +15685,27 @@
         "coordinates": [
           -97.433568,
           31.117548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6e8c8b0c-2a3d-524b-b5ad-40cc64864b29",
+        "address": "121-Shining-Armor-Ct-Mooresville-NC-28117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1649,
+        "listed_at": "2026-05-14T16:30:02.000Z",
+        "days_on_market": "79",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.844328,
+          35.57783
         ]
       }
     },
