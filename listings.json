@@ -12100,6 +12100,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54d33162-71e1-506a-a329-74ed7be258d5",
+        "address": "325-Kanawha-Rd-Lancaster-OH-43130",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1305,
+        "listed_at": "2026-05-14T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.568973,
+          39.719123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54e94290-6522-50b4-92af-9e313e4dc045",
         "address": "9463-Maple-Way-Indianapolis-IN-46268",
         "beds": 2,
@@ -27025,6 +27046,27 @@
         "coordinates": [
           -80.978051,
           34.159157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "beaf47d5-f21c-5a5a-b23e-531955d09151",
+        "address": "4385-Brownstone-Dr-Beaumont-TX-77706",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 6387,
+        "listed_at": "2026-05-14T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 865000,
+        "price_label": "$865K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.151852,
+          30.11206
         ]
       }
     },
