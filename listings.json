@@ -928,6 +928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06d15432-2f31-5733-9204-ad57befa97f6",
+        "address": "535-Palmetto-Dr-Melbourne-FL-32935",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1457,
+        "listed_at": "2026-05-14T17:40:02.000Z",
+        "days_on_market": "7",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649769,
+          28.138963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
@@ -8545,6 +8566,27 @@
         "coordinates": [
           -84.634939,
           34.083238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3c5401a0-6bcd-5963-82d9-03c6cc3ad4ef",
+        "address": "2086-Resor-Rd-Fairfield-OH-45014",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-05-14T17:40:02.000Z",
+        "days_on_market": "16",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54853,
+          39.321894
         ]
       }
     },
@@ -18835,6 +18877,27 @@
         "coordinates": [
           -82.012461,
           29.113699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "84a853d8-d8b4-56a1-8b88-1b1fefc9f5ed",
+        "address": "25210-S-Wyoming-Ave-Sun-Lakes-AZ-85248",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 970,
+        "listed_at": "2026-05-14T17:40:02.000Z",
+        "days_on_market": "48",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887297,
+          33.217702
         ]
       }
     },
@@ -33115,27 +33178,6 @@
         "coordinates": [
           -79.03025,
           35.926567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eecc0bd9-b136-54a1-aaab-b4d17b048902",
-        "address": "1128-Weatherstone-Dr-Ne-Atlanta-GA-30324",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1304,
-        "listed_at": "2026-05-05T19:20:03.000Z",
-        "days_on_market": "9",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.336498,
-          33.811848
         ]
       }
     },
