@@ -9097,6 +9097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fa1931a-19a8-5e60-bea2-558eac028aa7",
+        "address": "10559-E-46th-Ter-Kansas-City-MO-64133",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1253,
+        "listed_at": "2026-05-14T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.455576,
+          39.037686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fce692f-2056-5f4a-886d-3fe562091664",
         "address": "1115-Morriswood-Dr-Joelton-TN-37080",
         "beds": 3,
@@ -9889,6 +9910,27 @@
         "coordinates": [
           -84.161872,
           33.577528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "457e6d53-286c-563b-9b77-616aea5fe1b7",
+        "address": "1007-E-Citrus-Edge-St-Azusa-CA-91702",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1631,
+        "listed_at": "2026-05-14T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 850000,
+        "price_label": "$850K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.886866,
+          34.119208
         ]
       }
     },
