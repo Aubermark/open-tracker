@@ -26191,6 +26191,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcbddec6-4d3d-5585-a314-c7dc5081f3ac",
+        "address": "8400-Chestnut-Oak-Ct-Harrisburg-NC-28075",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2551,
+        "listed_at": "2026-05-14T14:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.624845,
+          35.301394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcfcd506-2cd5-5b4e-a8bb-50f7818b4261",
         "address": "2030-Main-St-Nw-Apt-203-Atlanta-GA-30318",
         "beds": 2,
@@ -26584,6 +26605,27 @@
         "coordinates": [
           -80.945779,
           34.035899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
+        "address": "5202-Oster-Dr-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1867,
+        "listed_at": "2026-05-14T14:20:02.000Z",
+        "days_on_market": ">81",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72734,
+          31.064149
         ]
       }
     },
