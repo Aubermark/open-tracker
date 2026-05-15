@@ -22138,6 +22138,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "96de91b9-c2ea-5514-9302-fd0f49cf94f3",
+        "address": "17604-Wakenden-Redford-MI-48240",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 966,
+        "listed_at": "2026-05-15T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.299978,
+          42.418851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "970ce0e7-981d-5235-b3d5-f147be63ddc9",
         "address": "190-Stroud-Dr-Se-Mableton-GA-30126",
         "beds": 3,
