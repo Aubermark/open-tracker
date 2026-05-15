@@ -5779,6 +5779,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27d314a0-4b59-5bb4-b8af-57618c8fd286",
+        "address": "440-Shallowford-Dr-Rock-Hill-SC-29732",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2645,
+        "listed_at": "2026-05-15T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.097389,
+          35.003818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27dfb152-4390-585a-872c-92e0f4628a7f",
         "address": "1770-Ne-37th-St-Ocala-FL-34479",
         "beds": 3,
@@ -8818,27 +8839,6 @@
         "coordinates": [
           -84.171301,
           33.794244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3c999ee1-43df-5ef7-b310-c910ba215b31",
-        "address": "1103-Fleetwood-Place-Dr-Houston-TX-77079",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3318,
-        "listed_at": "2026-03-26T23:30:05.000Z",
-        "days_on_market": "50",
-        "current_price": 625000,
-        "price_label": "$625K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.641198,
-          29.773007
         ]
       }
     },
@@ -20326,6 +20326,27 @@
         "coordinates": [
           -83.533972,
           42.400592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a6640aa-3fe8-528e-84cf-9643585bc040",
+        "address": "9686-Fairwood-St-Littleton-CO-80125",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2565,
+        "listed_at": "2026-05-15T19:40:02.000Z",
+        "days_on_market": "67",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.067466,
+          39.475147
         ]
       }
     },
@@ -36916,6 +36937,27 @@
         "coordinates": [
           -79.479199,
           35.17466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffec0907-326a-5c1b-a8c2-88cab88b6ed8",
+        "address": "3051-E-Bay-Ct-Creedmoor-NC-27522",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4133,
+        "listed_at": "2026-05-15T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 810000,
+        "price_label": "$810K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.618094,
+          36.055873
         ]
       }
     },
