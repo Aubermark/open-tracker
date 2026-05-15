@@ -27934,6 +27934,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c31ff073-75d4-50a2-a2ec-8836b1164572",
+        "address": "26842-Trinity-Trl-Cypress-TX-77433",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2392,
+        "listed_at": "2026-05-15T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.711598,
+          29.96552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3414ae5-25b4-5162-bd22-741085908ca4",
         "address": "1248-Honor-Ln-Temple-TX-76501",
         "beds": 1,
@@ -36391,27 +36412,6 @@
         "coordinates": [
           -122.128809,
           38.216402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe2bbc84-abed-5f25-9109-d9830d8299c3",
-        "address": "2817-Ingram-Dr-Grand-Prairie-TX-75052",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1904,
-        "listed_at": "2026-05-14T18:10:03.000Z",
-        "days_on_market": "1",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.053203,
-          32.662852
         ]
       }
     },
