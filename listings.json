@@ -3301,6 +3301,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "166dcc40-fa2f-57a7-a676-056a0d290ca3",
+        "address": "5508-Silent-Brook-Dr-Orlando-FL-32821",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-05-15T15:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.443947,
+          28.400492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1670ce24-60a1-4ec7-87b8-b96c6e425f5e",
         "address": "3616-Ne-170th-St-Vancouver-WA-98686",
         "beds": 3,
@@ -33436,27 +33457,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ec880b29-6913-58f8-b8e8-b75c7786ecf6",
-        "address": "1523-Van-Buren-Ave-Sw-Concord-NC-28025",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2278,
-        "listed_at": "2026-05-07T14:50:03.000Z",
-        "days_on_market": "8",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.587369,
-          35.313833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ec8bac71-a63c-55a5-a51d-6876fd865c7b",
         "address": "1911-Almond-Hills-Dr-Charlotte-NC-28262",
         "beds": 3,
@@ -35578,27 +35578,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f993e63f-a8a1-5550-bdc6-0367b8a80660",
-        "address": "1006-Lonesome-Way-Princeton-TX-75407",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1609,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "60",
-        "current_price": 263000,
-        "price_label": "$263K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.512746,
-          33.159183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f9cfa727-7c37-509a-b76d-ad8cf6256a50",
         "address": "305-N-Lakeside-Ter-Mustang-OK-73064",
         "beds": 4,
@@ -36454,6 +36433,27 @@
         "coordinates": [
           -82.083111,
           35.036722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff08331c-91b5-5d38-8c7b-bd4ca1adb60d",
+        "address": "1321-Fishing-Creek-Rd-Clover-SC-29710",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2394,
+        "listed_at": "2026-05-15T15:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 496000,
+        "price_label": "$496K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.105266,
+          35.108278
         ]
       }
     },
