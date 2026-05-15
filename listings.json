@@ -3490,6 +3490,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c921b6-a34a-5a2b-9d55-9c8b674b1bf2",
+        "address": "105-Nottingham-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-05-15T22:20:04.000Z",
+        "days_on_market": ">82",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16982,
+          32.955414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16c9eed9-a909-505f-886a-93584c537b98",
         "address": "2925-Lake-Port-Dr-Snellville-GA-30039",
         "beds": 4,
@@ -23524,6 +23545,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9f9ab740-19f0-5799-add3-daf22221ba6a",
+        "address": "21607-Rio-Comal-San-Antonio-TX-78259",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2125,
+        "listed_at": "2026-05-15T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.437832,
+          29.639619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9fe022be-01f0-583e-827c-e5b5de589c5f",
         "address": "15237-N-147th-Ln-Surprise-AZ-85379",
         "beds": 4,
@@ -29257,27 +29299,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ca7b3365-49d1-555a-9a08-3345bda7a240",
-        "address": "7411-Shady-Hollow-Ln-San-Antonio-TX-78255",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1405,
-        "listed_at": "2026-05-07T15:40:02.000Z",
-        "days_on_market": "8",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.633896,
-          29.590766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ca8c9e24-d99b-5493-9888-0f6f8e43d13b",
         "address": "2859-Savannah-Walk-Ln-Suwanee-GA-30024",
         "beds": 5,
@@ -33724,27 +33745,6 @@
         "coordinates": [
           -81.356439,
           28.353076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ea74d4bf-2121-54c7-a072-d8908372161e",
-        "address": "10184-Ferncrest-St-Firestone-CO-80504",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1440,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "32",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.926061,
-          40.148325
         ]
       }
     },
