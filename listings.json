@@ -31105,6 +31105,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d6e61f0c-83b7-58c7-a288-2c83a55af83c",
+        "address": "2721-Berkshire-Dr-Winder-GA-30680",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2335,
+        "listed_at": "2026-05-15T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.792935,
+          33.954092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6f48181-8a6b-5ade-a69f-47530c610d10",
         "address": "8590-River-Walk-Lndg-Suwanee-GA-30024",
         "beds": 4,
