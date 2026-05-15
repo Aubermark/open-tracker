@@ -9538,6 +9538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "425b0eb7-1a92-54ae-b6fb-8e8e94cc2f32",
+        "address": "34-Cass-Station-Dr-Nw-Cartersville-GA-30120",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1904,
+        "listed_at": "2026-05-15T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.875203,
+          34.244644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4263cce4-f6d6-582b-aa4b-5f7f3084516e",
         "address": "827-Dovefield-Ln-Lexington-SC-29073",
         "beds": 3,
@@ -15013,6 +15034,27 @@
         "coordinates": [
           -81.220623,
           34.118784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "68458d81-e3c0-57c1-af53-aac317f21156",
+        "address": "342-Newcastle-Vis-Mc-Donough-GA-30253",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-05-15T09:50:01.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.180413,
+          33.514479
         ]
       }
     },
