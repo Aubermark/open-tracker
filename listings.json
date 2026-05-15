@@ -781,6 +781,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "04d23628-60f3-5e8c-9dbc-8bd511ca038c",
+        "address": "1688-Cedar-Springs-Cir-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1694,
+        "listed_at": "2026-05-15T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34573,
+          36.612418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "052782f2-f53a-5c26-aa75-a7a06f2cf818",
         "address": "386-W-Sunview-Ave-Palm-Springs-CA-92262",
         "beds": 4,
