@@ -9097,6 +9097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f577b49-f0ca-53ca-8e3d-ee524f0f226a",
+        "address": "3935-Deergrass-Cir-Rocklin-CA-95677",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2300,
+        "listed_at": "2026-05-15T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.22152,
+          38.804766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f73d69f-6a63-5f1a-889a-276c480eef35",
         "address": "192-Solheim-Ln-Raleigh-NC-27603",
         "beds": 3,
