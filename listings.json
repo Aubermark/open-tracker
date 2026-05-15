@@ -1453,27 +1453,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0a3666aa-ca79-5f7f-84f8-31b07874e5bd",
-        "address": "199-E-Crest-Ave-Winter-Garden-FL-34787",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1659,
-        "listed_at": "2026-04-24T06:26:03.000Z",
-        "days_on_market": "22",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.578697,
-          28.579556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0a460dfd-3ea7-598a-9109-f09e8cebc4ae",
         "address": "38060-N-Bonnie-Ln-Queen-Creek-AZ-85140",
         "beds": 4,
@@ -9280,6 +9259,27 @@
         "coordinates": [
           -94.696813,
           38.95692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40bbf8d3-9cee-5c71-b724-7aaba8d5c305",
+        "address": "616-River-Rd-Teaneck-NJ-07666",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1853,
+        "listed_at": "2026-05-15T17:40:05.000Z",
+        "days_on_market": "10",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.031484,
+          40.886888
         ]
       }
     },
