@@ -5296,6 +5296,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24e230a6-339c-5128-bac2-82259029ece7",
+        "address": "7049-Woodland-Ave-Chagrin-Falls-OH-44023",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3147,
+        "listed_at": "2026-05-15T15:30:03.000Z",
+        "days_on_market": "32",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.390275,
+          41.413941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -22684,6 +22705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9cbd2d98-29f0-59c6-b798-c63a800826a4",
+        "address": "4528-Lasley-Dr-Winston-Salem-NC-27105",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1274,
+        "listed_at": "2026-05-15T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.205915,
+          36.152893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d4280de-acde-5457-8f78-ed4a05a47610",
         "address": "6206-Suellen-Ln-Killeen-TX-76542",
         "beds": 4,
@@ -34291,27 +34333,6 @@
         "coordinates": [
           -74.272177,
           40.560621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f12f273c-785d-5c70-9f8e-c2af168c83ca",
-        "address": "502-Carrier-St-Lansing-MI-48906",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 840,
-        "listed_at": "2026-05-13T15:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.558308,
-          42.766083
         ]
       }
     },
