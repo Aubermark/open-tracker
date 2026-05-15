@@ -67,6 +67,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00a36a78-cf73-5de3-9c6f-055c95064406",
+        "address": "278-Chemistry-Cir-Ladson-SC-29456",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1249,
+        "listed_at": "2026-05-15T19:50:02.000Z",
+        "days_on_market": ">82",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.136383,
+          32.966105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00c0eb84-e662-5e97-9c10-4d86a3486f0c",
         "address": "15800-E-121st-Ave-Unit-Q5-Lochbuie-CO-80603",
         "beds": 2,
@@ -3736,6 +3757,27 @@
         "coordinates": [
           -81.370569,
           35.373474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1999788a-3b41-56a1-8289-10866e568543",
+        "address": "2634-E-Ridge-Creek-Rd-Phoenix-AZ-85024",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2877,
+        "listed_at": "2026-05-15T19:50:02.000Z",
+        "days_on_market": "51",
+        "current_price": 701000,
+        "price_label": "$701K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.023456,
+          33.70812
         ]
       }
     },
@@ -36790,6 +36832,27 @@
         "coordinates": [
           -82.083111,
           35.036722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fef5a0c7-d8f1-4071-9cbe-1796117c03e0",
+        "address": "4918-Griffith-Rd-Monroe-NC-28112",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2231,
+        "listed_at": "2026-05-15T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.592829,
+          34.910677
         ]
       }
     },
