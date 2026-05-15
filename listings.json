@@ -2272,6 +2272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0f3910a0-0aeb-52e4-a2bf-b9729d819609",
+        "address": "9236-Mark-Twain-Ln-Port-Richey-FL-34668",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 884,
+        "listed_at": "2026-05-15T21:50:02.000Z",
+        "days_on_market": "4",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.684236,
+          28.291951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0f3b726c-4fb0-52fe-89e7-b333563937b7",
         "address": "4467-Woodlark-Ln-Charlotte-NC-28211",
         "beds": 5,
@@ -8083,6 +8104,27 @@
         "coordinates": [
           -84.098605,
           33.500165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "37ac52b4-67cc-5d68-bc7b-ba39f034f19c",
+        "address": "28832-Kaufman-St-Roseville-MI-48066",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1752,
+        "listed_at": "2026-05-15T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.920324,
+          42.508754
         ]
       }
     },
@@ -21586,6 +21628,27 @@
         "coordinates": [
           -122.491416,
           45.500104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92b611cd-cbcd-59c6-a0fb-1d7673a74538",
+        "address": "217-Crestwood-Dr-Whiteland-IN-46184",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 925,
+        "listed_at": "2026-05-15T21:50:02.000Z",
+        "days_on_market": ">82",
+        "current_price": 186000,
+        "price_label": "$186K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.100205,
+          39.552893
         ]
       }
     },
