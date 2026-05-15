@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "212d19b1-e230-547c-a85a-35b6d8d64937",
+        "address": "8111-Crestview-Dr-Se-Covington-GA-30014",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4586,
+        "listed_at": "2026-05-15T10:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 543000,
+        "price_label": "$543K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.841961,
+          33.584438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2137417c-8cf2-5eb0-9774-62e2909dc89d",
         "address": "3808-Tatonka-Dr-Killeen-TX-76549",
         "beds": 4,
