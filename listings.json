@@ -35725,6 +35725,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fb670876-8eea-5d62-889d-f0ee117baf5f",
+        "address": "6296-Laurel-Green-Dr-Lithonia-GA-30058",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2656,
+        "listed_at": "2026-05-15T10:00:01.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.131192,
+          33.75807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fb729a58-fff8-5eed-bdb3-eab471bae855",
         "address": "1332-Kesser-Dr-Plano-TX-75025",
         "beds": 3,
