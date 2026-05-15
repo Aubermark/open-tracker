@@ -8068,6 +8068,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "381817dd-6265-5a23-902a-006e2fa00ea7",
+        "address": "7928-Ella-Young-Dr-Lakeside-TX-76135",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2205,
+        "listed_at": "2026-05-15T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.465712,
+          32.817774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3865a460-d854-55c3-9765-994792710cd7",
         "address": "230-Prescott-St-Locust-Grove-GA-30248",
         "beds": 5,
