@@ -11176,6 +11176,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4db8bddd-40d5-5048-81ca-a42a781ec9fa",
+        "address": "4117-Clifton-Ct-Boulder-CO-80301",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1711,
+        "listed_at": "2026-05-15T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24668,
+          40.049864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4db9753c-a109-43fc-9b49-1c36182b77d4",
         "address": "207-S-Ocean-Breeze-Lake-Worth-Beach-FL-33460",
         "beds": 5,
@@ -23623,6 +23644,27 @@
         "coordinates": [
           -80.702794,
           35.246709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2ee6d49-4612-5c15-99b5-dde00e5108b0",
+        "address": "260-Woodwinds-Dr-Columbia-SC-29212",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1619,
+        "listed_at": "2026-05-15T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.172936,
+          34.051361
         ]
       }
     },
