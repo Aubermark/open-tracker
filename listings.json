@@ -676,6 +676,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0471ba59-f156-5eb0-8a40-f8bea74646e8",
+        "address": "109-King-Valley-Rd-Pelham-AL-35124",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1111,
+        "listed_at": "2026-05-15T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.820297,
+          33.284847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0491e5fe-b5cf-581d-a8a7-f3ed9949e335",
         "address": "1955-Meadow-Ln-Decatur-GA-30032",
         "beds": 4,
@@ -35446,6 +35467,27 @@
         "coordinates": [
           -77.115962,
           38.773402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f3e691ff-bfa6-5639-9f90-e4b5a109e54b",
+        "address": "5257-Meadow-Ridge-Trl-Bessemer-AL-35022",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2240,
+        "listed_at": "2026-05-15T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.982849,
+          33.342222
         ]
       }
     },
