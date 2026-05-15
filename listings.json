@@ -14452,6 +14452,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63a7c3a5-4889-5c2b-ab72-ccbdafc3f5d9",
+        "address": "433-Sunnyside-Ln-Longmont-CO-80504",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 768,
+        "listed_at": "2026-05-15T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08957,
+          40.166294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63a856cb-6583-53f6-98a9-765093998c08",
         "address": "23115-E-Oxbow-Dr-Florence-AZ-85132",
         "beds": 3,
