@@ -31777,6 +31777,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dff171f7-3af2-514c-ae79-cbab20d58a2e",
+        "address": "1938-Surrey-Trl-Se-Conyers-GA-30013",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2138,
+        "listed_at": "2026-05-15T10:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.982959,
+          33.604546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e064e109-6abe-50ea-acd7-007f90456f91",
         "address": "14012-Underclift-St-Nw-Andover-MN-55304",
         "beds": 3,
