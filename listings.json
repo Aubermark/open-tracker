@@ -2020,6 +2020,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e13b66c-2f88-54e4-acf3-917b24dc9902",
+        "address": "1352-Meadow-Run-Copley-OH-44321",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 945,
+        "listed_at": "2026-05-15T14:30:02.000Z",
+        "days_on_market": "3",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.615081,
+          41.092575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e5cdbab-4fce-5bf9-9db1-e75ac89d9d51",
         "address": "1902-New-Orleans-St-Deer-Park-TX-77536",
         "beds": 3,
@@ -3484,27 +3505,6 @@
         "coordinates": [
           -80.790383,
           35.212193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "178d6567-1610-594b-a27e-752dca5b1bc6",
-        "address": "519-Brentview-Hills-Dr-Nashville-TN-37220",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2844,
-        "listed_at": "2026-05-12T21:00:02.000Z",
-        "days_on_market": "3",
-        "current_price": 780000,
-        "price_label": "$780K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.758521,
-          36.054087
         ]
       }
     },
@@ -29419,6 +29419,27 @@
         "coordinates": [
           -84.767684,
           33.379336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce779614-24c7-5457-b47a-ba338e16f51b",
+        "address": "5026-Royal-Cypress-Dr-Katy-TX-77449",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-05-15T14:30:02.000Z",
+        "days_on_market": "79",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.709504,
+          29.847403
         ]
       }
     },
