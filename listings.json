@@ -2146,6 +2146,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ed93887-2e49-5323-9a52-6c3c729dc02e",
+        "address": "470-Kinsman-Ct-Fuquay-Varina-NC-27526",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1347,
+        "listed_at": "2026-05-15T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.851717,
+          35.525014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0eea233c-502c-5461-b5d0-9e6e643ebafb",
         "address": "566-Bridgette-Dr-Clarksville-TN-37042",
         "beds": 3,
@@ -22390,6 +22411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a365b79-1448-4b7f-8a62-5c7b35a64c73",
+        "address": "146-Maple-Dr-Milner-GA-30257",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1774,
+        "listed_at": "2026-05-15T14:50:03.000Z",
+        "days_on_market": "70",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19986,
+          33.101055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a425b56-6a1e-5176-880e-86d670b8362e",
         "address": "3772-Havenmist-Cv-Suwanee-GA-30024",
         "beds": 4,
@@ -31792,6 +31834,27 @@
         "coordinates": [
           -83.944944,
           33.577584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dfaa1fc9-0819-54d8-815e-dbfdb96b7e4e",
+        "address": "17-Brookway-Dr-Greensboro-NC-27410",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1337,
+        "listed_at": "2026-05-15T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.893162,
+          36.107867
         ]
       }
     },
