@@ -11827,27 +11827,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "51b1ac6e-c179-53a4-a253-bac10165f038",
-        "address": "1710-Se-33rd-St-Gainesville-FL-32641",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1052,
-        "listed_at": "2026-04-09T19:20:06.000Z",
-        "days_on_market": "36",
-        "current_price": 197000,
-        "price_label": "$197K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.282854,
-          29.635568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "51ed0380-1aef-566c-8972-bfbf8a244839",
         "address": "10844-Verawood-Dr-Riverview-FL-33579",
         "beds": 2,
@@ -18688,6 +18667,27 @@
         "coordinates": [
           -81.304111,
           28.617655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7efda8a6-f88f-5210-9967-0829c4cfd418",
+        "address": "1482-Knights-Row-Yuba-City-CA-95991",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1100,
+        "listed_at": "2026-05-15T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62275,
+          39.151223
         ]
       }
     },
