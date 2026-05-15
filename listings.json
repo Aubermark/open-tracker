@@ -7291,6 +7291,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "32ffee01-44cb-5e52-8fe3-35adabd6e5e6",
+        "address": "7906-Elphin-Ct-Charlotte-NC-28270",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2240,
+        "listed_at": "2026-05-15T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 686000,
+        "price_label": "$686K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.774729,
+          35.105632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "332b7916-e2f6-5b77-a072-067f797d73ce",
         "address": "1128-Hobart-Dr-Marysville-CA-95901",
         "beds": 3,
