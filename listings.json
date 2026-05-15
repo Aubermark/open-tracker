@@ -14158,6 +14158,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61f88b19-a681-5d15-89c6-4d8ab66814f0",
+        "address": "2228-N-Orange-Ave-Sarasota-FL-34234",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1340,
+        "listed_at": "2026-05-15T13:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.538192,
+          27.3576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "623b4965-184a-5d14-8202-c56910a58c99",
         "address": "4241-Grady-Smith-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -27865,27 +27886,6 @@
         "coordinates": [
           -81.307594,
           28.989985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3e58e64-1614-54d0-8a6e-a5610e533d5a",
-        "address": "4034-Green-St-Jacksonville-FL-32205",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1067,
-        "listed_at": "2026-05-04T06:30:03.000Z",
-        "days_on_market": "12",
-        "current_price": 216000,
-        "price_label": "$216K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.718866,
-          30.315215
         ]
       }
     },
