@@ -16636,6 +16636,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "72dd8459-2425-587e-b81a-9fb42128697a",
+        "address": "4342-Trotters-Way-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2868,
+        "listed_at": "2026-05-15T09:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.066002,
+          33.816216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "72f3065b-4ace-571e-9eb0-4e7693129929",
         "address": "108-W-Dogwood-Dr-Mebane-NC-27302",
         "beds": 3,
