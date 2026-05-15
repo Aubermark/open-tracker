@@ -8782,6 +8782,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c866a8b-5894-5299-a5b9-326c729cbb91",
+        "address": "5328-Ridge-Forest-Dr-Stone-Mountain-GA-30083",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1959,
+        "listed_at": "2026-05-15T19:00:02.000Z",
+        "days_on_market": "81",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.171301,
+          33.794244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c999ee1-43df-5ef7-b310-c910ba215b31",
         "address": "1103-Fleetwood-Place-Dr-Houston-TX-77079",
         "beds": 5,
@@ -10855,6 +10876,27 @@
         "coordinates": [
           -82.381482,
           27.65477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4ad2ad0a-1201-50be-abd7-f0f9dda2b0e0",
+        "address": "8641-Centerton-Ln-Manassas-VA-20111",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1882,
+        "listed_at": "2026-05-15T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 501000,
+        "price_label": "$501K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.452595,
+          38.792268
         ]
       }
     },
@@ -22846,6 +22888,27 @@
         "coordinates": [
           -94.89559,
           29.810488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9cacaba5-9aca-5d27-bd0a-6edc3ed2848a",
+        "address": "14714-Swale-San-Antonio-TX-78248",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2054,
+        "listed_at": "2026-05-15T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.534199,
+          29.580189
         ]
       }
     },
