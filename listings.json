@@ -13360,6 +13360,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5cb68cc1-ed4b-5e5d-9340-4ddf0357031c",
+        "address": "494-Inlet-Ave-Nw-Ocean-Shores-WA-98569",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-05-15T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.164586,
+          46.997364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ccaa06f-5170-582b-b073-b7b6846d6b41",
         "address": "2122-Danbury-Dr-Indianapolis-IN-46231",
         "beds": 3,
@@ -32275,6 +32296,27 @@
         "coordinates": [
           -84.763675,
           33.926565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e33f6817-a4dd-511e-9e7f-d0793451e0d2",
+        "address": "3408-Grove-Blossom-Ln-Plant-City-FL-33567",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1436,
+        "listed_at": "2026-05-15T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.159157,
+          27.965199
         ]
       }
     },
