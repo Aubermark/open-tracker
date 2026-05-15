@@ -4015,27 +4015,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1bd4cb6c-31ed-55dd-84f6-d896899768dd",
-        "address": "5806-Princeton-Run-Trl-Tucker-GA-30084",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4237,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": "78",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.168582,
-          33.869184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1c6412cc-b6bd-50b5-8557-cf682b9dd7fc",
         "address": "2797-Gresham-Rd-Se-Atlanta-GA-30316",
         "beds": 3,
@@ -8419,6 +8398,27 @@
         "coordinates": [
           -84.314099,
           34.00901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3ae69f99-5d4c-5eed-8d15-d0880bc2c6eb",
+        "address": "1305-Silver-Dr-Mebane-NC-27302-18196334",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1512,
+        "listed_at": "2026-05-15T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.315526,
+          36.074066
         ]
       }
     },
@@ -26542,6 +26542,27 @@
         "coordinates": [
           -81.915842,
           41.423898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b88d1b57-514c-56d6-b7f8-5dabaf8aabf2",
+        "address": "2508-W-Francis-Ave-Spokane-WA-99205",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-05-15T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.447125,
+          47.715702
         ]
       }
     },
