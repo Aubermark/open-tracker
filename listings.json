@@ -5149,6 +5149,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2383ae28-c14a-5539-92b9-da8df597364f",
+        "address": "11402-W-1200-N-Monticello-IN-47960",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1815,
+        "listed_at": "2026-05-15T20:30:02.000Z",
+        "days_on_market": "72",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.744951,
+          40.723262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2390f3bc-3e52-5b18-bb9e-bf83f20dc95a",
         "address": "310-Mitchell-St-Belmont-NC-28012",
         "beds": 3,
@@ -34900,6 +34921,27 @@
         "coordinates": [
           -93.091264,
           44.916861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f22e9f31-5193-5a26-ad71-d25b71d46e72",
+        "address": "3905-Llano-Estacado-Ct-Killeen-TX-76549",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1543,
+        "listed_at": "2026-05-15T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.798615,
+          31.065409
         ]
       }
     },
