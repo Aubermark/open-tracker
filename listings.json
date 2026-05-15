@@ -7921,6 +7921,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3732ab0a-d162-4bdb-830a-3b5e7a43031e",
+        "address": "24-Erin-Hills-Rd-Commercial-Point-OH-43116",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2399,
+        "listed_at": "2026-05-15T16:20:02.000Z",
+        "days_on_market": ">82",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.031945,
+          39.771965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
         "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
         "beds": 4,
