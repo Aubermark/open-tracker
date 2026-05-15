@@ -17791,6 +17791,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79ad68fe-4e73-5b50-8a86-dd2c7e6ff091",
+        "address": "2045-Sotheby-Ln-Indianapolis-IN-46239",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-05-15T16:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.018474,
+          39.741562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
         "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
