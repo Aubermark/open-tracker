@@ -22978,6 +22978,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9bf5d903-0418-50ca-9968-69ad3dd6cbc9",
+        "address": "526-Bourneside-Dr-Greenfield-IN-46140",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1347,
+        "listed_at": "2026-05-15T21:10:02.000Z",
+        "days_on_market": "30",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.737391,
+          39.791953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c6839f3-b9d5-5b15-8fdc-36fc19c33246",
         "address": "3809-S-Drumm-Ave-Independence-MO-64055",
         "beds": 3,
