@@ -15040,27 +15040,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "661e0a08-0c84-4a0b-86c2-1d10bc7dd67d",
-        "address": "94-W-San-Diego-Dr-Tracy-CA-95391",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2628,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "63",
-        "current_price": 850000,
-        "price_label": "$850K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.542534,
-          37.784858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66362bf3-3b16-55cd-8a4d-e104ff9eb757",
         "address": "3523-Berkshire-St-New-Port-Richey-FL-34652",
         "beds": 2,
@@ -21550,6 +21529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91dede16-b8e3-56b0-a718-288f957ee382",
+        "address": "7001-Edmundson-Dr-Arlington-TX-76002",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2125,
+        "listed_at": "2026-05-15T23:20:03.000Z",
+        "days_on_market": "11",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.112181,
+          32.631488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91eddef4-66f0-55d3-815b-189035bba0dc",
         "address": "112-Coral-Ln-Mooresville-NC-28117",
         "beds": 3,
@@ -27466,6 +27466,27 @@
         "coordinates": [
           -115.291379,
           36.222996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bb7b4409-6768-50b3-a291-1b8900727a47",
+        "address": "9558-E-Ann-Way-Scottsdale-AZ-85260",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4322,
+        "listed_at": "2026-05-15T23:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1625000,
+        "price_label": "$1.625M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.875064,
+          33.599544
         ]
       }
     },
