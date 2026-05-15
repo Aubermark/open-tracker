@@ -2482,6 +2482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1122bfd3-61ab-5a05-88e3-59ca5d3f1dcc",
+        "address": "1111-N-Riviera-Cir-Cedar-Park-TX-78613",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-05-15T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.817831,
+          30.482332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1123c34d-d880-4bd3-b728-1ec7d83e3bf5",
         "address": "26666-Dash-Dr-Menifee-CA-92585",
         "beds": 4,
@@ -18568,6 +18589,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e7b4cf6-17ed-435f-92c0-1dca06ba9ae0",
+        "address": "5829-Texas-Spur-Seguin-TX-78155",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2027,
+        "listed_at": "2026-05-15T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.971413,
+          29.695501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ea0c5ca-3ee3-5859-af8b-baa9f5527605",
         "address": "7511-Irongate-Dr-Hixson-TN-37343",
         "beds": 4,
@@ -27871,27 +27913,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c002b631-eaa5-5d88-86ca-c7aa2165cf4a",
-        "address": "4435-Ambassador-Way-Cumming-GA-30040",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2191,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "16",
-        "current_price": 402000,
-        "price_label": "$402K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.097855,
-          34.260657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c04e5113-423d-56b1-bbe1-33ed8c4dcc35",
         "address": "4252-Little-Rock-Vw-Colorado-Springs-CO-80911",
         "beds": 3,
@@ -31456,27 +31477,6 @@
         "coordinates": [
           -110.973976,
           32.146712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d96ca4ae-7433-55b3-a644-839946292ae1",
-        "address": "210-Billo-Ct-Weatherford-TX-76087",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2739,
-        "listed_at": "2026-05-11T15:50:04.000Z",
-        "days_on_market": "38",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.733397,
-          32.766816
         ]
       }
     },
