@@ -22054,6 +22054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "96dbaaca-30a1-53a4-8a0f-6e7687910de0",
+        "address": "350-Carey-Ct-Chicago-Heights-IL-60411",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1466,
+        "listed_at": "2026-05-15T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.657664,
+          41.52583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "970ce0e7-981d-5235-b3d5-f147be63ddc9",
         "address": "190-Stroud-Dr-Se-Mableton-GA-30126",
         "beds": 3,
@@ -26143,6 +26164,27 @@
         "coordinates": [
           -86.540218,
           36.046115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b6fc9839-e9f2-5db2-82cd-56883d0b70d8",
+        "address": "288-Cameron-Dr-Ponte-Vedra-FL-32081",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3249,
+        "listed_at": "2026-05-15T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.463042,
+          30.095794
         ]
       }
     },
