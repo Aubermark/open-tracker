@@ -9475,6 +9475,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "416ac2c9-3caa-501e-a505-f9a527187fdc",
+        "address": "2200-Romanum-Dr-Winter-Garden-FL-34787-18156083",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 2561,
+        "listed_at": "2026-05-15T12:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.620392,
+          28.506179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41752c88-7cc4-5741-a7dc-2028741c2282",
         "address": "5646-Apple-Grove-Rd-Buford-GA-30519",
         "beds": 4,
