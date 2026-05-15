@@ -1495,6 +1495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a80aaca-21fa-5ad9-af99-88ab29c3dc7b",
+        "address": "310-Robin-Hood-Dr-Raleigh-NC-27604",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1406,
+        "listed_at": "2026-05-15T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.616825,
+          35.800416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0aab0761-a3b1-55ab-a413-8997e3e7cd24",
         "address": "2811-Iveywood-Dr-Monroe-NC-28110",
         "beds": 4,
@@ -17791,6 +17812,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78d83f97-f44b-57cc-999d-c853eaed7f8e",
+        "address": "233-White-Lick-Dr-Indianapolis-IN-46227",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1530,
+        "listed_at": "2026-05-15T18:40:04.000Z",
+        "days_on_market": "22",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.153795,
+          39.698281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "79387ea8-d8bb-50bd-8d12-f99041c79fc9",
         "address": "2779-Island-Point-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -22636,6 +22678,27 @@
         "coordinates": [
           -93.496745,
           44.886376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a90c860-c036-5de4-9a68-13c3b7577338",
+        "address": "4924-Calle-Del-Cajon-Las-Vegas-NV-89120",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1740,
+        "listed_at": "2026-05-15T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.110797,
+          36.099532
         ]
       }
     },
