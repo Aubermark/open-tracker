@@ -33877,6 +33877,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
+        "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1622,
+        "listed_at": "2026-05-15T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.243906,
+          26.702856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eb707642-9ec2-5729-8a62-b94a7a86d2d9",
         "address": "262-Sw-Panther-Trce-Port-Saint-Lucie-FL-34953",
         "beds": 3,
