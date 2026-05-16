@@ -19744,6 +19744,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85a6e6ee-a124-547a-8dad-2af69074e9ef",
+        "address": "508-Lantern-Light-Way-Calabash-NC-28467",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1837,
+        "listed_at": "2026-05-16T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.564422,
+          33.911355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85a75a8e-a702-589e-8dbf-1fcf987cc271",
         "address": "804-Hampton-Way-Merritt-Island-FL-32953",
         "beds": 3,
