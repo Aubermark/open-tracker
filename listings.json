@@ -11659,6 +11659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ed67298-179b-58e8-b3a9-5994b00926f5",
+        "address": "100-Priya-Ct-Guyton-GA-31312",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2517,
+        "listed_at": "2026-05-16T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.353328,
+          32.224606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4ef1b315-de17-5eff-91ea-d2206b421c5a",
         "address": "4189-Black-Bear-Dr-Lebanon-OH-45036",
         "beds": 3,
