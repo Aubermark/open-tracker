@@ -3070,6 +3070,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13e3444b-4eb3-5410-8e8a-a727ca5be7b3",
+        "address": "11963-Henderson-Dr-Frisco-TX-75035",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2691,
+        "listed_at": "2026-05-16T20:10:03.000Z",
+        "days_on_market": "16",
+        "current_price": 489000,
+        "price_label": "$489K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774021,
+          33.178701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "145755d7-095f-55d5-a701-ffeb82431b5b",
         "address": "25-Camden-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -36580,6 +36601,27 @@
         "coordinates": [
           -112.234268,
           33.50312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fbf206d7-848c-4e95-8964-f5db4fdf7647",
+        "address": "285-Vista-Dr-Apt-62-La-Habra-CA-90631",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1585,
+        "listed_at": "2026-05-16T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.947862,
+          33.91782
         ]
       }
     },
