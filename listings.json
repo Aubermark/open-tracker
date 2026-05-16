@@ -15985,27 +15985,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6bf6c914-de1e-5774-8f58-47560c59e597",
-        "address": "50-Deer-Grove-Dr-Saint-Peters-MO-63376",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1206,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "59",
-        "current_price": 273000,
-        "price_label": "$273K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.657124,
-          38.788358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6c047e77-1b24-5eca-9f55-4f8bf5f0af79",
         "address": "10330-E-Weaver-Pl-Englewood-CO-80111",
         "beds": 5,
@@ -28789,6 +28768,27 @@
         "coordinates": [
           -80.376939,
           33.921121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c619b8a9-560d-5e5a-9657-6f5211ac10b0",
+        "address": "208-E-Capitola-Ave-Kinston-NC-28501",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3200,
+        "listed_at": "2026-05-16T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.578313,
+          35.270721
         ]
       }
     },
