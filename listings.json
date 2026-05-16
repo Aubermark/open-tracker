@@ -2629,6 +2629,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11b9553f-9d0f-4809-9008-0c3953c4e025",
+        "address": "3411-Woodwind-Ct-Kinston-NC-28504",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1847,
+        "listed_at": "2026-05-16T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.668432,
+          35.332246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11ea4c93-93a6-55e7-852e-c6f9c72013b5",
         "address": "2835-Nw-Pinnacle-Dr-Portland-OR-97229",
         "beds": 5,
