@@ -29929,6 +29929,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cc8921f3-5bf3-5e64-8198-9443d9ccde47",
+        "address": "4037-Brassfield-Dr-Rocky-Mount-NC-27803",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2396,
+        "listed_at": "2026-05-16T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.856678,
+          35.948459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cc968ab7-7fc7-57be-829e-0f5046f9cacb",
         "address": "2855-Jerome-Rd-Atlanta-GA-30349",
         "beds": 3,
