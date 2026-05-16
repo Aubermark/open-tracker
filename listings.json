@@ -7375,6 +7375,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31f1fffe-2e6a-5aa2-b570-fd83edb0c05a",
+        "address": "1231-E-42nd-St-Savannah-GA-31404",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 966,
+        "listed_at": "2026-05-16T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.081839,
+          32.047923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32637fa7-1303-5f94-b682-794c91f491ed",
         "address": "3499-Fm-1564-E-Greenville-TX-75402",
         "beds": 4,
