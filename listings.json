@@ -10966,6 +10966,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a2be3ca-e936-5a8a-91fb-10e487ccf7a8",
+        "address": "32914-Westwood-Square-East-Dr-Magnolia-TX-77354",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2788,
+        "listed_at": "2026-05-17T13:30:02.000Z",
+        "days_on_market": "74",
+        "current_price": 413000,
+        "price_label": "$413K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56949,
+          30.218734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a414be7-3dae-5dcb-8ddb-4b6fb4f480e0",
         "address": "4016-Lady-Slipper-Ln-Durham-NC-27704",
         "beds": 3,
