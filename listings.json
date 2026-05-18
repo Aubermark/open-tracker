@@ -17749,6 +17749,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78ccc8b2-8cee-53cb-ae95-c9e399dd2569",
+        "address": "12015-Landen-Dr-Charlotte-NC-28277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1975,
+        "listed_at": "2026-05-18T15:50:03.000Z",
+        "days_on_market": "60",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.798231,
+          35.037599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "78d3640e-dfd3-5227-bfda-506b952428fe",
         "address": "27801-Canyon-Hills-Way-Murrieta-CA-92563",
         "beds": 5,
