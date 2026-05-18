@@ -9769,6 +9769,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42c0aa71-9709-5e8d-b98a-949740920797",
+        "address": "231-Maggie-St-Longmont-CO-80501",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2154,
+        "listed_at": "2026-05-18T23:10:03.000Z",
+        "days_on_market": "55",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.063801,
+          40.157801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "433e4d70-eeff-52a4-b45c-a8d009a7c11a",
         "address": "1385-Bender-Ave-Daytona-Beach-FL-32117",
         "beds": 2,
@@ -28432,27 +28453,6 @@
         "coordinates": [
           -81.453966,
           28.532033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c741a87b-0ff9-5aeb-8807-ec9b6af95dba",
-        "address": "509-Stone-Crossing-Ln-Fort-Worth-TX-76140",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1770,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">85",
-        "current_price": 268000,
-        "price_label": "$268K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.326042,
-          32.593386
         ]
       }
     },
