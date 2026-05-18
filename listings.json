@@ -12940,27 +12940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59ee1bb0-3f91-5226-9665-b6bb56a6a8c6",
-        "address": "103-Comanche-Ct-Waxahachie-TX-75165",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1767,
-        "listed_at": "2026-04-14T14:10:06.000Z",
-        "days_on_market": "84",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.834066,
-          32.415715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5a97ac76-82fd-5b3b-84ff-e2760b6cb7f2",
         "address": "1564-S-Wolfe-Rd-Sunnyvale-CA-94087",
         "beds": 4,
@@ -31267,6 +31246,27 @@
         "coordinates": [
           -81.875392,
           30.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db2c457d-119f-59fc-8c4a-ed132860ebe4",
+        "address": "2400-Creekview-Dr-Plano-TX-75093",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2939,
+        "listed_at": "2026-05-18T19:40:03.000Z",
+        "days_on_market": "38",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.843562,
+          33.032185
         ]
       }
     },
