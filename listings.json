@@ -11596,6 +11596,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "506b8e92-fa20-527c-9ae9-d38417768621",
+        "address": "29628-Kingston-Ct-Menifee-CA-92584",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1273,
+        "listed_at": "2026-05-18T22:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 498000,
+        "price_label": "$498K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161454,
+          33.686594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "50f86fa2-3372-5a06-bf55-59af7940ff15",
         "address": "7807-Bideford-Ln-Houston-TX-77070",
         "beds": 4,
