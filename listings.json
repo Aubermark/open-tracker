@@ -991,6 +991,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06e21861-5d38-59d2-82a0-a7abe5f9e4f8",
+        "address": "3807-Greenhill-Dr-Atlanta-GA-30341",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-05-18T20:10:02.000Z",
+        "days_on_market": "6",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.305471,
+          33.90395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06e72b6c-e40a-5f76-8a6d-7926defdda83",
         "address": "19641-Sw-82nd-Loop-Dunnellon-FL-34432",
         "beds": 4,
