@@ -5611,27 +5611,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "263cb746-26ba-5808-b217-1a866ac8ba6d",
-        "address": "4484-Northridge-Trl-Ellenwood-GA-30294",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1808,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "19",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.274693,
-          33.63572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2646f22f-0bff-5a0f-883b-9c64cbc27dac",
         "address": "7001-Palomino-Trl-Winston-GA-30187",
         "beds": 4,
@@ -32149,6 +32128,27 @@
         "coordinates": [
           -96.717168,
           33.058376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e1758e00-70f6-5385-a335-0689bd6387da",
+        "address": "261-S-Duke-Ave-Eagle-ID-83616",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1830,
+        "listed_at": "2026-05-18T22:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.336314,
+          43.692498
         ]
       }
     },
