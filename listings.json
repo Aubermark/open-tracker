@@ -16678,6 +16678,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "722284fe-d769-5932-bc84-a0c400cbb6ed",
+        "address": "301-River-Birch-Cir-Mooresville-NC-28115",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1471,
+        "listed_at": "2026-05-18T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.795286,
+          35.546499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "72dd8459-2425-587e-b81a-9fb42128697a",
         "address": "4342-Trotters-Way-Dr-Snellville-GA-30039",
         "beds": 4,
