@@ -16006,6 +16006,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d2b3bd2-916d-592c-be11-8be09e37a665",
+        "address": "4240-Key-Vega-Ct-Jacksonville-FL-32218",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1104,
+        "listed_at": "2026-05-18T13:40:02.000Z",
+        "days_on_market": "57",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.719187,
+          30.433831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d79c35a-14f4-5039-9992-0640939bbef7",
         "address": "6891-Clinton-Corners-Dr-W-Jacksonville-FL-32222",
         "beds": 3,
