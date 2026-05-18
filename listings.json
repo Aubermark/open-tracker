@@ -2902,27 +2902,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "134758ca-0ec7-5529-aaba-95ab78f86859",
-        "address": "2774-Emanuel-Church-Rd-West-Columbia-SC-29170",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1561,
-        "listed_at": "2026-05-18T19:20:02.000Z",
-        "days_on_market": "60",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.157016,
-          33.941767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "13686eb1-f4b0-5a01-98d9-d76f4ff7659d",
         "address": "4408-Waxhaw-Indian-Trail-Rd-Indian-Trail-NC-28079",
         "beds": 4,
@@ -26647,6 +26626,27 @@
         "coordinates": [
           -94.212408,
           45.519063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9c76ea1-9b30-58db-a651-3d883472fba5",
+        "address": "116-E-1st-St-London-OH-43140",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2544,
+        "listed_at": "2026-05-18T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 402000,
+        "price_label": "$402K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.443975,
+          39.886513
         ]
       }
     },
