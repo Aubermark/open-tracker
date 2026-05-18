@@ -592,6 +592,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03b09a08-0915-5edd-8016-9b21a5bf7551",
+        "address": "1825-Ne-Bren-Mar-Rd-Lees-Summit-MO-64086",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-05-18T06:12:02.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.33934,
+          38.944926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03c1b770-54bc-5a82-9a22-ba1a55d8fd72",
         "address": "1411-N-Alberta-St-Apt-8-Portland-OR-97217",
         "beds": 2,
@@ -7201,6 +7222,27 @@
         "coordinates": [
           -81.506171,
           30.601003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "315c42d5-f753-5f01-beb2-8465061def05",
+        "address": "8852-Cumbria-Ct-Jacksonville-FL-32219",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1856,
+        "listed_at": "2026-05-18T06:12:02.000Z",
+        "days_on_market": "59",
+        "current_price": 284000,
+        "price_label": "$284K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.770686,
+          30.412591
         ]
       }
     },
