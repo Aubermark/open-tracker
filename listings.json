@@ -24196,6 +24196,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa7773d8-2b75-5dbd-87ed-ada79e3885b2",
+        "address": "2979-Driftwood-Dr-Lancaster-TX-75146",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1995,
+        "listed_at": "2026-05-19T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 307000,
+        "price_label": "$307K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.762663,
+          32.566237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aaa11c23-8466-599a-b62e-73cd3ee6f258",
         "address": "3717-Knob-Hill-Dr-Plano-TX-75023",
         "beds": 3,
