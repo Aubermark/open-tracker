@@ -14536,6 +14536,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "654f9238-0024-5d4a-92a6-d517af68ab89",
+        "address": "1301-Judy-Ln-Copperas-Cove-TX-76522",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3009,
+        "listed_at": "2026-05-19T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.892974,
+          31.107223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65797167-ad2e-5808-851f-3d3f692981de",
         "address": "9606-Ballin-David-Dr-Spring-TX-77379",
         "beds": 3,
@@ -33304,6 +33325,27 @@
         "coordinates": [
           -97.804315,
           30.042634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec21b8b5-a5c5-5f70-98ea-c93549dd4b39",
+        "address": "716-Westgate-Ct-Anna-TX-75409",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1755,
+        "listed_at": "2026-05-19T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.557714,
+          33.343599
         ]
       }
     },
