@@ -4309,6 +4309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1dff2461-ce3a-5a53-84e8-f38cb61963d6",
+        "address": "918-Bremerton-Dr-Indianapolis-IN-46229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2034,
+        "listed_at": "2026-05-19T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 253000,
+        "price_label": "$253K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96517,
+          39.781692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e21328b-2897-5979-b2ec-f5bf5b930e30",
         "address": "101-Denison-St-Fredericksburg-VA-22406",
         "beds": 3,
