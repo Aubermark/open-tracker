@@ -6829,6 +6829,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f25fc4c-4746-4181-899c-994658cffc40",
+        "address": "681-Davenport-Dr-Waxahachie-TX-75167",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3546,
+        "listed_at": "2026-05-19T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.892515,
+          32.474591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f44061d-173b-5614-a08e-cd752005b883",
         "address": "6515-Bentley-Ridge-Dr-Cumming-GA-30040",
         "beds": 4,
@@ -8362,27 +8383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3a750cb6-552b-58d2-80ae-300b4da86fe9",
-        "address": "816-Omaha-St-Ne-Albuquerque-NM-87123",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1545,
-        "listed_at": "2026-05-13T06:30:15.000Z",
-        "days_on_market": "7",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.500877,
-          35.083619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3a81e99e-ad8d-5c7a-8540-93652ded0b08",
         "address": "243-Meadow-Saffron-Dr-Lexington-SC-29073",
         "beds": 5,
@@ -8608,6 +8608,27 @@
         "coordinates": [
           -86.697341,
           36.280482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b8e2183-c65a-5052-9a56-e832d55f59f6",
+        "address": "16813-W-Shrine-Dr-Yarnell-AZ-85362",
+        "beds": 1,
+        "baths": 2,
+        "sqft": 1306,
+        "listed_at": "2026-05-19T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.750884,
+          34.225625
         ]
       }
     },
@@ -22027,6 +22048,27 @@
         "coordinates": [
           -80.874267,
           35.142308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a0507b9-9cf7-5fab-97ca-483045f3bc0f",
+        "address": "121-Pelham-Ln-Fort-Mill-SC-29715",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1886,
+        "listed_at": "2026-05-19T21:10:03.000Z",
+        "days_on_market": "54",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.907161,
+          35.026548
         ]
       }
     },
