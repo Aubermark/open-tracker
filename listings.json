@@ -3868,6 +3868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a97f9bc-954e-59f8-8d36-fcd1c12ba8b5",
+        "address": "3860-Dominus-Dr-Sparks-NV-89436",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1884,
+        "listed_at": "2026-05-19T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.673207,
+          39.614037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a9847c6-477f-59ce-8bf4-017453a570d4",
         "address": "5790-Bentwood-Dr-Middletown-OH-45042",
         "beds": 3,
@@ -18211,27 +18232,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "806270bb-d7f9-5cae-875f-0c759a5473a0",
-        "address": "6123-Robbins-Cir-S-Jacksonville-FL-32211",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1590,
-        "listed_at": "2026-05-14T06:31:40.000Z",
-        "days_on_market": ">86",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.595677,
-          30.317191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "806b8c6d-c8a0-5154-bffb-b0cc1eb51819",
         "address": "2613-Oak-Blossom-Dr-Mc-Kinney-TX-75071",
         "beds": 4,
@@ -21628,6 +21628,27 @@
         "coordinates": [
           -82.479763,
           34.859304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9692ce65-1c4f-43e1-b5a8-3c750bf79160",
+        "address": "36969-Willow-Flycatcher-Pl-Murrieta-CA-92563",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2064,
+        "listed_at": "2026-05-19T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 630000,
+        "price_label": "$630K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.136528,
+          33.584196
         ]
       }
     },
