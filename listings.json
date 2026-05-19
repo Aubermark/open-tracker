@@ -16552,27 +16552,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7319724e-a607-53f2-b8f4-065da6603c30",
-        "address": "6319-Perry-Ave-N-Brooklyn-Center-MN-55429",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 2048,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "26",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.342836,
-          45.070316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "733468ff-4074-56ef-a372-34f19f355b3f",
         "address": "7706-E-Comanche-Ave-Tampa-FL-33610",
         "beds": 2,
@@ -24757,6 +24736,27 @@
         "coordinates": [
           -84.00526,
           33.786484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ade6d1ac-e447-56b9-bb56-fde28f99ed6c",
+        "address": "115-Cochran-Farms-Dr-Roswell-GA-30075",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 5584,
+        "listed_at": "2026-05-19T15:20:02.000Z",
+        "days_on_market": "25",
+        "current_price": 1340000,
+        "price_label": "$1.340M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.377833,
+          34.06468
         ]
       }
     },
