@@ -7060,6 +7060,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "309d9507-aa86-5bec-81b2-d8d8b8218846",
+        "address": "5134-Quintilis-St-Spring-Hill-FL-34608",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1359,
+        "listed_at": "2026-05-19T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.530712,
+          28.504329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30ccad1a-f0fe-49dc-8402-e7a77e3479bd",
         "address": "1818-Irby-Ct-Tavares-FL-32778",
         "beds": 3,
