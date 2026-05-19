@@ -18379,6 +18379,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81e22b00-6e66-5255-b3bd-2864f6e6f90e",
+        "address": "2175-Timberleaf-Cir-Ingleside-TX-78362",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-05-19T19:30:04.000Z",
+        "days_on_market": "60",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.209086,
+          27.862537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "82032daf-88b2-5530-b383-137bac6b0a18",
         "address": "6945-Talon-Bluff-Dr-Fort-Worth-TX-76179",
         "beds": 3,
@@ -19381,27 +19402,6 @@
         "coordinates": [
           -98.444309,
           29.655515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "883e9ee0-9d63-512d-877b-d2602777825e",
-        "address": "896-W-1625-S-Lehi-UT-84043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2153,
-        "listed_at": "2026-05-14T16:40:04.000Z",
-        "days_on_market": "25",
-        "current_price": 570000,
-        "price_label": "$570K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.863594,
-          40.368619
         ]
       }
     },
