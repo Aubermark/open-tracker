@@ -13696,6 +13696,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f8a22af-fddf-5d97-ba68-ad3aaefb3fc8",
+        "address": "12825-Clifford-Cir-Carmel-IN-46032",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2733,
+        "listed_at": "2026-05-19T19:50:02.000Z",
+        "days_on_market": ">86",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.162375,
+          39.97119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f8bd0cf-2c75-5dd6-9ea5-1ffb1aad30a9",
         "address": "504-Woodbriar-Noble-OK-73068",
         "beds": 3,
