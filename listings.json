@@ -15565,6 +15565,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bb79bcb-e06e-54e4-9fb0-61bb3c2a4876",
+        "address": "18856-N-Comet-Trl-Maricopa-AZ-85138",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2221,
+        "listed_at": "2026-05-19T22:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.027643,
+          33.050955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bbe852d-fe5d-5634-bfce-4433f7b24ce4",
         "address": "7614-Stonebush-Way-Douglasville-GA-30134",
         "beds": 3,
