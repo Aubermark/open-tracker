@@ -298,6 +298,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01abe3ff-208c-59d0-bd83-02f1aca66227",
+        "address": "12555-Agatite-Rd-Jacksonville-FL-32258",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1823,
+        "listed_at": "2026-05-19T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.561377,
+          30.141612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -9532,6 +9553,27 @@
         "coordinates": [
           -82.961596,
           42.679337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4196123d-65d6-5f32-be73-074a483631fe",
+        "address": "12839-Glengary-Dr-Fishers-IN-46038",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-05-19T18:40:03.000Z",
+        "days_on_market": "33",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.989821,
+          39.974798
         ]
       }
     },
@@ -35005,27 +35047,6 @@
         "coordinates": [
           -85.0184,
           33.980111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f80f89a5-ced2-5ae2-8d3b-f03861fed9c1",
-        "address": "12209-Willingdon-Rd-Huntersville-NC-28078",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3252,
-        "listed_at": "2026-05-14T22:30:02.000Z",
-        "days_on_market": "5",
-        "current_price": 735000,
-        "price_label": "$735K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.829879,
-          35.433382
         ]
       }
     },
