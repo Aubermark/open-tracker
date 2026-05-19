@@ -32848,6 +32848,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9942828-4be2-5065-b13b-35dded47d8ff",
+        "address": "39676-Ridgedale-Dr-Murrieta-CA-92563-18200024",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2204,
+        "listed_at": "2026-05-19T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 716000,
+        "price_label": "$716K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.170244,
+          33.564931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9a1a949-b4b0-5ca7-83ad-82de1f1a303e",
         "address": "48-Russell-Rd-Lawrenceville-GA-30043",
         "beds": 4,
