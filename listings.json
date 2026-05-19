@@ -3931,6 +3931,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ae478f0-bb85-56d0-b033-48f50f2d97d0",
+        "address": "3037-Paint-Brush-Pl-Lancaster-TX-75134",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1934,
+        "listed_at": "2026-05-19T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.78976,
+          32.624957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b0e46eb-011e-5305-8791-2d6794011bc2",
         "address": "2020-Stoney-Point-Ln-Unit-59-Charlotte-NC-28210",
         "beds": 2,
@@ -14173,6 +14194,27 @@
         "coordinates": [
           -80.623098,
           33.033554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "62f55856-db6e-58a3-8cdb-528f4407df3c",
+        "address": "1120-Beaverwood-Ln-Crowley-TX-76036",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1784,
+        "listed_at": "2026-05-19T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.373047,
+          32.563086
         ]
       }
     },
