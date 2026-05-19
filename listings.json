@@ -4897,6 +4897,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22586bd3-27c5-48f8-a6f6-ffb12ae98777",
+        "address": "2700-Westside-Dr-Leesburg-FL-34748",
+        "beds": 2,
+        "baths": 3,
+        "sqft": 3390,
+        "listed_at": "2026-05-19T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.907592,
+          28.814622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2272b6cf-c2c5-510d-8f99-895f5b8d4ea3",
         "address": "138-Matthias-Ct-Mocksville-NC-27028",
         "beds": 4,
