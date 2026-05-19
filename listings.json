@@ -12919,6 +12919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59fc9c93-48a1-5a86-b6eb-9d38c41783d0",
+        "address": "1043-E-Daniella-Dr-San-Tan-Valley-AZ-85140",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2400,
+        "listed_at": "2026-05-19T22:00:06.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.554614,
+          33.224321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a97ac76-82fd-5b3b-84ff-e2760b6cb7f2",
         "address": "1564-S-Wolfe-Rd-Sunnyvale-CA-94087",
         "beds": 4,
