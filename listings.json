@@ -26401,6 +26401,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9b69866-5487-511a-901d-9b6ecd4072b5",
+        "address": "141-Se-Calmoso-Dr-Port-Saint-Lucie-FL-34983",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1139,
+        "listed_at": "2026-05-19T14:50:03.000Z",
+        "days_on_market": ">86",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.346896,
+          27.311477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9be2274-108a-5141-a6f7-d1157ed49e12",
         "address": "3072-Nottingham-Rd-S-St-Cloud-MN-56301-17647910",
         "beds": 3,
