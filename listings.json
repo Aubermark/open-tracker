@@ -9496,6 +9496,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4196223f-53d0-5593-9448-a9e19b74d56c",
+        "address": "780-Olympic-Cir-Ocoee-FL-34761",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1401,
+        "listed_at": "2026-05-19T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.527196,
+          28.565274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4223ff37-2de8-5aca-9320-66608d7a3987",
         "address": "13214-Deepwater-Cir-Corpus-Christi-TX-78410",
         "beds": 3,
