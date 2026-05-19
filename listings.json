@@ -2671,6 +2671,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12645d17-18d9-58a1-ba9b-b462740537f4",
+        "address": "868-Teton-St-Haines-City-FL-33844",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1734,
+        "listed_at": "2026-05-19T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.635916,
+          28.149335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "127655cb-ea18-5a80-a3b0-c227715d7861",
         "address": "21469-Hunter-Hart-Dr-Porter-TX-77365",
         "beds": 4,
@@ -6193,6 +6214,27 @@
         "coordinates": [
           -86.159239,
           39.777472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b7ce0a2-dfca-5aee-8bbd-074f2f1c8100",
+        "address": "4322-Rhapsody-Ln-Indianapolis-IN-46235",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2094,
+        "listed_at": "2026-05-19T18:30:04.000Z",
+        "days_on_market": "18",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.983713,
+          39.836401
         ]
       }
     },
@@ -28579,6 +28621,27 @@
         "coordinates": [
           -90.218606,
           38.619008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb59de6c-78cb-5794-9dd2-9f8770f367a4",
+        "address": "128-Broken-Rock-Dr-Henderson-NV-89074",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1761,
+        "listed_at": "2026-05-19T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.068854,
+          36.036717
         ]
       }
     },
