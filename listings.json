@@ -18988,6 +18988,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85a75a8e-a702-589e-8dbf-1fcf987cc271",
+        "address": "804-Hampton-Way-Merritt-Island-FL-32953",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-05-19T17:40:02.000Z",
+        "days_on_market": "32",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.691728,
+          28.36229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85c58fbd-d66d-5fe4-ac2f-428ddae83c88",
         "address": "6033-S-Mack-Ave-Gilbert-AZ-85298",
         "beds": 4,
@@ -35614,6 +35635,27 @@
         "coordinates": [
           -80.19708,
           36.145931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc68b35f-f12c-5bb8-9300-173810db83b9",
+        "address": "5005-Tangerine-Ave-S-Gulfport-FL-33707",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 597,
+        "listed_at": "2026-05-19T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.701018,
+          27.752319
         ]
       }
     },
