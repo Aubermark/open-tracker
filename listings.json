@@ -4687,27 +4687,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "205e6ecf-7d15-51e7-aeb8-14069570dae3",
-        "address": "2650-Merry-Rd-Cumming-GA-30041",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1008,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">85",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.091788,
-          34.183125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "206fc41a-f27f-54e5-ae0d-bd0ab17733d6",
         "address": "1824-E-Hudson-Ave-Royal-Oak-MI-48067",
         "beds": 3,
@@ -17008,6 +16987,27 @@
         "coordinates": [
           -83.990529,
           34.398826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7555a91a-a628-5873-bbbd-a84efe13cd24",
+        "address": "1913-Tulsa-St-Deer-Park-TX-77536",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1764,
+        "listed_at": "2026-05-19T00:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.141296,
+          29.687924
         ]
       }
     },
