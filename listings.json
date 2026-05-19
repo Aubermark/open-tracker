@@ -28858,6 +28858,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cc115aaa-a5f7-5b93-8d7b-ff461c8c185d",
+        "address": "15257-S-182nd-Ln-Goodyear-AZ-85338",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2770,
+        "listed_at": "2026-05-19T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.441433,
+          33.308253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cc1cb968-ddc3-5336-ab29-dd7b88cde36e",
         "address": "5925-Davon-St-Jacksonville-FL-32244",
         "beds": 4,
@@ -29167,6 +29188,27 @@
         "coordinates": [
           -84.767684,
           33.379336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce74655a-67e9-5feb-b37f-bcbee3f04e45",
+        "address": "1116-Cunningham-Ave-Saint-Charles-MO-63301",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1040,
+        "listed_at": "2026-05-19T19:00:05.000Z",
+        "days_on_market": "29",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.504407,
+          38.777593
         ]
       }
     },
