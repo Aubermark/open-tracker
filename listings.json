@@ -3070,6 +3070,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13fc3ca9-3c35-5a72-9dd5-075bd68f892f",
+        "address": "5812-Springfish-Pl-Waldorf-MD-20603",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1320,
+        "listed_at": "2026-05-20T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.947833,
+          38.613364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "145755d7-095f-55d5-a701-ffeb82431b5b",
         "address": "25-Camden-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -7348,6 +7369,27 @@
         "coordinates": [
           -81.706319,
           28.808928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "30db6dd7-c136-5d9c-bc13-b6e87d7fe856",
+        "address": "14-Halyn-Ln-Arden-NC-28704",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1825,
+        "listed_at": "2026-05-20T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.569619,
+          35.463189
         ]
       }
     },
