@@ -10210,6 +10210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44a0e4f9-3455-549b-a59e-b00c52628be0",
+        "address": "13809-Singleleaf-Ln-Charlotte-NC-28278",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1589,
+        "listed_at": "2026-05-20T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.001353,
+          35.098487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44c24e9d-3794-4e97-8e07-e7dce560dd47",
         "address": "785-Habitat-Way-Sunbury-OH-43074",
         "beds": 5,
