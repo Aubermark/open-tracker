@@ -10504,27 +10504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4730b21d-e64d-5a0e-a53e-2ca62b431f65",
-        "address": "2154-Hinton-Dr-Se-Smyrna-GA-30080",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 2726,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": ">87",
-        "current_price": 598000,
-        "price_label": "$598K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.492291,
-          33.845044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "475d42d2-7725-4112-8b85-141aec123119",
         "address": "1254-Dunbar-St-Altamonte-Springs-FL-32701",
         "beds": 3,
@@ -27157,27 +27136,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bdae0d47-9897-5248-922a-5e9fb1ba87fd",
-        "address": "60-W-Monte-Cristo-Dr-Wickenburg-AZ-85390",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1333,
-        "listed_at": "2026-05-14T06:31:38.000Z",
-        "days_on_market": "49",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.731064,
-          33.962409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bded693c-b0c6-52a0-bcdf-a84d2d3b2bb6",
         "address": "4617-Deal-Dr-Fort-Worth-TX-76135",
         "beds": 3,
@@ -28957,6 +28915,27 @@
         "coordinates": [
           -90.218606,
           38.619008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb4ef73a-fbf0-55b8-a263-541a7a6e237e",
+        "address": "6906-Captain-Edward-Toppins-Ct-Fort-Washington-MD-20744",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3270,
+        "listed_at": "2026-05-20T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.948665,
+          38.795375
         ]
       }
     },
