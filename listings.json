@@ -3532,6 +3532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16786353-67bb-543f-84bd-0c2638927d0e",
+        "address": "194-Canada-Dr-Statesville-NC-28677",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2424,
+        "listed_at": "2026-05-20T20:10:07.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.865994,
+          35.746998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16797c8c-c11b-55e1-8dd8-e977c6615b80",
         "address": "172-Watercress-Ct-Stockbridge-GA-30281",
         "beds": 3,
