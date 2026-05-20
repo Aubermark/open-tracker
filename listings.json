@@ -1789,27 +1789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0c2c4433-d072-5cd7-bec1-53f81fcaa572",
-        "address": "2035-S-227th-Ave-Buckeye-AZ-85326",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1940,
-        "listed_at": "2026-05-13T19:10:02.000Z",
-        "days_on_market": "7",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.540016,
-          33.427417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
         "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
         "beds": 4,
@@ -20515,6 +20494,27 @@
         "coordinates": [
           -82.442685,
           29.625846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8ee809e4-978b-5f95-b3ed-b5eaffaac458",
+        "address": "453-N-Deerfield-Ave-Deerfield-Beach-FL-33441",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1128,
+        "listed_at": "2026-05-20T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1021,
+          26.323728
         ]
       }
     },
