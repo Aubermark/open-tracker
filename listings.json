@@ -5590,27 +5590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
-        "address": "819-Scenic-Cir-Seymour-TN-37865",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1500,
-        "listed_at": "2026-04-30T21:00:02.000Z",
-        "days_on_market": "20",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.754558,
-          35.894039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "252db0ea-c745-592b-9977-3dc815ff4691",
         "address": "167-Bridgewood-Dr-Se-Conyers-GA-30094",
         "beds": 3,
@@ -20683,6 +20662,27 @@
         "coordinates": [
           -84.5628,
           33.422407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8de0a210-0c92-51a3-a317-e26d985ed096",
+        "address": "9518-Rushmore-Cir-Braselton-GA-30517",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2244,
+        "listed_at": "2026-05-20T22:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.812524,
+          34.125599
         ]
       }
     },
