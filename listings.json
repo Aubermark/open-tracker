@@ -3511,6 +3511,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16fe0483-0ad9-5242-9906-b69c3c941a1b",
+        "address": "7222-Artisan-Ln-San-Antonio-TX-78250",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-05-20T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 209000,
+        "price_label": "$209K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.684828,
+          29.509593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "170b793f-0093-5821-b1f4-ebc7cc19228c",
         "address": "642-W-Cassidy-Pl-Tucson-AZ-85737",
         "beds": 3,
@@ -6571,6 +6592,27 @@
         "coordinates": [
           -95.011689,
           29.404698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2d12b77e-6cca-56c6-854e-e448a1006bf8",
+        "address": "2516-Fairway-View-Dr-Burleson-TX-76028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1792,
+        "listed_at": "2026-05-20T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.362343,
+          32.496451
         ]
       }
     },
