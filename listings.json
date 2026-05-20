@@ -9580,6 +9580,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4140bfcd-1471-5c35-9ee1-13254a6c375e",
+        "address": "727-Cypress-St-Lansdowne-PA-19050",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1482,
+        "listed_at": "2026-05-20T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.247365,
+          39.934394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
         "address": "13167-Roma-Bnd-Carmel-IN-46074",
         "beds": 3,
