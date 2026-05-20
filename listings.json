@@ -2503,6 +2503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "116a1626-1f7a-5c54-9f3d-a589e750377f",
+        "address": "6325-E-Sweetwater-Ave-Scottsdale-AZ-85254",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2263,
+        "listed_at": "2026-05-20T15:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1000000,
+        "price_label": "$1.000M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.943688,
+          33.603812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1171f34b-b47e-5913-a869-7eb02b94708b",
         "address": "40-Duo-Dr-Martinsville-IN-46151",
         "beds": 3,
