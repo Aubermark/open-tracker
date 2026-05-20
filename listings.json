@@ -256,6 +256,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "015c3b4b-db80-5f59-b24b-464cf9e1e7d7",
+        "address": "113-Bittercreek-Dr-Folsom-CA-95630",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1891,
+        "listed_at": "2026-05-20T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.134009,
+          38.678675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0190efa5-a6f9-4d49-aff4-458bf24d22e6",
         "address": "5413-Austin-Rd-Monroe-NC-28112",
         "beds": 3,
@@ -9013,27 +9034,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3d3229f5-42e7-588c-ba94-ab6dad56117e",
-        "address": "404-W-6th-St-Irving-TX-75060",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2246,
-        "listed_at": "2026-04-09T06:35:40.000Z",
-        "days_on_market": "61",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.950124,
-          32.8084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3d3e51ea-c2d0-51ea-8d94-0322ead549c2",
         "address": "5621-Split-Oak-Way-Raleigh-NC-27609",
         "beds": 2,
@@ -14914,27 +14914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "66e94205-61cf-545e-8bfe-ecab1546f8f1",
-        "address": "413-Jasmine-Trl-Athens-GA-30606",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "77",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.45127,
-          33.983994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66f12572-4dd8-5a1c-a7f3-d1e855eb4ec0",
         "address": "91-Richmond-Dr-Lagrange-GA-30240",
         "beds": 4,
@@ -15706,27 +15685,6 @@
         "coordinates": [
           -97.622823,
           35.549777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6bf440c0-614f-5bfb-9eb4-654fdcd40d90",
-        "address": "10726-Sugar-Hill-Dr-Houston-TX-77042",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2369,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "70",
-        "current_price": 608000,
-        "price_label": "$608K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.566582,
-          29.753301
         ]
       }
     },
