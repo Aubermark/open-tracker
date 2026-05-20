@@ -2314,6 +2314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fc54136-8d90-56c3-b0f0-608f27bcd745",
+        "address": "420-Creekside-Ln-Woodstock-GA-30188",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-05-20T16:10:02.000Z",
+        "days_on_market": "14",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5014,
+          34.09155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fdf9a32-87a6-5a54-8fa8-1103631db745",
         "address": "19106-Lost-Mine-Trl-Spring-TX-77388",
         "beds": 4,
@@ -18547,6 +18568,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "80d8fcdd-5f76-5947-ab7e-197256b55490",
+        "address": "7579-Chrisland-Cv-Falls-Church-VA-22042",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1640,
+        "listed_at": "2026-05-20T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.207282,
+          38.864877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
         "address": "8605-N-67th-Ln-Peoria-AZ-85345",
         "beds": 3,
@@ -18793,27 +18835,6 @@
         "coordinates": [
           -79.115006,
           35.03528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8305f382-a348-5c24-a3ca-9e674a783709",
-        "address": "1200-E-River-Rd-Unit-L158-Tucson-AZ-85718",
-        "beds": 1,
-        "baths": 1,
-        "sqft": 753,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "23",
-        "current_price": 161000,
-        "price_label": "$161K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.952802,
-          32.291836
         ]
       }
     },
