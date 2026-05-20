@@ -7858,6 +7858,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "353e150f-c8f1-5fbd-b3f8-4b562c43c0dd",
+        "address": "133-Maplewood-Dr-Temple-GA-30179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1334,
+        "listed_at": "2026-05-20T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.018392,
+          33.732986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "354a41e6-e5e5-4d8c-8789-ffa15193afb3",
         "address": "336-Pacific-Waters-Seguin-TX-78155",
         "beds": 4,
