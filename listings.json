@@ -22390,6 +22390,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99c4691c-2bb6-5ef2-b44f-bace44417185",
+        "address": "16107-Horseshoe-Hill-Ct-Cypress-TX-77429",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2310,
+        "listed_at": "2026-05-20T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.668142,
+          29.989257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99d995df-fc16-50af-83b4-c492234fc5e3",
         "address": "185-Boiling-Brook-Dr-Statesville-NC-28625",
         "beds": 4,
@@ -25282,6 +25303,27 @@
         "coordinates": [
           -96.45463,
           32.689536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae8cd4be-6706-5bc4-af35-3ce7935952e6",
+        "address": "235-White-Cloud-Trl-Murfreesboro-TN-37127",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2231,
+        "listed_at": "2026-05-20T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.394168,
+          35.79152
         ]
       }
     },
