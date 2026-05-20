@@ -1285,6 +1285,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08e6ff08-048f-5cad-a04d-22cd34f7e9da",
+        "address": "36-N-Purdue-Ave-New-Castle-DE-19720",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1600,
+        "listed_at": "2026-05-20T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.576957,
+          39.67674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08fa09d0-208c-538d-acbc-18b189369108",
         "address": "5211-E-20th-St-Tucson-AZ-85711",
         "beds": 3,
@@ -15796,6 +15817,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cc13921-4180-5247-b5f8-72810bd5f526",
+        "address": "802-W-Tipton-Dr-Tucson-AZ-85705",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1250,
+        "listed_at": "2026-05-20T16:20:02.000Z",
+        "days_on_market": ">87",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.984567,
+          32.255064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cd97aea-d6c4-5edb-9ead-138944b02e88",
         "address": "3413-Snowy-Egret-Ct-Palm-Harbor-FL-34683",
         "beds": 3,
@@ -20893,27 +20935,6 @@
         "coordinates": [
           -80.356355,
           36.153923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "913f22f2-5ae0-57d9-b255-be4f379195a3",
-        "address": "8632-94th-St-Seminole-FL-33777",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1386,
-        "listed_at": "2026-05-14T06:31:40.000Z",
-        "days_on_market": "82",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.769388,
-          27.850788
         ]
       }
     },
