@@ -28354,6 +28354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6cddc2e-b82e-56eb-8ff3-b85d371d8342",
+        "address": "1-Newcourt-Pl-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-05-20T17:50:02.000Z",
+        "days_on_market": "47",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.921642,
+          34.148109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6d32ad3-2abd-5568-a063-d7bcd614667d",
         "address": "4400-Ivy-Fork-Dr-Loganville-GA-30052",
         "beds": 4,
