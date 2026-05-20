@@ -10210,6 +10210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4636540e-de14-57a1-af58-f1e11f8e7338",
+        "address": "818-W-130th-St-Compton-CA-90222",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1767,
+        "listed_at": "2026-05-20T15:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.240094,
+          33.913841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46571ea9-cb3b-5344-9572-56a11e6b40f1",
         "address": "939-Staffordale-Manor-Ln-Houston-TX-77047",
         "beds": 3,
@@ -24022,27 +24043,6 @@
         "coordinates": [
           -111.625949,
           33.244942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a71b459b-a417-54f1-9b5a-14f289b048c4",
-        "address": "1711-Kennedy-Dr-Wylie-TX-75098",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2877,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "55",
-        "current_price": 417000,
-        "price_label": "$417K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.573269,
-          33.02371
         ]
       }
     },
