@@ -17854,6 +17854,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a10e9fa-fb7e-592c-8cd1-9b01d490bf06",
+        "address": "10050-Montrose-Dr-Nw-Charlotte-NC-28269",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2495,
+        "listed_at": "2026-05-20T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.748007,
+          35.393356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
         "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
