@@ -67,27 +67,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "00a36a78-cf73-5de3-9c6f-055c95064406",
-        "address": "278-Chemistry-Cir-Ladson-SC-29456",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1249,
-        "listed_at": "2026-05-15T19:50:02.000Z",
-        "days_on_market": ">87",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.136383,
-          32.966105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "00c0eb84-e662-5e97-9c10-4d86a3486f0c",
         "address": "15800-E-121st-Ave-Unit-Q5-Lochbuie-CO-80603",
         "beds": 2,
@@ -18295,6 +18274,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d465cc5-adb4-5b75-9613-c43cd4d7118b",
+        "address": "735-Highridge-Dr-Little-Elm-TX-75068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2214,
+        "listed_at": "2026-05-20T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.970563,
+          33.137172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dd55e82-0555-4cff-9f55-c7203a6cf94a",
         "address": "4234-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
@@ -31288,6 +31288,27 @@
         "coordinates": [
           -80.866362,
           35.785968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da2a0d6b-275c-5ec2-a789-7758839b6e4a",
+        "address": "9654-Windsor-Lake-Blvd-Columbia-SC-29223",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2818,
+        "listed_at": "2026-05-20T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.923774,
+          34.08619
         ]
       }
     },
