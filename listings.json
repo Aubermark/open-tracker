@@ -14263,6 +14263,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "622d08a1-e6ee-5c42-8238-98989057768e",
+        "address": "319-Beacon-Hills-Dr-Gastonia-NC-28056",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2176,
+        "listed_at": "2026-05-20T19:00:02.000Z",
+        "days_on_market": "30",
+        "current_price": 407000,
+        "price_label": "$407K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.103363,
+          35.205027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "623b4965-184a-5d14-8202-c56910a58c99",
         "address": "4241-Grady-Smith-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -27823,6 +27844,27 @@
         "coordinates": [
           -82.379504,
           29.659286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c2d9f9bb-e76a-5757-a630-6c5e6071f6f2",
+        "address": "119-County-Road-2620-Mineola-TX-75773",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3193,
+        "listed_at": "2026-05-20T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44873,
+          32.662979
         ]
       }
     },
