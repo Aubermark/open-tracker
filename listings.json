@@ -3007,27 +3007,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
-        "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2896,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "21",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.969602,
-          33.688202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "13baff61-523d-4024-ad81-102e5b453727",
         "address": "2270-Luna-Haven-St-Henderson-NV-89044",
         "beds": 4,
@@ -13081,6 +13060,27 @@
         "coordinates": [
           -97.674212,
           31.054982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "590f534d-95de-576d-847e-6686b4e198da",
+        "address": "305-Deer-Creek-Rd-Fort-Worth-TX-76140",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1404,
+        "listed_at": "2026-05-20T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 223000,
+        "price_label": "$223K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.271811,
+          32.628188
         ]
       }
     },
@@ -29251,27 +29251,6 @@
         "coordinates": [
           -80.147813,
           32.992569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cb84ee8e-5288-5ab3-a602-e79eec80acc1",
-        "address": "4850-E-Living-Stone-Way-San-Tan-Valley-AZ-85143",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2153,
-        "listed_at": "2026-05-08T06:26:12.000Z",
-        "days_on_market": "13",
-        "current_price": 368000,
-        "price_label": "$368K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.514276,
-          33.13812
         ]
       }
     },
