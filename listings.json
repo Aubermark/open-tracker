@@ -3574,6 +3574,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17ac6f16-05a4-5615-bc91-68594809c9b9",
+        "address": "500-Founders-Dr-E-Alpharetta-GA-30004",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3997,
+        "listed_at": "2026-05-20T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1200000,
+        "price_label": "$1.200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.305224,
+          34.192349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17d51b8e-536a-53bb-bba4-9dc4dab3e474",
         "address": "3440-Coach-Lantern-Ave-Wake-Forest-NC-27587",
         "beds": 4,
@@ -33373,6 +33394,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eae5a644-c881-5149-9e06-6a7974520dfa",
+        "address": "2818-Saint-Felicity-Corpus-Christi-TX-78418",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1454,
+        "listed_at": "2026-05-20T15:40:02.000Z",
+        "days_on_market": "85",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.30464,
+          27.643447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eb707642-9ec2-5729-8a62-b94a7a86d2d9",
         "address": "262-Sw-Panther-Trce-Port-Saint-Lucie-FL-34953",
         "beds": 3,
@@ -35509,27 +35551,6 @@
         "coordinates": [
           -104.865711,
           39.059481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f94fab6f-128e-58e3-9816-003a987428f9",
-        "address": "19822-Rippling-Brook-Ln-Tomball-TX-77375-17890627",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2016,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "64",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.588807,
-          30.050298
         ]
       }
     },
