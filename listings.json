@@ -3217,6 +3217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1566ba38-e877-52c7-945d-8ca734c753fb",
+        "address": "4027-Lawrence-Ave-Kensington-MD-20895",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1447,
+        "listed_at": "2026-05-20T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.081311,
+          39.035494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "159b5eb0-0260-54cc-a484-2b5bcab38f9a",
         "address": "29212-Ursuline-St-Saint-Clair-Shores-MI-48081",
         "beds": 3,
@@ -17959,27 +17980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7bf51db9-276c-5de6-ae82-e4b7ee216eb7",
-        "address": "509-8th-St-Farmington-MN-55024",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1859,
-        "listed_at": "2026-05-07T15:20:03.000Z",
-        "days_on_market": ">87",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.136447,
-          44.637149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7bf644cc-f509-5ca0-8fd2-c84bd07f35aa",
         "address": "12917-Meadows-Dr-Oklahoma-City-OK-73120",
         "beds": 3,
@@ -30952,6 +30952,27 @@
         "coordinates": [
           -86.166433,
           39.602396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d84ef8c8-3006-5748-ba4f-2f44308e8035",
+        "address": "699-Thousand-Oaks-Dr-Las-Vegas-NV-89123",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1053,
+        "listed_at": "2026-05-20T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.147599,
+          36.037267
         ]
       }
     },
