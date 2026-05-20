@@ -172,6 +172,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00f709e1-7447-52aa-95b2-dd377061ad94",
+        "address": "127-Nelson-St-Durham-NC-27707",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-05-20T18:50:03.000Z",
+        "days_on_market": "23",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90566,
+          35.973706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00f85311-a2e5-58d4-9c2a-c484d3756d8c",
         "address": "659-Island-Park-Dr-Daniel-Island-SC-29492",
         "beds": 3,
@@ -18625,6 +18646,27 @@
         "coordinates": [
           -97.439847,
           32.866317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "820cee51-3349-545d-ae6c-938ed57bf9c2",
+        "address": "40003-N-Majesty-Trl-New-River-AZ-85086",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4453,
+        "listed_at": "2026-05-20T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1050000,
+        "price_label": "$1.050M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.12626,
+          33.847793
         ]
       }
     },
