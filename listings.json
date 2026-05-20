@@ -11197,27 +11197,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4c261dc8-8ab5-5495-a01e-a076261d90e7",
-        "address": "122-Griffin-Way-Canton-GA-30115",
-        "beds": 6,
-        "baths": 5,
-        "sqft": 4569,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">87",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.405156,
-          34.270731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4c6804cc-d0a0-5424-b8ed-6fc6e35d6dbb",
         "address": "507-Summit-Terrace-Ct-Columbia-SC-29229",
         "beds": 3,
@@ -13648,6 +13627,27 @@
         "coordinates": [
           -96.778211,
           33.225905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5d5de8c8-880e-55a5-a671-8d16e0c72dbf",
+        "address": "14281-Princedale-Dr-Woodbridge-VA-22193",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1716,
+        "listed_at": "2026-05-20T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.371967,
+          38.641131
         ]
       }
     },
@@ -28180,6 +28180,27 @@
         "coordinates": [
           -81.307594,
           28.989985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3dc5c10-87b8-5616-80e4-a21e15a52b7f",
+        "address": "2017-Sweet-Bay-Dr-Villa-Rica-GA-30180",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3478,
+        "listed_at": "2026-05-20T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.890895,
+          33.749938
         ]
       }
     },
