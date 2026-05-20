@@ -14998,6 +14998,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67b6b352-d243-5fe0-9104-c27fe1afd5c5",
+        "address": "17406-Ridge-Top-Dr-Houston-TX-77090",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2602,
+        "listed_at": "2026-05-20T17:20:04.000Z",
+        "days_on_market": "20",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.461373,
+          30.017624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "67e28256-afd4-5fd3-b222-6323a8942cb0",
         "address": "80-Play-House-Dr-Ringgold-GA-30736",
         "beds": 4,
@@ -24295,6 +24316,27 @@
         "coordinates": [
           -81.157067,
           35.240478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a9988697-6abc-5e7e-9a02-11c1911cf9e3",
+        "address": "11820-N-66th-Dr-Glendale-AZ-85304",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1597,
+        "listed_at": "2026-05-20T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.202387,
+          33.593382
         ]
       }
     },
