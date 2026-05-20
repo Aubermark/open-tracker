@@ -18358,27 +18358,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7eaa03d7-14df-52d6-a6db-d0eeeb525cfc",
-        "address": "2429-Nw-109th-St-Oklahoma-City-OK-73120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1228,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "58",
-        "current_price": 192000,
-        "price_label": "$192K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.557087,
-          35.580954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7ebbd202-73d8-5085-8f2f-98a3b2386410",
         "address": "8949-Corte-Pellejo-Spring-Valley-CA-91977",
         "beds": 3,
@@ -29950,27 +29929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d039365f-aa97-5ca4-82fe-65c9b92514c6",
-        "address": "10422-Elk-Point-Ln-Houston-TX-77064",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1696,
-        "listed_at": "2026-05-20T14:30:02.000Z",
-        "days_on_market": "15",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.576484,
-          29.918875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d048f576-60a9-5701-b735-7a77be28efb0",
         "address": "6937-Bucksland-Dr-Ooltewah-TN-37363",
         "beds": 3,
@@ -30385,6 +30343,27 @@
         "coordinates": [
           -76.736997,
           38.983053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d319b0ee-f06d-5f0e-be20-91e479104998",
+        "address": "213-Elders-Pond-Dr-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1634,
+        "listed_at": "2026-05-20T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.904737,
+          34.150969
         ]
       }
     },
