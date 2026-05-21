@@ -18841,6 +18841,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8175f8d8-29a2-58c0-b816-512da1ae5b2e",
+        "address": "2831-N-70th-Dr-Phoenix-AZ-85035",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1064,
+        "listed_at": "2026-05-21T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.210807,
+          33.479539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81a21de9-bb83-5f79-ad12-570d4f6cad75",
         "address": "1952-Nuevo-St-Hemet-CA-92545",
         "beds": 2,
@@ -26233,6 +26254,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b358e326-81cd-5b00-a8f6-64adf62bde02",
+        "address": "432-Leslie-Wood-Dr-Clarksville-TN-37040",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1975,
+        "listed_at": "2026-05-21T19:40:03.000Z",
+        "days_on_market": "77",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.314207,
+          36.592902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b381359c-220d-5ef6-a02b-9a7ebe3471a3",
         "address": "7707-Windmere-Ct-Irving-TX-75063",
         "beds": 3,
@@ -28852,27 +28894,6 @@
         "coordinates": [
           -97.667962,
           31.048605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c7189558-ffe7-524b-a06f-89d988aebefd",
-        "address": "5447-Blueberry-Dr-Orlando-FL-32811",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1165,
-        "listed_at": "2026-05-13T19:20:02.000Z",
-        "days_on_market": "8",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.453966,
-          28.532033
         ]
       }
     },
