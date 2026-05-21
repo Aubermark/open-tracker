@@ -655,27 +655,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03d620bf-fa52-5f13-9dbd-850e92aae594",
-        "address": "18320-Candice-Dr-Triangle-VA-22172",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1685,
-        "listed_at": "2026-05-07T06:27:37.000Z",
-        "days_on_market": "72",
-        "current_price": 513000,
-        "price_label": "$513K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.313879,
-          38.554266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "04297fd8-3ea6-5d1d-b241-032aadca91d7",
         "address": "6757-Troy-Ln-N-Maple-Grove-MN-55311",
         "beds": 4,
@@ -17176,6 +17155,27 @@
         "coordinates": [
           -81.18237,
           34.065656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "75a3b363-9d2e-5b6f-8b7d-335e4a46f10f",
+        "address": "13808-S-Robinson-Ave-Oklahoma-City-OK-73170",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2573,
+        "listed_at": "2026-05-21T18:40:02.000Z",
+        "days_on_market": "13",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.514821,
+          35.331401
         ]
       }
     },
