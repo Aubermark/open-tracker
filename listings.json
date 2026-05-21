@@ -35725,6 +35725,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f80f89a5-ced2-5ae2-8d3b-f03861fed9c1",
+        "address": "12209-Willingdon-Rd-Huntersville-NC-28078",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3252,
+        "listed_at": "2026-05-21T18:30:03.000Z",
+        "days_on_market": "7",
+        "current_price": 735000,
+        "price_label": "$735K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.829879,
+          35.433382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f83d1935-7657-568c-888d-dde0f8aedab4",
         "address": "232-Misty-Pike-Dr-Raleigh-NC-27603",
         "beds": 3,
