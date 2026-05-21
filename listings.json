@@ -22243,6 +22243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9732e069-837a-5ba7-96d1-fc3b2391795d",
+        "address": "5678-Baffin-Ln-Belton-TX-76513",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1568,
+        "listed_at": "2026-05-21T15:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.510923,
+          31.027649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "974af030-2d90-5141-9c46-e0bbad264580",
         "address": "14-Milton-Loop-Los-Lunas-NM-87031-17225612",
         "beds": 3,
@@ -32370,10 +32391,10 @@
         "beds": 4,
         "baths": 2.5,
         "sqft": 2406,
-        "listed_at": "2026-04-29T19:30:03.000Z",
+        "listed_at": "2026-05-21T15:20:02.000Z",
         "days_on_market": "22",
-        "current_price": 341000,
-        "price_label": "$341K"
+        "current_price": 331000,
+        "price_label": "$331K"
       },
       "geometry": {
         "type": "Point",
