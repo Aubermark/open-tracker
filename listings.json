@@ -9034,6 +9034,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3bb4789b-9200-50c5-823c-24e425e390cd",
+        "address": "1033-Rabon-Pond-Dr-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1150,
+        "listed_at": "2026-05-21T20:10:03.000Z",
+        "days_on_market": "23",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93033,
+          34.098782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3bd4e6ad-e309-507b-a615-24df59c1956d",
         "address": "14292-Se-Meadows-Ln-Clackamas-OR-97015",
         "beds": 4,
@@ -27151,27 +27172,6 @@
         "coordinates": [
           -80.091905,
           32.901453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ba7ae18e-1629-5d87-9201-988b8733dd63",
-        "address": "13628-N-40th-Dr-Phoenix-AZ-85029-17771653",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1574,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": ">88",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.146728,
-          33.609648
         ]
       }
     },
