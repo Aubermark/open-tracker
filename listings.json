@@ -4834,6 +4834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f1b4375-2e0c-540c-96fc-be954ed2cfe5",
+        "address": "1296-River-Rock-Rd-Hanahan-SC-29410",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1120,
+        "listed_at": "2026-05-21T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.010523,
+          32.944726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f4faf86-e2f0-5f71-ac06-8feb2917d2e8",
         "address": "8331-Greeley-Ave-Kansas-City-KS-66109",
         "beds": 2,
@@ -25639,27 +25660,6 @@
         "coordinates": [
           -86.260982,
           32.335173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "afa545e6-dc68-59f3-bdd0-f1f08c69cfdc",
-        "address": "70-Sunny-Brook-Dr-Newnan-GA-30263",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2140,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "87",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.759655,
-          33.43171
         ]
       }
     },
