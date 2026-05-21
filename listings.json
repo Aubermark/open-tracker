@@ -6283,6 +6283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "291bce45-6bf6-58bb-9d14-cf8a9d8af405",
+        "address": "9115-W-Hinsdale-Pl-Littleton-CO-80128",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2129,
+        "listed_at": "2026-05-21T18:20:03.000Z",
+        "days_on_market": ">88",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.100246,
+          39.582076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29442653-6ed9-55c4-9511-17bf663882c3",
         "address": "4312-Chicory-Ct-Denton-TX-76210",
         "beds": 4,
@@ -16126,27 +16147,6 @@
         "coordinates": [
           -112.034149,
           33.694986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6ddada5e-f6a5-5f56-9483-ceee98c361f8",
-        "address": "520-Sumner-Ave-Orange-City-FL-32763",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1364,
-        "listed_at": "2026-05-21T12:40:02.000Z",
-        "days_on_market": "27",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.296638,
-          28.953051
         ]
       }
     },
@@ -29839,27 +29839,6 @@
         "coordinates": [
           -84.767684,
           33.379336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce779614-24c7-5457-b47a-ba338e16f51b",
-        "address": "5026-Royal-Cypress-Dr-Katy-TX-77449",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1170,
-        "listed_at": "2026-05-15T14:30:02.000Z",
-        "days_on_market": "85",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.709504,
-          29.847403
         ]
       }
     },
