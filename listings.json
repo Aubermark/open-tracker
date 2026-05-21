@@ -29740,6 +29740,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd28fdb8-ebb6-537b-9776-1dfb6ee0221f",
+        "address": "231-Foston-Chapel-Rd-Hopkinsville-KY-42240",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-05-21T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.500844,
+          36.819808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd426834-3788-52b7-aff8-3d95194fe165",
         "address": "6909-Kittery-Ave-Citrus-Heights-CA-95621",
         "beds": 3,
