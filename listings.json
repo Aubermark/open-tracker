@@ -6808,6 +6808,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c7f2257-0fec-5118-b36a-7357685065d0",
+        "address": "1738-S-Aryelle-Rd-Apache-Junction-AZ-85119",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1373,
+        "listed_at": "2026-05-21T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.528397,
+          33.39938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cc53ec3-6992-5120-9b81-5f708863b941",
         "address": "4018-City-Homes-Pl-Charlotte-NC-28209",
         "beds": 4,
@@ -34333,27 +34354,6 @@
         "coordinates": [
           -98.708991,
           29.374425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ee607288-a012-5d6a-8686-3acfd07239f9",
-        "address": "817-Truman-St-Ne-Albuquerque-NM-87110",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1400,
-        "listed_at": "2026-05-13T06:30:15.000Z",
-        "days_on_market": "9",
-        "current_price": 382000,
-        "price_label": "$382K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.587829,
-          35.091888
         ]
       }
     },
