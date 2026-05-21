@@ -5275,6 +5275,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "226d6bc4-f73d-5f3a-a6e6-29bdad824711",
+        "address": "1531-Stone-Hill-Rd-Mount-Juliet-TN-37122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1238,
+        "listed_at": "2026-05-21T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.468392,
+          36.167766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2272b6cf-c2c5-510d-8f99-895f5b8d4ea3",
         "address": "138-Matthias-Ct-Mocksville-NC-27028",
         "beds": 4,
@@ -30469,27 +30490,6 @@
         "coordinates": [
           -86.369512,
           39.811676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d25602af-37c4-5c44-b397-e2ada30331a9",
-        "address": "12-Night-Heron-Ct-Columbia-SC-29229",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1298,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "45",
-        "current_price": 223000,
-        "price_label": "$223K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.910123,
-          34.152404
         ]
       }
     },
