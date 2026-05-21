@@ -8089,27 +8089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3594b6b4-106a-57eb-97e3-8295636eb87b",
-        "address": "1502-Allen-Dr-Cedar-Hill-TX-75104",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1371,
-        "listed_at": "2026-05-11T20:40:02.000Z",
-        "days_on_market": "10",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.940755,
-          32.620462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "359b5d5b-2092-5572-a58c-0d1945283e57",
         "address": "200-Dogwood-Dr-Canton-GA-30114",
         "beds": 3,
@@ -17224,27 +17203,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "754177b1-4960-58fe-8f2c-be53e03960bd",
-        "address": "10-Knollwood-Ct-Dawsonville-GA-30534",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3055,
-        "listed_at": "2026-03-12T07:40:02.000Z",
-        "days_on_market": ">88",
-        "current_price": 680000,
-        "price_label": "$680K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.990529,
-          34.398826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7555a91a-a628-5873-bbbd-a84efe13cd24",
         "address": "1913-Tulsa-St-Deer-Park-TX-77536",
         "beds": 3,
@@ -18583,6 +18541,27 @@
         "coordinates": [
           -84.618007,
           33.96247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7fb1c320-8242-587e-8e4b-fcdc7a46cffa",
+        "address": "13524-Bentley-Cir-Woodbridge-VA-22192",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1060,
+        "listed_at": "2026-05-21T16:30:03.000Z",
+        "days_on_market": ">88",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.309676,
+          38.660561
         ]
       }
     },
