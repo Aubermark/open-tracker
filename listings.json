@@ -10336,6 +10336,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44cbefdc-dd06-5889-9bd5-7720f6a9d5eb",
+        "address": "318-Harman-St-Duncanville-TX-75116",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1353,
+        "listed_at": "2026-05-21T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.913946,
+          32.655189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44d8988d-bebe-5d75-bcd2-1948e6a45f48",
         "address": "1355-Mills-Cove-Dr-Covington-GA-30016",
         "beds": 4,
@@ -16840,27 +16861,6 @@
         "coordinates": [
           -81.027717,
           34.876571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "722284fe-d769-5932-bc84-a0c400cbb6ed",
-        "address": "301-River-Birch-Cir-Mooresville-NC-28115",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1471,
-        "listed_at": "2026-05-18T18:00:02.000Z",
-        "days_on_market": "3",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.795286,
-          35.546499
         ]
       }
     },
