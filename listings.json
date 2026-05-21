@@ -12982,6 +12982,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
+        "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3330,
+        "listed_at": "2026-05-21T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 765000,
+        "price_label": "$765K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877521,
+          35.414502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5826c938-0d7b-5761-a7e9-725c65572f6f",
         "address": "5145-Roswell-Rd-Unit-7-Atlanta-GA-30342",
         "beds": 2,
@@ -25807,27 +25828,6 @@
         "coordinates": [
           -95.702179,
           29.984299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b0048419-eb2c-55ef-9ea1-093a173e3329",
-        "address": "3415-Bloomingdale-Oaks-Dr-Valrico-FL-33596",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2186,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "87",
-        "current_price": 442000,
-        "price_label": "$442K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.259148,
-          27.891649
         ]
       }
     },
