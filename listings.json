@@ -19009,6 +19009,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "828203d0-8d6d-5375-b2c1-7633a9d92e94",
+        "address": "1807-Antler-Ct-Greensboro-NC-27406",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1300,
+        "listed_at": "2026-05-21T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.710332,
+          36.049044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "828d4cad-d14e-501c-a590-81c8a66c95ca",
         "address": "9908-Rickover-Ct-Manassas-VA-20109",
         "beds": 4,
@@ -27424,27 +27445,6 @@
         "coordinates": [
           -97.767319,
           31.085547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bc887b47-637e-5dae-a828-1c93695904cd",
-        "address": "542-Lee-St-Thomson-GA-30824",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1612,
-        "listed_at": "2026-05-14T06:31:40.000Z",
-        "days_on_market": "44",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.509832,
-          33.473999
         ]
       }
     },
