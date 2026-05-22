@@ -3049,6 +3049,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13e3444b-4eb3-5410-8e8a-a727ca5be7b3",
+        "address": "11963-Henderson-Dr-Frisco-TX-75035",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2691,
+        "listed_at": "2026-05-22T15:40:02.000Z",
+        "days_on_market": "22",
+        "current_price": 489000,
+        "price_label": "$489K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774021,
+          33.178701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13fc3ca9-3c35-5a72-9dd5-075bd68f892f",
         "address": "5812-Springfish-Pl-Waldorf-MD-20603",
         "beds": 3,
@@ -35425,27 +35446,6 @@
         "coordinates": [
           -86.925929,
           33.450603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f6308dbd-dc2e-58d1-944e-7752442a5f5d",
-        "address": "25703-W-Crown-King-Rd-Buckeye-AZ-85326",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2832,
-        "listed_at": "2026-05-07T06:27:37.000Z",
-        "days_on_market": "51",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.603852,
-          33.418386
         ]
       }
     },
