@@ -30013,6 +30013,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d039365f-aa97-5ca4-82fe-65c9b92514c6",
+        "address": "10422-Elk-Point-Ln-Houston-TX-77064",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-05-22T16:00:02.000Z",
+        "days_on_market": "17",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.576484,
+          29.918875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d048f576-60a9-5701-b735-7a77be28efb0",
         "address": "6937-Bucksland-Dr-Ooltewah-TN-37363",
         "beds": 3,
