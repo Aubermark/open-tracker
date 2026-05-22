@@ -17476,27 +17476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "779ca019-eeb2-5978-8cee-c4895e5ab956",
-        "address": "7008-Thurston-Rd-Jacksonville-FL-32210",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1318,
-        "listed_at": "2026-05-04T20:40:03.000Z",
-        "days_on_market": "18",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.760386,
-          30.271742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "77c4529d-5911-543f-b5a4-c839dd531172",
         "address": "1050-W-Sand-Canyon-Ct-Casa-Grande-AZ-85122",
         "beds": 3,
@@ -17554,6 +17533,27 @@
         "coordinates": [
           -97.365499,
           31.05217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "77f11cbe-4312-5e52-8a4d-20146c94729e",
+        "address": "6902-Fawncliff-Dr-Houston-TX-77069",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3982,
+        "listed_at": "2026-05-22T18:10:02.000Z",
+        "days_on_market": "24",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.534501,
+          29.972203
         ]
       }
     },
@@ -35782,6 +35782,27 @@
         "coordinates": [
           -104.865711,
           39.059481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f94fab6f-128e-58e3-9816-003a987428f9",
+        "address": "19822-Rippling-Brook-Ln-Tomball-TX-77375-17890627",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2016,
+        "listed_at": "2026-05-22T18:10:02.000Z",
+        "days_on_market": "66",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.588807,
+          30.050298
         ]
       }
     },
