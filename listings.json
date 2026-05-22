@@ -26632,6 +26632,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b805f9ea-7445-5cd1-88c3-85f80e5f3047",
+        "address": "1244-Sunset-Blvd-Avon-IN-46123",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2662,
+        "listed_at": "2026-05-22T17:50:03.000Z",
+        "days_on_market": ">89",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.358368,
+          39.781845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8138fb5-2348-5633-ace9-d9e9cda9e106",
         "address": "5790-W-26th-Ave-#-202-Hialeah-FL-33016",
         "beds": 3,
