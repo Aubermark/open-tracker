@@ -2944,6 +2944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "134758ca-0ec7-5529-aaba-95ab78f86859",
+        "address": "2774-Emanuel-Church-Rd-West-Columbia-SC-29170",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1561,
+        "listed_at": "2026-05-22T14:20:03.000Z",
+        "days_on_market": "64",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.157016,
+          33.941767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13686eb1-f4b0-5a01-98d9-d76f4ff7659d",
         "address": "4408-Waxhaw-Indian-Trail-Rd-Indian-Trail-NC-28079",
         "beds": 4,
