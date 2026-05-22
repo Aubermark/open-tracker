@@ -18610,6 +18610,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "806270bb-d7f9-5cae-875f-0c759a5473a0",
+        "address": "6123-Robbins-Cir-S-Jacksonville-FL-32211",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-05-22T19:00:02.000Z",
+        "days_on_market": ">89",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.595677,
+          30.317191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "806b8c6d-c8a0-5154-bffb-b0cc1eb51819",
         "address": "2613-Oak-Blossom-Dr-Mc-Kinney-TX-75071",
         "beds": 4,
