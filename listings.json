@@ -10399,6 +10399,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "454d9341-133f-5894-8887-a29cb03b97eb",
+        "address": "2298-Camden-Dr-Sw-Marietta-GA-30064",
+        "beds": 6,
+        "baths": 3.5,
+        "sqft": 3593,
+        "listed_at": "2026-05-22T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.621024,
+          33.928222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "455f5261-d985-5e25-94df-bac803e81d58",
         "address": "130-White-Acres-Dr-Stockbridge-GA-30281-18115388",
         "beds": 3,
@@ -11191,6 +11212,27 @@
         "coordinates": [
           -95.312208,
           29.535083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4b2842b4-e59d-526e-b628-3503be83cc77",
+        "address": "8250-Cape-Fox-Dr-Jacksonville-FL-32222",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2165,
+        "listed_at": "2026-05-22T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838808,
+          30.198663
         ]
       }
     },
