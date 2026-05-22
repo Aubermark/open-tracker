@@ -14074,6 +14074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f07c373-b2fc-5c04-977b-b1ac3108ea53",
+        "address": "3105-Anneewakee-Falls-Pkwy-Douglasville-GA-30135",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3294,
+        "listed_at": "2026-05-22T21:30:03.000Z",
+        "days_on_market": "15",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677694,
+          33.68414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f1c77f4-cc1e-5dae-9210-d46c03b32021",
         "address": "15143-Gallop-Ln-Fishers-IN-46040",
         "beds": 5,
@@ -30826,6 +30847,27 @@
         "coordinates": [
           -111.978125,
           33.055668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d57878d1-570c-5225-8be4-4660b8cdd659",
+        "address": "1612-Pine-Valley-Way-Henryville-IN-47126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-05-22T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795153,
+          38.516346
         ]
       }
     },
