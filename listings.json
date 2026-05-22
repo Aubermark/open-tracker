@@ -22789,6 +22789,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c27ab3a-62de-5a64-8fe3-a620ee95a455",
+        "address": "8212-Boulder-River-Trl-Mc-Kinney-TX-75070",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3218,
+        "listed_at": "2026-05-22T15:20:04.000Z",
+        "days_on_market": "57",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.723033,
+          33.162503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c6839f3-b9d5-5b15-8fdc-36fc19c33246",
         "address": "3809-S-Drumm-Ave-Independence-MO-64055",
         "beds": 3,
