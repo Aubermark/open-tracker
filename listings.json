@@ -18673,6 +18673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "80f98298-436a-5135-8ba1-6f278efb0250",
+        "address": "401-Kenshire-Dr-Benbrook-TX-76126",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2767,
+        "listed_at": "2026-05-22T21:20:03.000Z",
+        "days_on_market": ">89",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.483272,
+          32.67168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
         "address": "8605-N-67th-Ln-Peoria-AZ-85345",
         "beds": 3,
