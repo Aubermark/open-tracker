@@ -4309,27 +4309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d6a8739-c5a5-5981-bafd-9531945370bb",
-        "address": "106-Woodfield-Ln-Cherryville-NC-28021",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1841,
-        "listed_at": "2026-05-13T17:10:02.000Z",
-        "days_on_market": "10",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.45584,
-          35.316061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1d821499-4ef4-5fdc-854b-fa11a473f63c",
         "address": "13449-Nascoby-Ln-Woodbridge-VA-22193",
         "beds": 3,
@@ -33241,6 +33220,27 @@
         "coordinates": [
           -81.356439,
           28.353076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea74d4bf-2121-54c7-a072-d8908372161e",
+        "address": "10184-Ferncrest-St-Firestone-CO-80504",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-05-23T19:30:03.000Z",
+        "days_on_market": "40",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.926061,
+          40.148325
         ]
       }
     },
