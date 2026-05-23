@@ -6724,6 +6724,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d26a0ef-77f9-565e-b778-dcc6a67db5ed",
+        "address": "11691-W-Stone-Hearth-St-Marana-AZ-85658",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-05-23T22:30:03.000Z",
+        "days_on_market": "37",
+        "current_price": 307000,
+        "price_label": "$307K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.214817,
+          32.466988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d378a0a-d73f-5c7f-ba52-8ecb8f430145",
         "address": "400-Caravaggio-Cir-Sacramento-CA-95835",
         "beds": 3,
