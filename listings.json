@@ -5779,6 +5779,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26b9ae83-db67-5f2e-9136-3cf1c07e5304",
+        "address": "1401-Grey-Owl-Cir-Roseville-CA-95661",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3010,
+        "listed_at": "2026-05-23T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1015000,
+        "price_label": "$1.015M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.244002,
+          38.763292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26f9ae11-1033-55bb-b853-aeaee8b2ac4f",
         "address": "1901-Parrish-Dr-Columbia-SC-29206",
         "beds": 4,
