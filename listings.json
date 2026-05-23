@@ -28522,6 +28522,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7d250d5-c6a6-53df-a65a-ff46d8c988b9",
+        "address": "2805-Aquamarine-Cir-Rescue-CA-95672",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2288,
+        "listed_at": "2026-05-23T15:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 716000,
+        "price_label": "$716K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.004073,
+          38.699629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7dfbed6-47ef-51e9-a4c6-24a271c16e4f",
         "address": "33-Maggies-Pt-Dallas-GA-30132",
         "beds": 3,
