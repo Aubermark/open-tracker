@@ -15103,6 +15103,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "681c488f-5100-590b-a4e6-354565ac16eb",
+        "address": "111-Wahoo-Cir-Irmo-SC-29063",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1959,
+        "listed_at": "2026-05-24T11:20:03.000Z",
+        "days_on_market": ">91",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.220623,
+          34.118784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68458d81-e3c0-57c1-af53-aac317f21156",
         "address": "342-Newcastle-Vis-Mc-Donough-GA-30253",
         "beds": 3,
