@@ -991,6 +991,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07474718-c7d0-5615-a2eb-ad8fe2aa390c",
+        "address": "7876-S-Baja-Stone-Ave-Tucson-AZ-85756",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1556,
+        "listed_at": "2026-05-24T18:20:03.000Z",
+        "days_on_market": "87",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.857528,
+          32.109737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0750ea03-3d5f-5284-a3d1-4d63053d1d53",
         "address": "1204-Britton-Dr-Knoxville-TN-37912",
         "beds": 4,
