@@ -32008,6 +32008,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e1003af0-9c1b-56b1-8fe9-5c275619bd6e",
+        "address": "703-Savage-St-Camden-SC-29020",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1181,
+        "listed_at": "2026-05-24T16:00:02.000Z",
+        "days_on_market": "83",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.611856,
+          34.285181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e10ae2fb-f33b-5c40-a118-7cf54053d265",
         "address": "4319-S-Salvia-Dr-Gold-Canyon-AZ-85118",
         "beds": 4,
