@@ -8215,27 +8215,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3865a460-d854-55c3-9765-994792710cd7",
-        "address": "230-Prescott-St-Locust-Grove-GA-30248",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2374,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "90",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.195781,
-          33.368794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "38818fba-ad6e-5e73-9a95-ba975e3a5b61",
         "address": "242-Kingswood-Dr-Clarksville-TN-37043-18019524",
         "beds": 3,
@@ -19990,6 +19969,27 @@
         "coordinates": [
           -80.08734,
           35.849109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
+        "address": "16627-Carse-Ave-Harvey-IL-60426",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2354,
+        "listed_at": "2026-05-24T19:40:02.000Z",
+        "days_on_market": ">91",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.638504,
+          41.587133
         ]
       }
     },
