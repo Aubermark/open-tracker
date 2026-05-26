@@ -16888,6 +16888,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71465715-60de-5eb6-9dfa-540b53c1dd2c",
+        "address": "104-Arbuckle-Ln-Cary-NC-27511",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1354,
+        "listed_at": "2026-05-26T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.793619,
+          35.768503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "718e45f6-736b-520c-a3d3-e0a989715423",
         "address": "104-Perpetuation-Dr-Austin-TX-78734",
         "beds": 3,
@@ -17197,6 +17218,27 @@
         "coordinates": [
           -84.480293,
           33.61742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74732c99-bc33-5b3d-93b3-865221cf5b46",
+        "address": "1200-Rockeford-Dr-Nashville-TN-37221",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2596,
+        "listed_at": "2026-05-26T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 547000,
+        "price_label": "$547K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.953362,
+          36.048363
         ]
       }
     },
@@ -22615,27 +22657,6 @@
         "coordinates": [
           -115.264488,
           36.077853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "986b620e-a3d0-5ff0-9dd2-91fca1020e5b",
-        "address": "308-Algrave-Way-Columbia-SC-29229",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1573,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "50",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.908732,
-          34.170296
         ]
       }
     },
