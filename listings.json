@@ -22936,6 +22936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c4f3464-d9b2-523f-bccb-4bd23e3438ed",
+        "address": "4900-Avenida-Del-Sol-Dr-Apt-102-Raleigh-NC-27616",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 985,
+        "listed_at": "2026-05-26T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.576775,
+          35.852922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c6839f3-b9d5-5b15-8fdc-36fc19c33246",
         "address": "3809-S-Drumm-Ave-Independence-MO-64055",
         "beds": 3,
@@ -28243,6 +28264,27 @@
         "coordinates": [
           -112.030813,
           33.587495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c2111372-5916-5eb8-9685-55ea17916b7b",
+        "address": "7827-Glen-Tree-Dr-Citrus-Heights-CA-95610",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1031,
+        "listed_at": "2026-05-26T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.266901,
+          38.708741
         ]
       }
     },
