@@ -26233,6 +26233,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b5a7b647-81cd-5eb9-b9d6-083b66103f68",
+        "address": "4927-Trade-Wind-Ave-N-Keizer-OR-97303",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1020,
+        "listed_at": "2026-05-26T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.044612,
+          44.995709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b5ae6593-7365-43b9-b1a7-10eab8d643e7",
         "address": "",
         "beds": 4,
