@@ -12037,27 +12037,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5186ece9-03d1-57e1-823a-eaeca15654be",
-        "address": "8435-Othello-Pl-Charlotte-NC-28227",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1788,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "25",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.703233,
-          35.215533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "518e1cc1-e7ff-57aa-b184-dc8c81f0c945",
         "address": "16517-E-35th-Street-Ct-S-Independence-MO-64055",
         "beds": 3,
@@ -32002,6 +31981,27 @@
         "coordinates": [
           -111.720443,
           33.431703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d6639151-b0fe-59e2-930b-0f9cd2fbeaa0",
+        "address": "4825-Woods-Ln-Hemet-CA-92545",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3128,
+        "listed_at": "2026-05-26T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.021248,
+          33.718583
         ]
       }
     },
