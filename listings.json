@@ -15313,27 +15313,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "68547a2a-2a62-532e-a9b2-aedab4905702",
-        "address": "6403-Canyon-Park-Dr-Katy-TX-77450",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3232,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">93",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.741711,
-          29.709504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "68867734-0fe9-5c02-aeb7-b13d7abb9f0c",
         "address": "5333-Buckner-Dr-Flower-Mound-TX-75028",
         "beds": 3,
@@ -26800,6 +26779,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b86d85be-dd6d-5f04-a9cb-ef509e9c779b",
+        "address": "1607-N-17th-St-Belleville-IL-62226",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1649,
+        "listed_at": "2026-05-26T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.002209,
+          38.53545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b885ba25-5c8e-5415-9702-3d6787ce4278",
         "address": "4506-Silverdale-Rd-North-Olmsted-OH-44070",
         "beds": 3,
@@ -29734,6 +29734,27 @@
         "coordinates": [
           -95.093046,
           29.378475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc6a765b-4220-5a5f-9dca-f5aa51923a6b",
+        "address": "3402-Crosby-Lndg-Missouri-City-TX-77459",
+        "beds": 6,
+        "baths": 4.5,
+        "sqft": 3669,
+        "listed_at": "2026-05-26T16:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.511187,
+          29.496581
         ]
       }
     },
