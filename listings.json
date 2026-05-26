@@ -35221,6 +35221,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f31abdfa-3379-5ed8-9397-e008851dcb5c",
+        "address": "2577-Previs-Rd-Fayetteville-NC-28306",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1173,
+        "listed_at": "2026-05-26T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938639,
+          35.008896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3688ac5-81d2-5806-8216-c8912c71b08f",
         "address": "7746-Hansley-Dr-Chattanooga-TN-37416",
         "beds": 3,
