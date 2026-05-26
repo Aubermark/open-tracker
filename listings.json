@@ -6073,6 +6073,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "292f69f5-ef5a-51b1-aee1-75c003e4245e",
+        "address": "3706-N-Chestnut-St-Colorado-Springs-CO-80907",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2009,
+        "listed_at": "2026-05-26T14:30:03.000Z",
+        "days_on_market": ">93",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.837119,
+          38.885149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29442653-6ed9-55c4-9511-17bf663882c3",
         "address": "4312-Chicory-Ct-Denton-TX-76210",
         "beds": 4,
@@ -16483,6 +16504,27 @@
         "coordinates": [
           -84.256097,
           33.683216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7027cd13-5937-529a-89f4-a83ca709b05d",
+        "address": "1800-Edmond-St-Unit-224-Las-Vegas-NV-89146",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 926,
+        "listed_at": "2026-05-26T14:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.212089,
+          36.150708
         ]
       }
     },
