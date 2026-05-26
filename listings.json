@@ -14221,6 +14221,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60384701-6075-5164-85da-1a0baa2e3dea",
+        "address": "13930-Winding-Hl-San-Antonio-TX-78217",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2348,
+        "listed_at": "2026-05-26T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.406939,
+          29.569807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6068a4a6-1635-5676-840e-e9f24e895be4",
         "address": "4808-Pennant-Pl-Charlotte-NC-28212",
         "beds": 3,
@@ -26878,6 +26899,27 @@
         "coordinates": [
           -82.474977,
           27.599133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b93943f8-1666-54c2-ad17-4c774766821a",
+        "address": "4614-Zoltan-Dr-Titusville-FL-32780",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1396,
+        "listed_at": "2026-05-26T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.832755,
+          28.562679
         ]
       }
     },
