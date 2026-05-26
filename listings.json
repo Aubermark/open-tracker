@@ -23755,6 +23755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a235aa57-b734-5af1-bf26-7b941de61903",
+        "address": "1963-Buckner-Clark-Rd-Pittsboro-NC-27312",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2698,
+        "listed_at": "2026-05-26T08:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.286581,
+          35.759144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a24805ef-f56e-5327-953c-816739bcb6d1",
         "address": "13837-Lanyard-Way-Winter-Garden-FL-34787",
         "beds": 3,
