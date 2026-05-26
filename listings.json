@@ -4120,6 +4120,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b8b0dd0-5228-5c0f-8775-11dd525c3bd2",
+        "address": "2904-Lake-Vista-Dr-Wylie-TX-75098",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2750,
+        "listed_at": "2026-05-26T21:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.515247,
+          32.980075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b8e5ab1-3bf7-57b7-9646-f17f2358acf8",
         "address": "6434-Provident-Green-Dr-Katy-TX-77449",
         "beds": 4,
