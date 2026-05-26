@@ -9979,6 +9979,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42a70c35-831d-59cb-8e6c-f61a7f9ac415",
+        "address": "4431-First-View-Dr-San-Antonio-TX-78217",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1112,
+        "listed_at": "2026-05-26T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.404028,
+          29.528746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42b8a15b-a8d2-546a-9543-853dfc39d0c9",
         "address": "5409-Hickory-Dr-Fort-Pierce-FL-34982",
         "beds": 3,
@@ -25414,27 +25435,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ae148d82-40c3-52d9-8a7b-8f2ee563060b",
-        "address": "205-Abbotts-Mill-Dr-Duluth-GA-30097",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1408,
-        "listed_at": "2026-04-23T01:10:01.000Z",
-        "days_on_market": "42",
-        "current_price": 373000,
-        "price_label": "$373K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.176574,
-          34.040741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ae1eb479-c03e-50ae-a2a3-78001c973f3e",
         "address": "3800-El-Portal-Ave-Las-Vegas-NV-89102",
         "beds": 3,
@@ -30868,6 +30868,27 @@
         "coordinates": [
           -112.379976,
           33.605561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3af2763-9ea6-5b20-bef9-95716f263abe",
+        "address": "1912-Oak-Valley-Rd-Decatur-GA-30035-18131613",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 950,
+        "listed_at": "2026-05-26T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.219239,
+          33.734512
         ]
       }
     },
