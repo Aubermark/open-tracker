@@ -11155,6 +11155,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a4609a1-ced9-59b5-95fb-50ce63009bbf",
+        "address": "814-Charles-Rd-Shelby-NC-28152",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1483,
+        "listed_at": "2026-05-26T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.564929,
+          35.276175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a5c3c8d-7752-5792-a965-2a4deff0170d",
         "address": "4461-N-84th-Ave-Phoenix-AZ-85037",
         "beds": 3,
@@ -20242,6 +20263,27 @@
         "coordinates": [
           -111.739528,
           33.211483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "889bbc86-1ed7-50b0-859c-06d57c0e6957",
+        "address": "3264-Nw-Twinberry-St-Corvallis-OR-97330",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-05-26T19:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.295009,
+          44.599067
         ]
       }
     },
@@ -35152,6 +35194,27 @@
         "coordinates": [
           -121.403834,
           38.485949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ee9c48f2-9608-54c5-baed-2c6bea067f74",
+        "address": "2265-Cason-Ln-Murfreesboro-TN-37128",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1494,
+        "listed_at": "2026-05-26T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.44255,
+          35.805805
         ]
       }
     },
