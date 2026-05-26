@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21e83d79-a4b2-5f7f-b75a-3531a7880a4a",
+        "address": "6742-Kellogg-Dr-Acworth-GA-30102",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1494,
+        "listed_at": "2026-05-26T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.605983,
+          34.119502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21ea660f-0175-59b0-8ff6-ccc86729b988",
         "address": "911-S-El-Paso-St-Colorado-Springs-CO-80903",
         "beds": 2,
@@ -11260,27 +11281,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4c4257b0-b8fb-5107-8162-11f8c0b67eed",
-        "address": "5609-Phoenix-Dr-The-Colony-TX-75056",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2030,
-        "listed_at": "2026-05-26T05:28:18.000Z",
-        "days_on_market": "1",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.871485,
-          33.082512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4c7f4784-c43b-5c5e-b133-aaa6d3923cc9",
         "address": "2916-Pinewood-Hill-Dr-Matthews-NC-28105",
         "beds": 4,
@@ -14194,6 +14194,27 @@
         "coordinates": [
           -97.669335,
           31.130409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
+        "address": "1900-Milfield-Cir-Snellville-GA-30078",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3314,
+        "listed_at": "2026-05-26T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020844,
+          33.897571
         ]
       }
     },
