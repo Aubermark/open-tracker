@@ -11155,6 +11155,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a23353a-9d2e-5998-966b-ef7c60959eb6",
+        "address": "220-Hiawassee-Dr-Woodstock-GA-30188",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1533,
+        "listed_at": "2026-05-26T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.513631,
+          34.13566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a414be7-3dae-5dcb-8ddb-4b6fb4f480e0",
         "address": "4016-Lady-Slipper-Ln-Durham-NC-27704",
         "beds": 3,
