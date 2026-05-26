@@ -5884,6 +5884,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27999697-68c6-5ec2-8ea2-ecc660058502",
+        "address": "4958-Scotts-Creek-Trl-Peachtree-Corners-GA-30096",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2701,
+        "listed_at": "2026-05-26T21:10:03.000Z",
+        "days_on_market": "29",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.203649,
+          33.977917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
         "address": "2237-Nw-158th-St-Edmond-OK-73013",
         "beds": 3,
@@ -33346,6 +33367,27 @@
         "coordinates": [
           -112.269785,
           33.651051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df4d79c0-b866-51d1-bfb5-805a2d248df2",
+        "address": "117-Brentwood-Dr-Georgetown-TX-78628",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2744,
+        "listed_at": "2026-05-26T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.68028,
+          30.709246
         ]
       }
     },
