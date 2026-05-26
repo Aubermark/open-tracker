@@ -5380,6 +5380,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24ffe2be-9c6d-51e3-a16e-43c1cd2b9d4c",
+        "address": "870-Abbott-Rd-Henderson-NC-27537",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1272,
+        "listed_at": "2026-05-26T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.385873,
+          36.262297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "252db0ea-c745-592b-9977-3dc815ff4691",
         "address": "167-Bridgewood-Dr-Se-Conyers-GA-30094",
         "beds": 3,
@@ -22405,6 +22426,27 @@
         "coordinates": [
           -80.773687,
           35.126273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "98fbdd6c-3024-58e5-953a-6506c3ce80cd",
+        "address": "2142-Falcon-Ridge-Dr-Carrollton-TX-75010",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1492,
+        "listed_at": "2026-05-26T16:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.871519,
+          33.032085
         ]
       }
     },
