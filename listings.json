@@ -27388,6 +27388,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc422c3d-eba1-55bb-8f07-dc0532abd556",
+        "address": "1805-Shady-Knoll-Ln-Fayetteville-NC-28314",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2502,
+        "listed_at": "2026-05-26T08:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.067643,
+          35.046477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcbddec6-4d3d-5585-a314-c7dc5081f3ac",
         "address": "8400-Chestnut-Oak-Ct-Harrisburg-NC-28075",
         "beds": 3,
