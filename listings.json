@@ -20479,27 +20479,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8bd99fe4-4dde-5396-9315-7438c7a45ba4",
-        "address": "6112-Wye-Oak-Dr-Salado-TX-76571",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2120,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": "28",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.546644,
-          30.979481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8c17166c-ca31-5641-862e-d30afb0f8074",
         "address": "5202-E-2nd-St-Tucson-AZ-85711",
         "beds": 3,
@@ -32737,6 +32716,27 @@
         "coordinates": [
           -84.322047,
           34.028292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e1377373-7075-5c02-9c6a-7e286bc1b122",
+        "address": "225-La-Jolla-Live-Oak-TX-78233",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1378,
+        "listed_at": "2026-05-26T14:40:02.000Z",
+        "days_on_market": "29",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.333902,
+          29.556383
         ]
       }
     },
