@@ -27829,6 +27829,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bfa93d77-a97e-5aa6-b6fb-825afdbba5ba",
+        "address": "1118-Neighborly-Way-Morrisville-NC-27560",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1619,
+        "listed_at": "2026-05-26T10:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81344,
+          35.916461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bfddbd2c-9ed9-5ba6-8ea7-d040286bce48",
         "address": "2739-N-73rd-Dr-Phoenix-AZ-85035",
         "beds": 3,
