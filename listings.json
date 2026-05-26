@@ -1873,6 +1873,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d86f52e-f9f2-5b60-b375-26c164294424",
+        "address": "4570-Old-Cowan-Rd-Acworth-GA-30101",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1080,
+        "listed_at": "2026-05-26T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.659916,
+          34.065436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d86fdbb-e020-5f49-ae60-c3f59dcca241",
         "address": "66585-San-Marcus-Rd-Desert-Hot-Springs-CA-92240",
         "beds": 3,
