@@ -37552,6 +37552,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fda74840-7afb-539e-a3f5-5e05ba4e0530",
+        "address": "6126-Hickory-Lane-Dr-Union-City-GA-30291",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1809,
+        "listed_at": "2026-05-26T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.519508,
+          33.558873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fdb16555-1f59-5c89-aa2a-91c90e3353ba",
         "address": "10803-Fountaingrove-Dr-Charlotte-NC-28262",
         "beds": 5,
