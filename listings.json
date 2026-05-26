@@ -21508,6 +21508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90cff126-26b7-5668-95aa-e3b418441705",
+        "address": "3315-Hidden-Brook-Dr-Ravenna-OH-44266",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2463,
+        "listed_at": "2026-05-26T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.276511,
+          41.147556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90dc9e01-8fb0-5e4d-a65c-9a1ca955f964",
         "address": "3935-Lake-Lanier-Dr-Duluth-GA-30097",
         "beds": 4,
@@ -23902,6 +23923,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0632eef-0213-539b-a952-e2e6dbd59ace",
+        "address": "361-Tremont-St-Taunton-MA-02780",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1309,
+        "listed_at": "2026-05-26T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 416000,
+        "price_label": "$416K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.142701,
+          41.912003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0653654-23ca-5e80-8620-98980ea0d106",
         "address": "12927-Colony-Heath-Ln-Houston-TX-77085",
         "beds": 3,
@@ -25849,6 +25891,27 @@
         "coordinates": [
           -80.679399,
           35.121111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae1eb479-c03e-50ae-a2a3-78001c973f3e",
+        "address": "3800-El-Portal-Ave-Las-Vegas-NV-89102",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-05-26T21:20:03.000Z",
+        "days_on_market": "33",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.192002,
+          36.147418
         ]
       }
     },
