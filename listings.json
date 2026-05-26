@@ -12625,6 +12625,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56aae40d-3516-5429-bfc6-20f42de9a23f",
+        "address": "3462-Pridgen-Ridge-Dr-Winston-Salem-NC-27127",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2071,
+        "listed_at": "2026-05-26T12:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.269308,
+          36.032832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56cf1aae-23c5-5abe-b68e-96ad234159e9",
         "address": "2337-W-Tierra-Buena-Ln-Phoenix-AZ-85023",
         "beds": 3,
