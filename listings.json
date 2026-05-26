@@ -26947,6 +26947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8436d7f-5a96-5a7b-a759-06eb8fa8ddbe",
+        "address": "359-Holbrook-Dr-Dallas-GA-30132",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2378,
+        "listed_at": "2026-05-26T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.781468,
+          33.98315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b84c3b51-7f93-5134-8828-4364a9815717",
         "address": "905-Cedar-Dr-Melbourne-FL-32901",
         "beds": 4,
@@ -31252,6 +31273,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d4a9c549-2010-5893-860c-886ad2312e9b",
+        "address": "20646-Wahl-Ln-Garden-Ridge-TX-78266",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 4920,
+        "listed_at": "2026-05-26T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.293573,
+          29.63387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d4b46507-ecb5-547b-bc66-248c87a31665",
         "address": "2693-Watergarden-St-York-SC-29745",
         "beds": 3,
@@ -32275,6 +32317,27 @@
         "coordinates": [
           -93.46448,
           45.156251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dba3bd0f-228f-591a-92c3-470db6d9800a",
+        "address": "3010-Hope-Valley-Rd-Winston-Salem-NC-27106",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1769,
+        "listed_at": "2026-05-26T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.296031,
+          36.127759
         ]
       }
     },
