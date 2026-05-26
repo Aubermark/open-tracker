@@ -14641,6 +14641,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61cf50da-26a5-5a21-861b-4e3491f58e7b",
+        "address": "5880-Se-Snowberry-Ct-Hillsboro-OR-97123",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2371,
+        "listed_at": "2026-05-26T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 641000,
+        "price_label": "$641K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.920719,
+          45.519178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61e07fa2-4382-5b02-8f39-ec0ead5fabda",
         "address": "1905-S-Milledge-Ave-Apt-5-Athens-GA-30605",
         "beds": 2,
@@ -17512,6 +17533,27 @@
         "coordinates": [
           -115.145381,
           35.998975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76003fb9-079b-5603-856e-cc095b5c8d74",
+        "address": "2100-Walnut-Ridge-Ct-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1153,
+        "listed_at": "2026-05-26T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55504,
+          35.75222
         ]
       }
     },
