@@ -2020,27 +2020,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0e5cdbab-4fce-5bf9-9db1-e75ac89d9d51",
-        "address": "1902-New-Orleans-St-Deer-Park-TX-77536",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1645,
-        "listed_at": "2026-05-14T06:31:38.000Z",
-        "days_on_market": "33",
-        "current_price": 259000,
-        "price_label": "$259K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.140707,
-          29.688272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0e5e3bc0-9279-4117-b07d-bf050e3bb65e",
         "address": "11277-Rustic-Timber-Loop-San-Antonio-FL-33576",
         "beds": 5,
@@ -14536,6 +14515,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60d49577-f5d0-5b71-a849-d534f4bcab66",
+        "address": "875-Quiet-Stone-Ln-Orange-Park-FL-32065",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2083,
+        "listed_at": "2026-05-26T20:40:03.000Z",
+        "days_on_market": "77",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.845661,
+          30.158841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60dfb461-72e6-5dec-a370-85ae3e31230f",
         "address": "600-Northern-Way-Apt-205-Winter-Springs-FL-32708",
         "beds": 3,
@@ -26878,6 +26878,27 @@
         "coordinates": [
           -93.503705,
           44.832312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b64cf10a-940f-5fc8-9f81-016984368270",
+        "address": "3324-Baymount-Way-Lawrenceville-GA-30043",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1968,
+        "listed_at": "2026-05-26T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.007923,
+          34.053293
         ]
       }
     },
