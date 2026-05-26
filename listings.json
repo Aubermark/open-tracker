@@ -25519,27 +25519,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ae1eb479-c03e-50ae-a2a3-78001c973f3e",
-        "address": "3800-El-Portal-Ave-Las-Vegas-NV-89102",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1440,
-        "listed_at": "2026-04-23T19:40:03.000Z",
-        "days_on_market": "33",
-        "current_price": 443000,
-        "price_label": "$443K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.192002,
-          36.147418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ae277c57-11a4-5308-8d71-545dc1d4dc01",
         "address": "3132-S-Owasso-Ave-Tulsa-OK-74105",
         "beds": 3,
@@ -28264,6 +28243,27 @@
         "coordinates": [
           -79.918735,
           36.036748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1529bcd-6d05-56c6-9005-2820b091ef54",
+        "address": "1017-Clacktown-Rd-Winder-GA-30680",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1653,
+        "listed_at": "2026-05-26T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64531,
+          33.941693
         ]
       }
     },
