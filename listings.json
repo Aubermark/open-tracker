@@ -5359,27 +5359,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24d15f68-0f69-5fe6-a8d5-e06f2b9b0fa3",
-        "address": "2563-Taos-Dr-Grand-Prairie-TX-75051",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1680,
-        "listed_at": "2026-05-13T06:30:15.000Z",
-        "days_on_market": "46",
-        "current_price": 308000,
-        "price_label": "$308K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.988485,
-          32.707809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "24e230a6-339c-5128-bac2-82259029ece7",
         "address": "7049-Woodland-Ave-Chagrin-Falls-OH-44023",
         "beds": 3,
@@ -12304,6 +12283,27 @@
         "coordinates": [
           -80.276913,
           36.02645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "545388cb-8cb4-56f1-876d-6ca5c4b59fec",
+        "address": "1565-E-Hopkins-Rd-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1735,
+        "listed_at": "2026-05-26T15:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.756371,
+          33.29764
         ]
       }
     },
@@ -20752,27 +20752,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8e5e9a14-ae14-5105-8519-0ee3fe5fe739",
-        "address": "119-Albany-Manor-Dr-Wentzville-MO-63385",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2360,
-        "listed_at": "2026-05-21T06:29:41.000Z",
-        "days_on_market": "67",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.899363,
-          38.863407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8e7b78d0-a33f-561d-a584-bec4d081ea20",
         "address": "9405-Sw-31st-Ln-Gainesville-FL-32608",
         "beds": 3,
@@ -28411,6 +28390,27 @@
         "coordinates": [
           -84.890895,
           33.749938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3fcd5fe-42ba-509f-bf7b-c8c80539aa68",
+        "address": "4732-Alderbrook-Ln-Durham-NC-27713",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1868,
+        "listed_at": "2026-05-26T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 457000,
+        "price_label": "$457K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.932076,
+          35.937883
         ]
       }
     },
