@@ -7564,6 +7564,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "322bedb3-876e-5021-8174-89245cbe9b1c",
+        "address": "26319-Watercypress-Ct-Cypress-TX-77433",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3920,
+        "listed_at": "2026-05-26T20:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.703991,
+          29.949162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32637fa7-1303-5f94-b682-794c91f491ed",
         "address": "3499-Fm-1564-E-Greenville-TX-75402",
         "beds": 4,
