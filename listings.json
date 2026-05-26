@@ -27640,6 +27640,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b988018e-d320-566e-98b3-5f992d7e9cd0",
+        "address": "506-Hillview-Dr-Durham-NC-27703",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3539,
+        "listed_at": "2026-05-26T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.793595,
+          35.970223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b98f6854-6755-555b-8744-8b78e8355118",
         "address": "868-Sandpiper-Bay-Dr-Sw-Sunset-Beach-NC-28468",
         "beds": 3,
