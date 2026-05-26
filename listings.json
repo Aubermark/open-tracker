@@ -20185,6 +20185,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "878d91dd-1149-521e-be33-4f7a3140d34f",
+        "address": "11639-E-Cliffrose-Ln-Florence-AZ-85132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1257,
+        "listed_at": "2026-05-26T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 284000,
+        "price_label": "$284K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.440769,
+          33.153243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "87c4b2c0-4b3d-5f81-bb34-7c019520c47e",
         "address": "130-Keeper-Irvine-CA-92618",
         "beds": 3,
@@ -28915,6 +28936,27 @@
         "coordinates": [
           -98.447536,
           29.69756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c358c38e-5ea4-5058-b51f-8842f4b4678c",
+        "address": "109-Puckett-Ct-Canton-GA-30115",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2894,
+        "listed_at": "2026-05-26T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.381496,
+          34.208865
         ]
       }
     },
