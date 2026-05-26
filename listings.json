@@ -1957,6 +1957,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e2542eb-0550-5f61-8259-8ff8e2262f9b",
+        "address": "2329-Water-Lilly-Way-Garner-NC-27529-17843438",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1737,
+        "listed_at": "2026-05-26T07:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642963,
+          35.681357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e491ae5-d735-5889-97a0-9bb09841ace9",
         "address": "3028-Samosa-Hill-Cir-Clermont-FL-34714",
         "beds": 4,
