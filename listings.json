@@ -6199,27 +6199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "29fabf66-2d9e-50ab-8362-404f9e592255",
-        "address": "16201-Alsdell-Rd-Midlothian-VA-23112",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3755,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "32",
-        "current_price": 950000,
-        "price_label": "$950K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.709547,
-          37.479153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2a2c7318-abeb-5895-8d27-05f52d487a44",
         "address": "403-Eagle-Claw-Ct-Chapin-SC-29036",
         "beds": 5,
@@ -35509,6 +35488,27 @@
         "coordinates": [
           -78.938639,
           35.008896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f32c8366-2eb5-5d6f-b863-e20cc27d160b",
+        "address": "1947-Breman-Ln-Indianapolis-IN-46229",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2212,
+        "listed_at": "2026-05-26T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.954996,
+          39.795604
         ]
       }
     },
