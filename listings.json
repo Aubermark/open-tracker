@@ -30349,6 +30349,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccb9286c-4b2e-52b1-a92c-8d0db791c8c5",
+        "address": "5228-Yellowtail-Ln-Nw-Kennesaw-GA-30152",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2951,
+        "listed_at": "2026-05-26T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.707143,
+          33.978866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccc59cd6-3e4f-5e04-985d-a91ac461068f",
         "address": "745-Mount-Massive-St-Berthoud-CO-80513",
         "beds": 5,
@@ -34543,6 +34564,27 @@
         "coordinates": [
           -96.523033,
           32.888727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9ecde27-4aed-5fdb-af2c-e12a4b46f6de",
+        "address": "314-Mar-Don-Hills-Ct-Winston-Salem-NC-27104",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1054,
+        "listed_at": "2026-05-26T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 148000,
+        "price_label": "$148K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33339,
+          36.075579
         ]
       }
     },
