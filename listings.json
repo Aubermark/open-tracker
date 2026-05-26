@@ -25141,6 +25141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a9d80605-0928-5047-88e4-3a9cfc94a551",
+        "address": "2011-Wild-Cherry-Dr-Lewisburg-TN-37091",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1942,
+        "listed_at": "2026-05-26T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.822819,
+          35.449254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a9e4ae0e-7a8a-5c48-83c7-dedde15757c7",
         "address": "257-Spring-Meadows-Dr-Ringgold-GA-30736",
         "beds": 3,
