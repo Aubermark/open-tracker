@@ -15523,6 +15523,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a3b7acd-c523-5bfa-9655-dcdaae770697",
+        "address": "515-W-22nd-St-Minneapolis-MN-55405",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1524,
+        "listed_at": "2026-05-26T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.286387,
+          44.960691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a8e2a74-fde7-5feb-9e98-3e39e3202af7",
         "address": "932-Jefferson-Ave-Saint-Paul-MN-55102",
         "beds": 4,
@@ -25015,6 +25036,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ab8842a7-defd-52d3-ad1d-ba42bb173c74",
+        "address": "19899-Quaking-Aspen-Ave-Oregon-City-OR-97045",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1698,
+        "listed_at": "2026-05-26T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.565597,
+          45.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ababc45e-ac05-5136-b1c0-5e5e85cd912c",
         "address": "4246-E-Tyson-St-Gilbert-AZ-85295",
         "beds": 3,
@@ -27361,6 +27403,27 @@
         "coordinates": [
           -83.100502,
           39.935515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bc27d543-efd3-5efc-9815-5f0ed342c660",
+        "address": "3990-Black-Butte-Cir-Stockton-CA-95209",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-05-26T16:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.367361,
+          38.046621
         ]
       }
     },
