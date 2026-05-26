@@ -31714,6 +31714,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5bff7e8-1344-5737-b1c6-012403797c71",
+        "address": "1706-Morning-Mist-Way-Wylie-TX-75098",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3206,
+        "listed_at": "2026-05-26T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.551019,
+          33.051974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d5fbfffc-df64-5614-9373-0ca54101bc92",
         "address": "2357-Pokagon-St-Avon-IN-46123",
         "beds": 3,
@@ -36958,27 +36979,6 @@
         "coordinates": [
           -80.906376,
           35.54833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fb670876-8eea-5d62-889d-f0ee117baf5f",
-        "address": "6296-Laurel-Green-Dr-Lithonia-GA-30058",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2656,
-        "listed_at": "2026-05-15T10:00:01.000Z",
-        "days_on_market": "11",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.131192,
-          33.75807
         ]
       }
     },
