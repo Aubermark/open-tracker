@@ -8677,6 +8677,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a8af570-4e7c-543f-8f85-9f674435ae61",
+        "address": "7248-Walling-Ln-Dallas-TX-75231",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2146,
+        "listed_at": "2026-05-26T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.735092,
+          32.859975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3aae093d-6122-5083-9125-1f5ead3f7b09",
         "address": "311-Quail-Run-Roswell-GA-30076",
         "beds": 2,
@@ -31288,6 +31309,27 @@
         "coordinates": [
           -90.008343,
           38.636474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d50b187d-b6e7-5f08-9b7b-f203fd6dcfe5",
+        "address": "176-Fred-Bishop-Dr-Canton-GA-30114",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2645,
+        "listed_at": "2026-05-26T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.459187,
+          34.294872
         ]
       }
     },
