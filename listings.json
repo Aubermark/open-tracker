@@ -22978,6 +22978,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9cfa973a-045a-5822-9b37-36805bdc5283",
+        "address": "3064-Imperial-Oaks-Dr-Raleigh-NC-27614",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2351,
+        "listed_at": "2026-05-26T08:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55459,
+          35.963644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d4280de-acde-5457-8f78-ed4a05a47610",
         "address": "6206-Suellen-Ln-Killeen-TX-76542",
         "beds": 4,
