@@ -2272,6 +2272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fbfac84-13a7-5fbb-9690-d3e2726a4d0f",
+        "address": "831-Shepard-Ln-Chico-CA-95926",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1450,
+        "listed_at": "2026-05-26T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.817424,
+          39.751606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fc1b1c2-447c-5726-85c8-e42b684af162",
         "address": "4814-Monet-Way-Sacramento-CA-95842",
         "beds": 4,
