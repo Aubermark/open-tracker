@@ -4204,6 +4204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b9f8dc0-3838-5127-a320-96d75209fdae",
+        "address": "1226-Oakmanor-Cir-Hewitt-TX-76643",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2568,
+        "listed_at": "2026-05-27T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.201019,
+          31.430937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1bb11ea4-0f96-50e4-9539-966bb00005de",
         "address": "271-Stane-Brook-Ct-Jackson-GA-30233",
         "beds": 4,
@@ -4702,27 +4723,6 @@
         "coordinates": [
           -95.31072,
           30.13488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1f1b4375-2e0c-540c-96fc-be954ed2cfe5",
-        "address": "1296-River-Rock-Rd-Hanahan-SC-29410",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1120,
-        "listed_at": "2026-05-21T21:30:03.000Z",
-        "days_on_market": "6",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.010523,
-          32.944726
         ]
       }
     },
@@ -10483,6 +10483,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44b8557b-441e-58dd-bcff-16a244cf44a6",
+        "address": "2385-Sw-Neal-Rd-Port-Saint-Lucie-FL-34953",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1786,
+        "listed_at": "2026-05-27T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.416651,
+          27.273002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44c24e9d-3794-4e97-8e07-e7dce560dd47",
         "address": "785-Habitat-Way-Sunbury-OH-43074",
         "beds": 5,
@@ -12220,27 +12241,6 @@
         "coordinates": [
           -95.5533,
           29.985006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "518e1cc1-e7ff-57aa-b184-dc8c81f0c945",
-        "address": "16517-E-35th-Street-Ct-S-Independence-MO-64055",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1053,
-        "listed_at": "2026-05-04T22:10:02.000Z",
-        "days_on_market": "23",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.384824,
-          39.05475
         ]
       }
     },
@@ -31141,6 +31141,27 @@
         "coordinates": [
           -84.767684,
           33.379336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce74655a-67e9-5feb-b37f-bcbee3f04e45",
+        "address": "1116-Cunningham-Ave-Saint-Charles-MO-63301",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1040,
+        "listed_at": "2026-05-27T20:50:03.000Z",
+        "days_on_market": "37",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.504407,
+          38.777593
         ]
       }
     },
