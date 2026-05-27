@@ -32575,6 +32575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d717a8a7-41ab-55b5-b2bf-5d67493e8465",
+        "address": "1876-Geyser-Trce-Lawrenceville-GA-30044",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3358,
+        "listed_at": "2026-05-27T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 431000,
+        "price_label": "$431K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03745,
+          33.924243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d7277f58-89bb-53b4-b505-31fe213a6927",
         "address": "10919-E-Midnight-Moon-Ln-Tucson-AZ-85747",
         "beds": 3,
