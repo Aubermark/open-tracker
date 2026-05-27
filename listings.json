@@ -10819,6 +10819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4636540e-de14-57a1-af58-f1e11f8e7338",
+        "address": "818-W-130th-St-Compton-CA-90222",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1767,
+        "listed_at": "2026-05-27T14:50:02.000Z",
+        "days_on_market": "7",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.240094,
+          33.913841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46571ea9-cb3b-5344-9572-56a11e6b40f1",
         "address": "939-Staffordale-Manor-Ln-Houston-TX-77047",
         "beds": 3,
@@ -15775,27 +15796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "681c488f-5100-590b-a4e6-354565ac16eb",
-        "address": "111-Wahoo-Cir-Irmo-SC-29063",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1959,
-        "listed_at": "2026-05-24T11:20:03.000Z",
-        "days_on_market": ">94",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.220623,
-          34.118784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "68458d81-e3c0-57c1-af53-aac317f21156",
         "address": "342-Newcastle-Vis-Mc-Donough-GA-30253",
         "beds": 3,
@@ -18226,27 +18226,6 @@
         "coordinates": [
           -80.963487,
           35.067157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "786229ee-6952-57d0-b705-76ef3fa9e803",
-        "address": "14509-N-126th-Ave-El-Mirage-AZ-85335",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1722,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "71",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.332663,
-          33.614798
         ]
       }
     },
@@ -29698,27 +29677,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c4e14c9a-b1de-4c22-878b-f573925df05c",
-        "address": "",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1546,
-        "listed_at": "2026-05-14T18:40:02.000Z",
-        "days_on_market": ">94",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.791985,
-          33.24693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c55d6dc7-ee31-5cc3-ab7b-cb505c4a0063",
         "address": "1-Kenilworth-Ave-Sumter-SC-29150",
         "beds": 3,
@@ -33136,27 +33094,6 @@
         "coordinates": [
           -115.263425,
           36.185965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "db684b35-673c-524e-80a9-908406a75d46",
-        "address": "8592-Dylan-Michael-Dr-Jacksonville-FL-32210",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1958,
-        "listed_at": "2026-04-29T13:40:03.000Z",
-        "days_on_market": "89",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.793222,
-          30.263735
         ]
       }
     },
