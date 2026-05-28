@@ -4162,27 +4162,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ace8c5c-5bd2-5270-976b-8053067ddf1a",
-        "address": "6104-Crupper-Ct-Raleigh-NC-27613",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4067,
-        "listed_at": "2026-05-08T20:30:03.000Z",
-        "days_on_market": "20",
-        "current_price": 715000,
-        "price_label": "$715K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.697813,
-          35.952054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1ae478f0-bb85-56d0-b033-48f50f2d97d0",
         "address": "3037-Paint-Brush-Pl-Lancaster-TX-75134",
         "beds": 3,
@@ -20794,27 +20773,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "889bbc86-1ed7-50b0-859c-06d57c0e6957",
-        "address": "3264-Nw-Twinberry-St-Corvallis-OR-97330",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1686,
-        "listed_at": "2026-05-26T19:20:02.000Z",
-        "days_on_market": "2",
-        "current_price": 610000,
-        "price_label": "$610K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.295009,
-          44.599067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
         "address": "225-Ash-Cir-Trussville-AL-35173",
         "beds": 3,
@@ -28669,27 +28627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bb2e4460-f135-4cda-a9e3-fca87d8d1d62",
-        "address": "8355-Sw-197th-Ct-Dunnellon-FL-34432",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2198,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": "84",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.44827,
-          29.100416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bb4a65e2-0666-44d4-9fc9-ecbc38d43c13",
         "address": "163-Paddle-Boat-Way-Summerville-SC-29485",
         "beds": 3,
@@ -32569,6 +32506,27 @@
         "coordinates": [
           -78.78564,
           35.751422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d494ec44-5b54-5fa7-9d80-857e0c019b94",
+        "address": "2102-Tidal-Cv-Lawrenceville-GA-30043",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2253,
+        "listed_at": "2026-05-28T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.081793,
+          33.966009
         ]
       }
     },
