@@ -2461,6 +2461,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10bab3bb-80ba-565c-95d3-7916ce36fcf1",
+        "address": "30-Roberson-Dr-Ne-Cartersville-GA-30121",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3453,
+        "listed_at": "2026-05-28T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.720577,
+          34.224137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "110af915-ffd1-5530-9719-1fbc0eb8de73",
         "address": "20192-Southwood-Oaks-Dr-Porter-TX-77365",
         "beds": 4,
