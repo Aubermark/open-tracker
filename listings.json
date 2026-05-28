@@ -2482,27 +2482,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "110af915-ffd1-5530-9719-1fbc0eb8de73",
-        "address": "20192-Southwood-Oaks-Dr-Porter-TX-77365",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2812,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "63",
-        "current_price": 384000,
-        "price_label": "$384K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.262498,
-          30.09361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "111344e0-a492-541d-9b50-c417ba49df48",
         "address": "168-Triple-Fairways-Dr-Hendersonville-NC-28739",
         "beds": 3,
@@ -8188,6 +8167,27 @@
         "coordinates": [
           -81.535783,
           41.530316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "33ab7f75-a73d-4091-9de5-c13945ae205a",
+        "address": "7939-Coastal-Prairie-Dr-Porter-TX-77365",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3364,
+        "listed_at": "2026-05-28T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.313926,
+          30.123502
         ]
       }
     },
@@ -28396,27 +28396,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b95ce058-72df-4f8a-a7e3-5302665f014c",
-        "address": "7939-Coastal-Prairie-Dr-Porter-TX-77365",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3364,
-        "listed_at": "2026-05-14T06:31:38.000Z",
-        "days_on_market": "80",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.313926,
-          30.123502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b988018e-d320-566e-98b3-5f992d7e9cd0",
         "address": "506-Hillview-Dr-Durham-NC-27703",
         "beds": 4,
@@ -31624,6 +31603,27 @@
         "coordinates": [
           -98.274591,
           29.561282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cef1b64b-0556-5785-919e-52eeaf4a7f7b",
+        "address": "865-Warwick-Ln-Lake-Zurich-IL-60047",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3157,
+        "listed_at": "2026-05-28T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.063388,
+          42.179398
         ]
       }
     },
