@@ -37027,6 +37027,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f1a59c2c-213c-5ef2-b697-3067390729fb",
+        "address": "2505-Velma-Ter-Leesburg-FL-34748",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1118,
+        "listed_at": "2026-05-28T08:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 204000,
+        "price_label": "$204K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.907072,
+          28.818807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f1b052f7-2b5a-45ea-8b7f-58bfa14c825a",
         "address": "184-Oliver-Dr-Locust-Grove-GA-30248",
         "beds": 3,
