@@ -2503,6 +2503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "111344e0-a492-541d-9b50-c417ba49df48",
+        "address": "168-Triple-Fairways-Dr-Hendersonville-NC-28739",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3073,
+        "listed_at": "2026-05-28T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.556617,
+          35.310239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "111efe05-4679-5f59-8084-58737fe989b4",
         "address": "725-Cheyenne-Trl-Trenton-TX-75490",
         "beds": 4,
@@ -3190,6 +3211,27 @@
         "coordinates": [
           -115.063288,
           36.148328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "14a0a07a-cf5b-5032-826b-e7a988b83af8",
+        "address": "101-Cambridge-Pointe-Dr-Alabaster-AL-35007",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1448,
+        "listed_at": "2026-05-28T15:40:02.000Z",
+        "days_on_market": "20",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83272,
+          33.224064
         ]
       }
     },
@@ -23077,6 +23119,27 @@
         "coordinates": [
           -117.404137,
           34.583176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "95dffadc-b332-5ca4-8780-7a0b4dbde98b",
+        "address": "4244-Providence-Ter-Fremont-CA-94538",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1437,
+        "listed_at": "2026-05-28T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1190000,
+        "price_label": "$1.190M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.965824,
+          37.532391
         ]
       }
     },
