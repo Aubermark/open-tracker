@@ -17497,6 +17497,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "719a710b-0ac5-597c-a85d-182ba3dfea02",
+        "address": "117-E-Woodland-Mnr-Temple-GA-30179",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2012,
+        "listed_at": "2026-05-28T06:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.024738,
+          33.742231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71b7da04-b0b7-534f-996c-52916f98bbfd",
         "address": "10-King-Dr-Carrollton-GA-30116",
         "beds": 3,
