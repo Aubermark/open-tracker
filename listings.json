@@ -3280,6 +3280,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
+        "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1197,
+        "listed_at": "2026-05-28T20:20:02.000Z",
+        "days_on_market": ">95",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.546461,
+          35.877577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1566ba38-e877-52c7-945d-8ca734c753fb",
         "address": "4027-Lawrence-Ave-Kensington-MD-20895",
         "beds": 3,
@@ -4597,27 +4618,6 @@
         "coordinates": [
           -116.296521,
           33.725125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1df87d0b-5547-50ed-93d9-144474a80348",
-        "address": "738-Flower-St-Beaumont-CA-92223",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2838,
-        "listed_at": "2026-05-01T05:55:27.000Z",
-        "days_on_market": "28",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.989923,
-          33.954355
         ]
       }
     },
@@ -7810,6 +7810,27 @@
         "coordinates": [
           -98.37318,
           29.650821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "31c32c31-a05e-55e8-830c-388be14021ef",
+        "address": "107-Starling-St-Selma-NC-27576",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1442,
+        "listed_at": "2026-05-28T20:20:02.000Z",
+        "days_on_market": "32",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.247252,
+          35.508336
         ]
       }
     },
@@ -21151,27 +21172,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8a381c8f-e162-5af9-b117-d7bd70829a9d",
-        "address": "16005-Morningside-Northville-MI-48168",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1380,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "78",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.533972,
-          42.400592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8a6640aa-3fe8-528e-84cf-9643585bc040",
         "address": "9686-Fairwood-St-Littleton-CO-80125",
         "beds": 3,
@@ -32548,6 +32548,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4b8220d-a45d-579e-a6a6-1d744285d44c",
+        "address": "5536-N-Fairmount-Ave-Kansas-City-MO-64118",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1356,
+        "listed_at": "2026-05-28T20:20:02.000Z",
+        "days_on_market": "48",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.598778,
+          39.195448
         ]
       }
     },
