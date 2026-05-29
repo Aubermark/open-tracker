@@ -1390,6 +1390,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09f94afe-0c3e-5649-8614-fb7c8669dd9a",
+        "address": "862-Grice-Ln-Placerville-CA-95667",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-05-29T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.798809,
+          38.71746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a0735a9-a07a-5755-9488-0fdbe8fb5bdd",
         "address": "13724-W-Harvest-Ave-Litchfield-Park-AZ-85340",
         "beds": 3,
@@ -7810,6 +7831,27 @@
         "coordinates": [
           -95.703991,
           29.949162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "323e713b-e2ff-5767-b6d8-b9997ec9bac7",
+        "address": "5644-Eichen-Cir-W-Fort-Myers-FL-33919",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1826,
+        "listed_at": "2026-05-29T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.905052,
+          26.56929
         ]
       }
     },
@@ -16567,27 +16609,6 @@
         "coordinates": [
           -110.984567,
           32.255064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6cd97aea-d6c4-5edb-9ead-138944b02e88",
-        "address": "3413-Snowy-Egret-Ct-Palm-Harbor-FL-34683",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1535,
-        "listed_at": "2026-05-12T15:30:02.000Z",
-        "days_on_market": "17",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.743079,
-          28.101306
         ]
       }
     },
@@ -29635,6 +29656,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c3934a21-2051-573a-9ba3-7c2e11df710e",
+        "address": "259-Sage-Creek-Cir-Springville-UT-84663",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1755,
+        "listed_at": "2026-05-29T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.605572,
+          40.154033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3bd8395-a912-5a5e-9f42-4422fa4501ac",
         "address": "216-Blue-Crystal-Dr-Deland-FL-32720",
         "beds": 3,
@@ -29671,27 +29713,6 @@
         "coordinates": [
           -84.890895,
           33.749938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3fcd5fe-42ba-509f-bf7b-c8c80539aa68",
-        "address": "4732-Alderbrook-Ln-Durham-NC-27713",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1868,
-        "listed_at": "2026-05-26T15:30:03.000Z",
-        "days_on_market": "3",
-        "current_price": 457000,
-        "price_label": "$457K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.932076,
-          35.937883
         ]
       }
     },
