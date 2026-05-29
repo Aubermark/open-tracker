@@ -7900,6 +7900,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "32ffefcb-2418-5aba-ad41-d6b5ba2faf18",
+        "address": "3715-Highland-Dr-Ayden-NC-28513",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-05-29T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 227000,
+        "price_label": "$227K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41707,
+          35.485428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33130f9b-7039-5afa-8c58-d919ed472e94",
         "address": "2115-Eskridge-Ter-Clover-SC-29710",
         "beds": 5,
@@ -31183,27 +31204,6 @@
         "coordinates": [
           -96.174298,
           32.977566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce66e06b-3bf5-50f7-b998-0487383846ee",
-        "address": "101-Thomaston-St-Newnan-GA-30263",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2051,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">96",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.767684,
-          33.379336
         ]
       }
     },
