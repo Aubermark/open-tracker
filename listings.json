@@ -10063,27 +10063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4140bfcd-1471-5c35-9ee1-13254a6c375e",
-        "address": "727-Cypress-St-Lansdowne-PA-19050",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1482,
-        "listed_at": "2026-05-20T18:10:03.000Z",
-        "days_on_market": "9",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.247365,
-          39.934394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
         "address": "13167-Roma-Bnd-Carmel-IN-46074",
         "beds": 3,
@@ -11821,6 +11800,27 @@
         "coordinates": [
           -111.683878,
           40.295655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4ca83b72-52dd-5d3d-b3e8-e45796d4c7fc",
+        "address": "4800-Park-Ave-Sw-Birmingham-AL-35221",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2039,
+        "listed_at": "2026-05-29T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.904918,
+          33.446235
         ]
       }
     },
@@ -23587,27 +23587,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9b687c9c-d85d-5361-8c36-d60e27165915",
-        "address": "1251-E-Grove-Cir-Mesa-AZ-85204",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1118,
-        "listed_at": "2026-05-14T06:31:36.000Z",
-        "days_on_market": "16",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.803973,
-          33.390226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9badbf03-e3d6-54a7-949e-7e71245810bd",
         "address": "1622-Halliard-Dr-Lawrenceville-GA-30043",
         "beds": 4,
@@ -24075,10 +24054,10 @@
         "beds": 5,
         "baths": 3,
         "sqft": 3234,
-        "listed_at": "2026-05-14T18:30:02.000Z",
+        "listed_at": "2026-05-29T18:20:02.000Z",
         "days_on_market": "15",
-        "current_price": 1365000,
-        "price_label": "$1.365M"
+        "current_price": 1165000,
+        "price_label": "$1.165M"
       },
       "geometry": {
         "type": "Point",
@@ -28621,6 +28600,27 @@
         "coordinates": [
           -79.067643,
           35.046477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bc801433-52d1-54c2-8c6f-4dc9b4ad1e55",
+        "address": "4-Willowood-Dr-Spartanburg-SC-29303",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1677,
+        "listed_at": "2026-05-29T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.010843,
+          35.003428
         ]
       }
     },
@@ -33409,6 +33409,27 @@
         "coordinates": [
           -96.843562,
           33.032185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db44b96f-194e-50d9-b03c-e7f91a5e9ed4",
+        "address": "727-E-Mahoney-Cir-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1309,
+        "listed_at": "2026-05-29T18:20:02.000Z",
+        "days_on_market": "35",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.580337,
+          33.365482
         ]
       }
     },
