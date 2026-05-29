@@ -9727,6 +9727,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e9b76c9-4918-5d28-9cbb-aef098a67cea",
+        "address": "1111-3rd-Ln-Pleasant-Grove-AL-35127",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-05-29T22:20:02.000Z",
+        "days_on_market": "47",
+        "current_price": 223000,
+        "price_label": "$223K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.963756,
+          33.482426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3ea8cedb-cccf-516f-8dd7-dae77a5d1e32",
         "address": "406-Dingler-Ave-Mooresville-NC-28115",
         "beds": 3,
@@ -12283,27 +12304,6 @@
         "coordinates": [
           -81.486885,
           30.334004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4fd537fe-efb9-58c2-a404-a4f489d153db",
-        "address": "767-Rolling-Hill-Dr-Sebastian-FL-32958",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1410,
-        "listed_at": "2026-04-08T19:00:06.000Z",
-        "days_on_market": "51",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.492112,
-          27.764366
         ]
       }
     },
@@ -23041,6 +23041,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "969bf4c8-1acd-59a0-b1f9-afb073799a9d",
+        "address": "3714-Windmill-Links-Dr-Richmond-TX-77407",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2383,
+        "listed_at": "2026-05-29T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.685055,
+          29.627517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "96de91b9-c2ea-5514-9302-fd0f49cf94f3",
         "address": "17604-Wakenden-Redford-MI-48240",
         "beds": 3,
@@ -23497,6 +23518,27 @@
         "coordinates": [
           -84.034917,
           34.063845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a4434fe-57f6-58fe-b7ad-c6f82bd28da0",
+        "address": "212-Wabash-Woods-Way-O-Fallon-MO-63366",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1146,
+        "listed_at": "2026-05-29T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.685586,
+          38.808302
         ]
       }
     },
