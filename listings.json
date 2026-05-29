@@ -1663,6 +1663,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bb853f0-8099-504c-8a3b-42a40521443e",
+        "address": "1960-Edwards-Fork-Rd-Scotland-Neck-NC-27874",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2204,
+        "listed_at": "2026-05-29T19:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.389312,
+          36.11855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bbb376e-0383-497e-8a22-4ed5a5f55abd",
         "address": "1613-Couser-Ave-New-Braunfels-TX-78132",
         "beds": 3,
@@ -25540,27 +25561,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a86c60af-0354-5289-9076-f8b4410c9a1c",
-        "address": "8112-Princess-Jeanne-Ave-Ne-Albuquerque-NM-87110",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1196,
-        "listed_at": "2026-05-14T06:31:38.000Z",
-        "days_on_market": "57",
-        "current_price": 304000,
-        "price_label": "$304K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.552369,
-          35.097628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a96fead9-0fd8-5502-8606-af657e864c36",
         "address": "4975-Bentridge-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -26143,27 +26143,6 @@
         "coordinates": [
           -116.54499,
           33.869125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "acc46a9d-903e-54af-b2fd-6642df7fa6e1",
-        "address": "5145-Cliff-Oaks-Dr-Fort-Worth-TX-76179",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1881,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "50",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.378404,
-          32.83732
         ]
       }
     },
@@ -34942,6 +34921,27 @@
         "coordinates": [
           -110.780287,
           32.096473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e600910d-9e35-57b6-aa0a-7b5ec77c8552",
+        "address": "5259-Baysdon-Cir-Indianapolis-IN-46235",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2448,
+        "listed_at": "2026-05-29T19:00:02.000Z",
+        "days_on_market": ">96",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.958422,
+          39.849312
         ]
       }
     },
