@@ -67,27 +67,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "00c0eb84-e662-5e97-9c10-4d86a3486f0c",
-        "address": "15800-E-121st-Ave-Unit-Q5-Lochbuie-CO-80603",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1160,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "58",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.803844,
-          39.916002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "00cea097-8687-594e-ac0e-adf29681f918",
         "address": "7880-Micron-Dr-Apt-3904-San-Antonio-TX-78251",
         "beds": 2,
@@ -10672,6 +10651,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4463b5dc-1e4d-57f7-a9b6-694b3ff355a2",
+        "address": "20860-Sw-Parker-Ct-Beaverton-OR-97078",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1312,
+        "listed_at": "2026-05-29T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.892052,
+          45.483007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44b8557b-441e-58dd-bcff-16a244cf44a6",
         "address": "2385-Sw-Neal-Rd-Port-Saint-Lucie-FL-34953",
         "beds": 4,
@@ -13879,27 +13879,6 @@
         "coordinates": [
           -80.90234,
           28.984795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5b05101a-aaf4-5827-a89f-c227482377e2",
-        "address": "12117-Monaco-Dr-Brighton-CO-80602",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1427,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": "95",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.911204,
-          39.916184
         ]
       }
     },
@@ -17470,6 +17449,27 @@
         "coordinates": [
           -84.292846,
           33.443369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "720aa65e-ed98-578b-a423-e2e47b627613",
+        "address": "232-Cynthia-Ct-Dallas-GA-30157",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1270,
+        "listed_at": "2026-05-29T21:40:03.000Z",
+        "days_on_market": ">96",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.965638,
+          33.865121
         ]
       }
     },
@@ -26059,6 +26059,27 @@
         "coordinates": [
           -81.732598,
           31.712789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "abe67fe5-a4b3-5772-a532-cf0c9de6cb35",
+        "address": "704-Sportsman-Rd-Moncks-Corner-SC-29461",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1784,
+        "listed_at": "2026-05-29T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.046189,
+          33.097038
         ]
       }
     },
