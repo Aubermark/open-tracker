@@ -17539,27 +17539,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6ffab4e5-dbac-4829-bb22-46e24ed2eae3",
-        "address": "3612-Bailey-Lake-Dr-Fuquay-Varina-NC-27526",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3043,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": ">97",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.740802,
-          35.579669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6ffc4d2a-4a5d-5c2f-8307-daf2c6e9df7e",
         "address": "1310-Horizon-Village-Ave-Las-Vegas-NV-89183",
         "beds": 2,
@@ -18667,6 +18646,27 @@
         "coordinates": [
           -78.539967,
           36.024718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "779ca019-eeb2-5978-8cee-c4895e5ab956",
+        "address": "7008-Thurston-Rd-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1318,
+        "listed_at": "2026-05-30T20:40:03.000Z",
+        "days_on_market": "26",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.760386,
+          30.271742
         ]
       }
     },
@@ -30406,27 +30406,6 @@
         "coordinates": [
           -84.890895,
           33.749938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3ff5b2d-2b08-5dc6-8461-d34231d9fc77",
-        "address": "127-Genessee-Valley-Rd-Columbia-SC-29223",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2704,
-        "listed_at": "2026-05-06T19:10:02.000Z",
-        "days_on_market": "68",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.880867,
-          34.088966
         ]
       }
     },
