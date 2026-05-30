@@ -11848,6 +11848,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b24e1ab-ecf4-5985-b1b2-38295d73d44a",
+        "address": "131-W-6th-Ave-San-Manuel-AZ-85631",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1053,
+        "listed_at": "2026-05-30T15:20:02.000Z",
+        "days_on_market": "44",
+        "current_price": 153000,
+        "price_label": "$153K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.635416,
+          32.608399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b2842b4-e59d-526e-b628-3503be83cc77",
         "address": "8250-Cape-Fox-Dr-Jacksonville-FL-32222",
         "beds": 3,
@@ -34627,27 +34648,6 @@
         "coordinates": [
           -82.360509,
           27.874158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ddfc6b82-317a-5344-8378-19eef3e908bb",
-        "address": "3345-Sw-Lake-Shore-Dr-Blue-Springs-MO-64014",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1812,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "57",
-        "current_price": 342000,
-        "price_label": "$342K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.267876,
-          38.985567
         ]
       }
     },
