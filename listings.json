@@ -14221,6 +14221,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c5d975f-2f70-5dc5-ad56-3acb79c590be",
+        "address": "2025-Shawn-Wayne-Cir-Se-Atlanta-GA-30316",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1382,
+        "listed_at": "2026-05-31T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.311755,
+          33.721887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c8f4aa5-3d79-5c4e-8760-bd453340329a",
         "address": "1609-Richland-Dr-Charlotte-NC-28205",
         "beds": 4,
