@@ -3553,6 +3553,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16aeb439-32dd-5250-bf49-702a534e73a7",
+        "address": "108-S-Heflin-St-Indianapolis-IN-46229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1112,
+        "listed_at": "2026-05-31T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.954048,
+          39.775543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16c921b6-a34a-5a2b-9d55-9c8b674b1bf2",
         "address": "105-Nottingham-Ct-Summerville-SC-29485",
         "beds": 3,
@@ -18940,27 +18961,6 @@
         "coordinates": [
           -95.668055,
           30.233602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7ae3ee73-64c9-5d25-8265-78b927baa0b8",
-        "address": "1014-Fosdick-Dr-Colorado-Springs-CO-80909",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1667,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "66",
-        "current_price": 365000,
-        "price_label": "$365K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.749254,
-          38.847965
         ]
       }
     },
