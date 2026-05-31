@@ -18925,6 +18925,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "794edb9b-e18d-5037-af34-c76656a889f8",
+        "address": "932-E-Dorrell-Ln-North-Las-Vegas-NV-89086",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1826,
+        "listed_at": "2026-05-31T13:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.129972,
+          36.287563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "79a45c8a-15ef-5782-bb00-7335d2d09d44",
         "address": "1242-Elterwater-Ln-Spartanburg-SC-29306",
         "beds": 4,
