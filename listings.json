@@ -7963,27 +7963,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "332b7916-e2f6-5b77-a072-067f797d73ce",
-        "address": "1128-Hobart-Dr-Marysville-CA-95901",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1048,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "53",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.56947,
-          39.161949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "333d33fa-62f4-54e2-8075-9770fca9cae5",
         "address": "1134-Somerset-Springs-Dr-Spring-Hill-TN-37174",
         "beds": 3,
@@ -22930,6 +22909,27 @@
         "coordinates": [
           -81.137328,
           33.997829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9487ea1c-30cb-5779-85bf-46b75e33ef42",
+        "address": "10826-N-Fairway-Ct-E-Sun-City-AZ-85351",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1349,
+        "listed_at": "2026-05-31T21:10:03.000Z",
+        "days_on_market": ">98",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.286209,
+          33.582211
         ]
       }
     },
