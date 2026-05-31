@@ -16468,27 +16468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6a3b7acd-c523-5bfa-9655-dcdaae770697",
-        "address": "515-W-22nd-St-Minneapolis-MN-55405",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1524,
-        "listed_at": "2026-05-26T16:10:02.000Z",
-        "days_on_market": "5",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.286387,
-          44.960691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6a8e2a74-fde7-5feb-9e98-3e39e3202af7",
         "address": "932-Jefferson-Ave-Saint-Paul-MN-55102",
         "beds": 4,
@@ -36454,6 +36433,27 @@
         "coordinates": [
           -80.774103,
           35.227059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebc101a6-69cb-5e44-a783-d30f783fbd33",
+        "address": "3029-Southampton-Cir-Gastonia-NC-28056-16920533",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3416,
+        "listed_at": "2026-05-31T18:30:03.000Z",
+        "days_on_market": "86",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.124844,
+          35.215886
         ]
       }
     },
