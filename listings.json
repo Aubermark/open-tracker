@@ -31777,6 +31777,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce66e06b-3bf5-50f7-b998-0487383846ee",
+        "address": "101-Thomaston-St-Newnan-GA-30263",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2051,
+        "listed_at": "2026-05-31T15:10:02.000Z",
+        "days_on_market": ">98",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.767684,
+          33.379336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce74655a-67e9-5feb-b37f-bcbee3f04e45",
         "address": "1116-Cunningham-Ave-Saint-Charles-MO-63301",
         "beds": 3,
@@ -35740,6 +35761,27 @@
         "coordinates": [
           -86.209052,
           39.877435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e69c2efd-53a9-5a00-8803-9a6ed7317516",
+        "address": "21425-Averhill-St-Farmington-Hills-MI-48336",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1752,
+        "listed_at": "2026-05-31T15:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.327106,
+          42.448601
         ]
       }
     },
