@@ -1537,6 +1537,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b2ae554-dc62-5c78-9e5d-01b8e409bc61",
+        "address": "104-Oak-St-W-Rose-Creek-MN-55970",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1582,
+        "listed_at": "2026-06-01T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.831597,
+          43.604619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b59f50c-84b5-5c79-8ea4-da69fea0ab65",
         "address": "15037-Harding-Ave-Clearwater-FL-33760",
         "beds": 2,
@@ -4555,6 +4576,27 @@
         "coordinates": [
           -116.296521,
           33.725125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1df87d0b-5547-50ed-93d9-144474a80348",
+        "address": "738-Flower-St-Beaumont-CA-92223",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2838,
+        "listed_at": "2026-06-01T17:50:03.000Z",
+        "days_on_market": "32",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.989923,
+          33.954355
         ]
       }
     },
@@ -38869,27 +38911,6 @@
         "coordinates": [
           -117.335751,
           34.393859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc3cb4a3-c4cc-5a58-ba3a-bbf8a4c53c09",
-        "address": "20710-Miller-Ave-Cleveland-OH-44119",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1504,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": "60",
-        "current_price": 179000,
-        "price_label": "$179K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.535856,
-          41.588453
         ]
       }
     },
