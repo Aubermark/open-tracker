@@ -886,27 +886,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "06e21861-5d38-59d2-82a0-a7abe5f9e4f8",
-        "address": "3807-Greenhill-Dr-Atlanta-GA-30341",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1746,
-        "listed_at": "2026-05-18T20:10:02.000Z",
-        "days_on_market": "19",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.305471,
-          33.90395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
         "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
         "beds": 3,
@@ -6787,27 +6766,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c21056a-9610-57ec-9a21-6d4b068d1054",
-        "address": "5073-Farm-Valley-Dr-Ne-Woodstock-GA-30188",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1293,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": "54",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.528879,
-          34.073813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c45e342-ca8b-568e-9456-942f493e4fb0",
         "address": "1508-Boone-Ave-N-Golden-Valley-MN-55427",
         "beds": 3,
@@ -9448,6 +9406,27 @@
         "coordinates": [
           -111.677533,
           33.471063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3c45c44d-2bff-5441-a5dd-50942193d044",
+        "address": "1300-Green-Turf-Ln-Elgin-SC-29045",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2394,
+        "listed_at": "2026-06-01T05:50:42.000Z",
+        "days_on_market": "80",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.846452,
+          34.141956
         ]
       }
     },
@@ -16510,6 +16489,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ac17c0a-1e65-5578-b4a1-ef1fb6b3995b",
+        "address": "1634-Singing-Sands-Ave-Henderson-NV-89014",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2433,
+        "listed_at": "2026-06-01T05:50:42.000Z",
+        "days_on_market": ">98",
+        "current_price": 578000,
+        "price_label": "$578K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.057824,
+          36.068368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ad27e03-56d7-5706-9fcd-37a71c0434d9",
         "address": "17518-Rustington-Dr-Spring-TX-77379",
         "beds": 4,
@@ -19171,27 +19171,6 @@
         "coordinates": [
           -81.07834,
           35.063696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7c803c63-7bab-4fa3-8649-566bc3c38195",
-        "address": "6828-Steiger-Trl-Mc-Kinney-TX-75071",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2888,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": "95",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.631233,
-          33.271096
         ]
       }
     },
@@ -28831,27 +28810,6 @@
         "coordinates": [
           -87.392215,
           36.577569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bb6826ee-8a16-53ea-8a8a-6e62d97c6cb6",
-        "address": "3431-White-Mission-Dr-Las-Vegas-NV-89129",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1281,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": ">98",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.291379,
-          36.222996
         ]
       }
     },
