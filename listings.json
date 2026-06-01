@@ -529,6 +529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03b09780-1d20-5cdb-b28d-2c858802ec8c",
+        "address": "375-Nora-Ave-Merritt-Island-FL-32952",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3299,
+        "listed_at": "2026-06-01T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 695000,
+        "price_label": "$695K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.692775,
+          28.332265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03b09a08-0915-5edd-8016-9b21a5bf7551",
         "address": "1825-Ne-Bren-Mar-Rd-Lees-Summit-MO-64086",
         "beds": 4,
@@ -10294,6 +10315,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41cd7d7e-baa6-5386-8784-812ea1445143",
+        "address": "80-Parkside-Rd-Plainfield-NJ-07060",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2029,
+        "listed_at": "2026-06-01T19:10:03.000Z",
+        "days_on_market": "84",
+        "current_price": 634000,
+        "price_label": "$634K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.409275,
+          40.602145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4223ff37-2de8-5aca-9320-66608d7a3987",
         "address": "13214-Deepwater-Cir-Corpus-Christi-TX-78410",
         "beds": 3,
@@ -19240,27 +19282,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7d465cc5-adb4-5b75-9613-c43cd4d7118b",
-        "address": "735-Highridge-Dr-Little-Elm-TX-75068",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2214,
-        "listed_at": "2026-05-20T21:00:02.000Z",
-        "days_on_market": "12",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.970563,
-          33.137172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7dd55e82-0555-4cff-9f55-c7203a6cf94a",
         "address": "4234-Vivenda-St-Unit-1-Las-Vegas-NV-89115",
         "beds": 2,
@@ -19654,27 +19675,6 @@
         "coordinates": [
           -97.483272,
           32.67168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "80fec753-e9d8-5ce2-adf9-53d336382f59",
-        "address": "4141-Summerfield-Dr-Turlock-CA-95382",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1595,
-        "listed_at": "2026-05-26T16:40:02.000Z",
-        "days_on_market": "6",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.861623,
-          37.531178
         ]
       }
     },
@@ -22279,27 +22279,6 @@
         "coordinates": [
           -81.508609,
           30.016169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "91dede16-b8e3-56b0-a718-288f957ee382",
-        "address": "7001-Edmundson-Dr-Arlington-TX-76002",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2125,
-        "listed_at": "2026-05-15T23:20:03.000Z",
-        "days_on_market": "28",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.112181,
-          32.631488
         ]
       }
     },
@@ -25786,27 +25765,6 @@
         "coordinates": [
           -98.01675,
           30.434743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
-        "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1649,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "69",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.200959,
-          32.977357
         ]
       }
     },
@@ -31813,27 +31771,6 @@
         "coordinates": [
           -97.422232,
           32.619561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d0791a1f-ae8b-5a09-9b65-cd8e6eaea345",
-        "address": "10845-Gregory-Ln-North-Royalton-OH-44133",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1460,
-        "listed_at": "2026-05-14T16:00:04.000Z",
-        "days_on_market": "18",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.766993,
-          41.340519
         ]
       }
     },
@@ -38890,27 +38827,6 @@
         "coordinates": [
           -112.022021,
           41.499173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc44cef0-2127-543a-90ae-ac8d735d4306",
-        "address": "4043-Larkspur-Pl-Winston-Salem-NC-27105",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 971,
-        "listed_at": "2026-04-20T21:40:04.000Z",
-        "days_on_market": ">99",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.19708,
-          36.145931
         ]
       }
     },
