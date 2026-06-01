@@ -36418,6 +36418,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ec0c29a6-86ac-53fc-a81a-fd2b61055ee8",
+        "address": "2775-Ravines-Rd-Middleburg-FL-32068",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2292,
+        "listed_at": "2026-06-01T07:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.861385,
+          30.056695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ec17ad02-a26e-517d-bb9a-8d4ec1cb5078",
         "address": "717-Twisted-Oaks-Ln-Buda-TX-78610",
         "beds": 3,
