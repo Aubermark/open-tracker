@@ -34780,6 +34780,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e1809a17-8b34-5a35-b298-597f89bac1bf",
+        "address": "789-Wolfeton-Way-New-Braunfels-TX-78130",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1700,
+        "listed_at": "2026-06-01T11:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.037061,
+          29.669693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e19e6257-304b-56b7-bdf9-c8aae98aab57",
         "address": "1338-Calle-Galante-San-Dimas-CA-91773",
         "beds": 4,
