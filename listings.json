@@ -844,6 +844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05ca9884-68b1-5d46-bf55-9ec0cdba8ca2",
+        "address": "30223-Chatham-Point-Dr-Bay-Village-OH-44140",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1862,
+        "listed_at": "2026-06-01T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.954832,
+          41.478283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0666b431-c447-5196-a5aa-1f5f2f608da5",
         "address": "1800-E-Lakeshore-Dr-Unit-1006-Lake-Elsinore-CA-92530",
         "beds": 3,
@@ -30280,6 +30301,27 @@
         "coordinates": [
           -84.304505,
           39.490771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c85ddf55-a6b1-592c-adc2-f24ebb93e825",
+        "address": "807-Yosemite-Trl-Taylor-TX-76574",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 4006,
+        "listed_at": "2026-06-01T17:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.423629,
+          30.594099
         ]
       }
     },
