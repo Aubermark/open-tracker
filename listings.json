@@ -8698,6 +8698,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3865a460-d854-55c3-9765-994792710cd7",
+        "address": "230-Prescott-St-Locust-Grove-GA-30248",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2374,
+        "listed_at": "2026-06-01T18:30:03.000Z",
+        "days_on_market": "98",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.195781,
+          33.368794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "38818fba-ad6e-5e73-9a95-ba975e3a5b61",
         "address": "242-Kingswood-Dr-Clarksville-TN-37043-18019524",
         "beds": 3,
@@ -10456,27 +10477,6 @@
         "coordinates": [
           -80.305484,
           27.365594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "42c0aa71-9709-5e8d-b98a-949740920797",
-        "address": "231-Maggie-St-Longmont-CO-80501",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2154,
-        "listed_at": "2026-05-18T23:10:03.000Z",
-        "days_on_market": "69",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.063801,
-          40.157801
         ]
       }
     },
@@ -13039,27 +13039,6 @@
         "coordinates": [
           -86.854109,
           33.50944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "54d33162-71e1-506a-a329-74ed7be258d5",
-        "address": "325-Kanawha-Rd-Lancaster-OH-43130",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1305,
-        "listed_at": "2026-05-14T21:20:04.000Z",
-        "days_on_market": "18",
-        "current_price": 293000,
-        "price_label": "$293K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.568973,
-          39.719123
         ]
       }
     },
@@ -26926,6 +26905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af6295ae-4493-59f3-b4b3-f573009dc35c",
+        "address": "2627-Fisk-Rd-Montgomery-AL-36111",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1340,
+        "listed_at": "2026-06-01T18:30:03.000Z",
+        "days_on_market": "31",
+        "current_price": 107000,
+        "price_label": "$107K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.260982,
+          32.335173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afb6fe5b-1f76-57fb-9a1e-53f95bbed99b",
         "address": "5995-Liberty-Rd-Solon-OH-44139",
         "beds": 4,
@@ -28495,27 +28495,6 @@
         "coordinates": [
           -82.83066,
           39.910906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ba5c398a-f918-5021-9dfd-7f197a659d7c",
-        "address": "142-Blue-Ridge-Trl-North-Charleston-SC-29418",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1646,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": ">99",
-        "current_price": 317000,
-        "price_label": "$317K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.091905,
-          32.901453
         ]
       }
     },
@@ -31141,27 +31120,6 @@
         "coordinates": [
           -95.093046,
           29.378475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cc6a765b-4220-5a5f-9dca-f5aa51923a6b",
-        "address": "3402-Crosby-Lndg-Missouri-City-TX-77459",
-        "beds": 6,
-        "baths": 4.5,
-        "sqft": 3669,
-        "listed_at": "2026-05-26T16:20:02.000Z",
-        "days_on_market": "6",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.511187,
-          29.496581
         ]
       }
     },
