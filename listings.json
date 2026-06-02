@@ -23566,27 +23566,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9a4434fe-57f6-58fe-b7ad-c6f82bd28da0",
-        "address": "212-Wabash-Woods-Way-O-Fallon-MO-63366",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1146,
-        "listed_at": "2026-05-29T22:20:02.000Z",
-        "days_on_market": "4",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.685586,
-          38.808302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9a695b16-6c0a-5917-939c-2e9abeb698ee",
         "address": "2015-N-Villas-Ln-Chandler-AZ-85224",
         "beds": 2,
@@ -24547,6 +24526,27 @@
         "coordinates": [
           -80.408012,
           33.968868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a0f28a76-0092-51f5-b60d-d986005a0f69",
+        "address": "15852-Mandan-Rd-Apple-Valley-CA-92307",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2082,
+        "listed_at": "2026-06-02T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239878,
+          34.539329
         ]
       }
     },
@@ -27676,27 +27676,6 @@
         "coordinates": [
           -94.940185,
           29.205104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b5f27147-cb54-5ebd-afeb-5d761e14f1a2",
-        "address": "17837-Haralson-Dr-Eden-Prairie-MN-55347",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2882,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": ">100",
-        "current_price": 590000,
-        "price_label": "$590K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.503705,
-          44.832312
         ]
       }
     },
