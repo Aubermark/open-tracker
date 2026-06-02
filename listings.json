@@ -7711,6 +7711,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31e3d137-5718-5dc5-8092-fb735aef5a42",
+        "address": "3325-Steed-Dr-Florissant-MO-63033",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2414,
+        "listed_at": "2026-06-02T18:40:02.000Z",
+        "days_on_market": "64",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293025,
+          38.794285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31f1fffe-2e6a-5aa2-b570-fd83edb0c05a",
         "address": "1231-E-42nd-St-Savannah-GA-31404",
         "beds": 2,
@@ -13060,6 +13081,27 @@
         "coordinates": [
           -80.815993,
           35.58384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "55cef107-06b4-55aa-a348-e7d6927eaecb",
+        "address": "1625-35th-St-Se-Rio-Rancho-NM-87124",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1802,
+        "listed_at": "2026-06-02T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.667425,
+          35.228395
         ]
       }
     },
@@ -35971,27 +36013,6 @@
         "coordinates": [
           -96.557683,
           33.343525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ec617e48-a2a1-5132-b6c3-f78668d904f7",
-        "address": "1102-Hillwood-Dr-Lewisville-TX-75067",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1776,
-        "listed_at": "2026-05-30T08:05:57.000Z",
-        "days_on_market": "4",
-        "current_price": 284000,
-        "price_label": "$284K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.024534,
-          33.033704
         ]
       }
     },
