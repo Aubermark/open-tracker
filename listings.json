@@ -4477,27 +4477,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d90e175-93cf-51b4-b755-5ae999424864",
-        "address": "2079-Sw-Kimberly-Ave-Port-Saint-Lucie-FL-34953",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 912,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "96",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.411725,
-          27.289674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1d9f9d28-1461-5e1d-89b3-7fe158c8b2df",
         "address": "4700-Charlottesville-Rd-Greensboro-NC-27410",
         "beds": 5,
@@ -29446,6 +29425,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c337652b-2ea3-57a5-9766-1f4622555ba9",
+        "address": "43831-Madison-Ct-Lancaster-CA-93536",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1954,
+        "listed_at": "2026-06-02T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.231496,
+          34.680041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3414ae5-25b4-5162-bd22-741085908ca4",
         "address": "1248-Honor-Ln-Temple-TX-76501",
         "beds": 1,
@@ -30028,6 +30028,27 @@
         "coordinates": [
           -78.516397,
           35.881692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c7b29cca-f8ae-596d-93c1-927c878140ab",
+        "address": "20-Craig-Way-Covington-GA-30016",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1674,
+        "listed_at": "2026-06-02T19:20:03.000Z",
+        "days_on_market": "47",
+        "current_price": 304000,
+        "price_label": "$304K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.979467,
+          33.587454
         ]
       }
     },
@@ -36013,27 +36034,6 @@
         "coordinates": [
           -96.557683,
           33.343525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ec8bac71-a63c-55a5-a51d-6876fd865c7b",
-        "address": "1911-Almond-Hills-Dr-Charlotte-NC-28262",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2103,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "97",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.743364,
-          35.35796
         ]
       }
     },
