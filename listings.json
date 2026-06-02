@@ -2965,6 +2965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
+        "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2896,
+        "listed_at": "2026-06-02T20:40:05.000Z",
+        "days_on_market": "34",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969602,
+          33.688202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13baff61-523d-4024-ad81-102e5b453727",
         "address": "2270-Luna-Haven-St-Henderson-NV-89044",
         "beds": 4,
@@ -6892,27 +6913,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ceee988-31d8-50ba-909f-fcad4afec88e",
-        "address": "2310-Redfish-Dr-Texas-City-TX-77591",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1469,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": ">100",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.011689,
-          29.404698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2d12b77e-6cca-56c6-854e-e448a1006bf8",
         "address": "2516-Fairway-View-Dr-Burleson-TX-76028",
         "beds": 3,
@@ -10162,6 +10162,27 @@
         "coordinates": [
           -97.626352,
           27.853011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "422d6dba-cbfb-50da-a8c9-88631e3b1b44",
+        "address": "648-Lewis-Ave-Yuba-City-CA-95991",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1092,
+        "listed_at": "2026-06-02T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.624801,
+          39.14544
         ]
       }
     },
@@ -20437,27 +20458,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "88349082-6d7f-5275-8930-67d229457594",
-        "address": "2312-E-Susan-Dr-Gilbert-AZ-85298",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3078,
-        "listed_at": "2026-05-14T06:31:36.000Z",
-        "days_on_market": "46",
-        "current_price": 824000,
-        "price_label": "$824K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.739528,
-          33.211483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
         "address": "225-Ash-Cir-Trussville-AL-35173",
         "beds": 3,
@@ -26101,27 +26101,6 @@
         "coordinates": [
           -80.046189,
           33.097038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac32961f-9f99-5ba4-9e2d-9e90164a9b52",
-        "address": "2405-N-Duke-St-Durham-NC-27704-18060291",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1176,
-        "listed_at": "2026-05-05T20:50:02.000Z",
-        "days_on_market": "28",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.905993,
-          36.028244
         ]
       }
     },
@@ -36040,27 +36019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ecb7f53f-0b08-536c-8e7d-47a9188b9fbb",
-        "address": "7809-View-Place-Dr-Cincinnati-OH-45224",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 1886,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "84",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.503771,
-          39.214522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ecca0ca1-afa9-523d-8773-5a506c4bcdea",
         "address": "515-Thistle-St-Port-Angeles-WA-98362",
         "beds": 2,
@@ -36853,27 +36811,6 @@
         "coordinates": [
           -74.272177,
           40.560621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f13dfdd8-2a22-5fbf-a6e0-57e87a633a7f",
-        "address": "318-W-Kings-Ave-Phoenix-AZ-85023",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1553,
-        "listed_at": "2026-05-09T19:58:59.000Z",
-        "days_on_market": "24",
-        "current_price": 413000,
-        "price_label": "$413K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.079455,
-          33.635747
         ]
       }
     },
