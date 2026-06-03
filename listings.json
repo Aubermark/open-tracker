@@ -1894,6 +1894,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dd20171-e8d5-5f7a-869c-695ddf4cca66",
+        "address": "8033-145th-Ave-Ne-Redmond-WA-98052",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1410,
+        "listed_at": "2026-06-03T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 567000,
+        "price_label": "$567K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.147165,
+          47.675329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e13b66c-2f88-54e4-acf3-917b24dc9902",
         "address": "1352-Meadow-Run-Copley-OH-44321",
         "beds": 2,
@@ -3616,6 +3637,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "177301c8-d520-551e-8ff6-aef5b6ab7e5c",
+        "address": "4730-Carmel-St-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-06-03T16:00:02.000Z",
+        "days_on_market": "40",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.445213,
+          28.589964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
         "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -4093,27 +4135,6 @@
         "coordinates": [
           -80.868592,
           35.12268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1b2c3c45-339e-5941-aeca-e42a9300c7b1",
-        "address": "20-Alpine-Rd-Towaco-NJ-07082",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 688,
-        "listed_at": "2026-05-28T17:00:03.000Z",
-        "days_on_market": "6",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.323396,
-          40.924574
         ]
       }
     },
@@ -29236,27 +29257,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c356fdb3-f4b6-5116-b6a7-b2921a3a3039",
-        "address": "26902-Sparrow-Rdg-San-Antonio-TX-78261",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2610,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "37",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.447536,
-          29.69756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c358c38e-5ea4-5058-b51f-8842f4b4678c",
         "address": "109-Puckett-Ct-Canton-GA-30115",
         "beds": 4,
@@ -33226,6 +33226,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db48dd12-44a2-59c3-841e-57c610e3369f",
+        "address": "4083-Gainesville-Hwy-Alto-GA-30510",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1368,
+        "listed_at": "2026-06-03T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.569673,
+          34.471028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db587e49-c768-5b49-a88c-21f0a40f1609",
         "address": "1325-Keifer-Ln-Unit-201-Las-Vegas-NV-89128",
         "beds": 2,
@@ -36601,27 +36622,6 @@
         "coordinates": [
           -95.767889,
           29.49873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1271d8e-c43e-5567-b6b3-3318c4449cab",
-        "address": "578-Garden-Ave-Woodbridge-NJ-07095",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1408,
-        "listed_at": "2026-05-14T20:00:02.000Z",
-        "days_on_market": "20",
-        "current_price": 487000,
-        "price_label": "$487K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.272177,
-          40.560621
         ]
       }
     },
