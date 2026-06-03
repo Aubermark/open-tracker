@@ -16405,6 +16405,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cd97aea-d6c4-5edb-9ead-138944b02e88",
+        "address": "3413-Snowy-Egret-Ct-Palm-Harbor-FL-34683",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1535,
+        "listed_at": "2026-06-03T13:20:02.000Z",
+        "days_on_market": "22",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.743079,
+          28.101306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cf6ac40-6bb6-5207-a8c6-50bd9feaa7a5",
         "address": "820-Pennington-View-Ln-Alpharetta-GA-30004",
         "beds": 5,
@@ -20641,27 +20662,6 @@
         "coordinates": [
           -111.983536,
           33.335238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "89f668bc-7618-5dd0-8874-17cc6c205b14",
-        "address": "42-Harris-Farm-Ct-Thomasville-NC-27360",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1530,
-        "listed_at": "2026-05-15T05:39:19.000Z",
-        "days_on_market": "76",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.08734,
-          35.849109
         ]
       }
     },
