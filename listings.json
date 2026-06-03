@@ -2713,6 +2713,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "123d1c8a-94ac-5b9c-9c50-41825d4684ba",
+        "address": "6493-S-5135-W-West-Jordan-UT-84081",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1332,
+        "listed_at": "2026-06-03T17:20:04.000Z",
+        "days_on_market": "30",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.013168,
+          40.633436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12645d17-18d9-58a1-ba9b-b462740537f4",
         "address": "868-Teton-St-Haines-City-FL-33844",
         "beds": 3,
@@ -10609,6 +10630,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44d80470-4690-5d38-9539-2bc0843005a8",
+        "address": "13577-Monterey-Way-Victorville-CA-92392",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1216,
+        "listed_at": "2026-06-03T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.364103,
+          34.497114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44d8988d-bebe-5d75-bcd2-1948e6a45f48",
         "address": "1355-Mills-Cove-Dr-Covington-GA-30016",
         "beds": 4,
@@ -15832,27 +15874,6 @@
         "coordinates": [
           -84.180413,
           33.514479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "68867734-0fe9-5c02-aeb7-b13d7abb9f0c",
-        "address": "5333-Buckner-Dr-Flower-Mound-TX-75028",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1488,
-        "listed_at": "2026-04-23T01:20:02.000Z",
-        "days_on_market": "92",
-        "current_price": 388000,
-        "price_label": "$388K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.054809,
-          33.057516
         ]
       }
     },
@@ -26821,6 +26842,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b110e1af-0e5e-5351-a1c9-9707029d5a8e",
+        "address": "12620-Bay-Hill-Dr-Grand-Island-FL-32735",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1515,
+        "listed_at": "2026-06-03T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.747311,
+          28.882295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b14878e2-2803-5727-98c5-8edda1f49674",
         "address": "2972-Royal-Tuscan-Ln-Valrico-FL-33594",
         "beds": 3,
@@ -29524,6 +29566,27 @@
         "coordinates": [
           -84.218058,
           34.038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4e25d77-8419-5ca4-9b2a-8907a1a2f67a",
+        "address": "21778-Ridge-Dr-Cedarpines-Park-CA-92322",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1432,
+        "listed_at": "2026-06-03T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.329313,
+          34.248584
         ]
       }
     },
@@ -34669,27 +34732,6 @@
         "coordinates": [
           -94.447251,
           39.021681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e59e748e-ee7d-5a1b-b885-f31fed0cf54e",
-        "address": "5911-Redbay-Blvd-Bradenton-FL-34210",
-        "beds": 3,
-        "baths": 4,
-        "sqft": 3784,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": "29",
-        "current_price": 1385000,
-        "price_label": "$1.385M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.625829,
-          27.437339
         ]
       }
     },
