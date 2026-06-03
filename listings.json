@@ -4057,6 +4057,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1863154d-b3d5-589a-bf2c-75c187c38a78",
+        "address": "13606-Carpenter-Rd-Cleveland-OH-44125",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1218,
+        "listed_at": "2026-06-03T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58782,
+          41.400619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1910d4a8-6dc2-5127-b155-f1f7ced1903e",
         "address": "1520-Herrin-Ave-Charlotte-NC-28205",
         "beds": 3,
