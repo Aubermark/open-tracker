@@ -1495,6 +1495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0af1381e-b33d-502a-947c-18c9417f51d2",
+        "address": "330-S-Leandro-Mesa-AZ-85208",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1756,
+        "listed_at": "2026-06-03T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.624594,
+          33.408991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b043229-c42b-56d7-80e6-42ea6ed3056f",
         "address": "4445-Dorsett-Shoals-Run-Douglasville-GA-30135",
         "beds": 3,
@@ -4366,6 +4387,27 @@
         "coordinates": [
           -115.216905,
           36.006339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1bd4cb6c-31ed-55dd-84f6-d896899768dd",
+        "address": "5806-Princeton-Run-Trl-Tucker-GA-30084",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4237,
+        "listed_at": "2026-06-03T20:40:02.000Z",
+        "days_on_market": "97",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.168582,
+          33.869184
         ]
       }
     },
@@ -19345,27 +19387,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
-        "address": "8605-N-67th-Ln-Peoria-AZ-85345",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1435,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": ">101",
-        "current_price": 281000,
-        "price_label": "$281K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.203721,
-          33.561227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8154990d-597e-5e00-9cd7-88157756abb9",
         "address": "10414-W-Sun-City-Blvd-Sun-City-AZ-85351",
         "beds": 3,
@@ -29047,6 +29068,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1b12eaf-5af9-5625-b11b-8f5b8106ffc5",
+        "address": "319-Whispering-Breeze-Ln-Summerville-SC-29486-18226688",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1822,
+        "listed_at": "2026-06-03T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10476,
+          33.123446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c1c68b96-e298-559a-93bb-dd9be7dc7765",
         "address": "2291-Yale-St-Martinez-CA-94553",
         "beds": 3,
@@ -36517,27 +36559,6 @@
         "coordinates": [
           -80.887273,
           34.080049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ef2b2dd5-bd4a-5fa8-86d5-1e8da43fd218",
-        "address": "3303-Deaver-Dr-Corona-CA-92882",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2365,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "100",
-        "current_price": 880000,
-        "price_label": "$880K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.628359,
-          33.875019
         ]
       }
     },
