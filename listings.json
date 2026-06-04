@@ -67,6 +67,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00cdd742-158a-5f9d-9a40-23ef00326aec",
+        "address": "2724-Bertolani-Cir-Elk-Grove-CA-95758",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3302,
+        "listed_at": "2026-06-04T16:50:07.000Z",
+        "days_on_market": "91",
+        "current_price": 855000,
+        "price_label": "$855K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.475163,
+          38.422241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00cea097-8687-594e-ac0e-adf29681f918",
         "address": "7880-Micron-Dr-Apt-3904-San-Antonio-TX-78251",
         "beds": 2,
@@ -7585,6 +7606,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2fd37a6a-f6dc-5597-a1ce-88ea64595bc0",
+        "address": "11950-Rising-Sun-Way-Gold-River-CA-95670",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3263,
+        "listed_at": "2026-06-04T16:50:07.000Z",
+        "days_on_market": ">102",
+        "current_price": 820000,
+        "price_label": "$820K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.231197,
+          38.62809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30061828-e0d0-5dd2-9767-72a72f40ad0f",
         "address": "6497-Snowden-Dr-Atlanta-GA-30349-17152423",
         "beds": 5,
@@ -10015,27 +10057,6 @@
         "coordinates": [
           -78.661606,
           35.669861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3fa1931a-19a8-5e60-bea2-558eac028aa7",
-        "address": "10559-E-46th-Ter-Kansas-City-MO-64133",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1253,
-        "listed_at": "2026-05-14T20:20:03.000Z",
-        "days_on_market": "21",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.455576,
-          39.037686
         ]
       }
     },
@@ -15055,27 +15076,6 @@
         "coordinates": [
           -87.367189,
           36.638459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5fe89bf5-a4f0-50eb-8ed3-ee2d6174e483",
-        "address": "1209-Westerfeld-Dr-Ne-Albuquerque-NM-87112",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 950,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "63",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.53436,
-          35.092236
         ]
       }
     },
@@ -24421,27 +24421,6 @@
         "coordinates": [
           -81.720535,
           26.053469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9ecffd77-0114-5a6d-88b1-899f3926a9b2",
-        "address": "2221-Laguna-Dr-Rowlett-TX-75088",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2494,
-        "listed_at": "2026-05-21T06:29:41.000Z",
-        "days_on_market": ">102",
-        "current_price": 423000,
-        "price_label": "$423K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.530456,
-          32.882486
         ]
       }
     },
@@ -34480,6 +34459,27 @@
         "coordinates": [
           -97.360539,
           32.518236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd60a708-e747-5b69-be85-c0bd194b59a8",
+        "address": "5003-Henson-Dr-Sw-Mableton-GA-30126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1520,
+        "listed_at": "2026-06-04T16:50:07.000Z",
+        "days_on_market": "71",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.596542,
+          33.831036
         ]
       }
     },
