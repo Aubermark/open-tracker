@@ -2335,6 +2335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fd8dd79-6ea2-5eba-99f7-abf99c4870ec",
+        "address": "1124-Washington-Dr-Moody-AL-35004",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1434,
+        "listed_at": "2026-06-04T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.486393,
+          33.601616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fdf9a32-87a6-5a54-8fa8-1103631db745",
         "address": "19106-Lost-Mine-Trl-Spring-TX-77388",
         "beds": 4,
@@ -4345,27 +4366,6 @@
         "coordinates": [
           -96.78976,
           32.624957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1b0e46eb-011e-5305-8791-2d6794011bc2",
-        "address": "2020-Stoney-Point-Ln-Unit-59-Charlotte-NC-28210",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 946,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "43",
-        "current_price": 131000,
-        "price_label": "$131K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.868616,
-          35.122682
         ]
       }
     },
@@ -14935,27 +14935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5f8a22af-fddf-5d97-ba68-ad3aaefb3fc8",
-        "address": "12825-Clifford-Cir-Carmel-IN-46032",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2733,
-        "listed_at": "2026-06-03T18:00:03.000Z",
-        "days_on_market": ">102",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.162375,
-          39.97119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5f8bd0cf-2c75-5dd6-9ea5-1ffb1aad30a9",
         "address": "504-Woodbriar-Noble-OK-73068",
         "beds": 3,
@@ -20242,6 +20221,27 @@
         "coordinates": [
           -86.042626,
           39.700305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "843f98e3-3fde-50a1-be39-9b3726524c9c",
+        "address": "108-Legend-Creek-Dr-Canton-GA-30114-18237466",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1851,
+        "listed_at": "2026-06-04T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 437000,
+        "price_label": "$437K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536328,
+          34.216698
         ]
       }
     },
@@ -29041,27 +29041,6 @@
         "coordinates": [
           -80.601847,
           35.488728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bd31048e-d863-516d-b85a-915c9d0b1d8f",
-        "address": "5410-Vagas-Dr-Rowlett-TX-75088",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1647,
-        "listed_at": "2026-05-08T15:20:02.000Z",
-        "days_on_market": "27",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.514387,
-          32.908337
         ]
       }
     },
