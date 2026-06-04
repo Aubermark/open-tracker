@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29984f92-3e7b-5f2c-8cc6-2687a592e030",
+        "address": "246-Senator-Dr-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1638,
+        "listed_at": "2026-06-04T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.424054,
+          36.613213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29a3a5be-08d8-479b-9a49-b3d8a5d2ba71",
         "address": "14148-74th-Pl-Ne-Apt-A-Kirkland-WA-98034",
         "beds": 2,
@@ -10813,6 +10834,27 @@
         "coordinates": [
           -80.305484,
           27.365594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "42e0bfca-e744-54ba-a6a3-74d650dad3d7",
+        "address": "10648-Secret-Garden-Ln-Charlotte-NC-28214",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1533,
+        "listed_at": "2026-06-04T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.961659,
+          35.325513
         ]
       }
     },
@@ -16048,27 +16090,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "66db6490-4f47-5d2b-9df9-f6d474399405",
-        "address": "169-Manley-Dr-Hampton-GA-30228",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1522,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "94",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.236938,
-          33.397833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "66f12572-4dd8-5a1c-a7f3-d1e855eb4ec0",
         "address": "91-Richmond-Dr-Lagrange-GA-30240",
         "beds": 4,
@@ -20851,27 +20872,6 @@
         "coordinates": [
           -81.149803,
           35.19234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "86a5d991-22b5-59c5-85a9-daf7e0541337",
-        "address": "207-Pen-Lou-Ct-Angier-NC-27501",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1317,
-        "listed_at": "2026-05-14T19:50:02.000Z",
-        "days_on_market": "21",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.677214,
-          35.512645
         ]
       }
     },
