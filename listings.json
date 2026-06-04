@@ -13234,6 +13234,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5455e42d-db2f-57e8-8522-b511a5c9e138",
+        "address": "5305-Belews-Creek-Rd-Walkertown-NC-27051",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3242,
+        "listed_at": "2026-06-04T21:20:03.000Z",
+        "days_on_market": "44",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1268,
+          36.178943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5468b9b8-19af-50e7-ada3-da4cee28fc18",
         "address": "3830-N-Springfield-St-Buckeye-AZ-85396",
         "beds": 3,
@@ -14257,6 +14278,27 @@
         "coordinates": [
           -81.24029,
           28.586796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
+        "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1387,
+        "listed_at": "2026-06-04T21:20:03.000Z",
+        "days_on_market": "45",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.594518,
+          34.162309
         ]
       }
     },
@@ -17575,27 +17617,6 @@
         "coordinates": [
           -81.731134,
           28.064103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "70f3bbb9-7ad4-58db-a909-c207b150503e",
-        "address": "13002-Titleist-Dr-Hudson-FL-34669",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1103,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "86",
-        "current_price": 219000,
-        "price_label": "$219K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.600316,
-          28.346484
         ]
       }
     },
@@ -22615,6 +22636,27 @@
         "coordinates": [
           -79.066898,
           35.918518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "923cbfd1-2d9c-525d-933c-5d59791916dc",
+        "address": "166-Kirby-Dr-Clarksville-TN-37042",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2197,
+        "listed_at": "2026-06-04T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.408257,
+          36.569911
         ]
       }
     },
