@@ -7690,6 +7690,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3054dda9-5e99-58c9-9808-4c2e9f5d31ef",
+        "address": "7411-W-Alta-Vista-Rd-Laveen-AZ-85339",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2727,
+        "listed_at": "2026-06-04T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.218527,
+          33.386434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30600ab0-7f56-593e-8aee-f1e30d20a04e",
         "address": "12883-Nw-Scottston-Ter-Banks-OR-97106",
         "beds": 3,
@@ -10351,6 +10372,27 @@
         "coordinates": [
           -80.884517,
           34.157115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "415b705f-4815-5f2d-bd70-8acb5a3ea848",
+        "address": "6060-W-Hollyhock-Dr-Phoenix-AZ-85033",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1572,
+        "listed_at": "2026-06-04T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.191017,
+          33.486463
         ]
       }
     },
