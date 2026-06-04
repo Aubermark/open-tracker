@@ -21361,6 +21361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bd99fe4-4dde-5396-9315-7438c7a45ba4",
+        "address": "6112-Wye-Oak-Dr-Salado-TX-76571",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2120,
+        "listed_at": "2026-06-04T14:10:03.000Z",
+        "days_on_market": "37",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.546644,
+          30.979481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bf3609d-06f8-57e6-9300-00f1b851df00",
         "address": "5747-Rex-Mill-Crk-Rex-GA-30273",
         "beds": 3,
