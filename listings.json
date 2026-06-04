@@ -886,6 +886,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06e21861-5d38-59d2-82a0-a7abe5f9e4f8",
+        "address": "3807-Greenhill-Dr-Atlanta-GA-30341",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-06-04T14:50:02.000Z",
+        "days_on_market": "23",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.305471,
+          33.90395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
         "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
         "beds": 3,
@@ -21865,27 +21886,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f1560f7-6fa7-50ab-847d-a414a8412390",
-        "address": "1167-Lansdowne-Ave-Camden-NJ-08104",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1400,
-        "listed_at": "2026-06-02T05:37:43.000Z",
-        "days_on_market": "3",
-        "current_price": 185000,
-        "price_label": "$185K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.105507,
-          39.929269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8f3b0b5b-5526-5aea-8ef8-adf9814d576a",
         "address": "1048-E-6th-Ave-Mesa-AZ-85204",
         "beds": 3,
@@ -23119,27 +23119,6 @@
         "coordinates": [
           -79.836191,
           36.142335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "95d9a9cc-db39-5c60-a3fe-3ac7019d27ee",
-        "address": "11950-Lee-Ave-Adelanto-CA-92301",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1124,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "45",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.404137,
-          34.583176
         ]
       }
     },
@@ -29629,27 +29608,6 @@
         "coordinates": [
           -79.918735,
           36.036748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c1529bcd-6d05-56c6-9005-2820b091ef54",
-        "address": "1017-Clacktown-Rd-Winder-GA-30680",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1653,
-        "listed_at": "2026-05-26T17:40:02.000Z",
-        "days_on_market": "9",
-        "current_price": 377000,
-        "price_label": "$377K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.64531,
-          33.941693
         ]
       }
     },
