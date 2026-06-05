@@ -403,6 +403,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02866d9c-55d2-557f-bbf7-67bfae79c05e",
+        "address": "1563-Callahan-Rd-Fort-Mill-SC-29715",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4426,
+        "listed_at": "2026-06-05T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90658,
+          34.969301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02ac9036-2b0f-5fe5-920e-0b07c3bcb42f",
         "address": "172-Mandy-Ln-Lenoir-City-TN-37772",
         "beds": 3,
@@ -2812,27 +2833,6 @@
         "coordinates": [
           -78.834852,
           35.829625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
-        "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 864,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "80",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.43204,
-          27.094051
         ]
       }
     },
@@ -10420,27 +10420,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4078bed6-e751-55ab-a8cb-7afd6dd51893",
-        "address": "9603-Highmeadow-Dr-Houston-TX-77063",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1650,
-        "listed_at": "2026-05-29T06:25:36.000Z",
-        "days_on_market": "47",
-        "current_price": 274000,
-        "price_label": "$274K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.536112,
-          29.733784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "407a085c-04aa-55d4-9fa1-94475476db30",
         "address": "521-Autumnstone-Ln-Bowling-Green-KY-42103",
         "beds": 4,
@@ -15034,6 +15013,27 @@
         "coordinates": [
           -84.171692,
           34.169051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5d029022-ff44-5bfc-af6b-75083f8e68f2",
+        "address": "9034-Rudder-Way-Newark-CA-94560",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2370,
+        "listed_at": "2026-06-05T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1420000,
+        "price_label": "$1.420M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.052383,
+          37.517052
         ]
       }
     },
@@ -23644,6 +23644,27 @@
         "coordinates": [
           -97.153082,
           32.643706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94677b9e-9874-58e4-8016-36a57a6089d7",
+        "address": "364-Melissa-St-Camano-Island-WA-98282",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1664,
+        "listed_at": "2026-06-05T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.528127,
+          48.224459
         ]
       }
     },
@@ -33835,27 +33856,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d4e6f989-0384-549e-aa02-df2ac0f4fa9a",
-        "address": "26311-Hopkins-St-Inkster-MI-48141",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1105,
-        "listed_at": "2026-05-09T19:58:59.000Z",
-        "days_on_market": "27",
-        "current_price": 151000,
-        "price_label": "$151K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.296811,
-          42.276376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d4f0858e-85ff-4d21-9729-b5c0c50baed6",
         "address": "118-Neches-Nook-Ct-Conroe-TX-77304",
         "beds": 4,
@@ -34858,6 +34858,27 @@
         "coordinates": [
           -80.871974,
           34.162143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da6b8e60-3cbd-52aa-9ebe-c34c9fb8a02e",
+        "address": "8-Bumelia-Ct-Homosassa-FL-34446",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1528,
+        "listed_at": "2026-06-05T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.537717,
+          28.743028
         ]
       }
     },
@@ -38743,27 +38764,6 @@
         "coordinates": [
           -78.597443,
           35.693089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f27970ff-eade-54be-8839-12ee0a3db6b9",
-        "address": "6907-52nd-Ave-N-Crystal-MN-55428",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 772,
-        "listed_at": "2026-03-19T07:30:01.000Z",
-        "days_on_market": "99",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.368342,
-          45.047572
         ]
       }
     },
