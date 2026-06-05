@@ -676,27 +676,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "049e5da8-eccd-5b8e-b519-94dfddbfadbf",
-        "address": "1214-Ileagnes-Rd-Raleigh-NC-27603",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2801,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "22",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.654588,
-          35.736767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "04a1e145-795d-583a-8905-5a7edf4f4a7b",
         "address": "4117-White-Pine-Dr-Raleigh-NC-27612",
         "beds": 4,
@@ -1069,6 +1048,27 @@
         "coordinates": [
           -84.142082,
           33.510648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "07dc6856-de3f-5a31-ba53-7542dbd85a27",
+        "address": "1207-E-Clearview-Dr-Casa-Grande-AZ-85122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2490,
+        "listed_at": "2026-06-05T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.735353,
+          32.889932
         ]
       }
     },
@@ -2833,6 +2833,27 @@
         "coordinates": [
           -78.509376,
           35.535207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
+        "address": "659-Day-Break-Dr-Greenwood-IN-46143",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1729,
+        "listed_at": "2026-06-05T18:50:03.000Z",
+        "days_on_market": "52",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.119073,
+          39.590031
         ]
       }
     },
@@ -6430,27 +6451,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2842033a-0416-54f3-bd54-8ba8fc3676a2",
-        "address": "333-Longhorn-Way-Cibolo-TX-78108",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1375,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": "49",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.216049,
-          29.580831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28448ca5-5bd0-58a2-ba9d-5c640ca5669b",
         "address": "3127-S-Eugene-Mesa-AZ-85212",
         "beds": 3,
@@ -9154,27 +9154,6 @@
         "coordinates": [
           -87.285041,
           36.521395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3885d132-ad1a-5626-9501-c2834c576063",
-        "address": "5333-N-Euclid-Ave-Kansas-City-MO-64118",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1008,
-        "listed_at": "2026-05-28T21:00:02.000Z",
-        "days_on_market": "32",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.554992,
-          39.191212
         ]
       }
     },
@@ -12919,6 +12898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fc91170-51fc-54eb-b484-bc3c716c2e6c",
+        "address": "5719-Stage-Line-Dr-Arlington-TX-76017",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1640,
+        "listed_at": "2026-06-05T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195235,
+          32.671612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "504baf98-c83d-5b27-8b33-c7b8f5bf60c4",
         "address": "4217-Strickland-Ct-Lancaster-SC-29720",
         "beds": 4,
@@ -15643,6 +15643,27 @@
         "coordinates": [
           -87.367189,
           36.638459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5fbe4102-c7d5-576e-95d5-5996899f6b39",
+        "address": "15662-Caminito-La-Torre-San-Diego-CA-92128",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1573,
+        "listed_at": "2026-06-05T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1060000,
+        "price_label": "$1.060M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.063341,
+          33.002032
         ]
       }
     },
@@ -18547,6 +18568,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "73e5d707-25e6-5639-abba-4d00617f722e",
+        "address": "37-N-Sherman-Dr-Indianapolis-IN-46201",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1754,
+        "listed_at": "2026-06-05T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.101826,
+          39.770323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "742c14f5-9620-5f15-9e55-67d1045f3dbc",
         "address": "510-Wicklow-Dr-Manchester-MO-63021",
         "beds": 3,
@@ -20956,6 +20998,27 @@
         "coordinates": [
           -80.12136,
           26.150597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "848fe80e-7e40-5e2d-9ddd-017aa5dd39d0",
+        "address": "543-Silver-Course-Cir-Ocala-FL-34472",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1576,
+        "listed_at": "2026-06-05T18:50:03.000Z",
+        "days_on_market": "25",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.012461,
+          29.113699
         ]
       }
     },
@@ -25582,27 +25645,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a0fcf73b-8c17-5cd2-96ca-858877a52239",
-        "address": "2520-Allview-Ln-Red-Oak-TX-75154",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1820,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "88",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.844248,
-          32.539691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a0fdee74-851f-5b91-9df4-1eadaa091b1e",
         "address": "5901-Small-Hill-Ct-Citrus-Heights-CA-95621",
         "beds": 2,
@@ -29398,27 +29440,6 @@
         "coordinates": [
           -80.832755,
           28.562679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b9693be5-c475-5662-88cd-196da0b019d8",
-        "address": "118-Pilot-Knob-Ln-Hendersonville-TN-37075",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3426,
-        "listed_at": "2026-06-04T20:00:03.000Z",
-        "days_on_market": "1",
-        "current_price": 650000,
-        "price_label": "$650K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.546572,
-          36.351274
         ]
       }
     },
@@ -34654,6 +34675,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d88e0ee5-6517-5dd3-9408-f97fb77cfc53",
+        "address": "7311-Goodwill-Church-Rd-Kernersville-NC-27284",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 964,
+        "listed_at": "2026-06-05T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.024171,
+          36.190815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d8bbcdd7-25cf-5ed8-a236-dc0d6ecbf24c",
         "address": "845-40th-Ave-S-Saint-Petersburg-FL-33705",
         "beds": 3,
@@ -35488,6 +35530,27 @@
         "coordinates": [
           -84.082843,
           33.784284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd164c7f-5fc2-55d0-bb3d-1df3a62236a1",
+        "address": "29202-Cowboy-Ct-Valencia-CA-91354",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1934,
+        "listed_at": "2026-06-05T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.552048,
+          34.472864
         ]
       }
     },
