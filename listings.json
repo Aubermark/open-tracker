@@ -7942,6 +7942,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3094e443-aeb8-54de-95b6-eae7c78cc605",
+        "address": "724-Chippewa-Trl-Niles-MI-49120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1684,
+        "listed_at": "2026-06-05T23:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274584,
+          41.81888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "309d9507-aa86-5bec-81b2-d8d8b8218846",
         "address": "5134-Quintilis-St-Spring-Hill-FL-34608",
         "beds": 2,
@@ -26842,27 +26863,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a9d1c73d-e701-503c-8d0d-4d39e5d38176",
-        "address": "5419-Remington-Dr-Pasco-WA-99301",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1289,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "91",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.161978,
-          46.258619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a9d80605-0928-5047-88e4-3a9cfc94a551",
         "address": "2011-Wild-Cherry-Dr-Lewisburg-TN-37091",
         "beds": 3,
@@ -32821,27 +32821,6 @@
         "coordinates": [
           -84.023553,
           34.251903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cf472325-cc8a-529a-b59b-7f5faf775153",
-        "address": "4150-W-Medlock-Dr-Phoenix-AZ-85019",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1332,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "98",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.148619,
-          33.513037
         ]
       }
     },
@@ -40822,6 +40801,27 @@
         "coordinates": [
           -84.017292,
           33.908426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe5c7aff-76fc-54e8-a6a2-fb850ed1b145",
+        "address": "2404-Katina-Dr-Flower-Mound-TX-75028",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2211,
+        "listed_at": "2026-06-05T23:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.064741,
+          33.02999
         ]
       }
     },
