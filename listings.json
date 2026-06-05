@@ -11239,6 +11239,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "448579b5-3356-56b8-889d-b810d329c4f9",
+        "address": "208-Dakota-Dr-Hewitt-TX-76643",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1432,
+        "listed_at": "2026-06-05T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.201149,
+          31.466576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44b8557b-441e-58dd-bcff-16a244cf44a6",
         "address": "2385-Sw-Neal-Rd-Port-Saint-Lucie-FL-34953",
         "beds": 4,
@@ -13627,6 +13648,27 @@
         "coordinates": [
           -86.854109,
           33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "54d33162-71e1-506a-a329-74ed7be258d5",
+        "address": "325-Kanawha-Rd-Lancaster-OH-43130",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1305,
+        "listed_at": "2026-06-05T14:50:03.000Z",
+        "days_on_market": "22",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.568973,
+          39.719123
         ]
       }
     },
@@ -28543,27 +28585,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b51ce2f6-edbc-5663-9470-4f49ce5cc9b6",
-        "address": "1289-Clubview-Blvd-S-Columbus-OH-43235",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2793,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "64",
-        "current_price": 577000,
-        "price_label": "$577K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.051917,
-          40.124749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b55d0295-6a1a-5462-9507-606b274cfee5",
         "address": "8710-Surrey-Ct-Temple-TX-76502",
         "beds": 4,
@@ -32338,27 +32359,6 @@
         "coordinates": [
           -96.174298,
           32.977566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce66e06b-3bf5-50f7-b998-0487383846ee",
-        "address": "101-Thomaston-St-Newnan-GA-30263",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2051,
-        "listed_at": "2026-05-31T15:10:02.000Z",
-        "days_on_market": ">103",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.767684,
-          33.379336
         ]
       }
     },
