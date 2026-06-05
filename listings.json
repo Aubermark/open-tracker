@@ -4603,27 +4603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1c8e8dc9-54e9-5be8-b9bd-31e96fcb7aca",
-        "address": "4835-Sandra-Ln-White-Bear-Lake-MN-55110",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2284,
-        "listed_at": "2026-05-05T21:00:02.000Z",
-        "days_on_market": "31",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.033488,
-          45.087533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1cff99ea-7796-531d-a119-92e6582f2c2a",
         "address": "8433-Upland-Ln-N-Maple-Grove-MN-55311",
         "beds": 6,
@@ -10330,6 +10309,27 @@
         "coordinates": [
           -78.661606,
           35.669861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3fcf6312-073a-5ea2-aa6e-8c823f5a4475",
+        "address": "3214-Se-9th-Ave-Portland-OR-97202",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 951,
+        "listed_at": "2026-06-05T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.656473,
+          45.500049
         ]
       }
     },
@@ -29047,6 +29047,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b7348d7a-78c6-573b-a7d1-4416b5cfcbe2",
+        "address": "142-Silvermill-Rd-Columbia-SC-29210",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2224,
+        "listed_at": "2026-06-05T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137577,
+          34.046743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b7af2863-8602-5936-b4da-55d0f1632431",
         "address": "425-Long-Creek-Dr-Christiana-TN-37037",
         "beds": 3,
@@ -40717,6 +40738,27 @@
         "coordinates": [
           -86.799451,
           36.437576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe7a9ebb-2f53-52c6-b1a0-321a6e66d143",
+        "address": "30344-N-Juniper-Dr-Florence-AZ-85132",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1136,
+        "listed_at": "2026-06-05T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.425889,
+          33.154445
         ]
       }
     },
