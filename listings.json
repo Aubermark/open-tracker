@@ -13612,6 +13612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
+        "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1560,
+        "listed_at": "2026-06-05T14:10:03.000Z",
+        "days_on_market": ">103",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.854109,
+          33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54da4971-4bf0-5329-9e20-12e5eadb50af",
         "address": "599-Little-Creek-Rd-Soperton-GA-30457",
         "beds": 3,
@@ -27067,27 +27088,6 @@
         "coordinates": [
           -84.577073,
           34.060471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ab6e3d5b-37b8-5e07-bc98-5e5327b00bd1",
-        "address": "116-San-Jacinto-Hutto-TX-78634",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1846,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "53",
-        "current_price": 391000,
-        "price_label": "$391K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.533929,
-          30.568102
         ]
       }
     },
