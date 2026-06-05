@@ -9979,6 +9979,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c5401a0-6bcd-5963-82d9-03c6cc3ad4ef",
+        "address": "2086-Resor-Rd-Fairfield-OH-45014",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-06-05T17:30:03.000Z",
+        "days_on_market": "38",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54853,
+          39.321894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c57428c-be3b-536e-a8bf-289f576436f0",
         "address": "8757-Roberts-Ct-Olmsted-Falls-OH-44138",
         "beds": 3,
@@ -29740,6 +29761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bb6826ee-8a16-53ea-8a8a-6e62d97c6cb6",
+        "address": "3431-White-Mission-Dr-Las-Vegas-NV-89129",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1281,
+        "listed_at": "2026-06-05T17:30:03.000Z",
+        "days_on_market": ">103",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.291379,
+          36.222996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc084479-b3a4-5a2b-b272-96cb38edeb4e",
         "address": "3810-San-Antonio-Rd-Yorba-Linda-CA-92886",
         "beds": 4,
@@ -31120,6 +31162,27 @@
         "coordinates": [
           -111.800325,
           33.348148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c5dffa50-82f5-52d2-8b14-3ebcd4fb7d49",
+        "address": "4616-Robbins-Ave-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1154,
+        "listed_at": "2026-06-05T17:30:03.000Z",
+        "days_on_market": "31",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.456286,
+          28.599129
         ]
       }
     },
@@ -38035,27 +38098,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "edc2de06-0bce-4a0d-bd7f-1e0ba038ec1f",
-        "address": "8-Mayhaw-Pt-Sharpsburg-GA-30277",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2008,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "87",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.693107,
-          33.355948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ede9983d-9756-5cc6-a7dc-3fea91649fc4",
         "address": "42724-Walnut-St-Clinton-Township-MI-48036",
         "beds": 3,
@@ -40066,6 +40108,27 @@
         "coordinates": [
           -80.906429,
           35.548304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb6bb63d-63a2-5ea5-9e95-f145bb2a2fdb",
+        "address": "939-Olmsted-Ct-Shelbyville-IN-46176",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1956,
+        "listed_at": "2026-06-05T17:30:03.000Z",
+        "days_on_market": "35",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.754001,
+          39.510464
         ]
       }
     },
