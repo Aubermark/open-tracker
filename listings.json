@@ -9622,6 +9622,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3ab48dc0-3bc1-5e69-854c-dcb676bfdb1a",
+        "address": "1561-Redolence-Ave-North-Las-Vegas-NV-89031",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1943,
+        "listed_at": "2026-06-05T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163589,
+          36.243259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3ae69f99-5d4c-5eed-8d15-d0880bc2c6eb",
         "address": "1305-Silver-Dr-Mebane-NC-27302-18196334",
         "beds": 3,
@@ -14404,6 +14425,27 @@
         "coordinates": [
           -80.79751,
           34.73915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "589240cc-8a8c-5acb-aace-d198b12ee78d",
+        "address": "8608-Sagebrush-Trl-Crossroads-TX-76227",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2967,
+        "listed_at": "2026-06-05T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.985141,
+          33.203742
         ]
       }
     },
@@ -20137,6 +20179,27 @@
         "coordinates": [
           -121.62275,
           39.151223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7f344806-3a59-56cb-872d-7aeaae7dea57",
+        "address": "5423-Timberhurst-San-Antonio-TX-78250",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1712,
+        "listed_at": "2026-06-05T16:10:04.000Z",
+        "days_on_market": ">103",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.657948,
+          29.49091
         ]
       }
     },
@@ -39982,27 +40045,6 @@
         "coordinates": [
           -110.770356,
           32.103487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fb49378c-f7bf-53dc-bf27-807896ddc353",
-        "address": "1417-Mc-Beth-Dr-Kannapolis-NC-28083",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1821,
-        "listed_at": "2026-06-02T14:40:02.000Z",
-        "days_on_market": "3",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.599274,
-          35.48803
         ]
       }
     },
