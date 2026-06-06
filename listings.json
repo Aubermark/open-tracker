@@ -1432,6 +1432,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a362157-a462-5ed7-b055-1d1e14cf95a7",
+        "address": "3566-Dyer-Parke-Ln-Sw-Marietta-GA-30060",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2747,
+        "listed_at": "2026-06-06T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.585664,
+          33.868958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a55dad8-a474-57c6-96ce-f9873c68e4c0",
         "address": "430-Cornwallis-Way-Fayetteville-GA-30214",
         "beds": 3,
