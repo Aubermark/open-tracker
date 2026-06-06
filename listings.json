@@ -38959,6 +38959,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "efd909a3-6d93-59f0-b534-b602300d00ad",
+        "address": "4440-Prather-Son-Dr-Loganville-GA-30052",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2668,
+        "listed_at": "2026-06-06T14:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.938413,
+          33.823169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f021e8b3-ff64-5547-802e-b0a38401ff94",
         "address": "2988-Chipmunk-Trl-Se-Marietta-GA-30067",
         "beds": 4,
