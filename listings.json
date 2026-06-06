@@ -8572,6 +8572,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3429dce8-35f0-5b8b-b96b-2ec5b3a523bd",
+        "address": "700-Washington-Way-Cumming-GA-30040",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3289,
+        "listed_at": "2026-06-06T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.161246,
+          34.180927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "342e6df3-9276-5618-adeb-00b9d142bf0f",
         "address": "6041-King-Trl-Corpus-Christi-TX-78414",
         "beds": 5,
@@ -18541,27 +18562,6 @@
         "coordinates": [
           -84.066002,
           33.816216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "72f3065b-4ace-571e-9eb0-4e7693129929",
-        "address": "108-W-Dogwood-Dr-Mebane-NC-27302",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1450,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "39",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.282092,
-          36.078067
         ]
       }
     },
@@ -38239,27 +38239,6 @@
         "coordinates": [
           -96.557683,
           33.343525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ec617e48-a2a1-5132-b6c3-f78668d904f7",
-        "address": "1102-Hillwood-Dr-Lewisville-TX-75067",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1776,
-        "listed_at": "2026-06-05T22:40:03.000Z",
-        "days_on_market": "8",
-        "current_price": 284000,
-        "price_label": "$284K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.024534,
-          33.033704
         ]
       }
     },
