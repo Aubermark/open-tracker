@@ -26695,27 +26695,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a69de8a2-7818-5869-b2b8-842ce1ae96ee",
-        "address": "6305-W-Washburn-Rd-Las-Vegas-NV-89130",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1200,
-        "listed_at": "2026-05-11T16:40:02.000Z",
-        "days_on_market": "26",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.232259,
-          36.254214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a6bbdcc6-8352-5408-a362-1a4e0a60a919",
         "address": "1606-Fieldgreen-Overlook-Stone-Mountain-GA-30088",
         "beds": 3,
@@ -30805,6 +30784,27 @@
         "coordinates": [
           -122.121934,
           38.002857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1dcb2af-1520-587b-9568-0efc0524ba08",
+        "address": "104-Peppertree-Griffin-GA-30224",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1813,
+        "listed_at": "2026-06-06T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 273000,
+        "price_label": "$273K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.231262,
+          33.217864
         ]
       }
     },
@@ -36874,27 +36874,6 @@
         "coordinates": [
           -112.50992,
           33.335879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e41fe7d5-8592-52b4-9924-6866adb78b4b",
-        "address": "6158-Autumn-View-Cv-Nw-Acworth-GA-30101",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1958,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "25",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.730626,
-          34.049113
         ]
       }
     },
