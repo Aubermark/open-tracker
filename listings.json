@@ -20752,6 +20752,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81d523cd-4589-5383-8a9b-5c23cbefb8dd",
+        "address": "11284-N-186th-Ln-Surprise-AZ-85388",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2913,
+        "listed_at": "2026-06-06T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.461113,
+          33.586853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81e22b00-6e66-5255-b3bd-2864f6e6f90e",
         "address": "2175-Timberleaf-Cir-Ingleside-TX-78362",
         "beds": 3,
@@ -40129,6 +40150,27 @@
         "coordinates": [
           -80.432717,
           35.263494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f789ecfe-7497-5d05-a3fa-6e15f84169eb",
+        "address": "2418-Woodbridge-Dr-Gastonia-NC-28056",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1400,
+        "listed_at": "2026-06-06T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.135557,
+          35.19622
         ]
       }
     },
