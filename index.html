@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 10:02 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 10:09 (CET)</span>
               </div>
           </div>
         </section>
@@ -4178,11 +4178,11 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
         textStyle: { color: '#fff' },
         padding: 10,
         axisPointer: {
-          type: 'line',
-          lineStyle: { color: lineColor, width: 1.5, type: 'dashed' }
+          type: 'shadow',
+          shadowStyle: { color: '#4FC3F7' }
         },
         formatter: function(params) {
-          const idx = labelsOpt.indexOf(params[0].axisValue);
+          const idx = params[0].dataIndex;
           let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
 
           const order = ['P. Sold', 'Active Listings', 'Rotation %'];
@@ -4197,7 +4197,7 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
 
             let displayVal;
             if (name === 'Active Listings') {
-              displayVal = idx >= 0 ? activeOpt[idx].toLocaleString() : p.value.toLocaleString();
+              displayVal = activeOpt[idx].toLocaleString(); 
             } else if (name === 'Rotation %') {
               displayVal = p.value + '%';
             } else {
@@ -4362,8 +4362,8 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
         textStyle: { color: '#fff', fontSize: 12 },
         padding: 10,
         axisPointer: {
-          type: 'line',
-          lineStyle: { color: '#4FC3F7', width: 1.5, type: 'dashed' }
+          type: 'shadow',
+          shadowStyle: { color: '#4FC3F7' }
         },
         formatter: function(params) {
           var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
@@ -4501,7 +4501,8 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
     };
 
     chart.setOption(options);
-    window.addEventListener('resize', () => chart.resize());
+    const onResize = () => chart.resize();
+    window.addEventListener('resize', onResize);
   }
 
   const acqChartContainer = document.getElementById('acqListingsChart');
