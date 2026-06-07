@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 10:10 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 10:14 (CET)</span>
               </div>
           </div>
         </section>
@@ -4178,8 +4178,8 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
         textStyle: { color: '#fff' },
         padding: 10,
         axisPointer: {
-          type: 'shadow',
-          shadowStyle: { color: '#4FC3F7' }
+          type: 'line',
+          lineStyle: { color: 'transparent', width: 0 }
         },
         formatter: function(params) {
           const idx = params[0].dataIndex;
@@ -4362,8 +4362,8 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
         textStyle: { color: '#fff', fontSize: 12 },
         padding: 10,
         axisPointer: {
-          type: 'shadow',
-          shadowStyle: { color: '#4FC3F7' }
+          type: 'line',
+          lineStyle: { color: 'transparent', width: 0 }
         },
         formatter: function(params) {
           var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
