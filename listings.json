@@ -403,6 +403,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02158333-4fdf-57dc-94cd-2c8a03deab57",
+        "address": "1812-Devonridge-Dr-Fuquay-Varina-NC-27526",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2736,
+        "listed_at": "2026-06-07T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.808519,
+          35.608734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02199871-58cf-5fbf-b9a5-0c1740962a34",
         "address": "2348-Mystic-Maze-Ln-Minneola-FL-34715",
         "beds": 4,
@@ -18310,6 +18331,27 @@
         "coordinates": [
           -78.793619,
           35.768503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7172e68c-0a79-5b54-a9a2-e58f276ba2cb",
+        "address": "3622-Gibson-Rd-Durham-NC-27703",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2520,
+        "listed_at": "2026-06-07T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.830126,
+          35.972636
         ]
       }
     },
