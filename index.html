@@ -2485,6 +2485,29 @@
   margin-top:15px;
 }
 
+
+
+
+.kpi-inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.kpi-footnote {
+  font-size: 13px;
+  color: #dbe5e8;
+  margin-top: auto;  /* ← esto lo empuja siempre al fondo */
+  padding-top: 6px;
+}
+
+.kpi {
+  /* ... lo que ya tienes ... */
+  min-height: 100px;  /* ajusta según lo que quede visualmente mejor */
+}
+
     </style>
   </head>
 
@@ -2557,7 +2580,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 18:51 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 19:00 (CET)</span>
               </div>
           </div>
         </section>
