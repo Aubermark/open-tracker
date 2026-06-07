@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 11:31 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 11:34 (CET)</span>
               </div>
           </div>
         </section>
@@ -4138,6 +4138,36 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
   const pctValues = weeklySoldData.map(item => item.sold_pct);
 
   function initWeeklyChart() {
+    const chartDom = document.getElementById('weeklyChart'); // o acqListingsChart
+      const lineEl = document.createElement('div');
+      lineEl.style.cssText = '
+        position: absolute;
+        top: 36px;        
+        width: 1px;
+        pointer-events: none;
+        background: rgba(255,255,255,0.25);
+        display: none;
+        z-index: 10;
+      ';
+      chartDom.style.position = 'relative';
+      chartDom.appendChild(lineEl);
+
+      chart.on('updateAxisPointer', function(e) {
+        if (!e.axesInfo || !e.axesInfo[0]) return;
+        const dataIndex = e.axesInfo[0].value;
+        const pt = chart.convertToPixel({ xAxisIndex: 0 }, dataIndex);
+        const h = chartDom.clientHeight - 36 - 20; /* alto - top - bottom del grid */
+        lineEl.style.left = pt + 'px';
+        lineEl.style.height = h + 'px';
+        lineEl.style.display = 'block';
+      });
+
+      chart.on('globalout', function() {
+        lineEl.style.display = 'none';
+      }); 
+  
+  
+  
     const MAX_POINTS = 60;
     let labelsOpt = labels;
     let valuesOpt = values;
@@ -4181,6 +4211,10 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         enterable: false,
         textStyle: { color: '#fff' },
         padding: 10,
+        axisPointer: {
+          type: 'line',
+          lineStyle: { color: 'transparent', width: 0 }
+        },
         formatter: function(params) {
           const idx = params[0].dataIndex;
           let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
@@ -4361,6 +4395,10 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         borderWidth: 1,
         textStyle: { color: '#fff', fontSize: 12 },
         padding: 10,
+        axisPointer: {
+          type: 'line',
+          lineStyle: { color: 'transparent', width: 0 }
+        },
         formatter: function(params) {
           var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
           params.forEach(function(p) {
