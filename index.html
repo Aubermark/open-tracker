@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 18:12 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 18:17 (CET)</span>
               </div>
           </div>
         </section>
@@ -4744,7 +4744,7 @@ Companies don’t keep adding high caliber operators if they’re planning to st
             return d.toLocaleString('en-US', { month: 'short', year: '2-digit' }) === name;
           });
           const size = month ? cohortSizes[month] : 0;
-          return name + '  (n=' + size.toLocaleString() + ')';
+          return name;
         },
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
@@ -4779,7 +4779,7 @@ Companies don’t keep adding high caliber operators if they’re planning to st
       yAxis: {
         type: 'value',
         min: dynamicMin,
-        max: 100.5,
+        max: 100,
         axisLine: { lineStyle: { color: '#666' } },
         axisLabel: { color: '#4FC3F7', formatter: '{value}%' },
         splitLine: {
@@ -4788,7 +4788,7 @@ Companies don’t keep adding high caliber operators if they’re planning to st
         },
         name: 'Avg Price Retention',
         nameLocation: 'middle',
-        nameGap: 50,
+        nameGap: 60,
         nameTextStyle: { color: '#9ca3af', fontSize: 11 }
       },
 
