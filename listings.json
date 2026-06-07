@@ -67,6 +67,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00a36a78-cf73-5de3-9c6f-055c95064406",
+        "address": "278-Chemistry-Cir-Ladson-SC-29456",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1249,
+        "listed_at": "2026-06-07T16:39:53.000Z",
+        "days_on_market": ">105",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.136383,
+          32.966105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00cdd742-158a-5f9d-9a40-23ef00326aec",
         "address": "2724-Bertolani-Cir-Elk-Grove-CA-95758",
         "beds": 4,
@@ -30097,27 +30118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "be318827-69d4-5974-b1d5-acc415893483",
-        "address": "738-Pebblebranch-Ln-Blythewood-SC-29016",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1891,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "101",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.978051,
-          34.159157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bec00870-a852-5c75-ad16-76acc7dc6bcb",
         "address": "354-111th-Ave-Nw-Coon-Rapids-MN-55448",
         "beds": 3,
@@ -37945,27 +37945,6 @@
         "coordinates": [
           -117.205288,
           34.142065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eba3006c-3f77-5281-9d0b-5163e3bf6a43",
-        "address": "2122-Kilborne-Dr-Charlotte-NC-28205",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 999,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": ">105",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.774103,
-          35.227059
         ]
       }
     },
