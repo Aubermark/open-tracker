@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 11:40 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 11:41 (CET)</span>
               </div>
           </div>
         </section>
@@ -4173,7 +4173,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
       backgroundColor: 'transparent',
       progressive: 0,
       tooltip: {
-        trigger: 'axis',
+        trigger: 'item',
         backgroundColor: 'rgba(0,0,0,0.75)',
         borderColor: lineColor,
         borderWidth: 1,
@@ -4183,34 +4183,20 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         padding: 10,
         axisPointer: { show: false },
         formatter: function(params) {
-          const idx = params[0].dataIndex;
-          let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
+          const idx = params.dataIndex;
+          let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params.name + '</div>';
 
-          const order = ['P. Sold', 'Active Listings', 'Rotation %'];
-          const paramMap = {};
-          params.forEach(function(p) { paramMap[p.seriesName] = p; });
+          html += '<div style="font-size:15px;font-weight:700;margin:4px 0">'
+                + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + pointColor + ';margin-right:5px"></span>'
+                + 'P. Sold: <strong style="font-size:17px">' + valuesOpt[idx].toLocaleString() + '</strong></div>';
 
-          order.forEach(function(name) {
-            const p = paramMap[name];
-            if (!p) return;
+          html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">'
+                + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + activeColor + ';margin-right:5px"></span>'
+                + 'Active Listings: <span>' + activeOpt[idx].toLocaleString() + '</span></div>';
 
-            const dot = '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + p.color + ';margin-right:5px"></span>';
-
-            let displayVal;
-            if (name === 'Active Listings') {
-              displayVal = activeOpt[idx].toLocaleString();
-            } else if (name === 'Rotation %') {
-              displayVal = p.value + '%';
-            } else {
-              displayVal = p.value.toLocaleString();
-            }
-
-            if (name === 'P. Sold') {
-              html += '<div style="font-size:15px;font-weight:700;margin:4px 0">' + dot + name + ': <strong style="font-size:17px">' + displayVal + '</strong></div>';
-            } else {
-              html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">' + dot + name + ': <span>' + displayVal + '</span></div>';
-            }
-          });
+          html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">'
+                + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + pctColor + ';margin-right:5px"></span>'
+                + 'Rotation %: <span>' + pctOpt[idx] + '%</span></div>';
 
           return html;
         }
@@ -4373,9 +4359,9 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
       backgroundColor: 'transparent',
       progressive: 0,
       tooltip: {
-        trigger: 'axis',
+        trigger: 'item',
         backgroundColor: 'rgba(0,0,0,0.75)',
-        borderColor: '#4FC3F7',
+        borderColor: colorContracts,
         throttle: 50,
         enterable: false,
         borderWidth: 1,
@@ -4383,17 +4369,20 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         padding: 10,
         axisPointer: { show: false },
         formatter: function(params) {
-          var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
-          params.forEach(function(p) {
-            var color;
-            if (p.seriesIndex === 0) color = colorContracts;
-            else if (p.seriesIndex === 1) color = colorListings;
-            else color = '#FF9800';
-            result += '<div style="display:flex;justify-content:space-between;gap:24px;">' +
-              '<span style="color:' + color + ';">● ' + p.seriesName + '</span>' +
-              '<span style="font-weight:600;">' + p.value + '</span>' +
-              '</div>';
-          });
+          const idx = params.dataIndex;
+          var result = '<div style="margin-bottom:6px;font-weight:600;">' + params.name + '</div>';
+          result += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+                  + '<span style="color:' + colorContracts + ';">● Contracts acquired</span>'
+                  + '<span style="font-weight:600;">' + acqContracts[idx] + '</span></div>';
+          result += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+                  + '<span style="color:' + colorListings + ';">● New listings</span>'
+                  + '<span style="font-weight:600;">' + acqListings[idx] + '</span></div>';
+          result += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+                  + '<span style="color:#FF9800;">● Cancellations (10%)</span>'
+                  + '<span style="font-weight:600;">' + acqCancelLow[idx] + '</span></div>';
+          result += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+                  + '<span style="color:#FF9800;">● Cancellations (20%)</span>'
+                  + '<span style="font-weight:600;">' + acqCancelHigh[idx] + '</span></div>';
           return result;
         }
       },
