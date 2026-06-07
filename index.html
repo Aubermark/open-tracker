@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 13:20 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 13:22 (CET)</span>
               </div>
           </div>
         </section>
@@ -3373,6 +3373,21 @@
     </table>
   
             </div>
+          </div>
+        </section>
+
+
+
+        </br>
+
+        <section>
+          <div class="chart-box">
+            <div class="card-title">COHORT PRICE RETENTION CURVE</div>
+            <div class="card-subtitle">
+              Average price retention (% of initial listing price) as each monthly cohort sells through its inventory.
+              <div>* Each line represents homes listed in that month. The X axis shows % of the cohort sold, Y axis shows how much of the original price was retained on average.</div>
+            </div>
+            <div id="cohortChart" style="width:100%; height:420px; margin-top:15px;"></div>
           </div>
         </section>
 
@@ -4602,6 +4617,215 @@ If there are enough people moving they could trade houses (across groups of peop
     }
   });
   acqObserver.observe(acqChartContainer);
+</script>
+
+
+
+<script>
+  const cohortRawData = [{"cohort_month":"2026-02-01","week_number":0,"total_properties":1518,"total_sold":"1273","sold_this_week":179,"sold_cumulative":"179","avg_price_retention_cumulative":"99.87","avg_cuts_week":"0.06","avg_days_to_sell_week":"3.3","pct_sold_cumulative":"11.79","pct_remaining":"88.21"},{"cohort_month":"2026-02-01","week_number":1,"total_properties":1518,"total_sold":"1273","sold_this_week":151,"sold_cumulative":"330","avg_price_retention_cumulative":"99.72","avg_cuts_week":"0.19","avg_days_to_sell_week":"9.8","pct_sold_cumulative":"21.74","pct_remaining":"78.26"},{"cohort_month":"2026-02-01","week_number":2,"total_properties":1518,"total_sold":"1273","sold_this_week":115,"sold_cumulative":"445","avg_price_retention_cumulative":"99.55","avg_cuts_week":"0.42","avg_days_to_sell_week":"17.0","pct_sold_cumulative":"29.31","pct_remaining":"70.69"},{"cohort_month":"2026-02-01","week_number":3,"total_properties":1518,"total_sold":"1273","sold_this_week":116,"sold_cumulative":"561","avg_price_retention_cumulative":"99.41","avg_cuts_week":"0.48","avg_days_to_sell_week":"23.7","pct_sold_cumulative":"36.96","pct_remaining":"63.04"},{"cohort_month":"2026-02-01","week_number":4,"total_properties":1518,"total_sold":"1273","sold_this_week":116,"sold_cumulative":"677","avg_price_retention_cumulative":"99.22","avg_cuts_week":"0.78","avg_days_to_sell_week":"31.0","pct_sold_cumulative":"44.60","pct_remaining":"55.40"},{"cohort_month":"2026-02-01","week_number":5,"total_properties":1518,"total_sold":"1273","sold_this_week":76,"sold_cumulative":"753","avg_price_retention_cumulative":"99.00","avg_cuts_week":"1.07","avg_days_to_sell_week":"38.1","pct_sold_cumulative":"49.60","pct_remaining":"50.40"},{"cohort_month":"2026-02-01","week_number":6,"total_properties":1518,"total_sold":"1273","sold_this_week":80,"sold_cumulative":"833","avg_price_retention_cumulative":"98.86","avg_cuts_week":"1.06","avg_days_to_sell_week":"45.2","pct_sold_cumulative":"54.87","pct_remaining":"45.13"},{"cohort_month":"2026-02-01","week_number":7,"total_properties":1518,"total_sold":"1273","sold_this_week":71,"sold_cumulative":"904","avg_price_retention_cumulative":"98.66","avg_cuts_week":"1.25","avg_days_to_sell_week":"52.2","pct_sold_cumulative":"59.55","pct_remaining":"40.45"},{"cohort_month":"2026-02-01","week_number":8,"total_properties":1518,"total_sold":"1273","sold_this_week":72,"sold_cumulative":"976","avg_price_retention_cumulative":"98.46","avg_cuts_week":"1.64","avg_days_to_sell_week":"59.3","pct_sold_cumulative":"64.30","pct_remaining":"35.70"},{"cohort_month":"2026-02-01","week_number":9,"total_properties":1518,"total_sold":"1273","sold_this_week":68,"sold_cumulative":"1044","avg_price_retention_cumulative":"98.18","avg_cuts_week":"2.13","avg_days_to_sell_week":"65.8","pct_sold_cumulative":"68.77","pct_remaining":"31.23"},{"cohort_month":"2026-02-01","week_number":10,"total_properties":1518,"total_sold":"1273","sold_this_week":69,"sold_cumulative":"1113","avg_price_retention_cumulative":"97.97","avg_cuts_week":"2.03","avg_days_to_sell_week":"72.8","pct_sold_cumulative":"73.32","pct_remaining":"26.68"},{"cohort_month":"2026-02-01","week_number":11,"total_properties":1518,"total_sold":"1273","sold_this_week":33,"sold_cumulative":"1146","avg_price_retention_cumulative":"97.79","avg_cuts_week":"2.15","avg_days_to_sell_week":"80.1","pct_sold_cumulative":"75.49","pct_remaining":"24.51"},{"cohort_month":"2026-02-01","week_number":12,"total_properties":1518,"total_sold":"1273","sold_this_week":47,"sold_cumulative":"1193","avg_price_retention_cumulative":"97.59","avg_cuts_week":"2.36","avg_days_to_sell_week":"87.1","pct_sold_cumulative":"78.59","pct_remaining":"21.41"},{"cohort_month":"2026-02-01","week_number":13,"total_properties":1518,"total_sold":"1273","sold_this_week":41,"sold_cumulative":"1234","avg_price_retention_cumulative":"97.36","avg_cuts_week":"2.83","avg_days_to_sell_week":"94.9","pct_sold_cumulative":"81.29","pct_remaining":"18.71"},{"cohort_month":"2026-02-01","week_number":14,"total_properties":1518,"total_sold":"1273","sold_this_week":39,"sold_cumulative":"1273","avg_price_retention_cumulative":"97.16","avg_cuts_week":"2.90","avg_days_to_sell_week":"101.1","pct_sold_cumulative":"83.86","pct_remaining":"16.14"},{"cohort_month":"2026-03-01","week_number":0,"total_properties":799,"total_sold":"532","sold_this_week":77,"sold_cumulative":"77","avg_price_retention_cumulative":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.5","pct_sold_cumulative":"9.64","pct_remaining":"90.36"},{"cohort_month":"2026-03-01","week_number":1,"total_properties":799,"total_sold":"532","sold_this_week":64,"sold_cumulative":"141","avg_price_retention_cumulative":"99.91","avg_cuts_week":"0.06","avg_days_to_sell_week":"9.9","pct_sold_cumulative":"17.65","pct_remaining":"82.35"},{"cohort_month":"2026-03-01","week_number":2,"total_properties":799,"total_sold":"532","sold_this_week":49,"sold_cumulative":"190","avg_price_retention_cumulative":"99.84","avg_cuts_week":"0.14","avg_days_to_sell_week":"17.0","pct_sold_cumulative":"23.78","pct_remaining":"76.22"},{"cohort_month":"2026-03-01","week_number":3,"total_properties":799,"total_sold":"532","sold_this_week":43,"sold_cumulative":"233","avg_price_retention_cumulative":"99.59","avg_cuts_week":"0.53","avg_days_to_sell_week":"23.6","pct_sold_cumulative":"29.16","pct_remaining":"70.84"},{"cohort_month":"2026-03-01","week_number":4,"total_properties":799,"total_sold":"532","sold_this_week":36,"sold_cumulative":"269","avg_price_retention_cumulative":"99.27","avg_cuts_week":"0.81","avg_days_to_sell_week":"31.0","pct_sold_cumulative":"33.67","pct_remaining":"66.33"},{"cohort_month":"2026-03-01","week_number":5,"total_properties":799,"total_sold":"532","sold_this_week":48,"sold_cumulative":"317","avg_price_retention_cumulative":"98.95","avg_cuts_week":"1.13","avg_days_to_sell_week":"37.1","pct_sold_cumulative":"39.67","pct_remaining":"60.33"},{"cohort_month":"2026-03-01","week_number":6,"total_properties":799,"total_sold":"532","sold_this_week":40,"sold_cumulative":"357","avg_price_retention_cumulative":"98.72","avg_cuts_week":"1.20","avg_days_to_sell_week":"44.9","pct_sold_cumulative":"44.68","pct_remaining":"55.32"},{"cohort_month":"2026-03-01","week_number":7,"total_properties":799,"total_sold":"532","sold_this_week":39,"sold_cumulative":"396","avg_price_retention_cumulative":"98.46","avg_cuts_week":"1.51","avg_days_to_sell_week":"51.7","pct_sold_cumulative":"49.56","pct_remaining":"50.44"},{"cohort_month":"2026-03-01","week_number":8,"total_properties":799,"total_sold":"532","sold_this_week":32,"sold_cumulative":"428","avg_price_retention_cumulative":"98.06","avg_cuts_week":"2.00","avg_days_to_sell_week":"58.8","pct_sold_cumulative":"53.57","pct_remaining":"46.43"},{"cohort_month":"2026-03-01","week_number":9,"total_properties":799,"total_sold":"532","sold_this_week":27,"sold_cumulative":"455","avg_price_retention_cumulative":"97.82","avg_cuts_week":"1.85","avg_days_to_sell_week":"66.4","pct_sold_cumulative":"56.95","pct_remaining":"43.05"},{"cohort_month":"2026-03-01","week_number":10,"total_properties":799,"total_sold":"532","sold_this_week":27,"sold_cumulative":"482","avg_price_retention_cumulative":"97.45","avg_cuts_week":"2.59","avg_days_to_sell_week":"73.0","pct_sold_cumulative":"60.33","pct_remaining":"39.67"},{"cohort_month":"2026-03-01","week_number":11,"total_properties":799,"total_sold":"532","sold_this_week":25,"sold_cumulative":"507","avg_price_retention_cumulative":"97.16","avg_cuts_week":"2.44","avg_days_to_sell_week":"79.7","pct_sold_cumulative":"63.45","pct_remaining":"36.55"},{"cohort_month":"2026-03-01","week_number":12,"total_properties":799,"total_sold":"532","sold_this_week":19,"sold_cumulative":"526","avg_price_retention_cumulative":"96.93","avg_cuts_week":"3.00","avg_days_to_sell_week":"86.2","pct_sold_cumulative":"65.83","pct_remaining":"34.17"},{"cohort_month":"2026-03-01","week_number":13,"total_properties":799,"total_sold":"532","sold_this_week":6,"sold_cumulative":"532","avg_price_retention_cumulative":"96.63","avg_cuts_week":"3.33","avg_days_to_sell_week":"93.0","pct_sold_cumulative":"66.58","pct_remaining":"33.42"},{"cohort_month":"2026-04-01","week_number":0,"total_properties":853,"total_sold":"376","sold_this_week":71,"sold_cumulative":"71","avg_price_retention_cumulative":"99.96","avg_cuts_week":"0.03","avg_days_to_sell_week":"3.9","pct_sold_cumulative":"8.32","pct_remaining":"91.68"},{"cohort_month":"2026-04-01","week_number":1,"total_properties":853,"total_sold":"376","sold_this_week":64,"sold_cumulative":"135","avg_price_retention_cumulative":"99.88","avg_cuts_week":"0.09","avg_days_to_sell_week":"9.6","pct_sold_cumulative":"15.83","pct_remaining":"84.17"},{"cohort_month":"2026-04-01","week_number":2,"total_properties":853,"total_sold":"376","sold_this_week":44,"sold_cumulative":"179","avg_price_retention_cumulative":"99.71","avg_cuts_week":"0.23","avg_days_to_sell_week":"17.2","pct_sold_cumulative":"20.98","pct_remaining":"79.02"},{"cohort_month":"2026-04-01","week_number":3,"total_properties":853,"total_sold":"376","sold_this_week":38,"sold_cumulative":"217","avg_price_retention_cumulative":"99.37","avg_cuts_week":"0.63","avg_days_to_sell_week":"24.4","pct_sold_cumulative":"25.44","pct_remaining":"74.56"},{"cohort_month":"2026-04-01","week_number":4,"total_properties":853,"total_sold":"376","sold_this_week":39,"sold_cumulative":"256","avg_price_retention_cumulative":"99.09","avg_cuts_week":"0.82","avg_days_to_sell_week":"30.8","pct_sold_cumulative":"30.01","pct_remaining":"69.99"},{"cohort_month":"2026-04-01","week_number":5,"total_properties":853,"total_sold":"376","sold_this_week":44,"sold_cumulative":"300","avg_price_retention_cumulative":"98.74","avg_cuts_week":"1.14","avg_days_to_sell_week":"38.1","pct_sold_cumulative":"35.17","pct_remaining":"64.83"},{"cohort_month":"2026-04-01","week_number":6,"total_properties":853,"total_sold":"376","sold_this_week":33,"sold_cumulative":"333","avg_price_retention_cumulative":"98.32","avg_cuts_week":"1.64","avg_days_to_sell_week":"45.0","pct_sold_cumulative":"39.04","pct_remaining":"60.96"},{"cohort_month":"2026-04-01","week_number":7,"total_properties":853,"total_sold":"376","sold_this_week":28,"sold_cumulative":"361","avg_price_retention_cumulative":"97.88","avg_cuts_week":"1.96","avg_days_to_sell_week":"51.3","pct_sold_cumulative":"42.32","pct_remaining":"57.68"},{"cohort_month":"2026-04-01","week_number":8,"total_properties":853,"total_sold":"376","sold_this_week":11,"sold_cumulative":"372","avg_price_retention_cumulative":"97.48","avg_cuts_week":"2.36","avg_days_to_sell_week":"58.5","pct_sold_cumulative":"43.61","pct_remaining":"56.39"},{"cohort_month":"2026-04-01","week_number":9,"total_properties":853,"total_sold":"376","sold_this_week":4,"sold_cumulative":"376","avg_price_retention_cumulative":"96.78","avg_cuts_week":"3.50","avg_days_to_sell_week":"63.5","pct_sold_cumulative":"44.08","pct_remaining":"55.92"},{"cohort_month":"2026-05-01","week_number":0,"total_properties":959,"total_sold":"246","sold_this_week":98,"sold_cumulative":"98","avg_price_retention_cumulative":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.7","pct_sold_cumulative":"10.22","pct_remaining":"89.78"},{"cohort_month":"2026-05-01","week_number":1,"total_properties":959,"total_sold":"246","sold_this_week":76,"sold_cumulative":"174","avg_price_retention_cumulative":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"9.4","pct_sold_cumulative":"18.14","pct_remaining":"81.86"},{"cohort_month":"2026-05-01","week_number":2,"total_properties":959,"total_sold":"246","sold_this_week":23,"sold_cumulative":"197","avg_price_retention_cumulative":"99.79","avg_cuts_week":"0.26","avg_days_to_sell_week":"17.3","pct_sold_cumulative":"20.54","pct_remaining":"79.46"},{"cohort_month":"2026-05-01","week_number":3,"total_properties":959,"total_sold":"246","sold_this_week":37,"sold_cumulative":"234","avg_price_retention_cumulative":"99.68","avg_cuts_week":"0.32","avg_days_to_sell_week":"23.4","pct_sold_cumulative":"24.40","pct_remaining":"75.60"},{"cohort_month":"2026-05-01","week_number":4,"total_properties":959,"total_sold":"246","sold_this_week":12,"sold_cumulative":"246","avg_price_retention_cumulative":"99.58","avg_cuts_week":"0.42","avg_days_to_sell_week":"30.7","pct_sold_cumulative":"25.65","pct_remaining":"74.35"},{"cohort_month":"2026-06-01","week_number":0,"total_properties":275,"total_sold":"9","sold_this_week":9,"sold_cumulative":"9","avg_price_retention_cumulative":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"1.7","pct_sold_cumulative":"3.27","pct_remaining":"96.73"}];
+
+  // Agrupar por cohort_month
+  const cohortMap = {};
+  cohortRawData.forEach(function(row) {
+    const month = row.cohort_month
+      ? String(row.cohort_month).substring(0, 7)
+      : 'Unknown';
+    if (!cohortMap[month]) cohortMap[month] = [];
+    cohortMap[month].push(row);
+  });
+
+  // Paleta de colores por cohort (del más antiguo al más reciente)
+  const cohortColors = [
+    '#a78bfa', // Feb - violeta claro (Opendoor 1.0 style)
+    '#818cf8',
+    '#60a5fa',
+    '#38bdf8', // azul reciente
+    '#34d399'  // verde más reciente
+  ];
+
+  function initCohortChart() {
+    const chart = echarts.init(document.getElementById('cohortChart'), null, {
+      renderer: 'canvas',
+      useDirtyRect: true
+    });
+
+    const months = Object.keys(cohortMap).sort();
+    
+    const series = months.map(function(month, idx) {
+      const data = cohortMap[month];
+      const color = cohortColors[idx % cohortColors.length];
+      
+      // Formato legible del mes
+      const d = new Date(month + '-02');
+      const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
+
+      // Puntos: [pct_sold, avg_price_retention_cumulative]
+      const points = data.map(function(row) {
+        return [
+          parseFloat(row.pct_sold_cumulative),
+          parseFloat(row.avg_price_retention_cumulative)
+        ];
+      });
+
+      return {
+        name: label,
+        type: 'line',
+        data: points,
+        smooth: false,
+        symbol: 'none',
+        lineStyle: { color: color, width: 2 },
+        itemStyle: { color: color },
+        emphasis: { disabled: true },
+        endLabel: {
+          show: true,
+          formatter: label,
+          color: color,
+          fontSize: 10,
+          fontWeight: 600
+        }
+      };
+    });
+
+    const options = {
+      animation: false,
+      backgroundColor: 'transparent',
+      progressive: 0,
+      tooltip: { show: false },
+
+      legend: {
+        data: months.map(function(month) {
+          const d = new Date(month + '-02');
+          return d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
+        }),
+        textStyle: { color: '#cfd8dc', fontSize: 11 },
+        top: 0,
+        itemWidth: 20,
+        itemHeight: 3
+      },
+
+      grid: {
+        left: 6,
+        right: 80,
+        top: 36,
+        bottom: 30,
+        containLabel: true
+      },
+
+      xAxis: {
+        type: 'value',
+        min: 0,
+        max: 100,
+        axisLine: { lineStyle: { color: '#666' } },
+        axisLabel: { color: '#aaa', formatter: '{value}%' },
+        splitLine: {
+          show: true,
+          lineStyle: { color: 'rgba(255,255,255,0.08)', type: 'dashed' }
+        },
+        name: '% of Cohort Sold',
+        nameLocation: 'middle',
+        nameGap: 25,
+        nameTextStyle: { color: '#9ca3af', fontSize: 11 }
+      },
+
+      yAxis: {
+        type: 'value',
+        min: 94,
+        max: 101,
+        axisLine: { lineStyle: { color: '#666' } },
+        axisLabel: { color: '#4FC3F7', formatter: '{value}%' },
+        splitLine: {
+          show: true,
+          lineStyle: { color: 'rgba(255,255,255,0.18)', width: 1.2, type: 'dashed' }
+        },
+        name: 'Avg Price Retention',
+        nameLocation: 'middle',
+        nameGap: 50,
+        nameTextStyle: { color: '#9ca3af', fontSize: 11 }
+      },
+
+      series: series
+    };
+
+    chart.setOption(options);
+
+    // Tooltip manual
+    const chartDom = document.getElementById('cohortChart');
+    const tipEl = document.createElement('div');
+    tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.80);border:1px solid #38bdf8;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
+    chartDom.style.position = 'relative';
+    chartDom.appendChild(tipEl);
+
+    chartDom.addEventListener('mousemove', function(e) {
+      const rect = chartDom.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+
+      // Convertir posición X del pixel a valor del eje X (% sold)
+      const pctValue = chart.convertFromPixel({ xAxisIndex: 0 }, mouseX);
+      if (pctValue === null || pctValue < 0 || pctValue > 100) {
+        tipEl.style.display = 'none';
+        return;
+      }
+
+      // Para cada cohort, encontrar el punto más cercano al pctValue
+      let html = '<div style="margin-bottom:6px;font-weight:600;font-size:12px">% Sold: ' + pctValue.toFixed(1) + '%</div>';
+      let hasData = false;
+
+      months.forEach(function(month, idx) {
+        const data = cohortMap[month];
+        const color = cohortColors[idx % cohortColors.length];
+        const d = new Date(month + '-02');
+        const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
+
+        // Punto más cercano
+        let closest = null;
+        let closestDist = Infinity;
+        data.forEach(function(row) {
+          const dist = Math.abs(parseFloat(row.pct_sold_cumulative) - pctValue);
+          if (dist < closestDist) {
+            closestDist = dist;
+            closest = row;
+          }
+        });
+
+        if (closest && closestDist < 5) {
+          hasData = true;
+          html += '<div style="display:flex;justify-content:space-between;gap:20px;margin:2px 0">'
+                + '<span style="color:' + color + ';">● ' + label + '</span>'
+                + '<span style="font-weight:700;">' + parseFloat(closest.avg_price_retention_cumulative).toFixed(2) + '%</span>'
+                + '</div>';
+        }
+      });
+
+      if (!hasData) { tipEl.style.display = 'none'; return; }
+
+      tipEl.innerHTML = html;
+      tipEl.style.display = 'block';
+
+      let tipX = mouseX + 15;
+      let tipY = mouseY - 10;
+      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) tipX = mouseX - tipEl.offsetWidth - 15;
+      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
+      tipEl.style.left = tipX + 'px';
+      tipEl.style.top = tipY + 'px';
+    });
+
+    chartDom.addEventListener('mouseleave', function() {
+      tipEl.style.display = 'none';
+    });
+
+    const onResize = () => chart.resize();
+    window.addEventListener('resize', onResize);
+  }
+
+  const cohortChartContainer = document.getElementById('cohortChart');
+  const cohortObserver = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      initCohortChart();
+      cohortObserver.disconnect();
+    }
+  });
+  cohortObserver.observe(cohortChartContainer);
 </script>
 
 
