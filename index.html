@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 13:30 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 13:39 (CET)</span>
               </div>
           </div>
         </section>
@@ -4018,6 +4018,16 @@ My DMs are open.</p>&mdash; Kaz Nejatian (@nejatian)
             
     <div class="tweet-wrapper">
     <blockquote class="twitter-tweet" data-theme="dark">
+      <p lang="en" dir="ltr">You’re 2 QTRLY reports in. Kaz, gets 12-18
+months to turn the ship around.  Housing is cyclical and sales are at a 40 year low. You first have to fix the model before you scale the model. Open will be scaling the 4.99% mortgage rate by the end of Q3 which will accelerate sales in</p>&mdash; David (@Davo0820)
+      <a href="https://twitter.com/Davo0820/status/2063580438006817036?ref_src=twsrc%5Etfw">
+        June 7, 2026
+      </a>
+    </blockquote>
+    </div>
+  
+    <div class="tweet-wrapper">
+    <blockquote class="twitter-tweet" data-theme="dark">
       <p lang="en" dir="ltr">Some rants about $OPEN . I am long
 
 Came across GS report on OPEN after Q1 earning calls and surprised to see they mentioned the company Q2 Rev guidance of ~25% q/q, much lower than the consensus of +78% q/q. How can the consensus be that far off vs. company guidance, especially</p>&mdash; David (@Davo0820)
@@ -4038,9 +4048,19 @@ Came across GS report on OPEN after Q1 earning calls and surprised to see they m
   
     <div class="tweet-wrapper">
     <blockquote class="twitter-tweet" data-theme="dark">
-      <p lang="en" dir="ltr">Yesterday I spent an hour with Opendoor CEO Kaz Nejatian and President Lucas Matheson at their Toronto office.
+      <p lang="en" dir="ltr">When I hear “solar” I think <a href="https://twitter.com/Tesla?ref_src=twsrc%5Etfw">@Tesla</a>.
 
-We discussed AI, tokenization, new partnerships, capital markets, ancillary services, why they’re hiring aggressively, and how a company trying to reinvent</p>&mdash; OPENGOD (@Opendoor_God)
+<a href="https://twitter.com/nejatian?ref_src=twsrc%5Etfw">@nejatian</a> and <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> team up.
+
+<a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> <a href="https://twitter.com/search?q=%24TSLA&src=ctag&ref_src=twsrc%5Etfw">$TSLA</a> Bring solar to every home.
+
+Excess energy mines <a href="https://twitter.com/search?q=%24BTC&src=ctag&ref_src=twsrc%5Etfw">$BTC</a>.
+
+This is what we signed up for. 
+
+Kaz <a href="https://twitter.com/nejatian?ref_src=twsrc%5Etfw">@nejatian</a> have you heard of the <a href="https://twitter.com/search?q=%24BTC&src=ctag&ref_src=twsrc%5Etfw">$BTC</a> battery concept from <a href="https://twitter.com/Melt_Dem?ref_src=twsrc%5Etfw">@Melt_Dem</a>?
+
+Meltem, it’d be great if you could</p>&mdash; OPENGOD (@Opendoor_God)
       <a href="https://twitter.com/Opendoor_God/status/2063543041978143073?ref_src=twsrc%5Etfw">
         June 7, 2026
       </a>
@@ -4093,15 +4113,6 @@ We discussed AI, tokenization, new partnerships, capital markets, ancillary serv
 
 If there are enough people moving they could trade houses (across groups of people/cities), maybe there’s a legal way to change houses.</p>&mdash; Grayson Gist (@pappygist)
       <a href="https://twitter.com/pappygist/status/2063374784906383520?ref_src=twsrc%5Etfw">
-        June 6, 2026
-      </a>
-    </blockquote>
-    </div>
-  
-    <div class="tweet-wrapper">
-    <blockquote class="twitter-tweet" data-theme="dark">
-      <p lang="en" dir="ltr">Zoom out. <a href="https://twitter.com/search?q=%24OPEN&src=ctag&ref_src=twsrc%5Etfw">$OPEN</a> is inevitable</p>&mdash; Nexus (@GMN_watch)
-      <a href="https://twitter.com/GMN_watch/status/2063367624604487862?ref_src=twsrc%5Etfw">
         June 6, 2026
       </a>
     </blockquote>
@@ -4636,11 +4647,11 @@ If there are enough people moving they could trade houses (across groups of peop
 
   // Paleta de colores por cohort (del más antiguo al más reciente)
   const cohortColors = [
-    '#a78bfa', // Feb - violeta claro (Opendoor 1.0 style)
-    '#818cf8',
-    '#60a5fa',
-    '#38bdf8', // azul reciente
-    '#34d399'  // verde más reciente
+    '#a78bfa', // Mar - violeta
+    '#818cf8', // Apr - azul violeta
+    '#60a5fa', // May - azul
+    '#38bdf8', // Jun - azul cian
+    '#34d399'  // Jul - verde
   ];
 
   function initCohortChart() {
@@ -4650,16 +4661,14 @@ If there are enough people moving they could trade houses (across groups of peop
     });
 
     const months = Object.keys(cohortMap).sort();
-    
+
     const series = months.map(function(month, idx) {
       const data = cohortMap[month];
       const color = cohortColors[idx % cohortColors.length];
-      
-      // Formato legible del mes
+
       const d = new Date(month + '-02');
       const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
 
-      // Puntos: [pct_sold, avg_price_retention_cumulative]
       const points = data.map(function(row) {
         return [
           parseFloat(row.pct_sold_cumulative),
@@ -4667,21 +4676,30 @@ If there are enough people moving they could trade houses (across groups of peop
         ];
       });
 
+      // FIX 2: más grosor para cohorts recientes
+      const isRecent = idx >= months.length - 2;
+      const lineWidth = isRecent ? 2.5 : 1.5;
+
       return {
         name: label,
         type: 'line',
         data: points,
         smooth: false,
-        symbol: 'none',
-        lineStyle: { color: color, width: 2 },
-        itemStyle: { color: color },
+        // FIX 3: símbolo visible solo en el punto final (endLabel lo gestiona)
+        symbol: 'circle',
+        symbolSize: 4,
+        showSymbol: false,
+        z: months.length - idx, // cohorts más antiguos debajo
+        lineStyle: { color: color, width: lineWidth },
+        itemStyle: { color: color, borderColor: '#fff', borderWidth: 1 },
         emphasis: { disabled: true },
         endLabel: {
           show: true,
           formatter: label,
           color: color,
           fontSize: 10,
-          fontWeight: 600
+          fontWeight: 700,
+          distance: 6
         }
       };
     });
@@ -4729,7 +4747,7 @@ If there are enough people moving they could trade houses (across groups of peop
 
       yAxis: {
         type: 'value',
-        min: 94,
+        min: 93,   // FIX 1: antes 94, ahora 93 para que 100% no quede en el borde
         max: 101,
         axisLine: { lineStyle: { color: '#666' } },
         axisLabel: { color: '#4FC3F7', formatter: '{value}%' },
@@ -4760,24 +4778,23 @@ If there are enough people moving they could trade houses (across groups of peop
       const mouseX = e.clientX - rect.left;
       const mouseY = e.clientY - rect.top;
 
-      // Convertir posición X del pixel a valor del eje X (% sold)
       const pctValue = chart.convertFromPixel({ xAxisIndex: 0 }, mouseX);
       if (pctValue === null || pctValue < 0 || pctValue > 100) {
         tipEl.style.display = 'none';
         return;
       }
 
-      // Para cada cohort, encontrar el punto más cercano al pctValue
       let html = '<div style="margin-bottom:6px;font-weight:600;font-size:12px">% Sold: ' + pctValue.toFixed(1) + '%</div>';
       let hasData = false;
 
-      months.forEach(function(month, idx) {
+      // Ordenar de más reciente a más antiguo en el tooltip
+      months.slice().reverse().forEach(function(month, ridx) {
+        const idx = months.length - 1 - ridx;
         const data = cohortMap[month];
         const color = cohortColors[idx % cohortColors.length];
         const d = new Date(month + '-02');
         const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
 
-        // Punto más cercano
         let closest = null;
         let closestDist = Infinity;
         data.forEach(function(row) {
@@ -4790,9 +4807,12 @@ If there are enough people moving they could trade houses (across groups of peop
 
         if (closest && closestDist < 5) {
           hasData = true;
+          const retention = parseFloat(closest.avg_price_retention_cumulative).toFixed(2);
+          const weekNum = parseInt(closest.week_number);
           html += '<div style="display:flex;justify-content:space-between;gap:20px;margin:2px 0">'
                 + '<span style="color:' + color + ';">● ' + label + '</span>'
-                + '<span style="font-weight:700;">' + parseFloat(closest.avg_price_retention_cumulative).toFixed(2) + '%</span>'
+                + '<span style="font-weight:700;">' + retention + '%</span>'
+                + '<span style="opacity:0.5;font-size:11px;">W' + weekNum + '</span>'
                 + '</div>';
         }
       });
