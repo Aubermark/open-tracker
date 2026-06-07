@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 14:00 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 14:05 (CET)</span>
               </div>
           </div>
         </section>
@@ -4679,7 +4679,6 @@ If there are enough people moving they could trade houses (across groups of peop
         ];
       });
 
-      // FIX 2: más grosor para cohorts recientes
       const isRecent = idx >= months.length - 2;
       const lineWidth = isRecent ? 2.5 : 1.5;
 
@@ -4688,11 +4687,10 @@ If there are enough people moving they could trade houses (across groups of peop
         type: 'line',
         data: points,
         smooth: false,
-        // FIX 3: símbolo visible solo en el punto final (endLabel lo gestiona)
         symbol: 'circle',
         symbolSize: 4,
         showSymbol: false,
-        z: months.length - idx, // cohorts más antiguos debajo
+        z: months.length - idx,
         lineStyle: { color: color, width: lineWidth },
         itemStyle: { color: color, borderColor: '#fff', borderWidth: 1 },
         emphasis: { disabled: true },
@@ -4750,7 +4748,7 @@ If there are enough people moving they could trade houses (across groups of peop
 
       yAxis: {
         type: 'value',
-        min: 93,   // FIX 1: antes 94, ahora 93 para que 100% no quede en el borde
+        min: 93,
         max: 101,
         axisLine: { lineStyle: { color: '#666' } },
         axisLabel: { color: '#4FC3F7', formatter: '{value}%' },
@@ -4790,13 +4788,20 @@ If there are enough people moving they could trade houses (across groups of peop
       let html = '<div style="margin-bottom:6px;font-weight:600;font-size:12px">% Sold: ' + pctValue.toFixed(1) + '%</div>';
       let hasData = false;
 
-      // Ordenar de más reciente a más antiguo en el tooltip
       months.slice().reverse().forEach(function(month, ridx) {
         const idx = months.length - 1 - ridx;
         const data = cohortMap[month];
         const color = cohortColors[idx % cohortColors.length];
         const d = new Date(month + '-02');
         const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
+
+        // Máximo % vendido real de este cohort
+        const maxPctSold = Math.max(...data.map(function(row) {
+          return parseFloat(row.pct_sold_cumulative);
+        }));
+
+        // Si el ratón está más allá del último punto de este cohort no mostrar
+        if (pctValue > maxPctSold + 2) return;
 
         let closest = null;
         let closestDist = Infinity;
@@ -4808,7 +4813,7 @@ If there are enough people moving they could trade houses (across groups of peop
           }
         });
 
-        if (closest && closestDist < 5) {
+        if (closest && closestDist < 2) {
           hasData = true;
           const retention = parseFloat(closest.avg_price_retention_cumulative).toFixed(2);
           const weekNum = parseInt(closest.week_number);
