@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 11:35 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 11:37 (CET)</span>
               </div>
           </div>
         </section>
@@ -4137,7 +4137,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
   const activeValues = weeklySoldData.map(item => item.active_listings);
   const pctValues = weeklySoldData.map(item => item.sold_pct);
 
-  function initWeeklyChart() {  
+  function initWeeklyChart() {
     const MAX_POINTS = 60;
     let labelsOpt = labels;
     let valuesOpt = values;
@@ -4181,10 +4181,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         enterable: false,
         textStyle: { color: '#fff' },
         padding: 10,
-        axisPointer: {
-          type: 'line',
-          lineStyle: { color: 'transparent', width: 0 }
-        },
+        axisPointer: { show: false },
         formatter: function(params) {
           const idx = params[0].dataIndex;
           let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">' + params[0].axisValue + '</div>';
@@ -4201,7 +4198,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
 
             let displayVal;
             if (name === 'Active Listings') {
-              displayVal = activeOpt[idx].toLocaleString(); 
+              displayVal = activeOpt[idx].toLocaleString();
             } else if (name === 'Rotation %') {
               displayVal = p.value + '%';
             } else {
@@ -4278,7 +4275,8 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
           data: activeOpt,
           barMaxWidth: 20,
           itemStyle: { color: activeColor, borderRadius: [2, 2, 0, 0] },
-          emphasis: { disabled: true }
+          emphasis: { disabled: true },
+          silent: true
         },
         {
           name: 'P. Sold',
@@ -4310,6 +4308,25 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
     };
 
     chart.setOption(options);
+
+    const chartDom = document.getElementById('weeklyChart');
+    const lineEl = document.createElement('div');
+    lineEl.style.cssText = 'position:absolute;top:36px;width:1px;pointer-events:none;background:rgba(255,255,255,0.25);display:none;z-index:10;';
+    chartDom.style.position = 'relative';
+    chartDom.appendChild(lineEl);
+
+    chart.on('showTip', function(e) {
+      if (e.dataIndex === undefined) return;
+      const pt = chart.convertToPixel({ xAxisIndex: 0 }, e.dataIndex);
+      const h = chartDom.clientHeight - 36 - 20;
+      lineEl.style.left = pt + 'px';
+      lineEl.style.height = h + 'px';
+      lineEl.style.display = 'block';
+    });
+
+    chart.on('hideTip', function() {
+      lineEl.style.display = 'none';
+    });
   }
 
   const chartContainer = document.getElementById('weeklyChart');
@@ -4350,7 +4367,6 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
 
     const colorContracts = '#4FC3F7';
     const colorListings = '#81C784';
-    const colorCancel = 'rgba(255,152,0,';
 
     const options = {
       animation: false,
@@ -4365,10 +4381,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         borderWidth: 1,
         textStyle: { color: '#fff', fontSize: 12 },
         padding: 10,
-        axisPointer: {
-          type: 'line',
-          lineStyle: { color: 'transparent', width: 0 }
-        },
+        axisPointer: { show: false },
         formatter: function(params) {
           var result = '<div style="margin-bottom:6px;font-weight:600;">' + params[0].axisValue + '</div>';
           params.forEach(function(p) {
@@ -4411,8 +4424,7 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
         axisLabel: {
           color: '#aaa',
           fontSize: 11,
-          rotate: 30,
-          interval: 0
+          rotate: 30
         },
         splitLine: { show: false }
       },
@@ -4464,7 +4476,8 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
             borderWidth: 1,
             borderRadius: [3, 3, 0, 0]
           },
-          emphasis: { disabled: true }
+          emphasis: { disabled: true },
+          silent: true
         },
         {
           name: 'Cancellations (10%)',
@@ -4477,7 +4490,8 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
           symbol: 'none',
           lineStyle: { color: 'rgba(255,152,0,0.5)', width: 1, type: 'dashed' },
           areaStyle: null,
-          emphasis: { disabled: true }
+          emphasis: { disabled: true },
+          silent: true
         },
         {
           name: 'Cancellations (20%)',
@@ -4499,12 +4513,33 @@ Literally to the moon. 35% CAGR over the next 15 years according to Morgan Stanl
             },
             origin: 'start'
           },
-          emphasis: { disabled: true }
+          emphasis: { disabled: true },
+          silent: true
         }
       ]
     };
 
     chart.setOption(options);
+
+    const chartDom = document.getElementById('acqListingsChart');
+    const lineEl = document.createElement('div');
+    lineEl.style.cssText = 'position:absolute;top:36px;width:1px;pointer-events:none;background:rgba(255,255,255,0.25);display:none;z-index:10;';
+    chartDom.style.position = 'relative';
+    chartDom.appendChild(lineEl);
+
+    chart.on('showTip', function(e) {
+      if (e.dataIndex === undefined) return;
+      const pt = chart.convertToPixel({ xAxisIndex: 0 }, e.dataIndex);
+      const h = chartDom.clientHeight - 36 - 20;
+      lineEl.style.left = pt + 'px';
+      lineEl.style.height = h + 'px';
+      lineEl.style.display = 'block';
+    });
+
+    chart.on('hideTip', function() {
+      lineEl.style.display = 'none';
+    });
+
     const onResize = () => chart.resize();
     window.addEventListener('resize', onResize);
   }
