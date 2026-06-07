@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 15:01 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 15:04 (CET)</span>
               </div>
           </div>
         </section>
@@ -4830,7 +4830,7 @@ We discussed AI, tokenization, new partnerships, capital markets, ancillary serv
         if (closest) {
           hasData = true;
           const retention = parseFloat(closest.avg_price_retention_cumulative).toFixed(2);
-          const avgDays = parseFloat(closest.avg_days_to_sell_cumulative).toFixed(0);
+          const avgDays = Math.abs(parseFloat(closest.avg_days_to_sell_cumulative)).toFixed(0);
           const weekNum = parseInt(closest.week_number);
 
           html += '<div style="display:flex;justify-content:space-between;gap:20px;margin:3px 0;align-items:center;">'
