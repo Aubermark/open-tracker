@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 14:05 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 14:08 (CET)</span>
               </div>
           </div>
         </section>
@@ -4801,7 +4801,7 @@ If there are enough people moving they could trade houses (across groups of peop
         }));
 
         // Si el ratón está más allá del último punto de este cohort no mostrar
-        if (pctValue > maxPctSold + 2) return;
+        if (pctValue > maxPctSold + 0.5) return;
 
         let closest = null;
         let closestDist = Infinity;
@@ -4813,7 +4813,7 @@ If there are enough people moving they could trade houses (across groups of peop
           }
         });
 
-        if (closest && closestDist < 2) {
+        if (closest && closestDist < 1) {
           hasData = true;
           const retention = parseFloat(closest.avg_price_retention_cumulative).toFixed(2);
           const weekNum = parseInt(closest.week_number);
