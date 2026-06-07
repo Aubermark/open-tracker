@@ -2585,7 +2585,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 21:20 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 21:25 (CET)</span>
               </div>
           </div>
         </section>
@@ -3451,6 +3451,85 @@
               </div>
               </div>
             <div id="cohortChart" style="width:100%; height:420px; margin-top:15px;"></div>
+
+            <!-- Cohort summary table -->
+            <div style="margin-top:20px;border-top:1px solid rgba(255,255,255,0.06);padding-top:16px;">
+              <div class="card-title" style="font-size:12px;margin-bottom:4px;">COHORT SUMMARY — Current State</div>
+              <div class="card-subtitle" style="font-size:11px;">Last available data point per cohort. Avg Days and Retention are cumulative weighted values.</div>
+              
+    <table class="dashboard-table" style="margin-top:16px;">
+      <thead>
+        <tr>
+          <th style="text-align:left;">Cohort</th>
+          <th>Size</th>
+          <th>Sold</th>
+          <th>% Sold</th>
+          <th>Avg Price</th>
+          <th>Median Price</th>
+          <th>Avg Days</th>
+          <th>Retention</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+      <tr>
+        <td style="color:#a78bfa;font-weight:700;">● Mar 26</td>
+        <td class="num-cell">798</td>
+        <td class="num-cell">531</td>
+        <td class="num-cell">66.5%</td>
+        <td class="price-cell-normal">$423K</td>
+        <td class="price-cell-normal">$357K</td>
+        <td class="num-cell">36d</td>
+        <td style="text-align:center;font-weight:700;color:#f87171;">
+          96.64%
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="color:#818cf8;font-weight:700;">● Apr 26</td>
+        <td class="num-cell">852</td>
+        <td class="num-cell">375</td>
+        <td class="num-cell">44.0%</td>
+        <td class="price-cell-normal">$426K</td>
+        <td class="price-cell-normal">$368K</td>
+        <td class="num-cell">25d</td>
+        <td style="text-align:center;font-weight:700;color:#f87171;">
+          96.79%
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="color:#60a5fa;font-weight:700;">● May 26</td>
+        <td class="num-cell">959</td>
+        <td class="num-cell">247</td>
+        <td class="num-cell">25.8%</td>
+        <td class="price-cell-normal">$420K</td>
+        <td class="price-cell-normal">$362K</td>
+        <td class="num-cell">11d</td>
+        <td style="text-align:center;font-weight:700;color:#4ade80;">
+          99.58%
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="color:#38bdf8;font-weight:700;">● Jun 26</td>
+        <td class="num-cell">282</td>
+        <td class="num-cell">10</td>
+        <td class="num-cell">3.5%</td>
+        <td class="price-cell-normal">$412K</td>
+        <td class="price-cell-normal">$358K</td>
+        <td class="num-cell">2d</td>
+        <td style="text-align:center;font-weight:700;color:#4ade80;">
+          100.00%
+        </td>
+      </tr>
+    
+      </tbody>
+    </table>
+  
+            </div>
+
+
           </div>
         </section>
 
@@ -4684,7 +4763,7 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
 
 
 <script>
-  const cohortRawData = [{"cohort_month":"2026-03-01","week_number":0,"total_properties":798,"total_sold":"531","sold_this_week":77,"sold_cumulative":"77","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.5","avg_days_to_sell_cumulative":"3.5","pct_sold_cumulative":"9.65","pct_remaining":"90.35"},{"cohort_month":"2026-03-01","week_number":1,"total_properties":798,"total_sold":"531","sold_this_week":64,"sold_cumulative":"141","avg_price_retention_cumulative":"99.91","avg_price_retention_week":"99.81","avg_cuts_week":"0.06","avg_days_to_sell_week":"9.9","avg_days_to_sell_cumulative":"6.4","pct_sold_cumulative":"17.67","pct_remaining":"82.33"},{"cohort_month":"2026-03-01","week_number":2,"total_properties":798,"total_sold":"531","sold_this_week":49,"sold_cumulative":"190","avg_price_retention_cumulative":"99.84","avg_price_retention_week":"99.72","avg_cuts_week":"0.14","avg_days_to_sell_week":"17.0","avg_days_to_sell_cumulative":"9.1","pct_sold_cumulative":"23.81","pct_remaining":"76.19"},{"cohort_month":"2026-03-01","week_number":3,"total_properties":798,"total_sold":"531","sold_this_week":42,"sold_cumulative":"232","avg_price_retention_cumulative":"99.61","avg_price_retention_week":"98.90","avg_cuts_week":"0.50","avg_days_to_sell_week":"23.6","avg_days_to_sell_cumulative":"11.7","pct_sold_cumulative":"29.07","pct_remaining":"70.93"},{"cohort_month":"2026-03-01","week_number":4,"total_properties":798,"total_sold":"531","sold_this_week":36,"sold_cumulative":"268","avg_price_retention_cumulative":"99.28","avg_price_retention_week":"97.97","avg_cuts_week":"0.81","avg_days_to_sell_week":"31.0","avg_days_to_sell_cumulative":"14.3","pct_sold_cumulative":"33.58","pct_remaining":"66.42"},{"cohort_month":"2026-03-01","week_number":5,"total_properties":798,"total_sold":"531","sold_this_week":48,"sold_cumulative":"316","avg_price_retention_cumulative":"98.96","avg_price_retention_week":"97.38","avg_cuts_week":"1.13","avg_days_to_sell_week":"37.1","avg_days_to_sell_cumulative":"17.8","pct_sold_cumulative":"39.60","pct_remaining":"60.40"},{"cohort_month":"2026-03-01","week_number":6,"total_properties":798,"total_sold":"531","sold_this_week":40,"sold_cumulative":"356","avg_price_retention_cumulative":"98.73","avg_price_retention_week":"97.33","avg_cuts_week":"1.20","avg_days_to_sell_week":"44.9","avg_days_to_sell_cumulative":"20.8","pct_sold_cumulative":"44.61","pct_remaining":"55.39"},{"cohort_month":"2026-03-01","week_number":7,"total_properties":798,"total_sold":"531","sold_this_week":39,"sold_cumulative":"395","avg_price_retention_cumulative":"98.47","avg_price_retention_week":"96.68","avg_cuts_week":"1.51","avg_days_to_sell_week":"51.7","avg_days_to_sell_cumulative":"23.9","pct_sold_cumulative":"49.50","pct_remaining":"50.50"},{"cohort_month":"2026-03-01","week_number":8,"total_properties":798,"total_sold":"531","sold_this_week":32,"sold_cumulative":"427","avg_price_retention_cumulative":"98.06","avg_price_retention_week":"94.79","avg_cuts_week":"2.00","avg_days_to_sell_week":"58.8","avg_days_to_sell_cumulative":"26.5","pct_sold_cumulative":"53.51","pct_remaining":"46.49"},{"cohort_month":"2026-03-01","week_number":9,"total_properties":798,"total_sold":"531","sold_this_week":27,"sold_cumulative":"454","avg_price_retention_cumulative":"97.83","avg_price_retention_week":"95.71","avg_cuts_week":"1.85","avg_days_to_sell_week":"66.4","avg_days_to_sell_cumulative":"28.9","pct_sold_cumulative":"56.89","pct_remaining":"43.11"},{"cohort_month":"2026-03-01","week_number":10,"total_properties":798,"total_sold":"531","sold_this_week":27,"sold_cumulative":"481","avg_price_retention_cumulative":"97.46","avg_price_retention_week":"93.72","avg_cuts_week":"2.59","avg_days_to_sell_week":"73.0","avg_days_to_sell_cumulative":"31.3","pct_sold_cumulative":"60.28","pct_remaining":"39.72"},{"cohort_month":"2026-03-01","week_number":11,"total_properties":798,"total_sold":"531","sold_this_week":25,"sold_cumulative":"506","avg_price_retention_cumulative":"97.17","avg_price_retention_week":"94.00","avg_cuts_week":"2.44","avg_days_to_sell_week":"79.7","avg_days_to_sell_cumulative":"33.7","pct_sold_cumulative":"63.41","pct_remaining":"36.59"},{"cohort_month":"2026-03-01","week_number":12,"total_properties":798,"total_sold":"531","sold_this_week":19,"sold_cumulative":"525","avg_price_retention_cumulative":"96.94","avg_price_retention_week":"94.17","avg_cuts_week":"3.00","avg_days_to_sell_week":"86.2","avg_days_to_sell_cumulative":"35.6","pct_sold_cumulative":"65.79","pct_remaining":"34.21"},{"cohort_month":"2026-03-01","week_number":13,"total_properties":798,"total_sold":"531","sold_this_week":6,"sold_cumulative":"531","avg_price_retention_cumulative":"96.64","avg_price_retention_week":"92.77","avg_cuts_week":"3.33","avg_days_to_sell_week":"93.0","avg_days_to_sell_cumulative":"36.3","pct_sold_cumulative":"66.54","pct_remaining":"33.46"},{"cohort_month":"2026-04-01","week_number":0,"total_properties":852,"total_sold":"375","sold_this_week":70,"sold_cumulative":"70","avg_price_retention_cumulative":"99.98","avg_price_retention_week":"99.98","avg_cuts_week":"0.01","avg_days_to_sell_week":"3.9","avg_days_to_sell_cumulative":"3.9","pct_sold_cumulative":"8.22","pct_remaining":"91.78"},{"cohort_month":"2026-04-01","week_number":1,"total_properties":852,"total_sold":"375","sold_this_week":64,"sold_cumulative":"134","avg_price_retention_cumulative":"99.89","avg_price_retention_week":"99.80","avg_cuts_week":"0.09","avg_days_to_sell_week":"9.6","avg_days_to_sell_cumulative":"6.6","pct_sold_cumulative":"15.73","pct_remaining":"84.27"},{"cohort_month":"2026-04-01","week_number":2,"total_properties":852,"total_sold":"375","sold_this_week":44,"sold_cumulative":"178","avg_price_retention_cumulative":"99.72","avg_price_retention_week":"99.38","avg_cuts_week":"0.23","avg_days_to_sell_week":"17.2","avg_days_to_sell_cumulative":"9.3","pct_sold_cumulative":"20.89","pct_remaining":"79.11"},{"cohort_month":"2026-04-01","week_number":3,"total_properties":852,"total_sold":"375","sold_this_week":38,"sold_cumulative":"216","avg_price_retention_cumulative":"99.37","avg_price_retention_week":"98.32","avg_cuts_week":"0.63","avg_days_to_sell_week":"24.4","avg_days_to_sell_cumulative":"11.9","pct_sold_cumulative":"25.35","pct_remaining":"74.65"},{"cohort_month":"2026-04-01","week_number":4,"total_properties":852,"total_sold":"375","sold_this_week":39,"sold_cumulative":"255","avg_price_retention_cumulative":"99.09","avg_price_retention_week":"97.97","avg_cuts_week":"0.82","avg_days_to_sell_week":"30.8","avg_days_to_sell_cumulative":"14.8","pct_sold_cumulative":"29.93","pct_remaining":"70.07"},{"cohort_month":"2026-04-01","week_number":5,"total_properties":852,"total_sold":"375","sold_this_week":44,"sold_cumulative":"299","avg_price_retention_cumulative":"98.74","avg_price_retention_week":"97.01","avg_cuts_week":"1.14","avg_days_to_sell_week":"38.1","avg_days_to_sell_cumulative":"18.2","pct_sold_cumulative":"35.09","pct_remaining":"64.91"},{"cohort_month":"2026-04-01","week_number":6,"total_properties":852,"total_sold":"375","sold_this_week":33,"sold_cumulative":"332","avg_price_retention_cumulative":"98.33","avg_price_retention_week":"95.82","avg_cuts_week":"1.64","avg_days_to_sell_week":"45.0","avg_days_to_sell_cumulative":"20.9","pct_sold_cumulative":"38.97","pct_remaining":"61.03"},{"cohort_month":"2026-04-01","week_number":7,"total_properties":852,"total_sold":"375","sold_this_week":28,"sold_cumulative":"360","avg_price_retention_cumulative":"97.89","avg_price_retention_week":"94.80","avg_cuts_week":"1.96","avg_days_to_sell_week":"51.3","avg_days_to_sell_cumulative":"23.3","pct_sold_cumulative":"42.25","pct_remaining":"57.75"},{"cohort_month":"2026-04-01","week_number":8,"total_properties":852,"total_sold":"375","sold_this_week":11,"sold_cumulative":"371","avg_price_retention_cumulative":"97.49","avg_price_retention_week":"94.28","avg_cuts_week":"2.36","avg_days_to_sell_week":"58.5","avg_days_to_sell_cumulative":"24.3","pct_sold_cumulative":"43.54","pct_remaining":"56.46"},{"cohort_month":"2026-04-01","week_number":9,"total_properties":852,"total_sold":"375","sold_this_week":4,"sold_cumulative":"375","avg_price_retention_cumulative":"96.79","avg_price_retention_week":"90.49","avg_cuts_week":"3.50","avg_days_to_sell_week":"63.5","avg_days_to_sell_cumulative":"24.7","pct_sold_cumulative":"44.01","pct_remaining":"55.99"},{"cohort_month":"2026-05-01","week_number":0,"total_properties":959,"total_sold":"247","sold_this_week":98,"sold_cumulative":"98","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.7","avg_days_to_sell_cumulative":"3.7","pct_sold_cumulative":"10.22","pct_remaining":"89.78"},{"cohort_month":"2026-05-01","week_number":1,"total_properties":959,"total_sold":"247","sold_this_week":75,"sold_cumulative":"173","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"9.4","avg_days_to_sell_cumulative":"6.2","pct_sold_cumulative":"18.04","pct_remaining":"81.96"},{"cohort_month":"2026-05-01","week_number":2,"total_properties":959,"total_sold":"247","sold_this_week":24,"sold_cumulative":"197","avg_price_retention_cumulative":"99.80","avg_price_retention_week":"99.41","avg_cuts_week":"0.25","avg_days_to_sell_week":"17.4","avg_days_to_sell_cumulative":"7.6","pct_sold_cumulative":"20.54","pct_remaining":"79.46"},{"cohort_month":"2026-05-01","week_number":3,"total_properties":959,"total_sold":"247","sold_this_week":38,"sold_cumulative":"235","avg_price_retention_cumulative":"99.67","avg_price_retention_week":"99.28","avg_cuts_week":"0.34","avg_days_to_sell_week":"23.4","avg_days_to_sell_cumulative":"10.1","pct_sold_cumulative":"24.50","pct_remaining":"75.50"},{"cohort_month":"2026-05-01","week_number":4,"total_properties":959,"total_sold":"247","sold_this_week":12,"sold_cumulative":"247","avg_price_retention_cumulative":"99.58","avg_price_retention_week":"99.22","avg_cuts_week":"0.42","avg_days_to_sell_week":"30.7","avg_days_to_sell_cumulative":"11.1","pct_sold_cumulative":"25.76","pct_remaining":"74.24"},{"cohort_month":"2026-06-01","week_number":0,"total_properties":282,"total_sold":"10","sold_this_week":10,"sold_cumulative":"10","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"1.9","avg_days_to_sell_cumulative":"1.9","pct_sold_cumulative":"3.55","pct_remaining":"96.45"}];
+  const cohortRawData = [{"cohort_month":"2026-03-01","week_number":0,"total_properties":798,"total_sold":"531","sold_this_week":77,"sold_cumulative":"77","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.5","avg_days_to_sell_cumulative":"3.5","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"9.65","pct_remaining":"90.35"},{"cohort_month":"2026-03-01","week_number":1,"total_properties":798,"total_sold":"531","sold_this_week":64,"sold_cumulative":"141","avg_price_retention_cumulative":"99.91","avg_price_retention_week":"99.81","avg_cuts_week":"0.06","avg_days_to_sell_week":"9.9","avg_days_to_sell_cumulative":"6.4","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"17.67","pct_remaining":"82.33"},{"cohort_month":"2026-03-01","week_number":2,"total_properties":798,"total_sold":"531","sold_this_week":49,"sold_cumulative":"190","avg_price_retention_cumulative":"99.84","avg_price_retention_week":"99.72","avg_cuts_week":"0.14","avg_days_to_sell_week":"17.0","avg_days_to_sell_cumulative":"9.1","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"23.81","pct_remaining":"76.19"},{"cohort_month":"2026-03-01","week_number":3,"total_properties":798,"total_sold":"531","sold_this_week":42,"sold_cumulative":"232","avg_price_retention_cumulative":"99.61","avg_price_retention_week":"98.90","avg_cuts_week":"0.50","avg_days_to_sell_week":"23.6","avg_days_to_sell_cumulative":"11.7","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"29.07","pct_remaining":"70.93"},{"cohort_month":"2026-03-01","week_number":4,"total_properties":798,"total_sold":"531","sold_this_week":36,"sold_cumulative":"268","avg_price_retention_cumulative":"99.28","avg_price_retention_week":"97.97","avg_cuts_week":"0.81","avg_days_to_sell_week":"31.0","avg_days_to_sell_cumulative":"14.3","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"33.58","pct_remaining":"66.42"},{"cohort_month":"2026-03-01","week_number":5,"total_properties":798,"total_sold":"531","sold_this_week":48,"sold_cumulative":"316","avg_price_retention_cumulative":"98.96","avg_price_retention_week":"97.38","avg_cuts_week":"1.13","avg_days_to_sell_week":"37.1","avg_days_to_sell_cumulative":"17.8","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"39.60","pct_remaining":"60.40"},{"cohort_month":"2026-03-01","week_number":6,"total_properties":798,"total_sold":"531","sold_this_week":40,"sold_cumulative":"356","avg_price_retention_cumulative":"98.73","avg_price_retention_week":"97.33","avg_cuts_week":"1.20","avg_days_to_sell_week":"44.9","avg_days_to_sell_cumulative":"20.8","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"44.61","pct_remaining":"55.39"},{"cohort_month":"2026-03-01","week_number":7,"total_properties":798,"total_sold":"531","sold_this_week":39,"sold_cumulative":"395","avg_price_retention_cumulative":"98.47","avg_price_retention_week":"96.68","avg_cuts_week":"1.51","avg_days_to_sell_week":"51.7","avg_days_to_sell_cumulative":"23.9","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"49.50","pct_remaining":"50.50"},{"cohort_month":"2026-03-01","week_number":8,"total_properties":798,"total_sold":"531","sold_this_week":32,"sold_cumulative":"427","avg_price_retention_cumulative":"98.06","avg_price_retention_week":"94.79","avg_cuts_week":"2.00","avg_days_to_sell_week":"58.8","avg_days_to_sell_cumulative":"26.5","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"53.51","pct_remaining":"46.49"},{"cohort_month":"2026-03-01","week_number":9,"total_properties":798,"total_sold":"531","sold_this_week":27,"sold_cumulative":"454","avg_price_retention_cumulative":"97.83","avg_price_retention_week":"95.71","avg_cuts_week":"1.85","avg_days_to_sell_week":"66.4","avg_days_to_sell_cumulative":"28.9","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"56.89","pct_remaining":"43.11"},{"cohort_month":"2026-03-01","week_number":10,"total_properties":798,"total_sold":"531","sold_this_week":27,"sold_cumulative":"481","avg_price_retention_cumulative":"97.46","avg_price_retention_week":"93.72","avg_cuts_week":"2.59","avg_days_to_sell_week":"73.0","avg_days_to_sell_cumulative":"31.3","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"60.28","pct_remaining":"39.72"},{"cohort_month":"2026-03-01","week_number":11,"total_properties":798,"total_sold":"531","sold_this_week":25,"sold_cumulative":"506","avg_price_retention_cumulative":"97.17","avg_price_retention_week":"94.00","avg_cuts_week":"2.44","avg_days_to_sell_week":"79.7","avg_days_to_sell_cumulative":"33.7","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"63.41","pct_remaining":"36.59"},{"cohort_month":"2026-03-01","week_number":12,"total_properties":798,"total_sold":"531","sold_this_week":19,"sold_cumulative":"525","avg_price_retention_cumulative":"96.94","avg_price_retention_week":"94.17","avg_cuts_week":"3.00","avg_days_to_sell_week":"86.2","avg_days_to_sell_cumulative":"35.6","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"65.79","pct_remaining":"34.21"},{"cohort_month":"2026-03-01","week_number":13,"total_properties":798,"total_sold":"531","sold_this_week":6,"sold_cumulative":"531","avg_price_retention_cumulative":"96.64","avg_price_retention_week":"92.77","avg_cuts_week":"3.33","avg_days_to_sell_week":"93.0","avg_days_to_sell_cumulative":"36.3","avg_initial_price_cohort":"423472","median_initial_price_cohort":"356500","pct_sold_cumulative":"66.54","pct_remaining":"33.46"},{"cohort_month":"2026-04-01","week_number":0,"total_properties":852,"total_sold":"375","sold_this_week":70,"sold_cumulative":"70","avg_price_retention_cumulative":"99.98","avg_price_retention_week":"99.98","avg_cuts_week":"0.01","avg_days_to_sell_week":"3.9","avg_days_to_sell_cumulative":"3.9","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"8.22","pct_remaining":"91.78"},{"cohort_month":"2026-04-01","week_number":1,"total_properties":852,"total_sold":"375","sold_this_week":64,"sold_cumulative":"134","avg_price_retention_cumulative":"99.89","avg_price_retention_week":"99.80","avg_cuts_week":"0.09","avg_days_to_sell_week":"9.6","avg_days_to_sell_cumulative":"6.6","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"15.73","pct_remaining":"84.27"},{"cohort_month":"2026-04-01","week_number":2,"total_properties":852,"total_sold":"375","sold_this_week":44,"sold_cumulative":"178","avg_price_retention_cumulative":"99.72","avg_price_retention_week":"99.38","avg_cuts_week":"0.23","avg_days_to_sell_week":"17.2","avg_days_to_sell_cumulative":"9.3","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"20.89","pct_remaining":"79.11"},{"cohort_month":"2026-04-01","week_number":3,"total_properties":852,"total_sold":"375","sold_this_week":38,"sold_cumulative":"216","avg_price_retention_cumulative":"99.37","avg_price_retention_week":"98.32","avg_cuts_week":"0.63","avg_days_to_sell_week":"24.4","avg_days_to_sell_cumulative":"11.9","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"25.35","pct_remaining":"74.65"},{"cohort_month":"2026-04-01","week_number":4,"total_properties":852,"total_sold":"375","sold_this_week":39,"sold_cumulative":"255","avg_price_retention_cumulative":"99.09","avg_price_retention_week":"97.97","avg_cuts_week":"0.82","avg_days_to_sell_week":"30.8","avg_days_to_sell_cumulative":"14.8","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"29.93","pct_remaining":"70.07"},{"cohort_month":"2026-04-01","week_number":5,"total_properties":852,"total_sold":"375","sold_this_week":44,"sold_cumulative":"299","avg_price_retention_cumulative":"98.74","avg_price_retention_week":"97.01","avg_cuts_week":"1.14","avg_days_to_sell_week":"38.1","avg_days_to_sell_cumulative":"18.2","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"35.09","pct_remaining":"64.91"},{"cohort_month":"2026-04-01","week_number":6,"total_properties":852,"total_sold":"375","sold_this_week":33,"sold_cumulative":"332","avg_price_retention_cumulative":"98.33","avg_price_retention_week":"95.82","avg_cuts_week":"1.64","avg_days_to_sell_week":"45.0","avg_days_to_sell_cumulative":"20.9","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"38.97","pct_remaining":"61.03"},{"cohort_month":"2026-04-01","week_number":7,"total_properties":852,"total_sold":"375","sold_this_week":28,"sold_cumulative":"360","avg_price_retention_cumulative":"97.89","avg_price_retention_week":"94.80","avg_cuts_week":"1.96","avg_days_to_sell_week":"51.3","avg_days_to_sell_cumulative":"23.3","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"42.25","pct_remaining":"57.75"},{"cohort_month":"2026-04-01","week_number":8,"total_properties":852,"total_sold":"375","sold_this_week":11,"sold_cumulative":"371","avg_price_retention_cumulative":"97.49","avg_price_retention_week":"94.28","avg_cuts_week":"2.36","avg_days_to_sell_week":"58.5","avg_days_to_sell_cumulative":"24.3","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"43.54","pct_remaining":"56.46"},{"cohort_month":"2026-04-01","week_number":9,"total_properties":852,"total_sold":"375","sold_this_week":4,"sold_cumulative":"375","avg_price_retention_cumulative":"96.79","avg_price_retention_week":"90.49","avg_cuts_week":"3.50","avg_days_to_sell_week":"63.5","avg_days_to_sell_cumulative":"24.7","avg_initial_price_cohort":"426353","median_initial_price_cohort":"367500","pct_sold_cumulative":"44.01","pct_remaining":"55.99"},{"cohort_month":"2026-05-01","week_number":0,"total_properties":959,"total_sold":"247","sold_this_week":98,"sold_cumulative":"98","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"3.7","avg_days_to_sell_cumulative":"3.7","avg_initial_price_cohort":"420166","median_initial_price_cohort":"362000","pct_sold_cumulative":"10.22","pct_remaining":"89.78"},{"cohort_month":"2026-05-01","week_number":1,"total_properties":959,"total_sold":"247","sold_this_week":75,"sold_cumulative":"173","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"9.4","avg_days_to_sell_cumulative":"6.2","avg_initial_price_cohort":"420166","median_initial_price_cohort":"362000","pct_sold_cumulative":"18.04","pct_remaining":"81.96"},{"cohort_month":"2026-05-01","week_number":2,"total_properties":959,"total_sold":"247","sold_this_week":24,"sold_cumulative":"197","avg_price_retention_cumulative":"99.80","avg_price_retention_week":"99.41","avg_cuts_week":"0.25","avg_days_to_sell_week":"17.4","avg_days_to_sell_cumulative":"7.6","avg_initial_price_cohort":"420166","median_initial_price_cohort":"362000","pct_sold_cumulative":"20.54","pct_remaining":"79.46"},{"cohort_month":"2026-05-01","week_number":3,"total_properties":959,"total_sold":"247","sold_this_week":38,"sold_cumulative":"235","avg_price_retention_cumulative":"99.67","avg_price_retention_week":"99.28","avg_cuts_week":"0.34","avg_days_to_sell_week":"23.4","avg_days_to_sell_cumulative":"10.1","avg_initial_price_cohort":"420166","median_initial_price_cohort":"362000","pct_sold_cumulative":"24.50","pct_remaining":"75.50"},{"cohort_month":"2026-05-01","week_number":4,"total_properties":959,"total_sold":"247","sold_this_week":12,"sold_cumulative":"247","avg_price_retention_cumulative":"99.58","avg_price_retention_week":"99.22","avg_cuts_week":"0.42","avg_days_to_sell_week":"30.7","avg_days_to_sell_cumulative":"11.1","avg_initial_price_cohort":"420166","median_initial_price_cohort":"362000","pct_sold_cumulative":"25.76","pct_remaining":"74.24"},{"cohort_month":"2026-06-01","week_number":0,"total_properties":282,"total_sold":"10","sold_this_week":10,"sold_cumulative":"10","avg_price_retention_cumulative":"100.00","avg_price_retention_week":"100.00","avg_cuts_week":"0.00","avg_days_to_sell_week":"1.9","avg_days_to_sell_cumulative":"1.9","avg_initial_price_cohort":"412124","median_initial_price_cohort":"358000","pct_sold_cumulative":"3.55","pct_remaining":"96.45"}];
 
   const cohortMap = {};
   cohortRawData.forEach(function(row) {
@@ -4711,7 +4790,6 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
 
     const months = Object.keys(cohortMap).sort();
 
-    // Calcular min dinámico con margen de 2 puntos por debajo del mínimo real
     const allRetentions = cohortRawData.map(function(row) {
       return parseFloat(row.avg_price_retention_cumulative);
     }).filter(function(v) { return !isNaN(v); });
@@ -4719,11 +4797,9 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
     const minRetention = Math.min(...allRetentions);
     const dynamicMin = Math.floor(minRetention) - 2;
 
-    // Tamaño de cada cohort (total_properties del último registro de cada mes)
     const cohortSizes = {};
     months.forEach(function(month) {
       const data = cohortMap[month];
-      // total_properties es el mismo en todas las filas del cohort, cogemos el primero
       cohortSizes[month] = parseInt(data[0].total_properties) || 0;
     });
 
@@ -4759,7 +4835,6 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
         emphasis: { disabled: true },
         endLabel: {
           show: true,
-          // Opción 4: label + tamaño del cohort
           formatter: label + ' · ' + size.toLocaleString(),
           color: color,
           fontSize: 10,
@@ -4776,23 +4851,12 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
       tooltip: { show: false },
 
       legend: {
-        // Opción 1: nombre + tamaño en la leyenda
         data: months.map(function(month) {
           const d = new Date(month + '-02');
           const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
-          return {
-            name: label,
-            icon: 'circle'
-          };
+          return { name: label, icon: 'circle' };
         }),
-        formatter: function(name) {
-          const month = months.find(function(m) {
-            const d = new Date(m + '-02');
-            return d.toLocaleString('en-US', { month: 'short', year: '2-digit' }) === name;
-          });
-          const size = month ? cohortSizes[month] : 0;
-          return name;
-        },
+        formatter: function(name) { return name; },
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
         itemWidth: 20,
@@ -4846,13 +4910,11 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
 
     const chartDom = document.getElementById('cohortChart');
 
-    // Línea vertical indicadora
     const lineEl = document.createElement('div');
     lineEl.style.cssText = 'position:absolute;top:36px;width:1px;pointer-events:none;background:rgba(255,255,255,0.20);display:none;z-index:10;';
     chartDom.style.position = 'relative';
     chartDom.appendChild(lineEl);
 
-    // Tooltip manual
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.80);border:1px solid #38bdf8;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
@@ -4869,7 +4931,6 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
         return;
       }
 
-      // Línea vertical indicadora
       const h = chartDom.clientHeight - 36 - 30;
       lineEl.style.left = mouseX + 'px';
       lineEl.style.height = h + 'px';
@@ -4877,13 +4938,11 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
 
       let html = '<div style="margin-bottom:8px;font-weight:600;font-size:12px;border-bottom:1px solid rgba(255,255,255,0.15);padding-bottom:6px;">% Sold: ' + pctValue.toFixed(1) + '%</div>';
 
-      // Cabecera de columnas — Opción 2: añade SIZE
       html += '<div style="display:flex;justify-content:space-between;gap:16px;margin-bottom:4px;opacity:0.45;font-size:10px;text-transform:uppercase;letter-spacing:0.08em;">'
             + '<span style="min-width:52px;">Cohort</span>'
             + '<span style="min-width:52px;text-align:right;">Retention</span>'
             + '<span style="min-width:36px;text-align:right;">Avg days</span>'
             + '<span style="min-width:24px;text-align:right;">Week</span>'
-            + '<span style="min-width:44px;text-align:right;">Size</span>'
             + '</div>';
 
       let hasData = false;
@@ -4894,7 +4953,6 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
         const color = cohortColors[idx % cohortColors.length];
         const d = new Date(month + '-02');
         const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
-        const size = cohortSizes[month];
 
         const maxPctSold = Math.max(...data.map(function(row) {
           return parseFloat(row.pct_sold_cumulative);
@@ -4923,7 +4981,6 @@ cc: <a href="https://twitter.com/MikeBillettJr?ref_src=twsrc%5Etfw">@MikeBillett
                 + '<span style="font-weight:700;min-width:52px;text-align:right;">' + retention + '%</span>'
                 + '<span style="opacity:0.7;min-width:36px;text-align:right;font-size:11px;">' + avgDays + 'd</span>'
                 + '<span style="opacity:0.45;min-width:24px;text-align:right;font-size:11px;">W' + weekNum + '</span>'
-                + '<span style="opacity:0.6;min-width:44px;text-align:right;font-size:11px;">' + size.toLocaleString() + ' 🏠</span>'
                 + '</div>';
         }
       });
