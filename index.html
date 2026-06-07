@@ -2557,7 +2557,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">07/06/2026, 10:00 (CET)</span>
+                <span class="hero-meta-value">07/06/2026, 10:02 (CET)</span>
               </div>
           </div>
         </section>
@@ -4167,12 +4167,14 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
     const options = {
       animation: false,
       backgroundColor: 'transparent',
-
+      progressive: 0,
       tooltip: {
         trigger: 'axis',
         backgroundColor: 'rgba(0,0,0,0.75)',
         borderColor: lineColor,
         borderWidth: 1,
+        throttle: 50,
+        enterable: false,
         textStyle: { color: '#fff' },
         padding: 10,
         axisPointer: {
@@ -4349,11 +4351,13 @@ I’ll start first. It’s <a href="https://twitter.com/search?q=%24OPEN&src=cta
     const options = {
       animation: false,
       backgroundColor: 'transparent',
-
+      progressive: 0,
       tooltip: {
         trigger: 'axis',
         backgroundColor: 'rgba(0,0,0,0.75)',
         borderColor: '#4FC3F7',
+        throttle: 50,
+        enterable: false,
         borderWidth: 1,
         textStyle: { color: '#fff', fontSize: 12 },
         padding: 10,
