@@ -1159,27 +1159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0852e820-c300-5e19-aad6-2cd1de420d2f",
-        "address": "914-Pennsylvania-Ave-Huntingdon-PA-16652",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1400,
-        "listed_at": "2026-06-03T21:20:03.000Z",
-        "days_on_market": "4",
-        "current_price": 175000,
-        "price_label": "$175K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.026394,
-          40.488786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "08661d94-54ec-53c6-a8d4-e17440ec1a62",
         "address": "13451-Land-O-Woods-Dr-Saint-Louis-MO-63141",
         "beds": 2,
@@ -3988,6 +3967,27 @@
         "coordinates": [
           -78.519305,
           35.915435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "17deb581-766c-530b-a804-8b1db488a760",
+        "address": "161-Patterdale-Pl-Benson-NC-27504",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1310,
+        "listed_at": "2026-06-07T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.564473,
+          35.492142
         ]
       }
     },
@@ -7852,6 +7852,27 @@
         "coordinates": [
           -121.231197,
           38.62809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ffcc037-b920-5a91-91a7-bf661aaafbe0",
+        "address": "2021-Sw-29th-Ter-Topeka-KS-66611",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2574,
+        "listed_at": "2026-06-07T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.703381,
+          39.01361
         ]
       }
     },
