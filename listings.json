@@ -8740,6 +8740,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "34ca11ae-3920-5708-a9f2-842d0a394677",
+        "address": "1802-N-89th-Ave-Phoenix-AZ-85037",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1827,
+        "listed_at": "2026-06-08T17:50:03.000Z",
+        "days_on_market": "84",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.250955,
+          33.467084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "34cd200a-6c35-52f6-8411-b31730b155a2",
         "address": "1031-Skyline-View-Way-Charlotte-NC-28204",
         "beds": 3,
@@ -14908,6 +14929,27 @@
         "coordinates": [
           -81.24029,
           28.586796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5b534e30-f76c-5805-aad1-512708cadb53",
+        "address": "4805-Beacon-St-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-06-08T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.445584,
+          28.592692
         ]
       }
     },
@@ -22762,6 +22804,27 @@
         "coordinates": [
           -86.152267,
           39.79863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8ca018bd-22de-44f2-b98f-612cd9bc90c4",
+        "address": "11619-Sky-Pointe-Dr-Desert-Hot-Springs-CA-92240",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2088,
+        "listed_at": "2026-06-08T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.567,
+          33.963919
         ]
       }
     },
@@ -32113,27 +32176,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c9e22545-9e13-5b4c-b774-c193aac92da1",
-        "address": "2722-E-Nisbet-Rd-Phoenix-AZ-85032",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1727,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "55",
-        "current_price": 582000,
-        "price_label": "$582K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.023354,
-          33.622967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c9f549cd-43b3-5c50-b9e9-1d2f42abf3bf",
         "address": "1064-Munroe-Falls-Kent-Rd-Kent-OH-44240",
         "beds": 4,
@@ -36334,6 +36376,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dee29e5e-4150-59e6-8ffc-4af296347716",
+        "address": "1506-W-16th-St-Sanford-FL-32771",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 970,
+        "listed_at": "2026-06-08T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.284471,
+          28.797731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "deff201c-ba99-5efc-b8b0-28cdb5888d30",
         "address": "312-Montrose-Ave-Nw-Canton-OH-44708",
         "beds": 3,
@@ -40339,6 +40402,27 @@
         "coordinates": [
           -80.829879,
           35.433382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f83217ad-a623-5d3c-9370-75e591595742",
+        "address": "929-Dove-Cv-Argyle-TX-76226",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1813,
+        "listed_at": "2026-06-08T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.237854,
+          33.113413
         ]
       }
     },
