@@ -14830,6 +14830,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b66f993-0689-5898-b8ee-03877c19a8ce",
+        "address": "2158-Joseph-Hewes-Ct-Orange-Park-FL-32073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1498,
+        "listed_at": "2026-06-08T14:30:03.000Z",
+        "days_on_market": ">106",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.765013,
+          30.156871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
         "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
         "beds": 3,
@@ -24238,27 +24259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "960b6401-fca7-4368-a981-f97ed690841d",
-        "address": "8751-Salty-Sands-St-Parrish-FL-34219",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2466,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "89",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.475765,
-          27.599697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "96386559-e3a3-532d-a8e4-e1f7e41402e8",
         "address": "1262-Ne-Kinney-St-Hillsboro-OR-97124",
         "beds": 3,
@@ -28453,27 +28453,6 @@
         "coordinates": [
           -81.747311,
           28.882295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b14878e2-2803-5727-98c5-8edda1f49674",
-        "address": "2972-Royal-Tuscan-Ln-Valrico-FL-33594",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1573,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "26",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.234297,
-          27.941341
         ]
       }
     },
