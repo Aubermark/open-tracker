@@ -22810,6 +22810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8e90dd69-5fac-5458-b534-d61cd1583fdc",
+        "address": "3379-Morelyn-Crest-Cir-Orlando-FL-32828",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2550,
+        "listed_at": "2026-06-08T09:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.141411,
+          28.510643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8ed99350-0bb9-5c3d-8bee-526e4c09c149",
         "address": "200-Kripple-Kreek-Dr-Sharpsburg-GA-30277",
         "beds": 3,
