@@ -1516,6 +1516,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ad31150-1e06-5ab4-b9c4-f09bd9cbaa76",
+        "address": "223-Williston-Dr-Huntsville-AL-35806",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1900,
+        "listed_at": "2026-06-08T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.683364,
+          34.778423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ae46985-f1f0-5a6d-b596-1189e90e8366",
         "address": "5412-Conroy-St-Fort-Worth-TX-76134",
         "beds": 3,
@@ -23833,6 +23854,27 @@
         "coordinates": [
           -112.286209,
           33.582211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "949742fd-0e0d-5608-8690-68cd37bec0c0",
+        "address": "4034-Rosfield-Dr-Charlotte-NC-28214",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1995,
+        "listed_at": "2026-06-08T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.964937,
+          35.25354
         ]
       }
     },
