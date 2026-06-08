@@ -10756,27 +10756,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "415b705f-4815-5f2d-bd70-8acb5a3ea848",
-        "address": "6060-W-Hollyhock-Dr-Phoenix-AZ-85033",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1572,
-        "listed_at": "2026-06-04T20:30:02.000Z",
-        "days_on_market": "4",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.191017,
-          33.486463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
         "address": "13167-Roma-Bnd-Carmel-IN-46074",
         "beds": 3,
@@ -27829,6 +27808,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "abc12b0c-af3e-501f-9e0f-97bd518d8292",
+        "address": "1224-E-Glass-Ln-Phoenix-AZ-85042",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1968,
+        "listed_at": "2026-06-08T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05488,
+          33.384739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "abe67fe5-a4b3-5772-a532-cf0c9de6cb35",
         "address": "704-Sportsman-Rd-Moncks-Corner-SC-29461",
         "beds": 3,
@@ -31288,27 +31288,6 @@
         "coordinates": [
           -97.668066,
           31.049021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c2acb04a-4ee9-567c-8e89-5253025d7e4e",
-        "address": "4126-Key-Thatch-Dr-Tampa-FL-33610",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1240,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": ">106",
-        "current_price": 216000,
-        "price_label": "$216K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.337983,
-          27.982602
         ]
       }
     },
@@ -35047,6 +35026,27 @@
         "coordinates": [
           -117.735371,
           33.617937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d73b072b-ce23-5082-b647-cb852bc52abc",
+        "address": "1509-Center-St-Des-Plaines-IL-60018",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3242,
+        "listed_at": "2026-06-08T20:30:03.000Z",
+        "days_on_market": "90",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888831,
+          42.025783
         ]
       }
     },
@@ -39772,6 +39772,27 @@
         "coordinates": [
           -85.954996,
           39.795604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f34053b6-18fb-5b9d-83b2-7e0fee8d077e",
+        "address": "111-Forest-Park-Ln-Red-Oak-TX-75154",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1642,
+        "listed_at": "2026-06-08T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802592,
+          32.522414
         ]
       }
     },
