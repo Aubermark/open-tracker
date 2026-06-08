@@ -5317,6 +5317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "219ed08d-8403-5fca-97d4-dd866b7c966a",
+        "address": "1438-Trouville-Ln-Unit-4-Chula-Vista-CA-91913",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1360,
+        "listed_at": "2026-06-08T13:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.973509,
+          32.627427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "219f7086-38b0-53dd-91a1-efd63949a964",
         "address": "10103-Meredith-Ave-Silver-Spring-MD-20910",
         "beds": 3,
