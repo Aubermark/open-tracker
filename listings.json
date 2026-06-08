@@ -970,27 +970,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
-        "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1605,
-        "listed_at": "2026-05-14T19:20:04.000Z",
-        "days_on_market": "24",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.183191,
-          33.414923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0750ea03-3d5f-5284-a3d1-4d63053d1d53",
         "address": "1204-Britton-Dr-Knoxville-TN-37912",
         "beds": 4,
@@ -9364,6 +9343,27 @@
         "coordinates": [
           -87.320732,
           30.380677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39cc54f7-a211-58f2-9640-4ef052f7fe49",
+        "address": "165-Calverton-Ln-Tyrone-GA-30290",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2920,
+        "listed_at": "2026-06-08T05:58:22.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.584671,
+          33.513537
         ]
       }
     },
@@ -19618,6 +19618,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78db7eed-494f-5b6f-a367-c7685540ca0e",
+        "address": "1231-Dunwoody-Village-Dr-Atlanta-GA-30338",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 2747,
+        "listed_at": "2026-06-08T05:58:22.000Z",
+        "days_on_market": "0",
+        "current_price": 830000,
+        "price_label": "$830K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.335297,
+          33.943006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "79387ea8-d8bb-50bd-8d12-f99041c79fc9",
         "address": "2779-Island-Point-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -22783,6 +22804,27 @@
         "coordinates": [
           -82.442685,
           29.625846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8ed99350-0bb9-5c3d-8bee-526e4c09c149",
+        "address": "200-Kripple-Kreek-Dr-Sharpsburg-GA-30277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2626,
+        "listed_at": "2026-06-08T05:58:22.000Z",
+        "days_on_market": "0",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.656326,
+          33.424692
         ]
       }
     },
