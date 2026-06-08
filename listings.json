@@ -9244,27 +9244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "391a58a9-a1f9-5567-a4ef-a70cbcfada60",
-        "address": "912-Mill-Creek-Dr-Imperial-MO-63052",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1890,
-        "listed_at": "2026-06-03T20:00:02.000Z",
-        "days_on_market": "5",
-        "current_price": 294000,
-        "price_label": "$294K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.368397,
-          38.378434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3968f1d6-dac6-5c5e-a997-d7d771779abc",
         "address": "19-Central-Ave-East-Brunswick-NJ-08816",
         "beds": 4,
@@ -11926,6 +11905,27 @@
         "coordinates": [
           -82.1114,
           26.981047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "480a8d69-d8b4-5e21-b22d-699553526cfc",
+        "address": "621-S-Timber-Ln-Oklahoma-City-OK-73130",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 972,
+        "listed_at": "2026-06-08T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 136000,
+        "price_label": "$136K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.639018,
+          35.473655
         ]
       }
     },
