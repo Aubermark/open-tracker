@@ -19156,6 +19156,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75adc726-0f4e-5037-89ae-50554ebffddc",
+        "address": "236-Lawton-St-San-Antonio-TX-78237",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 950,
+        "listed_at": "2026-06-08T21:10:04.000Z",
+        "days_on_market": "14",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.586895,
+          29.413375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75b1a475-2d9a-5d86-afcf-9b9677c3489a",
         "address": "6454-Faulkner-Dr-North-Chesterfield-VA-23234",
         "beds": 4,
@@ -30160,6 +30181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba7ae18e-1629-5d87-9201-988b8733dd63",
+        "address": "13628-N-40th-Dr-Phoenix-AZ-85029-17771653",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-06-08T21:10:04.000Z",
+        "days_on_market": ">106",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.146728,
+          33.609648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ba97ce88-503e-5bfc-8f56-ebc82ba0c124",
         "address": "984-Forest-Pond-Ct-Marietta-GA-30068",
         "beds": 6,
@@ -33520,6 +33562,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d06f6d05-63a1-5437-a870-f526495f54de",
+        "address": "22815-Whitewater-Creek-Cir-Katy-TX-77450",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2556,
+        "listed_at": "2026-06-08T21:10:04.000Z",
+        "days_on_market": "49",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.765461,
+          29.753637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d070b33f-c856-5852-be5c-96b7bcd26a3b",
         "address": "8400-High-Garden-St-Fort-Worth-TX-76123-7225904",
         "beds": 4,
@@ -35320,27 +35383,6 @@
         "coordinates": [
           -89.657991,
           35.049011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d88e0ee5-6517-5dd3-9408-f97fb77cfc53",
-        "address": "7311-Goodwill-Church-Rd-Kernersville-NC-27284",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 964,
-        "listed_at": "2026-06-05T18:50:02.000Z",
-        "days_on_market": "3",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.024171,
-          36.190815
         ]
       }
     },
@@ -41830,6 +41872,27 @@
         "coordinates": [
           -84.332663,
           33.718948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff65e124-75ef-5d9a-b379-e1622e8c38f1",
+        "address": "745-Tyson-Dr-Pawleys-Island-SC-29585",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1524,
+        "listed_at": "2026-06-08T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.159427,
+          33.43011
         ]
       }
     },
