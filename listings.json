@@ -13738,27 +13738,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
-        "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1560,
-        "listed_at": "2026-06-05T14:10:03.000Z",
-        "days_on_market": ">106",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.854109,
-          33.50944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "54da4971-4bf0-5329-9e20-12e5eadb50af",
         "address": "599-Little-Creek-Rd-Soperton-GA-30457",
         "beds": 3,
@@ -13900,6 +13879,27 @@
         "coordinates": [
           -80.793207,
           35.324182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "563f5890-3206-5bb1-8c5c-f255bc8603f6",
+        "address": "454-Woodbriar-Dr-Jefferson-GA-30549",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2102,
+        "listed_at": "2026-06-08T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.664161,
+          34.08415
         ]
       }
     },
@@ -15832,27 +15832,6 @@
         "coordinates": [
           -78.814541,
           35.775513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "600e5d1a-0dcf-5d17-8edc-08f750cf2253",
-        "address": "668-Lynx-Mtn-San-Antonio-TX-78251",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1578,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "14",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.694289,
-          29.440497
         ]
       }
     },
@@ -23209,6 +23188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90aab5dd-b6ff-5b8e-886f-bdcd2888bfa9",
+        "address": "3049-Azure-Bay-St-Las-Vegas-NV-89117",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3694,
+        "listed_at": "2026-06-08T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.261976,
+          36.133952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90b67088-bfbd-55ac-89dc-846f674a6b12",
         "address": "10132-Sw-Trapper-Ter-Beaverton-OR-97008",
         "beds": 2,
@@ -29272,6 +29272,27 @@
         "coordinates": [
           -81.137577,
           34.046743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b754cdf5-42b9-59e6-bb5e-4e9ba5afbe00",
+        "address": "5414-Coppedge-Ave-Jacksonville-FL-32277",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1700,
+        "listed_at": "2026-06-08T15:50:03.000Z",
+        "days_on_market": "102",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.609997,
+          30.367599
         ]
       }
     },
