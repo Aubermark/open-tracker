@@ -21697,6 +21697,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "876bfe6c-276e-541f-aa87-6cf66008d540",
+        "address": "237-Kensington-Trce-Stockbridge-GA-30281",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-06-08T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.192738,
+          33.51208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "878d91dd-1149-521e-be33-4f7a3140d34f",
         "address": "11639-E-Cliffrose-Ln-Florence-AZ-85132",
         "beds": 3,
@@ -29314,27 +29335,6 @@
         "coordinates": [
           -110.880809,
           32.215077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b7d6682b-acac-5eb8-b8b8-c4bb93e65e5e",
-        "address": "7533-Cherokee-Ln-Liberty-Township-OH-45044",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3826,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "21",
-        "current_price": 580000,
-        "price_label": "$580K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.367847,
-          39.424213
         ]
       }
     },
