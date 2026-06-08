@@ -24637,6 +24637,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9976fdd5-d08f-4c14-ae6e-81056acc3ba0",
+        "address": "13176-Twin-Bridges-Dr-Riverview-FL-33579",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3573,
+        "listed_at": "2026-06-08T09:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 712000,
+        "price_label": "$712K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26284,
+          27.809579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99804a5f-b904-542f-829e-15975a4d04e4",
         "address": "4681-Sweetwater-Ave-Powder-Springs-GA-30127",
         "beds": 4,
@@ -35257,6 +35278,27 @@
         "coordinates": [
           -85.016084,
           33.901639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "daaad7b2-4ec4-55cf-a8a5-f564b0f8b130",
+        "address": "617-Reed-Creek-Rd-Mooresville-NC-28117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1411,
+        "listed_at": "2026-06-08T09:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.848532,
+          35.578366
         ]
       }
     },
