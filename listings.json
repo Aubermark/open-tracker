@@ -12541,27 +12541,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4bef5620-b36b-5905-8d93-54848eca853b",
-        "address": "4383-S-Saginaw-Hill-Dr-Tucson-AZ-85746",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2098,
-        "listed_at": "2026-06-04T06:19:39.000Z",
-        "days_on_market": "66",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.0575,
-          32.169536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4c43e988-d673-5ca5-bd7b-8af530589c4b",
         "address": "29918-N-225th-Ave-Wittmann-AZ-85361",
         "beds": 3,
@@ -27241,6 +27220,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a80ce154-cf24-5f57-a430-3cbdce7b5dac",
+        "address": "1819-Mountain-St-Philadelphia-PA-19145",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1760,
+        "listed_at": "2026-06-08T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.175532,
+          39.930708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a8116444-90f4-5b9f-841f-6f39bcd3ecd9",
         "address": "3216-Poe-Cv-Apt-5-C-Lago-Vista-TX-78645",
         "beds": 2,
@@ -30952,27 +30952,6 @@
         "coordinates": [
           -96.713431,
           33.088287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
-        "address": "5202-Oster-Dr-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1867,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": ">106",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.72734,
-          31.064149
         ]
       }
     },
