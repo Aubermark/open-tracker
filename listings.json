@@ -4309,6 +4309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19c3332c-ea29-54ea-ac56-eabcead1ff32",
+        "address": "6312-Lake-Trail-Dr-Fayetteville-NC-28304",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1320,
+        "listed_at": "2026-06-09T15:50:03.000Z",
+        "days_on_market": "90",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.002475,
+          35.014477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "19d8245d-66d4-5948-b4a2-2bfef586d920",
         "address": "4202-Sunshine-Ave-Indianapolis-IN-46228",
         "beds": 3,
@@ -25204,6 +25225,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b1bac68-656c-554b-8f59-4944bbae76d9",
+        "address": "790-Battersea-Dr-Saint-Augustine-FL-32095",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2050,
+        "listed_at": "2026-06-09T15:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.398224,
+          30.033897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9b5fdeee-f6a8-555e-8eb3-922e2a42728c",
         "address": "7469-S-Biloxi-Ct-Aurora-CO-80016",
         "beds": 5,
@@ -41557,27 +41599,6 @@
         "coordinates": [
           -80.809987,
           35.310563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe2b8cd5-c1fc-51fd-a434-9de13813b0af",
-        "address": "4455-Meadow-Valley-Cir-Fairfield-CA-94534",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1850,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": ">107",
-        "current_price": 615000,
-        "price_label": "$615K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.128809,
-          38.216402
         ]
       }
     },
