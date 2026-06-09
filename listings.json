@@ -24343,6 +24343,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95c70117-a260-56c0-80f4-074a50900006",
+        "address": "7300-Corbin-Ave-Unit-M-Reseda-CA-91335",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 818,
+        "listed_at": "2026-06-09T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.561724,
+          34.202994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95d01114-7df5-5825-b31d-f5cca65be75a",
         "address": "948-Scotch-Pine-Dr-Severance-CO-80550",
         "beds": 3,
@@ -28348,27 +28369,6 @@
         "coordinates": [
           -83.86776,
           35.99909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aed53e0b-4d39-5b55-8951-19d47311bdca",
-        "address": "17457-N-14th-Ave-Phoenix-AZ-85023",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1068,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "46",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.089171,
-          33.645485
         ]
       }
     },
@@ -35005,6 +35005,27 @@
         "coordinates": [
           -111.720443,
           33.431703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d62d590c-ce8a-505e-b0b4-804e6305f1db",
+        "address": "37685-Sandy-Heights-St-Sandy-OR-97055",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1680,
+        "listed_at": "2026-06-09T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27586,
+          45.394042
         ]
       }
     },
