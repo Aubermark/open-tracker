@@ -3616,6 +3616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16036bb4-f001-5e24-9a98-d6352ea606d9",
+        "address": "24542-N-Denham-Ridge-Ln-Spring-TX-77389",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3684,
+        "listed_at": "2026-06-09T13:50:03.000Z",
+        "days_on_market": ">107",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.504842,
+          30.121459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16095b50-cdf8-51dc-9d18-ef38ec0b629d",
         "address": "10142-Sandcherry-Ln-Indianapolis-IN-46236",
         "beds": 5,
@@ -11380,27 +11401,6 @@
         "coordinates": [
           -97.201149,
           31.466576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "44b8557b-441e-58dd-bcff-16a244cf44a6",
-        "address": "2385-Sw-Neal-Rd-Port-Saint-Lucie-FL-34953",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1786,
-        "listed_at": "2026-05-27T20:50:03.000Z",
-        "days_on_market": "13",
-        "current_price": 371000,
-        "price_label": "$371K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.416651,
-          27.273002
         ]
       }
     },
