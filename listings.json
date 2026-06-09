@@ -1642,6 +1642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b59f50c-84b5-5c79-8ea4-da69fea0ab65",
+        "address": "15037-Harding-Ave-Clearwater-FL-33760",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 763,
+        "listed_at": "2026-06-09T16:30:04.000Z",
+        "days_on_market": "12",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.712564,
+          27.909199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b9c2bd6-d735-5315-b73f-0a5a36d59589",
         "address": "3226-Ne-30th-Ct-Ocala-FL-34479",
         "beds": 4,
@@ -10273,27 +10294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3de081d7-83e9-5cc6-99c7-547ff75a4cf5",
-        "address": "12202-N-Highland-Ave-Kansas-City-MO-64165",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2553,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": ">107",
-        "current_price": 384000,
-        "price_label": "$384K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.557353,
-          39.315149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3de27b45-f208-5125-927c-cfd69245a29e",
         "address": "3216-Bonassola-Ave-North-Las-Vegas-NV-89031",
         "beds": 5,
@@ -17827,27 +17827,6 @@
         "coordinates": [
           -112.459429,
           33.713652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6d0c798a-a24d-5907-9d23-0f718ad9507c",
-        "address": "2116-Cason-Ln-Murfreesboro-TN-37128",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1387,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": "90",
-        "current_price": 289000,
-        "price_label": "$289K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.442733,
-          35.809717
         ]
       }
     },
@@ -27325,6 +27304,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a96deafe-7db2-5c7e-be65-b9bc0609cdc3",
+        "address": "3968-E-Melinda-Dr-Phoenix-AZ-85050",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1497,
+        "listed_at": "2026-06-09T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 507000,
+        "price_label": "$507K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.990623,
+          33.683958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a96fead9-0fd8-5502-8606-af657e864c36",
         "address": "4975-Bentridge-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -31777,27 +31777,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c566a4b9-7cec-59b2-bd02-9443e9b5a756",
-        "address": "96-S-Monterey-St-Gilbert-AZ-85233",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1520,
-        "listed_at": "2026-06-05T06:10:48.000Z",
-        "days_on_market": "5",
-        "current_price": 475000,
-        "price_label": "$475K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.800325,
-          33.348148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c5dffa50-82f5-52d2-8b14-3ebcd4fb7d49",
         "address": "4616-Robbins-Ave-Orlando-FL-32808",
         "beds": 3,
@@ -35488,6 +35467,27 @@
         "coordinates": [
           -82.645695,
           27.732407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d8decf39-3765-5441-889e-62702f6cb370",
+        "address": "351-Hepburn-Rd-Orange-Park-FL-32065",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1653,
+        "listed_at": "2026-06-09T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847004,
+          30.1835
         ]
       }
     },
