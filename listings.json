@@ -9097,6 +9097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3706ae77-687d-5cee-857e-9174d514eab1",
+        "address": "5955-Calais-Way-Apt-101-Orlando-FL-32822",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1485,
+        "listed_at": "2026-06-09T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.305181,
+          28.511724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3732ab0a-d162-4bdb-830a-3b5e7a43031e",
         "address": "24-Erin-Hills-Rd-Commercial-Point-OH-43116",
         "beds": 4,
@@ -17308,27 +17329,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6a0b02af-523f-5f5a-8cea-5aee761f7757",
-        "address": "1705-Blue-Heron-Way-Hampton-GA-30228",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2774,
-        "listed_at": "2026-05-27T06:10:47.000Z",
-        "days_on_market": "14",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.336316,
-          33.439608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6a2b0331-cc3b-5df6-8caf-214685799422",
         "address": "21408-Running-River-Ct-Diamond-Bar-CA-91765",
         "beds": 5,
@@ -18625,27 +18625,6 @@
         "coordinates": [
           -84.292846,
           33.443369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "720aa65e-ed98-578b-a423-e2e47b627613",
-        "address": "232-Cynthia-Ct-Dallas-GA-30157",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1270,
-        "listed_at": "2026-05-29T21:40:03.000Z",
-        "days_on_market": ">107",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.965638,
-          33.865121
         ]
       }
     },
@@ -24694,6 +24673,27 @@
         "coordinates": [
           -80.8796,
           34.160615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "98285db2-6499-5f4f-8a55-cb3a8bc28c17",
+        "address": "1355-Catrush-Way-Wake-Forest-NC-27587",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2064,
+        "listed_at": "2026-06-09T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.487076,
+          35.995533
         ]
       }
     },
@@ -40660,6 +40660,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f6c8658a-956d-50ab-a9c6-b9ae3412b39b",
+        "address": "263-Creekwood-Dr-Berea-KY-40403",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1232,
+        "listed_at": "2026-06-09T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.320782,
+          37.638308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f6daf0a2-4d00-47d0-93d4-dce4489e890d",
         "address": "374-N-Palm-Springs-Way-Tracy-CA-95391",
         "beds": 4,
@@ -41683,6 +41704,27 @@
         "coordinates": [
           -80.809987,
           35.310563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe17844b-f895-487e-9d4b-1bb4865e864b",
+        "address": "1308-Rose-Gum-Way-Fuquay-Varina-NC-27526",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1334,
+        "listed_at": "2026-06-09T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 426000,
+        "price_label": "$426K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.766699,
+          35.562534
         ]
       }
     },
