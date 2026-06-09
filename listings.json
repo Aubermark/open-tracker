@@ -31882,6 +31882,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6a25759-6375-51bf-a845-ebe5b5d16fe7",
+        "address": "220-Braemar-Rd-Fayetteville-GA-30215",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2280,
+        "listed_at": "2026-06-09T06:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48648,
+          33.441782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6a4500b-a6c6-50d4-b228-fbbd36c35b62",
         "address": "718-Blue-Jay-Rd-Big-Bear-Lake-CA-92315",
         "beds": 1,
