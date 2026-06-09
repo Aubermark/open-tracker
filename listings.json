@@ -8593,6 +8593,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33f18a4b-b398-5785-8cc4-6abca30395d8",
+        "address": "412-N-Front-St-Unit-21-Philadelphia-PA-19123",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2244,
+        "listed_at": "2026-06-09T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139959,
+          39.957569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3405bd65-3c08-58d6-83c2-88369f0dc4e4",
         "address": "19149-Engle-Wood-Dr-Big-Lake-MN-55309",
         "beds": 3,
@@ -25660,6 +25681,27 @@
         "coordinates": [
           -80.905644,
           34.243676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e9e990b-aacf-51db-8735-8c96bb92d045",
+        "address": "880-Fruitland-Dr-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1349,
+        "listed_at": "2026-06-09T09:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.252609,
+          28.90834
         ]
       }
     },
