@@ -19555,27 +19555,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "77ccefdf-8b9b-52f6-bdd4-3a4ad6df385e",
-        "address": "4710-Silver-Leaf-Ct-Temple-TX-76502",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1424,
-        "listed_at": "2026-05-14T06:31:37.000Z",
-        "days_on_market": ">107",
-        "current_price": 188000,
-        "price_label": "$188K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.365499,
-          31.05217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "77f11cbe-4312-5e52-8a4d-20146c94729e",
         "address": "6902-Fawncliff-Dr-Houston-TX-77069",
         "beds": 4,
@@ -26731,6 +26710,27 @@
         "coordinates": [
           -84.314292,
           33.926894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a48830ca-d3cf-519a-afef-c859ceee2f62",
+        "address": "4387-N-Presidio-Dr-Florence-AZ-85132",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1670,
+        "listed_at": "2026-06-09T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.455566,
+          33.072705
         ]
       }
     },
@@ -36916,27 +36916,6 @@
         "coordinates": [
           -93.35986,
           45.225049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e06c650d-6999-5779-8c26-2a574ab3fb30",
-        "address": "8421-W-Willowbrook-Dr-Peoria-AZ-85382",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1908,
-        "listed_at": "2026-06-04T23:10:02.000Z",
-        "days_on_market": "5",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.240859,
-          33.649655
         ]
       }
     },
