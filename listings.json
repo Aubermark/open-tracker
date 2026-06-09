@@ -30328,27 +30328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bcbddec6-4d3d-5585-a314-c7dc5081f3ac",
-        "address": "8400-Chestnut-Oak-Ct-Harrisburg-NC-28075",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2551,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "26",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.624845,
-          35.301394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bcfcd506-2cd5-5b4e-a8bb-50f7818b4261",
         "address": "2030-Main-St-Nw-Apt-203-Atlanta-GA-30318",
         "beds": 2,
@@ -36559,6 +36538,27 @@
         "coordinates": [
           -83.982959,
           33.604546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e0004851-be17-5bcd-baeb-818c85111181",
+        "address": "1208-Pine-Ave-Hopewell-VA-23860",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1490,
+        "listed_at": "2026-06-09T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.297488,
+          37.283608
         ]
       }
     },
