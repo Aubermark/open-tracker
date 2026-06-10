@@ -1390,6 +1390,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09e9146d-7ca0-5257-8aea-e3c2521ecb72",
+        "address": "11031-E-Vine-Ave-Mesa-AZ-85208-18118126",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1647,
+        "listed_at": "2026-06-10T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 448000,
+        "price_label": "$448K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.592655,
+          33.404733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09f94afe-0c3e-5649-8614-fb7c8669dd9a",
         "address": "862-Grice-Ln-Placerville-CA-95667",
         "beds": 3,
@@ -12646,6 +12667,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b5807fe-76c7-59d3-a764-778d68b8e640",
+        "address": "5109-Wilmington-St-Houston-TX-77033",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1275,
+        "listed_at": "2026-06-10T21:50:04.000Z",
+        "days_on_market": "106",
+        "current_price": 177000,
+        "price_label": "$177K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.346057,
+          29.655672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b5a43e1-5358-5bc0-8b36-c240b210d084",
         "address": "6941-Laura-Hts-Schertz-TX-78154",
         "beds": 4,
@@ -15502,27 +15544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5e10def5-f1e8-56d0-8fb8-0586c496ad5d",
-        "address": "3133-Banyan-Hill-Ln-Land-O-Lakes-FL-34639",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1500,
-        "listed_at": "2026-06-09T19:10:03.000Z",
-        "days_on_market": "1",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.427355,
-          28.202643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5e215419-f2cb-5346-bdd0-03a60172ec4c",
         "address": "21943-Pelican-Crk-San-Antonio-TX-78258",
         "beds": 4,
@@ -18289,6 +18310,27 @@
         "coordinates": [
           -84.256097,
           33.683216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "701c8d8f-237d-5bfc-8d6b-e1e1dcb29cb0",
+        "address": "823-Deerhurst-Ln-Magnolia-TX-77354",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1693,
+        "listed_at": "2026-06-10T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.731544,
+          30.214094
         ]
       }
     },
@@ -24190,27 +24232,6 @@
         "coordinates": [
           -81.144457,
           35.257499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "94bd8958-604a-5062-ae53-4da93774fdfa",
-        "address": "514-E-Vekol-Rd-Casa-Grande-AZ-85122",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1706,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "44",
-        "current_price": 271000,
-        "price_label": "$271K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.747805,
-          32.901676
         ]
       }
     },
