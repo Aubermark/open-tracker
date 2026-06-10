@@ -571,6 +571,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03379faf-33f6-5ffa-a976-8291d9e3aa42",
+        "address": "6711-Rowell-Ct-Missouri-City-TX-77489",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2335,
+        "listed_at": "2026-06-10T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.487311,
+          29.602337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03530389-9eb5-51bc-a480-a87d49a3fd24",
         "address": "632-Kickapoo-Ct-Webster-TX-77598",
         "beds": 4,
