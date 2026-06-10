@@ -1810,6 +1810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ce6d851-51d3-5c23-9a9e-466068e97e13",
+        "address": "8049-S-Carbury-Way-Tucson-AZ-85747-17909058",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2156,
+        "listed_at": "2026-06-10T19:10:03.000Z",
+        "days_on_market": "71",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.791539,
+          32.105881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ce9cb40-d5ed-55d4-a4ea-603c18e8e23f",
         "address": "525-Michael-Cir-Monroe-GA-30655",
         "beds": 3,
@@ -2854,27 +2875,6 @@
         "coordinates": [
           -81.635925,
           28.149333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "127655cb-ea18-5a80-a3b0-c227715d7861",
-        "address": "21469-Hunter-Hart-Dr-Porter-TX-77365",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1790,
-        "listed_at": "2026-06-04T06:19:39.000Z",
-        "days_on_market": "47",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.241917,
-          30.096035
         ]
       }
     },
