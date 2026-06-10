@@ -1012,6 +1012,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "075a7f4d-f705-56b2-bab1-d96a9b050066",
+        "address": "50-Boswell-Cir-Travelers-Rest-SC-29690",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1296,
+        "listed_at": "2026-06-10T16:00:26.000Z",
+        "days_on_market": "6",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408969,
+          35.042717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "075bd63e-250b-562e-9722-c4ca83204bd2",
         "address": "5591-Coventry-Dr-Prosper-TX-75078",
         "beds": 3,
@@ -7894,27 +7915,6 @@
         "coordinates": [
           -117.823148,
           33.992346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2fb93bee-114a-509f-8a12-d7637479208c",
-        "address": "17529-W-East-Wind-Ave-Goodyear-AZ-85338",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1634,
-        "listed_at": "2026-06-10T06:00:37.000Z",
-        "days_on_market": "1",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.426143,
-          33.328033
         ]
       }
     },
@@ -24406,6 +24406,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95b364ae-70ba-4d0b-8fe7-f9fa1569e18e",
+        "address": "3627-Whitney-Way-Terrell-NC-28682",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1791,
+        "listed_at": "2026-06-10T16:00:26.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.979847,
+          35.594243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95c70117-a260-56c0-80f4-074a50900006",
         "address": "7300-Corbin-Ave-Unit-M-Reseda-CA-91335",
         "beds": 2,
@@ -25807,6 +25828,27 @@
         "coordinates": [
           -82.474977,
           27.599133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9ec3d7c7-9458-5d89-bbf3-ca12477c5128",
+        "address": "6224-S-20th-St-Phoenix-AZ-85042",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 900,
+        "listed_at": "2026-06-10T16:00:26.000Z",
+        "days_on_market": "12",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03898,
+          33.389715
         ]
       }
     },
