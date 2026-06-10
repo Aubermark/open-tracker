@@ -2104,6 +2104,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e6d8aca-887a-5421-bd91-b6db3e71bbfe",
+        "address": "7440-Churchwood-Cir-Colorado-Springs-CO-80918",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1159,
+        "listed_at": "2026-06-10T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.756387,
+          38.93446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e72c32f-82f6-51dc-8a78-5ac5bc10d3f0",
         "address": "1-Winsted-Pl-Florissant-MO-63031",
         "beds": 3,
