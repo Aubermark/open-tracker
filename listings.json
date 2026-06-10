@@ -319,6 +319,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0188052b-c84c-5790-92c6-b2b40af41cf1",
+        "address": "435-16th-St-Cramerton-NC-28032",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1064,
+        "listed_at": "2026-06-10T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.082303,
+          35.245405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "019e34de-b754-5c97-9763-2c70ffe2413e",
         "address": "6811-Kingman-Dr-Indianapolis-IN-46256",
         "beds": 3,
@@ -41368,6 +41389,27 @@
         "coordinates": [
           -86.279515,
           39.842084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb204f2f-1599-5249-9a08-ed64010fc6e5",
+        "address": "9819-E-Lake-Tahoe-Dr-Inverness-FL-34450",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2072,
+        "listed_at": "2026-06-10T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.270613,
+          28.821601
         ]
       }
     },
