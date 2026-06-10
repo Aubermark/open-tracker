@@ -26590,6 +26590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2f98fea-aef3-51eb-b582-7fd84596353c",
+        "address": "114-Pamala-Ct-Sanford-FL-32771",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1312,
+        "listed_at": "2026-06-10T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.315371,
+          28.798917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3456f00-ca4f-59e5-ad6d-e5ba011ebb9d",
         "address": "525-Lurene-Cir-Montgomery-AL-36109",
         "beds": 3,
@@ -26962,27 +26983,6 @@
         "coordinates": [
           -86.149682,
           39.788081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a5a142e0-0fc7-5ec8-9f05-e1f2309c7634",
-        "address": "784-Arbor-Gate-Ln-Lawrenceville-GA-30044",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2355,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "33",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.052,
-          33.951277
         ]
       }
     },
@@ -29356,27 +29356,6 @@
         "coordinates": [
           -87.314207,
           36.592902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b37a37d0-9064-5f95-b48e-2496c699d4bc",
-        "address": "1635-Heyford-Cir-Nw-Kennesaw-GA-30152",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1450,
-        "listed_at": "2026-06-05T21:20:03.000Z",
-        "days_on_market": "5",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.599892,
-          33.994483
         ]
       }
     },
@@ -41179,6 +41158,27 @@
         "coordinates": [
           -95.588807,
           30.050298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f95c856a-7d4b-5964-965b-3accc4ec30e3",
+        "address": "221-Grandview-Dr-Statesville-NC-28677",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2020,
+        "listed_at": "2026-06-10T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.935502,
+          35.749432
         ]
       }
     },
