@@ -739,6 +739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "046eb675-34bc-503d-b5e3-4126e95aebb2",
+        "address": "62-Cordona-Dr-Kissimmee-FL-34758",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-06-10T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.447595,
+          28.150187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0471ba59-f156-5eb0-8a40-f8bea74646e8",
         "address": "109-King-Valley-Rd-Pelham-AL-35124",
         "beds": 3,
@@ -14914,27 +14935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5b37f280-ff85-5f08-9418-5f248d51c97a",
-        "address": "10316-Belgrove-Pl-Orlando-FL-32817",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 988,
-        "listed_at": "2026-06-03T21:20:03.000Z",
-        "days_on_market": "7",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.24029,
-          28.586796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5b534e30-f76c-5805-aad1-512708cadb53",
         "address": "4805-Beacon-St-Orlando-FL-32808",
         "beds": 3,
@@ -28207,6 +28207,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad2f86bb-a343-5184-b902-2215bd55c2fd",
+        "address": "22415-Horizon-Vistas-Dr-Eustis-FL-32736",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1872,
+        "listed_at": "2026-06-10T20:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.586483,
+          28.906011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad8d0f40-04de-5d50-afcf-7abc9d4fe77e",
         "address": "9965-Boulder-Bend-Ln-Brookshire-TX-77423",
         "beds": 4,
@@ -35620,27 +35641,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d949826b-7c06-427c-be91-3cd2e8f4228b",
-        "address": "19240-Gray-Horse-Dr-Foley-AL-36535",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1707,
-        "listed_at": "2026-05-14T06:31:39.000Z",
-        "days_on_market": "82",
-        "current_price": 261000,
-        "price_label": "$261K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.695124,
-          30.365071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d9c5d1d1-0ce5-5323-8d6e-2f3a2c58e1b1",
         "address": "2406-Manchester-Dr-Carrollton-TX-75006",
         "beds": 5,
@@ -37378,27 +37378,6 @@
         "coordinates": [
           -111.968228,
           41.165545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e3dd5012-dab4-5883-a08c-f8e51d17ad41",
-        "address": "149-Gazebo-Dr-Indianapolis-IN-46227",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1214,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "48",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.155056,
-          39.699086
         ]
       }
     },
