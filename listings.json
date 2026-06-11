@@ -14683,6 +14683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "599d3955-1102-5d62-b610-8938befb1d55",
+        "address": "1308-Seburn-Rd-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1717,
+        "listed_at": "2026-06-11T21:40:03.000Z",
+        "days_on_market": "7",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.532429,
+          28.650245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "59cf35a1-e6ad-5a71-82e4-f5b1dd1942fb",
         "address": "13419-Star-Heights-Dr-San-Antonio-TX-78230",
         "beds": 4,
@@ -19423,6 +19444,27 @@
         "coordinates": [
           -79.183666,
           35.506315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "770aa645-1b31-5bb0-8a0f-8e60be19c048",
+        "address": "4876-Grassy-Knoll-Dr-Tavares-FL-32778",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2887,
+        "listed_at": "2026-06-11T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.765924,
+          28.754423
         ]
       }
     },
@@ -39463,27 +39505,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eea2ea3f-5ff2-50d0-b620-4c3a9dfc6d99",
-        "address": "813-Copper-Beech-Ln-Wake-Forest-NC-27587",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3514,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "86",
-        "current_price": 578000,
-        "price_label": "$578K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.468512,
-          35.977182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eeb8ad02-045e-5bfd-bffa-4cd0817c19a4",
         "address": "130-S-Estes-Dr-Apt-B7-Chapel-Hill-NC-27514",
         "beds": 1,
@@ -41326,27 +41347,6 @@
         "coordinates": [
           -80.096999,
           33.027653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f97a0081-7602-5c57-a233-f261f83e88ed",
-        "address": "7650-Holiday-Dr-Spring-Hill-FL-34606",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1776,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "62",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.591404,
-          28.441909
         ]
       }
     },
