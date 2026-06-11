@@ -17707,6 +17707,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c8c9e36-3a9a-5c28-b781-be931c0fe181",
+        "address": "21609-N-61st-Ave-Glendale-AZ-85308",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1670,
+        "listed_at": "2026-06-11T17:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.190658,
+          33.679726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
         "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
         "beds": 3,
@@ -28963,27 +28984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b117f5ef-3a4f-5fda-bbbb-3876c6fa8b9e",
-        "address": "246-Royalltrail-Ln-O-Fallon-MO-63368",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1757,
-        "listed_at": "2026-06-08T19:10:04.000Z",
-        "days_on_market": "3",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.708018,
-          38.76481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b16598ca-7ce7-5a49-893f-fdc626c36aa2",
         "address": "7604-S-Steele-St-Centennial-CO-80122",
         "beds": 2,
@@ -39478,6 +39478,27 @@
         "coordinates": [
           -80.887273,
           34.080049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef2b2dd5-bd4a-5fa8-86d5-1e8da43fd218",
+        "address": "3303-Deaver-Dr-Corona-CA-92882",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2365,
+        "listed_at": "2026-06-11T17:30:03.000Z",
+        "days_on_market": "108",
+        "current_price": 880000,
+        "price_label": "$880K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.628359,
+          33.875019
         ]
       }
     },
