@@ -9832,27 +9832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b13e38d-0518-56ea-8d0f-4d132db0b893",
-        "address": "8351-Kipling-Ct-Jacksonville-FL-32244",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1561,
-        "listed_at": "2026-05-26T05:28:18.000Z",
-        "days_on_market": "17",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.788342,
-          30.235927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -13039,6 +13018,27 @@
         "coordinates": [
           -84.241842,
           34.124979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4e496f66-1632-514e-bc43-ca737566b231",
+        "address": "17409-Mapleboro-Ave-Maple-Heights-OH-44137",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1022,
+        "listed_at": "2026-06-11T19:40:03.000Z",
+        "days_on_market": ">109",
+        "current_price": 141000,
+        "price_label": "$141K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55767,
+          41.413937
         ]
       }
     },
@@ -38680,6 +38680,27 @@
         "coordinates": [
           -84.465013,
           33.574974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea9b63de-2862-5749-a900-97acac203764",
+        "address": "333-E-Chelsea-St-Deland-FL-32724",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1898,
+        "listed_at": "2026-06-11T19:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.297454,
+          29.014884
         ]
       }
     },
