@@ -33142,6 +33142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccf8de46-125e-5a61-9ccc-2a58cf3390eb",
+        "address": "5313-Southern-Crossing-Dr-Temple-TX-76502",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2045,
+        "listed_at": "2026-06-11T18:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.360346,
+          31.044303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd0c13b8-80f6-5911-9a1b-85aee48cb6b4",
         "address": "5545-W-Avenue-L6-Lancaster-CA-93536",
         "beds": 4,
