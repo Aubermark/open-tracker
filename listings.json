@@ -6808,27 +6808,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "294ac1c2-80a4-4f53-9ce0-6dcf512d0e25",
-        "address": "285-Eagle-Creek-Rd-Nw-Cleveland-TN-37312",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2979,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "73",
-        "current_price": 581000,
-        "price_label": "$581K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.815814,
-          35.267559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "296559ef-1b53-55e1-b574-678919bb4a36",
         "address": "310-Terrace-St-Griffin-GA-30224",
         "beds": 3,
@@ -27892,27 +27871,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ab582329-0437-537e-9aca-f8e03ab1474f",
-        "address": "1197-Parkwood-Chase-Nw-Acworth-GA-30102",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1956,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "35",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.577073,
-          34.060471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ab7a3b57-ade1-5ac9-8182-bc90fa01d003",
         "address": "9206-W-Mescal-St-Peoria-AZ-85345",
         "beds": 3,
@@ -29272,6 +29230,27 @@
         "coordinates": [
           -97.36584,
           32.526295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b2f15c88-489a-5058-910a-caab11826047",
+        "address": "10113-Rosemary-Leaf-Ln-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1555,
+        "listed_at": "2026-06-11T18:20:03.000Z",
+        "days_on_market": ">109",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.342095,
+          27.806417
         ]
       }
     },
