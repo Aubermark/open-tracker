@@ -5653,6 +5653,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22d89f3f-9ffd-5753-b23d-df26a6330c4f",
+        "address": "1015-Kingsway-Dr-Lorain-OH-44052",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2328,
+        "listed_at": "2026-06-11T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.181562,
+          41.433089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22ff6b3f-bdfe-5c0a-ac71-97dd38ca1dbb",
         "address": "135-Brookgreen-Ct-Kernersville-NC-27284",
         "beds": 4,
@@ -32443,27 +32464,6 @@
         "coordinates": [
           -83.891564,
           34.243329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c9f549cd-43b3-5c50-b9e9-1d2f42abf3bf",
-        "address": "1064-Munroe-Falls-Kent-Rd-Kent-OH-44240",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1628,
-        "listed_at": "2026-05-04T21:20:02.000Z",
-        "days_on_market": "38",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3809,
-          41.142486
         ]
       }
     },
