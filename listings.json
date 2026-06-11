@@ -970,27 +970,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0571371a-0817-5e4d-9544-b3c66a8f8f12",
-        "address": "6020-Morning-Glory-Pl-Knoxville-TN-37912",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": "29",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.004649,
-          36.001594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "05ca9884-68b1-5d46-bf55-9ec0cdba8ca2",
         "address": "30223-Chatham-Point-Dr-Bay-Village-OH-44140",
         "beds": 4,
@@ -1699,27 +1678,6 @@
         "coordinates": [
           -92.831597,
           43.604619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0b59f50c-84b5-5c79-8ea4-da69fea0ab65",
-        "address": "15037-Harding-Ave-Clearwater-FL-33760",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 763,
-        "listed_at": "2026-06-09T16:30:04.000Z",
-        "days_on_market": "14",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.712564,
-          27.909199
         ]
       }
     },
@@ -3169,6 +3127,27 @@
         "coordinates": [
           -81.157016,
           33.941767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "134867cd-6258-58f5-aafe-1eac8554d276",
+        "address": "1820-Chantilly-Dr-Columbia-SC-29210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1537,
+        "listed_at": "2026-06-11T19:00:03.000Z",
+        "days_on_market": "7",
+        "current_price": 198000,
+        "price_label": "$198K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.089101,
+          34.050243
         ]
       }
     },
