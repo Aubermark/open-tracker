@@ -29278,27 +29278,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b357436e-2d43-5ece-8502-86c987e3830c",
-        "address": "3600-Asaro-Pl-Plano-TX-75025",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3814,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "34",
-        "current_price": 897000,
-        "price_label": "$897K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.761803,
-          33.074183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b358e326-81cd-5b00-a8f6-64adf62bde02",
         "address": "432-Leslie-Wood-Dr-Clarksville-TN-37040",
         "beds": 3,
@@ -41305,6 +41284,27 @@
         "coordinates": [
           -84.800181,
           34.028123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f993e63f-a8a1-5550-bdc6-0367b8a80660",
+        "address": "1006-Lonesome-Way-Princeton-TX-75407",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1609,
+        "listed_at": "2026-06-11T19:20:04.000Z",
+        "days_on_market": "87",
+        "current_price": 263000,
+        "price_label": "$263K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.512746,
+          33.159183
         ]
       }
     },
