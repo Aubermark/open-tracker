@@ -33079,6 +33079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cca88eb3-425f-5f5e-8ed3-024453374eab",
+        "address": "550-S-Emerson-St-Chandler-AZ-85225",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2321,
+        "listed_at": "2026-06-11T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 735000,
+        "price_label": "$735K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.858437,
+          33.296357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccb160be-eb5f-4ca8-a2c2-64e629c006ef",
         "address": "1290-Legend-Dr-Greensboro-GA-30642",
         "beds": 4,
