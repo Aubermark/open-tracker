@@ -17518,6 +17518,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b820d5c-62f4-5d4e-a9a4-214c977d81e1",
+        "address": "5-Windmill-Way-Greenville-SC-29615",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1677,
+        "listed_at": "2026-06-11T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27152,
+          34.827161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b842944-2dd7-536a-b0b6-da148004100e",
         "address": "9028-Four-Mile-Creek-Rd-Charlotte-NC-28277",
         "beds": 3,
@@ -18730,27 +18751,6 @@
         "coordinates": [
           -84.583504,
           33.940367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "733468ff-4074-56ef-a372-34f19f355b3f",
-        "address": "7706-E-Comanche-Ave-Tampa-FL-33610",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 984,
-        "listed_at": "2026-05-14T06:31:41.000Z",
-        "days_on_market": "38",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.370042,
-          27.99848
         ]
       }
     },
