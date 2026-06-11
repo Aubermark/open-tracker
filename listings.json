@@ -31735,6 +31735,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c3e58e64-1614-54d0-8a6e-a5610e533d5a",
+        "address": "4034-Green-St-Jacksonville-FL-32205",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1067,
+        "listed_at": "2026-06-11T15:00:02.000Z",
+        "days_on_market": "39",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.718866,
+          30.315215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c411313c-3acd-542d-a258-4e7381a466e6",
         "address": "128-Greenview-Dr-Kannapolis-NC-28081",
         "beds": 3,
@@ -33703,6 +33724,27 @@
         "coordinates": [
           -81.104224,
           35.44757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d06c2779-f737-4011-ad37-7aa52b3d41dc",
+        "address": "7725-Sea-Turtle-Way-Lancaster-SC-29720",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2208,
+        "listed_at": "2026-06-11T15:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.784997,
+          34.925305
         ]
       }
     },
