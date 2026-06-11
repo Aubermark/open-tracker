@@ -29446,6 +29446,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b4cff418-cf98-5a18-b04d-8af1e3cdde6b",
+        "address": "841-Chalmet-Ln-Jacksonville-FL-32218",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2500,
+        "listed_at": "2026-06-11T17:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 309000,
+        "price_label": "$309K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.658791,
+          30.447158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b55d0295-6a1a-5462-9507-606b274cfee5",
         "address": "8710-Surrey-Ct-Temple-TX-76502",
         "beds": 4,
@@ -40570,6 +40591,27 @@
         "coordinates": [
           -95.593804,
           33.657842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f56e496c-5b80-503f-a99f-c0c0a4617cd4",
+        "address": "2441-Longwood-St-Orange-Park-FL-32065",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1704,
+        "listed_at": "2026-06-11T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.767683,
+          30.145525
         ]
       }
     },
