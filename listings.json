@@ -16993,6 +16993,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67437325-eb71-5c8b-985c-14d6d458db36",
+        "address": "8843-Cardinal-Flower-Ln-Indianapolis-IN-46231",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2035,
+        "listed_at": "2026-06-11T16:20:03.000Z",
+        "days_on_market": ">109",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.318575,
+          39.740793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6759f77d-8920-5c53-ae8e-04412499ef89",
         "address": "1516-Gatlinburg-Dr-Pflugerville-TX-78660",
         "beds": 3,
@@ -31519,6 +31540,27 @@
         "coordinates": [
           -97.668066,
           31.049021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c2d8c2dc-9322-55b2-ace7-03e8b9be859b",
+        "address": "307-Convex-Ln-Saint-Augustine-FL-32095",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2501,
+        "listed_at": "2026-06-11T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 572000,
+        "price_label": "$572K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46564,
+          30.076942
         ]
       }
     },
