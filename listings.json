@@ -10651,6 +10651,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40c29dad-ae4e-584c-a838-e55144e5d49f",
+        "address": "27162-Fitzgerald-Pl-Menifee-CA-92584",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1200,
+        "listed_at": "2026-06-11T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.186145,
+          33.676715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40c739ce-74fd-562a-bd87-3c83efea6203",
         "address": "602-Torero-Dr-Little-Elm-TX-75068",
         "beds": 3,
@@ -37945,6 +37966,27 @@
         "coordinates": [
           -84.127186,
           33.72274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e73701a3-7d7f-59e0-ab31-9dd0a443b00a",
+        "address": "10661-Quail-Ct-Broomfield-CO-80021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1620,
+        "listed_at": "2026-06-11T14:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 537000,
+        "price_label": "$537K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.122795,
+          39.891176
         ]
       }
     },
