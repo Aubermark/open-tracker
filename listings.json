@@ -12079,6 +12079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46e06013-6666-59c1-af0e-bfa8e4d0d3c6",
+        "address": "4378-Mangrove-Bay-St-Las-Vegas-NV-89147",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2447,
+        "listed_at": "2026-06-12T20:30:02.000Z",
+        "days_on_market": "92",
+        "current_price": 513000,
+        "price_label": "$513K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.300659,
+          36.109891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4730b21d-e64d-5a0e-a53e-2ca62b431f65",
         "address": "2154-Hinton-Dr-Se-Smyrna-GA-30080",
         "beds": 4,
@@ -15916,6 +15937,27 @@
         "coordinates": [
           -80.103466,
           33.017482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f78cd04-937a-5bd7-8baf-176bf30ad0fc",
+        "address": "54574-W-Coyote-Den-Maricopa-AZ-85139",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2939,
+        "listed_at": "2026-06-12T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.154214,
+          32.965111
         ]
       }
     },
