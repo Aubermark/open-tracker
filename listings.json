@@ -5338,6 +5338,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21445ef8-e5f5-574c-8852-cfa6916a88e1",
+        "address": "1215-Ashmead-Sq-Belcamp-MD-21017",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1140,
+        "listed_at": "2026-06-12T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.246349,
+          39.468124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21644f6c-3292-565d-8bfc-2cb6657d0d51",
         "address": "221-Sterry-Ct-Antioch-TN-37013",
         "beds": 3,
@@ -6340,6 +6361,27 @@
         "coordinates": [
           -80.974574,
           34.024768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "271c343e-2b53-5d85-9d95-1c739222c775",
+        "address": "7221-Durand-Dr-Irving-TX-75063",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 5125,
+        "listed_at": "2026-06-12T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1320000,
+        "price_label": "$1.320M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.983795,
+          32.905575
         ]
       }
     },
@@ -23545,27 +23587,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "91659bf7-e958-4b7b-879d-1b577efca8ff",
-        "address": "152-Pine-Crest-View-Dr-Summerville-SC-29486",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1855,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "73",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.118688,
-          33.134642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9168a8c4-af1b-5100-807e-524bfd923fc8",
         "address": "56-Thistleton-Way-Saint-Augustine-FL-32092",
         "beds": 3,
@@ -24679,27 +24700,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "97d573f7-6171-5c60-9772-f993bde720b9",
-        "address": "5-Hempstead-Pl-Columbia-SC-29229",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2088,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "51",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.8796,
-          34.160615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "98285db2-6499-5f4f-8a55-cb3a8bc28c17",
         "address": "1355-Catrush-Way-Wake-Forest-NC-27587",
         "beds": 4,
@@ -25387,6 +25387,48 @@
         "coordinates": [
           -78.576775,
           35.852922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9c8ef3cb-c601-50d7-a678-261b3c898ac0",
+        "address": "3299-E-Tyson-St-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1956,
+        "listed_at": "2026-06-12T16:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.719139,
+          33.310977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9cacaba5-9aca-5d27-bd0a-6edc3ed2848a",
+        "address": "14714-Swale-San-Antonio-TX-78248",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2054,
+        "listed_at": "2026-06-12T16:40:03.000Z",
+        "days_on_market": "28",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.534199,
+          29.580189
         ]
       }
     },
@@ -27718,27 +27760,6 @@
         "coordinates": [
           -80.023976,
           33.015007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aad32c66-944e-571f-a0bd-d77162dc6922",
-        "address": "1217-Ashley-Dr-Weatherford-TX-76087",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2268,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "50",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.820042,
-          32.722171
         ]
       }
     },
@@ -39499,6 +39520,27 @@
         "coordinates": [
           -86.44255,
           35.805805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eea2ea3f-5ff2-50d0-b620-4c3a9dfc6d99",
+        "address": "813-Copper-Beech-Ln-Wake-Forest-NC-27587",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3514,
+        "listed_at": "2026-06-12T16:40:03.000Z",
+        "days_on_market": "87",
+        "current_price": 578000,
+        "price_label": "$578K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.468512,
+          35.977182
         ]
       }
     },
