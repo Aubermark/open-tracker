@@ -24994,6 +24994,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99075937-4347-523c-860f-caaf91fac475",
+        "address": "15188-Brantley-Ln-Noblesville-IN-46060",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2146,
+        "listed_at": "2026-06-12T14:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.976063,
+          40.009646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9913934b-ec5e-5e79-93de-b5594b0faa32",
         "address": "7212-Derickson-Ave-Ne-Albuquerque-NM-87109",
         "beds": 3,
@@ -27487,6 +27508,27 @@
         "coordinates": [
           -95.444042,
           29.738402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a86c60af-0354-5289-9076-f8b4410c9a1c",
+        "address": "8112-Princess-Jeanne-Ave-Ne-Albuquerque-NM-87110",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-06-12T14:40:03.000Z",
+        "days_on_market": "71",
+        "current_price": 304000,
+        "price_label": "$304K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.552369,
+          35.097628
         ]
       }
     },
@@ -36817,27 +36859,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "de266126-00f1-5c48-b9d1-406e7d8a5b6d",
-        "address": "1401-E-9th-St-Anniston-AL-36207",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1319,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "38",
-        "current_price": 132000,
-        "price_label": "$132K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.812161,
-          33.655975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "de67aa08-753e-5d99-9d55-c1daf411b6fe",
         "address": "426-Garden-Grove-Rd-Fort-Mill-SC-29708",
         "beds": 6,
@@ -39814,27 +39835,6 @@
         "coordinates": [
           -81.335501,
           29.839085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "efaeaae3-51d0-5892-8b10-57e4aebcfa40",
-        "address": "6823-W-Morning-Vista-Dr-Peoria-AZ-85383",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2487,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "16",
-        "current_price": 496000,
-        "price_label": "$496K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.206393,
-          33.751879
         ]
       }
     },
