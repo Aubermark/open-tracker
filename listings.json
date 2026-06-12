@@ -18169,6 +18169,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6f3f92d8-db50-4cb8-b1cc-264f20e1258e",
+        "address": "519-N-Gilbert-St-Castle-Rock-CO-80104",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1728,
+        "listed_at": "2026-06-12T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.854293,
+          39.375381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f8914a9-b7fe-5180-a6f3-216966918677",
         "address": "4558-Coopers-Creek-Pl-Se-Smyrna-GA-30082",
         "beds": 3,
@@ -25030,6 +25051,27 @@
         "coordinates": [
           -84.694916,
           33.862047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "999621b7-759e-5be4-a70b-996d270428cd",
+        "address": "5630-Tempest-Ct-Bulverde-TX-78163",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1217,
+        "listed_at": "2026-06-12T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.397336,
+          29.762958
         ]
       }
     },
