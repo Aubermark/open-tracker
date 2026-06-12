@@ -2335,6 +2335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0efb852f-8d48-55c6-96cc-6d12aba0545a",
+        "address": "2162-Wedgewood-Dr-Greeley-CO-80631",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1386,
+        "listed_at": "2026-06-12T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.671427,
+          40.403092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0f3b726c-4fb0-52fe-89e7-b333563937b7",
         "address": "4467-Woodlark-Ln-Charlotte-NC-28211",
         "beds": 5,
@@ -5191,6 +5212,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fd87016-c470-536a-88f8-6c222cf5b323",
+        "address": "22718-E-Silver-Creek-Ln-Queen-Creek-AZ-85142",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2231,
+        "listed_at": "2026-06-12T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.593147,
+          33.243255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1fde425c-ad79-4019-9245-a1fd09ff75b3",
         "address": "200-Cobalt-Dr-Fayetteville-GA-30214",
         "beds": 4,
@@ -7312,6 +7354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c720979-8434-5e39-bc0d-7922ae89bfd5",
+        "address": "5363-Reber-Pl-Saint-Louis-MO-63139",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2105,
+        "listed_at": "2026-06-12T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.277705,
+          38.608727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c7f2257-0fec-5118-b36a-7357685065d0",
         "address": "1738-S-Aryelle-Rd-Apache-Junction-AZ-85119",
         "beds": 3,
@@ -8650,27 +8713,6 @@
         "coordinates": [
           -93.737587,
           45.31885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "341c54aa-f2c8-5461-adb2-42e124925b16",
-        "address": "5243-N-Lydia-Ave-Kansas-City-MO-64118",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1800,
-        "listed_at": "2026-06-03T21:10:03.000Z",
-        "days_on_market": "9",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.562218,
-          39.190214
         ]
       }
     },
@@ -35089,6 +35131,27 @@
         "coordinates": [
           -83.930488,
           33.49866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4039f6c-fe5a-591f-8564-c22a27c578df",
+        "address": "29291-N-123rd-Dr-Peoria-AZ-85383-18250129",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1982,
+        "listed_at": "2026-06-12T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.326372,
+          33.74838
         ]
       }
     },
