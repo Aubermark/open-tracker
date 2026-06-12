@@ -32806,27 +32806,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cb268352-4285-5c19-b0b5-6525bd625dfa",
-        "address": "978-Tammy-Cove-Ln-Jacksonville-FL-32218",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2028,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": ">110",
-        "current_price": 311000,
-        "price_label": "$311K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.661266,
-          30.449985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cb3d70ef-4431-5da0-a269-807c4263d873",
         "address": "3630-Vanderbilt-Dr-Corona-CA-92881",
         "beds": 5,
@@ -36706,6 +36685,27 @@
         "coordinates": [
           -84.082843,
           33.784284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dcfa94eb-8fa9-5f8c-8a24-8ac3f8fc5462",
+        "address": "6774-Fairfax-Ct-Lithonia-GA-30038",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-06-12T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 224000,
+        "price_label": "$224K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.115841,
+          33.629718
         ]
       }
     },
