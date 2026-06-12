@@ -12205,6 +12205,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "49ba664e-ed58-5499-85a8-8d049b7f7da0",
+        "address": "1254-Wynford-Colony-Sw-Marietta-GA-30064",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2378,
+        "listed_at": "2026-06-12T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 418000,
+        "price_label": "$418K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.640532,
+          33.917711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "49cc01d2-9f46-501c-8cab-70f22c177927",
         "address": "17621-Meadowbridge-Dr-Lutz-FL-33549",
         "beds": 3,
@@ -17029,6 +17050,27 @@
         "coordinates": [
           -84.180413,
           33.514479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "68df58d0-77bc-5fcd-8430-74dded9bef3b",
+        "address": "1102-Lake-Michael-Way-Mebane-NC-27302",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1809,
+        "listed_at": "2026-06-12T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.253415,
+          36.104691
         ]
       }
     },
@@ -36937,27 +36979,6 @@
         "coordinates": [
           -81.284471,
           28.797731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "deff201c-ba99-5efc-b8b0-28cdb5888d30",
-        "address": "312-Montrose-Ave-Nw-Canton-OH-44708",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1648,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "95",
-        "current_price": 189000,
-        "price_label": "$189K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.415238,
-          40.801517
         ]
       }
     },
