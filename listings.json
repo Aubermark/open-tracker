@@ -4750,6 +4750,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1df37bd4-8bf4-5ec2-8cbc-688ff71c4344",
+        "address": "206-Lilly-St-Cherryville-NC-28021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1278,
+        "listed_at": "2026-06-12T14:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.394773,
+          35.384658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1df87d0b-5547-50ed-93d9-144474a80348",
         "address": "738-Flower-St-Beaumont-CA-92223",
         "beds": 5,
@@ -6466,27 +6487,6 @@
         "coordinates": [
           -111.797577,
           33.30497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "283be79a-0b5a-5497-85a9-1364535f8388",
-        "address": "2622-Cleveland-Ave-Township-Of-Washington-NJ-07676",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1935,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">110",
-        "current_price": 749000,
-        "price_label": "$749K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.056493,
-          40.995766
         ]
       }
     },
