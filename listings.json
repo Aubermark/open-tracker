@@ -4897,6 +4897,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e9456b2-330f-579a-92a1-6f6f1905a1e6",
+        "address": "523-Abbot-Muse-Virginia-Beach-VA-23452",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 969,
+        "listed_at": "2026-06-12T11:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.076892,
+          36.827782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1eaa20e1-e5a7-59d8-88ee-43482e05544e",
         "address": "4036-White-Opal-St-Las-Vegas-NV-89130",
         "beds": 5,
