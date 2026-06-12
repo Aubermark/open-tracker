@@ -1306,27 +1306,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "09682a7e-f8ab-54e5-ba44-d6c1a708e2ee",
-        "address": "324-Bassedena-Cir-S-Lakeland-FL-33805",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1043,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "63",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.960275,
-          28.070482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0980506d-b767-51a8-ad59-abfb8501cb61",
         "address": "15087-Carrick-Rd-Noblesville-IN-46062",
         "beds": 4,
@@ -5269,27 +5248,6 @@
         "coordinates": [
           -76.755398,
           38.980938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "20b739a1-4998-5a6f-b41e-03b998a8e910",
-        "address": "171-River-Ridge-Pl-Welaka-FL-32193",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1477,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "77",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.654424,
-          29.478986
         ]
       }
     },
@@ -34564,6 +34522,27 @@
         "coordinates": [
           -95.344095,
           30.048857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d2faae55-ddf2-579d-b16f-81b8e1189895",
+        "address": "1740-Covington-Ln-Foley-AL-36535",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1394,
+        "listed_at": "2026-06-12T13:20:03.000Z",
+        "days_on_market": "17",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.671733,
+          30.38673
         ]
       }
     },
