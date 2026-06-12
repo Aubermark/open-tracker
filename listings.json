@@ -6262,6 +6262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "262b72fc-616e-55bc-a835-faf3a6b8d39c",
+        "address": "9425-Cartersville-Ct-Raleigh-NC-27617",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1535,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 401000,
+        "price_label": "$401K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.739866,
+          35.913016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2646f22f-0bff-5a0f-883b-9c64cbc27dac",
         "address": "7001-Palomino-Trl-Winston-GA-30187",
         "beds": 4,
@@ -6781,6 +6802,27 @@
         "coordinates": [
           -84.621377,
           33.838054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "296559ef-1b53-55e1-b574-678919bb4a36",
+        "address": "310-Terrace-St-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1251,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": ">110",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.258639,
+          33.236648
         ]
       }
     },
@@ -8314,6 +8356,27 @@
         "coordinates": [
           -86.298448,
           39.795846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "32f98341-ac3f-54aa-857f-5c42ccef21e7",
+        "address": "4406-Urban-Dr-Cleveland-OH-44121",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2472,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.521197,
+          41.531066
         ]
       }
     },
@@ -11233,6 +11296,27 @@
         "coordinates": [
           -80.621738,
           35.37028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4423c12d-6e9e-521c-a180-f3625d24893e",
+        "address": "28-Ridgefield-Pl-Asheville-NC-28803",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3870,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1250000,
+        "price_label": "$1.250M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.532222,
+          35.525555
         ]
       }
     },
@@ -16741,6 +16825,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "655b420f-0146-5d61-9d9d-3cdfa80fcb2a",
+        "address": "209-Lacecap-Rd-Elgin-SC-29045",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2870,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.830819,
+          34.130511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65797167-ad2e-5808-851f-3d3f692981de",
         "address": "9606-Ballin-David-Dr-Spring-TX-77379",
         "beds": 3,
@@ -19528,6 +19633,27 @@
         "coordinates": [
           -81.08272,
           35.219916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76f4a8c5-e422-56cf-9130-aa0f9390b119",
+        "address": "3117-Verdugo-Dr-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1222,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.610879,
+          35.737917
         ]
       }
     },
@@ -23392,6 +23518,27 @@
         "coordinates": [
           -78.299331,
           35.691104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90259fa1-8eaf-5311-b95e-5d7798569108",
+        "address": "1014-Maple-Leaf-Rdg-Jonesboro-GA-30238",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1353,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.359151,
+          33.46624
         ]
       }
     },
@@ -30097,27 +30244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b84c3b51-7f93-5134-8828-4364a9815717",
-        "address": "905-Cedar-Dr-Melbourne-FL-32901",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1170,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "71",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.605721,
-          28.058667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b86ccbea-e428-592c-a7aa-6ba3221977cc",
         "address": "8421-E-Balfour-Dr-Tucson-AZ-85710",
         "beds": 4,
@@ -30742,6 +30868,27 @@
         "coordinates": [
           -115.291379,
           36.222996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbd97600-9e05-5ae5-9105-8c3f1ce95a86",
+        "address": "7301-Lakefall-Dr-Wake-Forest-NC-27587",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2353,
+        "listed_at": "2026-06-12T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.70142,
+          35.988129
         ]
       }
     },
