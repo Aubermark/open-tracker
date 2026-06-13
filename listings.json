@@ -5695,6 +5695,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f5678bdc-ab3e-5cc6-ad3a-48749dbd128c",
+        "address": "835-Shadow-Lake-Dr-Lithonia-GA-30058",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2288,
+        "listed_at": "2026-06-13T05:42:56.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.141151,
+          33.765385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa075257-eeb0-5369-8f03-bd4666dcefea",
         "address": "103-Mustang-Ln-Palm-Springs-CA-92262",
         "beds": 3,
