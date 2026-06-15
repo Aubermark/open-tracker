@@ -21004,6 +21004,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ef636b4-3480-5dbe-93ce-6de4eb786961",
+        "address": "1750-Evergreen-Ct-Kissimmee-FL-34746",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1584,
+        "listed_at": "2026-06-15T06:27:57.000Z",
+        "days_on_market": "20",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.421739,
+          28.213743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7efda8a6-f88f-5210-9967-0829c4cfd418",
         "address": "1482-Knights-Row-Yuba-City-CA-95991",
         "beds": 3,
