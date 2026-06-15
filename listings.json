@@ -34465,6 +34465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ceb1d4dc-c889-5648-9bf1-2126e6f02aa0",
+        "address": "2405-Celosia-Dr-Charlotte-NC-28262",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1303,
+        "listed_at": "2026-06-15T21:39:51.000Z",
+        "days_on_market": "63",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.711119,
+          35.319186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ceb55852-7fbc-547a-bda0-87085d6c1ff3",
         "address": "1423-Alaskan-Wolf-San-Antonio-TX-78245",
         "beds": 4,
