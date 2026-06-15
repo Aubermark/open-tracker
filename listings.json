@@ -18421,6 +18421,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ad27e03-56d7-5706-9fcd-37a71c0434d9",
+        "address": "17518-Rustington-Dr-Spring-TX-77379",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2466,
+        "listed_at": "2026-06-15T20:29:42.000Z",
+        "days_on_market": "21",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.521575,
+          30.03421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ae5839e-fee0-5ece-85e4-d1ca5145f5ce",
         "address": "2800-N-Surrey-Dr-Carrollton-TX-75006",
         "beds": 4,
