@@ -22516,6 +22516,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88349082-6d7f-5275-8930-67d229457594",
+        "address": "2312-E-Susan-Dr-Gilbert-AZ-85298",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3078,
+        "listed_at": "2026-06-16T19:24:47.000Z",
+        "days_on_market": "60",
+        "current_price": 824000,
+        "price_label": "$824K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.739528,
+          33.211483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
         "address": "225-Ash-Cir-Trussville-AL-35173",
         "beds": 3,
