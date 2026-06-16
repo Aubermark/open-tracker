@@ -31210,6 +31210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba5c398a-f918-5021-9dfd-7f197a659d7c",
+        "address": "142-Blue-Ridge-Trl-North-Charleston-SC-29418",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1646,
+        "listed_at": "2026-06-16T21:54:49.000Z",
+        "days_on_market": ">114",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.091905,
+          32.901453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ba7ae18e-1629-5d87-9201-988b8733dd63",
         "address": "13628-N-40th-Dr-Phoenix-AZ-85029-17771653",
         "beds": 3,
