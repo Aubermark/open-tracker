@@ -21193,6 +21193,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7fc64fce-0ff1-5f4e-93df-83fc144f0961",
+        "address": "4135-Eastway-Rd-Cleveland-OH-44121",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1654,
+        "listed_at": "2026-06-16T20:54:46.000Z",
+        "days_on_market": "36",
+        "current_price": 197000,
+        "price_label": "$197K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.531094,
+          41.504641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "803dad8b-3aa2-59ec-b508-4deaf598bfbe",
         "address": "7395-Sun-Dance-Dr-Fort-Mill-SC-29707",
         "beds": 2,
@@ -37882,27 +37903,6 @@
         "coordinates": [
           -112.203524,
           33.50573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e0522915-096f-5d5e-8a87-f769ab72bb3d",
-        "address": "4230-Sagecrest-Dr-Ne-Albany-OR-97322",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1881,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "22",
-        "current_price": 477000,
-        "price_label": "$477K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.044545,
-          44.65328
         ]
       }
     },
