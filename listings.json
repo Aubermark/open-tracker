@@ -29446,6 +29446,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af8610a2-18cd-5055-8d7a-cf4fceb4b4ed",
+        "address": "2807-Clingman-St-Hopewell-VA-23860",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2117,
+        "listed_at": "2026-06-16T21:09:46.000Z",
+        "days_on_market": ">114",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.310702,
+          37.293955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afb6fe5b-1f76-57fb-9a1e-53f95bbed99b",
         "address": "5995-Liberty-Rd-Solon-OH-44139",
         "beds": 4,
