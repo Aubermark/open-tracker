@@ -37720,6 +37720,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ddb505b5-e76b-525e-8725-98fe31837135",
+        "address": "7070-Woodchase-Glen-Dr-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1576,
+        "listed_at": "2026-06-16T12:09:46.000Z",
+        "days_on_market": "77",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.360509,
+          27.874158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "de67aa08-753e-5d99-9d55-c1daf411b6fe",
         "address": "426-Garden-Grove-Rd-Fort-Mill-SC-29708",
         "beds": 6,
