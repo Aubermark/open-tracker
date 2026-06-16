@@ -16930,27 +16930,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "654f9238-0024-5d4a-92a6-d517af68ab89",
-        "address": "1301-Judy-Ln-Copperas-Cove-TX-76522",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3009,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "28",
-        "current_price": 307000,
-        "price_label": "$307K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.892974,
-          31.107223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "655b420f-0146-5d61-9d9d-3cdfa80fcb2a",
         "address": "209-Lacecap-Rd-Elgin-SC-29045",
         "beds": 4,
@@ -38239,6 +38218,27 @@
         "coordinates": [
           -84.225835,
           33.874891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2f26958-9ec3-514a-9db3-8b975314a503",
+        "address": "252-Stone-Lake-Dr-Dallas-GA-30157",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2301,
+        "listed_at": "2026-06-16T16:55:00.000Z",
+        "days_on_market": "39",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.763675,
+          33.926565
         ]
       }
     },
