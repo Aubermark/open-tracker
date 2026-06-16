@@ -29173,6 +29173,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad3206e4-588d-52b4-9c70-83d2bdf0ea05",
+        "address": "9605-Nw-81st-St-Tamarac-FL-33321",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1654,
+        "listed_at": "2026-06-16T15:09:43.000Z",
+        "days_on_market": "15",
+        "current_price": 468000,
+        "price_label": "$468K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.280881,
+          26.225488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad8d0f40-04de-5d50-afcf-7abc9d4fe77e",
         "address": "9965-Boulder-Bend-Ln-Brookshire-TX-77423",
         "beds": 4,
