@@ -508,6 +508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0258fd82-5fb3-5d39-b2fd-719ecb5fe114",
+        "address": "1197-Clancy-Dr-Ne-Leland-NC-28451",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1653,
+        "listed_at": "2026-06-16T20:39:58.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.051367,
+          34.238063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "026ffc8b-e1d1-4723-9715-8ecec1178460",
         "address": "18664-Legend-Oaks-Dr-Magnolia-TX-77355",
         "beds": 4,
@@ -35047,27 +35068,6 @@
         "coordinates": [
           -96.981969,
           33.286439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d275a507-572d-5ed9-bbc7-1787c23ab44a",
-        "address": "1138-Glory-Vine-Rd-Whitsett-NC-27377",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1350,
-        "listed_at": "2026-06-06T05:45:05.000Z",
-        "days_on_market": "11",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.592125,
-          36.063033
         ]
       }
     },
