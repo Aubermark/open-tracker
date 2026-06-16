@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c8e8dc9-54e9-5be8-b9bd-31e96fcb7aca",
+        "address": "4835-Sandra-Ln-White-Bear-Lake-MN-55110",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2284,
+        "listed_at": "2026-06-16T19:39:44.000Z",
+        "days_on_market": "42",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.033488,
+          45.087533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1cea1fa2-a341-5658-a9e7-73c30a572ecd",
         "address": "524-Pearce-Ave-Wake-Forest-NC-27587",
         "beds": 3,
@@ -4975,27 +4996,6 @@
         "coordinates": [
           -116.989923,
           33.954355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1dff2461-ce3a-5a53-84e8-f38cb61963d6",
-        "address": "918-Bremerton-Dr-Indianapolis-IN-46229",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2034,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "28",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.96517,
-          39.781692
         ]
       }
     },
