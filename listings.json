@@ -31840,6 +31840,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c0153655-3918-57c7-a8eb-18058f048f6f",
+        "address": "15110-Paseo-Verde-Pl-Victorville-CA-92394-17371742",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1963,
+        "listed_at": "2026-06-16T18:54:51.000Z",
+        "days_on_market": "28",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.374386,
+          34.525131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c04e5113-423d-56b1-bbe1-33ed8c4dcc35",
         "address": "4252-Little-Rock-Vw-Colorado-Springs-CO-80911",
         "beds": 3,
