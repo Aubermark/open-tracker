@@ -809,14 +809,14 @@
         "sqft": 1361,
         "listed_at": "2026-06-09T05:54:11.000Z",
         "days_on_market": "8",
-        "current_price": 215000,
-        "price_label": "$215K"
+        "current_price": 224000,
+        "price_label": "$224K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.365763,
-          31.114828
+          -97.365846,
+          31.114691
         ]
       }
     },
@@ -1783,6 +1783,27 @@
         "coordinates": [
           -111.624594,
           33.408991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0b04e916-3503-51f6-8913-5de700454ac9",
+        "address": "102-Greenspan-Way-Byron-GA-31008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1418,
+        "listed_at": "2026-06-16T19:09:44.000Z",
+        "days_on_market": "46",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.713412,
+          32.624403
         ]
       }
     },
@@ -8041,6 +8062,27 @@
         "coordinates": [
           -117.823148,
           33.992346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2fb93bee-114a-509f-8a12-d7637479208c",
+        "address": "17529-W-East-Wind-Ave-Goodyear-AZ-85338",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1634,
+        "listed_at": "2026-06-16T19:09:44.000Z",
+        "days_on_market": "7",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.426143,
+          33.328033
         ]
       }
     },
