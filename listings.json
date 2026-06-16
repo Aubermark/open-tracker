@@ -38161,6 +38161,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e1b27dbd-c7a0-50d9-8ecf-64356456d9eb",
+        "address": "1309-Spruce-Meadows-Dr-Ne-Rio-Rancho-NM-87144",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2326,
+        "listed_at": "2026-06-16T20:09:43.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.710907,
+          35.319044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e250a1c3-3ee7-5e93-b96e-a2e5ef32ddc4",
         "address": "8804-Pony-Express-Trl-Ne-Albuquerque-NM-87109",
         "beds": 3,
