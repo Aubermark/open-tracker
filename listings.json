@@ -1327,6 +1327,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0817c729-7466-5ba3-98c2-2414fd0c6e77",
+        "address": "",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1458,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": ">114",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.266944,
+          34.09979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0826074d-abaf-5714-bc07-37f9622e5b14",
         "address": "410-Redtail-Rd-Jefferson-GA-30549",
         "beds": 4,
@@ -2020,27 +2041,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ce720fb-0ea5-54b4-af34-ba7d413b745d",
-        "address": "501-Yearwood-Ln-Jarrell-TX-76537-17854981",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1339,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "1",
-        "current_price": 185000,
-        "price_label": "$185K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.596847,
-          30.810988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0ce9cb40-d5ed-55d4-a4ea-603c18e8e23f",
         "address": "525-Michael-Cir-Monroe-GA-30655",
         "beds": 3,
@@ -2539,27 +2539,6 @@
         "coordinates": [
           -84.242377,
           34.082204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0f8b483a-1667-5dee-a404-b2d21281885d",
-        "address": "3302-Windsor-St-Pearland-TX-77581",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2013,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": ">114",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.274148,
-          29.555972
         ]
       }
     },
@@ -7312,27 +7291,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c45e342-ca8b-568e-9456-942f493e4fb0",
-        "address": "1508-Boone-Ave-N-Golden-Valley-MN-55427",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1942,
-        "listed_at": "2026-06-15T20:21:17.000Z",
-        "days_on_market": ">114",
-        "current_price": 437000,
-        "price_label": "$437K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.389998,
-          44.995022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c720979-8434-5e39-bc0d-7922ae89bfd5",
         "address": "5363-Reber-Pl-Saint-Louis-MO-63139",
         "beds": 3,
@@ -8530,27 +8488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32f98341-ac3f-54aa-857f-5c42ccef21e7",
-        "address": "4406-Urban-Dr-Cleveland-OH-44121",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 2472,
-        "listed_at": "2026-06-12T18:40:02.000Z",
-        "days_on_market": "4",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.521197,
-          41.531066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32ffee01-44cb-5e52-8fe3-35adabd6e5e6",
         "address": "7906-Elphin-Ct-Charlotte-NC-28270",
         "beds": 4,
@@ -8803,27 +8740,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "341ddbcf-d9b1-5952-8f11-49a54efd50e1",
-        "address": "1558-Hazelwood-Rd-Columbia-SC-29209",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1170,
-        "listed_at": "2026-06-04T22:40:02.000Z",
-        "days_on_market": "12",
-        "current_price": 168000,
-        "price_label": "$168K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.925727,
-          33.966832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3422c3de-4e1b-591b-86d0-f8690221f30c",
         "address": "3640-Red-River-Rd-New-Castle-IN-47362",
         "beds": 3,
@@ -9070,27 +8986,6 @@
         "coordinates": [
           -118.208136,
           34.620172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
-        "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1464,
-        "listed_at": "2026-06-15T20:21:17.000Z",
-        "days_on_market": "78",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.931657,
-          33.970381
         ]
       }
     },
@@ -10189,21 +10084,21 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3d12a72f-03b1-5761-9659-f7ce85aa533f",
-        "address": "4209-Hickory-St-Macclenny-FL-32063",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2976,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "62",
-        "current_price": 485000,
-        "price_label": "$485K"
+        "address_token": "3d1de655-dec0-59d1-b944-93e2503ef618",
+        "address": "257-Indian-Ridge-Ln-Lake-Villa-IL-60046",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1614,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "61",
+        "current_price": 385000,
+        "price_label": "$385K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.110881,
-          30.250317
+          -88.07618,
+          42.401099
         ]
       }
     },
@@ -11785,27 +11680,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4658998d-212f-56ee-a88f-b97aff3444cf",
-        "address": "5654-Forry-Ct-Lancaster-CA-93536",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2064,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "47",
-        "current_price": 533000,
-        "price_label": "$533K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.231673,
-          34.68049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "467bf7e3-dbc3-5ff9-bc32-2944817058e6",
         "address": "6817-Chickering-Rd-Fort-Worth-TX-76116",
         "beds": 4,
@@ -11821,27 +11695,6 @@
         "coordinates": [
           -97.427861,
           32.706847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "468e3b43-3750-510e-9df9-cb0586070feb",
-        "address": "5263-Clarion-Oaks-Dr-Orlando-FL-32808",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1286,
-        "listed_at": "2026-05-26T18:30:02.000Z",
-        "days_on_market": "21",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.447757,
-          28.606713
         ]
       }
     },
@@ -12997,27 +12850,6 @@
         "coordinates": [
           -86.64908,
           36.068968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4dc395be-01d8-5356-9159-94e55fad3ddd",
-        "address": "1729-Spinnaker-Way-Wylie-TX-75098",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1868,
-        "listed_at": "2026-06-12T19:10:02.000Z",
-        "days_on_market": "4",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.560222,
-          33.039601
         ]
       }
     },
@@ -15019,21 +14851,21 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5b66f993-0689-5898-b8ee-03877c19a8ce",
-        "address": "2158-Joseph-Hewes-Ct-Orange-Park-FL-32073",
+        "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
+        "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
         "beds": 3,
         "baths": 2,
-        "sqft": 1498,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">114",
-        "current_price": 260000,
-        "price_label": "$260K"
+        "sqft": 1387,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "57",
+        "current_price": 415000,
+        "price_label": "$415K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.765056,
-          30.1568
+          -84.594518,
+          34.162309
         ]
       }
     },
@@ -18484,27 +18316,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6fce57c2-25fd-596a-abd0-0080d7db5fc5",
-        "address": "522-Sandringham-Dr-Alpharetta-GA-30004",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1566,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "1",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.266944,
-          34.09979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6fe3e5d2-0fde-5fd5-9593-047e0067136c",
         "address": "10186-Zeno-St-Commerce-City-CO-80022",
         "beds": 3,
@@ -20227,27 +20038,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a121387-e8dd-5eeb-a621-7cde3df01ca4",
-        "address": "6018-Bridge-Garden-Rd-Knoxville-TN-37912",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-06-02T16:40:03.000Z",
-        "days_on_market": "14",
-        "current_price": 293000,
-        "price_label": "$293K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.005788,
-          36.001136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a68171b-48f0-5f32-8964-e0be92801fa4",
         "address": "40406-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
@@ -20746,27 +20536,6 @@
         "coordinates": [
           -80.926432,
           34.052765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7dd21d08-b768-47f1-accf-0621477ccdbe",
-        "address": "401-Fort-William-St-Hutto-TX-78634",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1681,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "1",
-        "current_price": 329000,
-        "price_label": "$329K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.582136,
-          30.514991
         ]
       }
     },
@@ -28333,27 +28102,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "aad32c66-944e-571f-a0bd-d77162dc6922",
-        "address": "1217-Ashley-Dr-Weatherford-TX-76087",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2268,
-        "listed_at": "2026-06-15T20:21:17.000Z",
-        "days_on_market": "54",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.820042,
-          32.722171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "aaef8075-0d7f-5d92-aef5-d334d26e7c83",
         "address": "761-Nocatee-Village-Dr-Ponte-Vedra-FL-32081",
         "beds": 4,
@@ -29902,6 +29650,27 @@
         "coordinates": [
           -97.36584,
           32.526295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b2f15c88-489a-5058-910a-caab11826047",
+        "address": "10113-Rosemary-Leaf-Ln-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1555,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": ">114",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.342095,
+          27.806417
         ]
       }
     },
@@ -33478,6 +33247,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb8f9186-ea55-567f-983f-e079acc70b5f",
+        "address": "",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2556,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "69",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491213,
+          33.82228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb970a34-b9ee-5390-80ba-3f0bf91dcdaa",
         "address": "6764-W-Piute-Ave-Glendale-AZ-85308",
         "beds": 5,
@@ -34780,6 +34570,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d1bb9f85-f238-5e15-a9b2-5ca72b22f2dc",
+        "address": "",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1681,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "42",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.582131,
+          30.514991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d1d07b03-561f-59fe-a7ed-01f7bc6a3eb3",
         "address": "203-Taylor-Bay-Ln-Brandon-FL-33510",
         "beds": 4,
@@ -35131,6 +34942,27 @@
         "coordinates": [
           -80.904737,
           34.150969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d31b2f61-82b9-5b93-a4cb-701f711cefe9",
+        "address": "831-Haulover-Dr-Altamonte-Springs-FL-32714",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "94",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.400965,
+          28.676474
         ]
       }
     },
@@ -39547,27 +39379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eaecbbad-2318-569d-ae32-f5b05597047d",
-        "address": "13904-Prairie-Vista-Ln-Ponder-TX-76259",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2448,
-        "listed_at": "2026-06-03T21:50:02.000Z",
-        "days_on_market": "13",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.370775,
-          33.241967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eb1f59c5-d61c-51a6-bb0d-ad0cd4fd477c",
         "address": "617-Birchbark-Trl-Saint-Augustine-FL-32092-18176103",
         "beds": 4,
@@ -39925,6 +39736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ed28e651-e7c3-5ff1-9283-f090853400b7",
+        "address": "5016-Watercrest-Trl-Belmont-NC-28012",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2757,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": "81",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.048274,
+          35.16611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ed7c6636-2fd1-5b91-b7a3-25a383783f72",
         "address": "132-Grafton-Ln-Lexington-SC-29072",
         "beds": 4,
@@ -40087,6 +39919,27 @@
         "coordinates": [
           -86.44255,
           35.805805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eeb8ad02-045e-5bfd-bffa-4cd0817c19a4",
+        "address": "130-S-Estes-Dr-Apt-B7-Chapel-Hill-NC-27514",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 659,
+        "listed_at": "2026-06-17T06:42:16.000Z",
+        "days_on_market": ">114",
+        "current_price": 126000,
+        "price_label": "$126K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03025,
+          35.926567
         ]
       }
     },
@@ -42355,27 +42208,6 @@
         "coordinates": [
           -84.833705,
           33.602119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fcdd3c3d-70cc-517a-829b-4b3a0ee3f22b",
-        "address": "2118-Landsmere-Dr-Se-Mableton-GA-30126",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2148,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "1",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.491213,
-          33.82228
         ]
       }
     },
