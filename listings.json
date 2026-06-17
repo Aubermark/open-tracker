@@ -3028,6 +3028,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12058ebd-bfc1-51f9-854e-62e5babcea28",
+        "address": "737-Gulf-Coast-Blvd-Venice-FL-34285",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 864,
+        "listed_at": "2026-06-17T19:50:03.000Z",
+        "days_on_market": "92",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43204,
+          27.094051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "120f545c-0054-5bed-ac39-5a0b0a94d241",
         "address": "83-Eagle-Rock-Pl-Clayton-NC-27520",
         "beds": 3,
@@ -25372,6 +25393,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a07e463-7e7d-5855-96b4-af7bcfbc21c8",
+        "address": "5155-Summerlinn-Way-West-Linn-OR-97068",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-06-17T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.653674,
+          45.352611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a425b56-6a1e-5176-880e-86d670b8362e",
         "address": "3772-Havenmist-Cv-Suwanee-GA-30024",
         "beds": 4,
@@ -26947,6 +26989,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a3a6dea9-2ca9-5b0b-91c9-9b1ac421e4e8",
+        "address": "581-Braxton-Blvd-Fayetteville-NC-28311",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1265,
+        "listed_at": "2026-06-17T19:50:03.000Z",
+        "days_on_market": ">115",
+        "current_price": 167000,
+        "price_label": "$167K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.915798,
+          35.153207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3b454af-5cc0-5fb4-8179-bf52be48bbf9",
         "address": "1811-Henley-St-Saint-Cloud-FL-34771",
         "beds": 5,
@@ -28369,6 +28432,27 @@
         "coordinates": [
           -111.705356,
           33.624294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac0c6df8-54ae-58f2-80ca-61cd85341076",
+        "address": "410-B-St-Belton-MO-64012",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1526,
+        "listed_at": "2026-06-17T19:50:03.000Z",
+        "days_on_market": "65",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.530223,
+          38.812892
         ]
       }
     },
@@ -33871,27 +33955,6 @@
         "coordinates": [
           -90.504407,
           38.777593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce7c93f5-7b34-51aa-9d23-4b21cdbd100e",
-        "address": "644-Carybrook-Ct-York-SC-29745",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2141,
-        "listed_at": "2026-05-14T06:31:40.000Z",
-        "days_on_market": "103",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.217557,
-          34.992183
         ]
       }
     },
