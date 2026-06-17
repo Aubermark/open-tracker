@@ -2230,6 +2230,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
+        "address": "1623-12th-St-Saint-Cloud-FL-34769",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1558,
+        "listed_at": "2026-06-17T15:10:03.000Z",
+        "days_on_market": "92",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.287872,
+          28.246829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dd20171-e8d5-5f7a-869c-695ddf4cca66",
         "address": "8033-145th-Ave-Ne-Redmond-WA-98052",
         "beds": 2,
@@ -6571,6 +6592,27 @@
         "coordinates": [
           -81.097389,
           35.003818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "27dfb152-4390-585a-872c-92e0f4628a7f",
+        "address": "1770-Ne-37th-St-Ocala-FL-34479",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-06-17T15:10:03.000Z",
+        "days_on_market": "51",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.114514,
+          29.225033
         ]
       }
     },
