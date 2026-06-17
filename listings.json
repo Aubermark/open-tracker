@@ -7900,6 +7900,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f521140-3135-524d-bf80-b42d5a06eb7e",
+        "address": "6330-Tahoe-Dr-College-Park-GA-30349-18161322",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2025,
+        "listed_at": "2026-06-17T18:30:03.000Z",
+        "days_on_market": "43",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49601,
+          33.583497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f57af8b-8441-5833-b0bb-1ba9779ce1c6",
         "address": "3801-Grecian-Ct-Plano-TX-75074",
         "beds": 3,
@@ -12325,6 +12346,27 @@
         "coordinates": [
           -95.767542,
           29.772168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4a7d6500-6881-5a7a-b4d3-c5cc0b81a162",
+        "address": "3818-Nw-46th-St-Cape-Coral-FL-33993",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2032,
+        "listed_at": "2026-06-17T18:30:03.000Z",
+        "days_on_market": "99",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.051634,
+          26.745455
         ]
       }
     },
@@ -27409,6 +27451,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a6bbdcc6-8352-5408-a362-1a4e0a60a919",
+        "address": "1606-Fieldgreen-Overlook-Stone-Mountain-GA-30088",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1885,
+        "listed_at": "2026-06-17T18:30:03.000Z",
+        "days_on_market": ">115",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.184753,
+          33.752682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a6c2c13a-5ad5-5c12-9795-f4702afa0e73",
         "address": "124-Creekview-Dr-Woodstock-GA-30188",
         "beds": 3,
@@ -31015,27 +31078,6 @@
         "coordinates": [
           -115.035667,
           36.154811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bc27d543-efd3-5efc-9815-5f0ed342c660",
-        "address": "3990-Black-Butte-Cir-Stockton-CA-95209",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1425,
-        "listed_at": "2026-05-26T16:10:02.000Z",
-        "days_on_market": "22",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.367361,
-          38.046621
         ]
       }
     },
