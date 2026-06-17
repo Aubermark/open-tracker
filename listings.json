@@ -8992,6 +8992,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3590d9ed-6b4d-53fb-b02a-8585ae5ca80d",
+        "address": "258-Alcovy-Walk-Dr-Lawrenceville-GA-30045",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1464,
+        "listed_at": "2026-06-17T14:30:03.000Z",
+        "days_on_market": "79",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.931657,
+          33.970381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35d61bdf-770e-5895-adbd-806c90f17bc3",
         "address": "214-Cornell-Dr-Warner-Robins-GA-31093",
         "beds": 3,
@@ -12031,6 +12052,27 @@
         "coordinates": [
           -98.312205,
           29.465908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4855959b-b2ac-5952-8c83-942d2645251c",
+        "address": "11607-English-St-Orlando-FL-32817",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1078,
+        "listed_at": "2026-06-17T14:30:03.000Z",
+        "days_on_market": "35",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.231815,
+          28.57519
         ]
       }
     },
@@ -37378,27 +37420,6 @@
         "coordinates": [
           -111.494221,
           33.101736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "df265f9f-ba43-5bc1-996b-b0353f00c9d3",
-        "address": "107-Trailing-Ivy-Ct-Lyman-SC-29365",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1672,
-        "listed_at": "2026-06-15T20:21:17.000Z",
-        "days_on_market": "13",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.20659,
-          34.989259
         ]
       }
     },
