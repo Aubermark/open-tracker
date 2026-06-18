@@ -2188,6 +2188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d9bf4f0-8768-566b-af84-69069be92fd9",
+        "address": "5202-E-78th-Pl-Tulsa-OK-74136",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2420,
+        "listed_at": "2026-06-18T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.91738,
+          36.05014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d9d3cdb-b25e-4965-81ca-4f05e2ffd358",
         "address": "2307-Burney-Falls-Ln-Davenport-FL-33837",
         "beds": 3,
@@ -6907,6 +6928,27 @@
         "coordinates": [
           -80.594505,
           35.550829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "296559ef-1b53-55e1-b574-678919bb4a36",
+        "address": "310-Terrace-St-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1251,
+        "listed_at": "2026-06-18T18:00:03.000Z",
+        "days_on_market": ">116",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.258639,
+          33.236648
         ]
       }
     },
@@ -15769,6 +15811,27 @@
         "coordinates": [
           -82.42754,
           27.984882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e88209f-3fbf-5cb2-aa2e-ed581e640fed",
+        "address": "12160-E-23rd-St-Tulsa-OK-74129",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1179,
+        "listed_at": "2026-06-18T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.839045,
+          36.130269
         ]
       }
     },
@@ -27046,27 +27109,6 @@
         "coordinates": [
           -78.915798,
           35.153207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a3b454af-5cc0-5fb4-8179-bf52be48bbf9",
-        "address": "1811-Henley-St-Saint-Cloud-FL-34771",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3119,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "38",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.224206,
-          28.253675
         ]
       }
     },
