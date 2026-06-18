@@ -2692,27 +2692,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "10ba0022-3493-5021-9c30-cbeeaf82f8c3",
-        "address": "1985-Capri-Dr-Decatur-GA-30032",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1614,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "35",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.309102,
-          33.724508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "10bab3bb-80ba-565c-95d3-7916ce36fcf1",
         "address": "30-Roberson-Dr-Ne-Cartersville-GA-30121",
         "beds": 4,
@@ -6067,6 +6046,27 @@
         "coordinates": [
           -112.300288,
           33.55721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
+        "address": "819-Scenic-Cir-Seymour-TN-37865",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1500,
+        "listed_at": "2026-06-18T20:00:05.000Z",
+        "days_on_market": "49",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.754558,
+          35.894039
         ]
       }
     },
@@ -10162,27 +10162,6 @@
         "coordinates": [
           -84.082567,
           33.910575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3d1de655-dec0-59d1-b944-93e2503ef618",
-        "address": "257-Indian-Ridge-Ln-Lake-Villa-IL-60046",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1614,
-        "listed_at": "2026-06-17T06:42:16.000Z",
-        "days_on_market": "63",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.07618,
-          42.401099
         ]
       }
     },
@@ -16315,27 +16294,6 @@
         "coordinates": [
           -83.332886,
           33.905248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6192e09b-d2a3-5b00-a0e4-383cc2614055",
-        "address": "212-House-Ave-Sandia-TX-78383",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2442,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "53",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.931325,
-          28.041615
         ]
       }
     },
@@ -38764,27 +38722,6 @@
         "coordinates": [
           -80.262693,
           27.271193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e7642f41-fdec-558e-8222-dbb66ed258a7",
-        "address": "601-Evans-Ct-El-Dorado-Hills-CA-95762",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1712,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "59",
-        "current_price": 617000,
-        "price_label": "$617K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.064033,
-          38.623094
         ]
       }
     },
