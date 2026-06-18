@@ -6346,6 +6346,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26758e2f-88d0-51cf-b5b8-0320e558527f",
+        "address": "42-E-Main-St-Gloucester-MA-01930",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 903,
+        "listed_at": "2026-06-18T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.647722,
+          42.616153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2699c828-f20c-55bb-a12e-01b8934b9e34",
         "address": "3323-Abana-Path-The-Villages-FL-32163",
         "beds": 3,
@@ -14908,6 +14929,27 @@
         "coordinates": [
           -111.554614,
           33.224321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5a3260ec-1f4b-54b7-968b-bc95290cae26",
+        "address": "7923-Fawn-Run-Jessup-MD-20794",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3521,
+        "listed_at": "2026-06-18T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 760000,
+        "price_label": "$760K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.814852,
+          39.156876
         ]
       }
     },
