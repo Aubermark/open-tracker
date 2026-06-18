@@ -10756,6 +10756,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "415b705f-4815-5f2d-bd70-8acb5a3ea848",
+        "address": "6060-W-Hollyhock-Dr-Phoenix-AZ-85033",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1572,
+        "listed_at": "2026-06-18T16:40:05.000Z",
+        "days_on_market": "14",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.191017,
+          33.486463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
         "address": "13167-Roma-Bnd-Carmel-IN-46074",
         "beds": 3,
@@ -30496,27 +30517,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b8c3be48-58b4-54dd-a590-c2747bc6b8e4",
-        "address": "309-Cedar-Glade-Ct-Lebanon-TN-37090",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1772,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "91",
-        "current_price": 407000,
-        "price_label": "$407K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.397042,
-          36.187767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b8cb0016-d68d-5f77-8a2e-783a46f5ef5e",
         "address": "1145-Rivera-Dr-Wrightwood-CA-92397",
         "beds": 3,
@@ -30721,27 +30721,6 @@
         "coordinates": [
           -80.865027,
           35.034595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b9e4fea7-b4ae-5f18-9e25-89f953c95341",
-        "address": "3087-Key-Largo-Dr-Unit-201-Las-Vegas-NV-89120",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 987,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "20",
-        "current_price": 183000,
-        "price_label": "$183K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.107952,
-          36.097041
         ]
       }
     },
@@ -38407,27 +38386,6 @@
         "coordinates": [
           -82.058343,
           35.037814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e695bdb9-edc1-5bc0-955d-4501569c6a59",
-        "address": "6654-Hazelhatch-Dr-Indianapolis-IN-46268",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1236,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "94",
-        "current_price": 247000,
-        "price_label": "$247K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.209052,
-          39.877435
         ]
       }
     },
