@@ -14137,6 +14137,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "559072f9-f9b1-5a4e-b05a-7195e3bb6aa1",
+        "address": "8509-Ivoryton-Way-Montgomery-Village-MD-20886",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2285,
+        "listed_at": "2026-06-18T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 523000,
+        "price_label": "$523K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.178181,
+          39.185033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "55909659-ec5f-50b5-afcd-ad1b0099758c",
         "address": "3622-Shady-Grove-Cir-Orlando-FL-32810",
         "beds": 2,
@@ -19045,6 +19066,27 @@
         "coordinates": [
           -84.066002,
           33.816216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "72e97161-27fa-53cd-8e15-157fb5218755",
+        "address": "3066-Candlelight-Dr-Fayetteville-NC-28311",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1295,
+        "listed_at": "2026-06-18T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.881497,
+          35.133218
         ]
       }
     },
@@ -25849,6 +25891,27 @@
         "coordinates": [
           -78.576775,
           35.852922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9c835b15-28f6-5b80-ba87-00acb6dcd65c",
+        "address": "5416-Shipman-Rd-Hope-Mills-NC-28348",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2295,
+        "listed_at": "2026-06-18T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.934374,
+          34.942896
         ]
       }
     },
@@ -38029,27 +38092,6 @@
         "coordinates": [
           -84.763675,
           33.926565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2fc82c6-196b-598e-87e2-57c274737b74",
-        "address": "314-N-Briggs-Ave-Durham-NC-27703",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 950,
-        "listed_at": "2026-06-08T16:30:04.000Z",
-        "days_on_market": "87",
-        "current_price": 213000,
-        "price_label": "$213K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.874601,
-          35.989926
         ]
       }
     },
