@@ -19996,27 +19996,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "78a48d78-319d-58c6-a649-58c6983d645c",
-        "address": "18513-Se-Stephens-St-Portland-OR-97233",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 993,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "37",
-        "current_price": 407000,
-        "price_label": "$407K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.472144,
-          45.509301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "78b548d8-95e6-59ba-b8ee-351655b62471",
         "address": "383-Eureka-Dr-Santa-Paula-CA-93060",
         "beds": 3,
@@ -31141,6 +31120,27 @@
         "coordinates": [
           -84.211147,
           33.574637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bc887b47-637e-5dae-a828-1c93695904cd",
+        "address": "542-Lee-St-Thomson-GA-30824",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1612,
+        "listed_at": "2026-06-19T17:00:03.000Z",
+        "days_on_market": "73",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.509832,
+          33.473999
         ]
       }
     },
