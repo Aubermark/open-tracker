@@ -39001,6 +39001,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ea1ca702-187d-5609-9325-9a14e4e6521a",
+        "address": "1729-Elmstead-Ct-Orlando-FL-32824",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2004,
+        "listed_at": "2026-06-19T13:10:04.000Z",
+        "days_on_market": "98",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.356372,
+          28.353072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ea74d4bf-2121-54c7-a072-d8908372161e",
         "address": "10184-Ferncrest-St-Firestone-CO-80504",
         "beds": 2,
