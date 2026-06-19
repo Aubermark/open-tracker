@@ -3217,6 +3217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1331a549-9ca4-56dd-b1a7-418c51efb012",
+        "address": "21234-Cinch-Run-San-Antonio-TX-78258",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3533,
+        "listed_at": "2026-06-19T19:40:03.000Z",
+        "days_on_market": "51",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.473015,
+          29.639317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1332f14c-939b-57fa-a261-b3e0552a0781",
         "address": "7770-Llangollen-Way-Cumming-GA-30041-18065301",
         "beds": 4,
@@ -4030,27 +4051,6 @@
         "coordinates": [
           -112.503126,
           33.495315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "170b793f-0093-5821-b1f4-ebc7cc19228c",
-        "address": "642-W-Cassidy-Pl-Tucson-AZ-85737",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1524,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "60",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.979918,
-          32.395296
         ]
       }
     },
@@ -15937,6 +15937,27 @@
         "coordinates": [
           -111.69775,
           33.473456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f8a22af-fddf-5d97-ba68-ad3aaefb3fc8",
+        "address": "12825-Clifford-Cir-Carmel-IN-46032",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2733,
+        "listed_at": "2026-06-19T19:40:03.000Z",
+        "days_on_market": ">117",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.162375,
+          39.97119
         ]
       }
     },
