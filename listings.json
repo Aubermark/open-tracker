@@ -3973,6 +3973,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c9eed9-a909-505f-886a-93584c537b98",
+        "address": "2925-Lake-Port-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2870,
+        "listed_at": "2026-06-19T14:30:03.000Z",
+        "days_on_market": "60",
+        "current_price": 389000,
+        "price_label": "$389K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.993959,
+          33.803707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16f0bcee-2d6c-54b0-ae91-aad8d8682410",
         "address": "9580-Brentwood-Way-Unit-D-Westminster-CO-80021",
         "beds": 2,
@@ -7348,6 +7369,27 @@
         "coordinates": [
           -76.996342,
           38.830758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2c45e342-ca8b-568e-9456-942f493e4fb0",
+        "address": "1508-Boone-Ave-N-Golden-Valley-MN-55427",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1942,
+        "listed_at": "2026-06-19T14:30:03.000Z",
+        "days_on_market": ">117",
+        "current_price": 437000,
+        "price_label": "$437K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.389998,
+          44.995022
         ]
       }
     },
@@ -16777,27 +16819,6 @@
         "coordinates": [
           -104.964662,
           39.906899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65220951-2144-55b7-bee5-530175b701b1",
-        "address": "5051-12th-St-Ne-Washington-DC-20017",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1152,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "4",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99029,
-          38.952116
         ]
       }
     },
