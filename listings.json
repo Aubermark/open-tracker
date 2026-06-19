@@ -14263,6 +14263,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56cf1aae-23c5-5abe-b68e-96ad234159e9",
+        "address": "2337-W-Tierra-Buena-Ln-Phoenix-AZ-85023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1395,
+        "listed_at": "2026-06-19T16:21:58.000Z",
+        "days_on_market": "114",
+        "current_price": 409000,
+        "price_label": "$409K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.109648,
+          33.628667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56d33236-0504-5119-a0de-90c337a191b0",
         "address": "5225-W-Wild-Burro-Spring-Dr-Marana-AZ-85658",
         "beds": 4,
