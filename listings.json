@@ -29257,6 +29257,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae7279b2-601b-5594-a917-b158b1257862",
+        "address": "15311-Woodforest-Blvd-Channelview-TX-77530",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1646,
+        "listed_at": "2026-06-20T13:20:03.000Z",
+        "days_on_market": ">118",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.139332,
+          29.789181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae8cd4be-6706-5bc4-af35-3ce7935952e6",
         "address": "235-White-Cloud-Trl-Murfreesboro-TN-37127",
         "beds": 3,
