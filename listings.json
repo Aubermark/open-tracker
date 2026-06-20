@@ -39505,6 +39505,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9b1bdfb-3106-5e40-9d83-a64d8badb65a",
+        "address": "17213-Monroe-St-Nw-Elk-River-MN-55330",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1298,
+        "listed_at": "2026-06-20T06:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.532485,
+          45.284266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9db37a5-6d9e-5969-854f-fff53e25c2b4",
         "address": "2804-Rice-Dr-Rowlett-TX-75088",
         "beds": 4,
