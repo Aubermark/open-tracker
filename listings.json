@@ -24616,6 +24616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9345ebfc-3c1e-5653-8a93-d28dff4d355b",
+        "address": "2440-Bracknell-Forest-Trl-Tavares-FL-32778",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1629,
+        "listed_at": "2026-06-20T12:40:03.000Z",
+        "days_on_market": "58",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.699354,
+          28.806631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "935a49d3-3db7-550f-8ebe-c40212175e54",
         "address": "1010-North-Ave-Hopewell-VA-23860",
         "beds": 3,
@@ -27760,27 +27781,6 @@
         "coordinates": [
           -123.963072,
           45.198946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a6bbdcc6-8352-5408-a362-1a4e0a60a919",
-        "address": "1606-Fieldgreen-Overlook-Stone-Mountain-GA-30088",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1885,
-        "listed_at": "2026-06-17T18:30:03.000Z",
-        "days_on_market": ">118",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.184753,
-          33.752682
         ]
       }
     },
