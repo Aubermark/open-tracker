@@ -19471,6 +19471,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "744dcb83-da70-5d4d-884e-c611b3c10922",
+        "address": "18220-Duck-Lake-Trl-Eden-Prairie-MN-55346",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2004,
+        "listed_at": "2026-06-20T12:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.508593,
+          44.877363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "74719bf9-f204-580c-895a-00433666b309",
         "address": "5080-Windsor-Forrest-Ln-College-Park-GA-30349",
         "beds": 3,
@@ -30679,6 +30700,27 @@
         "coordinates": [
           -90.495542,
           38.802343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b754cdf5-42b9-59e6-bb5e-4e9ba5afbe00",
+        "address": "5414-Coppedge-Ave-Jacksonville-FL-32277",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1700,
+        "listed_at": "2026-06-20T12:00:03.000Z",
+        "days_on_market": "114",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.609997,
+          30.367599
         ]
       }
     },
