@@ -18295,6 +18295,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cec8008-2423-5a96-95c3-2e961eef6393",
+        "address": "1695-Abell-St-Saint-Paul-MN-55117",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2012,
+        "listed_at": "2026-06-20T08:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0993,
+          44.992306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ceee25b-1204-5899-972f-630842907c6c",
         "address": "53-Brookside-Way-Dawsonville-GA-30534",
         "beds": 4,
@@ -27886,6 +27907,27 @@
         "coordinates": [
           -111.188208,
           32.431324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a79d89d2-e551-58f3-9ab3-a7d07e5f5ecb",
+        "address": "6026-Xerxes-Ave-S-Edina-MN-55410",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1539,
+        "listed_at": "2026-06-20T08:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.319173,
+          44.893435
         ]
       }
     },
@@ -42481,6 +42523,27 @@
         "coordinates": [
           -86.279515,
           39.842084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb2291bf-45cc-5883-b9df-123dbbcd3f98",
+        "address": "107-Nathan-Dr-Owens-Cross-Roads-AL-35763",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-06-20T08:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.444582,
+          34.591344
         ]
       }
     },
