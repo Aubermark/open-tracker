@@ -31021,6 +31021,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8fa6b35-1a09-5e9e-82ed-d544d64c8ff4",
+        "address": "510-24th-St-Sw-Rochester-MN-55902",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2610,
+        "listed_at": "2026-06-20T14:40:03.000Z",
+        "days_on_market": "106",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.469098,
+          43.987122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b912b37f-d958-4233-8f04-f09de40bf062",
         "address": "9423-Gulf-Shore-Ter-Parrish-FL-34219",
         "beds": 3,
@@ -34522,27 +34543,6 @@
         "coordinates": [
           -90.504407,
           38.777593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ce8f0375-7a76-5d1a-bd3d-e2d5c6b27ad2",
-        "address": "528-Pecan-Dr-Schertz-TX-78154",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1365,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "61",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.274591,
-          29.561282
         ]
       }
     },
