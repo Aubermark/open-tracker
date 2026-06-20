@@ -21928,6 +21928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "841a512c-dec2-57a8-97df-3d7d8a2e03f1",
+        "address": "8251-S-Evening-Dr-Pendleton-IN-46064",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3126,
+        "listed_at": "2026-06-20T18:00:03.000Z",
+        "days_on_market": "114",
+        "current_price": 369000,
+        "price_label": "$369K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.855926,
+          39.983962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "842b2c97-c5da-53f5-9764-56a0017d59bd",
         "address": "1011-Meagan-Ct-Bessemer-City-NC-28016",
         "beds": 3,
@@ -26983,27 +27004,6 @@
         "coordinates": [
           -122.890629,
           45.532213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a284ec8e-960c-5d50-b974-5b40cb6f6c85",
-        "address": "18676-Mill-Grove-Dr-Noblesville-IN-46062",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2545,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "61",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.066147,
-          40.059208
         ]
       }
     },
