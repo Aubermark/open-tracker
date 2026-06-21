@@ -9937,6 +9937,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b13e38d-0518-56ea-8d0f-4d132db0b893",
+        "address": "8351-Kipling-Ct-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1561,
+        "listed_at": "2026-06-21T15:20:03.000Z",
+        "days_on_market": "27",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788342,
+          30.235927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
