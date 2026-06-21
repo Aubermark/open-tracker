@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1dff2461-ce3a-5a53-84e8-f38cb61963d6",
+        "address": "918-Bremerton-Dr-Indianapolis-IN-46229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2034,
+        "listed_at": "2026-06-21T06:53:00.000Z",
+        "days_on_market": "32",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96517,
+          39.781692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e21328b-2897-5979-b2ec-f5bf5b930e30",
         "address": "101-Denison-St-Fredericksburg-VA-22406",
         "beds": 3,
@@ -11233,27 +11254,6 @@
         "coordinates": [
           -98.404028,
           29.528746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "42b8a15b-a8d2-546a-9543-853dfc39d0c9",
-        "address": "5409-Hickory-Dr-Fort-Pierce-FL-34982",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1124,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">118",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.305548,
-          27.365601
         ]
       }
     },
@@ -22132,6 +22132,27 @@
         "coordinates": [
           -81.957039,
           35.034066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85538ef2-5bca-5b69-9e38-2f1d43a7dfaf",
+        "address": "1107-Wynnes-Ridge-Cir-Se-Marietta-GA-30067",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1179,
+        "listed_at": "2026-06-21T06:53:00.000Z",
+        "days_on_market": "57",
+        "current_price": 197000,
+        "price_label": "$197K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.468339,
+          33.913762
         ]
       }
     },
