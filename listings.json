@@ -12079,6 +12079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "48049264-b761-59ff-b49f-f6fe9584afec",
+        "address": "5605-Windsong-Oak-Dr-Leesburg-FL-34748",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2236,
+        "listed_at": "2026-06-22T11:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.858372,
+          28.725408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "480a8d69-d8b4-5e21-b22d-699553526cfc",
         "address": "621-S-Timber-Ln-Oklahoma-City-OK-73130",
         "beds": 3,
