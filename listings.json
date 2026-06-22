@@ -9538,27 +9538,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "39ab20aa-07bc-5e71-8d98-8ba1b979aa25",
-        "address": "16-Knob-Hill-Rd-Hackettstown-NJ-07840",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2568,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": ">120",
-        "current_price": 615000,
-        "price_label": "$615K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.816698,
-          40.826046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "39ba6a9f-faa9-5041-82e2-1351603b7642",
         "address": "335-Hunters-Gln-Fayetteville-GA-30215",
         "beds": 4,
@@ -25471,6 +25450,27 @@
         "coordinates": [
           -105.015167,
           39.542266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9976fdd5-d08f-4c14-ae6e-81056acc3ba0",
+        "address": "13176-Twin-Bridges-Dr-Riverview-FL-33579",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3573,
+        "listed_at": "2026-06-22T14:00:03.000Z",
+        "days_on_market": "14",
+        "current_price": 712000,
+        "price_label": "$712K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26284,
+          27.809579
         ]
       }
     },
