@@ -4099,6 +4099,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17fab463-910c-5a0c-981d-45f7829d1e69",
+        "address": "2695-E-Vermont-Ct-Gilbert-AZ-85295-18320450",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2025,
+        "listed_at": "2026-06-22T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.731873,
+          33.303642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1816e566-eff4-5dd7-b57b-f27e8a73018d",
         "address": "1821-Monroe-Dr-Ne-Atlanta-GA-30324",
         "beds": 3,
@@ -19261,6 +19282,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "73f20bae-d8af-5a61-8359-35b14f2611da",
+        "address": "13637-Heather-Hills-Dr-Burnsville-MN-55337",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1560,
+        "listed_at": "2026-06-22T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.255952,
+          44.757623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "742c14f5-9620-5f15-9e55-67d1045f3dbc",
         "address": "510-Wicklow-Dr-Manchester-MO-63021",
         "beds": 3,
@@ -19339,6 +19381,27 @@
         "coordinates": [
           -93.508593,
           44.877363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74635c64-bd40-5a96-afa7-e39e2d02c94b",
+        "address": "8023-Shadow-Frst-San-Antonio-TX-78239",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1466,
+        "listed_at": "2026-06-22T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.35959,
+          29.508535
         ]
       }
     },
