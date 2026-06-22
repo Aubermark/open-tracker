@@ -5317,6 +5317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "202e4fd6-2f44-59cf-87cb-5225665af3b0",
+        "address": "2308-S-Park-Ave-Sanford-FL-32771",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1006,
+        "listed_at": "2026-06-22T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.268223,
+          28.791104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2033da74-7686-5593-b138-b6069e721953",
         "address": "2219-S-Estrella-Mesa-AZ-85202",
         "beds": 4,
@@ -6172,27 +6193,6 @@
         "coordinates": [
           -83.696436,
           34.02335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "25beb7ea-32b4-5982-8f07-34cbc824b773",
-        "address": "405-San-Ambrosio-St-Punta-Gorda-FL-33983",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1650,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "84",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.011698,
-          27.021307
         ]
       }
     },
@@ -20122,6 +20122,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "77d19ea3-c8b3-5776-a78e-e08e66906cb4",
+        "address": "1848-Capeside-Cir-Wellington-FL-33414",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1928,
+        "listed_at": "2026-06-22T18:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.247493,
+          26.654347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77f11cbe-4312-5e52-8a4d-20146c94729e",
         "address": "6902-Fawncliff-Dr-Houston-TX-77069",
         "beds": 4,
@@ -33997,27 +34018,6 @@
         "coordinates": [
           -86.081697,
           39.830799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cc56cc64-0bd0-5d55-b55e-f7708f049b94",
-        "address": "9445-Sleepy-Hollow-Ln-Jonesboro-GA-30238",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1500,
-        "listed_at": "2026-06-12T06:05:17.000Z",
-        "days_on_market": "112",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.401768,
-          33.497963
         ]
       }
     },
