@@ -8509,27 +8509,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "322bedb3-876e-5021-8174-89245cbe9b1c",
-        "address": "26319-Watercypress-Ct-Cypress-TX-77433",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3920,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "27",
-        "current_price": 608000,
-        "price_label": "$608K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.703991,
-          29.949162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "323e713b-e2ff-5767-b6d8-b9997ec9bac7",
         "address": "5644-Eichen-Cir-W-Fort-Myers-FL-33919",
         "beds": 3,
@@ -27703,27 +27682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a6239de1-1721-5998-b26d-32f9c01104a2",
-        "address": "817-S-9th-St-Alhambra-CA-91801",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1299,
-        "listed_at": "2026-05-04T19:00:04.000Z",
-        "days_on_market": "49",
-        "current_price": 990000,
-        "price_label": "$990K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.133541,
-          34.083348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a64fb83e-3c9d-553a-b5f8-13c94ba5d447",
         "address": "3510-Cedartree-Ter-Winston-Salem-NC-27127",
         "beds": 3,
@@ -39268,6 +39226,27 @@
         "coordinates": [
           -86.713444,
           33.554568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e8c26555-9345-5fbe-a045-0124e1d8cb54",
+        "address": "824-Tuscan-Rd-Harker-Heights-TX-76548",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3022,
+        "listed_at": "2026-06-22T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.662279,
+          31.040042
         ]
       }
     },
