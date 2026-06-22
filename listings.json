@@ -3259,6 +3259,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13b19dc9-2d73-5b55-956f-7b16e87489e2",
+        "address": "5406-S-Hearsey-Dr-Austin-TX-78744",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2170,
+        "listed_at": "2026-06-22T19:10:03.000Z",
+        "days_on_market": "49",
+        "current_price": 379000,
+        "price_label": "$379K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.732639,
+          30.19809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
         "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
         "beds": 4,
@@ -23560,6 +23581,27 @@
         "coordinates": [
           -97.189279,
           32.704659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8d1096eb-208a-58cf-88d1-ea91589ba2ce",
+        "address": "7627-Glen-Fls-San-Antonio-TX-78239",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 896,
+        "listed_at": "2026-06-22T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.346278,
+          29.503455
         ]
       }
     },
