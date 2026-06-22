@@ -2167,6 +2167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0da93f08-513d-572e-9c81-dbc6719d7f24",
+        "address": "4451-S-20th-St-Phoenix-AZ-85040",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 980,
+        "listed_at": "2026-06-22T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.038209,
+          33.405021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
         "address": "1623-12th-St-Saint-Cloud-FL-34769",
         "beds": 4,
@@ -6172,6 +6193,27 @@
         "coordinates": [
           -81.311327,
           28.534762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "258aa20e-4765-55a0-870b-2959e8fa56bc",
+        "address": "706-Luna-Vista-Dr-Hutto-TX-78634",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2352,
+        "listed_at": "2026-06-22T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.534223,
+          30.524703
         ]
       }
     },
@@ -16069,6 +16111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f66cc71-c6f4-5e7f-a53e-df9464a7c6e9",
+        "address": "12816-Wooly-Bucket-Cv-Elgin-TX-78621",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1704,
+        "listed_at": "2026-06-22T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.430817,
+          30.347483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f78cd04-937a-5bd7-8baf-176bf30ad0fc",
         "address": "54574-W-Coyote-Den-Maricopa-AZ-85139",
         "beds": 3,
@@ -18478,27 +18541,6 @@
         "coordinates": [
           -86.508584,
           33.591925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6e65eca0-4e0b-5ced-a85e-6f56bc76f352",
-        "address": "316-Fannin-Battleground-Ln-Georgetown-TX-78628",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2921,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "5",
-        "current_price": 545000,
-        "price_label": "$545K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.771404,
-          30.586687
         ]
       }
     },
@@ -22720,6 +22762,27 @@
         "coordinates": [
           -115.122098,
           36.281901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "87573af3-5aff-5334-9a3a-6728c357afe9",
+        "address": "29206-Rio-Lobo-Way-Valencia-CA-91354",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1809,
+        "listed_at": "2026-06-22T21:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.553252,
+          34.471086
         ]
       }
     },
