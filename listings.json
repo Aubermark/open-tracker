@@ -13024,27 +13024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4da197bb-978d-59bb-94a8-f4a033c2ca57",
-        "address": "506-Gettysburg-Loop-Elgin-TX-78621",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1652,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "103",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.39223,
-          30.357785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4daf4566-c3be-548c-b687-fce8ebca88d9",
         "address": "8845-Los-Olivas-Ct-Stockton-CA-95210",
         "beds": 3,
@@ -20221,6 +20200,27 @@
         "coordinates": [
           -78.79822,
           35.921654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78caccea-5efc-519b-9cd8-987ef3857b49",
+        "address": "15130-Ovation-Dr-Winter-Garden-FL-34787",
+        "beds": 7,
+        "baths": 4,
+        "sqft": 4688,
+        "listed_at": "2026-06-22T06:01:24.000Z",
+        "days_on_market": "17",
+        "current_price": 840000,
+        "price_label": "$840K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613757,
+          28.510124
         ]
       }
     },
