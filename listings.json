@@ -11953,6 +11953,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46f45617-6408-55a3-9c00-5622a7284c7b",
+        "address": "4061-Williams-Mill-Rd-Burlington-NC-27215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1392,
+        "listed_at": "2026-06-22T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.527375,
+          36.070942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4730b21d-e64d-5a0e-a53e-2ca62b431f65",
         "address": "2154-Hinton-Dr-Se-Smyrna-GA-30080",
         "beds": 4,
@@ -14152,27 +14173,6 @@
         "coordinates": [
           -81.241549,
           28.802274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "559072f9-f9b1-5a4e-b05a-7195e3bb6aa1",
-        "address": "8509-Ivoryton-Way-Montgomery-Village-MD-20886",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2285,
-        "listed_at": "2026-06-18T19:20:04.000Z",
-        "days_on_market": "4",
-        "current_price": 523000,
-        "price_label": "$523K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.178181,
-          39.185033
         ]
       }
     },
@@ -30496,27 +30496,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b7398ba6-a654-5eba-8c39-be88714820e7",
-        "address": "2605-Brookridge-Ln-Saint-Charles-MO-63301",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2148,
-        "listed_at": "2026-06-20T06:01:40.000Z",
-        "days_on_market": "3",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.495542,
-          38.802343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b754cdf5-42b9-59e6-bb5e-4e9ba5afbe00",
         "address": "5414-Coppedge-Ave-Jacksonville-FL-32277",
         "beds": 3,
@@ -37510,27 +37489,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "deb01726-43f8-50e8-97e6-b2c4c6d86884",
-        "address": "1438-Buckingham-Ave-Gastonia-NC-28054",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1795,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "28",
-        "current_price": 287000,
-        "price_label": "$287K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.158106,
-          35.240412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dedda42c-85f5-56ad-8a84-46a5cf5263b9",
         "address": "8457-Insignia-Ave-Unit-106-Las-Vegas-NV-89178",
         "beds": 2,
@@ -42145,27 +42103,6 @@
         "coordinates": [
           -116.545163,
           33.868562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa1e694c-2ffc-546d-ab27-fe75a7d7082b",
-        "address": "1257-Brooktrail-Dr-Pittsburg-CA-94565",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 3168,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "67",
-        "current_price": 821000,
-        "price_label": "$821K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.9435,
-          38.00705
         ]
       }
     },
