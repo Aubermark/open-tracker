@@ -2839,6 +2839,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1193c6a8-31f4-5a0c-9cd7-b2414faceb1a",
+        "address": "3571-Archers-Hl-Powhatan-VA-23139",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3537,
+        "listed_at": "2026-06-22T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.87907,
+          37.61969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11999ccd-bdc1-5a47-b4a8-59789c0621b2",
         "address": "3006-Hilldale-Rd-West-Columbia-SC-29170",
         "beds": 3,
@@ -5668,6 +5689,27 @@
         "coordinates": [
           -117.730452,
           33.554091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "22a610bf-ee7e-59b3-ad89-7c05792ed718",
+        "address": "801-Blue-Moon-Ct-Greensboro-NC-27455",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2804,
+        "listed_at": "2026-06-22T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.794075,
+          36.172478
         ]
       }
     },
@@ -24043,6 +24085,27 @@
         "coordinates": [
           -115.261976,
           36.133952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90b51ec9-9ddf-5ddc-9d0c-3bb19c4ff9d1",
+        "address": "59-Cane-Garden-Way-Saint-Augustine-FL-32092",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2765,
+        "listed_at": "2026-06-22T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 483000,
+        "price_label": "$483K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.519633,
+          30.034612
         ]
       }
     },
