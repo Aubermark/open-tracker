@@ -19198,6 +19198,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "73c4a9cb-f4f4-5208-873b-d51f03d04efb",
+        "address": "7737-Pepper-Cir-E-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1655,
+        "listed_at": "2026-06-22T15:20:04.000Z",
+        "days_on_market": "19",
+        "current_price": 263000,
+        "price_label": "$263K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.765064,
+          30.207348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "73e5d707-25e6-5639-abba-4d00617f722e",
         "address": "37-N-Sherman-Dr-Indianapolis-IN-46201",
         "beds": 4,
