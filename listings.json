@@ -21508,6 +21508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "820df401-3204-5276-81c4-a04ed7e03d40",
+        "address": "2503-Whispering-Springs-Dr-Spring-TX-77373",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1870,
+        "listed_at": "2026-06-22T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.399219,
+          30.078631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8258abd7-272d-5dcc-a1d9-2269698230df",
         "address": "940-Cider-Ridge-Ct-Clarkesville-GA-30523",
         "beds": 3,
