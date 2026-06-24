@@ -18946,6 +18946,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c98c256-e9c4-573c-af84-0da94dd0b2c9",
+        "address": "17956-Sw-25th-Avenue-Rd-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1153,
+        "listed_at": "2026-06-24T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.165863,
+          28.961467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
         "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
         "beds": 3,
@@ -41011,27 +41032,6 @@
         "coordinates": [
           -78.861128,
           35.825558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e733c06e-7038-5bfb-93ce-b31668197e0f",
-        "address": "2214-Rambling-Way-Lithonia-GA-30058",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1989,
-        "listed_at": "2026-05-08T06:26:13.000Z",
-        "days_on_market": "72",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.127186,
-          33.72274
         ]
       }
     },
