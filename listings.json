@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1d12a288-369f-5bfd-a42d-f5715650b11d",
+        "address": "7706-Impala-Dr-Corpus-Christi-TX-78414",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1285,
+        "listed_at": "2026-06-24T21:14:51.000Z",
+        "days_on_market": "0",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.380912,
+          27.651351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d506238-7985-500a-a98b-8c4c8eef1ada",
         "address": "4917-Laura-Jeanne-Blvd-#-52-Murfreesboro-TN-37129",
         "beds": 2,
@@ -41620,27 +41641,6 @@
         "coordinates": [
           -80.788992,
           35.064353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e950a25a-6536-5bd6-9a43-3a88d153f02f",
-        "address": "6819-Lava-Rock-Dr-Nw-Albuquerque-NM-87120",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1769,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "22",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.730271,
-          35.162935
         ]
       }
     },
