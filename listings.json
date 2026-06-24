@@ -27136,6 +27136,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b9a15b5-7c57-5407-8e67-c25dd8bff3d5",
+        "address": "9315-Dogwood-Pl-Gainesville-GA-30506",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 928,
+        "listed_at": "2026-06-24T01:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.982406,
+          34.242686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9badbf03-e3d6-54a7-949e-7e71245810bd",
         "address": "1622-Halliard-Dr-Lawrenceville-GA-30043",
         "beds": 4,
@@ -38659,6 +38680,27 @@
         "coordinates": [
           -95.358806,
           32.254764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db0c5f54-564e-5828-86ca-a77e438c84b6",
+        "address": "1019-Davis-Mill-Rd-S-Dallas-GA-30157",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1209,
+        "listed_at": "2026-06-24T01:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.823596,
+          33.853081
         ]
       }
     },
