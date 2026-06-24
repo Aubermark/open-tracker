@@ -10714,6 +10714,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3cf38419-acb5-525b-9e78-52202cc11531",
+        "address": "1091-Fox-Meadow-Way-Concord-CA-94518",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1539,
+        "listed_at": "2026-06-24T13:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 780000,
+        "price_label": "$780K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.033717,
+          37.953247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d3e51ea-c2d0-51ea-8d94-0322ead549c2",
         "address": "5621-Split-Oak-Way-Raleigh-NC-27609",
         "beds": 2,
