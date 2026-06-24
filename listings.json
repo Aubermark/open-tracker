@@ -21718,6 +21718,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c22dcf3-a8d0-5c00-a532-19fa215aa963",
+        "address": "301-Madeline-Way-Temple-GA-30179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-06-24T02:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.047448,
+          33.740231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c602a0b-430e-53cc-9923-76f170a02fbe",
         "address": "7540-N-Amity-Ave-Kansas-City-MO-64152",
         "beds": 5,
@@ -27970,6 +27991,27 @@
         "coordinates": [
           -121.326692,
           38.683998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1049012-2051-5691-9c8f-c03fd08b6950",
+        "address": "750-Cranberry-Trl-Roswell-GA-30076",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1632,
+        "listed_at": "2026-06-24T02:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 481000,
+        "price_label": "$481K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.296711,
+          34.035227
         ]
       }
     },
