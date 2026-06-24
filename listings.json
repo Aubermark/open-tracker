@@ -46,6 +46,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0067eb7a-777b-5c9f-8b5b-77a476d8ad9a",
+        "address": "51-Wake-Robin-Way-Asheville-NC-28805",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2718,
+        "listed_at": "2026-06-24T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.519228,
+          35.594551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0074d202-f761-5914-a1b9-c8270a3da380",
         "address": "4416-Avery-Ave-North-Charleston-SC-29405",
         "beds": 3,
@@ -22390,6 +22411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7fb2da8e-3f72-59b8-bed5-933162c7b09a",
+        "address": "406-Fox-Trot-Dr-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2066,
+        "listed_at": "2026-06-24T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877297,
+          34.159672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7fbaaf07-528c-5e8e-bc9f-e089622cf855",
         "address": "129-Saddlebrook-Ave-Pickens-SC-29671",
         "beds": 4,
@@ -36691,27 +36733,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d0737ca8-474e-52af-a890-20bbb046709d",
-        "address": "6536-Mountview-Ct-Brighton-MI-48116",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2324,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "20",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.819705,
-          42.530069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d07b0274-184f-5f5d-b5bc-0213dd6a9b19",
         "address": "8692-Hickory-Creek-Ct-North-Charleston-SC-29420",
         "beds": 5,
@@ -38659,6 +38680,27 @@
         "coordinates": [
           -98.337167,
           29.537818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9b506f5-007b-5dec-ab8e-c867c950dad1",
+        "address": "7957-Jacques-Dr-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1158,
+        "listed_at": "2026-06-24T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.780275,
+          30.273093
         ]
       }
     },
@@ -43258,27 +43300,6 @@
         "coordinates": [
           -96.802592,
           32.522414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f3688ac5-81d2-5806-8216-c8912c71b08f",
-        "address": "7746-Hansley-Dr-Chattanooga-TN-37416",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1276,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "55",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.172129,
-          35.079828
         ]
       }
     },
