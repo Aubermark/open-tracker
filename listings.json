@@ -5149,6 +5149,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e5f5777-7a6b-5243-b115-2b9bbb968d85",
+        "address": "4615-W-Powell-Dr-Phoenix-AZ-85087",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2509,
+        "listed_at": "2026-06-24T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 562000,
+        "price_label": "$562K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.159645,
+          33.872198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e605ec0-8dde-5b19-b927-fb3ab7c44ae1",
         "address": "10463-Northridge-Dr-Rancho-Cucamonga-CA-91737",
         "beds": 3,
@@ -19234,6 +19255,27 @@
         "coordinates": [
           -81.890807,
           41.342026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6df1f600-295a-56ad-a2d1-4186aa3d88e8",
+        "address": "2715-Irving-Ave-N-Minneapolis-MN-55411",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 711,
+        "listed_at": "2026-06-24T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.299724,
+          45.008275
         ]
       }
     },
