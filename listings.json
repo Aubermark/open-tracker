@@ -17308,6 +17308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62fdbf0c-c1e4-5bd7-8ae0-b02c5cc8f9a0",
+        "address": "2901-N-Cloverland-Ave-Tucson-AZ-85712",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1223,
+        "listed_at": "2026-06-24T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.880722,
+          32.260165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "630f34b9-9e3a-5206-90fb-941623396768",
         "address": "12567-Sw-Pembroke-Cir-N-Lake-Suzy-FL-34269",
         "beds": 3,
