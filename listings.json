@@ -15586,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58de81ff-2375-5c35-9665-4b2b9f338c74",
+        "address": "906-W-Marymont-Ln-Charleston-SC-29414",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-06-24T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 301000,
+        "price_label": "$301K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.089512,
+          32.840316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58ec1cd5-ef1c-5dc0-9502-87bd9a6a6f5d",
         "address": "3849-Hearthstone-Dr-Chapel-Hill-TN-37034",
         "beds": 3,
@@ -18205,6 +18226,27 @@
         "coordinates": [
           -95.766584,
           29.501664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "680953a0-2856-5970-b229-36b300bac048",
+        "address": "1537-W-74th-Pl-Indianapolis-IN-46260",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-06-24T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.187269,
+          39.889221
         ]
       }
     },
@@ -30433,6 +30475,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ac4da411-ec89-5172-bf88-14e1f5ed05a9",
+        "address": "7212-Maple-Bluff-Pl-Indianapolis-IN-46236",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4434,
+        "listed_at": "2026-06-24T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.973106,
+          39.886666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac96b21a-fbb0-573a-8fb6-cf09c1bc8a21",
         "address": "4467-Rambler-Ln-Palm-Springs-CA-92262",
         "beds": 3,
@@ -37336,6 +37399,27 @@
         "coordinates": [
           -95.344095,
           30.048857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d2faae55-ddf2-579d-b16f-81b8e1189895",
+        "address": "1740-Covington-Ln-Foley-AL-36535",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1394,
+        "listed_at": "2026-06-24T20:10:03.000Z",
+        "days_on_market": "29",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.671733,
+          30.38673
         ]
       }
     },
