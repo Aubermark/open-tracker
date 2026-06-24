@@ -11575,6 +11575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41c0ae9a-b0cb-5c46-8e06-5eb88e2c9044",
+        "address": "619-E-Arlington-Ave-Fort-Worth-TX-76104",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1551,
+        "listed_at": "2026-06-24T08:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.322205,
+          32.722791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41cd7d7e-baa6-5386-8784-812ea1445143",
         "address": "80-Parkside-Rd-Plainfield-NJ-07060",
         "beds": 4,
@@ -33142,6 +33163,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bdae1f5e-6ee4-57d7-a022-4f5825639771",
+        "address": "709-W-Hull-St-Denison-TX-75020",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1174,
+        "listed_at": "2026-06-24T08:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.545586,
+          33.746665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bdbf34f8-e7a2-544a-8e73-7c19cd5bc412",
         "address": "8663-Dog-Branch-Rd-Mount-Pleasant-TN-38474",
         "beds": 2,
@@ -37336,6 +37378,27 @@
         "coordinates": [
           -98.293573,
           29.63387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4b03cae-ead4-52b2-9d49-7a96adf5c722",
+        "address": "1404-Claire-Ln-Royse-City-TX-75189",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2119,
+        "listed_at": "2026-06-24T08:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.332536,
+          32.98799
         ]
       }
     },
