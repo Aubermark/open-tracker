@@ -19387,6 +19387,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e65eca0-4e0b-5ced-a85e-6f56bc76f352",
+        "address": "316-Fannin-Battleground-Ln-Georgetown-TX-78628",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2921,
+        "listed_at": "2026-06-24T20:40:03.000Z",
+        "days_on_market": "7",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.771404,
+          30.586687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6e74f196-bf2a-5397-a86d-60c216a04f83",
         "address": "86-Lancaster-Way-Newnan-GA-30263",
         "beds": 5,
