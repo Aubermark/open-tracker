@@ -14536,27 +14536,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "533e8d60-a5ff-5b5d-a476-1348e7296a55",
-        "address": "5002-Whisper-Cv-Schertz-TX-78108",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3044,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "8",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.228833,
-          29.62182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "536c16ac-45f6-5ead-924f-d917020ff4c9",
         "address": "15285-Cartagena-Ct-Corpus-Christi-TX-78418",
         "beds": 3,
@@ -28873,6 +28852,27 @@
         "coordinates": [
           -81.967907,
           28.016587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a6239de1-1721-5998-b26d-32f9c01104a2",
+        "address": "817-S-9th-St-Alhambra-CA-91801",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1299,
+        "listed_at": "2026-06-24T01:00:03.000Z",
+        "days_on_market": "50",
+        "current_price": 990000,
+        "price_label": "$990K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.133541,
+          34.083348
         ]
       }
     },
