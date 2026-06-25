@@ -7795,6 +7795,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2baf3b76-ff30-5290-8d58-2aa3d3191c39",
+        "address": "6180-6th-St-Ne-Fridley-MN-55432",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1863,
+        "listed_at": "2026-06-25T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.259641,
+          45.080773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bb390bb-4a00-5984-8342-75d54b4b1891",
         "address": "1125-Old-Spartanburg-Hwy-Lyman-SC-29365",
         "beds": 2,
@@ -16063,27 +16084,6 @@
         "coordinates": [
           -80.167875,
           32.978223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5b2aac5b-7eea-4ae6-9acf-6883e9f2493f",
-        "address": "222-Spruce-Lake-Rd-Huffman-TX-77336",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1615,
-        "listed_at": "2026-05-07T06:27:36.000Z",
-        "days_on_market": "99",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.110938,
-          30.007263
         ]
       }
     },
@@ -29530,6 +29530,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a70ae714-3ed6-5d2f-bdd5-3e83be679aac",
+        "address": "2014-Tanur-Cascade-Dr-Anna-TX-75409",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2709,
+        "listed_at": "2026-06-25T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.574039,
+          33.349657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a73e844d-af86-58a4-992f-c13f14538fd9",
         "address": "3610-Crosscut-Loop-Killeen-TX-76542",
         "beds": 3,
@@ -42634,6 +42655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "edac0599-05f2-5445-9bce-d60d8b99a75d",
+        "address": "2324-Glenhaven-Dr-Mc-Kinney-TX-75071",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1728,
+        "listed_at": "2026-06-25T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.643557,
+          33.208062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edb6fa3e-48c3-57ba-9e45-5e9eef18d8ba",
         "address": "1013-Dunbar-Dr-Atlanta-GA-30338",
         "beds": 2,
@@ -43321,27 +43363,6 @@
         "coordinates": [
           -111.748141,
           33.258092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1a59c2c-213c-5ef2-b697-3067390729fb",
-        "address": "2505-Velma-Ter-Leesburg-FL-34748",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1118,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "29",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.907072,
-          28.818807
         ]
       }
     },
@@ -45295,6 +45316,27 @@
         "coordinates": [
           -112.022021,
           41.499173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc6a361f-9584-5950-9e77-14b3aaac5382",
+        "address": "1004-Bellows-St-Akron-OH-44311",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1100,
+        "listed_at": "2026-06-25T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 163000,
+        "price_label": "$163K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.519733,
+          41.055576
         ]
       }
     },
