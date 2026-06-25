@@ -39463,6 +39463,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db6d00db-21c9-58ad-8bea-02300d07ac7d",
+        "address": "5429-Ledgewood-Creek-Ave-Las-Vegas-NV-89141",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3971,
+        "listed_at": "2026-06-25T07:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 631000,
+        "price_label": "$631K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.215449,
+          36.012047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db7612d6-7891-5ef2-9657-0c9665fd8045",
         "address": "1014-Heritage-Dr-Madison-TN-37115",
         "beds": 2,
