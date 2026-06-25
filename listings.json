@@ -43852,6 +43852,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f4f80363-2c5a-5bee-87f8-d828517886ae",
+        "address": "211-Spring-Creek-Cir-Paradise-TX-76073",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2426,
+        "listed_at": "2026-06-25T11:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 477000,
+        "price_label": "$477K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.689799,
+          33.014216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f50b8e41-f4f9-512e-bd37-24be388102ad",
         "address": "40402-Mostyn-Dr-Magnolia-TX-77354",
         "beds": 4,
