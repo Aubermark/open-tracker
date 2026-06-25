@@ -5044,27 +5044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1c83f455-947d-5e90-848a-f1b45fa0281a",
-        "address": "4325-W-Blacksmith-St-Tucson-AZ-85741",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1433,
-        "listed_at": "2026-06-18T06:20:32.000Z",
-        "days_on_market": ">123",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.058162,
-          32.352779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1c8e8dc9-54e9-5be8-b9bd-31e96fcb7aca",
         "address": "4835-Sandra-Ln-White-Bear-Lake-MN-55110",
         "beds": 4,
@@ -11254,27 +11233,6 @@
         "coordinates": [
           -97.044941,
           33.05872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3ee19bc2-9d61-5791-9e52-d13aac83b702",
-        "address": "4790-Londel-Ave-North-Port-FL-34287",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1640,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "28",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.209591,
-          27.060092
         ]
       }
     },
@@ -43909,6 +43867,27 @@
         "coordinates": [
           -86.718554,
           36.27416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2c17aea-b605-579c-9884-aec53d11f15f",
+        "address": "125-Yates-Dr-Fayetteville-GA-30214",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2649,
+        "listed_at": "2026-06-25T23:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 437000,
+        "price_label": "$437K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51561,
+          33.487676
         ]
       }
     },
