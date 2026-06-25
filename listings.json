@@ -16321,6 +16321,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c0c927e-27a8-5620-a4ef-59278382c556",
+        "address": "1611-Blackbird-Dr-Maryville-TN-37803",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2410,
+        "listed_at": "2026-06-25T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.990635,
+          35.689166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c10db61-ab4d-4e54-8017-4759af75a797",
         "address": "7794-Desert-Wrangler-Dr-Colorado-Springs-CO-80908",
         "beds": 4,
@@ -22027,6 +22048,27 @@
         "coordinates": [
           -86.626757,
           36.092507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b6d869f-cf42-5b5d-ae4c-93ecb37e4802",
+        "address": "202-E-Centennial-St-Clinton-SC-29325",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1872,
+        "listed_at": "2026-06-25T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.877969,
+          34.470214
         ]
       }
     },
