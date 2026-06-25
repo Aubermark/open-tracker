@@ -1915,6 +1915,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bb9d718-621f-5722-9bda-9bdd1fcaa2f3",
+        "address": "1111-W-Summit-Pl-Unit-28-Chandler-AZ-85224",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1133,
+        "listed_at": "2026-06-25T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.861035,
+          33.353163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c05300a-3b73-57ed-b73e-c1e95a2cbbc3",
         "address": "820-Hawk-Wood-Ln-Prosper-TX-75078",
         "beds": 5,
@@ -9574,27 +9595,6 @@
         "coordinates": [
           -82.22677,
           28.236656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "34ca11ae-3920-5708-a9f2-842d0a394677",
-        "address": "1802-N-89th-Ave-Phoenix-AZ-85037",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1827,
-        "listed_at": "2026-06-19T06:36:05.000Z",
-        "days_on_market": "101",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.250955,
-          33.467084
         ]
       }
     },
@@ -20851,6 +20851,27 @@
         "coordinates": [
           -80.682862,
           35.307556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "752c53b9-f6a4-57c7-bf03-7f5c73af3d5c",
+        "address": "4505-W-Clarendon-Ave-Phoenix-AZ-85031",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1298,
+        "listed_at": "2026-06-25T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.156388,
+          33.49262
         ]
       }
     },
@@ -38008,6 +38029,27 @@
         "coordinates": [
           -81.884465,
           31.618663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3c5ea27-0b2c-5710-b73f-37aed218ebdc",
+        "address": "7702-Grey-Goose-Trl-Arlington-TX-76002",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2045,
+        "listed_at": "2026-06-25T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.085547,
+          32.616506
         ]
       }
     },
