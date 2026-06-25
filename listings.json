@@ -18694,6 +18694,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6abcd73b-1837-550d-811c-ecf550f1c521",
+        "address": "2008-Danner-St-Fort-Worth-TX-76105",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1355,
+        "listed_at": "2026-06-25T11:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.251486,
+          32.723693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ad27e03-56d7-5706-9fcd-37a71c0434d9",
         "address": "17518-Rustington-Dr-Spring-TX-77379",
         "beds": 4,
@@ -23077,27 +23098,6 @@
         "coordinates": [
           -82.693716,
           27.865351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "82fd36d8-d911-47f6-b64d-cefbb2f0edfc",
-        "address": "136-Dellmar-Dr-Raeford-NC-28376",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3107,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "59",
-        "current_price": 386000,
-        "price_label": "$386K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.115006,
-          35.03528
         ]
       }
     },
