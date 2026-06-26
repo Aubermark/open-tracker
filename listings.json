@@ -19639,6 +19639,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e50297d-5e03-5874-ad5c-0742a579c31a",
+        "address": "635-Sable-View-Ln-Atlanta-GA-30349-18301004",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1748,
+        "listed_at": "2026-06-26T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.501615,
+          33.600508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6e65eca0-4e0b-5ced-a85e-6f56bc76f352",
         "address": "316-Fannin-Battleground-Ln-Georgetown-TX-78628",
         "beds": 4,
