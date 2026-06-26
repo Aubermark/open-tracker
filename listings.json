@@ -12898,6 +12898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "463434f2-2a14-5c4c-bfd6-ccea934798ce",
+        "address": "3582-Coveside-Ct-Loganville-GA-30052",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2364,
+        "listed_at": "2026-06-26T07:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89176,
+          33.865139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46571ea9-cb3b-5344-9572-56a11e6b40f1",
         "address": "939-Staffordale-Manor-Ln-Houston-TX-77047",
         "beds": 3,
@@ -22027,6 +22048,27 @@
         "coordinates": [
           -97.788625,
           32.746919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b42a7e0-0b40-5a20-a0b9-df60a483b639",
+        "address": "4530-Oak-Brook-Dr-Se-Smyrna-GA-30082",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3563,
+        "listed_at": "2026-06-26T07:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 755000,
+        "price_label": "$755K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.540032,
+          33.843954
         ]
       }
     },
