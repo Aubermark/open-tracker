@@ -6346,6 +6346,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2399ebc8-7e76-5708-95c5-c7551efa8cbf",
+        "address": "10489-Cinderella-Dr-Montgomery-OH-45242",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3112,
+        "listed_at": "2026-06-26T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.364217,
+          39.251326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23b5a9eb-1ee9-54e4-b8ac-0955916ac21e",
         "address": "209-Clayton-Ave-Keenesburg-CO-80643",
         "beds": 3,
