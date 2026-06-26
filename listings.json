@@ -1621,6 +1621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0988f490-86d9-52af-ab1c-c7cf11e49e57",
+        "address": "168-Harbour-Watch-Blvd-Leesville-SC-29070",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2194,
+        "listed_at": "2026-06-26T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.437811,
+          34.039878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09e9146d-7ca0-5257-8aea-e3c2521ecb72",
         "address": "11031-E-Vine-Ave-Mesa-AZ-85208-18118126",
         "beds": 4,
@@ -15790,6 +15811,27 @@
         "coordinates": [
           -84.379214,
           33.895079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5828c6a0-c912-5e00-88a4-d6993e656e61",
+        "address": "444-Hunter-Cir-Kissimmee-FL-34758",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1038,
+        "listed_at": "2026-06-26T14:20:03.000Z",
+        "days_on_market": "87",
+        "current_price": 166000,
+        "price_label": "$166K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.463514,
+          28.155741
         ]
       }
     },
