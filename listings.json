@@ -4666,6 +4666,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1960a4fb-08c7-59b5-9aa4-fbd4115de2b6",
+        "address": "5634-Tulip-Grove-Dr-Memphis-TN-38135",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1771,
+        "listed_at": "2026-06-26T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.87519,
+          35.252513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1999788a-3b41-56a1-8289-10866e568543",
         "address": "2634-E-Ridge-Creek-Rd-Phoenix-AZ-85024",
         "beds": 4,
@@ -11443,6 +11464,27 @@
         "coordinates": [
           -84.429814,
           33.979382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3e7095bb-b905-5476-85ea-95165254fa97",
+        "address": "1618-Woodcrest-Ln-Carrollton-TX-75006",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1976,
+        "listed_at": "2026-06-26T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 402000,
+        "price_label": "$402K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894901,
+          32.980988
         ]
       }
     },
