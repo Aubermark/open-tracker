@@ -1894,27 +1894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ae46985-f1f0-5a6d-b596-1189e90e8366",
-        "address": "5412-Conroy-St-Fort-Worth-TX-76134",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1456,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "60",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.313644,
-          32.66565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0af1381e-b33d-502a-947c-18c9417f51d2",
         "address": "330-S-Leandro-Mesa-AZ-85208",
         "beds": 4,
@@ -5164,6 +5143,27 @@
         "coordinates": [
           -93.033488,
           45.087533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1cd2d5a1-0d03-581f-b26d-9805fc2fc8d4",
+        "address": "123-Merry-Way-Gun-Barrel-City-TX-75156",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1764,
+        "listed_at": "2026-06-26T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.138547,
+          32.324424
         ]
       }
     },
@@ -9244,6 +9244,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3289c673-eab0-5b85-9758-ffa1591f7195",
+        "address": "5306-3rd-St-W-Bradenton-FL-34207",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1066,
+        "listed_at": "2026-06-26T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 289000,
+        "price_label": "$289K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.565468,
+          27.447412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "329f573d-4d40-50c9-9a96-83d707118bac",
         "address": "4037-Briarhill-Dr-Charlotte-NC-28215",
         "beds": 2,
@@ -11674,27 +11695,6 @@
         "coordinates": [
           -96.836345,
           33.005995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "40bbf8d3-9cee-5c71-b724-7aaba8d5c305",
-        "address": "616-River-Rd-Teaneck-NJ-07666",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1853,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "52",
-        "current_price": 675000,
-        "price_label": "$675K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.031484,
-          40.886888
         ]
       }
     },
@@ -31609,6 +31609,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad89b360-d1a2-53cb-989e-73230e70c355",
+        "address": "3143-Boxelder-St-Deltona-FL-32725",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1936,
+        "listed_at": "2026-06-26T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.243032,
+          28.948951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad8d0f40-04de-5d50-afcf-7abc9d4fe77e",
         "address": "9965-Boulder-Bend-Ln-Brookshire-TX-77423",
         "beds": 4,
@@ -34207,6 +34228,27 @@
         "coordinates": [
           -83.955842,
           34.620338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "baf59f46-8ed8-59fe-b016-ccd02efc8295",
+        "address": "133-Snow-Ln-Lexington-SC-29073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1715,
+        "listed_at": "2026-06-26T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.155255,
+          34.003295
         ]
       }
     },
@@ -43132,27 +43174,6 @@
         "coordinates": [
           -83.538445,
           34.048332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eb707642-9ec2-5729-8a62-b94a7a86d2d9",
-        "address": "262-Sw-Panther-Trce-Port-Saint-Lucie-FL-34953",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1487,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "52",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.358918,
-          27.24185
         ]
       }
     },
