@@ -15313,6 +15313,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "559072f9-f9b1-5a4e-b05a-7195e3bb6aa1",
+        "address": "8509-Ivoryton-Way-Montgomery-Village-MD-20886",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2285,
+        "listed_at": "2026-06-26T12:20:04.000Z",
+        "days_on_market": "8",
+        "current_price": 523000,
+        "price_label": "$523K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.178181,
+          39.185033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "55909659-ec5f-50b5-afcd-ad1b0099758c",
         "address": "3622-Shady-Grove-Cir-Orlando-FL-32810",
         "beds": 2,
