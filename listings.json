@@ -24427,6 +24427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "876bfe6c-276e-541f-aa87-6cf66008d540",
+        "address": "237-Kensington-Trce-Stockbridge-GA-30281",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-06-26T13:00:04.000Z",
+        "days_on_market": "18",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.192738,
+          33.51208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "87d5fc40-299b-5a1a-b52c-6d1bcf2d0476",
         "address": "1-Terrain-Dr-Greenville-SC-29605",
         "beds": 3,
