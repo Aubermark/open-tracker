@@ -1012,6 +1012,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "04948f28-91b3-5d4c-8e63-4686d35e1dbb",
+        "address": "531-Glenlea-Ln-Greenville-SC-29617",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1250,
+        "listed_at": "2026-06-26T08:25:34.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.455426,
+          34.911115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "049e5da8-eccd-5b8e-b519-94dfddbfadbf",
         "address": "1214-Ileagnes-Rd-Raleigh-NC-27603",
         "beds": 4,
@@ -45883,6 +45904,27 @@
         "coordinates": [
           -96.717652,
           33.080968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb7f97ed-4f7c-5e82-9890-902bc5f7efdb",
+        "address": "8667-Autumn-Path-St-Chino-CA-91708",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2462,
+        "listed_at": "2026-06-26T08:25:34.000Z",
+        "days_on_market": "0",
+        "current_price": 795000,
+        "price_label": "$795K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.615339,
+          33.963407
         ]
       }
     },
