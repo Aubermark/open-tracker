@@ -11281,6 +11281,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d199ab5-38ff-5596-ae61-8daf05e635c1",
+        "address": "100-Mary-Mack-Ln-Fort-Mill-SC-29715",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4781,
+        "listed_at": "2026-06-27T12:30:03.000Z",
+        "days_on_market": "3",
+        "current_price": 1000000,
+        "price_label": "$1.000M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.929296,
+          34.999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d34cf3e-e7b5-52ab-b97e-36e813558d66",
         "address": "6238-Ashley-Hills-Ave-Las-Vegas-NV-89141",
         "beds": 3,
