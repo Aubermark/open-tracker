@@ -11638,27 +11638,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3f3de651-a6ad-565a-b9ed-da4e81b6eade",
-        "address": "5522-Wind-River-Ln-Powder-Springs-GA-30127",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 4373,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "86",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.717373,
-          33.810492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3f54da14-a3af-50a8-ae83-44ebcd718cde",
         "address": "3739-Lake-Griffin-Rd-Lady-Lake-FL-32159",
         "beds": 3,
@@ -42061,6 +42040,27 @@
         "coordinates": [
           -74.429155,
           40.594242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e286af1f-8038-556e-aa02-c161deeeed42",
+        "address": "2006-Chelsea-Ln-Acworth-GA-30102",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1380,
+        "listed_at": "2026-06-27T15:50:03.000Z",
+        "days_on_market": "106",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.607535,
+          34.1134
         ]
       }
     },
