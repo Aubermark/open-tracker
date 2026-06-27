@@ -1537,6 +1537,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08403fde-1a1c-58ff-abc5-a94f65fb86f0",
+        "address": "3115-33rd-St-Sw-Birmingham-AL-35211",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1797,
+        "listed_at": "2026-06-27T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.886739,
+          33.447058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08661d94-54ec-53c6-a8d4-e17440ec1a62",
         "address": "13451-Land-O-Woods-Dr-Saint-Louis-MO-63141",
         "beds": 2,
@@ -11821,6 +11842,27 @@
         "coordinates": [
           -111.86899,
           33.377287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "404de755-e877-5fd4-a2b3-9a8e4c949f7e",
+        "address": "3950-Skyland-Blvd-E-Tuscaloosa-AL-35405",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1956,
+        "listed_at": "2026-06-27T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48427,
+          33.171294
         ]
       }
     },
