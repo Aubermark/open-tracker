@@ -31231,6 +31231,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ab0fe0b4-637a-5c2c-9e0f-00291fa8a587",
+        "address": "1226-E-11th-Pl-Casa-Grande-AZ-85122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1363,
+        "listed_at": "2026-06-28T22:20:04.000Z",
+        "days_on_market": "54",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.734502,
+          32.884814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ab183dd9-b05d-50b1-ae68-b8d62d3afbf5",
         "address": "12826-W-Mulberry-Dr-Avondale-AZ-85392",
         "beds": 4,
@@ -45001,27 +45022,6 @@
         "coordinates": [
           -78.938639,
           35.008896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f32c8366-2eb5-5d6f-b863-e20cc27d160b",
-        "address": "1947-Breman-Ln-Indianapolis-IN-46229",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2212,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "33",
-        "current_price": 273000,
-        "price_label": "$273K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.954996,
-          39.795604
         ]
       }
     },
