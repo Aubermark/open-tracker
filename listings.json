@@ -42592,6 +42592,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e695bdb9-edc1-5bc0-955d-4501569c6a59",
+        "address": "6654-Hazelhatch-Dr-Indianapolis-IN-46268",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1236,
+        "listed_at": "2026-06-28T17:40:04.000Z",
+        "days_on_market": "104",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.209052,
+          39.877435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e69c2efd-53a9-5a00-8803-9a6ed7317516",
         "address": "21425-Averhill-St-Farmington-Hills-MI-48336",
         "beds": 3,
