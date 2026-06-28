@@ -17476,6 +17476,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f85f5f1-a5a5-5df3-8837-f45d07b7511d",
+        "address": "3711-Surry-Ridge-Ct-Charlotte-NC-28210",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3126,
+        "listed_at": "2026-06-28T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 830000,
+        "price_label": "$830K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.853744,
+          35.127681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f8a22af-fddf-5d97-ba68-ad3aaefb3fc8",
         "address": "12825-Clifford-Cir-Carmel-IN-46032",
         "beds": 4,
