@@ -6619,27 +6619,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24dd2994-1e63-559c-b0ad-b09ea3a2df04",
-        "address": "7629-Brookfield-Ln-Northfield-OH-44067",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2864,
-        "listed_at": "2026-06-24T18:50:03.000Z",
-        "days_on_market": "4",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.495194,
-          41.285064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -12283,6 +12262,27 @@
         "coordinates": [
           -82.961596,
           42.679337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4196123d-65d6-5f32-be73-074a483631fe",
+        "address": "12839-Glengary-Dr-Fishers-IN-46038",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-06-28T20:20:03.000Z",
+        "days_on_market": "73",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.989821,
+          39.974798
         ]
       }
     },
