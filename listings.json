@@ -35326,6 +35326,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c115fa8a-4786-559d-88c1-b77de2996567",
+        "address": "9814-Dean-Cove-Ln-Orlando-FL-32825",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1054,
+        "listed_at": "2026-06-28T15:40:03.000Z",
+        "days_on_market": "68",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.247681,
+          28.560257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c1316ea5-85c0-5adf-acfc-1485410ea4f0",
         "address": "5053-Pioneer-Pkwy-Mc-Donough-GA-30253",
         "beds": 4,
@@ -46009,6 +46030,27 @@
         "coordinates": [
           -81.775434,
           28.700138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8da5703-134e-5485-98a2-0af3d46e53e5",
+        "address": "3014-Country-Boy-Ct-Spring-TX-77373",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1770,
+        "listed_at": "2026-06-28T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.374144,
+          30.06306
         ]
       }
     },
