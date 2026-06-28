@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1487bd64-2159-56fc-94a2-f60a1e38091f",
+        "address": "37-Osprey-St-Safety-Harbor-FL-34695",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3221,
+        "listed_at": "2026-06-28T11:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 760000,
+        "price_label": "$760K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.697699,
+          28.018369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14912d8c-7cf0-54e5-b1cf-a3be0d57f8c6",
         "address": "5097-Village-Dr-Las-Vegas-NV-89142",
         "beds": 3,
