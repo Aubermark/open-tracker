@@ -13717,6 +13717,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "487f31aa-e56f-558f-b69c-1287385d972b",
+        "address": "9822-Autumn-Holw-Converse-TX-78109",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2290,
+        "listed_at": "2026-06-29T16:20:03.000Z",
+        "days_on_market": "90",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.293606,
+          29.4968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48a2f16d-1e45-4f6f-9533-d35916a6274d",
         "address": "501-Vantage-Dr-Hutto-TX-78634",
         "beds": 4,
