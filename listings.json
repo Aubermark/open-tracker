@@ -17959,6 +17959,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62c1c728-8cfc-534e-8d29-8af1c3a6d428",
+        "address": "2334-Hosp-Way-Unit-109-Carlsbad-CA-92008-15868167",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1029,
+        "listed_at": "2026-06-29T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.327259,
+          33.176205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "62f55856-db6e-58a3-8cdb-528f4407df3c",
         "address": "1120-Beaverwood-Ln-Crowley-TX-76036",
         "beds": 4,
