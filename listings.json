@@ -25,27 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "00523233-494b-5cbb-b652-fdd98bcdc1c2",
-        "address": "288-Chicago-Ave-Marion-OH-43302",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1404,
-        "listed_at": "2026-06-25T18:20:03.000Z",
-        "days_on_market": "4",
-        "current_price": 180000,
-        "price_label": "$180K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.105308,
-          40.593475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0062a651-4307-5841-9c70-8f83c3659876",
         "address": "98-Grimes-Dr-Martinsburg-WV-25403",
         "beds": 3,
@@ -8251,6 +8230,27 @@
         "coordinates": [
           -84.16672,
           33.46391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2d12b77e-6cca-56c6-854e-e448a1006bf8",
+        "address": "2516-Fairway-View-Dr-Burleson-TX-76028",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1792,
+        "listed_at": "2026-06-29T14:20:03.000Z",
+        "days_on_market": "40",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.362343,
+          32.496451
         ]
       }
     },
@@ -17806,6 +17806,27 @@
         "coordinates": [
           -83.378959,
           33.927444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "61f48b3e-b307-58d4-9241-b56a6d292d60",
+        "address": "11307-Wickersham-Ln-Houston-TX-77077",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2628,
+        "listed_at": "2026-06-29T14:20:03.000Z",
+        "days_on_market": "115",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.57663,
+          29.7386
         ]
       }
     },
