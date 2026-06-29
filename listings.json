@@ -424,6 +424,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01a14f47-2e7a-5c5c-94c0-990c556e0ea0",
+        "address": "1909-Wisterwood-Dr-Hoover-AL-35226",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2766,
+        "listed_at": "2026-06-29T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.810207,
+          33.386506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -5821,27 +5842,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "20a5be61-8828-552d-8c88-eb171a1640ef",
-        "address": "3519-Madonna-Ln-Bowie-MD-20715",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1583,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "49",
-        "current_price": 461000,
-        "price_label": "$461K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.755398,
-          38.980938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "212d19b1-e230-547c-a85a-35b6d8d64937",
         "address": "8111-Crestview-Dr-Se-Covington-GA-30014",
         "beds": 4,
@@ -8866,27 +8866,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "30795ca2-605d-5175-bf3a-e697240aff6a",
-        "address": "675-Ringtail-Rd-Wickenburg-AZ-85390",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1333,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "14",
-        "current_price": 373000,
-        "price_label": "$373K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.728643,
-          33.960556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3090af86-9c34-56de-b347-c8ebbfbca0ce",
         "address": "3000-Wilkes-Plantation-Way-Douglasville-GA-30135",
         "beds": 3,
@@ -10078,27 +10057,6 @@
         "coordinates": [
           -84.305805,
           33.429856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "37331481-dd54-5027-8b9a-413a2c20b173",
-        "address": "5655-Kimbrell-Dr-S-Jacksonville-FL-32210",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1031,
-        "listed_at": "2026-06-26T21:40:03.000Z",
-        "days_on_market": "25",
-        "current_price": 173000,
-        "price_label": "$173K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.730489,
-          30.252887
         ]
       }
     },
@@ -11338,6 +11296,27 @@
         "coordinates": [
           -86.711111,
           36.121298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3e3a135e-b5b5-5494-b934-f0e6c72e28e1",
+        "address": "6000-Buggy-Whip-Ln-Roseville-CA-95747",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1426,
+        "listed_at": "2026-06-29T21:00:03.000Z",
+        "days_on_market": "51",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.345028,
+          38.789967
         ]
       }
     },
@@ -34969,27 +34948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bec7459a-90dd-5f85-9a86-123fcee5ce35",
-        "address": "7446-Salmon-Ln-Ooltewah-TN-37363",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1596,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "96",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.094844,
-          35.125007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
         "address": "5708-Maxfli-Dr-Schertz-TX-78108",
         "beds": 3,
@@ -45379,27 +45337,6 @@
         "coordinates": [
           -97.430882,
           32.823766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f5d98c1e-41e3-5c36-a613-60fd0981647c",
-        "address": "1858-Aspenhill-Dr-Cincinnati-OH-45240",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1132,
-        "listed_at": "2026-04-09T06:35:39.000Z",
-        "days_on_market": "119",
-        "current_price": 212000,
-        "price_label": "$212K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.553202,
-          39.27026
         ]
       }
     },
