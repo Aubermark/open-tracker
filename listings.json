@@ -21151,6 +21151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "74768348-b40a-5dfa-9320-9f8c3af090d0",
+        "address": "1212-Courtland-Cir-Plainfield-IL-60586",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1484,
+        "listed_at": "2026-06-29T13:00:03.000Z",
+        "days_on_market": "51",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20262,
+          41.544061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7488886f-a6d1-5c84-a0e8-f82ff5da510a",
         "address": "1099-E-Sourwood-Dr-Gilbert-AZ-85298",
         "beds": 4,
