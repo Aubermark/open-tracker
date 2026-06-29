@@ -1936,6 +1936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b9c2bd6-d735-5315-b73f-0a5a36d59589",
+        "address": "3226-Ne-30th-Ct-Ocala-FL-34479",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1508,
+        "listed_at": "2026-06-29T18:20:03.000Z",
+        "days_on_market": "74",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.095353,
+          29.220118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bb853f0-8099-504c-8a3b-42a40521443e",
         "address": "1960-Edwards-Fork-Rd-Scotland-Neck-NC-27874",
         "beds": 3,
@@ -5926,27 +5947,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "21644f6c-3292-565d-8bfc-2cb6657d0d51",
-        "address": "221-Sterry-Ct-Antioch-TN-37013",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1604,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "60",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.699072,
-          36.053955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "219ed08d-8403-5fca-97d4-dd866b7c966a",
         "address": "1438-Trouville-Ln-Unit-4-Chula-Vista-CA-91913",
         "beds": 3,
@@ -8839,27 +8839,6 @@
         "coordinates": [
           -112.426143,
           33.328033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "30061828-e0d0-5dd2-9767-72a72f40ad0f",
-        "address": "6497-Snowden-Dr-Atlanta-GA-30349-17152423",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2549,
-        "listed_at": "2026-04-30T06:09:48.000Z",
-        "days_on_market": "91",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.601703,
-          33.64478
         ]
       }
     },
@@ -18883,6 +18862,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68458d81-e3c0-57c1-af53-aac317f21156",
+        "address": "342-Newcastle-Vis-Mc-Donough-GA-30253",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-06-29T18:20:03.000Z",
+        "days_on_market": "45",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.180413,
+          33.514479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68470948-aff8-509d-9fb7-89f0f6a384b4",
         "address": "3235-Young-Ave-Lansing-MI-48906",
         "beds": 2,
@@ -24295,6 +24295,27 @@
         "coordinates": [
           -84.468339,
           33.913762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "856ca94d-8b41-5aa0-9ce6-90f95c0588c8",
+        "address": "19022-Tower-Rose-Ct-Katy-TX-77449",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3180,
+        "listed_at": "2026-06-29T18:20:03.000Z",
+        "days_on_market": "41",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.699405,
+          29.868058
         ]
       }
     },
