@@ -17224,6 +17224,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f0ac1ad-f835-5dfc-aad1-04372d208144",
+        "address": "2-Ames-Ct-Taylors-SC-29687",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 1967,
+        "listed_at": "2026-06-29T20:20:04.000Z",
+        "days_on_market": "103",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.346899,
+          34.976966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f66cc71-c6f4-5e7f-a53e-df9464a7c6e9",
         "address": "12816-Wooly-Bucket-Cv-Elgin-TX-78621",
         "beds": 3,
@@ -40877,8 +40898,8 @@
         "sqft": 828,
         "listed_at": "2026-06-26T06:31:10.000Z",
         "days_on_market": "4",
-        "current_price": 115000,
-        "price_label": "$115K"
+        "current_price": 130000,
+        "price_label": "$130K"
       },
       "geometry": {
         "type": "Point",
@@ -41683,27 +41704,6 @@
         "coordinates": [
           -98.037061,
           29.669693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e194f708-9e46-58d3-9ea9-009762bd8a23",
-        "address": "9641-Halls-Ferry-Rd-Saint-Louis-MO-63136",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2248,
-        "listed_at": "2026-06-26T17:00:04.000Z",
-        "days_on_market": "3",
-        "current_price": 168000,
-        "price_label": "$168K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.247606,
-          38.733908
         ]
       }
     },
