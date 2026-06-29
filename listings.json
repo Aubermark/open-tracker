@@ -6661,27 +6661,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2615ebf5-90dc-5894-9867-6a960dba7ef9",
-        "address": "503-Bright-Leaf-Loop-Summerville-SC-29486",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2575,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "25",
-        "current_price": 552000,
-        "price_label": "$552K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.147019,
-          33.057007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2618fb4f-6f02-57f5-8ece-128e45eb5d02",
         "address": "7361-Proxima-Rd-Jacksonville-FL-32210",
         "beds": 3,
@@ -17239,6 +17218,27 @@
         "coordinates": [
           -97.430817,
           30.347483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f72e533-1cf6-5299-94dc-d73f231fb9da",
+        "address": "12028-N-41st-Dr-Phoenix-AZ-85029",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1120,
+        "listed_at": "2026-06-29T21:40:04.000Z",
+        "days_on_market": "40",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.148905,
+          33.595478
         ]
       }
     },
@@ -34018,6 +34018,27 @@
         "coordinates": [
           -78.793595,
           35.970223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9adb42d-db84-5d88-8e35-4ec95caf051d",
+        "address": "3325-Somerset-Way-Carson-City-NV-89705",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1084,
+        "listed_at": "2026-06-29T21:40:04.000Z",
+        "days_on_market": "26",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78214,
+          39.079433
         ]
       }
     },
