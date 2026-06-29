@@ -5317,27 +5317,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d9f9d28-1461-5e1d-89b3-7fe158c8b2df",
-        "address": "4700-Charlottesville-Rd-Greensboro-NC-27410",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 2744,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "47",
-        "current_price": 521000,
-        "price_label": "$521K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.868582,
-          36.097454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1dd3fbc5-02ba-5374-a81a-fc79c928eeaf",
         "address": "5064-Greystone-Way-Hoover-AL-35242",
         "beds": 5,
@@ -15958,27 +15937,6 @@
         "coordinates": [
           -104.768957,
           38.943776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
-        "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3330,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "39",
-        "current_price": 740000,
-        "price_label": "$740K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.877521,
-          35.414502
         ]
       }
     },
@@ -38302,6 +38260,27 @@
         "coordinates": [
           -98.510822,
           29.53063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d096627f-e305-5d33-b79e-b90921420af7",
+        "address": "1402-1st-Avenue-Pl-Nw-Hickory-NC-28601",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1674,
+        "listed_at": "2026-06-29T19:00:04.000Z",
+        "days_on_market": "12",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.362186,
+          35.734411
         ]
       }
     },
