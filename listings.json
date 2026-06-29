@@ -2881,6 +2881,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10ba0022-3493-5021-9c30-cbeeaf82f8c3",
+        "address": "1985-Capri-Dr-Decatur-GA-30032",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1614,
+        "listed_at": "2026-06-29T06:29:55.000Z",
+        "days_on_market": "45",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309102,
+          33.724508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10bab3bb-80ba-565c-95d3-7916ce36fcf1",
         "address": "30-Roberson-Dr-Ne-Cartersville-GA-30121",
         "beds": 4,
@@ -7894,6 +7915,27 @@
         "coordinates": [
           -85.983713,
           39.836401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b8f0651-44b6-5add-b20a-a14bc7fae8a8",
+        "address": "1148-Blossom-Ter-Fort-Mill-SC-29715",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2034,
+        "listed_at": "2026-06-29T06:29:54.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.958258,
+          35.003072
         ]
       }
     },
@@ -18268,6 +18310,27 @@
         "coordinates": [
           -104.964662,
           39.906899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "65220951-2144-55b7-bee5-530175b701b1",
+        "address": "5051-12th-St-Ne-Washington-DC-20017",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1152,
+        "listed_at": "2026-06-29T06:29:55.000Z",
+        "days_on_market": "13",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99029,
+          38.952116
         ]
       }
     },
@@ -30616,27 +30679,6 @@
         "coordinates": [
           -87.963178,
           41.510445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a80c918e-a8b6-5fe3-9009-e43bdfe60117",
-        "address": "5117-Chipping-Dr-Nw-Acworth-GA-30101",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3155,
-        "listed_at": "2026-06-10T15:20:03.000Z",
-        "days_on_market": "18",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.703847,
-          34.012758
         ]
       }
     },
@@ -47353,6 +47395,27 @@
         "coordinates": [
           -112.319661,
           33.418741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffd499c3-2e21-5fe5-98ab-827493570795",
+        "address": "656-Mac-Beth-Dr-Avon-IN-46123",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2450,
+        "listed_at": "2026-06-29T06:29:55.000Z",
+        "days_on_market": "4",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.403507,
+          39.772198
         ]
       }
     },
