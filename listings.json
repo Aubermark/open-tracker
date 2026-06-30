@@ -10756,6 +10756,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b13e38d-0518-56ea-8d0f-4d132db0b893",
+        "address": "8351-Kipling-Ct-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1561,
+        "listed_at": "2026-06-30T16:30:04.000Z",
+        "days_on_market": "36",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788342,
+          30.235927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -36859,27 +36880,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cb325f69-02a4-5d59-ae0a-b175b1be34fe",
-        "address": "11970-Meadowbrook-Dr-Cleveland-OH-44130",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1714,
-        "listed_at": "2026-06-20T06:01:40.000Z",
-        "days_on_market": "11",
-        "current_price": 261000,
-        "price_label": "$261K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.771651,
-          41.374316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cb3d70ef-4431-5da0-a269-807c4263d873",
         "address": "3630-Vanderbilt-Dr-Corona-CA-92881",
         "beds": 5,
@@ -41584,27 +41584,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e1accff1-6e06-51c1-bbbd-c571aba7be31",
-        "address": "1531-Kensington-Pl-Lancaster-TX-75134",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1766,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "27",
-        "current_price": 272000,
-        "price_label": "$272K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.79081,
-          32.614599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e1b27dbd-c7a0-50d9-8ecf-64356456d9eb",
         "address": "1309-Spruce-Meadows-Dr-Ne-Rio-Rancho-NM-87144",
         "beds": 3,
@@ -43006,27 +42985,6 @@
         "coordinates": [
           -84.364093,
           35.497371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9b1bdfb-3106-5e40-9d83-a64d8badb65a",
-        "address": "17213-Monroe-St-Nw-Elk-River-MN-55330",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1298,
-        "listed_at": "2026-06-20T06:40:02.000Z",
-        "days_on_market": "11",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.532485,
-          45.284266
         ]
       }
     },
@@ -46723,27 +46681,6 @@
         "coordinates": [
           -80.926113,
           33.976189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "febb8469-358a-5dcd-bb04-88ce706dc2f3",
-        "address": "1718-W-Colter-Street-Unit-174-174-Phoenix-AZ-85015",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1349,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "75",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.096384,
-          33.513376
         ]
       }
     },
