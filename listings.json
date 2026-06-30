@@ -14851,6 +14851,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52025e49-a926-5113-8e09-877b96179ab2",
+        "address": "426-Heatherwood-Dr-Oswego-IL-60543",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3866,
+        "listed_at": "2026-06-30T15:10:04.000Z",
+        "days_on_market": "57",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.385718,
+          41.690058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5244b229-55c6-5b40-a553-98f13f58b64c",
         "address": "1616-E-Glenhaven-Dr-Phoenix-AZ-85048",
         "beds": 3,
@@ -26044,27 +26065,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f0b2960-ee16-5f5a-af5b-6fac12fec533",
-        "address": "451-Nw-Yosemite-Ter-Beaverton-OR-97006",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2628,
-        "listed_at": "2026-06-25T14:20:03.000Z",
-        "days_on_market": "5",
-        "current_price": 690000,
-        "price_label": "$690K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.829793,
-          45.522772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8f68eade-995f-5ddc-8c68-befd2018fe7e",
         "address": "2065-Cannon-Bridge-Rd-Bamberg-SC-29003",
         "beds": 3,
@@ -34864,6 +34864,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bec7459a-90dd-5f85-9a86-123fcee5ce35",
+        "address": "7446-Salmon-Ln-Ooltewah-TN-37363",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1596,
+        "listed_at": "2026-06-30T15:10:04.000Z",
+        "days_on_market": "97",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.094844,
+          35.125007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
         "address": "5708-Maxfli-Dr-Schertz-TX-78108",
         "beds": 3,
@@ -43615,6 +43636,27 @@
         "coordinates": [
           -123.434835,
           48.089745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eccbac4c-1b6d-590b-bf54-63b68141a317",
+        "address": "1101-Skyline-Dr-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1691,
+        "listed_at": "2026-06-30T15:10:04.000Z",
+        "days_on_market": "7",
+        "current_price": 216000,
+        "price_label": "$216K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.254025,
+          33.22834
         ]
       }
     },
