@@ -31609,27 +31609,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "aeafbc71-4e86-5662-908a-d5623c6f80d2",
-        "address": "4028-Catalpa-Ave-Knoxville-TN-37914",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1530,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": ">128",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.86776,
-          35.99909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "aeb2dd52-3225-5203-99cf-4afb0416f383",
         "address": "40282-N-Przewalski-St-San-Tan-Valley-AZ-85140",
         "beds": 4,
@@ -41332,27 +41311,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e286af1f-8038-556e-aa02-c161deeeed42",
-        "address": "2006-Chelsea-Ln-Acworth-GA-30102",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1380,
-        "listed_at": "2026-06-27T15:50:03.000Z",
-        "days_on_market": "109",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.607535,
-          34.1134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e2f117e1-9594-5779-9be1-aaf782910121",
         "address": "3969-Briaridge-Cir-Atlanta-GA-30340",
         "beds": 3,
@@ -46030,6 +45988,27 @@
         "coordinates": [
           -96.790369,
           32.996379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd27e83c-ea26-55e9-8770-e55b70fb74aa",
+        "address": "5855-Valley-Dr-Unit-2088-North-Las-Vegas-NV-89031",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1104,
+        "listed_at": "2026-06-30T21:40:03.000Z",
+        "days_on_market": "53",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.198263,
+          36.26665
         ]
       }
     },
