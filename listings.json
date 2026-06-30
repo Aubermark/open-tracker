@@ -4897,6 +4897,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ae981a9-411d-5a22-ad21-7d986c34c592",
+        "address": "104-Ashley-Hall-Rd-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1928,
+        "listed_at": "2026-06-30T06:35:12.000Z",
+        "days_on_market": "25",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91323,
+          34.148943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b2c3c45-339e-5941-aeca-e42a9300c7b1",
         "address": "20-Alpine-Rd-Towaco-NJ-07082",
         "beds": 2,
@@ -6928,6 +6949,27 @@
         "coordinates": [
           -98.794312,
           29.441842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "27508cd2-d04d-53d1-b878-f23b85180576",
+        "address": "12701-N-Gibbs-Ave-Marana-AZ-85653",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2110,
+        "listed_at": "2026-06-30T06:35:12.000Z",
+        "days_on_market": "63",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.193819,
+          32.437117
         ]
       }
     },
@@ -12010,27 +12052,6 @@
         "coordinates": [
           -86.293013,
           39.821978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "416ac2c9-3caa-501e-a505-f9a527187fdc",
-        "address": "2200-Romanum-Dr-Winter-Garden-FL-34787-18156083",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 2561,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "45",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.620392,
-          28.506179
         ]
       }
     },
@@ -21256,6 +21277,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7561fb13-1c3a-5d06-ad0e-70055b72228d",
+        "address": "116-Crosscreek-Dr-Columbia-SC-29212",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3705,
+        "listed_at": "2026-06-30T06:35:12.000Z",
+        "days_on_market": "65",
+        "current_price": 563000,
+        "price_label": "$563K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18237,
+          34.065656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75a3b363-9d2e-5b6f-8b7d-335e4a46f10f",
         "address": "13808-S-Robinson-Ave-Oklahoma-City-OK-73170",
         "beds": 5,
@@ -29383,27 +29425,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a1a02450-a19c-5f4b-b302-3bee1a1ca756",
-        "address": "8095-Brookville-Way-Avon-IN-46123",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 3208,
-        "listed_at": "2026-06-29T17:40:05.000Z",
-        "days_on_market": "91",
-        "current_price": 407000,
-        "price_label": "$407K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.379763,
-          39.798042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a1a6634c-5863-403d-80c6-f959acaa5a30",
         "address": "9443-Gulf-Shore-Ter-Parrish-FL-34219",
         "beds": 3,
@@ -30280,27 +30301,6 @@
         "coordinates": [
           -90.541591,
           38.794136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a6819f24-f379-523b-a6c3-b1b3c64f2904",
-        "address": "3495-Cattle-Dr-Sacramento-CA-95834",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 941,
-        "listed_at": "2026-06-29T19:40:04.000Z",
-        "days_on_market": "75",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.493072,
-          38.631323
         ]
       }
     },
@@ -31561,27 +31561,6 @@
         "coordinates": [
           -87.417201,
           36.559277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad0a7351-3f04-5e77-9541-ac0abde0135c",
-        "address": "4046-Farmingham-Woods-Dr-Hermitage-TN-37076",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "48",
-        "current_price": 354000,
-        "price_label": "$354K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.585405,
-          36.183757
         ]
       }
     },
@@ -40261,27 +40240,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
-        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1069,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">127",
-        "current_price": 203000,
-        "price_label": "$203K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.200266,
-          33.786085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "da5d80e6-0c49-538c-b5b4-51d65fc33635",
         "address": "1830-Bellgrove-St-Lakeland-FL-33805",
         "beds": 3,
@@ -43810,27 +43768,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ed1da7f9-debf-5e06-b430-9ead640d5495",
-        "address": "943-Liberty-Bell-Run-Hoschton-GA-30548",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2449,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "124",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.702001,
-          34.102242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ed1ebf54-dc12-5f70-9d42-076959649aca",
         "address": "9741-Flooded-Field-Dr-Ladson-SC-29456",
         "beds": 3,
@@ -46450,27 +46387,6 @@
         "coordinates": [
           -117.335677,
           34.393873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc213eea-2e88-5d54-b54e-4c7f65ed0bf1",
-        "address": "6547-Grand-Oaks-Dr-Las-Vegas-NV-89156",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1338,
-        "listed_at": "2026-06-26T19:00:04.000Z",
-        "days_on_market": "3",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.030419,
-          36.197268
         ]
       }
     },
