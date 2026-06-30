@@ -7123,27 +7123,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "283be79a-0b5a-5497-85a9-1364535f8388",
-        "address": "2622-Cleveland-Ave-Township-Of-Washington-NJ-07676",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1935,
-        "listed_at": "2026-06-15T20:21:17.000Z",
-        "days_on_market": ">128",
-        "current_price": 749000,
-        "price_label": "$749K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.056493,
-          40.995766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28448ca5-5bd0-58a2-ba9d-5c640ca5669b",
         "address": "3127-S-Eugene-Mesa-AZ-85212",
         "beds": 3,
@@ -15181,27 +15160,6 @@
         "coordinates": [
           -84.705149,
           33.740164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "541fa2ae-c14c-57c1-b39d-99786f1906d0",
-        "address": "307-Rhea-Rd-York-SC-29745-17998163",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1242,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "97",
-        "current_price": 302000,
-        "price_label": "$302K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.26352,
-          34.999788
         ]
       }
     },
@@ -46198,6 +46156,27 @@
         "coordinates": [
           -112.022021,
           41.499173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc44cef0-2127-543a-90ae-ac8d735d4306",
+        "address": "4043-Larkspur-Pl-Winston-Salem-NC-27105",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 971,
+        "listed_at": "2026-06-30T17:50:03.000Z",
+        "days_on_market": ">128",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19708,
+          36.145931
         ]
       }
     },
