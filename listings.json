@@ -1222,6 +1222,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05fca54f-da27-562d-bd4f-4a117d0b0c31",
+        "address": "512-Lake-Crest-Pkwy-Azle-TX-76020",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1057,
+        "listed_at": "2026-07-01T18:00:03.000Z",
+        "days_on_market": "37",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.540715,
+          32.900959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "068b9815-d87a-5105-bb10-b76255717f38",
         "address": "10508-Whitehaven-Rd-Oklahoma-City-OK-73120",
         "beds": 3,
@@ -11617,27 +11638,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "40f50d7b-0f98-5b1a-ab2f-b30a449b866c",
-        "address": "375-Walnut-Ln-Corryton-TN-37721",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1768,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "64",
-        "current_price": 311000,
-        "price_label": "$311K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.796138,
-          36.173833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4131620f-7f18-5778-99cd-229c5f42dc9d",
         "address": "5032-W-Yearling-Rd-Phoenix-AZ-85083",
         "beds": 4,
@@ -17470,6 +17470,27 @@
         "coordinates": [
           -80.623098,
           33.033554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "62defc09-40c9-5c04-a61c-33403ce96fd8",
+        "address": "5375-Wandering-Way-Mason-OH-45040",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3523,
+        "listed_at": "2026-07-01T18:00:03.000Z",
+        "days_on_market": ">129",
+        "current_price": 599000,
+        "price_label": "$599K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.310183,
+          39.392427
         ]
       }
     },
@@ -28186,27 +28207,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9e9014dd-5e5a-5eea-aa30-fcf9eb05e5e3",
-        "address": "240-Hiram-Allen-Rd-Blythewood-SC-29016",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2894,
-        "listed_at": "2026-07-01T17:20:04.000Z",
-        "days_on_market": "23",
-        "current_price": 391000,
-        "price_label": "$391K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.905644,
-          34.243676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9e9e990b-aacf-51db-8735-8c96bb92d045",
         "address": "880-Fruitland-Dr-Deltona-FL-32725",
         "beds": 3,
@@ -30685,27 +30685,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ac49235c-be43-5626-8ee8-b3395db5d352",
-        "address": "1500-Shady-Oak-Cir-Birmingham-AL-35235",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "72",
-        "current_price": 174000,
-        "price_label": "$174K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.651561,
-          33.621175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ac4da411-ec89-5172-bf88-14e1f5ed05a9",
         "address": "7212-Maple-Bluff-Pl-Indianapolis-IN-46236",
         "beds": 5,
@@ -31393,27 +31372,6 @@
         "coordinates": [
           -75.517307,
           39.059073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af8610a2-18cd-5055-8d7a-cf4fceb4b4ed",
-        "address": "2807-Clingman-St-Hopewell-VA-23860",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2117,
-        "listed_at": "2026-06-16T21:09:46.000Z",
-        "days_on_market": ">129",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.310702,
-          37.293955
         ]
       }
     },
@@ -36397,27 +36355,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cbef7bc5-c284-5202-bee6-2dc63411662d",
-        "address": "4450-Savage-Pointe-Dr-Franklin-TN-37064",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 4431,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "79",
-        "current_price": 2235000,
-        "price_label": "$2.235M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.794965,
-          35.818819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cc2e0c7f-7c6c-5ffa-b429-0d2719eaf81a",
         "address": "4055-N-Grand-Ave-Indianapolis-IN-46226",
         "beds": 3,
@@ -38323,27 +38260,6 @@
         "coordinates": [
           -81.085069,
           35.07379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d4b8220d-a45d-579e-a6a6-1d744285d44c",
-        "address": "5536-N-Fairmount-Ave-Kansas-City-MO-64118",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1356,
-        "listed_at": "2026-05-28T20:20:02.000Z",
-        "days_on_market": "82",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.598778,
-          39.195448
         ]
       }
     },
@@ -41809,27 +41725,6 @@
         "coordinates": [
           -95.726217,
           29.870726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e86bafce-24ff-5392-88c8-d1c27737b471",
-        "address": "1360-Wildberry-Ln-Deltona-FL-32725",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1288,
-        "listed_at": "2026-05-30T08:05:57.000Z",
-        "days_on_market": "33",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.235768,
-          28.869249
         ]
       }
     },
