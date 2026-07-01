@@ -6808,27 +6808,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "271c343e-2b53-5d85-9d95-1c739222c775",
-        "address": "7221-Durand-Dr-Irving-TX-75063",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 5125,
-        "listed_at": "2026-06-12T16:40:02.000Z",
-        "days_on_market": "19",
-        "current_price": 1320000,
-        "price_label": "$1.320M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.983795,
-          32.905575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "27212ebb-33ef-5111-97a6-4945d0eced6b",
         "address": "928-Red-Merganser-San-Antonio-TX-78253-13877828",
         "beds": 4,
@@ -20311,27 +20290,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "737a343c-05bb-531e-90b7-37b10427b133",
-        "address": "11268-Maxwell-Ave-Warren-MI-48089",
-        "beds": 4,
-        "baths": 1,
-        "sqft": 962,
-        "listed_at": "2026-07-01T16:00:04.000Z",
-        "days_on_market": "8",
-        "current_price": 115000,
-        "price_label": "$115K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.011869,
-          42.461753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "73abab01-a8af-54eb-8b28-5280f161149b",
         "address": "4260-E-Vineyard-Rd-Phoenix-AZ-85042",
         "beds": 5,
@@ -30406,6 +30364,27 @@
         "coordinates": [
           -81.702586,
           28.517031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ab343340-79f1-51e7-af28-521e3b8f42e1",
+        "address": "16201-Surfview-Ct-Wildwood-MO-63040",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2507,
+        "listed_at": "2026-07-01T19:20:04.000Z",
+        "days_on_market": "28",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.607923,
+          38.579541
         ]
       }
     },
