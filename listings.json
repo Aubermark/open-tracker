@@ -14515,6 +14515,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52025e49-a926-5113-8e09-877b96179ab2",
+        "address": "426-Heatherwood-Dr-Oswego-IL-60543",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3866,
+        "listed_at": "2026-07-01T16:00:04.000Z",
+        "days_on_market": "58",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.385718,
+          41.690058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5244b229-55c6-5b40-a553-98f13f58b64c",
         "address": "1616-E-Glenhaven-Dr-Phoenix-AZ-85048",
         "beds": 3,
@@ -18148,27 +18169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "671b9002-1d05-505d-83df-fb1c16c67c7e",
-        "address": "6015-12th-Ave-Sacramento-CA-95820",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 974,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "23",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.434687,
-          38.541771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6723a68c-827c-5921-b4c9-0a77a1eb0462",
         "address": "10740-Southern-Trace-Cir-Flint-TX-75762",
         "beds": 3,
@@ -19129,27 +19129,6 @@
         "coordinates": [
           -82.165863,
           28.961467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6cb31aab-59db-54f2-8e6a-4bb0b16ce98c",
-        "address": "2402-W-Anderson-Ave-Phoenix-AZ-85023",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1997,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "64",
-        "current_price": 426000,
-        "price_label": "$426K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.109986,
-          33.642955
         ]
       }
     },
@@ -20374,21 +20353,21 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "739193b2-00d8-538e-b8d0-c0456d53a07c",
-        "address": "1412-Morris-Rd-Se-Washington-DC-20020",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1368,
-        "listed_at": "2026-06-22T20:00:04.000Z",
-        "days_on_market": "9",
-        "current_price": 401000,
-        "price_label": "$401K"
+        "address_token": "737a343c-05bb-531e-90b7-37b10427b133",
+        "address": "11268-Maxwell-Ave-Warren-MI-48089",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 962,
+        "listed_at": "2026-07-01T16:00:04.000Z",
+        "days_on_market": "8",
+        "current_price": 115000,
+        "price_label": "$115K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.987595,
-          38.860135
+          -83.011869,
+          42.461753
         ]
       }
     },
@@ -30475,27 +30454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ab183dd9-b05d-50b1-ae68-b8d62d3afbf5",
-        "address": "12826-W-Mulberry-Dr-Avondale-AZ-85392",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2973,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "117",
-        "current_price": 480000,
-        "price_label": "$480K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.336725,
-          33.485736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ab200eb1-18bd-5039-a2d4-37a380e7eda8",
         "address": "3312-White-Blossom-Ln-Clermont-FL-34711",
         "beds": 6,
@@ -37048,27 +37006,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cedf1a46-52ae-5f8b-b479-65199333b205",
-        "address": "5074-Langcroft-Dr-Hilliard-OH-43026",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2444,
-        "listed_at": "2026-07-01T05:36:06.000Z",
-        "days_on_market": "69",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.146308,
-          40.001242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cef1b64b-0556-5785-919e-52eeaf4a7f7b",
         "address": "865-Warwick-Ln-Lake-Zurich-IL-60047",
         "beds": 4,
@@ -38386,6 +38323,27 @@
         "coordinates": [
           -96.332536,
           32.98799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4b26699-46a3-5abd-8d4f-011f1b8110ba",
+        "address": "4493-Easywater-Ln-Fort-Mill-SC-29707",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1172,
+        "listed_at": "2026-07-01T16:00:04.000Z",
+        "days_on_market": "30",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.865317,
+          35.003446
         ]
       }
     },
