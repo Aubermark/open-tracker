@@ -2608,27 +2608,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ea3d6e4-75ab-5d57-840f-4c289cd9cd53",
-        "address": "541-S-Stoner-Ave-Tucson-AZ-85748",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2201,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "53",
-        "current_price": 371000,
-        "price_label": "$371K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.783613,
-          32.214507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0ed93887-2e49-5323-9a52-6c3c729dc02e",
         "address": "470-Kinsman-Ct-Fuquay-Varina-NC-27526",
         "beds": 3,
@@ -13354,6 +13333,27 @@
         "coordinates": [
           -82.051634,
           26.745455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4a854699-685e-57f6-a627-72a3d8128514",
+        "address": "21205-Timber-Bluff-Ln-Porter-TX-77365",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2043,
+        "listed_at": "2026-07-01T20:40:04.000Z",
+        "days_on_market": "20",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.24698,
+          30.124176
         ]
       }
     },
@@ -24532,27 +24532,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
-        "address": "16627-Carse-Ave-Harvey-IL-60426",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2354,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">129",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.638504,
-          41.587133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8a0cf28d-4e89-582b-99fb-1aeac7775979",
         "address": "309-Marshall-Creek-Rd-Roanoke-TX-76262",
         "beds": 3,
@@ -33514,27 +33493,6 @@
         "coordinates": [
           -95.666663,
           29.604347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bb6826ee-8a16-53ea-8a8a-6e62d97c6cb6",
-        "address": "3431-White-Mission-Dr-Las-Vegas-NV-89129",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1281,
-        "listed_at": "2026-06-27T05:54:56.000Z",
-        "days_on_market": ">129",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.291379,
-          36.222996
         ]
       }
     },
