@@ -13654,6 +13654,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4bc88c37-2f1e-5958-9f2f-edd37452c898",
+        "address": "448-Mac-Gregor-Rd-Winter-Springs-FL-32708",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1477,
+        "listed_at": "2026-07-01T16:40:04.000Z",
+        "days_on_market": "84",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.309925,
+          28.708166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4bef5620-b36b-5905-8d93-54848eca853b",
         "address": "4383-S-Saginaw-Hill-Dr-Tucson-AZ-85746",
         "beds": 4,
@@ -38455,27 +38476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d50b187d-b6e7-5f08-9b7b-f203fd6dcfe5",
-        "address": "176-Fred-Bishop-Dr-Canton-GA-30114",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2645,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "36",
-        "current_price": 439000,
-        "price_label": "$439K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.459187,
-          34.294872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d51e54b0-21e2-5c7b-bc48-18e5660ae460",
         "address": "6620-Iron-Brigade-Ln-Charlotte-NC-28269",
         "beds": 3,
@@ -41752,27 +41752,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e7788c51-db47-54ff-a69c-868e092b815e",
-        "address": "17530-W-Cardinal-Dr-Goodyear-AZ-85338",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1450,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "50",
-        "current_price": 348000,
-        "price_label": "$348K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.425516,
-          33.352817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e79aedcb-7539-573f-baec-a0df3e0dc6ec",
         "address": "604-Eastway-Ave-Durham-NC-27703",
         "beds": 3,
@@ -44980,6 +44959,27 @@
         "coordinates": [
           -104.865711,
           39.059481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f94d7d2b-e9b5-5a1c-8734-0a387c3ad04a",
+        "address": "5191-Quintilis-St-Spring-Hill-FL-34608",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2142,
+        "listed_at": "2026-07-01T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53214,
+          28.505585
         ]
       }
     },
