@@ -17644,6 +17644,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64fc2fd0-e23c-56da-a81e-d5294ef1b960",
+        "address": "2190-Love-Ln-Florissant-MO-63031",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1625,
+        "listed_at": "2026-07-02T13:10:03.000Z",
+        "days_on_market": ">130",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.329763,
+          38.813714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6530b584-b14d-5757-887e-0bb5eb36786f",
         "address": "217-Cassingham-Ln-Boiling-Springs-SC-29316",
         "beds": 4,
@@ -27697,27 +27718,6 @@
         "coordinates": [
           -78.55459,
           35.963644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9d4280de-acde-5457-8f78-ed4a05a47610",
-        "address": "6206-Suellen-Ln-Killeen-TX-76542",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3246,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "94",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.682969,
-          31.06629
         ]
       }
     },
