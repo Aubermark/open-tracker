@@ -12394,6 +12394,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45c59db8-bf56-59f1-bd86-86ea4699ffce",
+        "address": "7966-Lazelle-Woods-Dr-Westerville-OH-43081",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3164,
+        "listed_at": "2026-07-02T20:30:03.000Z",
+        "days_on_market": "41",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.983802,
+          40.129062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
         "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
         "beds": 3,
@@ -15097,27 +15118,6 @@
         "coordinates": [
           -78.367442,
           35.78972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "57f52be6-2752-59d0-b9c9-42c093704011",
-        "address": "4414-Edward-St-Texas-City-TX-77591",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 983,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "86",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.962636,
-          29.384956
         ]
       }
     },
@@ -38827,27 +38827,6 @@
         "coordinates": [
           -81.516383,
           27.451249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "db587e49-c768-5b49-a88c-21f0a40f1609",
-        "address": "1325-Keifer-Ln-Unit-201-Las-Vegas-NV-89128",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1192,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "59",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.263229,
-          36.18595
         ]
       }
     },
