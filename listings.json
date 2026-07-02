@@ -10063,27 +10063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3a0324a9-c21f-5460-adcb-db0577bb569a",
-        "address": "1384-Ford-Rd-Cleveland-OH-44124",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1464,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "20",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.479507,
-          41.522364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3a042036-01c5-53dd-b7d5-b93f71d58133",
         "address": "320-Redwood-Ct-Columbia-SC-29223",
         "beds": 3,
@@ -15880,6 +15859,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b534e30-f76c-5805-aad1-512708cadb53",
+        "address": "4805-Beacon-St-Orlando-FL-32808",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-07-02T16:30:04.000Z",
+        "days_on_market": "24",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.445584,
+          28.592692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
         "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
         "beds": 3,
@@ -21124,6 +21124,27 @@
         "coordinates": [
           -85.773579,
           39.90071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "782a14a8-acd3-5175-a38c-0e25990f51d0",
+        "address": "3502-Waterstone-Dr-Indianapolis-IN-46268",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2292,
+        "listed_at": "2026-07-02T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.220231,
+          39.87985
         ]
       }
     },
