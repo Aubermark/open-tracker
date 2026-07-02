@@ -7228,27 +7228,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "29a41a45-eb1d-5a2d-83a3-3a64a60e1e5f",
-        "address": "6767-Thistle-Down-Dr-Harrisburg-NC-28075",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3190,
-        "listed_at": "2026-05-21T18:50:02.000Z",
-        "days_on_market": "70",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.600491,
-          35.320525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "29a7bdfa-54ee-539e-820a-48e213e8fa2b",
         "address": "492-Algene-St-Lake-Orion-MI-48362",
         "beds": 3,
@@ -11485,6 +11464,27 @@
         "coordinates": [
           -95.129648,
           29.468867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4140bfcd-1471-5c35-9ee1-13254a6c375e",
+        "address": "727-Cypress-St-Lansdowne-PA-19050",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1482,
+        "listed_at": "2026-07-02T17:10:04.000Z",
+        "days_on_market": "43",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.247365,
+          39.934394
         ]
       }
     },
@@ -23266,27 +23266,6 @@
         "coordinates": [
           -80.12136,
           26.150597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "848fe80e-7e40-5e2d-9ddd-017aa5dd39d0",
-        "address": "543-Silver-Course-Cir-Ocala-FL-34472",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1576,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "52",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.012461,
-          29.113699
         ]
       }
     },
