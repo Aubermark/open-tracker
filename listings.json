@@ -40282,6 +40282,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e286af1f-8038-556e-aa02-c161deeeed42",
+        "address": "2006-Chelsea-Ln-Acworth-GA-30102",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1380,
+        "listed_at": "2026-07-02T15:50:03.000Z",
+        "days_on_market": "111",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.607535,
+          34.1134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e2f117e1-9594-5779-9be1-aaf782910121",
         "address": "3969-Briaridge-Cir-Atlanta-GA-30340",
         "beds": 3,
