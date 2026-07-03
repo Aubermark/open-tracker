@@ -17938,27 +17938,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "684c8a29-1702-5cfe-8fde-1cff8506035e",
-        "address": "12706-Sw-Incline-Dr-Beaverton-OR-97007",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2188,
-        "listed_at": "2026-06-24T15:20:02.000Z",
-        "days_on_market": "9",
-        "current_price": 625000,
-        "price_label": "$625K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.865735,
-          45.427981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "688f520d-f97a-57c6-a752-977c37b775c3",
         "address": "1048-Bethpage-Rd-Auburndale-FL-33823",
         "beds": 4,
@@ -43615,6 +43594,27 @@
         "coordinates": [
           -104.865711,
           39.059481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f949e900-6906-572b-9461-d86dbcd9354f",
+        "address": "6486-Lynndale-Ln-Morrow-GA-30260",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1712,
+        "listed_at": "2026-07-03T18:40:04.000Z",
+        "days_on_market": "8",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.322001,
+          33.577978
         ]
       }
     },
