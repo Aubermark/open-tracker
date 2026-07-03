@@ -15040,6 +15040,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
+        "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3330,
+        "listed_at": "2026-07-03T22:00:03.000Z",
+        "days_on_market": "43",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877521,
+          35.414502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5826c938-0d7b-5761-a7e9-725c65572f6f",
         "address": "5145-Roswell-Rd-Unit-7-Atlanta-GA-30342",
         "beds": 2,
@@ -29005,27 +29026,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a747f28e-5ecf-5045-a3fb-eff2006dae7a",
-        "address": "417-Vincent-Ct-Salisbury-NC-28146",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2162,
-        "listed_at": "2026-06-23T06:31:32.000Z",
-        "days_on_market": "11",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.448179,
-          35.649719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a76a6a88-3ce7-57c1-a258-35bf4ebb7b60",
         "address": "6623-Ambrose-Cir-Temple-TX-76502",
         "beds": 4,
@@ -34843,6 +34843,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c938719b-d778-55e8-85f7-d57d7628bcec",
+        "address": "437-Denison-Dr-Pottsboro-TX-75076",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1111,
+        "listed_at": "2026-07-03T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.670456,
+          33.847475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c9414300-ed76-5d1b-ac50-dd1c363a5a7a",
         "address": "609-Sandy-Spring-Trl-Madison-TN-37115",
         "beds": 3,
@@ -35740,27 +35761,6 @@
         "coordinates": [
           -84.384855,
           39.2957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cd843fa3-3a75-5486-9be6-8aecb5540d12",
-        "address": "109-Crown-Colony-Ct-Lexington-SC-29073",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1143,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "81",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.227081,
-          33.897286
         ]
       }
     },
@@ -43069,6 +43069,27 @@
         "coordinates": [
           -80.226125,
           36.022388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6ac063a-0a7d-59da-9db9-1d3dd6d3b2d2",
+        "address": "1906-Stockton-Trl-Grand-Prairie-TX-75052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1756,
+        "listed_at": "2026-07-03T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.030914,
+          32.646592
         ]
       }
     },
