@@ -3952,6 +3952,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1619eda6-8337-5507-8071-c3dae207eb71",
+        "address": "8200-Bethpage-Dr-Mc-Kinney-TX-75070",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3072,
+        "listed_at": "2026-07-03T22:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.724806,
+          33.130863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16428f71-0864-51cd-a420-d219b413c8ff",
         "address": "311-Hickory-Wood-Dr-Kannapolis-NC-28083",
         "beds": 3,
