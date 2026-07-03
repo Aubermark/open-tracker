@@ -24343,6 +24343,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bbb4994-cdf8-5f9b-8cb4-df374617d78c",
+        "address": "1338-Union-Club-Dr-Winter-Garden-FL-34787",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2637,
+        "listed_at": "2026-07-03T15:20:03.000Z",
+        "days_on_market": "29",
+        "current_price": 890000,
+        "price_label": "$890K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.609428,
+          28.564147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bd99fe4-4dde-5396-9315-7438c7a45ba4",
         "address": "6112-Wye-Oak-Dr-Salado-TX-76571",
         "beds": 3,
