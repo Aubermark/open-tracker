@@ -445,6 +445,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01acdef3-5a0b-58b4-88a3-838ca52c06fb",
+        "address": "113-Griggs-St-Pageland-SC-29728",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 962,
+        "listed_at": "2026-07-03T06:05:27.000Z",
+        "days_on_market": "0",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3918,
+          34.757708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -10798,27 +10819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3ea28739-41b1-5d85-bd4d-4c236dc7c6d0",
-        "address": "625-Woodlawn-Ave-Chula-Vista-CA-91910",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1040,
-        "listed_at": "2026-06-26T16:20:04.000Z",
-        "days_on_market": "6",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.091991,
-          32.625415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3ebb6fd3-1ebe-5658-9de0-2868f71d70fc",
         "address": "7842-Rondeau-Dr-E-Jacksonville-FL-32217",
         "beds": 3,
@@ -14257,27 +14257,6 @@
         "coordinates": [
           -112.048487,
           33.294106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "526465a1-f659-58c9-b54b-6e1b7c881a34",
-        "address": "977-Sunny-Glenn-Ct-Lawrenceville-GA-30043-18107942",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 4065,
-        "listed_at": "2026-05-27T16:50:03.000Z",
-        "days_on_market": "36",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.96705,
-          33.996373
         ]
       }
     },
@@ -21628,27 +21607,6 @@
         "coordinates": [
           -97.559555,
           35.601393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7bfbc68e-b1c0-5716-ba8f-a7b35510075c",
-        "address": "3580-Jamestown-Ln-Jacksonville-FL-32223",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1192,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "17",
-        "current_price": 286000,
-        "price_label": "$286K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.614777,
-          30.16928
         ]
       }
     },
@@ -32239,27 +32197,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b885ba25-5c8e-5415-9702-3d6787ce4278",
-        "address": "4506-Silverdale-Rd-North-Olmsted-OH-44070",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 962,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "91",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.915842,
-          41.423898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b88d1b57-514c-56d6-b7f8-5dabaf8aabf2",
         "address": "2508-W-Francis-Ave-Spokane-WA-99205",
         "beds": 3,
@@ -35572,27 +35509,6 @@
         "coordinates": [
           -96.420714,
           28.645369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cbd62763-45d0-5183-ae35-5151f6467d45",
-        "address": "2342-W-Pauline-Way-West-Jordan-UT-84088",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1423,
-        "listed_at": "2026-06-23T16:20:03.000Z",
-        "days_on_market": "9",
-        "current_price": 470000,
-        "price_label": "$470K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.951035,
-          40.602979
         ]
       }
     },
@@ -44287,27 +44203,6 @@
         "coordinates": [
           -82.735691,
           27.913658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fba2d276-39bd-5bc5-a0cd-0e6f60eb2a06",
-        "address": "44758-Potestas-Dr-Temecula-CA-92592",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1234,
-        "listed_at": "2026-06-11T21:20:08.000Z",
-        "days_on_market": "21",
-        "current_price": 620000,
-        "price_label": "$620K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.092403,
-          33.476917
         ]
       }
     },
