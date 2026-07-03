@@ -19912,6 +19912,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "736b8b7d-8019-5b3c-bb8e-3a32e5a93eae",
+        "address": "1900-Stone-Brook-Ln-Birmingham-AL-35242",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2035,
+        "listed_at": "2026-07-03T17:20:03.000Z",
+        "days_on_market": "9",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.681244,
+          33.426504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "73abab01-a8af-54eb-8b28-5280f161149b",
         "address": "4260-E-Vineyard-Rd-Phoenix-AZ-85042",
         "beds": 5,
@@ -30517,27 +30538,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ae7279b2-601b-5594-a917-b158b1257862",
-        "address": "15311-Woodforest-Blvd-Channelview-TX-77530",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1646,
-        "listed_at": "2026-06-23T15:00:04.000Z",
-        "days_on_market": ">131",
-        "current_price": 175000,
-        "price_label": "$175K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.139332,
-          29.789181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ae8cd4be-6706-5bc4-af35-3ce7935952e6",
         "address": "235-White-Cloud-Trl-Murfreesboro-TN-37127",
         "beds": 3,
@@ -39709,27 +39709,6 @@
         "coordinates": [
           -98.037061,
           29.669693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e1a183ee-a586-5aca-bcfa-71f7cfacb656",
-        "address": "111-David-Ct-Hiram-GA-30141",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 2016,
-        "listed_at": "2026-04-30T06:09:49.000Z",
-        "days_on_market": "95",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.805851,
-          33.813885
         ]
       }
     },
