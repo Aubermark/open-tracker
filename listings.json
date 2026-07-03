@@ -20563,6 +20563,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7698c6e5-b35d-5df1-88e9-ec92bbb413e1",
+        "address": "2296-Talbot-Rdg-Jonesboro-GA-30236",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2454,
+        "listed_at": "2026-07-03T16:00:03.000Z",
+        "days_on_market": "115",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.316038,
+          33.504307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76b25d8a-a916-50c8-ac6d-f52cf0ae22bf",
         "address": "8321-Candlenut-Ln-Charlotte-NC-28215",
         "beds": 4,
@@ -31987,27 +32008,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b7322253-eae0-5d93-b167-da1bc7c10199",
-        "address": "4703-W-Hoha-Ln-Tucson-AZ-85741",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1610,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "84",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.065466,
-          32.348734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b7348d7a-78c6-573b-a7d1-4416b5cfcbe2",
         "address": "142-Silvermill-Rd-Columbia-SC-29210",
         "beds": 4,
@@ -38560,27 +38560,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "db174ef0-5e80-5f8e-80a0-3093445ce3fd",
-        "address": "16960-Tack-Ln-Moreno-Valley-CA-92555",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1311,
-        "listed_at": "2026-05-29T06:25:36.000Z",
-        "days_on_market": "64",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.209861,
-          33.875236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "db2c457d-119f-59fc-8c4a-ed132860ebe4",
         "address": "2400-Creekview-Dr-Plano-TX-75093",
         "beds": 5,
@@ -41620,27 +41599,6 @@
         "coordinates": [
           -96.557683,
           33.343525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ec8b22af-5f3b-515d-a34a-d17736682e00",
-        "address": "1371-N-Concord-Ave-Chandler-AZ-85225",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2654,
-        "listed_at": "2026-06-26T06:31:10.000Z",
-        "days_on_market": "8",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.822611,
-          33.326892
         ]
       }
     },
