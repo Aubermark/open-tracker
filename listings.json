@@ -24007,6 +24007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
+        "address": "16627-Carse-Ave-Harvey-IL-60426",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2354,
+        "listed_at": "2026-07-03T19:20:03.000Z",
+        "days_on_market": ">131",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.638504,
+          41.587133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8a0cf28d-4e89-582b-99fb-1aeac7775979",
         "address": "309-Marshall-Creek-Rd-Roanoke-TX-76262",
         "beds": 3,
@@ -40513,27 +40534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e75e6b12-89d7-5c09-a472-f33d35040443",
-        "address": "2332-Se-Berkshire-Blvd-Port-Saint-Lucie-FL-34952",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1850,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "93",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.262693,
-          27.271193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e79aedcb-7539-573f-baec-a0df3e0dc6ec",
         "address": "604-Eastway-Ave-Durham-NC-27703",
         "beds": 3,
@@ -41200,27 +41200,6 @@
         "coordinates": [
           -96.526187,
           32.902092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eab6f299-8be9-44e3-a6c1-724fa6a1724b",
-        "address": "12256-Barcroft-Cir-Huntley-IL-60142",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1512,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "100",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.441607,
-          42.15069
         ]
       }
     },
