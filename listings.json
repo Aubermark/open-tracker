@@ -11218,6 +11218,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41436a10-2364-5728-a1db-bcf323664659",
+        "address": "701-E-Peoria-St-Paola-KS-66071",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1890,
+        "listed_at": "2026-07-04T16:30:03.000Z",
+        "days_on_market": "30",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.869357,
+          38.571236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4148f8d3-82e6-5a10-80af-b8d987761e9b",
         "address": "5047-Little-Harbor-Way-Acworth-GA-30101",
         "beds": 4,
@@ -22264,6 +22285,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "813fe7bd-8233-554d-978c-8bb99eb0b3a4",
+        "address": "8605-N-67th-Ln-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1435,
+        "listed_at": "2026-07-04T16:30:03.000Z",
+        "days_on_market": ">132",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.203721,
+          33.561227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "815b761a-58d5-5488-b514-bffeeaa901d0",
         "address": "1808-Dailey-Ter-Nw-Huntsville-AL-35816",
         "beds": 3,
@@ -28579,27 +28621,6 @@
         "coordinates": [
           -95.820307,
           29.526163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a49afcae-779b-482e-bab3-f2626db0c9b9",
-        "address": "29-Lone-Cypress-Way-Saint-Augustine-FL-32092",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1600,
-        "listed_at": "2026-06-22T17:20:03.000Z",
-        "days_on_market": "12",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.46018,
-          29.93906
         ]
       }
     },
@@ -36076,27 +36097,6 @@
         "coordinates": [
           -80.784997,
           34.925305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d06f6d05-63a1-5437-a870-f526495f54de",
-        "address": "22815-Whitewater-Creek-Cir-Katy-TX-77450",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2556,
-        "listed_at": "2026-06-08T21:10:04.000Z",
-        "days_on_market": "75",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.765461,
-          29.753637
         ]
       }
     },
