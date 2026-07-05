@@ -8383,6 +8383,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30ccad1a-f0fe-49dc-8402-e7a77e3479bd",
+        "address": "1818-Irby-Ct-Tavares-FL-32778",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1690,
+        "listed_at": "2026-07-05T11:20:03.000Z",
+        "days_on_market": "90",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.706319,
+          28.808928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30db6dd7-c136-5d9c-bc13-b6e87d7fe856",
         "address": "14-Halyn-Ln-Arden-NC-28704",
         "beds": 3,
