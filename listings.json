@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15579637-dbe2-50a5-af09-4525a907275a",
+        "address": "3035-Killdeer-Ln-Humble-TX-77396",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1728,
+        "listed_at": "2026-07-06T16:40:04.000Z",
+        "days_on_market": "10",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.274478,
+          29.957762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -9910,6 +9931,27 @@
         "coordinates": [
           -82.920324,
           42.508754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "37af540e-ddba-50b1-919c-5b08ffd06c28",
+        "address": "5659-Raleigh-Cir-Castle-Rock-CO-80104",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-07-06T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.797854,
+          39.364021
         ]
       }
     },
@@ -20305,6 +20347,27 @@
         "coordinates": [
           -84.583504,
           33.940367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7319724e-a607-53f2-b8f4-065da6603c30",
+        "address": "6319-Perry-Ave-N-Brooklyn-Center-MN-55429",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 2048,
+        "listed_at": "2026-07-06T16:40:04.000Z",
+        "days_on_market": "74",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.342836,
+          45.070316
         ]
       }
     },
