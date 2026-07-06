@@ -33457,6 +33457,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bbb1ba3e-9893-51ab-834f-3711cb9b5ffa",
+        "address": "5617-W-Hatcher-Rd-Glendale-AZ-85302",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1609,
+        "listed_at": "2026-07-06T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.180395,
+          33.570423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bbd97600-9e05-5ae5-9105-8c3f1ce95a86",
         "address": "7301-Lakefall-Dr-Wake-Forest-NC-27587",
         "beds": 3,
@@ -34333,6 +34354,27 @@
         "coordinates": [
           -80.695635,
           35.2972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1c68b96-e298-559a-93bb-dd9be7dc7765",
+        "address": "2291-Yale-St-Martinez-CA-94553",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1287,
+        "listed_at": "2026-07-06T17:20:03.000Z",
+        "days_on_market": "117",
+        "current_price": 699000,
+        "price_label": "$699K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.121981,
+          38.002883
         ]
       }
     },
@@ -37609,6 +37651,27 @@
         "coordinates": [
           -81.884465,
           31.618663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d386611f-96b9-5add-8ed6-519ff6490f66",
+        "address": "8745-Spring-Canyon-Dr-#-16-Spring-Valley-CA-91977",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1088,
+        "listed_at": "2026-07-06T17:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.010865,
+          32.695387
         ]
       }
     },
