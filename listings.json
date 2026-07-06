@@ -29761,6 +29761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a8116444-90f4-5b9f-841f-6f39bcd3ecd9",
+        "address": "3216-Poe-Cv-Apt-5-C-Lago-Vista-TX-78645",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1138,
+        "listed_at": "2026-07-06T16:00:03.000Z",
+        "days_on_market": "35",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.01675,
+          30.434743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
         "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
         "beds": 4,
