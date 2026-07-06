@@ -550,6 +550,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "024e2dc9-e812-5e33-988c-07653dbf4edb",
+        "address": "7275-Kraft-St-Pigeon-MI-48755",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1120,
+        "listed_at": "2026-07-06T15:50:09.000Z",
+        "days_on_market": "0",
+        "current_price": 136000,
+        "price_label": "$136K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.271444,
+          43.824344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02575f18-a5ef-54c7-87d6-252f5d1c0518",
         "address": "825-Summerville-Dr-Delaware-OH-43015",
         "beds": 3,
@@ -6487,27 +6508,6 @@
         "coordinates": [
           -83.696436,
           34.02335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "25c7a12d-e750-538f-89a4-4d74e07006f3",
-        "address": "7011-Towne-Lake-Rd-Riverview-FL-33578",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1400,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "111",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.358848,
-          27.874841
         ]
       }
     },
@@ -15754,27 +15754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "58de81ff-2375-5c35-9665-4b2b9f338c74",
-        "address": "906-W-Marymont-Ln-Charleston-SC-29414",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1328,
-        "listed_at": "2026-06-24T20:10:03.000Z",
-        "days_on_market": "12",
-        "current_price": 301000,
-        "price_label": "$301K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.089512,
-          32.840316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "58ec1cd5-ef1c-5dc0-9502-87bd9a6a6f5d",
         "address": "3849-Hearthstone-Dr-Chapel-Hill-TN-37034",
         "beds": 3,
@@ -16420,6 +16399,27 @@
         "coordinates": [
           -81.769259,
           41.361872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5c83b8f7-3ae3-5357-b9b0-2ce258204dc3",
+        "address": "1677-Moravian-St-Columbus-OH-43220",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1931,
+        "listed_at": "2026-07-06T15:50:09.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.064046,
+          40.061145
         ]
       }
     },
@@ -38077,6 +38077,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d608ca7e-8a74-54ca-a7ab-c165d2bb4467",
+        "address": "399-N-Victoria-Rd-Woodstock-GA-30189",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2117,
+        "listed_at": "2026-07-06T15:50:09.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.599553,
+          34.153708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d62d590c-ce8a-505e-b0b4-804e6305f1db",
         "address": "37685-Sandy-Heights-St-Sandy-OR-97055",
         "beds": 3,
@@ -42880,27 +42901,6 @@
         "coordinates": [
           -78.597443,
           35.693089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f2834525-50a3-5bb9-ab80-c18186a35057",
-        "address": "2370-Crescent-Park-Ct-Atlanta-GA-30339",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2249,
-        "listed_at": "2026-06-23T06:31:32.000Z",
-        "days_on_market": "14",
-        "current_price": 497000,
-        "price_label": "$497K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.472124,
-          33.893787
         ]
       }
     },
