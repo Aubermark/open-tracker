@@ -17266,6 +17266,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "618aecba-649d-5846-b768-57217e54d447",
+        "address": "120-Brookstone-Ct-Athens-GA-30605",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1310,
+        "listed_at": "2026-07-06T16:30:03.000Z",
+        "days_on_market": "77",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.332886,
+          33.905248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61cf50da-26a5-5a21-861b-4e3491f58e7b",
         "address": "5880-Se-Snowberry-Ct-Hillsboro-OR-97123",
         "beds": 4,
@@ -36601,27 +36622,6 @@
         "coordinates": [
           -111.55662,
           33.159107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cf9e6559-ba55-5583-910e-b226a2bbf2f7",
-        "address": "1108-Albemarle-Cir-Noblesville-IN-46062",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2360,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "86",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.044103,
-          40.068612
         ]
       }
     },
