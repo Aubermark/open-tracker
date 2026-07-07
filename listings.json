@@ -17308,6 +17308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d2f66bc-2af1-58f2-89d8-37d5cd3a8e40",
+        "address": "1430-E-Flossmoor-Ave-Mesa-AZ-85204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1153,
+        "listed_at": "2026-07-07T11:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.800198,
+          33.394177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d940429-ea4c-5d6d-a2c4-5a4b62c9ba3f",
         "address": "12642-Nw-Barnes-Rd-Apt-3-Portland-OR-97229",
         "beds": 2,
@@ -35074,6 +35095,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bca20b02-9cce-5f37-b529-93c6862b9d6f",
+        "address": "28321-N-Cactus-Flower-Cir-San-Tan-Valley-AZ-85143",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1685,
+        "listed_at": "2026-07-07T11:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.558697,
+          33.136813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcaeafbb-c31d-5478-98af-3189370484cf",
         "address": "6843-Tammany-Manor-Ln-Spring-TX-77379",
         "beds": 3,
@@ -40927,6 +40969,27 @@
         "coordinates": [
           -84.823596,
           33.853081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db1633a0-17b8-5556-b6f4-063345d760bb",
+        "address": "10066-W-Cashman-Dr-Peoria-AZ-85383",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2468,
+        "listed_at": "2026-07-07T11:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.275961,
+          33.688638
         ]
       }
     },
