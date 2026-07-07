@@ -1201,6 +1201,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "04eac848-a326-5906-ad60-9966b3645358",
+        "address": "1611-Temperance-Way-Wylie-TX-75098",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2631,
+        "listed_at": "2026-07-07T12:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.551798,
+          33.060746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "04fea10a-3788-5f75-b39f-7afe974797c4",
         "address": "1126-Glencoe-Dr-Glenn-Heights-TX-75154",
         "beds": 5,
@@ -20815,27 +20836,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "700c51c7-5fea-50e3-aec0-f63b7c8e1269",
-        "address": "3794-Waldrop-Ln-Decatur-GA-30034",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1560,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "120",
-        "current_price": 175000,
-        "price_label": "$175K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.256097,
-          33.683216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "701c8d8f-237d-5bfc-8d6b-e1e1dcb29cb0",
         "address": "823-Deerhurst-Ln-Magnolia-TX-77354",
         "beds": 4,
@@ -22111,6 +22111,27 @@
         "coordinates": [
           -80.685451,
           35.227079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76b44cce-8c09-5cc1-91b1-abe1fc4c00c4",
+        "address": "1310-Canyon-Creek-Rd-Wylie-TX-75098",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2558,
+        "listed_at": "2026-07-07T12:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.512918,
+          33.001761
         ]
       }
     },
@@ -40150,6 +40171,27 @@
         "coordinates": [
           -83.973196,
           33.862129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d70e7e78-c8ba-59e7-9b12-c1e4fac9a8fc",
+        "address": "6712-Coach-House-Ln-Plano-TX-75023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1669,
+        "listed_at": "2026-07-07T12:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.763174,
+          33.064211
         ]
       }
     },
