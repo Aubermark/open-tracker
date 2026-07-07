@@ -7669,6 +7669,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29360f85-3abc-5e7c-97b3-40418c201e70",
+        "address": "6113-Remington-Lake-Dr-Raleigh-NC-27616",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2246,
+        "listed_at": "2026-07-07T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.553747,
+          35.862515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29442653-6ed9-55c4-9511-17bf663882c3",
         "address": "4312-Chicory-Ct-Denton-TX-76210",
         "beds": 4,
@@ -23944,27 +23965,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7f2a7a75-86da-55e2-8120-50fd1f953047",
-        "address": "18627-N-33rd-Dr-Phoenix-AZ-85027",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 945,
-        "listed_at": "2026-06-09T19:50:03.000Z",
-        "days_on_market": "28",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.130826,
-          33.655804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7f344806-3a59-56cb-872d-7aeaae7dea57",
         "address": "5423-Timberhurst-San-Antonio-TX-78250",
         "beds": 3,
@@ -29587,6 +29587,27 @@
         "coordinates": [
           -81.3723,
           35.386285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e7fb8fa-6ccf-53ef-8bac-501978257659",
+        "address": "3570-Newport-St-Denver-CO-80207",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1721,
+        "listed_at": "2026-07-07T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.909137,
+          39.766918
         ]
       }
     },
@@ -46975,27 +46996,6 @@
         "coordinates": [
           -96.512746,
           33.159183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f9cfa727-7c37-509a-b76d-ad8cf6256a50",
-        "address": "305-N-Lakeside-Ter-Mustang-OK-73064",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1832,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": ">135",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.683042,
-          35.394073
         ]
       }
     },
