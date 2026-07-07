@@ -5443,6 +5443,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ba3dad1-a87a-5507-93f3-49dd8d4a2efc",
+        "address": "59-Paradise-Cir-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1803,
+        "listed_at": "2026-07-07T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.779335,
+          33.791279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1bb5f4ff-1793-5dea-8b8c-8121367035b8",
         "address": "5513-Perry-Creek-St-Las-Vegas-NV-89141",
         "beds": 4,
@@ -14866,27 +14887,6 @@
         "coordinates": [
           -80.935051,
           34.853676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4bc88c37-2f1e-5958-9f2f-edd37452c898",
-        "address": "448-Mac-Gregor-Rd-Winter-Springs-FL-32708",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1477,
-        "listed_at": "2026-07-01T16:40:04.000Z",
-        "days_on_market": "90",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.309925,
-          28.708166
         ]
       }
     },
@@ -28627,27 +28627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9732e069-837a-5ba7-96d1-fc3b2391795d",
-        "address": "5678-Baffin-Ln-Belton-TX-76513",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-05-21T15:20:02.000Z",
-        "days_on_market": "47",
-        "current_price": 243000,
-        "price_label": "$243K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.510923,
-          31.027649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9738c9e6-6fa2-5e9a-9c41-7632631c85e9",
         "address": "2336-Nesbitt-Dr-Ne-Brookhaven-GA-30319",
         "beds": 4,
@@ -32674,6 +32653,27 @@
         "coordinates": [
           -105.021614,
           40.593913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ace0cc22-c150-5590-91bc-e219c53c370e",
+        "address": "85-Tarry-Ct-Greenwood-IN-46142",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2817,
+        "listed_at": "2026-07-07T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.165001,
+          39.607795
         ]
       }
     },
@@ -42607,27 +42607,6 @@
         "coordinates": [
           -93.35986,
           45.225049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e06c650d-6999-5779-8c26-2a574ab3fb30",
-        "address": "8421-W-Willowbrook-Dr-Peoria-AZ-85382",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1908,
-        "listed_at": "2026-06-24T17:20:04.000Z",
-        "days_on_market": "33",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.240859,
-          33.649655
         ]
       }
     },
