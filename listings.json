@@ -23230,6 +23230,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c2dca74-bc2d-5eb3-90af-fca57af181f2",
+        "address": "4655-Chapel-Ridge-Dr-Greensboro-NC-27405",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1520,
+        "listed_at": "2026-07-07T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.764084,
+          36.14031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c602a0b-430e-53cc-9923-76f170a02fbe",
         "address": "7540-N-Amity-Ave-Kansas-City-MO-64152",
         "beds": 5,
@@ -30259,6 +30280,27 @@
         "coordinates": [
           -96.40504,
           30.152042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2c0ce8d-bb7b-518b-b291-cb1169cb7755",
+        "address": "1613-Mullins-Dr-Plano-TX-75025",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2012,
+        "listed_at": "2026-07-07T14:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.722123,
+          33.081478
         ]
       }
     },
