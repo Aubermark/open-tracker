@@ -2671,6 +2671,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dea2b2d-5c3e-5ed1-bccf-840a4130bd64",
+        "address": "2503-Mc-Cue-Rd-Apt-6-Houston-TX-77056",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 900,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 143000,
+        "price_label": "$143K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.463679,
+          29.741733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e08d526-5c6e-5eae-8ccb-cf634724eaad",
         "address": "1123-S-Vegas-Mesa-AZ-85208",
         "beds": 4,
@@ -7459,6 +7480,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27f32f78-bde4-54a5-8573-e6c35520e5ea",
+        "address": "411-Capricorn-Ln-Orange-Park-FL-32073-3836525",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1600,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.757535,
+          30.17644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27f3fb00-10c2-52eb-8c12-295496b0b934",
         "address": "612-Turmeric-Ln-Durham-NC-27713",
         "beds": 3,
@@ -9448,6 +9490,27 @@
         "coordinates": [
           -82.569619,
           35.463189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "313f1248-5c08-5246-922e-69203555faa4",
+        "address": "95443-Woodbridge-Pkwy-Fernandina-Beach-FL-32034",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2640,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "54",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.506171,
+          30.601003
         ]
       }
     },
@@ -11890,6 +11953,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e98e193-aa30-50fd-9515-240e34205718",
+        "address": "6226-Valley-Castle-San-Antonio-TX-78250",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.696576,
+          29.498934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e9b76c9-4918-5d28-9cbb-aef098a67cea",
         "address": "1111-3rd-Ln-Pleasant-Grove-AL-35127",
         "beds": 3,
@@ -13486,27 +13570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4549ba79-a3ce-5c54-8b56-3643eeb96a91",
-        "address": "8312-Snow-Goose-Way-Fort-Worth-TX-76118",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3352,
-        "listed_at": "2026-07-02T05:50:44.000Z",
-        "days_on_market": "70",
-        "current_price": 544000,
-        "price_label": "$544K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.198602,
-          32.800472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "454d9341-133f-5894-8887-a29cb03b97eb",
         "address": "2298-Camden-Dr-Sw-Marietta-GA-30064",
         "beds": 6,
@@ -14341,27 +14404,6 @@
         "coordinates": [
           -84.640532,
           33.917711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "49cc01d2-9f46-501c-8cab-70f22c177927",
-        "address": "17621-Meadowbridge-Dr-Lutz-FL-33549",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1624,
-        "listed_at": "2026-05-14T06:31:42.000Z",
-        "days_on_market": "82",
-        "current_price": 382000,
-        "price_label": "$382K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.43967,
-          28.127286
         ]
       }
     },
@@ -21628,27 +21670,6 @@
         "coordinates": [
           -98.50545,
           29.693235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7366b0c7-7713-5b2e-909d-b3472e23cf5d",
-        "address": "2725-Flintlock-Pl-Austell-GA-30106",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 986,
-        "listed_at": "2026-06-04T20:00:03.000Z",
-        "days_on_market": "33",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.633632,
-          33.832133
         ]
       }
     },
@@ -34276,6 +34297,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6cf3d4c-61cd-53e8-9744-12c2e8d18b6e",
+        "address": "4224-Old-Forge-Dr-Gastonia-NC-28056",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1814,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.107408,
+          35.252623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6d20246-1d32-525b-8d93-1b240502b760",
         "address": "2611-Freemont-Rd-Durham-NC-27705",
         "beds": 4,
@@ -39841,6 +39883,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d41dd477-0b1d-5e9e-aef9-03c06d0e9ba6",
+        "address": "752-Orchid-Dr-Royal-Palm-Beach-FL-33411",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23221,
+          26.686084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d42d3ea0-3390-5287-86b9-9b65900f6bf2",
         "address": "3023-K-St-Se-Washington-DC-20019",
         "beds": 4,
@@ -41347,6 +41410,27 @@
         "coordinates": [
           -80.848532,
           35.578366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dac4610f-3cdd-5aaa-96a2-b90342e5010a",
+        "address": "1111-N-64th-St-Unit-38-Mesa-AZ-85205",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1276,
+        "listed_at": "2026-07-07T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.69271,
+          33.436672
         ]
       }
     },
