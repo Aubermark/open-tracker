@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00523233-494b-5cbb-b652-fdd98bcdc1c2",
+        "address": "288-Chicago-Ave-Marion-OH-43302",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1404,
+        "listed_at": "2026-07-07T15:20:04.000Z",
+        "days_on_market": "12",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.105308,
+          40.593475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0062a651-4307-5841-9c70-8f83c3659876",
         "address": "98-Grimes-Dr-Martinsburg-WV-25403",
         "beds": 3,
@@ -11281,6 +11302,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b828489-3290-5648-a2d1-329fa624f5c5",
+        "address": "66-Tangerine-Ct-Lake-Jackson-TX-77566",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1632,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.458167,
+          29.03436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b8e2183-c65a-5052-9a56-e832d55f59f6",
         "address": "16813-W-Shrine-Dr-Yarnell-AZ-85362",
         "beds": 1,
@@ -13150,27 +13192,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "44587f22-2c2c-553c-b39e-6ed409ca2f9e",
-        "address": "2512-Atticus-Way-Justin-TX-76247",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2782,
-        "listed_at": "2026-07-06T14:40:03.000Z",
-        "days_on_market": "1",
-        "current_price": 455000,
-        "price_label": "$455K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.247686,
-          33.089665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4468dd26-ef9e-5615-af25-abe8eda13f78",
         "address": "332-Warwick-Pl-Mc-Donough-GA-30253",
         "beds": 5,
@@ -14215,6 +14236,27 @@
         "coordinates": [
           -82.236895,
           34.801613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "49b22a43-ce0b-5803-a0ce-6e61e41ce806",
+        "address": "1207-Mulberry-Ave-Ne-Montgomery-MN-56069",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2562,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.565352,
+          44.451601
         ]
       }
     },
@@ -16573,6 +16615,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "589cff90-37e1-52fc-8495-6faf89a34853",
+        "address": "3014-Saint-Amanda-Dr-Mansfield-TX-76063",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3532,
+        "listed_at": "2026-07-07T15:20:04.000Z",
+        "days_on_market": "14",
+        "current_price": 502000,
+        "price_label": "$502K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.122995,
+          32.610893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58ac96bf-2c89-5d4a-a4d9-afe2e63dd191",
         "address": "9526-Ascending-Prt-Converse-TX-78109",
         "beds": 4,
@@ -17113,27 +17176,6 @@
         "coordinates": [
           -82.336818,
           27.742109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5c0c927e-27a8-5620-a4ef-59278382c556",
-        "address": "1611-Blackbird-Dr-Maryville-TN-37803",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2410,
-        "listed_at": "2026-06-25T21:40:03.000Z",
-        "days_on_market": "12",
-        "current_price": 393000,
-        "price_label": "$393K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.990635,
-          35.689166
         ]
       }
     },
@@ -20857,6 +20899,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6f7df705-3aa4-50d6-82bd-cee43be53c37",
+        "address": "847-W-Clubhouse-Dr-Prescott-AZ-86303",
+        "beds": 6,
+        "baths": 4.5,
+        "sqft": 4901,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.485481,
+          34.52262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f8914a9-b7fe-5180-a6f3-216966918677",
         "address": "4558-Coopers-Creek-Pl-Se-Smyrna-GA-30082",
         "beds": 3,
@@ -21649,6 +21712,27 @@
         "coordinates": [
           -90.520791,
           38.584443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74399e3a-f2ff-544b-b975-ef588e3414fe",
+        "address": "420-Bluebonnet-Dr-Hurst-TX-76053",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1261,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.164278,
+          32.814583
         ]
       }
     },
@@ -25996,27 +26080,6 @@
         "coordinates": [
           -86.750502,
           33.081608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8b485900-ba61-565e-8464-8a666963c3cb",
-        "address": "910-Luella-Ave-Deer-Park-TX-77536",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1788,
-        "listed_at": "2026-06-11T20:00:03.000Z",
-        "days_on_market": "26",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.113943,
-          29.703664
         ]
       }
     },
@@ -35305,6 +35368,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcf4f71c-15af-5ce7-8f9a-84d1f374899e",
+        "address": "5602-Briarwood-Forest-Dr-Houston-TX-77088",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1654,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.472249,
+          29.889403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcfcd506-2cd5-5b4e-a8bb-50f7818b4261",
         "address": "2030-Main-St-Nw-Apt-203-Atlanta-GA-30318",
         "beds": 2,
@@ -43153,6 +43237,27 @@
         "coordinates": [
           -82.533952,
           28.885986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e68003b3-506f-5b93-98f1-9409885a6d32",
+        "address": "3135-Spalding-Dr-Atlanta-GA-30350",
+        "beds": 6,
+        "baths": 6,
+        "sqft": 5876,
+        "listed_at": "2026-07-07T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1085716.96,
+        "price_label": "$1.086M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.301715,
+          33.967895
         ]
       }
     },
