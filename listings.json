@@ -45700,6 +45700,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f568a8f7-9b69-5061-8fe0-e9a9f69e239d",
+        "address": "316-Brookwood-Dr-Desoto-TX-75115",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2298,
+        "listed_at": "2026-07-07T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.863188,
+          32.58595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f56e496c-5b80-503f-a99f-c0c0a4617cd4",
         "address": "2441-Longwood-St-Orange-Park-FL-32065",
         "beds": 3,
