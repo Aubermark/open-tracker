@@ -6451,6 +6451,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "219ed08d-8403-5fca-97d4-dd866b7c966a",
+        "address": "1438-Trouville-Ln-Unit-4-Chula-Vista-CA-91913",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1360,
+        "listed_at": "2026-07-08T19:50:04.000Z",
+        "days_on_market": "30",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.973509,
+          32.627427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "219f7086-38b0-53dd-91a1-efd63949a964",
         "address": "10103-Meredith-Ave-Silver-Spring-MD-20910",
         "beds": 3,
@@ -18463,6 +18484,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f93dfe8-90f6-598d-a6a3-bbfd3ad84f6a",
+        "address": "5908-W-Calavar-Rd-Glendale-AZ-85306",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1215,
+        "listed_at": "2026-07-08T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.186311,
+          33.612557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f9deb56-1696-516b-9482-c3b06eb930b0",
         "address": "15470-E-Sycamore-Dr-Fountain-Hills-AZ-85268",
         "beds": 3,
@@ -20242,6 +20284,27 @@
         "coordinates": [
           -86.941426,
           35.750157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6a8e6db1-b406-409a-b257-9cb893f04415",
+        "address": "100-Dillingham-Ave-Unit-A101-Falmouth-MA-02540",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1017,
+        "listed_at": "2026-07-08T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.609034,
+          41.555649
         ]
       }
     },
@@ -23245,27 +23308,6 @@
         "coordinates": [
           -84.584633,
           33.877348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "78b548d8-95e6-59ba-b8ee-351655b62471",
-        "address": "383-Eureka-Dr-Santa-Paula-CA-93060",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2226,
-        "listed_at": "2026-06-04T19:50:04.000Z",
-        "days_on_market": "34",
-        "current_price": 765000,
-        "price_label": "$765K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.039944,
-          34.365628
         ]
       }
     },
@@ -40093,27 +40135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d23e94eb-57ef-4915-b4bb-9a19ab1cc792",
-        "address": "8691-Laurelton-Pl-Brownsburg-IN-46112",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3054,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "134",
-        "current_price": 407000,
-        "price_label": "$407K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.369512,
-          39.811676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d2449830-a269-52f6-9fde-ac7ca3746304",
         "address": "1930-Fair-Oaks-Ln-Prosper-TX-75078",
         "beds": 4,
@@ -40402,6 +40423,27 @@
         "coordinates": [
           -78.587742,
           35.751418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d3725d0b-f2b5-5774-b1f3-f578c26c37d2",
+        "address": "1154-S-Ellison-Dr-San-Antonio-TX-78245",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1591,
+        "listed_at": "2026-07-08T19:50:04.000Z",
+        "days_on_market": "40",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.678121,
+          29.423789
         ]
       }
     },
