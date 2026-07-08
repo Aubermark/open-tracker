@@ -21004,6 +21004,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d9ba9c1-a485-5e80-85a7-f13f1f91b48d",
+        "address": "718-Alabama-Ave-Saint-Cloud-FL-34769",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1256,
+        "listed_at": "2026-07-08T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.296066,
+          28.250921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6da89316-0e27-5ad6-a2e1-74b0c336b101",
         "address": "23691-Redfern-Rd-Columbia-Station-OH-44028",
         "beds": 5,
