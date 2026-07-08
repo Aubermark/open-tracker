@@ -15628,6 +15628,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e9861de-e4c6-55bb-aff5-585977bf0917",
+        "address": "1907-Sue-Ann-St-Orlando-FL-32817",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1655,
+        "listed_at": "2026-07-08T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27186,
+          28.570035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4eeef016-ab08-554a-904d-2f80ade0437c",
         "address": "299-Firewheel-Ct-Summerville-SC-29486",
         "beds": 4,
@@ -33520,6 +33541,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af0ae4d3-2212-5430-b99d-1cd15d567d2b",
+        "address": "4689-Lluvia-Encantada-Santa-Fe-NM-87507",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2490,
+        "listed_at": "2026-07-08T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.013737,
+          35.622213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "af1214af-50ad-557c-803a-84984a597eed",
         "address": "2409-Se-Higgins-Dr-Vancouver-WA-98683",
         "beds": 5,
@@ -48025,6 +48067,27 @@
         "coordinates": [
           -96.512746,
           33.159183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9dd6612-cff4-5935-8bd2-fa7476c99f45",
+        "address": "5421-S-Huddleston-Dr-Oklahoma-City-OK-73135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1113,
+        "listed_at": "2026-07-08T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.447012,
+          35.411779
         ]
       }
     },
