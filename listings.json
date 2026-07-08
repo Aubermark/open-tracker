@@ -508,6 +508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01adbeef-96c1-58f5-9bc0-34ade5e26fa7",
+        "address": "464-St-Kitts-Way-Winnabow-NC-28479",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-07-08T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.00854,
+          34.187763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -1489,6 +1510,27 @@
         "coordinates": [
           -84.305471,
           33.90395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "073e3b93-d92f-5ac7-a5af-8c8cc4b96b3c",
+        "address": "7143-Knoll-Loop-Montgomery-AL-36116",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2050,
+        "listed_at": "2026-07-08T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.181302,
+          32.245458
         ]
       }
     },
@@ -9973,6 +10015,27 @@
         "coordinates": [
           -96.015944,
           33.029817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3289c673-eab0-5b85-9758-ffa1591f7195",
+        "address": "5306-3rd-St-W-Bradenton-FL-34207",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1066,
+        "listed_at": "2026-07-08T14:40:04.000Z",
+        "days_on_market": "12",
+        "current_price": 289000,
+        "price_label": "$289K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.565468,
+          27.447412
         ]
       }
     },
@@ -22951,6 +23014,27 @@
         "coordinates": [
           -81.765924,
           28.754423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "77281322-fd4b-5f00-9690-7fb56d99c413",
+        "address": "314-Dupont-Cir-Howey-In-The-Hills-FL-34737",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1679,
+        "listed_at": "2026-07-08T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.776735,
+          28.716528
         ]
       }
     },
