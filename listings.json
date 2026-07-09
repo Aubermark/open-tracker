@@ -4141,6 +4141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14fee530-8553-5809-853c-e4a4f8aab576",
+        "address": "3430-55th-Dr-E-Bradenton-FL-34203",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1349,
+        "listed_at": "2026-07-09T11:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.518876,
+          27.443073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15579637-dbe2-50a5-af09-4525a907275a",
         "address": "3035-Killdeer-Ln-Humble-TX-77396",
         "beds": 3,
@@ -34234,6 +34255,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b21558cf-e176-5902-8ffe-8a8288baf986",
+        "address": "2805-105th-St-E-Palmetto-FL-34221",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1817,
+        "listed_at": "2026-07-09T11:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.535194,
+          27.608164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b22d6127-ca28-5e1c-aa3f-9b7a9038ca70",
         "address": "225-W-Orchid-Ln-Phoenix-AZ-85021",
         "beds": 5,
@@ -35992,6 +36034,27 @@
         "coordinates": [
           -112.180395,
           33.570423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbd30eb8-0a92-5c7f-b944-35b33e39f963",
+        "address": "1857-Trillium-Blvd-Brooksville-FL-34604",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1978,
+        "listed_at": "2026-07-09T11:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469761,
+          28.443745
         ]
       }
     },
