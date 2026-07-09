@@ -14242,6 +14242,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "476840a3-d8f2-51d0-bcbd-e9c630d4b0e4",
+        "address": "2715-Lorraine-Dr-Leesburg-FL-34748",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1100,
+        "listed_at": "2026-07-09T11:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.908751,
+          28.815767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "47bbc4dc-d117-54d0-8cf4-0c6741a02894",
         "address": "114-Madison-St-Canton-GA-30115",
         "beds": 4,
