@@ -10315,6 +10315,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "341c54aa-f2c8-5461-adb2-42e124925b16",
+        "address": "5243-N-Lydia-Ave-Kansas-City-MO-64118",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1800,
+        "listed_at": "2026-07-09T17:50:04.000Z",
+        "days_on_market": "36",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.562218,
+          39.190214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3422c3de-4e1b-591b-86d0-f8690221f30c",
         "address": "3640-Red-River-Rd-New-Castle-IN-47362",
         "beds": 3,
@@ -21088,27 +21109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6df1f600-295a-56ad-a2d1-4186aa3d88e8",
-        "address": "2715-Irving-Ave-N-Minneapolis-MN-55411",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 711,
-        "listed_at": "2026-06-24T20:00:02.000Z",
-        "days_on_market": "15",
-        "current_price": 185000,
-        "price_label": "$185K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.299724,
-          45.008275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6e2d6cd9-9de8-527f-bacb-19bb57f0f905",
         "address": "820-Lilly-Ln-Cincinnati-OH-45245",
         "beds": 2,
@@ -22237,27 +22237,6 @@
         "coordinates": [
           -90.520791,
           38.584443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "74399e3a-f2ff-544b-b975-ef588e3414fe",
-        "address": "420-Bluebonnet-Dr-Hurst-TX-76053",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1261,
-        "listed_at": "2026-07-07T15:20:03.000Z",
-        "days_on_market": "2",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.164278,
-          32.814583
         ]
       }
     },
@@ -42529,6 +42508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dbdfe55b-b7c8-5cea-b4b6-401d6766f5b7",
+        "address": "797-Deerwood-Dr-Stockbridge-GA-30281",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2903,
+        "listed_at": "2026-07-09T17:50:04.000Z",
+        "days_on_market": "16",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.218371,
+          33.522665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dbe2eb95-9ba1-5768-82b8-abf5b8b5962f",
         "address": "20-Pineridge-Ct-Pueblo-CO-81001",
         "beds": 3,
@@ -44791,6 +44791,27 @@
         "coordinates": [
           -87.0865,
           36.301922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e93e0cf4-cd6a-5ec5-a2af-e5e26e165b22",
+        "address": "6219-Boykin-Spaniel-Rd-Charlotte-NC-28277",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2631,
+        "listed_at": "2026-07-09T17:50:04.000Z",
+        "days_on_market": ">137",
+        "current_price": 630000,
+        "price_label": "$630K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.788992,
+          35.064353
         ]
       }
     },
