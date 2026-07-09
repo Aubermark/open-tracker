@@ -1012,6 +1012,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03e0c0f9-4347-5ecb-8a9a-28ae5d5fa577",
+        "address": "4600-Rolling-Hills-Dr-Bartlesville-OK-74006",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2003,
+        "listed_at": "2026-07-09T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.927235,
+          36.724695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03f95439-ec38-5a67-9784-75400d16ac38",
         "address": "19539-N-Rose-Ct-Maricopa-AZ-85138-18103013",
         "beds": 3,
@@ -2203,27 +2224,6 @@
         "coordinates": [
           -76.553409,
           38.334143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0b7795c5-5e3e-5b4c-b48f-02ebe499a11e",
-        "address": "2158-Willesdon-Dr-W-Jacksonville-FL-32246",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2862,
-        "listed_at": "2026-06-23T20:20:03.000Z",
-        "days_on_market": "16",
-        "current_price": 470000,
-        "price_label": "$470K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.51179,
-          30.310837
         ]
       }
     },
@@ -4324,27 +4324,6 @@
         "coordinates": [
           -97.388358,
           32.872306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "15f96fe0-407e-521a-bf50-387dc4e98ab5",
-        "address": "3628-Riverhead-Dr-Arlington-TX-76015",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1228,
-        "listed_at": "2026-06-11T05:53:45.000Z",
-        "days_on_market": "72",
-        "current_price": 279000,
-        "price_label": "$279K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.121021,
-          32.684732
         ]
       }
     },
@@ -16231,6 +16210,27 @@
         "coordinates": [
           -80.276865,
           36.02642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5446c412-7081-5b0a-a4d1-3cdd1f4d5232",
+        "address": "1835-E-Palm-Ln-Phoenix-AZ-85006",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1414,
+        "listed_at": "2026-07-09T16:30:04.000Z",
+        "days_on_market": "14",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.041749,
+          33.469125
         ]
       }
     },
@@ -30055,27 +30055,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9dbb58cf-5ed0-5bea-aa04-b47fbb0f0b9a",
-        "address": "1841-Highway-138-Monroe-GA-30655",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1680,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "128",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.775935,
-          33.779382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9df72dea-9594-5b10-be4f-a918ea7f8f7b",
         "address": "3595-Somis-Rd-Somis-CA-93066",
         "beds": 3,
@@ -33409,27 +33388,6 @@
         "coordinates": [
           -86.394168,
           35.79152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aeafbc71-4e86-5662-908a-d5623c6f80d2",
-        "address": "4028-Catalpa-Ave-Knoxville-TN-37914",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1530,
-        "listed_at": "2026-07-09T05:58:40.000Z",
-        "days_on_market": ">137",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.86776,
-          35.99909
         ]
       }
     },
@@ -42796,27 +42754,6 @@
         "coordinates": [
           -93.010822,
           45.052412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "de4f1129-b0b8-5752-b821-95538ae43942",
-        "address": "15954-Backwoods-Ct-Colorado-Springs-CO-80921",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3463,
-        "listed_at": "2026-07-06T19:50:03.000Z",
-        "days_on_market": "3",
-        "current_price": 705000,
-        "price_label": "$705K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.811395,
-          39.061125
         ]
       }
     },
