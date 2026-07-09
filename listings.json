@@ -19660,6 +19660,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65a3c572-0ca0-5666-921f-63b0a6a22811",
+        "address": "1497-W-Argyle-Ave-Tucson-AZ-85746",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1581,
+        "listed_at": "2026-07-09T13:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.997177,
+          32.153092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65d32eea-ae72-5255-9d00-c7147e688f41",
         "address": "928-Homestead-Dr-Keller-TX-76248",
         "beds": 4,
@@ -20683,6 +20704,27 @@
         "coordinates": [
           -86.498756,
           35.91715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6c4248d1-d8a8-5e95-aefb-a7ba18e11ffd",
+        "address": "7904-S-Bonanza-Park-Dr-Tucson-AZ-85747",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2897,
+        "listed_at": "2026-07-09T13:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.714008,
+          32.107873
         ]
       }
     },
@@ -42529,6 +42571,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dbb7293d-2106-53c1-94fa-593930006bf1",
+        "address": "13804-Candidate-Pl-Tampa-FL-33613",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1696,
+        "listed_at": "2026-07-09T13:50:05.000Z",
+        "days_on_market": "71",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464424,
+          28.07114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dbb9a4ee-56d5-53a1-811c-908450a34920",
         "address": "155-Estates-Dr-Ben-Lomond-CA-95005",
         "beds": 4,
@@ -48382,6 +48445,27 @@
         "coordinates": [
           -81.409445,
           28.483359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fbdb7cea-756b-5910-b01a-a56b8764c17e",
+        "address": "2264-Ficus-Aly-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2302,
+        "listed_at": "2026-07-09T13:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.497401,
+          28.642991
         ]
       }
     },
