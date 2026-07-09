@@ -30958,6 +30958,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2039799-f91d-400c-91e4-564b6c1a6f48",
+        "address": "510-Fairwood-Lakes-Dr-Unit-21-T-Myrtle-Beach-SC-29588",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 960,
+        "listed_at": "2026-07-09T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 129000,
+        "price_label": "$129K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.054569,
+          33.646899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2073fd0-dbc9-48e7-9ff6-e93cf26fdbd3",
         "address": "2166-W-Madisen-Marie-Ave-San-Tan-Valley-AZ-85144",
         "beds": 5,
@@ -37993,27 +38014,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c6c6243a-181b-5567-9d5d-f753039b5189",
-        "address": "2427-Brook-Canyon-Dr-Charlotte-NC-28212",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1095,
-        "listed_at": "2026-07-06T19:50:03.000Z",
-        "days_on_market": "3",
-        "current_price": 261000,
-        "price_label": "$261K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.738161,
-          35.170622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c6eba06e-263d-5f3e-b087-8817358e77cd",
         "address": "312-Crowfoot-Dr-Harker-Heights-TX-76548",
         "beds": 4,
@@ -44209,27 +44209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e6525ec6-d5e4-57e2-b825-e20b6eea6c5f",
-        "address": "410-E-Little-Oak-Ct-Spring-TX-77386",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1353,
-        "listed_at": "2026-05-31T15:50:04.000Z",
-        "days_on_market": "39",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.439567,
-          30.153032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e65b0863-709e-5d69-885f-ac482dd37914",
         "address": "5928-Brittania-Blvd-Tavares-FL-32778",
         "beds": 3,
@@ -47563,6 +47542,27 @@
         "coordinates": [
           -122.795339,
           45.436106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7c12bd5-6447-5af3-8b50-a70e8a210b4d",
+        "address": "14205-Tranters-Creek-Ln-Charlotte-NC-28273",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1320,
+        "listed_at": "2026-07-09T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.979201,
+          35.112497
         ]
       }
     },
