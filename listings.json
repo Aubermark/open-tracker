@@ -5401,6 +5401,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b87a3bc-688b-5379-a27d-9ee0ccf9c686",
+        "address": "935-W-Placita-Canalito-Green-Valley-AZ-85614",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1529,
+        "listed_at": "2026-07-10T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.985107,
+          31.916397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b8b0dd0-5228-5c0f-8775-11dd525c3bd2",
         "address": "2904-Lake-Vista-Dr-Wylie-TX-75098",
         "beds": 5,
@@ -17455,27 +17476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ab1b8cb-5287-5c47-8d51-0c150d11fb05",
-        "address": "2028-Larson-Ln-Goose-Creek-SC-29445",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1426,
-        "listed_at": "2026-06-06T05:45:05.000Z",
-        "days_on_market": "35",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.021194,
-          32.967672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ab4e498-6430-5392-bb19-d5ec830320fa",
         "address": "911-New-York-St-Edgewater-FL-32132",
         "beds": 2,
@@ -17848,27 +17848,6 @@
         "coordinates": [
           -81.769259,
           41.361872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5c83b8f7-3ae3-5357-b9b0-2ce258204dc3",
-        "address": "1677-Moravian-St-Columbus-OH-43220",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1931,
-        "listed_at": "2026-07-06T15:50:09.000Z",
-        "days_on_market": "4",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.064046,
-          40.061145
         ]
       }
     },
@@ -45148,27 +45127,6 @@
         "coordinates": [
           -96.967872,
           33.242154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e75df687-fe57-5fd6-b93c-00cbe765557c",
-        "address": "3413-Winslow-Dr-Charlotte-NC-28269",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1474,
-        "listed_at": "2026-07-07T06:06:44.000Z",
-        "days_on_market": "4",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.834164,
-          35.28715
         ]
       }
     },
