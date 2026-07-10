@@ -27955,6 +27955,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9108c495-33cb-59f7-8e25-25ba6e5dcc2e",
+        "address": "402-Mossyleaf-Dr-Sw-Huntsville-AL-35824",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2259,
+        "listed_at": "2026-07-10T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.735373,
+          34.650024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9114d1d1-157a-5a90-b861-4c577ed79fad",
         "address": "1328-Baffin-Bay-Rd-Columbia-SC-29212",
         "beds": 3,
@@ -34795,6 +34816,27 @@
         "coordinates": [
           -97.133377,
           31.507121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b52a842a-6eb4-54ab-bfd8-468076ab7887",
+        "address": "13206-Baldwin-Rdg-San-Antonio-TX-78249",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2125,
+        "listed_at": "2026-07-10T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.60054,
+          29.56952
         ]
       }
     },
