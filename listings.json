@@ -12310,6 +12310,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3ed07ea1-464a-5682-9f38-7384c596815d",
+        "address": "1035-Lakewood-Dr-Marietta-GA-30066",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1918,
+        "listed_at": "2026-07-10T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.521064,
+          34.04033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f161f8b-2096-5ac6-8ceb-ce46ccf8b5ff",
         "address": "2446-Chesterfield-Rd-Garland-TX-75043",
         "beds": 3,
@@ -36964,27 +36985,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "be215d2f-2599-5255-bf4a-300b379b1dd9",
-        "address": "3208-Navajo-Cir-Gainesville-GA-30501",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1336,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": ">138",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.790889,
-          34.342293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "be318827-69d4-5974-b1d5-acc415893483",
         "address": "738-Pebblebranch-Ln-Blythewood-SC-29016",
         "beds": 3,
@@ -42838,6 +42838,27 @@
         "coordinates": [
           -82.537717,
           28.743028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da70cb7d-e76e-5ace-b2a2-c7478cbfd11c",
+        "address": "417-Calumet-Rd-Avon-Park-FL-33825",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1266,
+        "listed_at": "2026-07-10T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.536571,
+          27.601508
         ]
       }
     },
@@ -49264,27 +49285,6 @@
         "coordinates": [
           -81.519733,
           41.055576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc9a382a-6dd7-5850-89f9-81798b47d3cb",
-        "address": "475-Crutchfield-Dr-Cameron-NC-28326",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3251,
-        "listed_at": "2026-06-15T20:21:16.000Z",
-        "days_on_market": "25",
-        "current_price": 396000,
-        "price_label": "$396K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.026064,
-          35.262325
         ]
       }
     },
