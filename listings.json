@@ -529,6 +529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01b86ee2-9f10-5bbf-b63b-dad4a9de21de",
+        "address": "2618-Dutch-Grove-Cir-Raleigh-NC-27610",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2970,
+        "listed_at": "2026-07-10T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.590126,
+          35.745642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -2203,27 +2224,6 @@
         "coordinates": [
           -111.624594,
           33.408991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0b35a026-89c6-5e8b-ad32-8bbb1b2f72f9",
-        "address": "44036-W-Mervell-Ct-Hollywood-MD-20636",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3538,
-        "listed_at": "2026-07-07T20:00:04.000Z",
-        "days_on_market": "3",
-        "current_price": 580000,
-        "price_label": "$580K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.553409,
-          38.334143
         ]
       }
     },
@@ -8230,27 +8230,6 @@
         "coordinates": [
           -104.945167,
           39.861953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2b2b43c2-fa3f-50b8-8233-69dd924b62a3",
-        "address": "6523-Hunters-Creek-Ln-Baytown-TX-77521",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2447,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "65",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.928797,
-          29.805816
         ]
       }
     },
@@ -29509,6 +29488,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "986937c1-2e45-59c2-895f-a9f6fff117f4",
+        "address": "10494-Ouray-St-Commerce-City-CO-80022",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2214,
+        "listed_at": "2026-07-10T19:20:04.000Z",
+        "days_on_market": "17",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.791507,
+          39.887938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "986b620e-a3d0-5ff0-9dd2-91fca1020e5b",
         "address": "308-Algrave-Way-Columbia-SC-29229",
         "beds": 3,
@@ -43579,27 +43579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "dd60a708-e747-5b69-be85-c0bd194b59a8",
-        "address": "5003-Henson-Dr-Sw-Mableton-GA-30126",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1520,
-        "listed_at": "2026-06-04T16:50:07.000Z",
-        "days_on_market": "107",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.596542,
-          33.831036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dd69aa15-32da-5738-bdfd-87b7db84873e",
         "address": "2128-Ronald-Ave-White-Bear-Lake-MN-55110",
         "beds": 3,
@@ -43615,6 +43594,27 @@
         "coordinates": [
           -93.010822,
           45.052412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de266126-00f1-5c48-b9d1-406e7d8a5b6d",
+        "address": "1401-E-9th-St-Anniston-AL-36207",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1319,
+        "listed_at": "2026-07-10T19:20:04.000Z",
+        "days_on_market": "66",
+        "current_price": 132000,
+        "price_label": "$132K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.812161,
+          33.655975
         ]
       }
     },
@@ -44056,27 +44056,6 @@
         "coordinates": [
           -83.998468,
           34.025427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e07bc5ea-5575-5aad-a9eb-05da494c8cbe",
-        "address": "4730-E-Craig-Rd-Unit-1021-Las-Vegas-NV-89115",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 974,
-        "listed_at": "2026-06-26T19:00:04.000Z",
-        "days_on_market": "14",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.070835,
-          36.240934
         ]
       }
     },
