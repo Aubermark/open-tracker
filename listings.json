@@ -2041,6 +2041,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a6b6c89-f727-509a-bc46-9bceb0d37de8",
+        "address": "16-Erin-Ln-Tijeras-NM-87059",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2366,
+        "listed_at": "2026-07-10T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.278027,
+          35.091918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a80aaca-21fa-5ad9-af99-88ab29c3dc7b",
         "address": "310-Robin-Hood-Dr-Raleigh-NC-27604",
         "beds": 3,
@@ -2581,27 +2602,6 @@
         "coordinates": [
           -82.296763,
           34.74882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0d34b5da-9a05-5704-ba83-477ed5cd67dd",
-        "address": "9171-Beverly-Ct-Boynton-Beach-FL-33472",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1346,
-        "listed_at": "2026-07-08T10:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.12552,
-          26.545036
         ]
       }
     },
@@ -4603,27 +4603,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "16f473d7-df44-5f36-b62f-8c66d6fe8376",
-        "address": "20620-W-Walton-Dr-Buckeye-AZ-85396",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3117,
-        "listed_at": "2026-06-06T05:45:05.000Z",
-        "days_on_market": "78",
-        "current_price": 677000,
-        "price_label": "$677K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.503126,
-          33.495315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "16ff44e3-69d2-5f49-b1b8-57dc09d473d8",
         "address": "2983-Boulder-Walk-Ct-Se-Atlanta-GA-30316",
         "beds": 4,
@@ -5590,27 +5569,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1c1cafd9-d2eb-5bb2-bbac-fc379173c50b",
-        "address": "561-Yale-Rd-Venice-FL-34293",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1097,
-        "listed_at": "2026-06-24T20:50:04.000Z",
-        "days_on_market": "16",
-        "current_price": 301000,
-        "price_label": "$301K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.40637,
-          27.032187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1c83f455-947d-5e90-848a-f1b45fa0281a",
         "address": "4325-W-Blacksmith-St-Tucson-AZ-85741",
         "beds": 3,
@@ -5962,6 +5920,27 @@
         "coordinates": [
           -80.79682,
           35.242576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1e5f5777-7a6b-5243-b115-2b9bbb968d85",
+        "address": "4615-W-Powell-Dr-Phoenix-AZ-85087",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2509,
+        "listed_at": "2026-07-10T17:20:04.000Z",
+        "days_on_market": "16",
+        "current_price": 562000,
+        "price_label": "$562K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.159645,
+          33.872198
         ]
       }
     },
@@ -12493,6 +12472,27 @@
         "coordinates": [
           -96.879571,
           33.15243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40250eca-2fd3-55cf-b46c-bfc6bdb90eaf",
+        "address": "2014-Tarzi-Ln-Charlotte-NC-28215",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2220,
+        "listed_at": "2026-07-10T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.674348,
+          35.221209
         ]
       }
     },
@@ -21529,27 +21529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6e74f196-bf2a-5397-a86d-60c216a04f83",
-        "address": "86-Lancaster-Way-Newnan-GA-30263",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3133,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">138",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.808204,
-          33.424555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6e860695-0b1b-542b-b7a6-3024cdb9f060",
         "address": "8506-Sunset-Canyon-Dr-Temple-TX-76502",
         "beds": 3,
@@ -24679,6 +24658,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ea9f61f-28fc-5018-b8fb-fae38fc9ef4c",
+        "address": "1824-Edgewood-St-Ne-Warren-OH-44483",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 967,
+        "listed_at": "2026-07-10T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.793652,
+          41.246872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7eb571b0-d9d1-5eaf-848f-9be2e450d7ea",
         "address": "225-Thomas-Nelson-Ln-Williamsburg-VA-23185",
         "beds": 3,
@@ -24715,27 +24715,6 @@
         "coordinates": [
           -81.421739,
           28.213743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7efda8a6-f88f-5210-9967-0829c4cfd418",
-        "address": "1482-Knights-Row-Yuba-City-CA-95991",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1100,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "56",
-        "current_price": 312000,
-        "price_label": "$312K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.62275,
-          39.151223
         ]
       }
     },
@@ -25981,27 +25960,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "85c58fbd-d66d-5fe4-ac2f-428ddae83c88",
-        "address": "6033-S-Mack-Ave-Gilbert-AZ-85298",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4553,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "64",
-        "current_price": 839000,
-        "price_label": "$839K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.721315,
-          33.240522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "85d52405-faf6-5526-8882-d270fc5dbdd0",
         "address": "17-Belgian-Blue-Dr-Garner-NC-27529",
         "beds": 3,
@@ -26458,6 +26416,27 @@
         "coordinates": [
           -111.517747,
           33.228611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8830bc1e-90b1-5018-b0c7-7905dbb0d7b5",
+        "address": "1308-Knowles-Dr-Hutto-TX-78634",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3138,
+        "listed_at": "2026-07-10T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.566323,
+          30.530897
         ]
       }
     },
@@ -30742,6 +30721,27 @@
         "coordinates": [
           -110.852099,
           32.212327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f99f346-6cfc-5a69-a8ad-3a14e7229a1e",
+        "address": "403-Buckingham-Blvd-Gallatin-TN-37066",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1971,
+        "listed_at": "2026-07-10T17:20:04.000Z",
+        "days_on_market": ">138",
+        "current_price": 413000,
+        "price_label": "$413K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.496792,
+          36.398781
         ]
       }
     },
@@ -45182,8 +45182,8 @@
         "sqft": 5876,
         "listed_at": "2026-07-07T15:20:03.000Z",
         "days_on_market": "3",
-        "current_price": 1085716.96,
-        "price_label": "$1.086M"
+        "current_price": 1200000,
+        "price_label": "$1.200M"
       },
       "geometry": {
         "type": "Point",
@@ -48487,27 +48487,6 @@
         "coordinates": [
           -85.949378,
           39.90222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f7a48b0e-7cc4-51f1-98ff-825b4f278201",
-        "address": "11530-Sw-Tigard-Dr-Portland-OR-97223",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1558,
-        "listed_at": "2026-07-06T15:20:03.000Z",
-        "days_on_market": "4",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795339,
-          45.436106
         ]
       }
     },
