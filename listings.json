@@ -13801,6 +13801,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44d4dffe-8324-5d03-bdf3-c966c5cf0161",
+        "address": "8283-86th-Ave-Seminole-FL-33777",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 997,
+        "listed_at": "2026-07-10T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.752794,
+          27.850128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44d80470-4690-5d38-9539-2bc0843005a8",
         "address": "13577-Monterey-Way-Victorville-CA-92392",
         "beds": 3,
@@ -17197,6 +17218,27 @@
         "coordinates": [
           -111.983945,
           33.746622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "58911c0b-6f3a-59d5-8c0f-bc6fadc4539f",
+        "address": "17268-W-Elaine-Dr-Goodyear-AZ-85338",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1918,
+        "listed_at": "2026-07-10T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.430835,
+          33.432982
         ]
       }
     },
@@ -27844,27 +27886,6 @@
         "coordinates": [
           -84.656326,
           33.424692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8ee809e4-978b-5f95-b3ed-b5eaffaac458",
-        "address": "453-N-Deerfield-Ave-Deerfield-Beach-FL-33441",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1128,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "51",
-        "current_price": 439000,
-        "price_label": "$439K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1021,
-          26.323728
         ]
       }
     },
@@ -47899,27 +47920,6 @@
         "coordinates": [
           -96.863188,
           32.58595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f56e496c-5b80-503f-a99f-c0c0a4617cd4",
-        "address": "2441-Longwood-St-Orange-Park-FL-32065",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1704,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "29",
-        "current_price": 284000,
-        "price_label": "$284K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.767683,
-          30.145525
         ]
       }
     },
