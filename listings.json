@@ -14074,27 +14074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "466b5f2b-18c9-5cec-9115-cefe12e0b367",
-        "address": "442-Hastings-Way-Jonesboro-GA-30238",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2769,
-        "listed_at": "2026-07-07T14:40:03.000Z",
-        "days_on_market": "19",
-        "current_price": 311000,
-        "price_label": "$311K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.378231,
-          33.483882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "467bf7e3-dbc3-5ff9-bc32-2944817058e6",
         "address": "6817-Chickering-Rd-Fort-Worth-TX-76116",
         "beds": 4,
@@ -29944,6 +29923,27 @@
         "coordinates": [
           -78.84594,
           35.948047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9aedf96b-5b7b-49e3-a883-be95a2a7c335",
+        "address": "127-Red-Birch-Ln-Warner-Robins-GA-31093",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2156,
+        "listed_at": "2026-07-11T18:30:04.000Z",
+        "days_on_market": "113",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.702162,
+          32.651675
         ]
       }
     },
@@ -46597,6 +46597,27 @@
         "coordinates": [
           -117.628399,
           33.874986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef2cf8bf-cfdd-534e-bc87-39f9a228c245",
+        "address": "22031-Birch-Valley-Dr-Katy-TX-77450",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1602,
+        "listed_at": "2026-07-11T18:30:04.000Z",
+        "days_on_market": "67",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.755316,
+          29.762599
         ]
       }
     },
