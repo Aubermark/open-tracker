@@ -6094,6 +6094,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fc3a939-5f1a-59c8-9344-f755cbab1335",
+        "address": "10064-Morning-Mist-Ln-Sarasota-FL-34241",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-07-11T15:10:04.000Z",
+        "days_on_market": "68",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.406258,
+          27.240082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2024f6f9-c522-5eec-a704-fed095ec32a9",
         "address": "11424-Rolling-River-Blvd-Jacksonville-FL-32219",
         "beds": 3,
