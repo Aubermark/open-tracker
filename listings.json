@@ -8236,6 +8236,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b2b43c2-fa3f-50b8-8233-69dd924b62a3",
+        "address": "6523-Hunters-Creek-Ln-Baytown-TX-77521",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2447,
+        "listed_at": "2026-07-12T15:30:03.000Z",
+        "days_on_market": "67",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.928797,
+          29.805816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b3fa819-74e2-533f-a088-f5c9fc3890ce",
         "address": "533-Baycraft-Ln-Simpsonville-SC-29681",
         "beds": 3,
@@ -24484,27 +24505,6 @@
         "coordinates": [
           -77.478302,
           38.755034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7ea0c5ca-3ee3-5859-af8b-baa9f5527605",
-        "address": "7511-Irongate-Dr-Hixson-TN-37343",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2292,
-        "listed_at": "2026-06-27T05:54:56.000Z",
-        "days_on_market": ">140",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.204318,
-          35.186451
         ]
       }
     },
