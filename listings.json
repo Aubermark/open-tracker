@@ -22369,6 +22369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7366b0c7-7713-5b2e-909d-b3472e23cf5d",
+        "address": "2725-Flintlock-Pl-Austell-GA-30106",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 986,
+        "listed_at": "2026-07-12T18:00:03.000Z",
+        "days_on_market": "38",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.633632,
+          33.832133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7366f94d-1701-527c-a406-807bc5be1efc",
         "address": "2232-Whistler-Dr-Longmont-CO-80504",
         "beds": 4,
