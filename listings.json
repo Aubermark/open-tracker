@@ -14032,27 +14032,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "466b5f2b-18c9-5cec-9115-cefe12e0b367",
-        "address": "442-Hastings-Way-Jonesboro-GA-30238",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2769,
-        "listed_at": "2026-07-11T19:10:03.000Z",
-        "days_on_market": "19",
-        "current_price": 311000,
-        "price_label": "$311K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.378231,
-          33.483882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "467bf7e3-dbc3-5ff9-bc32-2944817058e6",
         "address": "6817-Chickering-Rd-Fort-Worth-TX-76116",
         "beds": 4,
@@ -49432,6 +49411,27 @@
         "coordinates": [
           -96.724088,
           33.02231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe22d05b-56c8-554f-94c7-c981196acdc0",
+        "address": "5720-Kneeland-Ln-Tampa-FL-33625",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-07-12T06:06:22.000Z",
+        "days_on_market": "22",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.558695,
+          28.075315
         ]
       }
     },
