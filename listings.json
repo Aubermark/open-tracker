@@ -10546,6 +10546,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3611cdc8-6c66-51c8-87b1-2591ef697c66",
+        "address": "1838-N-62nd-St-Kansas-City-KS-66102",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1870,
+        "listed_at": "2026-07-13T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.721119,
+          39.126654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "361b7969-f6b9-562a-b526-adeb56e21247",
         "address": "8611-Bright-Angel-Ln-Cypress-TX-77433",
         "beds": 4,
@@ -19528,27 +19549,6 @@
         "coordinates": [
           -82.053826,
           27.980435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "646002e9-f5b2-54c4-b31d-32de6f88eb96",
-        "address": "641-Serendipity-Dr-Aurora-IL-60504",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1353,
-        "listed_at": "2026-07-10T13:20:03.000Z",
-        "days_on_market": "3",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.275663,
-          41.744142
         ]
       }
     },
@@ -28663,27 +28663,6 @@
         "coordinates": [
           -118.289973,
           33.822415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "949742fd-0e0d-5608-8690-68cd37bec0c0",
-        "address": "4034-Rosfield-Dr-Charlotte-NC-28214",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1995,
-        "listed_at": "2026-07-13T16:30:04.000Z",
-        "days_on_market": "35",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.964937,
-          35.25354
         ]
       }
     },
@@ -38791,6 +38770,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c8c37a3a-3e1e-573e-8479-9b8dca391436",
+        "address": "3209-Swan-Pl-Lynchburg-VA-24501",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1664,
+        "listed_at": "2026-07-13T20:30:03.000Z",
+        "days_on_market": "63",
+        "current_price": 166000,
+        "price_label": "$166K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.154904,
+          37.381057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c9003209-92a1-5442-a7f6-790648056331",
         "address": "1006-Mossy-Rock-Dr-Summerville-SC-29485",
         "beds": 4,
@@ -45967,6 +45967,27 @@
         "coordinates": [
           -81.048274,
           35.16611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ed2cea83-f1bb-514e-ba5e-ef82c1660237",
+        "address": "1712-N-Roxboro-St-Durham-NC-27701",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 924,
+        "listed_at": "2026-07-13T20:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890827,
+          36.011615
         ]
       }
     },
