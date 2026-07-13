@@ -6808,27 +6808,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24319240-0134-58a5-b701-7529f368d735",
-        "address": "6550-Snowbird-Ln-Douglasville-GA-30134",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 1556,
-        "listed_at": "2026-07-06T13:20:03.000Z",
-        "days_on_market": "7",
-        "current_price": 268000,
-        "price_label": "$268K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.741948,
-          33.767751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2461b3cf-0a7d-5b84-89db-71cd7f7fb7a4",
         "address": "5829-E-Preakness-Dr-San-Tan-Valley-AZ-85140",
         "beds": 3,
@@ -38218,6 +38197,27 @@
         "coordinates": [
           -84.218058,
           34.038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c50c76eb-af0a-51c0-a335-8f0f10c5851a",
+        "address": "2404-Danciger-Ln-Cedar-Park-TX-78613",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3109,
+        "listed_at": "2026-07-13T13:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.850617,
+          30.465092
         ]
       }
     },
