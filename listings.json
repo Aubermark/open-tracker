@@ -6010,27 +6010,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ec762da-720b-5413-b2a4-29889ffd5975",
-        "address": "3520-Barrel-Bronco-Ct-North-Las-Vegas-NV-89032",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2275,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "17",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.203246,
-          36.223594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1ee95915-2c63-53f6-8f49-b0f4247cf5bc",
         "address": "170-Cannon-Dale-Rd-Columbia-SC-29212",
         "beds": 4,
@@ -23293,27 +23272,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "780c0148-b564-5689-af1d-1579f57f7bd2",
-        "address": "8911-Alto-Way-Indianapolis-IN-46231",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2544,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "91",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.319472,
-          39.747505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "781e45dd-f21b-49d9-8dac-ae3c5ef3ebbb",
         "address": "1677-E-State-Route-234-Greenfield-IN-46140",
         "beds": 4,
@@ -36244,6 +36202,27 @@
         "coordinates": [
           -97.342453,
           32.563645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bb3bf2ab-246d-52a8-8bcd-18c92f9bb9fa",
+        "address": "922-W-Craig-St-Rialto-CA-92377",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2939,
+        "listed_at": "2026-07-13T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.388206,
+          34.1426
         ]
       }
     },
