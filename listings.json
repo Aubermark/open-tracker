@@ -592,6 +592,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01e740b9-8fd8-52bb-a4d4-59b246d65b00",
+        "address": "212-Timberlane-Dr-Belmont-NC-28012",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2335,
+        "listed_at": "2026-07-13T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 516000,
+        "price_label": "$516K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.060935,
+          35.228026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0204e0b8-4a48-40c6-8897-6bc651ce88df",
         "address": "7725-Scicli-Way-Clermont-FL-34714",
         "beds": 4,
@@ -10162,27 +10183,6 @@
         "coordinates": [
           -93.737587,
           45.31885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "341c54aa-f2c8-5461-adb2-42e124925b16",
-        "address": "5243-N-Lydia-Ave-Kansas-City-MO-64118",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1800,
-        "listed_at": "2026-07-09T17:50:04.000Z",
-        "days_on_market": "40",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.562218,
-          39.190214
         ]
       }
     },
@@ -23755,6 +23755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ac62e46-bcb8-5cd2-9e56-cc542c888606",
+        "address": "87-Pearl-Laguna-Niguel-CA-92677",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1018,
+        "listed_at": "2026-07-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.683029,
+          33.528022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ad97038-9388-5b0f-8d2a-824cc7c27586",
         "address": "8505-Troutman-Ln-Knoxville-TN-37931",
         "beds": 3,
@@ -24295,6 +24316,27 @@
         "coordinates": [
           -112.582541,
           33.410311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7dea4718-df14-506a-951a-1d722f2d89f5",
+        "address": "1140-Winding-Creek-Rd-Salisbury-NC-28146",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1679,
+        "listed_at": "2026-07-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.468115,
+          35.605322
         ]
       }
     },
@@ -25051,6 +25093,27 @@
         "coordinates": [
           -77.494739,
           38.780683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "82acc460-3a08-5383-959e-ff94f75e78a6",
+        "address": "9889-Northrup-Dr-Reno-NV-89521",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1676,
+        "listed_at": "2026-07-13T19:10:03.000Z",
+        "days_on_market": "40",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.741623,
+          39.437583
         ]
       }
     },
@@ -33646,27 +33709,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "af1811fd-1b3f-5aa0-9690-6644e23109b2",
-        "address": "73-Gables-Blvd-Weston-FL-33326",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2562,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "94",
-        "current_price": 730000,
-        "price_label": "$730K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.378226,
-          26.127234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "af253da8-5ad0-541e-98a3-7640285e6cc7",
         "address": "14326-Spring-Dr-De-Soto-MO-63020",
         "beds": 3,
@@ -34585,27 +34627,6 @@
         "coordinates": [
           -107.09506,
           37.25482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b357436e-2d43-5ece-8502-86c987e3830c",
-        "address": "3600-Asaro-Pl-Plano-TX-75025",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3814,
-        "listed_at": "2026-06-30T21:02:36.000Z",
-        "days_on_market": "66",
-        "current_price": 897000,
-        "price_label": "$897K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.761803,
-          33.074183
         ]
       }
     },
@@ -40387,27 +40408,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d1b3e8d8-f552-5968-a831-03e9d5315d90",
-        "address": "1038-Overlook-Dr-Villa-Rica-GA-30180",
-        "beds": 4,
-        "baths": 5.5,
-        "sqft": 5370,
-        "listed_at": "2026-07-06T13:20:03.000Z",
-        "days_on_market": "7",
-        "current_price": 585000,
-        "price_label": "$585K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.896744,
-          33.73833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d1bb9f85-f238-5e15-a9b2-5ca72b22f2dc",
         "address": "",
         "beds": 3,
@@ -41389,27 +41389,6 @@
         "coordinates": [
           -80.822429,
           35.305998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d52c7d97-cd19-5dc4-b70a-f52c84a0402e",
-        "address": "9200-Nash-Ln-North-Ridgeville-OH-44039",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1720,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "90",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.044438,
-          41.357366
         ]
       }
     },
@@ -43012,27 +42991,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "dbdfe55b-b7c8-5cea-b4b6-401d6766f5b7",
-        "address": "797-Deerwood-Dr-Stockbridge-GA-30281",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2903,
-        "listed_at": "2026-07-09T17:50:04.000Z",
-        "days_on_market": "20",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.218371,
-          33.522665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dbe2eb95-9ba1-5768-82b8-abf5b8b5962f",
         "address": "20-Pineridge-Ct-Pueblo-CO-81001",
         "beds": 3,
@@ -43153,6 +43111,27 @@
         "coordinates": [
           -104.675388,
           38.255992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dc832da0-41cf-5ab0-9cdb-fe38f6fcd95b",
+        "address": "8-Sunnybrook-St-Angleton-TX-77515",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1428,
+        "listed_at": "2026-07-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.420454,
+          29.189838
         ]
       }
     },
@@ -49285,6 +49264,27 @@
         "coordinates": [
           -95.328236,
           29.82997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff57fb02-4bc7-5d93-931e-a7aeed0b0bb9",
+        "address": "10327-Sweetwood-Dr-Houston-TX-77070",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1869,
+        "listed_at": "2026-07-13T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.574399,
+          29.950134
         ]
       }
     },
