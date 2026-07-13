@@ -9916,27 +9916,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32d6a159-351b-5163-a0bc-372ff9b829d8",
-        "address": "2219-Rolling-Oak-Dr-Indianapolis-IN-46214",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1928,
-        "listed_at": "2026-06-04T06:19:41.000Z",
-        "days_on_market": "61",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.298448,
-          39.795846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32e06186-04a6-55fb-90f3-6b44a581c5a8",
         "address": "6257-Polar-Fox-Ct-Riverdale-GA-30296",
         "beds": 4,
@@ -11422,6 +11401,27 @@
         "coordinates": [
           -78.553114,
           35.863401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b521836-28a6-52aa-8ae7-78bb94d80017",
+        "address": "9696-Ravenscroft-Ln-Nw-Concord-NC-28027",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2886,
+        "listed_at": "2026-07-13T14:30:03.000Z",
+        "days_on_market": "90",
+        "current_price": 505000,
+        "price_label": "$505K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.741476,
+          35.439619
         ]
       }
     },
