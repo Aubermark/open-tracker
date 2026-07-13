@@ -172,6 +172,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "008f95ea-069a-5c0c-99c7-c24f74fa4bdb",
+        "address": "2027-W-Corrine-Dr-Phoenix-AZ-85029",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1155,
+        "listed_at": "2026-07-13T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.10299,
+          33.601164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00a36a78-cf73-5de3-9c6f-055c95064406",
         "address": "278-Chemistry-Cir-Ladson-SC-29456",
         "beds": 3,
@@ -4120,27 +4141,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "15579637-dbe2-50a5-af09-4525a907275a",
-        "address": "3035-Killdeer-Ln-Humble-TX-77396",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1728,
-        "listed_at": "2026-07-06T16:40:04.000Z",
-        "days_on_market": "17",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.274478,
-          29.957762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -6892,6 +6892,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24d23f4f-f0ed-559b-8e37-78f92c38365f",
+        "address": "5243-Latta-St-Saint-Paul-MN-55110",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1853,
+        "listed_at": "2026-07-13T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.025102,
+          45.099929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -7327,6 +7348,27 @@
         "coordinates": [
           -80.974574,
           34.024768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "271c343e-2b53-5d85-9d95-1c739222c775",
+        "address": "7221-Durand-Dr-Irving-TX-75063",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 5125,
+        "listed_at": "2026-07-13T17:10:04.000Z",
+        "days_on_market": "31",
+        "current_price": 1320000,
+        "price_label": "$1.320M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.983795,
+          32.905575
         ]
       }
     },
@@ -8671,27 +8713,6 @@
         "coordinates": [
           -84.16672,
           33.46391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2d03a67b-d227-5de7-9b0d-c5ce5cf126d1",
-        "address": "203-Laurie-Ln-Cary-NC-27513",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1696,
-        "listed_at": "2026-07-09T14:30:04.000Z",
-        "days_on_market": "4",
-        "current_price": 505000,
-        "price_label": "$505K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.786568,
-          35.799614
         ]
       }
     },
@@ -10666,27 +10687,6 @@
         "coordinates": [
           -97.048857,
           33.069158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3787f31f-393f-4cba-a7c9-b831c027e1e8",
-        "address": "4483-Bellow-Dr-Lorain-OH-44053",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1680,
-        "listed_at": "2026-07-02T05:50:44.000Z",
-        "days_on_market": "20",
-        "current_price": 316000,
-        "price_label": "$316K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.217855,
-          41.432131
         ]
       }
     },
@@ -25471,27 +25471,6 @@
         "coordinates": [
           -95.463679,
           29.741733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "84fe1ce8-fb5c-5b1d-a176-aa25511c4eee",
-        "address": "2212-Harborside-Dr-O-Fallon-MO-63368",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2384,
-        "listed_at": "2026-05-20T06:21:03.000Z",
-        "days_on_market": "55",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.740638,
-          38.762767
         ]
       }
     },
