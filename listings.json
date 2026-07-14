@@ -23566,6 +23566,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7928319b-2c20-5d2c-8a41-078db46a21c8",
+        "address": "424-Wolf-Springs-Rd-Georgetown-TX-78628",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1950,
+        "listed_at": "2026-07-14T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.716568,
+          30.630697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "793fe865-b3f6-569c-839a-b80d1b4088b2",
         "address": "5432-Nuthatch-St-Dallas-TX-75236",
         "beds": 3,
