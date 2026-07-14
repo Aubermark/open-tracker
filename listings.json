@@ -22663,6 +22663,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "756124ad-e1b2-5a93-8b3b-ce344e0360bb",
+        "address": "5237-Emerald-Spring-Dr-Knightdale-NC-27545",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4108,
+        "listed_at": "2026-07-14T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.460804,
+          35.744551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7561fb13-1c3a-5d06-ad0e-70055b72228d",
         "address": "116-Crosscreek-Dr-Columbia-SC-29212",
         "beds": 5,
