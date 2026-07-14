@@ -20017,6 +20017,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6754f403-a31d-5e97-b7c7-b1e3cef6fd02",
+        "address": "4920-Ocean-Ln-Elk-Grove-CA-95757",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1001,
+        "listed_at": "2026-07-14T11:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.446912,
+          38.39448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6759f77d-8920-5c53-ae8e-04412499ef89",
         "address": "1516-Gatlinburg-Dr-Pflugerville-TX-78660",
         "beds": 3,
@@ -43804,6 +43825,27 @@
         "coordinates": [
           -83.998468,
           34.025427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e07a2e84-11f1-5bfb-ad76-87d41df71c90",
+        "address": "918-Harrison-Ave-Lincoln-CA-95648",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 998,
+        "listed_at": "2026-07-14T11:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.279848,
+          38.897654
         ]
       }
     },
