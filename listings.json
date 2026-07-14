@@ -3931,6 +3931,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13fa07ff-55b1-58a6-beba-0f21726757ad",
+        "address": "1422-Oakmont-Dr-Roseville-CA-95661",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 1444,
+        "listed_at": "2026-07-14T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.257729,
+          38.72315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13fc3ca9-3c35-5a72-9dd5-075bd68f892f",
         "address": "5812-Springfish-Pl-Waldorf-MD-20603",
         "beds": 3,
