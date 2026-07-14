@@ -18064,6 +18064,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5dca7ed9-e78a-5563-8391-67e02c487678",
+        "address": "1005-Ne-44th-St-Kansas-City-MO-64116",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 688,
+        "listed_at": "2026-07-14T14:30:03.000Z",
+        "days_on_market": "75",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.567822,
+          39.174084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5e071e8b-1377-5d23-aa97-be60c7c11005",
         "address": "1229-Kirby-St-Ne-Albuquerque-NM-87112",
         "beds": 3,
@@ -26905,6 +26926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8b485900-ba61-565e-8464-8a666963c3cb",
+        "address": "910-Luella-Ave-Deer-Park-TX-77536",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1788,
+        "listed_at": "2026-07-14T14:30:03.000Z",
+        "days_on_market": "33",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.113943,
+          29.703664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8b541a9c-a11f-5ca3-868e-0410434666a6",
         "address": "20503-Liatris-Ln-San-Antonio-TX-78259",
         "beds": 3,
@@ -30868,6 +30910,27 @@
         "coordinates": [
           -97.70185,
           32.37381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a078ee44-a3b9-5175-8e54-b1f50db14d1e",
+        "address": "27-Glenna-Dr-Saint-Peters-MO-63376",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1535,
+        "listed_at": "2026-07-14T14:30:03.000Z",
+        "days_on_market": "117",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.618574,
+          38.777307
         ]
       }
     },
