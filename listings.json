@@ -760,27 +760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "02866d9c-55d2-557f-bbf7-67bfae79c05e",
-        "address": "1563-Callahan-Rd-Fort-Mill-SC-29715",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 4426,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "38",
-        "current_price": 900000,
-        "price_label": "$900K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.90658,
-          34.969301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "029d943a-7fde-4826-ab4a-913dfcf3682b",
         "address": "17645-W-Hale-Bopp-Dr-Goodyear-AZ-85338",
         "beds": 6,
@@ -2980,6 +2959,27 @@
         "coordinates": [
           -90.342908,
           38.79984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
+        "address": "4213-Mallard-Dr-Batavia-OH-45103",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1687,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.134369,
+          39.068269
         ]
       }
     },
@@ -9328,6 +9328,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f781093-702f-54a4-9eb8-bae18d34544d",
+        "address": "729-Cress-School-Rd-Salisbury-NC-28147",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1653,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.583279,
+          35.60931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f97c09b-6c6e-5946-9922-e50236aae949",
         "address": "286-Blue-Rock-Dr-Longs-SC-29568",
         "beds": 3,
@@ -11863,27 +11884,6 @@
         "coordinates": [
           -97.679705,
           30.660875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3d7fa626-e8db-526c-bc59-fe87bfca026a",
-        "address": "28327-Serenity-Falls-Way-Menifee-CA-92585-17938584",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3044,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "112",
-        "current_price": 660000,
-        "price_label": "$660K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.140483,
-          33.709365
         ]
       }
     },
@@ -16552,6 +16552,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5740ce49-9bcd-4540-9ca9-4127f8f655b5",
+        "address": "431-Pleasanton-Way-San-Antonio-TX-78221",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1340,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": ">141",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.496093,
+          29.322904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "575736b1-78b3-5d6a-9b3c-28c6d73d2c2a",
         "address": "895-Honey-Locust-Dr-Fate-TX-75087",
         "beds": 4,
@@ -16588,6 +16609,27 @@
         "coordinates": [
           -93.139115,
           45.046688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "577edbff-34dc-5338-8d80-f83cb88f3692",
+        "address": "219-W-Glen-Ave-Batavia-OH-45103",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 766,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 96000,
+        "price_label": "$96K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.181626,
+          39.073603
         ]
       }
     },
@@ -18499,27 +18541,6 @@
         "coordinates": [
           -112.186311,
           33.612557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5f9deb56-1696-516b-9482-c3b06eb930b0",
-        "address": "15470-E-Sycamore-Dr-Fountain-Hills-AZ-85268",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2539,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "45",
-        "current_price": 979000,
-        "price_label": "$979K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.746242,
-          33.601097
         ]
       }
     },
@@ -30055,6 +30076,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9d27a5ac-8204-51df-bd65-8ae91d6f0045",
+        "address": "9424-Gotten-Way-Germantown-TN-38139",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4803,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.748637,
+          35.094578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d4fb5e1-d0f7-5e86-a145-cddbd853cfad",
         "address": "604-Rockbank-Loop-Wendell-NC-27591",
         "beds": 4,
@@ -30217,6 +30259,27 @@
         "coordinates": [
           -81.3723,
           35.386285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e68c975-0f12-58da-8535-d4df9a7844a7",
+        "address": "1496-Soccer-Ct-Concord-CA-94518",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1387,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 901000,
+        "price_label": "$901K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.045393,
+          37.941726
         ]
       }
     },
@@ -33115,27 +33178,6 @@
         "coordinates": [
           -85.973106,
           39.886666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac5b91ed-459e-50a7-bf27-71062ef4536c",
-        "address": "5263-S-Coldwater-Cyn-Tucson-AZ-85746",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1087,
-        "listed_at": "2026-07-10T16:00:03.000Z",
-        "days_on_market": "3",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.999698,
-          32.156367
         ]
       }
     },
@@ -39169,27 +39211,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cb8f9186-ea55-567f-983f-e079acc70b5f",
-        "address": "",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2556,
-        "listed_at": "2026-06-17T06:42:16.000Z",
-        "days_on_market": "96",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.491213,
-          33.82228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cbaf51f8-153b-5d6e-8d25-be2d5aea1e31",
         "address": "861-Windsor-Creek-Dr-Grayson-GA-30017",
         "beds": 4,
@@ -39919,6 +39940,27 @@
         "coordinates": [
           -81.152231,
           34.105885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ced7c62f-84f6-5fc4-b2ac-b77dbd0a352a",
+        "address": "4571-Sunnyhill-Dr-Colorado-Springs-CO-80916",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1993,
+        "listed_at": "2026-07-14T06:30:44.000Z",
+        "days_on_market": "0",
+        "current_price": 387000,
+        "price_label": "$387K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.743509,
+          38.782118
         ]
       }
     },
