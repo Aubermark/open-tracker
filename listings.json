@@ -13150,6 +13150,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40f0e093-a86f-5db3-910b-006082bbc02d",
+        "address": "6878-Genevieve-Dr-Fort-Worth-TX-76137",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3015,
+        "listed_at": "2026-07-15T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.305877,
+          32.870189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4131620f-7f18-5778-99cd-229c5f42dc9d",
         "address": "5032-W-Yearling-Rd-Phoenix-AZ-85083",
         "beds": 4,
@@ -30454,27 +30475,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "98e8a864-8cb6-5d5c-a357-6acafabf414b",
-        "address": "3839-Cotswold-Dr-Sw-Lilburn-GA-30047",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2126,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "40",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.07595,
-          33.85845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "98fbdd6c-3024-58e5-953a-6506c3ce80cd",
         "address": "2142-Falcon-Ridge-Dr-Carrollton-TX-75010",
         "beds": 3,
@@ -47479,6 +47479,27 @@
         "coordinates": [
           -105.081316,
           39.58798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec8b22af-5f3b-515d-a34a-d17736682e00",
+        "address": "1371-N-Concord-Ave-Chandler-AZ-85225",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2654,
+        "listed_at": "2026-07-15T17:50:03.000Z",
+        "days_on_market": "20",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.822611,
+          33.326892
         ]
       }
     },
