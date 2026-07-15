@@ -43831,6 +43831,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db5adb0e-1995-53c8-ab16-5eae4425964e",
+        "address": "1217-Maverick-Ln-Royse-City-TX-75189",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2470,
+        "listed_at": "2026-07-15T09:54:40.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.331613,
+          32.985498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db6811d4-6093-52f9-aeca-62c13d6b6faf",
         "address": "1707-Aster-Dr-Columbia-TN-38401",
         "beds": 4,
@@ -45337,6 +45358,27 @@
         "coordinates": [
           -86.245253,
           32.400727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e45989cc-4074-5ab6-a263-9722e11cc72e",
+        "address": "530-Shadowcrest-Ln-Coppell-TX-75019",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2047,
+        "listed_at": "2026-07-15T09:54:40.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.979904,
+          32.965112
         ]
       }
     },
@@ -49915,6 +49957,27 @@
         "coordinates": [
           -81.519733,
           41.055576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc86fc0c-0499-56bf-b6d5-aee248c09c07",
+        "address": "3500-E-Park-Blvd-Apt-102-Plano-TX-75074",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1583,
+        "listed_at": "2026-07-15T09:54:40.000Z",
+        "days_on_market": "0",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.667005,
+          33.030432
         ]
       }
     },
