@@ -25204,6 +25204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f140090-841b-53df-b301-50dc77841daa",
+        "address": "1108-Edgewater-Dr-Azle-TX-76020",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1571,
+        "listed_at": "2026-07-15T11:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.523348,
+          32.88377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f2ead02-8d7e-554e-853c-ee5fa7c51cf8",
         "address": "827-Dora-Ave-Tavares-FL-32778",
         "beds": 3,
