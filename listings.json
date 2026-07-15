@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28901306-d9b1-5438-b06c-a598c0440aee",
+        "address": "9006-Parlor-Dr-Ladson-SC-29456",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2466,
+        "listed_at": "2026-07-15T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.149203,
+          32.958777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "289f93d0-6ff0-5cee-89b6-f2c9932fcbd2",
         "address": "916-Quail-Ave-Wake-Forest-NC-27587",
         "beds": 3,
@@ -17260,6 +17281,27 @@
         "coordinates": [
           -80.231393,
           32.993879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "57c1405a-1d23-501a-b78a-c028b3bbbfd6",
+        "address": "2021-Asher-Loop-Summerville-SC-29485",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2674,
+        "listed_at": "2026-07-15T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.232467,
+          32.953763
         ]
       }
     },
@@ -43111,6 +43153,27 @@
         "coordinates": [
           -116.330097,
           43.557764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d772c725-1c85-50f6-841c-c02ce401d60a",
+        "address": "133-Danzid-Dr-Summerville-SC-29483",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2042,
+        "listed_at": "2026-07-15T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.230257,
+          32.993541
         ]
       }
     },
