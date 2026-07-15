@@ -31021,6 +31021,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9dd92d47-6953-5c46-8556-104a4f607af1",
+        "address": "9801-Hannon-Rd-Mint-Hill-NC-28227",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1356,
+        "listed_at": "2026-07-15T11:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.680573,
+          35.20347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9df72dea-9594-5b10-be4f-a918ea7f8f7b",
         "address": "3595-Somis-Rd-Somis-CA-93066",
         "beds": 3,
@@ -35929,6 +35950,27 @@
         "coordinates": [
           -80.248831,
           32.953112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b65f3dc5-7d11-5bab-be65-38bb3bbfbb00",
+        "address": "5111-Brooke-Lauren-Ln-Raleigh-NC-27616",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1386,
+        "listed_at": "2026-07-15T11:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.554384,
+          35.888309
         ]
       }
     },
