@@ -3112,6 +3112,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0f9e3f1b-6c9c-5369-abb7-7e25a582eb66",
+        "address": "1375-Nw-South-Hicks-Cir-Conyers-GA-30012",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1300,
+        "listed_at": "2026-07-15T07:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.017176,
+          33.680104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fc1b1c2-447c-5726-85c8-e42b684af162",
         "address": "4814-Monet-Way-Sacramento-CA-95842",
         "beds": 4,
