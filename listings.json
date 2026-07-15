@@ -4225,6 +4225,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14abc2cd-2cba-584b-943e-097d88903b87",
+        "address": "2017-Yorktowne-Dr-La-Place-LA-70068",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1700,
+        "listed_at": "2026-07-15T19:49:43.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.479017,
+          30.083419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14d3f0f7-d734-5e41-8312-5ed774288282",
         "address": "2250-Sw-Homer-Ross-Loop-Mc-Minnville-OR-97128",
         "beds": 4,
@@ -6109,27 +6130,6 @@
         "coordinates": [
           -121.311767,
           38.717675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1e49dbde-924f-57c7-8384-984dd3f320f8",
-        "address": "2054-Willowdale-Ct-Mount-Pleasant-SC-29466",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1936,
-        "listed_at": "2026-07-14T15:50:05.000Z",
-        "days_on_market": "63",
-        "current_price": 685000,
-        "price_label": "$685K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.815061,
-          32.826341
         ]
       }
     },
@@ -15985,27 +15985,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4e9861de-e4c6-55bb-aff5-585977bf0917",
-        "address": "1907-Sue-Ann-St-Orlando-FL-32817",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1655,
-        "listed_at": "2026-07-08T17:10:03.000Z",
-        "days_on_market": "7",
-        "current_price": 365000,
-        "price_label": "$365K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.27186,
-          28.570035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4ef335ce-28d3-5af3-bad3-e20c3ea8bdc8",
         "address": "7945-Laurelwood-St-Beaumont-TX-77707",
         "beds": 4,
@@ -20374,27 +20353,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6574d3cc-748d-5939-8816-6dc7f18b0a1a",
-        "address": "176-Waverly-Dr-Alhambra-CA-91801",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-07-09T19:50:04.000Z",
-        "days_on_market": "19",
-        "current_price": 1045000,
-        "price_label": "$1.045M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.156695,
-          34.091691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6576e155-4432-5242-8098-8ac40c2673d2",
         "address": "2227-Roberta-Ave-Marysville-CA-95901",
         "beds": 4,
@@ -20977,27 +20935,6 @@
         "coordinates": [
           -79.253415,
           36.104691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6939ea9d-550c-5522-ae94-59f2f36d8647",
-        "address": "5657-Bobsled-Blvd-Park-City-UT-84098",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 2758,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "36",
-        "current_price": 1550000,
-        "price_label": "$1.550M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.547506,
-          40.714991
         ]
       }
     },
@@ -29215,27 +29152,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "928997a0-37d9-550d-b657-bd7a9a4e12de",
-        "address": "2501-Avalon-Creek-Way-Mc-Kinney-TX-75071",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2306,
-        "listed_at": "2026-07-02T05:50:44.000Z",
-        "days_on_market": "110",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.642827,
-          33.239152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "928d97a6-f049-59ea-9360-6e266c8e24f8",
         "address": "16-Red-Mile-Way-Taylors-SC-29687",
         "beds": 4,
@@ -32785,27 +32701,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a3d354eb-212f-59e1-9dc8-c61381964ebc",
-        "address": "2319-Collier-Dr-Decatur-GA-30032",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1175,
-        "listed_at": "2026-06-10T06:00:37.000Z",
-        "days_on_market": "36",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.294408,
-          33.727142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a3f16b47-a0c7-5e10-a5a0-ab7a77f7cae9",
         "address": "2244-E-Nicolet-Ave-Phoenix-AZ-85020",
         "beds": 4,
@@ -33640,6 +33535,27 @@
         "coordinates": [
           -106.552369,
           35.097628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a8c74936-1fd6-53e6-ae6f-aff94d2c23bc",
+        "address": "1336-Sunny-Sky-Pl-El-Paso-TX-79928",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 2868,
+        "listed_at": "2026-07-15T19:49:43.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.254408,
+          31.731533
         ]
       }
     },
@@ -39625,27 +39541,6 @@
         "coordinates": [
           -117.308562,
           33.706021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c5dffa50-82f5-52d2-8b14-3ebcd4fb7d49",
-        "address": "4616-Robbins-Ave-Orlando-FL-32808",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1154,
-        "listed_at": "2026-07-11T15:50:04.000Z",
-        "days_on_market": "71",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.456286,
-          28.599129
         ]
       }
     },
@@ -46351,6 +46246,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e6dda8a9-252a-5f37-8278-27bb90c6886b",
+        "address": "220-Icebow-Rd-Fountain-Inn-SC-29644",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2329,
+        "listed_at": "2026-07-15T19:49:43.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.177999,
+          34.693899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e6ef4f23-e334-5114-a312-db6988608fc5",
         "address": "2526-W-End-Dr-Saint-Cloud-FL-34772",
         "beds": 4,
@@ -46954,6 +46870,27 @@
         "coordinates": [
           -84.364093,
           35.497371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9d7a380-6a90-5972-a0b3-5a3fe888badd",
+        "address": "142-Lucca-Dr-Summerville-SC-29486",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2611,
+        "listed_at": "2026-07-15T19:49:43.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.114097,
+          33.139104
         ]
       }
     },
@@ -48088,27 +48025,6 @@
         "coordinates": [
           -90.483436,
           38.785448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f0602f49-e1c1-5e20-b8da-ddcd3800a76c",
-        "address": "1418-Dire-Wolf-Ave-North-Las-Vegas-NV-89084",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3841,
-        "listed_at": "2026-06-25T06:24:58.000Z",
-        "days_on_market": "90",
-        "current_price": 639000,
-        "price_label": "$639K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.161343,
-          36.28939
         ]
       }
     },
