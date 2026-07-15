@@ -8908,27 +8908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2cde5a3a-7751-566b-a1c3-6f88bd0128fe",
-        "address": "1036-Glenwyck-Dr-Braselton-GA-30517",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1980,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": ">143",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.744918,
-          34.124797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2cea3ecd-2149-5c33-beec-9bc446c8d437",
         "address": "36700-Lakeland-Dr-Avon-OH-44011",
         "beds": 3,
@@ -29272,6 +29251,27 @@
         "coordinates": [
           -122.491416,
           45.500104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92c683c9-a469-5360-932d-fadd0eeae864",
+        "address": "908-Laurie-Ln-Copperas-Cove-TX-76522",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1547,
+        "listed_at": "2026-07-15T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.904352,
+          31.105919
         ]
       }
     },
