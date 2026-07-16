@@ -33982,6 +33982,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa8628dc-4ca1-522c-b6ea-e866555ea7f1",
+        "address": "929-Carol-St-Fort-Morgan-CO-80701",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2572,
+        "listed_at": "2026-07-16T15:00:03.000Z",
+        "days_on_market": "23",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7899,
+          40.258679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aaa11c23-8466-599a-b62e-73cd3ee6f258",
         "address": "3717-Knob-Hill-Dr-Plano-TX-75023",
         "beds": 3,
@@ -37714,27 +37735,6 @@
         "coordinates": [
           -115.035667,
           36.154811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bc1290d2-2fc6-50cd-ac67-c47eec00c9c9",
-        "address": "3859-Briggs-Rd-Columbus-OH-43228",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1349,
-        "listed_at": "2026-07-08T16:30:05.000Z",
-        "days_on_market": ">144",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.100502,
-          39.935515
         ]
       }
     },
@@ -48382,6 +48382,27 @@
         "coordinates": [
           -84.065204,
           33.351157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f1dd4c56-864f-540a-8968-409bed1c6acc",
+        "address": "506-Lyons-Rd-Basking-Ridge-NJ-07920",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1648,
+        "listed_at": "2026-07-16T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.578723,
+          40.666858
         ]
       }
     },
