@@ -235,6 +235,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00c01b9c-b07f-52f4-952f-6d7dfbcf63f0",
+        "address": "13638-Evelane-Dr-Hudson-FL-34667",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-07-16T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70696,
+          28.356082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00cea097-8687-594e-ac0e-adf29681f918",
         "address": "7880-Micron-Dr-Apt-3904-San-Antonio-TX-78251",
         "beds": 2,
@@ -11590,6 +11611,27 @@
         "coordinates": [
           -80.980787,
           34.059052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3a221a83-cef6-5d87-af6c-307350e1fe15",
+        "address": "38-Hemlock-Terrace-Pass-Ocala-FL-34472",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1805,
+        "listed_at": "2026-07-16T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.039289,
+          29.143479
         ]
       }
     },
@@ -41011,27 +41053,6 @@
         "coordinates": [
           -81.661936,
           28.280118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cde90399-35e5-518e-83b6-9d7be5ef0008",
-        "address": "6404-Starlette-Ln-Trinity-NC-27370",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1727,
-        "listed_at": "2026-07-13T21:50:03.000Z",
-        "days_on_market": "3",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0191,
-          35.839883
         ]
       }
     },
