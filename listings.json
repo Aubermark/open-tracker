@@ -4477,6 +4477,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15ee8a0b-835f-5fb8-b6b2-5a43fe0f515e",
+        "address": "499-Holland-Ridge-Dr-La-Vergne-TN-37086",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1072,
+        "listed_at": "2026-07-16T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.546563,
+          36.045098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15ff9ee0-e455-5313-aa78-a3f20fcc8f42",
         "address": "14310-Amyford-Ct-Cypress-TX-77429",
         "beds": 4,
@@ -8887,27 +8908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c7f2257-0fec-5118-b36a-7357685065d0",
-        "address": "1738-S-Aryelle-Rd-Apache-Junction-AZ-85119",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1373,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "56",
-        "current_price": 349000,
-        "price_label": "$349K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.528397,
-          33.39938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2cc53ec3-6992-5120-9b81-5f708863b941",
         "address": "4018-City-Homes-Pl-Charlotte-NC-28209",
         "beds": 4,
@@ -11422,6 +11422,27 @@
         "coordinates": [
           -90.302074,
           38.628736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3985fbc2-3d36-5af1-b7f7-713a73310c32",
+        "address": "1727-Joben-Dr-Murfreesboro-TN-37128",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2314,
+        "listed_at": "2026-07-16T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.449404,
+          35.824748
         ]
       }
     },
@@ -29761,6 +29782,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "94c5661a-cb82-5e6b-bfd4-55b35c544bf9",
+        "address": "608-Estes-Rd-Nashville-TN-37215",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2972,
+        "listed_at": "2026-07-16T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1290000,
+        "price_label": "$1.290M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.834939,
+          36.122946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "94d936fb-d639-5fc1-b1b3-eecc9980cf9d",
         "address": "1495-S-Peace-Haven-Rd-Clemmons-NC-27012",
         "beds": 3,
@@ -41725,6 +41767,27 @@
         "coordinates": [
           -97.398142,
           32.854319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d157c9df-8bcd-5991-9ef8-6ecaf1eb9fb1",
+        "address": "719-N-Crescent-Ave-Lodi-CA-95240",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1134,
+        "listed_at": "2026-07-16T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 448000,
+        "price_label": "$448K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.283887,
+          38.142595
         ]
       }
     },
