@@ -19450,6 +19450,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60a6d792-0976-5afe-bf40-361314ab3d11",
+        "address": "1966-Cook-Ct-Woodland-CA-95776",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1580,
+        "listed_at": "2026-07-16T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.730278,
+          38.672373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60dc9da8-e1a6-5f6d-8c8b-392107648795",
         "address": "2182-Apple-Orchard-Way-Austell-GA-30168",
         "beds": 4,
@@ -50734,6 +50755,27 @@
         "coordinates": [
           -97.587025,
           32.894189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe296d1e-2311-54fb-9659-84ca36c90fd5",
+        "address": "915-Wallace-Dr-Woodland-CA-95776",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1336,
+        "listed_at": "2026-07-16T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.737992,
+          38.666796
         ]
       }
     },
