@@ -9391,6 +9391,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e97d266-0e69-5db3-b7eb-bc11acf3e567",
+        "address": "22125-Country-Hills-Dr-Wildomar-CA-92595",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1277,
+        "listed_at": "2026-07-16T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.273649,
+          33.634575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ead17ad-c90e-56f0-9e39-0e7becb337fc",
         "address": "31891-Domenoe-Way-Temecula-CA-92592",
         "beds": 3,
@@ -26878,6 +26899,27 @@
         "coordinates": [
           -80.960767,
           32.031579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "86b734bf-6335-5f41-93eb-d5793b0a145a",
+        "address": "21530-Glendale-Ave-Port-Charlotte-FL-33952",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1888,
+        "listed_at": "2026-07-16T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.090793,
+          26.998827
         ]
       }
     },
@@ -45904,6 +45946,27 @@
         "coordinates": [
           -95.090243,
           29.930889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e5994ef7-95a9-56c8-bb0f-c241f3464ed7",
+        "address": "982-Oak-Dr-Crestline-CA-92325",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 666,
+        "listed_at": "2026-07-16T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.308141,
+          34.235278
         ]
       }
     },
