@@ -8724,10 +8724,10 @@
         "beds": 6,
         "baths": 4.5,
         "sqft": 5017,
-        "listed_at": "2026-06-20T06:01:40.000Z",
+        "listed_at": "2026-07-16T15:40:03.000Z",
         "days_on_market": "27",
-        "current_price": 995000,
-        "price_label": "$995K"
+        "current_price": 970000,
+        "price_label": "$970K"
       },
       "geometry": {
         "type": "Point",
@@ -10798,6 +10798,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "34a57ab7-f4f2-5f18-9901-3422c30f7112",
+        "address": "3469-Aylesford-Ln-Indianapolis-IN-46228",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1972,
+        "listed_at": "2026-07-16T15:40:03.000Z",
+        "days_on_market": "22",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.219491,
+          39.82737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "34a6db87-8098-5ee8-ae95-4f91a3a13445",
         "address": "35687-Hillbrook-Ave-Zephyrhills-FL-33541",
         "beds": 4,
@@ -12346,6 +12367,27 @@
         "coordinates": [
           -112.436162,
           33.617275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d199ab5-38ff-5596-ae61-8daf05e635c1",
+        "address": "100-Mary-Mack-Ln-Fort-Mill-SC-29715",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4781,
+        "listed_at": "2026-07-16T15:40:03.000Z",
+        "days_on_market": "22",
+        "current_price": 1000000,
+        "price_label": "$1.000M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.929296,
+          34.999968
         ]
       }
     },
@@ -25162,6 +25204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d4a22f2-0fd5-59f0-9922-7a6131701c76",
+        "address": "1513-Alpha-Ct-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1128,
+        "listed_at": "2026-07-16T15:40:03.000Z",
+        "days_on_market": "43",
+        "current_price": 174000,
+        "price_label": "$174K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.926432,
+          34.052765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dc3bd4f-bfb3-56c1-b73f-74ab530e8e6e",
         "address": "13701-Ronald-W-Reagan-Blvd-Unit-84-Cedar-Park-TX-78613",
         "beds": 3,
@@ -25639,6 +25702,27 @@
         "coordinates": [
           -80.860288,
           34.968222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8062dee4-7549-56d6-97e4-3e01be148c11",
+        "address": "402-W-District-St-Tucson-AZ-85714",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-07-16T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.975078,
+          32.174235
         ]
       }
     },
@@ -40135,27 +40219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c93698e9-40b2-5429-9033-b77522d4937a",
-        "address": "643-E-Country-Grove-Cir-Pearland-TX-77584",
-        "beds": 1,
-        "baths": 1,
-        "sqft": 1138,
-        "listed_at": "2026-07-08T18:30:03.000Z",
-        "days_on_market": "8",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.367263,
-          29.580515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c938719b-d778-55e8-85f7-d57d7628bcec",
         "address": "437-Denison-Dr-Pottsboro-TX-75076",
         "beds": 2,
@@ -47311,6 +47374,27 @@
         "coordinates": [
           -80.996416,
           34.921319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebc101a6-69cb-5e44-a783-d30f783fbd33",
+        "address": "3029-Southampton-Cir-Gastonia-NC-28056-16920533",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3416,
+        "listed_at": "2026-07-16T15:40:03.000Z",
+        "days_on_market": "132",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.124844,
+          35.215886
         ]
       }
     },
