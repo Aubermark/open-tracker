@@ -13801,27 +13801,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "42a8f401-4045-48eb-a759-c2ba8c8f0aed",
-        "address": "2929-Vinson-Mountain-Rd-Rockmart-GA-30153",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1176,
-        "listed_at": "2026-07-07T06:06:44.000Z",
-        "days_on_market": "10",
-        "current_price": 236000,
-        "price_label": "$236K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.06161,
-          33.923111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "42e0bfca-e744-54ba-a6a3-74d650dad3d7",
         "address": "10648-Secret-Garden-Ln-Charlotte-NC-28214",
         "beds": 3,
@@ -24154,27 +24133,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "783c35c7-0b95-5332-949a-4f3455d277eb",
-        "address": "142-Canterbury-Xing-Fort-Mill-SC-29708",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4033,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "87",
-        "current_price": 741000,
-        "price_label": "$741K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.963566,
-          35.067046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "78952f96-5390-5af6-b22c-573d97285c5d",
         "address": "6270-Levi-Ct-Springfield-VA-22150",
         "beds": 4,
@@ -25681,6 +25639,27 @@
         "coordinates": [
           -86.823121,
           30.421581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "809f82ab-e084-5774-8a3b-ffc76f114a11",
+        "address": "1332-Cloverfield-Ave-Dayton-OH-45429",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1491,
+        "listed_at": "2026-07-16T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.142076,
+          39.690167
         ]
       }
     },
