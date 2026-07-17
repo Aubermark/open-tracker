@@ -2503,6 +2503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c2fabcb-ff7d-467e-a8c4-4e3d38483f75",
+        "address": "716-8th-St-Portland-TX-78374",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 768,
+        "listed_at": "2026-07-17T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 163000,
+        "price_label": "$163K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.327243,
+          27.877537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c43a7ee-3987-5d14-b4fa-24f4246911ac",
         "address": "159-Old-Tree-Rd-Goose-Creek-SC-29445",
         "beds": 2,
@@ -20326,6 +20347,27 @@
         "coordinates": [
           -84.396401,
           33.992412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6335b575-8ecd-52d0-ab3b-cf7b494dcd50",
+        "address": "4358-Cool-Breeze-Corpus-Christi-TX-78413",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-07-17T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.41188,
+          27.689565
         ]
       }
     },
@@ -42103,6 +42145,27 @@
         "coordinates": [
           -111.637566,
           33.47405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cfdeb1db-2bdb-5453-957f-66ae25855d04",
+        "address": "9579-Quetzal-St-Corpus-Christi-TX-78418",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1401,
+        "listed_at": "2026-07-17T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.296574,
+          27.677057
         ]
       }
     },
