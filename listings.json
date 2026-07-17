@@ -8908,27 +8908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2b9e89dd-ef50-5a6d-b4fa-6b621e89c6f6",
-        "address": "815-Jamestown-Dr-Apt-3-Gastonia-NC-28056",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1296,
-        "listed_at": "2026-07-09T05:58:40.000Z",
-        "days_on_market": "81",
-        "current_price": 194000,
-        "price_label": "$194K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.163919,
-          35.214735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2baf3b76-ff30-5290-8d58-2aa3d3191c39",
         "address": "6180-6th-St-Ne-Fridley-MN-55432",
         "beds": 4,
@@ -47059,6 +47038,27 @@
         "coordinates": [
           -83.327106,
           42.448601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e6a4e36e-7f9c-5a93-aa99-c2569af87b2b",
+        "address": "2064-Revival-Ln-Rio-Vista-CA-94571",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-07-17T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.715137,
+          38.199352
         ]
       }
     },
