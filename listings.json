@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12107525-7b42-5eb9-94f0-99c9be57661a",
+        "address": "1393-San-Diego-Ct-Winter-Springs-FL-32708",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 987,
+        "listed_at": "2026-07-17T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.259768,
+          28.650822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
         "address": "659-Day-Break-Dr-Greenwood-IN-46143",
         "beds": 3,
@@ -41641,6 +41662,27 @@
         "coordinates": [
           -97.647438,
           35.483959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cda0850f-4c6a-5b2a-a598-9660f821747a",
+        "address": "3788-Seminole-Dr-Orlando-FL-32812",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1925,
+        "listed_at": "2026-07-17T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.335071,
+          28.45951
         ]
       }
     },
