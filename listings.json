@@ -3049,6 +3049,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e658a85-f3a6-5fb6-94af-99b39727629e",
+        "address": "3703-Thrushwood-Dr-Chattanooga-TN-37415",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1507,
+        "listed_at": "2026-07-17T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.283572,
+          35.113331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e72c32f-82f6-51dc-8a78-5ac5bc10d3f0",
         "address": "1-Winsted-Pl-Florissant-MO-63031",
         "beds": 3,
@@ -29902,6 +29923,27 @@
         "coordinates": [
           -81.086995,
           35.215581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92f5f22b-1f7b-5e01-a3d3-a4e73b8b16b7",
+        "address": "14925-Beal-Dr-Corpus-Christi-TX-78410",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2312,
+        "listed_at": "2026-07-17T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.655807,
+          27.869628
         ]
       }
     },
