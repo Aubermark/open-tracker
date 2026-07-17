@@ -5429,8 +5429,8 @@
         "sqft": 1771,
         "listed_at": "2026-07-09T05:58:40.000Z",
         "days_on_market": "21",
-        "current_price": 280000,
-        "price_label": "$280K"
+        "current_price": 290000,
+        "price_label": "$290K"
       },
       "geometry": {
         "type": "Point",
@@ -6577,6 +6577,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20bce921-5cc4-4598-8b92-2994336013a7",
+        "address": "15-Altman-Rd-Hampton-SC-29924",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1208,
+        "listed_at": "2026-07-17T15:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.082199,
+          32.880031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20c6059e-4b03-5877-a237-00965aa5cb18",
         "address": "1121-Consortium-Dr-Unit-114-Raleigh-NC-27603",
         "beds": 3,
@@ -7327,27 +7348,6 @@
         "coordinates": [
           -84.299954,
           33.855151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "24d23f4f-f0ed-559b-8e37-78f92c38365f",
-        "address": "5243-Latta-St-Saint-Paul-MN-55110",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1853,
-        "listed_at": "2026-07-13T17:10:03.000Z",
-        "days_on_market": "4",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.025102,
-          45.099929
         ]
       }
     },
@@ -11044,27 +11044,6 @@
         "coordinates": [
           -80.874708,
           35.113568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "34cd200a-6c35-52f6-8411-b31730b155a2",
-        "address": "1031-Skyline-View-Way-Charlotte-NC-28204",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1380,
-        "listed_at": "2026-06-25T06:25:00.000Z",
-        "days_on_market": ">145",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.825903,
-          35.225412
         ]
       }
     },
@@ -18940,27 +18919,6 @@
         "coordinates": [
           -80.402647,
           33.922936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5da18b77-2fca-571e-90c1-6495b2363c60",
-        "address": "2620-Kelly-Ln-Malabar-FL-32950",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1756,
-        "listed_at": "2026-07-09T20:30:03.000Z",
-        "days_on_market": "8",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.608699,
-          27.982057
         ]
       }
     },
