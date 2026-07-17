@@ -7690,6 +7690,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "266b01f9-45d2-4d79-baeb-7eea955fb908",
+        "address": "1950-E-474-Pryor-OK-74361",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 3228,
+        "listed_at": "2026-07-17T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.220937,
+          36.330506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2688db1e-47de-5441-8d28-5a39c24c098a",
         "address": "736-Bettes-Ave-Akron-OH-44310",
         "beds": 2,
@@ -16651,27 +16672,6 @@
         "coordinates": [
           -71.008157,
           42.114823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "518e1cc1-e7ff-57aa-b184-dc8c81f0c945",
-        "address": "16517-E-35th-Street-Ct-S-Independence-MO-64055",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1053,
-        "listed_at": "2026-06-18T06:20:34.000Z",
-        "days_on_market": "74",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.384824,
-          39.05475
         ]
       }
     },
@@ -31231,6 +31231,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "98f9c96b-f329-5eea-bb22-17d90898175a",
+        "address": "44-S-200th-East-Ave-Tulsa-OK-74108",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 858,
+        "listed_at": "2026-07-17T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.754232,
+          36.158875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "98fbdd6c-3024-58e5-953a-6506c3ce80cd",
         "address": "2142-Falcon-Ridge-Dr-Carrollton-TX-75010",
         "beds": 3,
@@ -33934,27 +33955,6 @@
         "coordinates": [
           -80.263271,
           36.0249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a66b21bc-1422-5f8c-9944-20205e29f7e2",
-        "address": "2243-Bolton-St-Saint-Charles-MO-63301",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1300,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "109",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.541591,
-          38.794136
         ]
       }
     },
@@ -51301,6 +51301,27 @@
         "coordinates": [
           -86.279515,
           39.842084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb13fa0e-3cd5-5099-bc31-350a41748ade",
+        "address": "129-Meadowbrook-Dr-Temple-TX-76502",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1283,
+        "listed_at": "2026-07-17T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.419847,
+          31.115985
         ]
       }
     },
