@@ -4435,27 +4435,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "15718cdb-a9b4-5675-957a-c5386b3a0a9e",
-        "address": "2040-E-Piedmont-Pl-Casa-Grande-AZ-85122",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2840,
-        "listed_at": "2026-06-09T17:10:03.000Z",
-        "days_on_market": "39",
-        "current_price": 406000,
-        "price_label": "$406K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.699772,
-          32.850054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "159b5eb0-0260-54cc-a484-2b5bcab38f9a",
         "address": "29212-Ursuline-St-Saint-Clair-Shores-MI-48081",
         "beds": 3,
@@ -12871,6 +12850,27 @@
         "coordinates": [
           -84.429814,
           33.979382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3e5f0f65-b139-5bd3-b9b5-2871719677be",
+        "address": "4606-Mill-Wood-Dr-Colleyville-TX-76034",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3251,
+        "listed_at": "2026-07-18T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 925000,
+        "price_label": "$925K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.164607,
+          32.877717
         ]
       }
     },
