@@ -14956,6 +14956,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46458efa-b6b8-5d99-8304-e2372776d071",
+        "address": "1246-Neelys-Creek-Rd-Rock-Hill-SC-29730",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1267,
+        "listed_at": "2026-07-18T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.970666,
+          34.862345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46571ea9-cb3b-5344-9572-56a11e6b40f1",
         "address": "939-Staffordale-Manor-Ln-Houston-TX-77047",
         "beds": 3,
@@ -33997,6 +34018,27 @@
         "coordinates": [
           -80.263271,
           36.0249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a68c5b16-b027-5258-8cfa-e1775e57d261",
+        "address": "936-Grove-Ave-South-Amboy-NJ-08879",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 610,
+        "listed_at": "2026-07-18T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24601,
+          40.44886
         ]
       }
     },
