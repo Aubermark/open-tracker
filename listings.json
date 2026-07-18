@@ -12856,6 +12856,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3df8f22b-5f74-5584-a839-4962d293fe50",
+        "address": "18792-Dogwood-Ct-Adelanto-CA-92301",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1815,
+        "listed_at": "2026-07-18T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.450826,
+          34.592285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e2fb996-94f4-5d3a-b9ad-e61ccadce68a",
         "address": "724-Woodmere-Dr-Nashville-TN-37217",
         "beds": 3,
