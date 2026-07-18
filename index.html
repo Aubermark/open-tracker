@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">18/07/2026, 10:50 (CET)</span>
+                <span class="hero-meta-value">18/07/2026, 10:55 (CET)</span>
               </div>
           </div>
         </section>
@@ -3766,6 +3766,19 @@
           </div>
         </section>
 
+
+        </br>
+
+        <section>
+          <div class="chart-box">
+            <div class="card-title">NEW LISTINGS VS PERMANENT DELISTINGS</div>
+            <div class="card-subtitle">* Only true new listings and delistings that were never relisted afterward. Pending/Sold noise excluded on purpose.
+              <div>Cumulative totals since tracking began. A removed listing that later returns is not counted as a permanent delisting until it's confirmed.</div>
+            </div>
+
+            <div id="newRemovedChart" style="width:100%; height:400px;"></div>
+          </div>
+        </section>
 
 
         </br>
@@ -5392,6 +5405,209 @@ Q2 earnings will be a barn burner!</p>&mdash; David (@Davo0820)
     }
   });
   cohortObserver.observe(cohortChartContainer);
+</script>
+
+
+
+
+
+
+
+
+
+<script>
+  const newVsRemovedData = [{"business_date":"2026-02-21T23:00:00.000Z","cumulative_new":"1273","cumulative_removed":"5"},{"business_date":"2026-02-22T23:00:00.000Z","cumulative_new":"1318","cumulative_removed":"27"},{"business_date":"2026-02-23T23:00:00.000Z","cumulative_new":"1371","cumulative_removed":"66"},{"business_date":"2026-02-24T23:00:00.000Z","cumulative_new":"1419","cumulative_removed":"98"},{"business_date":"2026-02-25T23:00:00.000Z","cumulative_new":"1470","cumulative_removed":"122"},{"business_date":"2026-02-26T23:00:00.000Z","cumulative_new":"1518","cumulative_removed":"148"},{"business_date":"2026-02-27T23:00:00.000Z","cumulative_new":"1518","cumulative_removed":"162"},{"business_date":"2026-02-28T23:00:00.000Z","cumulative_new":"1521","cumulative_removed":"175"},{"business_date":"2026-03-01T23:00:00.000Z","cumulative_new":"1559","cumulative_removed":"211"},{"business_date":"2026-03-02T23:00:00.000Z","cumulative_new":"1601","cumulative_removed":"244"},{"business_date":"2026-03-03T23:00:00.000Z","cumulative_new":"1620","cumulative_removed":"264"},{"business_date":"2026-03-04T23:00:00.000Z","cumulative_new":"1658","cumulative_removed":"293"},{"business_date":"2026-03-05T23:00:00.000Z","cumulative_new":"1713","cumulative_removed":"320"},{"business_date":"2026-03-06T23:00:00.000Z","cumulative_new":"1714","cumulative_removed":"327"},{"business_date":"2026-03-07T23:00:00.000Z","cumulative_new":"1716","cumulative_removed":"335"},{"business_date":"2026-03-08T23:00:00.000Z","cumulative_new":"1762","cumulative_removed":"370"},{"business_date":"2026-03-09T23:00:00.000Z","cumulative_new":"1801","cumulative_removed":"394"},{"business_date":"2026-03-10T23:00:00.000Z","cumulative_new":"1827","cumulative_removed":"417"},{"business_date":"2026-03-11T23:00:00.000Z","cumulative_new":"1874","cumulative_removed":"441"},{"business_date":"2026-03-12T23:00:00.000Z","cumulative_new":"1911","cumulative_removed":"466"},{"business_date":"2026-03-13T23:00:00.000Z","cumulative_new":"1914","cumulative_removed":"480"},{"business_date":"2026-03-14T23:00:00.000Z","cumulative_new":"1918","cumulative_removed":"492"},{"business_date":"2026-03-15T23:00:00.000Z","cumulative_new":"1952","cumulative_removed":"522"},{"business_date":"2026-03-16T23:00:00.000Z","cumulative_new":"1984","cumulative_removed":"543"},{"business_date":"2026-03-17T23:00:00.000Z","cumulative_new":"2015","cumulative_removed":"565"},{"business_date":"2026-03-18T23:00:00.000Z","cumulative_new":"2044","cumulative_removed":"588"},{"business_date":"2026-03-19T23:00:00.000Z","cumulative_new":"2076","cumulative_removed":"617"},{"business_date":"2026-03-20T23:00:00.000Z","cumulative_new":"2077","cumulative_removed":"628"},{"business_date":"2026-03-21T23:00:00.000Z","cumulative_new":"2078","cumulative_removed":"640"},{"business_date":"2026-03-22T23:00:00.000Z","cumulative_new":"2108","cumulative_removed":"667"},{"business_date":"2026-03-23T23:00:00.000Z","cumulative_new":"2146","cumulative_removed":"700"},{"business_date":"2026-03-24T23:00:00.000Z","cumulative_new":"2172","cumulative_removed":"725"},{"business_date":"2026-03-25T23:00:00.000Z","cumulative_new":"2222","cumulative_removed":"756"},{"business_date":"2026-03-26T23:00:00.000Z","cumulative_new":"2245","cumulative_removed":"796"},{"business_date":"2026-03-27T23:00:00.000Z","cumulative_new":"2245","cumulative_removed":"801"},{"business_date":"2026-03-28T23:00:00.000Z","cumulative_new":"2246","cumulative_removed":"810"},{"business_date":"2026-03-29T22:00:00.000Z","cumulative_new":"2297","cumulative_removed":"831"},{"business_date":"2026-03-30T22:00:00.000Z","cumulative_new":"2330","cumulative_removed":"858"},{"business_date":"2026-03-31T22:00:00.000Z","cumulative_new":"2354","cumulative_removed":"878"},{"business_date":"2026-04-01T22:00:00.000Z","cumulative_new":"2392","cumulative_removed":"894"},{"business_date":"2026-04-02T22:00:00.000Z","cumulative_new":"2435","cumulative_removed":"916"},{"business_date":"2026-04-03T22:00:00.000Z","cumulative_new":"2440","cumulative_removed":"925"},{"business_date":"2026-04-04T22:00:00.000Z","cumulative_new":"2441","cumulative_removed":"933"},{"business_date":"2026-04-05T22:00:00.000Z","cumulative_new":"2478","cumulative_removed":"951"},{"business_date":"2026-04-06T22:00:00.000Z","cumulative_new":"2495","cumulative_removed":"966"},{"business_date":"2026-04-07T22:00:00.000Z","cumulative_new":"2524","cumulative_removed":"997"},{"business_date":"2026-04-08T22:00:00.000Z","cumulative_new":"2555","cumulative_removed":"1024"},{"business_date":"2026-04-09T22:00:00.000Z","cumulative_new":"2600","cumulative_removed":"1036"},{"business_date":"2026-04-10T22:00:00.000Z","cumulative_new":"2603","cumulative_removed":"1052"},{"business_date":"2026-04-11T22:00:00.000Z","cumulative_new":"2614","cumulative_removed":"1070"},{"business_date":"2026-04-12T22:00:00.000Z","cumulative_new":"2656","cumulative_removed":"1094"},{"business_date":"2026-04-13T22:00:00.000Z","cumulative_new":"2691","cumulative_removed":"1125"},{"business_date":"2026-04-14T22:00:00.000Z","cumulative_new":"2711","cumulative_removed":"1141"},{"business_date":"2026-04-15T22:00:00.000Z","cumulative_new":"2764","cumulative_removed":"1176"},{"business_date":"2026-04-16T22:00:00.000Z","cumulative_new":"2809","cumulative_removed":"1194"},{"business_date":"2026-04-17T22:00:00.000Z","cumulative_new":"2811","cumulative_removed":"1207"},{"business_date":"2026-04-18T22:00:00.000Z","cumulative_new":"2813","cumulative_removed":"1212"},{"business_date":"2026-04-19T22:00:00.000Z","cumulative_new":"2862","cumulative_removed":"1243"},{"business_date":"2026-04-20T22:00:00.000Z","cumulative_new":"2890","cumulative_removed":"1272"},{"business_date":"2026-04-21T22:00:00.000Z","cumulative_new":"2912","cumulative_removed":"1294"},{"business_date":"2026-04-22T22:00:00.000Z","cumulative_new":"2956","cumulative_removed":"1324"},{"business_date":"2026-04-23T22:00:00.000Z","cumulative_new":"3012","cumulative_removed":"1351"},{"business_date":"2026-04-24T22:00:00.000Z","cumulative_new":"3019","cumulative_removed":"1364"},{"business_date":"2026-04-25T22:00:00.000Z","cumulative_new":"3029","cumulative_removed":"1378"},{"business_date":"2026-04-26T22:00:00.000Z","cumulative_new":"3074","cumulative_removed":"1402"},{"business_date":"2026-04-27T22:00:00.000Z","cumulative_new":"3107","cumulative_removed":"1433"},{"business_date":"2026-04-28T22:00:00.000Z","cumulative_new":"3135","cumulative_removed":"1459"},{"business_date":"2026-04-29T22:00:00.000Z","cumulative_new":"3179","cumulative_removed":"1477"},{"business_date":"2026-04-30T22:00:00.000Z","cumulative_new":"3220","cumulative_removed":"1504"},{"business_date":"2026-05-01T22:00:00.000Z","cumulative_new":"3221","cumulative_removed":"1512"},{"business_date":"2026-05-02T22:00:00.000Z","cumulative_new":"3222","cumulative_removed":"1518"},{"business_date":"2026-05-03T22:00:00.000Z","cumulative_new":"3268","cumulative_removed":"1542"},{"business_date":"2026-05-04T22:00:00.000Z","cumulative_new":"3319","cumulative_removed":"1581"},{"business_date":"2026-05-05T22:00:00.000Z","cumulative_new":"3339","cumulative_removed":"1612"},{"business_date":"2026-05-06T22:00:00.000Z","cumulative_new":"3372","cumulative_removed":"1636"},{"business_date":"2026-05-07T22:00:00.000Z","cumulative_new":"3401","cumulative_removed":"1665"},{"business_date":"2026-05-08T22:00:00.000Z","cumulative_new":"3451","cumulative_removed":"1684"},{"business_date":"2026-05-09T22:00:00.000Z","cumulative_new":"3455","cumulative_removed":"1691"},{"business_date":"2026-05-10T22:00:00.000Z","cumulative_new":"3487","cumulative_removed":"1717"},{"business_date":"2026-05-11T22:00:00.000Z","cumulative_new":"3539","cumulative_removed":"1744"},{"business_date":"2026-05-12T22:00:00.000Z","cumulative_new":"3588","cumulative_removed":"1767"},{"business_date":"2026-05-13T22:00:00.000Z","cumulative_new":"3656","cumulative_removed":"1794"},{"business_date":"2026-05-14T22:00:00.000Z","cumulative_new":"3712","cumulative_removed":"1816"},{"business_date":"2026-05-15T22:00:00.000Z","cumulative_new":"3719","cumulative_removed":"1822"},{"business_date":"2026-05-16T22:00:00.000Z","cumulative_new":"3720","cumulative_removed":"1832"},{"business_date":"2026-05-17T22:00:00.000Z","cumulative_new":"3726","cumulative_removed":"1849"},{"business_date":"2026-05-18T22:00:00.000Z","cumulative_new":"3763","cumulative_removed":"1882"},{"business_date":"2026-05-19T22:00:00.000Z","cumulative_new":"3813","cumulative_removed":"1903"},{"business_date":"2026-05-20T22:00:00.000Z","cumulative_new":"3824","cumulative_removed":"1930"},{"business_date":"2026-05-21T22:00:00.000Z","cumulative_new":"3830","cumulative_removed":"1951"},{"business_date":"2026-05-22T22:00:00.000Z","cumulative_new":"3833","cumulative_removed":"1959"},{"business_date":"2026-05-23T22:00:00.000Z","cumulative_new":"3833","cumulative_removed":"1967"},{"business_date":"2026-05-24T22:00:00.000Z","cumulative_new":"3897","cumulative_removed":"1985"},{"business_date":"2026-05-25T22:00:00.000Z","cumulative_new":"3978","cumulative_removed":"1998"},{"business_date":"2026-05-26T22:00:00.000Z","cumulative_new":"4031","cumulative_removed":"2028"},{"business_date":"2026-05-27T22:00:00.000Z","cumulative_new":"4048","cumulative_removed":"2049"},{"business_date":"2026-05-28T22:00:00.000Z","cumulative_new":"4112","cumulative_removed":"2074"},{"business_date":"2026-05-29T22:00:00.000Z","cumulative_new":"4118","cumulative_removed":"2090"},{"business_date":"2026-05-30T22:00:00.000Z","cumulative_new":"4128","cumulative_removed":"2104"},{"business_date":"2026-05-31T22:00:00.000Z","cumulative_new":"4152","cumulative_removed":"2135"},{"business_date":"2026-06-01T22:00:00.000Z","cumulative_new":"4175","cumulative_removed":"2174"},{"business_date":"2026-06-02T22:00:00.000Z","cumulative_new":"4253","cumulative_removed":"2198"},{"business_date":"2026-06-03T22:00:00.000Z","cumulative_new":"4333","cumulative_removed":"2235"},{"business_date":"2026-06-04T22:00:00.000Z","cumulative_new":"4396","cumulative_removed":"2268"},{"business_date":"2026-06-05T22:00:00.000Z","cumulative_new":"4402","cumulative_removed":"2282"},{"business_date":"2026-06-06T22:00:00.000Z","cumulative_new":"4413","cumulative_removed":"2290"},{"business_date":"2026-06-07T22:00:00.000Z","cumulative_new":"4462","cumulative_removed":"2315"},{"business_date":"2026-06-08T22:00:00.000Z","cumulative_new":"4515","cumulative_removed":"2343"},{"business_date":"2026-06-09T22:00:00.000Z","cumulative_new":"4539","cumulative_removed":"2373"},{"business_date":"2026-06-10T22:00:00.000Z","cumulative_new":"4576","cumulative_removed":"2397"},{"business_date":"2026-06-11T22:00:00.000Z","cumulative_new":"4631","cumulative_removed":"2418"},{"business_date":"2026-06-12T22:00:00.000Z","cumulative_new":"4631","cumulative_removed":"2418"},{"business_date":"2026-06-13T22:00:00.000Z","cumulative_new":"4631","cumulative_removed":"2418"},{"business_date":"2026-06-14T22:00:00.000Z","cumulative_new":"4672","cumulative_removed":"2458"},{"business_date":"2026-06-15T22:00:00.000Z","cumulative_new":"4674","cumulative_removed":"2494"},{"business_date":"2026-06-16T22:00:00.000Z","cumulative_new":"4688","cumulative_removed":"2516"},{"business_date":"2026-06-17T22:00:00.000Z","cumulative_new":"4709","cumulative_removed":"2541"},{"business_date":"2026-06-18T22:00:00.000Z","cumulative_new":"4757","cumulative_removed":"2556"},{"business_date":"2026-06-19T22:00:00.000Z","cumulative_new":"4758","cumulative_removed":"2568"},{"business_date":"2026-06-20T22:00:00.000Z","cumulative_new":"4758","cumulative_removed":"2574"},{"business_date":"2026-06-21T22:00:00.000Z","cumulative_new":"4834","cumulative_removed":"2608"},{"business_date":"2026-06-22T22:00:00.000Z","cumulative_new":"4923","cumulative_removed":"2640"},{"business_date":"2026-06-23T22:00:00.000Z","cumulative_new":"4982","cumulative_removed":"2664"},{"business_date":"2026-06-24T22:00:00.000Z","cumulative_new":"5052","cumulative_removed":"2694"},{"business_date":"2026-06-25T22:00:00.000Z","cumulative_new":"5109","cumulative_removed":"2713"},{"business_date":"2026-06-26T22:00:00.000Z","cumulative_new":"5109","cumulative_removed":"2722"},{"business_date":"2026-06-27T22:00:00.000Z","cumulative_new":"5114","cumulative_removed":"2733"},{"business_date":"2026-06-28T22:00:00.000Z","cumulative_new":"5116","cumulative_removed":"2761"},{"business_date":"2026-06-29T22:00:00.000Z","cumulative_new":"5118","cumulative_removed":"2804"},{"business_date":"2026-06-30T22:00:00.000Z","cumulative_new":"5119","cumulative_removed":"2837"},{"business_date":"2026-07-01T22:00:00.000Z","cumulative_new":"5121","cumulative_removed":"2864"},{"business_date":"2026-07-02T22:00:00.000Z","cumulative_new":"5124","cumulative_removed":"2883"},{"business_date":"2026-07-03T22:00:00.000Z","cumulative_new":"5124","cumulative_removed":"2892"},{"business_date":"2026-07-04T22:00:00.000Z","cumulative_new":"5124","cumulative_removed":"2902"},{"business_date":"2026-07-05T22:00:00.000Z","cumulative_new":"5292","cumulative_removed":"2928"},{"business_date":"2026-07-06T22:00:00.000Z","cumulative_new":"5367","cumulative_removed":"2959"},{"business_date":"2026-07-07T22:00:00.000Z","cumulative_new":"5415","cumulative_removed":"2998"},{"business_date":"2026-07-08T22:00:00.000Z","cumulative_new":"5472","cumulative_removed":"3038"},{"business_date":"2026-07-09T22:00:00.000Z","cumulative_new":"5531","cumulative_removed":"3079"},{"business_date":"2026-07-10T22:00:00.000Z","cumulative_new":"5533","cumulative_removed":"3092"},{"business_date":"2026-07-11T22:00:00.000Z","cumulative_new":"5533","cumulative_removed":"3102"},{"business_date":"2026-07-12T22:00:00.000Z","cumulative_new":"5567","cumulative_removed":"3145"},{"business_date":"2026-07-13T22:00:00.000Z","cumulative_new":"5642","cumulative_removed":"3179"},{"business_date":"2026-07-14T22:00:00.000Z","cumulative_new":"5692","cumulative_removed":"3221"},{"business_date":"2026-07-15T22:00:00.000Z","cumulative_new":"5761","cumulative_removed":"3261"},{"business_date":"2026-07-16T22:00:00.000Z","cumulative_new":"5815","cumulative_removed":"3323"},{"business_date":"2026-07-17T22:00:00.000Z","cumulative_new":"5815","cumulative_removed":"3323"}];
+
+  newVsRemovedData.sort((a, b) => new Date(a.business_date) - new Date(b.business_date));
+
+  const nrLabels = newVsRemovedData.map(d => {
+    const raw = d.business_date;
+    const date = new Date(raw);
+    const year = date.getUTCFullYear();
+    const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(date.getUTCDate()).padStart(2, '0');
+    return year + '-' + month + '-' + day;
+  });
+  const nrNew = newVsRemovedData.map(d => d.cumulative_new ?? 0);
+  const nrRemoved = newVsRemovedData.map(d => d.cumulative_removed ?? 0);
+
+  function initNewRemovedChart() {
+    const chart = echarts.init(document.getElementById('newRemovedChart'), null, {
+      renderer: 'canvas',
+      useDirtyRect: true
+    });
+
+    const colorNew = '#4FC3F7';
+    const colorRemoved = '#f87171';
+
+    const options = {
+      animation: false,
+      backgroundColor: 'transparent',
+      progressive: 0,
+      tooltip: { show: false },
+
+      legend: {
+        data: ['New Listings', 'Permanent Removed'],
+        top: 0,
+        textStyle: { color: '#cfd8dc', fontSize: 12 },
+        icon: 'circle',
+        itemWidth: 8,
+        itemHeight: 8
+      },
+
+      grid: {
+        left: 6,
+        right: 6,
+        top: 36,
+        bottom: 20,
+        containLabel: true
+      },
+
+      xAxis: {
+        type: 'category',
+        data: nrLabels,
+        axisLine: { lineStyle: { color: '#444' } },
+        axisTick: { show: false },
+        axisLabel: { color: '#aaa', fontSize: 11 },
+        splitLine: { show: false }
+      },
+
+      yAxis: [
+        {
+          type: 'value',
+          axisLine: { show: false },
+          axisTick: { show: false },
+          axisLabel: { color: '#aaa', fontSize: 11 },
+          splitLine: {
+            show: true,
+            lineStyle: { color: 'rgba(255,255,255,0.08)', width: 1, type: 'dashed' }
+          }
+        }
+      ],
+
+      series: [
+        {
+          name: 'New Listings',
+          type: 'line',
+          data: nrNew,
+          smooth: false,
+          symbol: 'none',
+          z: 10,
+          lineStyle: { color: colorNew, width: 2 },
+          areaStyle: {
+            color: {
+              type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+              colorStops: [
+                { offset: 0, color: 'rgba(79,195,247,0.16)' },
+                { offset: 1, color: 'rgba(79,195,247,0)' }
+              ]
+            }
+          },
+          emphasis: { disabled: true }
+        },
+        {
+          name: 'Permanent Removed',
+          type: 'line',
+          data: nrRemoved,
+          smooth: false,
+          symbol: 'none',
+          z: 9,
+          lineStyle: { color: colorRemoved, width: 2 },
+          areaStyle: {
+            color: {
+              type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+              colorStops: [
+                { offset: 0, color: 'rgba(248,113,113,0.14)' },
+                { offset: 1, color: 'rgba(248,113,113,0)' }
+              ]
+            }
+          },
+          emphasis: { disabled: true }
+        }
+      ]
+    };
+
+    chart.setOption(options);
+
+    const chartDom = document.getElementById('newRemovedChart');
+    const lineEl = document.createElement('div');
+    lineEl.style.cssText = 'position:absolute;top:36px;width:1px;pointer-events:none;background:rgba(255,255,255,0.25);display:none;z-index:10;';
+    chartDom.style.position = 'relative';
+    chartDom.appendChild(lineEl);
+
+    const tipEl = document.createElement('div');
+    tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.75);border:1px solid ' + colorNew + ';border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
+    chartDom.appendChild(tipEl);
+
+    function getSnapPx() {
+      if (nrLabels.length < 2) return 30;
+      const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
+      const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
+      return Math.abs(px1 - px0) / 2;
+    }
+
+    chartDom.addEventListener('mousemove', function(e) {
+      const rect = chartDom.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+      const SNAP_PX = getSnapPx();
+
+      let closestIdx = -1;
+      let closestDist = Infinity;
+      nrLabels.forEach(function(_, i) {
+        const px = chart.convertToPixel({ xAxisIndex: 0 }, i);
+        const dist = Math.abs(mouseX - px);
+        if (dist < closestDist) { closestDist = dist; closestIdx = i; }
+      });
+
+      if (closestIdx === -1 || closestDist > SNAP_PX) {
+        lineEl.style.display = 'none';
+        tipEl.style.display = 'none';
+        return;
+      }
+
+      const pt = chart.convertToPixel({ xAxisIndex: 0 }, closestIdx);
+      const h = chartDom.clientHeight - 36 - 20;
+      lineEl.style.left = pt + 'px';
+      lineEl.style.height = h + 'px';
+      lineEl.style.display = 'block';
+
+      let html = '<div style="margin-bottom:6px;font-weight:600;">' + nrLabels[closestIdx] + '</div>';
+      html += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+            + '<span style="color:' + colorNew + ';">● New Listings</span>'
+            + '<span style="font-weight:700;">' + nrNew[closestIdx].toLocaleString() + '</span></div>';
+      html += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+            + '<span style="color:' + colorRemoved + ';">● Permanent Removed</span>'
+            + '<span style="font-weight:700;">' + nrRemoved[closestIdx].toLocaleString() + '</span></div>';
+
+      tipEl.innerHTML = html;
+      tipEl.style.display = 'block';
+
+      let tipX = mouseX + 15;
+      let tipY = mouseY - 10;
+      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) tipX = mouseX - tipEl.offsetWidth - 15;
+      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
+      tipEl.style.left = tipX + 'px';
+      tipEl.style.top = tipY + 'px';
+    });
+
+    chartDom.addEventListener('mouseleave', function() {
+      lineEl.style.display = 'none';
+      tipEl.style.display = 'none';
+    });
+
+    const onResize = () => chart.resize();
+    window.addEventListener('resize', onResize);
+  }
+
+  const newRemovedChartContainer = document.getElementById('newRemovedChart');
+  const newRemovedObserver = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      initNewRemovedChart();
+      newRemovedObserver.disconnect();
+    }
+  });
+  newRemovedObserver.observe(newRemovedChartContainer);
 </script>
 
 
