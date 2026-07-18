@@ -14767,6 +14767,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "457e6d53-286c-563b-9b77-616aea5fe1b7",
+        "address": "1007-E-Citrus-Edge-St-Azusa-CA-91702",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1631,
+        "listed_at": "2026-07-18T19:50:03.000Z",
+        "days_on_market": "65",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.886866,
+          34.119208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45b5c8a5-ef34-55ad-bac6-1daa3455641c",
         "address": "3513-Nuhn-Way-New-Braunfels-TX-78132",
         "beds": 4,
@@ -48592,27 +48613,6 @@
         "coordinates": [
           -98.150091,
           30.041606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ee59ddfe-5518-55ad-a0c8-8c29f0791394",
-        "address": "5839-Blonde-Cyn-San-Antonio-TX-78252",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1233,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "75",
-        "current_price": 183000,
-        "price_label": "$183K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.708991,
-          29.374425
         ]
       }
     },
