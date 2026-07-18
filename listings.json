@@ -5695,27 +5695,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ae911e8-311c-52a2-93e3-f78ed5943a23",
-        "address": "925-Woodcrest-Ln-Hazelwood-MO-63042",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1544,
-        "listed_at": "2026-07-06T12:40:03.000Z",
-        "days_on_market": "12",
-        "current_price": 228000,
-        "price_label": "$228K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.377358,
-          38.786373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1b0e46eb-011e-5305-8791-2d6794011bc2",
         "address": "2020-Stoney-Point-Ln-Unit-59-Charlotte-NC-28210",
         "beds": 2,
@@ -43495,27 +43474,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d4a9c549-2010-5893-860c-886ad2312e9b",
-        "address": "20646-Wahl-Ln-Garden-Ridge-TX-78266",
-        "beds": 5,
-        "baths": 5.5,
-        "sqft": 4920,
-        "listed_at": "2026-07-11T05:19:28.000Z",
-        "days_on_market": "53",
-        "current_price": 900000,
-        "price_label": "$900K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.293573,
-          29.63387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d4aee9d8-5b9e-5c4f-953e-22f530ddd071",
         "address": "8224-Kossum-Way-Elk-Grove-CA-95624",
         "beds": 3,
@@ -48382,6 +48340,27 @@
         "coordinates": [
           -96.557683,
           33.343525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec23a245-d722-5a7a-b9ad-49fb75edf230",
+        "address": "1230-E-Pleasant-Run-Parkway-North-Dr-Indianapolis-IN-46203",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1822,
+        "listed_at": "2026-07-18T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.137598,
+          39.746501
         ]
       }
     },
