@@ -9328,6 +9328,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2df8082c-ff82-58f1-967d-f709a1e4fa77",
+        "address": "215-Arbour-Run-Suwanee-GA-30024",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1568,
+        "listed_at": "2026-07-18T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.033472,
+          34.016768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2dfb0199-7368-55e9-8634-a272215ae0c5",
         "address": "1144-Campbell-Ridge-Dr-Elgin-SC-29045",
         "beds": 5,
