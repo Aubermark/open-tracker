@@ -1180,27 +1180,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "04297fd8-3ea6-5d1d-b241-032aadca91d7",
-        "address": "6757-Troy-Ln-N-Maple-Grove-MN-55311",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3224,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "70",
-        "current_price": 520000,
-        "price_label": "$520K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.511564,
-          45.077173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "046eb675-34bc-503d-b5e3-4126e95aebb2",
         "address": "62-Cordona-Dr-Kissimmee-FL-34758",
         "beds": 3,
@@ -7747,27 +7726,6 @@
         "coordinates": [
           -80.309479,
           36.128948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2699c828-f20c-55bb-a12e-01b8934b9e34",
-        "address": "3323-Abana-Path-The-Villages-FL-32163",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1559,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "44",
-        "current_price": 348000,
-        "price_label": "$348K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.979241,
-          28.852692
         ]
       }
     },
@@ -17302,6 +17260,27 @@
         "coordinates": [
           -105.009477,
           39.795102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
+        "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1560,
+        "listed_at": "2026-07-18T15:50:04.000Z",
+        "days_on_market": ">146",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.854109,
+          33.50944
         ]
       }
     },
