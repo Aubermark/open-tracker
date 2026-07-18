@@ -26506,6 +26506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81b92f82-bd80-5ba2-a28c-3f8560ddc921",
+        "address": "204-N-Crossing-Dr-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-07-18T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877071,
+          34.136044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81be9834-5c7d-572e-b622-f77b47d5af2c",
         "address": "1423-Pro-Shop-Ct-Davenport-FL-33896",
         "beds": 6,
