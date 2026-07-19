@@ -1621,6 +1621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07031954-412a-5d0d-8ef0-4cbec845593f",
+        "address": "5314-Westminster-Dr-Fayetteville-NC-28311",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1109,
+        "listed_at": "2026-07-19T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88919,
+          35.137111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
         "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
         "beds": 3,
@@ -7831,6 +7852,27 @@
         "coordinates": [
           -78.794692,
           35.774027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "274e20ae-f396-5a34-8de0-67a330379d79",
+        "address": "2017-Ollivander-Dr-Cary-NC-27519",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3165,
+        "listed_at": "2026-07-19T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 825000,
+        "price_label": "$825K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.919026,
+          35.808326
         ]
       }
     },
@@ -24826,6 +24868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a1209d6-6782-50d3-accc-34a93b1f79e2",
+        "address": "505-Old-Warden-Way-Hope-Mills-NC-28348",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1528,
+        "listed_at": "2026-07-19T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.922008,
+          34.987146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a572ddb-5d16-5c08-b70c-716870849487",
         "address": "110-Lyman-Oak-Ct-Fort-Mill-SC-29715",
         "beds": 5,
@@ -34207,27 +34270,6 @@
         "coordinates": [
           -95.444042,
           29.738402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a86c60af-0354-5289-9076-f8b4410c9a1c",
-        "address": "8112-Princess-Jeanne-Ave-Ne-Albuquerque-NM-87110",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1196,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "108",
-        "current_price": 287000,
-        "price_label": "$287K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.552369,
-          35.097628
         ]
       }
     },
