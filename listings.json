@@ -23860,6 +23860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "759d0f04-e4e5-5417-bafe-9f628babb3da",
+        "address": "225-Sarazen-Dr-Clayton-NC-27527",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2146,
+        "listed_at": "2026-07-19T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.43035,
+          35.689682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75a3b363-9d2e-5b6f-8b7d-335e4a46f10f",
         "address": "13808-S-Robinson-Ave-Oklahoma-City-OK-73170",
         "beds": 5,
@@ -45427,6 +45448,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dfb92d67-41fb-5210-b7c2-4a5307dccba0",
+        "address": "472-Brentwood-Dr-Lake-Arrowhead-CA-92352",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1740,
+        "listed_at": "2026-07-19T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22502,
+          34.259057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dfde6ddc-1b90-5752-8e53-dc524e46ea43",
         "address": "300-Indigo-Rd-Goose-Creek-SC-29445",
         "beds": 3,
@@ -50761,27 +50803,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "fb3c7543-4a4a-5e68-8444-dd22d9443417",
-        "address": "10431-E-Rita-Ranch-Crossing-Cir-Tucson-AZ-85747",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2415,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "51",
-        "current_price": 386000,
-        "price_label": "$386K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.770356,
-          32.103487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "fb5f2a51-f75f-5f18-ba3c-6adb5168a890",
         "address": "405-Isle-Of-Pines-Rd-Mooresville-NC-28117",
         "beds": 3,
@@ -51322,6 +51343,27 @@
         "coordinates": [
           -84.017292,
           33.908426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe4a4276-6367-59f7-a735-a04e0162fe3b",
+        "address": "2604-Leo-Dr-Garland-TX-75044",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1320,
+        "listed_at": "2026-07-19T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.668101,
+          32.949957
         ]
       }
     },
