@@ -4393,6 +4393,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15458912-425f-5119-92f9-6b776e666b88",
+        "address": "866-S-1580-W-Lehi-UT-84043",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2733,
+        "listed_at": "2026-07-20T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.874012,
+          40.377117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -19996,6 +20017,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "619a5d04-b6bd-557e-a365-27cf58357aff",
+        "address": "14496-S-Fox-Creek-Dr-Herriman-UT-84096",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3985,
+        "listed_at": "2026-07-20T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.055256,
+          40.487818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61cf50da-26a5-5a21-861b-4e3491f58e7b",
         "address": "5880-Se-Snowberry-Ct-Hillsboro-OR-97123",
         "beds": 4,
@@ -33724,6 +33766,27 @@
         "coordinates": [
           -95.820307,
           29.526163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a4e3b0b4-fa22-54e7-b3e7-31fa61cbf946",
+        "address": "14273-S-Heartstone-Cir-Herriman-UT-84096",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1917,
+        "listed_at": "2026-07-20T17:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.008153,
+          40.491981
         ]
       }
     },
