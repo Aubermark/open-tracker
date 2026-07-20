@@ -1978,27 +1978,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0980506d-b767-51a8-ad59-abfb8501cb61",
-        "address": "15087-Carrick-Rd-Noblesville-IN-46062",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 4260,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "86",
-        "current_price": 610000,
-        "price_label": "$610K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.060505,
-          40.007652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0988f490-86d9-52af-ab1c-c7cf11e49e57",
         "address": "168-Harbour-Watch-Blvd-Leesville-SC-29070",
         "beds": 3,
@@ -2665,6 +2644,27 @@
         "coordinates": [
           -110.791539,
           32.105881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0ce9cb40-d5ed-55d4-a4ea-603c18e8e23f",
+        "address": "525-Michael-Cir-Monroe-GA-30655",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2060,
+        "listed_at": "2026-07-20T18:00:04.000Z",
+        "days_on_market": "69",
+        "current_price": 324000,
+        "price_label": "$324K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.739068,
+          33.78081
         ]
       }
     },
@@ -42403,6 +42403,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d096627f-e305-5d33-b79e-b90921420af7",
+        "address": "1402-1st-Avenue-Pl-Nw-Hickory-NC-28601",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1674,
+        "listed_at": "2026-07-20T18:00:04.000Z",
+        "days_on_market": "33",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.362186,
+          35.734411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0a174e2-89b6-5107-b7ad-4cbfc1386415",
         "address": "729-E-Ivy-Valley-Dr-Fuquay-Varina-NC-27526",
         "beds": 3,
@@ -45463,6 +45484,27 @@
         "coordinates": [
           -103.849136,
           40.272586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ddfc750c-bd1e-59b7-869c-7cf554633708",
+        "address": "101-Bonito-Dr-Yorktown-VA-23692",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2402,
+        "listed_at": "2026-07-20T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.442412,
+          37.171755
         ]
       }
     },
