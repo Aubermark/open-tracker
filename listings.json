@@ -12037,6 +12037,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b188170-96b1-5533-ac02-90d901368ee4",
+        "address": "33137-Irongate-Dr-Leesburg-FL-34788",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1504,
+        "listed_at": "2026-07-20T10:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 272000,
+        "price_label": "$272K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.785259,
+          28.832156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -46240,6 +46261,27 @@
         "coordinates": [
           -98.689344,
           29.50623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e368d911-ea62-5c76-8cc1-ad1776684dff",
+        "address": "1675-Landings-Ln-Sarasota-FL-34231",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 4214,
+        "listed_at": "2026-07-20T10:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1930000,
+        "price_label": "$1.930M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.536347,
+          27.281433
         ]
       }
     },
