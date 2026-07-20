@@ -47821,6 +47821,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e91452a2-0c28-5c3e-bc42-03d01c92ed61",
+        "address": "11650-Ne-Glisan-St-Portland-OR-97220",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1052,
+        "listed_at": "2026-07-20T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.543022,
+          45.526062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e92b06df-82a8-52cf-bc97-120ccb2d9709",
         "address": "11216-Barbarosa-Dr-Dallas-TX-75228",
         "beds": 2,
@@ -51238,6 +51259,27 @@
         "coordinates": [
           -116.545163,
           33.868562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa0a520b-22fe-53bd-a304-7796e7bc0c1a",
+        "address": "8580-Cedar-Creek-Ln-Greenville-TX-75402",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2788,
+        "listed_at": "2026-07-20T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.085791,
+          33.091248
         ]
       }
     },
