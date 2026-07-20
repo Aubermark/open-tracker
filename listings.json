@@ -14998,6 +14998,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46c64f5e-5c7d-5860-860e-84746a1ce9ab",
+        "address": "9809-Buckeye-St-Nw-Albuquerque-NM-87114",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3066,
+        "listed_at": "2026-07-20T06:00:14.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668249,
+          35.189919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46e13aa2-5723-5605-8e6d-8bc45a371912",
         "address": "6200-St-James-Pl-Denton-TX-76210",
         "beds": 3,
@@ -16651,27 +16672,6 @@
         "coordinates": [
           -80.469286,
           35.607024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "52025e49-a926-5113-8e09-877b96179ab2",
-        "address": "426-Heatherwood-Dr-Oswego-IL-60543",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3866,
-        "listed_at": "2026-07-01T16:00:04.000Z",
-        "days_on_market": "76",
-        "current_price": 625000,
-        "price_label": "$625K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.385718,
-          41.690058
         ]
       }
     },
@@ -51349,27 +51349,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "fe469b0a-69ce-52f0-892a-917a849c7f72",
-        "address": "1370-Providence-Dr-Lawrenceville-GA-30044",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 2767,
-        "listed_at": "2026-07-17T21:10:04.000Z",
-        "days_on_market": ">147",
-        "current_price": 475000,
-        "price_label": "$475K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.017292,
-          33.908426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "fe4a4276-6367-59f7-a735-a04e0162fe3b",
         "address": "2604-Leo-Dr-Garland-TX-75044",
         "beds": 3,
@@ -51763,27 +51742,6 @@
         "coordinates": [
           -112.319661,
           33.418741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ffd499c3-2e21-5fe5-98ab-827493570795",
-        "address": "656-Mac-Beth-Dr-Avon-IN-46123",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2450,
-        "listed_at": "2026-07-18T06:51:51.000Z",
-        "days_on_market": "25",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.403507,
-          39.772198
         ]
       }
     },
