@@ -18274,27 +18274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59833cbf-1be7-5de8-a2fd-ec209afe0ca2",
-        "address": "2259-Hawks-Bluff-Trl-Lawrenceville-GA-30044",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1712,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "28",
-        "current_price": 279000,
-        "price_label": "$279K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.074542,
-          33.958612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "599d3955-1102-5d62-b610-8938befb1d55",
         "address": "1308-Seburn-Rd-Apopka-FL-32703",
         "beds": 3,
@@ -51721,6 +51700,27 @@
         "coordinates": [
           -96.667005,
           33.030432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fcba158c-b939-5f01-92e9-e4a058a2793c",
+        "address": "153-Courtney-Oak-Dr-West-Columbia-SC-29170",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1270,
+        "listed_at": "2026-07-20T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.163959,
+          33.95191
         ]
       }
     },
