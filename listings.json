@@ -6325,6 +6325,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e85dfe8-bf12-4873-95f8-d6f7a6831257",
+        "address": "1165-Eagleston-Way-Blythewood-SC-29016",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2322,
+        "listed_at": "2026-07-20T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.894056,
+          34.202247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1eaa20e1-e5a7-59d8-88ee-43482e05544e",
         "address": "4036-White-Opal-St-Las-Vegas-NV-89130",
         "beds": 5,
@@ -9091,6 +9112,27 @@
         "coordinates": [
           -81.504622,
           28.055048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2cd33f41-f5ea-584a-b229-476b77e45b0e",
+        "address": "1040-E-Magnolia-Loop-Madison-GA-30650",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2807,
+        "listed_at": "2026-07-20T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45531,
+          33.532034
         ]
       }
     },
@@ -14362,6 +14404,27 @@
         "coordinates": [
           -117.350116,
           33.976529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "43abe4bc-47b7-5f9b-be96-ce83a091d86f",
+        "address": "1409-Baltz-Dr-Joliet-IL-60431",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3418,
+        "listed_at": "2026-07-20T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.244627,
+          41.547661
         ]
       }
     },
@@ -22195,6 +22258,27 @@
         "coordinates": [
           -97.622823,
           35.549777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6bee283c-cda8-5d7c-a564-387a38a41c2e",
+        "address": "3041-Turner-Church-Rd-Mc-Donough-GA-30252",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4332,
+        "listed_at": "2026-07-20T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.050656,
+          33.479279
         ]
       }
     },
@@ -44308,27 +44392,6 @@
         "coordinates": [
           -84.208543,
           34.092334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d7e11a30-9322-535e-8c37-1297c258bb16",
-        "address": "5209-Heelands-Ct-Raleigh-NC-27610",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2100,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "47",
-        "current_price": 321000,
-        "price_label": "$321K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.555342,
-          35.757721
         ]
       }
     },
