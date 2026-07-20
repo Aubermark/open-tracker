@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c433801-9693-5f1c-9843-6b9a2ba3b6de",
+        "address": "13478-Nw-9th-Rd-Newberry-FL-32669",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3003,
+        "listed_at": "2026-07-20T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48633,
+          29.661892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c9db0b8-bd42-45f0-b9eb-389419a6eac9",
         "address": "154-Catalpa-Rd-Milner-GA-30257",
         "beds": 4,
@@ -36328,6 +36349,27 @@
         "coordinates": [
           -82.535194,
           27.608164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b21a9d39-d8a0-5419-8556-aa0590288908",
+        "address": "6383-S-Lauritzen-Dr-Taylorsville-UT-84129",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1178,
+        "listed_at": "2026-07-20T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.950898,
+          40.635232
         ]
       }
     },
