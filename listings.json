@@ -45742,6 +45742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e0bf6d56-fd26-5dc4-b778-55e4aae37dcf",
+        "address": "1140-Bancroft-St-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1250,
+        "listed_at": "2026-07-20T09:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 304000,
+        "price_label": "$304K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.244548,
+          28.900071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e0c367c2-b894-56a1-b645-ee0a98e1d549",
         "address": "2711-Mossgrove-Park-San-Antonio-TX-78230",
         "beds": 4,
