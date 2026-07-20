@@ -7417,27 +7417,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "250c2863-f53d-5aa6-af8d-501cf4e37dca",
-        "address": "2460-Fernwood-Ln-Perris-CA-92570",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1445,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "49",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.216914,
-          33.744199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "252c2e00-ce46-5b63-97aa-8346e204d02a",
         "address": "1138-S-St-Andrews-Pl-Los-Angeles-CA-90019",
         "beds": 4,
@@ -39625,6 +39604,27 @@
         "coordinates": [
           -81.24774,
           28.56025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1224a30-d51b-50a5-852b-c1b8ee86363d",
+        "address": "201-Bridlewood-Dr-Saint-Paul-MN-55119",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1755,
+        "listed_at": "2026-07-20T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.013471,
+          44.947253
         ]
       }
     },
