@@ -1873,6 +1873,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "083cca21-0c56-5bd8-82cc-4369c97ba309",
+        "address": "856-Glenway-Dr-Atlanta-GA-30344",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1205,
+        "listed_at": "2026-07-20T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 198000,
+        "price_label": "$198K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.417137,
+          33.682495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08fa09d0-208c-538d-acbc-18b189369108",
         "address": "5211-E-20th-St-Tucson-AZ-85711",
         "beds": 3,
@@ -6382,6 +6403,27 @@
         "coordinates": [
           -81.204589,
           34.067015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1f0bf5d3-1dea-51de-ac1d-e7376a925316",
+        "address": "953-Balto-Dr-Shelbyville-IN-46176",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1856,
+        "listed_at": "2026-07-20T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.755932,
+          39.510551
         ]
       }
     },
@@ -42046,27 +42088,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ce4a68e3-64be-58f7-acb8-61c97c86c3ca",
-        "address": "41-Hicks-St-Chicopee-MA-01020",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1008,
-        "listed_at": "2026-06-05T15:30:03.000Z",
-        "days_on_market": "45",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.566799,
-          42.146747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ce7c58fc-f34f-5856-969f-8b8abcfad3a7",
         "address": "5150-Brookfield-Ct-Antioch-CA-94531",
         "beds": 3,
@@ -42691,6 +42712,27 @@
         "coordinates": [
           -94.586255,
           39.172526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d12910c2-c449-5bd5-b758-b5c256007220",
+        "address": "4379-Inns-Brook-Dr-Snellville-GA-30039",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2070,
+        "listed_at": "2026-07-20T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.007298,
+          33.792511
         ]
       }
     },
@@ -50887,6 +50929,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f8a9a66f-cce6-54d4-8683-f8a3c65b8d32",
+        "address": "1301-Lucaya-Ave-Venice-FL-34285",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1791,
+        "listed_at": "2026-07-20T21:20:05.000Z",
+        "days_on_market": "69",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.421002,
+          27.104863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f8b00880-91f8-51be-9fac-b66afe32469d",
         "address": "528-Bellissimo-Pl-Howey-In-The-Hills-FL-34737",
         "beds": 4,
@@ -51931,27 +51994,6 @@
         "coordinates": [
           -96.724088,
           33.02231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe22d05b-56c8-554f-94c7-c981196acdc0",
-        "address": "5720-Kneeland-Ln-Tampa-FL-33625",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1328,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "31",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.558695,
-          28.075315
         ]
       }
     },
