@@ -3595,6 +3595,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11c2093f-b254-52be-9b71-32fb74b5475b",
+        "address": "911-Prior-Ct-Virginia-Beach-VA-23462",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1565,
+        "listed_at": "2026-07-20T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.105919,
+          36.806197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11ebe293-bf73-4a8b-8198-90163ac7ce3a",
         "address": "2714-Green-Ash-Ln-Knoxville-TN-37932",
         "beds": 5,
@@ -7789,6 +7810,27 @@
         "coordinates": [
           -78.794692,
           35.774027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "273d7047-34c4-5353-b139-1402ce32ea96",
+        "address": "4307-Greenwood-Dr-Portsmouth-VA-23701",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-07-20T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.367585,
+          36.800063
         ]
       }
     },
@@ -21271,6 +21313,27 @@
         "coordinates": [
           -84.594581,
           42.766711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6876dbfb-fc37-533f-8a41-250e9fd4fa08",
+        "address": "604-Meadowbrook-Dr-Spartanburg-SC-29307",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2412,
+        "listed_at": "2026-07-20T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.856945,
+          34.970654
         ]
       }
     },
@@ -38917,6 +38980,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bf3bcb4c-0598-5c79-8d8f-71c326a630fe",
+        "address": "7508-Free-Ct-Charlotte-NC-28216",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1491,
+        "listed_at": "2026-07-20T16:40:04.000Z",
+        "days_on_market": ">148",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.855829,
+          35.319976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bf40baa9-c572-58e1-add0-a2e214dce433",
         "address": "3100-Conrad-Ct-Kissimmee-FL-34744",
         "beds": 4,
@@ -42712,27 +42796,6 @@
         "coordinates": [
           -104.975416,
           40.123741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d2dc9abf-b6a1-5c83-b3fe-194f3b606ea7",
-        "address": "3512-Majestic-Ln-Bowie-MD-20715",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1887,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": ">148",
-        "current_price": 472000,
-        "price_label": "$472K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.736997,
-          38.983053
         ]
       }
     },
@@ -50965,6 +51028,27 @@
         "coordinates": [
           -116.545163,
           33.868562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa0bbb11-3a81-5d2f-bea5-e7ca7b0851c0",
+        "address": "2410-Ne-3rd-Ave-Ocala-FL-34470",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1132,
+        "listed_at": "2026-07-20T16:40:04.000Z",
+        "days_on_market": "27",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.134267,
+          29.211849
         ]
       }
     },
