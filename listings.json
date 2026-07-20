@@ -14683,6 +14683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4549ba79-a3ce-5c54-8b56-3643eeb96a91",
+        "address": "8312-Snow-Goose-Way-Fort-Worth-TX-76118",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3352,
+        "listed_at": "2026-07-20T18:30:04.000Z",
+        "days_on_market": "83",
+        "current_price": 544000,
+        "price_label": "$544K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.198602,
+          32.800472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "454d9341-133f-5894-8887-a29cb03b97eb",
         "address": "2298-Camden-Dr-Sw-Marietta-GA-30064",
         "beds": 6,
@@ -17344,27 +17365,6 @@
         "coordinates": [
           -80.793207,
           35.324182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5603f625-050a-5cc4-9ae9-07299063731b",
-        "address": "103-N-63rd-St-Mesa-AZ-85205",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1524,
-        "listed_at": "2026-07-08T21:50:03.000Z",
-        "days_on_market": "12",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.695189,
-          33.41823
         ]
       }
     },
