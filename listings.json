@@ -8404,6 +8404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "296559ef-1b53-55e1-b574-678919bb4a36",
+        "address": "310-Terrace-St-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1251,
+        "listed_at": "2026-07-20T14:00:05.000Z",
+        "days_on_market": ">148",
+        "current_price": 203000,
+        "price_label": "$203K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.258645,
+          33.236697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "296b85e8-4ece-5b08-914a-29aa016810e4",
         "address": "1210-Fillmore-Dr-San-Antonio-TX-78245",
         "beds": 4,
@@ -30553,6 +30574,27 @@
         "coordinates": [
           -80.925758,
           35.415252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9572e039-41d0-5232-a55b-b89d13d23fa3",
+        "address": "447-Golf-Club-Ln-Springfield-TN-37172",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2026,
+        "listed_at": "2026-07-20T14:00:04.000Z",
+        "days_on_market": "84",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.875623,
+          36.484278
         ]
       }
     },
