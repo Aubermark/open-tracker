@@ -21319,6 +21319,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6754b9a2-a627-5630-b18d-451cd6ad0f5e",
+        "address": "1205-Whistling-Dove-Dr-Little-Elm-TX-75068",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3115,
+        "listed_at": "2026-07-20T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.942091,
+          33.212321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6754f403-a31d-5e97-b7c7-b1e3cef6fd02",
         "address": "4920-Ocean-Ln-Elk-Grove-CA-95757",
         "beds": 2,
@@ -50419,27 +50440,6 @@
         "coordinates": [
           -84.288214,
           33.960399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f670bb16-4759-5b28-bbb7-3f40dc2783ec",
-        "address": "8717-Hunters-Creek-Dr-Fort-Worth-TX-76123",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2085,
-        "listed_at": "2026-07-10T06:01:23.000Z",
-        "days_on_market": "11",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.387729,
-          32.613676
         ]
       }
     },
