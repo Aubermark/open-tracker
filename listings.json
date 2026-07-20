@@ -592,6 +592,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01bc99dc-6f16-5120-95d2-470660273d6e",
+        "address": "912-Hollycrest-Dr-Champaign-IL-61821",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1500,
+        "listed_at": "2026-07-20T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.279691,
+          40.106617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bfb1dc-d0ad-5dae-9796-ef24e5c6fab7",
         "address": "3421-Sandy-Trail-Ln-Plano-TX-75023",
         "beds": 5,
@@ -12520,6 +12541,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d12a72f-03b1-5761-9659-f7ce85aa533f",
+        "address": "4209-Hickory-St-Macclenny-FL-32063",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2976,
+        "listed_at": "2026-07-20T17:20:04.000Z",
+        "days_on_market": "96",
+        "current_price": 479000,
+        "price_label": "$479K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.110801,
+          30.250311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d199ab5-38ff-5596-ae61-8daf05e635c1",
         "address": "100-Mary-Mack-Ln-Fort-Mill-SC-29715",
         "beds": 5,
@@ -23608,27 +23650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "73e5d707-25e6-5639-abba-4d00617f722e",
-        "address": "37-N-Sherman-Dr-Indianapolis-IN-46201",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1754,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "45",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.101826,
-          39.770323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "73f20bae-d8af-5a61-8359-35b14f2611da",
         "address": "13637-Heather-Hills-Dr-Burnsville-MN-55337",
         "beds": 2,
@@ -24169,27 +24190,6 @@
         "coordinates": [
           -84.204167,
           34.063718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "762f7267-1808-5d4a-a83a-ac4304fdec42",
-        "address": "2320-Bantry-Ln-Arlington-TX-76002",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2939,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "52",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.067053,
-          32.633506
         ]
       }
     },
@@ -37258,6 +37258,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6ac8db0-c895-5fc2-9670-eb50e570cb9f",
+        "address": "3920-Cedric-Ln-Dublin-OH-43016",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1946,
+        "listed_at": "2026-07-20T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12114,
+          40.06708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6b0e66b-f337-518a-a1ed-d16e364ef4ac",
         "address": "4220-Iris-Pearl-Ave-North-Las-Vegas-NV-89031",
         "beds": 5,
@@ -41704,27 +41725,6 @@
         "coordinates": [
           -97.647438,
           35.483959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cda0850f-4c6a-5b2a-a598-9660f821747a",
-        "address": "3788-Seminole-Dr-Orlando-FL-32812",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1925,
-        "listed_at": "2026-07-17T10:30:03.000Z",
-        "days_on_market": "3",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.335071,
-          28.45951
         ]
       }
     },
