@@ -4918,6 +4918,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "175f4b66-a04a-5b0a-87ec-5f4c104e1633",
+        "address": "1030-Martin-Blvd-Unit-1-Orlando-FL-32825",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1430,
+        "listed_at": "2026-07-20T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.258358,
+          28.558641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
         "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -48844,6 +48865,27 @@
         "coordinates": [
           -86.588701,
           36.157775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0d156b3-91eb-5bd3-ad93-6f2704bead3c",
+        "address": "105-Gentle-Rio-Ct-Garner-NC-27529",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-07-20T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.619244,
+          35.719909
         ]
       }
     },
