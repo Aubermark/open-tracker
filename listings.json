@@ -41941,6 +41941,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce1fab90-7ce9-5cba-9265-dd54f6623cb8",
+        "address": "10131-E-Axe-Handle-Ct-Tucson-AZ-85748",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2908,
+        "listed_at": "2026-07-20T19:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 518000,
+        "price_label": "$518K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.776188,
+          32.207891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce4a68e3-64be-58f7-acb8-61c97c86c3ca",
         "address": "41-Hicks-St-Chicopee-MA-01020",
         "beds": 3,
