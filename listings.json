@@ -11218,6 +11218,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36becb36-2431-5ed7-bc53-6d2511bec7d7",
+        "address": "639-Cedrick-Ln-Stone-Mountain-GA-30087",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1977,
+        "listed_at": "2026-07-20T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145853,
+          33.779281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36e1eac4-27bc-5f3a-8448-775d121ac5b5",
         "address": "100-Dubb-Ln-Red-Oak-TX-75154",
         "beds": 3,
@@ -11737,6 +11758,27 @@
         "coordinates": [
           -86.582438,
           35.950715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39fd89b0-4a45-54d9-92db-c309d74b8183",
+        "address": "920-Elm-St-Burlington-NC-27217",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 824,
+        "listed_at": "2026-07-20T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 157000,
+        "price_label": "$157K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.447496,
+          36.108617
         ]
       }
     },
@@ -45589,27 +45631,6 @@
         "coordinates": [
           -76.442412,
           37.171755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "de266126-00f1-5c48-b9d1-406e7d8a5b6d",
-        "address": "1401-E-9th-St-Anniston-AL-36207",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1319,
-        "listed_at": "2026-07-10T19:20:04.000Z",
-        "days_on_market": "76",
-        "current_price": 132000,
-        "price_label": "$132K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.812161,
-          33.655975
         ]
       }
     },
