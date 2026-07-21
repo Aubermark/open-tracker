@@ -16678,6 +16678,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "50b73046-f2c9-58cf-b541-be00a3d905dc",
+        "address": "5105-W-Neptune-Way-Tampa-FL-33609",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 5006,
+        "listed_at": "2026-07-21T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 2450000,
+        "price_label": "$2.450M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.529015,
+          27.940254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "50f86fa2-3372-5a06-bf55-59af7940ff15",
         "address": "7807-Bideford-Ln-Houston-TX-77070",
         "beds": 4,
@@ -25078,6 +25099,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79cd3181-981e-571e-b8d4-3a2794d7f281",
+        "address": "2242-E-Dana-Dr-Deltona-FL-32738",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-07-21T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.190753,
+          28.928388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a10e9fa-fb7e-592c-8cd1-9b01d490bf06",
         "address": "10050-Montrose-Dr-Nw-Charlotte-NC-28269",
         "beds": 4,
@@ -30259,6 +30301,27 @@
         "coordinates": [
           -81.086995,
           35.215581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92f34b8a-60d0-5143-851d-f6734e7b535f",
+        "address": "332-Sprucewood-Rd-Lake-Mary-FL-32746",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2040,
+        "listed_at": "2026-07-21T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311235,
+          28.736569
         ]
       }
     },
