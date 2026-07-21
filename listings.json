@@ -12709,6 +12709,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3cc25461-b734-436e-9945-a8a996c4992b",
+        "address": "14549-Brecon-Ln-Carmel-IN-46074",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1980,
+        "listed_at": "2026-07-21T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.194076,
+          39.998314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3cc352bd-6966-5f35-a85c-f1aa1f2405cb",
         "address": "626-S-67th-St-Tampa-FL-33619",
         "beds": 2,
@@ -15727,6 +15748,27 @@
         "coordinates": [
           -93.565352,
           44.451601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "49ba664e-ed58-5499-85a8-8d049b7f7da0",
+        "address": "1254-Wynford-Colony-Sw-Marietta-GA-30064",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2378,
+        "listed_at": "2026-07-21T21:00:05.000Z",
+        "days_on_market": "39",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.640532,
+          33.917711
         ]
       }
     },
@@ -27409,6 +27451,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "83f1c3ac-5b5f-5080-a86e-509405616146",
+        "address": "1515-E-Bloch-Rd-Phoenix-AZ-85040",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1580,
+        "listed_at": "2026-07-21T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.049038,
+          33.401665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "83f8afed-8a70-51ab-9e68-c780c5e4c914",
         "address": "58-Crossvine-Ct-Columbia-SC-29229",
         "beds": 3,
@@ -30427,6 +30490,27 @@
         "coordinates": [
           -97.112181,
           32.631488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92038d3d-f0db-4452-8063-b0a485ae55f5",
+        "address": "3970-Hibiscus-Dr-Little-River-SC-29566",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1838,
+        "listed_at": "2026-07-21T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.630099,
+          33.879729
         ]
       }
     },
@@ -34297,6 +34381,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a49afcae-779b-482e-bab3-f2626db0c9b9",
+        "address": "29-Lone-Cypress-Way-Saint-Augustine-FL-32092",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1600,
+        "listed_at": "2026-07-21T21:00:05.000Z",
+        "days_on_market": "29",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46018,
+          29.93906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a4e3b0b4-fa22-54e7-b3e7-31fa61cbf946",
         "address": "14273-S-Heartstone-Cir-Herriman-UT-84096",
         "beds": 3,
@@ -35446,6 +35551,27 @@
         "coordinates": [
           -112.057023,
           33.633486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa7793dd-3b83-51f9-915a-144b14970418",
+        "address": "12169-Village-Woods-Dr-Cincinnati-OH-45241",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3043,
+        "listed_at": "2026-07-21T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38513,
+          39.295653
         ]
       }
     },
@@ -38539,27 +38665,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b964255f-b9d1-588d-86ed-802a5ead862e",
-        "address": "14-Elk-Crossing-Dr-Spring-TX-77381",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2402,
-        "listed_at": "2026-06-20T06:01:40.000Z",
-        "days_on_market": "32",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.516674,
-          30.172965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b97088f6-0233-5eb2-ba08-c9d0b0ee29fd",
         "address": "14210-Xenon-St-Nw-Unit-4-Ramsey-MN-55303",
         "beds": 4,
@@ -41095,27 +41200,6 @@
         "coordinates": [
           -105.319435,
           38.079512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c6b7bfcb-3814-564e-ad0f-a73d5f35214c",
-        "address": "3805-Brookfield-Dr-Arlington-TX-76001",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1888,
-        "listed_at": "2026-06-23T06:31:31.000Z",
-        "days_on_market": "29",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.16821,
-          32.647158
         ]
       }
     },
@@ -49396,27 +49480,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ed1ebf54-dc12-5f70-9d42-076959649aca",
-        "address": "9741-Flooded-Field-Dr-Ladson-SC-29456",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1742,
-        "listed_at": "2026-05-28T05:41:11.000Z",
-        "days_on_market": "95",
-        "current_price": 357000,
-        "price_label": "$357K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.12531,
-          32.963033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ed28e651-e7c3-5ff1-9283-f090853400b7",
         "address": "5016-Watercrest-Trl-Belmont-NC-28012",
         "beds": 3,
@@ -52729,6 +52792,27 @@
         "coordinates": [
           -84.820728,
           34.265927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd956750-a8d1-58e4-b5c7-f07186b4522a",
+        "address": "2232-E-Cochise-Ave-Apache-Junction-AZ-85119",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2183,
+        "listed_at": "2026-07-21T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.521847,
+          33.389916
         ]
       }
     },
