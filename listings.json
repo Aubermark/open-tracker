@@ -25288,6 +25288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ad77625-8bd1-595a-a44f-8be1c9198f23",
+        "address": "42-Council-Ct-Falling-Waters-WV-25419",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1687,
+        "listed_at": "2026-07-21T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.880903,
+          39.574886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ad97038-9388-5b0f-8d2a-824cc7c27586",
         "address": "8505-Troutman-Ln-Knoxville-TN-37931",
         "beds": 3,
