@@ -16006,6 +16006,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4c3a13ef-24c8-54a4-b2d9-d9f57ee4941b",
+        "address": "3740-Ballejo-Ct-W-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-07-21T17:00:23.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.749418,
+          30.267244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4c43e988-d673-5ca5-bd7b-8af530589c4b",
         "address": "29918-N-225th-Ave-Wittmann-AZ-85361",
         "beds": 3,
@@ -27199,6 +27220,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8404c19b-3fe7-5ba5-a51f-9224b9ab8320",
+        "address": "9983-Ridgeline-Dr-Montgomery-Village-MD-20886",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1196,
+        "listed_at": "2026-07-21T17:00:23.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.204495,
+          39.175474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "840c9b8d-2633-5595-8bbc-61f691e4c81d",
         "address": "4022-Lake-Cypress-Cir-Houston-TX-77068",
         "beds": 5,
@@ -38239,6 +38281,27 @@
         "coordinates": [
           -111.576025,
           33.197324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b988018e-d320-566e-98b3-5f992d7e9cd0",
+        "address": "506-Hillview-Dr-Durham-NC-27703",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3539,
+        "listed_at": "2026-07-21T17:00:23.000Z",
+        "days_on_market": "56",
+        "current_price": 489000,
+        "price_label": "$489K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.793595,
+          35.970223
         ]
       }
     },
