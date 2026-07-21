@@ -5128,6 +5128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1803efed-e63f-5a1c-8bae-3e527032c99c",
+        "address": "3080-E-Powell-Way-Gilbert-AZ-85298",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2938,
+        "listed_at": "2026-07-21T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.723098,
+          33.238821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1816e566-eff4-5dd7-b57b-f27e8a73018d",
         "address": "1821-Monroe-Dr-Ne-Atlanta-GA-30324",
         "beds": 3,
@@ -11176,27 +11197,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "35f5d614-6690-51ce-a3e4-3a75644b9b13",
-        "address": "1033-Newton-Ave-Rock-Hill-SC-29732",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2064,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "42",
-        "current_price": 341000,
-        "price_label": "$341K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.094383,
-          34.994843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3611cdc8-6c66-51c8-87b1-2591ef697c66",
         "address": "1838-N-62nd-St-Kansas-City-KS-66102",
         "beds": 3,
@@ -16909,27 +16909,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "522b5bf0-4600-5f1f-a431-ea7811704a01",
-        "address": "6-Susan-Cir-Carver-MA-02330",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 3533,
-        "listed_at": "2026-07-11T19:10:03.000Z",
-        "days_on_market": "10",
-        "current_price": 825000,
-        "price_label": "$825K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.786627,
-          41.933546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5230aef7-905c-5083-97f4-fd07c3af3869",
         "address": "912-Hackberry-St-Copperas-Cove-TX-76522",
         "beds": 3,
@@ -16987,6 +16966,27 @@
         "coordinates": [
           -84.352569,
           33.645131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "52d02e86-e620-587f-b368-0db3defb7819",
+        "address": "967-Lamplighter-Dr-Nw-Palm-Bay-FL-32907",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1176,
+        "listed_at": "2026-07-21T17:40:04.000Z",
+        "days_on_market": "96",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.707263,
+          28.022206
         ]
       }
     },
@@ -20689,27 +20689,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6361d586-e97f-5183-9317-bf9190ae1329",
-        "address": "6081-N-Curry-Ave-Tucson-AZ-85741",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1443,
-        "listed_at": "2026-07-15T15:10:03.000Z",
-        "days_on_market": "6",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.032074,
-          32.317474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "63702f82-f25c-557c-9f54-b91ae905e928",
         "address": "2631-Alabaster-Ave-Orlando-FL-32833",
         "beds": 3,
@@ -21103,27 +21082,6 @@
         "coordinates": [
           -83.08215,
           40.316831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65a97276-7762-5972-9df4-c2028f3eb969",
-        "address": "713-Masters-Way-Mount-Juliet-TN-37122",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3442,
-        "listed_at": "2026-07-14T16:30:02.000Z",
-        "days_on_market": "7",
-        "current_price": 605000,
-        "price_label": "$605K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.47752,
-          36.127895
         ]
       }
     },
@@ -27928,27 +27886,6 @@
         "coordinates": [
           -95.675626,
           30.118411
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "86985824-0c33-5c3d-8d67-4d18180dbf5c",
-        "address": "215-Twin-Brook-Way-Lawrenceville-GA-30043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1452,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "52",
-        "current_price": 341000,
-        "price_label": "$341K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.016228,
-          33.977717
         ]
       }
     },
@@ -38056,6 +37993,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8ad6576-cdd1-5bba-a94a-64de43f8924d",
+        "address": "8613-Cottonway-Ln-Tampa-FL-33635",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-07-21T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.619732,
+          28.030706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8b4ddd8-1119-53bf-8420-89e71f21d2d6",
         "address": "8369-Sotheby-Dr-Indianapolis-IN-46239",
         "beds": 3,
@@ -41746,6 +41704,27 @@
         "coordinates": [
           -77.668145,
           37.421206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cbcee632-492b-5628-a990-99b5f12409a8",
+        "address": "305-Red-Fox-Run-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1673,
+        "listed_at": "2026-07-21T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.182257,
+          32.98883
         ]
       }
     },
