@@ -8698,6 +8698,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b1aa1d8-01c4-561c-85ce-efbbafbb244a",
+        "address": "1314-S-Braddock-St-Winchester-VA-22601",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-07-21T15:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.171271,
+          39.173116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b217529-331e-5b85-882e-19795d65235f",
         "address": "9190-Cypress-Dr-Thornton-CO-80229",
         "beds": 3,
@@ -8734,27 +8755,6 @@
         "coordinates": [
           -95.484908,
           30.091522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2b2b43c2-fa3f-50b8-8233-69dd924b62a3",
-        "address": "6523-Hunters-Creek-Ln-Baytown-TX-77521",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2447,
-        "listed_at": "2026-07-20T13:20:04.000Z",
-        "days_on_market": "76",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.928797,
-          29.805816
         ]
       }
     },
@@ -17323,6 +17323,27 @@
         "coordinates": [
           -105.009477,
           39.795102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "548e7c96-8a2b-5fbc-ac67-5997e9b6e453",
+        "address": "5351-Bonniemae-Way-Sacramento-CA-95820",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1197,
+        "listed_at": "2026-07-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.451141,
+          38.526906
         ]
       }
     },
@@ -48256,6 +48277,27 @@
         "coordinates": [
           -80.114097,
           33.139104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea0c486a-3b01-5a73-ae30-13fadd19e0e8",
+        "address": "7130-Creeksong-Dr-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1758,
+        "listed_at": "2026-07-21T15:00:04.000Z",
+        "days_on_market": "33",
+        "current_price": 289000,
+        "price_label": "$289K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.761164,
+          33.761773
         ]
       }
     },
