@@ -7039,6 +7039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22014d43-69f7-565e-ad25-963277e0d17b",
+        "address": "503-Blake-St-Wray-CO-80758",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1288,
+        "listed_at": "2026-07-22T08:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.225188,
+          40.076809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "223f7d8d-8c23-55c1-acd1-31fc1c17dd75",
         "address": "276-Circle-Way-Jarrell-TX-76537",
         "beds": 3,
