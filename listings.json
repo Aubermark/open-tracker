@@ -907,6 +907,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02d9a09c-e8d3-53e3-983a-b9c60a7e8bd1",
+        "address": "22864-Finch-St-Grand-Terrace-CA-92313",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1698,
+        "listed_at": "2026-07-22T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.305684,
+          34.029093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02f51ba2-d965-560e-875b-c63b25935230",
         "address": "100-Prescott-Dr-Canton-GA-30114",
         "beds": 3,
@@ -49579,6 +49600,27 @@
         "coordinates": [
           -111.822611,
           33.326892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec9472a7-7d39-52fc-9237-fb2ec60e8380",
+        "address": "4409-Idlewood-Ln-Tucker-GA-30084",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1594,
+        "listed_at": "2026-07-22T14:10:04.000Z",
+        "days_on_market": ">150",
+        "current_price": 172000,
+        "price_label": "$172K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21069,
+          33.835381
         ]
       }
     },
