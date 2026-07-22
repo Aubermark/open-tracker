@@ -43159,6 +43159,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d01ca691-13c5-524a-be5c-ffb236cdcfc7",
+        "address": "532-W-860-S-Tremonton-UT-84337",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2017,
+        "listed_at": "2026-07-22T12:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 387000,
+        "price_label": "$387K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.172656,
+          41.700778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d048f576-60a9-5701-b735-7a77be28efb0",
         "address": "6937-Bucksland-Dr-Ooltewah-TN-37363",
         "beds": 3,
