@@ -4246,6 +4246,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13e3444b-4eb3-5410-8e8a-a727ca5be7b3",
+        "address": "11963-Henderson-Dr-Frisco-TX-75035",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2691,
+        "listed_at": "2026-07-22T21:30:05.000Z",
+        "days_on_market": "83",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774021,
+          33.178701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13fa07ff-55b1-58a6-beba-0f21726757ad",
         "address": "1422-Oakmont-Dr-Roseville-CA-95661",
         "beds": 5,
@@ -14709,10 +14730,10 @@
         "beds": 4,
         "baths": 3.5,
         "sqft": 3870,
-        "listed_at": "2026-06-12T18:40:02.000Z",
+        "listed_at": "2026-07-22T21:30:04.000Z",
         "days_on_market": "40",
-        "current_price": 1250000,
-        "price_label": "$1.250M"
+        "current_price": 1190000,
+        "price_label": "$1.190M"
       },
       "geometry": {
         "type": "Point",
@@ -17260,27 +17281,6 @@
         "coordinates": [
           -83.979322,
           33.823115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "532d1749-35c2-5c2b-8571-4489fa5432db",
-        "address": "501-W-Clover-Park-Dr-Fort-Worth-TX-76140",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2451,
-        "listed_at": "2026-05-21T06:29:41.000Z",
-        "days_on_market": "132",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.326714,
-          32.600503
         ]
       }
     },
@@ -24001,6 +24001,27 @@
         "coordinates": [
           -84.36471,
           33.467705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "720dcd50-63d1-544e-a6ff-3a201aa316d5",
+        "address": "1657-Gresham-Ct-Rock-Hill-SC-29730",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1018,
+        "listed_at": "2026-07-22T21:30:05.000Z",
+        "days_on_market": ">150",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.027717,
+          34.876571
         ]
       }
     },
@@ -41500,6 +41521,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6568d78-9534-5ca9-90c4-08e605b29b79",
+        "address": "3805-Lenna-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2570,
+        "listed_at": "2026-07-22T21:30:05.000Z",
+        "days_on_market": "75",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.011612,
+          33.808983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c67fd9aa-e341-56bd-97d6-405b8b6b7c6c",
         "address": "1913-Ne-Grant-Cir-Blue-Springs-MO-64014",
         "beds": 3,
@@ -51784,27 +51826,6 @@
         "coordinates": [
           -97.385635,
           32.990296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f5ea9c39-f9f6-4003-bc1d-d705e1e5d976",
-        "address": "82-Buckhorn-Branch-Park-Clayton-NC-27520",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2611,
-        "listed_at": "2026-07-02T05:50:45.000Z",
-        "days_on_market": "89",
-        "current_price": 367000,
-        "price_label": "$367K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.43864,
-          35.632261
         ]
       }
     },
