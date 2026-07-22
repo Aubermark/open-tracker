@@ -2923,27 +2923,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0d9bf4f0-8768-566b-af84-69069be92fd9",
-        "address": "5202-E-78th-Pl-Tulsa-OK-74136",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2420,
-        "listed_at": "2026-06-18T18:00:02.000Z",
-        "days_on_market": "34",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.91738,
-          36.05014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0d9d3cdb-b25e-4965-81ca-4f05e2ffd358",
         "address": "2307-Burney-Falls-Ln-Davenport-FL-33837",
         "beds": 3,
@@ -7390,6 +7369,27 @@
         "coordinates": [
           -104.517919,
           40.113784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "23f5e103-814b-5fdf-a5f6-22a7ad782020",
+        "address": "608-E-Navasota-St-Groesbeck-TX-76642",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1116,
+        "listed_at": "2026-07-22T14:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 100000,
+        "price_label": "$100K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.52708,
+          31.518231
         ]
       }
     },
@@ -49459,27 +49459,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ebd586fc-d959-53e5-8f72-eccba52edae5",
-        "address": "603-Marsh-Lake-Rd-Lawrenceville-GA-30045",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1625,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "73",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.957123,
-          33.958018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ec0c29a6-86ac-53fc-a81a-fd2b61055ee8",
         "address": "2775-Ravines-Rd-Middleburg-FL-32068",
         "beds": 4,
@@ -52330,6 +52309,27 @@
         "coordinates": [
           -96.512746,
           33.159183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f99c0808-ecc4-583f-a587-97621942829b",
+        "address": "205-Private-Road-6980-Alba-TX-75410",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1736,
+        "listed_at": "2026-07-22T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.606505,
+          32.717628
         ]
       }
     },
