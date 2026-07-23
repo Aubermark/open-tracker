@@ -16909,6 +16909,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fecbe01-23ee-5039-8bd4-5d2944c6e432",
+        "address": "809-Mary-St-Waycross-GA-31503",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1972,
+        "listed_at": "2026-07-23T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.363849,
+          31.210272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5048d1b6-dec6-523b-a15d-314d9bf1858a",
         "address": "1300-Mills-Cove-Dr-Covington-GA-30016",
         "beds": 4,
@@ -25828,6 +25849,27 @@
         "coordinates": [
           -78.922008,
           34.987146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7a302961-8b9c-532a-a1a0-475412e69c9d",
+        "address": "8404-S-Brookline-Ave-Oklahoma-City-OK-73159",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 934,
+        "listed_at": "2026-07-23T17:30:04.000Z",
+        "days_on_market": "15",
+        "current_price": 115000,
+        "price_label": "$115K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.567897,
+          35.382868
         ]
       }
     },
@@ -35656,6 +35698,27 @@
         "coordinates": [
           -95.444042,
           29.738402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a8c271cb-17e9-5668-9eca-a63d737c17cc",
+        "address": "3504-N-Ann-Arbor-Pl-Oklahoma-City-OK-73122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1517,
+        "listed_at": "2026-07-23T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.608695,
+          35.505838
         ]
       }
     },
@@ -46051,6 +46114,27 @@
         "coordinates": [
           -82.645695,
           27.732407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d8c0df90-1208-5206-b4b9-e9ca01f658fb",
+        "address": "7211-Nw-45th-St-Bethany-OK-73008",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 853,
+        "listed_at": "2026-07-23T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.640004,
+          35.518541
         ]
       }
     },
