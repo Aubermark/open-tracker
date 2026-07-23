@@ -5611,6 +5611,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1957d0e1-3ee1-52ae-af9e-b4f208c433fa",
+        "address": "9301-Cricket-Dr-Killeen-TX-76542",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2386,
+        "listed_at": "2026-07-23T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.754942,
+          31.035985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "195b52a1-a918-5d1d-ae4a-c74e6923fc96",
         "address": "224-Pinecrest-Ct-Roseville-CA-95678",
         "beds": 4,
@@ -12415,27 +12436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b188170-96b1-5533-ac02-90d901368ee4",
-        "address": "33137-Irongate-Dr-Leesburg-FL-34788",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1504,
-        "listed_at": "2026-07-20T10:00:04.000Z",
-        "days_on_market": "3",
-        "current_price": 272000,
-        "price_label": "$272K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.785259,
-          28.832156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -13858,27 +13858,6 @@
         "coordinates": [
           -96.836345,
           33.005995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "40b40c73-36f7-5e00-931e-257d1c8db463",
-        "address": "2884-Kingston-Ave-Grove-City-OH-43123",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1453,
-        "listed_at": "2026-07-06T13:20:03.000Z",
-        "days_on_market": "17",
-        "current_price": 313000,
-        "price_label": "$313K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.080074,
-          39.877168
         ]
       }
     },
@@ -39169,27 +39148,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b88d1b57-514c-56d6-b7f8-5dabaf8aabf2",
-        "address": "2508-W-Francis-Ave-Spokane-WA-99205",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1248,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "69",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.447125,
-          47.715702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b8992c12-a522-5b35-aed1-8d41d57361c3",
         "address": "13655-Audrey-Ln-Largo-FL-33771",
         "beds": 4,
@@ -47044,27 +47002,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "dbe5e82c-451c-5413-8adb-cfdce2a97370",
-        "address": "836-Walter-Ave-Fairfield-OH-45014",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1325,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "50",
-        "current_price": 259000,
-        "price_label": "$259K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.551164,
-          39.346752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dc0d66ad-6135-57da-8d41-38f529e217cf",
         "address": "101-Picadilly-Loop-Summerville-SC-29483",
         "beds": 5,
@@ -47332,6 +47269,27 @@
         "coordinates": [
           -93.010822,
           45.052412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dde7bb0c-f9c2-5f51-a064-366958543133",
+        "address": "4610-Pruett-Dr-Morganton-NC-28655",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1318,
+        "listed_at": "2026-07-23T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.744492,
+          35.680926
         ]
       }
     },
