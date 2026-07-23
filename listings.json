@@ -1705,6 +1705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0784ff46-5133-56a8-a27b-b5e8e4c37ea8",
+        "address": "19219-W-Washington-St-Buckeye-AZ-85326",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2019,
+        "listed_at": "2026-07-23T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.47274,
+          33.447151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
@@ -13591,6 +13612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fda8357-caa7-58d2-96b2-7025b936083e",
+        "address": "701-E-Charlevoix-Ave-Gilbert-AZ-85297",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2945,
+        "listed_at": "2026-07-23T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 760000,
+        "price_label": "$760K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.774831,
+          33.268654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fdaa337-8894-57c2-86bb-6c9ffbd074c3",
         "address": "215-Laurel-Ln-Hemet-CA-92544",
         "beds": 3,
@@ -14005,27 +14047,6 @@
         "coordinates": [
           -75.247365,
           39.934394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "41436a10-2364-5728-a1db-bcf323664659",
-        "address": "701-E-Peoria-St-Paola-KS-66071",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1890,
-        "listed_at": "2026-07-04T16:30:03.000Z",
-        "days_on_market": "49",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.869357,
-          38.571236
         ]
       }
     },
@@ -17266,6 +17287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "536ac4c3-c1a4-5091-bf0d-394e3f6f1f16",
+        "address": "13191-El-Rio-Rd-Victorville-CA-92392",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1113,
+        "listed_at": "2026-07-23T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.333898,
+          34.490196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "536c16ac-45f6-5ead-924f-d917020ff4c9",
         "address": "15285-Cartagena-Ct-Corpus-Christi-TX-78418",
         "beds": 3,
@@ -18667,27 +18709,6 @@
         "coordinates": [
           -111.554614,
           33.224321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5a3260ec-1f4b-54b7-968b-bc95290cae26",
-        "address": "7923-Fawn-Run-Jessup-MD-20794",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3521,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "35",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.814852,
-          39.156876
         ]
       }
     },
@@ -37840,6 +37861,27 @@
         "coordinates": [
           -112.718104,
           33.493489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b2f15c88-489a-5058-910a-caab11826047",
+        "address": "10113-Rosemary-Leaf-Ln-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1555,
+        "listed_at": "2026-07-23T14:10:04.000Z",
+        "days_on_market": ">151",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.342095,
+          27.806417
         ]
       }
     },
