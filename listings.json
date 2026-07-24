@@ -5527,6 +5527,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18bfac07-5523-5ae7-9e38-0cfc610e30ad",
+        "address": "6426-S-G-St-Tacoma-WA-98408",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1450,
+        "listed_at": "2026-07-24T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44082,
+          47.198283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18e7d97f-b467-56c2-adbb-558d4afdb8d2",
         "address": "3713-Ripley-St-Sacramento-CA-95838-18268625",
         "beds": 3,
@@ -17155,6 +17176,27 @@
         "coordinates": [
           -117.426026,
           33.956699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "51d9937b-cb77-55e0-932d-ce748b5fa11a",
+        "address": "6536-Cherokee-Dr-Fairfield-AL-35064",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1575,
+        "listed_at": "2026-07-24T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 125000,
+        "price_label": "$125K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.928416,
+          33.468056
         ]
       }
     },
@@ -48844,6 +48886,27 @@
         "coordinates": [
           -121.899467,
           37.707008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3620d02-9981-5f98-9713-66be60034a9f",
+        "address": "885-W-7th-Avenue-Dr-Broomfield-CO-80020",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2000,
+        "listed_at": "2026-07-24T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.079364,
+          39.925996
         ]
       }
     },
