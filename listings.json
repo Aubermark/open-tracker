@@ -865,6 +865,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02b9da24-a982-51a6-857b-4e8f1752f4ca",
+        "address": "3132-W-Bethany-Home-Rd-Phoenix-AZ-85017",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1414,
+        "listed_at": "2026-07-24T16:27:41.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.127085,
+          33.524303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02c5de42-eb8c-535c-8c31-f7c59df9a9f8",
         "address": "3769-E-Flamingo-Way-Gilbert-AZ-85297",
         "beds": 3,
@@ -6718,27 +6739,6 @@
         "coordinates": [
           -75.610667,
           39.297759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1f85305e-1aa7-57ce-a6c3-ee46e1c6e505",
-        "address": "3105-Bridgewater-Dr-Little-Elm-TX-75068",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3254,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "56",
-        "current_price": 579000,
-        "price_label": "$579K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.900696,
-          33.187965
         ]
       }
     },
@@ -28774,6 +28774,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8735b5e6-5398-5704-806d-ea66000051bf",
+        "address": "7431-Garden-Gate-Dr-Citrus-Heights-CA-95621",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1706,
+        "listed_at": "2026-07-24T16:27:41.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.307541,
+          38.701753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "87573af3-5aff-5334-9a3a-6728c357afe9",
         "address": "29206-Rio-Lobo-Way-Valencia-CA-91354",
         "beds": 3,
@@ -31939,6 +31960,27 @@
         "coordinates": [
           -77.279262,
           38.818785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "962e0ed2-3664-5391-bdd3-2c727bc9dc88",
+        "address": "137-W-Dewey-Ave-Coolidge-AZ-85128",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2000,
+        "listed_at": "2026-07-24T16:27:41.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.516909,
+          32.960763
         ]
       }
     },
@@ -39562,27 +39604,6 @@
         "coordinates": [
           -80.865027,
           35.034595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b9e76dc3-66f6-5a97-a7c4-9d83a2398cb7",
-        "address": "2528-N-Comiskey-Dr-Florence-AZ-85132",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2290,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "45",
-        "current_price": 383000,
-        "price_label": "$383K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.490211,
-          33.056309
         ]
       }
     },
@@ -51427,6 +51448,27 @@
         "coordinates": [
           -81.451779,
           28.667902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f19f3e2c-fa21-567a-a387-cfe9e91f7b23",
+        "address": "2325-Harbor-Ave-Sw-Unit-B2-Seattle-WA-98126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-07-24T16:27:41.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.374956,
+          47.582355
         ]
       }
     },
