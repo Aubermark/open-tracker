@@ -4645,6 +4645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "151580ee-c68f-5ea2-a552-a8154e6c7d83",
+        "address": "2308-E-69th-St-Indianapolis-IN-46220",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 945,
+        "listed_at": "2026-07-24T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.123563,
+          39.88116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15458912-425f-5119-92f9-6b776e666b88",
         "address": "866-S-1580-W-Lehi-UT-84043",
         "beds": 3,
@@ -9664,27 +9685,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2e2f8a9d-01f9-5698-ade7-ba4242f9f4c6",
-        "address": "130-Fredricksburg-Way-Columbia-SC-29210",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1353,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "28",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.133147,
-          34.057162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2e371e42-80b3-51a0-8361-1dda8d75256a",
         "address": "51-Oakleigh-Ln-Maitland-FL-32751",
         "beds": 4,
@@ -11380,6 +11380,27 @@
         "coordinates": [
           -118.208136,
           34.620172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "35d61bdf-770e-5895-adbd-806c90f17bc3",
+        "address": "214-Cornell-Dr-Warner-Robins-GA-31093",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1761,
+        "listed_at": "2026-07-24T19:40:04.000Z",
+        "days_on_market": "114",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65194,
+          32.636917
         ]
       }
     },
@@ -21676,6 +21697,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6727afa7-65bb-5e94-9278-1ed8152b3ffb",
+        "address": "2025-Duke-Adam-St-Kannapolis-NC-28083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1006,
+        "listed_at": "2026-07-24T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.59199,
+          35.479557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6733f938-4222-5c8d-8381-de750c99c9f0",
         "address": "249-Southberry-Ln-Lexington-SC-29072",
         "beds": 5,
@@ -24715,6 +24757,27 @@
         "coordinates": [
           -86.993918,
           33.494118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74e4258a-a4ca-529c-b6bf-16d7527e971c",
+        "address": "6309-Saint-Denis-St-Corpus-Christi-TX-78414",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2291,
+        "listed_at": "2026-07-24T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.386543,
+          27.65565
         ]
       }
     },
