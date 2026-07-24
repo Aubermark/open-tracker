@@ -2986,27 +2986,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
-        "address": "1623-12th-St-Saint-Cloud-FL-34769",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1558,
-        "listed_at": "2026-07-15T14:30:03.000Z",
-        "days_on_market": "129",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.287872,
-          28.246829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0ddef024-014f-5cc9-a809-233c4f980016",
         "address": "104-Santa-Anita-Ave-Newark-OH-43055",
         "beds": 2,
@@ -11995,6 +11974,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39f790b4-fe16-5b95-87cd-a0d3be58332c",
+        "address": "261-Black-Pine-Rd-Newland-NC-28657",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1148,
+        "listed_at": "2026-07-24T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.896689,
+          36.036525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39fc7d82-1c5e-5582-b714-1617ed18537c",
         "address": "5321-Abbottswood-Dr-Smyrna-TN-37167",
         "beds": 4,
@@ -14215,6 +14215,27 @@
         "coordinates": [
           -74.409275,
           40.602145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "41db3a58-6dbb-54a1-afe5-09b7aa32ff4e",
+        "address": "1503-Featherstone-Rd-Rockford-IL-61107",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2506,
+        "listed_at": "2026-07-24T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.995255,
+          42.28507
         ]
       }
     },
