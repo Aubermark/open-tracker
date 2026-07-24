@@ -1495,27 +1495,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0571371a-0817-5e4d-9544-b3c66a8f8f12",
-        "address": "6020-Morning-Glory-Pl-Knoxville-TN-37912",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "72",
-        "current_price": 294000,
-        "price_label": "$294K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.004649,
-          36.001594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "05af820d-ace9-5e02-9b36-5084e614d062",
         "address": "2361-Ne-21st-Ave-Jensen-Beach-FL-34957",
         "beds": 4,
@@ -11260,27 +11239,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "34a6db87-8098-5ee8-ae95-4f91a3a13445",
-        "address": "35687-Hillbrook-Ave-Zephyrhills-FL-33541",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2432,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "103",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.22677,
-          28.236656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "34a79881-fa19-5605-9714-312a5ec00409",
         "address": "1500-Waybridge-Ln-#-0-Charlotte-NC-28210",
         "beds": 3,
@@ -20526,10 +20484,10 @@
         "beds": 4,
         "baths": 2,
         "sqft": 2243,
-        "listed_at": "2026-07-22T20:10:04.000Z",
+        "listed_at": "2026-07-24T17:00:03.000Z",
         "days_on_market": "120",
-        "current_price": 431000,
-        "price_label": "$431K"
+        "current_price": 430000,
+        "price_label": "$430K"
       },
       "geometry": {
         "type": "Point",
@@ -35473,6 +35431,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a75dcd04-6f11-539f-9ae8-4dcb1db98019",
+        "address": "630-Rockhouse-Rd-Kodak-TN-37764",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1812,
+        "listed_at": "2026-07-24T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 441000,
+        "price_label": "$441K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.629462,
+          35.942062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a76a6a88-3ce7-57c1-a258-35bf4ebb7b60",
         "address": "6623-Ambrose-Cir-Temple-TX-76502",
         "beds": 4,
@@ -38134,6 +38113,27 @@
         "coordinates": [
           -84.505395,
           34.060349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b25f4a35-6a0e-5ede-9410-0e18e98294d3",
+        "address": "1436-Alabama-Ave-Daytona-Beach-FL-32117",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1194,
+        "listed_at": "2026-07-24T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.075641,
+          29.248874
         ]
       }
     },
@@ -49165,6 +49165,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e6a55925-93cb-5561-8f99-5aa9e250c311",
+        "address": "829-W-2nd-North-St-Summerville-SC-29483",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1937,
+        "listed_at": "2026-07-24T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.185258,
+          33.029159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e6dda8a9-252a-5f37-8278-27bb90c6886b",
         "address": "220-Icebow-Rd-Fountain-Inn-SC-29644",
         "beds": 5,
@@ -54094,6 +54115,27 @@
         "coordinates": [
           -86.799451,
           36.437576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe8b3a80-c629-5577-8788-de1d7a39beaa",
+        "address": "8436-Staplehurst-Dr-W-Jacksonville-FL-32244",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2006,
+        "listed_at": "2026-07-24T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.819029,
+          30.198005
         ]
       }
     },
