@@ -20731,27 +20731,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "61d985b9-532f-5893-a8c2-abc7ef7c18db",
-        "address": "5028-Dayflower-Dr-Tipp-City-OH-45371",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2359,
-        "listed_at": "2026-07-18T06:51:50.000Z",
-        "days_on_market": "8",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.126012,
-          39.888603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "61e07fa2-4382-5b02-8f39-ec0ead5fabda",
         "address": "1905-S-Milledge-Ave-Apt-5-Athens-GA-30605",
         "beds": 2,
@@ -42928,27 +42907,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c9335391-e996-55d3-a7b3-8e5d518dd597",
-        "address": "1854-Utah-St-Fairfield-CA-94533",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 922,
-        "listed_at": "2026-07-15T06:48:31.000Z",
-        "days_on_market": "11",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.062944,
-          38.252794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c938719b-d778-55e8-85f7-d57d7628bcec",
         "address": "437-Denison-Dr-Pottsboro-TX-75076",
         "beds": 2,
@@ -49873,6 +49831,27 @@
         "coordinates": [
           -96.967872,
           33.242154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e75e6b12-89d7-5c09-a472-f33d35040443",
+        "address": "2332-Se-Berkshire-Blvd-Port-Saint-Lucie-FL-34952",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1850,
+        "listed_at": "2026-07-25T16:10:04.000Z",
+        "days_on_market": "115",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.262693,
+          27.271193
         ]
       }
     },
