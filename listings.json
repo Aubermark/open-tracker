@@ -35326,6 +35326,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a4957b00-d709-5e17-8b4a-94e54d7400b5",
+        "address": "6137-Portchester-Schertz-TX-78108",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2250,
+        "listed_at": "2026-07-25T22:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.220823,
+          29.627996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a49afcae-779b-482e-bab3-f2626db0c9b9",
         "address": "29-Lone-Cypress-Way-Saint-Augustine-FL-32092",
         "beds": 2,
