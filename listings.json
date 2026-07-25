@@ -48976,6 +48976,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e28e1464-ca73-5784-b687-9832057e28ce",
+        "address": "120-Fox-Hill-Ct-Edwardsville-IL-62025",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2751,
+        "listed_at": "2026-07-25T06:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95311,
+          38.852669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e2a26162-d593-51eb-9cd6-038c9c2026d0",
         "address": "9011-Manorford-Dr-Cleveland-OH-44130",
         "beds": 3,
