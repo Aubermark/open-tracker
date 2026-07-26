@@ -7186,6 +7186,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22cadc37-1752-598f-94e9-489b8c643a7a",
+        "address": "4922-Bernadine-Dr-San-Antonio-TX-78220",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1258,
+        "listed_at": "2026-07-26T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.396005,
+          29.40484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22e4926a-01f4-5a4a-871f-14aa843eacab",
         "address": "338-Buffalo-Creek-Dr-Toney-AL-35773",
         "beds": 3,
