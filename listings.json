@@ -1201,27 +1201,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0491e5fe-b5cf-581d-a8a7-f3ed9949e335",
-        "address": "1955-Meadow-Ln-Decatur-GA-30032",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2694,
-        "listed_at": "2026-07-02T05:50:44.000Z",
-        "days_on_market": ">154",
-        "current_price": 412000,
-        "price_label": "$412K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.271178,
-          33.733584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "049e5da8-eccd-5b8e-b519-94dfddbfadbf",
         "address": "1214-Ileagnes-Rd-Raleigh-NC-27603",
         "beds": 4,
@@ -5017,6 +4996,27 @@
         "coordinates": [
           -83.993959,
           33.803707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "16d68e71-a259-5e70-80f9-53d1261c9f5b",
+        "address": "2162-Chestnut-Pl-Lithia-Springs-GA-30122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1585,
+        "listed_at": "2026-07-26T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.645768,
+          33.74626
         ]
       }
     },
@@ -26296,27 +26296,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7b349769-35c1-50c1-ab9e-72a059750d34",
-        "address": "607-State-St-Weatherford-TX-76086",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1605,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "116",
-        "current_price": 283000,
-        "price_label": "$283K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.788625,
-          32.746919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7b48e0b8-e6df-524b-adb9-70cd03b56fc9",
         "address": "23061-E-Stacey-Rd-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -27067,6 +27046,27 @@
         "coordinates": [
           -81.421739,
           28.213743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7efda8a6-f88f-5210-9967-0829c4cfd418",
+        "address": "1482-Knights-Row-Yuba-City-CA-95991",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1100,
+        "listed_at": "2026-07-26T20:40:04.000Z",
+        "days_on_market": "72",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62275,
+          39.151223
         ]
       }
     },
