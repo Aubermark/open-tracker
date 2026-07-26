@@ -4876,6 +4876,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16428f71-0864-51cd-a420-d219b413c8ff",
+        "address": "311-Hickory-Wood-Dr-Kannapolis-NC-28083",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1675,
+        "listed_at": "2026-07-26T14:00:04.000Z",
+        "days_on_market": "33",
+        "current_price": 399000,
+        "price_label": "$399K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.603325,
+          35.531524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1667b196-d004-5297-b73c-978323658cae",
         "address": "7303-Havenbrook-Dr-San-Antonio-TX-78227",
         "beds": 3,
@@ -14047,27 +14068,6 @@
         "coordinates": [
           -84.680975,
           34.075331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "415ea4a8-d623-51f2-9e91-d5f77cfd0bf4",
-        "address": "13167-Roma-Bnd-Carmel-IN-46074",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2275,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "150",
-        "current_price": 497000,
-        "price_label": "$497K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.208339,
-          39.978215
         ]
       }
     },
@@ -31288,27 +31288,6 @@
         "coordinates": [
           -86.409487,
           39.741076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "911f828b-2151-473e-9ce0-4a40255ed853",
-        "address": "4023-Aster-Point-Ct-Pfafftown-NC-27040",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2184,
-        "listed_at": "2026-06-18T06:20:33.000Z",
-        "days_on_market": "146",
-        "current_price": 281000,
-        "price_label": "$281K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.356355,
-          36.153923
         ]
       }
     },
