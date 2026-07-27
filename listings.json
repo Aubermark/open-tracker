@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26940f68-9207-571e-bdd4-36f580cd9944",
+        "address": "101-Maple-Hill-Ct-Winston-Salem-NC-27106",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-07-27T15:10:04.000Z",
+        "days_on_market": "21",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.309479,
+          36.128948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26b9ae83-db67-5f2e-9136-3cf1c07e5304",
         "address": "1401-Grey-Owl-Cir-Roseville-CA-95661",
         "beds": 5,
@@ -13039,27 +13060,6 @@
         "coordinates": [
           -80.770131,
           34.942826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3d976f84-0e79-58fc-bece-09252cb8bdd6",
-        "address": "8915-Cinder-Ln-Huntersville-NC-28078",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2449,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "136",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.913041,
-          35.381546
         ]
       }
     },
@@ -37321,6 +37321,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae1b72e3-95d8-5b4f-9336-a619ce89cab6",
+        "address": "295-Fairway-Dr-Lake-Arrowhead-CA-92352",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2460,
+        "listed_at": "2026-07-27T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.236448,
+          34.25374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae277c57-11a4-5308-8d71-545dc1d4dc01",
         "address": "3132-S-Owasso-Ave-Tulsa-OK-74105",
         "beds": 3,
@@ -38428,6 +38449,27 @@
         "coordinates": [
           -112.718104,
           33.493489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b29d34fb-45d9-4b3c-942c-264440357bbd",
+        "address": "17698-Col-Ranch-Dr-Riverside-CA-92503",
+        "beds": 7,
+        "baths": 6,
+        "sqft": 4638,
+        "listed_at": "2026-07-27T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1250000,
+        "price_label": "$1.250M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.434196,
+          33.864061
         ]
       }
     },
@@ -41788,27 +41830,6 @@
         "coordinates": [
           -79.395743,
           36.064926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c2d9d844-e43b-5b0b-9dde-e7385cbca24a",
-        "address": "5145-Dogwood-Trl-Allentown-PA-18104",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1813,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "6",
-        "current_price": 413000,
-        "price_label": "$413K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.566311,
-          40.583305
         ]
       }
     },
