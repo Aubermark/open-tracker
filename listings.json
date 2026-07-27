@@ -1705,6 +1705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0792642e-9892-5ccf-90ca-55dfafeae3e4",
+        "address": "1154-Rue-La-Chelle-Walk-#-1154-Saint-Louis-MO-63141",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1757,
+        "listed_at": "2026-07-27T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47627,
+          38.679942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
@@ -2497,6 +2518,27 @@
         "coordinates": [
           -70.948206,
           42.50583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0c284d51-dd64-531b-9d41-fe3237de8f60",
+        "address": "13477-Fairfield-Dr-Corona-CA-92883",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1639,
+        "listed_at": "2026-07-27T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.426197,
+          33.718622
         ]
       }
     },
@@ -4456,27 +4498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "14a0a07a-cf5b-5032-826b-e7a988b83af8",
-        "address": "101-Cambridge-Pointe-Dr-Alabaster-AL-35007",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1448,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "80",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.83272,
-          33.224064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "14a767d5-eb04-5e72-94bb-2145e389f350",
         "address": "309-Muskogee-Dr-Dallas-GA-30132",
         "beds": 4,
@@ -6319,6 +6340,27 @@
         "coordinates": [
           -82.48633,
           29.661892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1c60ad13-7597-5052-8ecb-d2619cdbea14",
+        "address": "20509-E-Reno-Ave-Harrah-OK-73045",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1849,
+        "listed_at": "2026-07-27T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.167744,
+          35.465223
         ]
       }
     },
@@ -40492,6 +40534,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bb3bf2ab-246d-52a8-8bcd-18c92f9bb9fa",
+        "address": "922-W-Craig-St-Rialto-CA-92377",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2939,
+        "listed_at": "2026-07-27T20:30:05.000Z",
+        "days_on_market": "14",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.388206,
+          34.1426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb3e911a-862b-5ca4-b58d-deb2349bc5d9",
         "address": "6214-Spencers-Glen-Way-Sugar-Land-TX-77479",
         "beds": 4,
@@ -49012,6 +49075,27 @@
         "coordinates": [
           -86.155056,
           39.699086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3ec08cb-595c-5519-aee2-ff2b8b5de3dc",
+        "address": "8808-Sprouted-Ln-Wake-Forest-NC-27587",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3154,
+        "listed_at": "2026-07-27T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.559231,
+          36.01926
         ]
       }
     },
