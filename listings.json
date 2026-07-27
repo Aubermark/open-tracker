@@ -27745,6 +27745,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "820bcb2f-60c4-5f0d-9bb7-43f48dbe0f66",
+        "address": "1521-W-River-Shore-Way-Tampa-FL-33603",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1588,
+        "listed_at": "2026-07-27T05:59:53.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.474286,
+          27.987995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "820df401-3204-5276-81c4-a04ed7e03d40",
         "address": "2503-Whispering-Springs-Dr-Spring-TX-77373",
         "beds": 3,
@@ -30853,27 +30874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "900024c5-6fa3-5c55-80e2-7cba6daed644",
-        "address": "372-Cotton-Mill-Dr-Zebulon-NC-27597",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2139,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "58",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.299331,
-          35.691104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "90033974-8785-5c29-a340-81b57743fcaf",
         "address": "642-Gardiner-St-Starke-FL-32091",
         "beds": 2,
@@ -31099,6 +31099,27 @@
         "coordinates": [
           -84.123402,
           34.024151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90e93cd4-9aac-5d65-a180-d77192e3e21f",
+        "address": "5124-Norma-St-Fort-Worth-TX-76112",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1198,
+        "listed_at": "2026-07-27T05:59:53.000Z",
+        "days_on_market": "18",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.242967,
+          32.743171
         ]
       }
     },
@@ -31792,27 +31813,6 @@
         "coordinates": [
           -86.151059,
           39.750567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "94933129-d1d8-594b-b199-47aa839f11c9",
-        "address": "22432-S-Vermont-Ave-Unit-2-Torrance-CA-90502",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1092,
-        "listed_at": "2026-07-23T06:17:22.000Z",
-        "days_on_market": "30",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.289973,
-          33.822415
         ]
       }
     },
@@ -35782,27 +35782,6 @@
         "coordinates": [
           -97.358463,
           31.040485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a77f2750-6d79-4677-a02c-cee54d4f74dc",
-        "address": "10453-W-Beaman-Ln-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2685,
-        "listed_at": "2026-07-23T06:17:22.000Z",
-        "days_on_market": ">154",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.188208,
-          32.431324
         ]
       }
     },
