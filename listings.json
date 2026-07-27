@@ -22810,6 +22810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bfbde83-cbc8-52e2-ba38-96e49d12c473",
+        "address": "4549-Drewbridge-Way-Raleigh-NC-27604",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2178,
+        "listed_at": "2026-07-27T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.562029,
+          35.810197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c047e77-1b24-5eca-9f55-4f8bf5f0af79",
         "address": "10330-E-Weaver-Pl-Englewood-CO-80111",
         "beds": 5,
@@ -27130,6 +27151,27 @@
         "coordinates": [
           -82.935288,
           39.616904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7f9e985f-f889-504e-baeb-197dc5519bdd",
+        "address": "12530-30th-Ave-N-Plymouth-MN-55441",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1904,
+        "listed_at": "2026-07-27T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.439457,
+          45.013803
         ]
       }
     },
@@ -45616,27 +45658,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d562d4cb-97d4-5a4c-9337-fc53101ad78b",
-        "address": "9458-Creekstone-Ct-Villa-Rica-GA-30180",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1564,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "17",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.885584,
-          33.707974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d57e7b97-e656-50cb-84a6-bdfd43cb56f6",
         "address": "807-W-Thompson-Ln-Murfreesboro-TN-37129",
         "beds": 3,
@@ -47290,27 +47311,6 @@
         "coordinates": [
           -98.539272,
           29.337621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc0d66ad-6135-57da-8d41-38f529e217cf",
-        "address": "101-Picadilly-Loop-Summerville-SC-29483",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2581,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "91",
-        "current_price": 546000,
-        "price_label": "$546K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.234664,
-          32.993655
         ]
       }
     },
@@ -52960,6 +52960,27 @@
         "coordinates": [
           -84.279903,
           34.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f73bbed1-6cec-5b79-81c4-14d25baa0efc",
+        "address": "3612-Brookefall-Ct-Suwanee-GA-30024",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3164,
+        "listed_at": "2026-07-27T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.032498,
+          34.063979
         ]
       }
     },
