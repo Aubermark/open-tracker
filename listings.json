@@ -39799,6 +39799,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b97d8d5b-354c-500a-8a81-884edf126cee",
+        "address": "1500-N-300-W-Provo-UT-84604",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1942,
+        "listed_at": "2026-07-27T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.663714,
+          40.254474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9812370-ec62-5539-89af-ce78623ad7b3",
         "address": "335-Stoneridge-Way-Fayetteville-GA-30215",
         "beds": 3,
