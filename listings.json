@@ -16111,6 +16111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b8885a4-5367-545e-aa44-8d9a994a8001",
+        "address": "3972-Cherokee-Blvd-New-Braunfels-TX-78132",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1438,
+        "listed_at": "2026-07-27T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.164742,
+          29.659039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4bb027fc-e4c0-5185-b9d3-5c9f9e03d833",
         "address": "494-Hall-Spencer-Rd-Catawba-SC-29704",
         "beds": 3,
@@ -24043,27 +24064,6 @@
         "coordinates": [
           -78.793619,
           35.768503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "715aa098-39df-5866-a331-5b9cbc12b076",
-        "address": "5221-Robin-Ln-Farmington-MN-55024",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1632,
-        "listed_at": "2026-07-21T19:40:03.000Z",
-        "days_on_market": "6",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.173109,
-          44.664332
         ]
       }
     },
@@ -32947,6 +32947,27 @@
         "coordinates": [
           -95.668142,
           29.989257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "99d995df-fc16-50af-83b4-c492234fc5e3",
+        "address": "185-Boiling-Brook-Dr-Statesville-NC-28625",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3216,
+        "listed_at": "2026-07-27T15:50:04.000Z",
+        "days_on_market": "88",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870309,
+          35.829522
         ]
       }
     },
@@ -51175,6 +51196,27 @@
         "coordinates": [
           -79.03025,
           35.926567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eecc1908-b6b7-5ab1-8903-315cba6c2824",
+        "address": "1555-Hecker-Pass-Rd-Apt-C101-Gilroy-CA-95020",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1136,
+        "listed_at": "2026-07-27T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.600466,
+          37.013519
         ]
       }
     },
