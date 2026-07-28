@@ -1495,6 +1495,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05803e9c-43e8-42d3-b822-26f224c607b7",
+        "address": "6593-Zion-Way-Jurupa-Valley-CA-92509",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3325,
+        "listed_at": "2026-07-28T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.418029,
+          34.022731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05af820d-ace9-5e02-9b36-5084e614d062",
         "address": "2361-Ne-21st-Ave-Jensen-Beach-FL-34957",
         "beds": 4,
@@ -15523,6 +15544,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46f8a67b-6469-5f83-9237-2bb1dd1de1aa",
+        "address": "7816-Foxwood-Dr-Raleigh-NC-27615",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1508,
+        "listed_at": "2026-07-28T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653885,
+          35.885109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4758df83-09a2-506f-a21d-28662994dcc0",
         "address": "1004-Marcie-Ln-Milford-OH-45150",
         "beds": 3,
@@ -22537,27 +22579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6979e197-b9ae-4386-a455-66bf96da9f90",
-        "address": "4-Mayhaw-Pt-Sharpsburg-GA-30277",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2008,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "139",
-        "current_price": 409000,
-        "price_label": "$409K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.69329,
-          33.356029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "698ad04a-88d2-5709-8369-a530339e7bac",
         "address": "934-Witherbee-Way-Little-River-SC-29566",
         "beds": 3,
@@ -28852,27 +28873,6 @@
         "coordinates": [
           -111.887297,
           33.217702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "84e4a82b-a13f-5911-9f51-6ec275cb00dd",
-        "address": "852-Castellona-Dr-Newman-CA-95360",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1190,
-        "listed_at": "2026-07-21T16:20:04.000Z",
-        "days_on_market": "7",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.004222,
-          37.322455
         ]
       }
     },
@@ -47044,6 +47044,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d806780e-8303-5fc6-bf12-bde18b2388d4",
+        "address": "741-Inver-Ln-Clarksville-TN-37042",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1040,
+        "listed_at": "2026-07-28T17:20:04.000Z",
+        "days_on_market": "80",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.437632,
+          36.559104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d812c0d0-9dc9-5ba3-bfd0-492cfaaf4898",
         "address": "1950-Edgewood-Dr-Boulder-CO-80304",
         "beds": 3,
@@ -47605,6 +47626,27 @@
         "coordinates": [
           -84.511031,
           33.839102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
+        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1069,
+        "listed_at": "2026-07-28T17:20:04.000Z",
+        "days_on_market": ">156",
+        "current_price": 203000,
+        "price_label": "$203K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.200266,
+          33.786085
         ]
       }
     },
