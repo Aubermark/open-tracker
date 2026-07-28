@@ -19807,6 +19807,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d669762-33ff-5c13-b1b6-83c98bc5247b",
+        "address": "816-S-Broadway-St-Spring-Valley-MN-55975",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1424,
+        "listed_at": "2026-07-28T12:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.391376,
+          43.680699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d7567fd-7aed-5de2-b94e-9cf7d4a7fd81",
         "address": "335-Dill-Cir-Landrum-SC-29356",
         "beds": 3,
