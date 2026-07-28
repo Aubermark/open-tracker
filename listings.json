@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "159b5eb0-0260-54cc-a484-2b5bcab38f9a",
+        "address": "29212-Ursuline-St-Saint-Clair-Shores-MI-48081",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1589,
+        "listed_at": "2026-07-28T15:20:04.000Z",
+        "days_on_market": "141",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.913299,
+          42.508644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15a3ad57-5669-559b-925c-dd7eb7ad550f",
         "address": "3741-Candlebluff-Dr-San-Antonio-TX-78244",
         "beds": 3,
@@ -14698,6 +14719,27 @@
         "coordinates": [
           -82.057727,
           35.029516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4381a85b-ace5-5243-81a2-6d17c80721a1",
+        "address": "107-Herring-Way-Kissimmee-FL-34759",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1952,
+        "listed_at": "2026-07-28T15:20:04.000Z",
+        "days_on_market": "138",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.494929,
+          28.078178
         ]
       }
     },
@@ -35425,27 +35467,6 @@
         "coordinates": [
           -95.319868,
           32.143694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a3873081-f9a9-50d1-a0c1-b1264d2701c3",
-        "address": "3181-Cedardale-Dr-Douglasville-GA-30135",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1760,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "152",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.728089,
-          33.718429
         ]
       }
     },
