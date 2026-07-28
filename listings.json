@@ -21781,6 +21781,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65a13a7e-66e3-5e11-b5a1-77e71e81cbce",
+        "address": "1219-Franklin-St-Taylorsville-IN-47280",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1092,
+        "listed_at": "2026-07-28T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94681,
+          39.291608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65a264e0-41cd-5540-8388-a347e2dbfd31",
         "address": "14559-W-Cortez-St-Surprise-AZ-85379",
         "beds": 4,
