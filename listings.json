@@ -3154,6 +3154,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e640505-94cc-54f2-8e57-ed108cece334",
+        "address": "23944-Oakmont-Way-Auburn-CA-95602",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1716,
+        "listed_at": "2026-07-28T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.067045,
+          39.032819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e658a85-f3a6-5fb6-94af-99b39727629e",
         "address": "3703-Thrushwood-Dr-Chattanooga-TN-37415",
         "beds": 4,
@@ -17812,27 +17833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "54e94290-6522-50b4-92af-9e313e4dc045",
-        "address": "9463-Maple-Way-Indianapolis-IN-46268",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1234,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "102",
-        "current_price": 141000,
-        "price_label": "$141K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.203723,
-          39.924676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "54f16f7a-38e1-5594-b8ce-47ee213b8400",
         "address": "702-Buffalo-Cir-Carol-Stream-IL-60188",
         "beds": 3,
@@ -20158,27 +20158,6 @@
         "coordinates": [
           -97.456055,
           35.332095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5e954b4d-30c4-5dcc-9dbd-89c19f6b6347",
-        "address": "17118-Jetton-Park-Ln-Humble-TX-77346",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3302,
-        "listed_at": "2026-07-08T06:07:34.000Z",
-        "days_on_market": "21",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.192966,
-          29.965591
         ]
       }
     },
@@ -39316,6 +39295,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b51da014-6736-5925-a7dc-5baa5e35aa6b",
+        "address": "3720-Wingate-Dr-Waco-TX-76706",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1741,
+        "listed_at": "2026-07-28T13:20:04.000Z",
+        "days_on_market": "46",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.133377,
+          31.507121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b52a842a-6eb4-54ab-bfd8-468076ab7887",
         "address": "13206-Baldwin-Rdg-San-Antonio-TX-78249",
         "beds": 3,
@@ -50986,6 +50986,27 @@
         "coordinates": [
           -96.526187,
           32.902092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
+        "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1622,
+        "listed_at": "2026-07-28T13:20:04.000Z",
+        "days_on_market": "74",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.243906,
+          26.702856
         ]
       }
     },
