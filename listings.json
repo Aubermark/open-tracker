@@ -7753,6 +7753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24d15f68-0f69-5fe6-a8d5-e06f2b9b0fa3",
+        "address": "2563-Taos-Dr-Grand-Prairie-TX-75051",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "listed_at": "2026-07-28T22:00:05.000Z",
+        "days_on_market": "109",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.988485,
+          32.707809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -13633,27 +13654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3ed07ea1-464a-5682-9f38-7384c596815d",
-        "address": "1035-Lakewood-Dr-Marietta-GA-30066",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1918,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "18",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.521064,
-          34.04033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3ed1b682-72af-4ce9-834d-fc0627f2a4fa",
         "address": "1314-Timber-Glen-Dr-Wilmington-OH-45177",
         "beds": 3,
@@ -18961,27 +18961,6 @@
         "coordinates": [
           -111.983945,
           33.746622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "58911c0b-6f3a-59d5-8c0f-bc6fadc4539f",
-        "address": "17268-W-Elaine-Dr-Goodyear-AZ-85338",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1918,
-        "listed_at": "2026-07-10T14:00:03.000Z",
-        "days_on_market": "18",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.430835,
-          33.432982
         ]
       }
     },
