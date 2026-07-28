@@ -9811,6 +9811,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2dff076b-8ea8-51b8-bb1b-28ea53c6a751",
+        "address": "7339-Longing-Trl-San-Antonio-TX-78244-18281748",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1461,
+        "listed_at": "2026-07-28T14:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.337039,
+          29.503533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e371e42-80b3-51a0-8361-1dda8d75256a",
         "address": "51-Oakleigh-Ln-Maitland-FL-32751",
         "beds": 4,
@@ -35845,6 +35866,27 @@
         "coordinates": [
           -97.418301,
           32.471316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a5c33bbf-e66f-5feb-abca-0e48f875f859",
+        "address": "917-Golden-Rule-Ct-N-Lakeland-FL-33803",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-07-28T14:00:04.000Z",
+        "days_on_market": "47",
+        "current_price": 209000,
+        "price_label": "$209K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.967907,
+          28.016587
         ]
       }
     },
