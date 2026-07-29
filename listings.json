@@ -29257,27 +29257,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "85f709fb-189e-55b3-97a2-08cdd3f6280e",
-        "address": "7026-Hammock-Way-Winter-Park-FL-32792",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1257,
-        "listed_at": "2026-07-22T20:50:04.000Z",
-        "days_on_market": "7",
-        "current_price": 362000,
-        "price_label": "$362K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.296433,
-          28.612689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8604be4d-4d4a-58ed-9520-bcb40000ab45",
         "address": "10212-Coolidge-Dr-Mc-Kinney-TX-75072",
         "beds": 3,
@@ -41326,6 +41305,27 @@
         "coordinates": [
           -78.70142,
           35.988129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbead80a-c6b3-585e-980a-5b06adbf298b",
+        "address": "6-Bradford-Ct-Beaufort-SC-29902",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-07-29T13:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.738657,
+          32.394901
         ]
       }
     },
