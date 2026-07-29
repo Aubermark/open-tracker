@@ -487,6 +487,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01509dd9-63b8-55e5-b18a-e94d300e832d",
+        "address": "106-Cabrillo-Dr-Groveland-FL-34736",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1970,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.813696,
+          28.579968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "015c3b4b-db80-5f59-b24b-464cf9e1e7d7",
         "address": "113-Bittercreek-Dr-Folsom-CA-95630",
         "beds": 4,
@@ -3526,6 +3547,27 @@
         "coordinates": [
           -97.259712,
           32.91852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0fbfac84-13a7-5fbb-9690-d3e2726a4d0f",
+        "address": "831-Shepard-Ln-Chico-CA-95926",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1450,
+        "listed_at": "2026-07-29T17:40:04.000Z",
+        "days_on_market": "64",
+        "current_price": 421000,
+        "price_label": "$421K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.817424,
+          39.751606
         ]
       }
     },
@@ -8404,27 +8446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "27508cd2-d04d-53d1-b878-f23b85180576",
-        "address": "12701-N-Gibbs-Ave-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2110,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "93",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.193819,
-          32.437117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2771d23d-446f-5a73-9687-3a719d861676",
         "address": "4305-Curlew-Ln-Garland-TX-75043",
         "beds": 4,
@@ -12010,27 +12031,6 @@
         "coordinates": [
           -108.481483,
           39.09592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "381817dd-6265-5a23-902a-006e2fa00ea7",
-        "address": "7928-Ella-Young-Dr-Lakeside-TX-76135",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2205,
-        "listed_at": "2026-05-15T21:00:03.000Z",
-        "days_on_market": "75",
-        "current_price": 313000,
-        "price_label": "$313K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.465712,
-          32.817774
         ]
       }
     },
@@ -19276,6 +19276,27 @@
         "coordinates": [
           -89.738047,
           41.771995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "599d3955-1102-5d62-b610-8938befb1d55",
+        "address": "1308-Seburn-Rd-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1717,
+        "listed_at": "2026-07-29T17:40:04.000Z",
+        "days_on_market": "55",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.532429,
+          28.650245
         ]
       }
     },
@@ -31483,6 +31504,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f3d3dc3-67af-5fc6-a166-49cdfaf96410",
+        "address": "40828-Mostyn-Hill-Dr-Magnolia-TX-77354",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2074,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.669947,
+          30.237123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f68eade-995f-5ddc-8c68-befd2018fe7e",
         "address": "2065-Cannon-Bridge-Rd-Bamberg-SC-29003",
         "beds": 3,
@@ -34045,6 +34087,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b6df06d-6769-5f6d-a76a-44c8146d4711",
+        "address": "429-Starboard-Dr-Crowley-TX-76036",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1714,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.369825,
+          32.574338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9b715dfd-99ed-5643-af87-328b6b2a7236",
         "address": "130-Lancaster-St-Chester-SC-29706",
         "beds": 3,
@@ -35992,6 +36055,27 @@
         "coordinates": [
           -95.139615,
           29.547171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a46c63e5-bb64-5307-ba83-7e611cdeeab9",
+        "address": "111-S-Oleander-Ave-Sanford-FL-32771",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1200,
+        "listed_at": "2026-07-29T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.283425,
+          28.811129
         ]
       }
     },
@@ -40114,27 +40198,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b6ac8db0-c895-5fc2-9670-eb50e570cb9f",
-        "address": "3920-Cedric-Ln-Dublin-OH-43016",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1946,
-        "listed_at": "2026-07-20T17:20:04.000Z",
-        "days_on_market": "9",
-        "current_price": 397000,
-        "price_label": "$397K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.12114,
-          40.06708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b6b0e66b-f337-518a-a1ed-d16e364ef4ac",
         "address": "4220-Iris-Pearl-Ave-North-Las-Vegas-NV-89031",
         "beds": 5,
@@ -40381,6 +40444,27 @@
         "coordinates": [
           -82.373908,
           27.776444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b780c1af-3530-53e7-a4f5-4d9aa8169d40",
+        "address": "760-E-Megan-St-Chandler-AZ-85225",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1254,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.829259,
+          33.320335
         ]
       }
     },
@@ -45091,6 +45175,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cebe40ab-3c2b-5761-9005-6e6ff1dae085",
+        "address": "5213-Via-Hacienda-Cir-Apt-307-Orlando-FL-32839",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1073,
+        "listed_at": "2026-07-29T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 109000,
+        "price_label": "$109K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.408299,
+          28.489418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cec0cd85-e4e9-56b8-b435-8d242c90cf27",
         "address": "432-Nowell-Loop-Deland-FL-32724",
         "beds": 5,
@@ -46219,6 +46324,27 @@
         "coordinates": [
           -81.400965,
           28.676474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d31bb600-fa1e-5e83-a656-3da8fed960fe",
+        "address": "17802-Jefferson-St-Oakland-FL-34787",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1778,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.660843,
+          28.544154
         ]
       }
     },
@@ -54346,6 +54472,27 @@
         "coordinates": [
           -87.688067,
           41.475687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f5b8ab4a-1c27-5d73-a883-9259b60c0f2e",
+        "address": "1918-Wolf-Run-Anna-TX-75409",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2154,
+        "listed_at": "2026-07-29T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.54293,
+          33.366451
         ]
       }
     },
