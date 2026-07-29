@@ -10924,27 +10924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "31c6906d-2aa4-5fb0-abcd-2f2faa715ede",
-        "address": "6505-Boykin-Spaniel-Rd-Charlotte-NC-28277",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2740,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "35",
-        "current_price": 663000,
-        "price_label": "$663K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.790681,
-          35.067379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "31f1fffe-2e6a-5aa2-b570-fd83edb0c05a",
         "address": "1231-E-42nd-St-Savannah-GA-31404",
         "beds": 2,
@@ -53527,6 +53506,27 @@
         "coordinates": [
           -80.279168,
           36.047312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f23933c5-ece6-5e52-b0fb-0e240bbedf29",
+        "address": "903-Long-Ave-Garner-NC-27529",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2461,
+        "listed_at": "2026-07-29T11:40:08.000Z",
+        "days_on_market": "117",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.597443,
+          35.693089
         ]
       }
     },
