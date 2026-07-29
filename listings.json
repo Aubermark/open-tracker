@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "005192b1-5d80-500b-9ada-ec547ac2cb6b",
+        "address": "62-Stocks-St-Lovettsville-VA-20180",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3160,
+        "listed_at": "2026-07-29T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.632588,
+          39.279002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "005420bd-a7b6-5f6c-a801-c43393c2dc27",
         "address": "642-Lancer-Ct-Nw-Concord-NC-28027",
         "beds": 3,
@@ -20227,6 +20248,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5da18b77-2fca-571e-90c1-6495b2363c60",
+        "address": "2620-Kelly-Ln-Malabar-FL-32950",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1756,
+        "listed_at": "2026-07-29T21:00:04.000Z",
+        "days_on_market": "20",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.608699,
+          27.982057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dbbdd3b-ea7f-5f41-b243-fdf263ec88e1",
         "address": "7002-Beekman-Lake-Dr-Jacksonville-FL-32222",
         "beds": 4,
@@ -21187,27 +21229,6 @@
         "coordinates": [
           -112.055256,
           40.487818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "61e07fa2-4382-5b02-8f39-ec0ead5fabda",
-        "address": "1905-S-Milledge-Ave-Apt-5-Athens-GA-30605",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1178,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "145",
-        "current_price": 222000,
-        "price_label": "$222K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.378959,
-          33.927444
         ]
       }
     },
@@ -36391,27 +36412,6 @@
         "coordinates": [
           -118.133469,
           34.083357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a62920a4-83b2-5f06-bd38-bf98fcad9a12",
-        "address": "234-Grassmire-Dr-Clarksville-TN-37042",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1110,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "7",
-        "current_price": 232000,
-        "price_label": "$232K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.408058,
-          36.586936
         ]
       }
     },
