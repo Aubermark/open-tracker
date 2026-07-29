@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">29/07/2026, 13:00 (CET)</span>
+                <span class="hero-meta-value">29/07/2026, 13:06 (CET)</span>
               </div>
           </div>
         </section>
@@ -4885,6 +4885,7 @@ Here’s my scenario for OPEN between now and August 4th earnings: A ceasefire w
   });
   const acqContracts = weeklyAcqData.map(d => d.contracts_acquired ?? 0);
   const acqListings = weeklyAcqData.map(d => d.new_listings ?? 0);
+  const acqListingsAvg = weeklyAcqData.map(d => d.new_listings_avg4w ?? null);
   const acqCancelLow = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.90));
   const acqCancelHigh = weeklyAcqData.map(d => Math.round((d.contracts_acquired ?? 0) * 0.80));
 
@@ -4896,6 +4897,7 @@ Here’s my scenario for OPEN between now and August 4th earnings: A ceasefire w
 
     const colorContracts = '#4FC3F7';
     const colorListings = '#81C784';
+    const colorListingsAvg = '#CE93D8';
 
     const options = {
       animation: false,
@@ -4904,7 +4906,7 @@ Here’s my scenario for OPEN between now and August 4th earnings: A ceasefire w
       tooltip: { show: false },
 
       legend: {
-        data: ['Contracts acquired', 'New listings'],
+        data: ['Contracts acquired', 'New listings', 'New listings (6w avg)'],
         top: 0,
         textStyle: { color: '#cfd8dc', fontSize: 12 },
         itemStyle: { borderWidth: 0 },
@@ -4981,6 +4983,20 @@ Here’s my scenario for OPEN between now and August 4th earnings: A ceasefire w
             borderWidth: 1,
             borderRadius: [3, 3, 0, 0]
           },
+          emphasis: { disabled: true },
+          silent: true
+        },
+        {
+          name: 'New listings (6w avg)',
+          type: 'line',
+          legendHoverLink: false,
+          yAxisIndex: 0,
+          data: acqListingsAvg,
+          smooth: true,
+          symbol: 'none',
+          connectNulls: true,
+          lineStyle: { color: colorListingsAvg, width: 2, type: 'dashed' },
+          areaStyle: null,
           emphasis: { disabled: true },
           silent: true
         },
@@ -5079,6 +5095,9 @@ Here’s my scenario for OPEN between now and August 4th earnings: A ceasefire w
       html += '<div style="display:flex;justify-content:space-between;gap:24px;">'
             + '<span style="color:' + colorListings + ';">● New listings</span>'
             + '<span style="font-weight:600;">' + acqListings[closestIdx] + '</span></div>';
+      html += '<div style="display:flex;justify-content:space-between;gap:24px;">'
+            + '<span style="color:' + colorListingsAvg + ';">● New listings (6w avg)</span>'
+            + '<span style="font-weight:600;">' + (acqListingsAvg[closestIdx] !== null ? acqListingsAvg[closestIdx] : '—') + '</span></div>';
       html += '<div style="display:flex;justify-content:space-between;gap:24px;">'
             + '<span style="color:#FF9800;">● Cancellations (10%)</span>'
             + '<span style="font-weight:600;">' + acqCancelLow[closestIdx] + '</span></div>';
