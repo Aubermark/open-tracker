@@ -34465,6 +34465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e806771-2b27-5cf3-8653-a8de8fedc9b1",
+        "address": "228-Bob-White-Ct-Daytona-Beach-FL-32119",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1189,
+        "listed_at": "2026-07-29T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.046205,
+          29.142666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e8d67d6-4356-5bcb-a9db-3f60e988976d",
         "address": "6906-King-George-Pl-Corpus-Christi-TX-78414",
         "beds": 3,
