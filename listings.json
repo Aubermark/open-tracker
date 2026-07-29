@@ -7018,6 +7018,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1fde425c-ad79-4019-9245-a1fd09ff75b3",
+        "address": "200-Cobalt-Dr-Fayetteville-GA-30214",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2367,
+        "listed_at": "2026-07-29T22:20:04.000Z",
+        "days_on_market": "114",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.442823,
+          33.470616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "202e4fd6-2f44-59cf-87cb-5225665af3b0",
         "address": "2308-S-Park-Ave-Sanford-FL-32771",
         "beds": 2,
@@ -41080,6 +41101,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba7b8d81-bf39-595f-a471-43692767c352",
+        "address": "21170-E-Twin-Acres-Dr-Queen-Creek-AZ-85142",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2240,
+        "listed_at": "2026-07-29T22:20:04.000Z",
+        "days_on_market": "6",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.627032,
+          33.258624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ba8f59a5-23b6-5fcb-809b-3340d676f4b2",
         "address": "12706-Grovehurst-Ave-Winter-Garden-FL-34787",
         "beds": 5,
@@ -55921,6 +55963,27 @@
         "coordinates": [
           -97.446635,
           31.127714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fdf91a4e-bd80-5753-8bcd-80835131bfa6",
+        "address": "5704-Woodard-St-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1195,
+        "listed_at": "2026-07-29T22:20:04.000Z",
+        "days_on_market": "77",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.809987,
+          35.310563
         ]
       }
     },
