@@ -52525,6 +52525,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee365e38-0986-50e5-8656-4af0a12c201f",
+        "address": "6667-Miami-Woods-Dr-Loveland-OH-45140",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4364,
+        "listed_at": "2026-07-29T09:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 760000,
+        "price_label": "$760K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.262882,
+          39.247712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ee3da461-050c-551b-b67a-35586a5ba30c",
         "address": "12-Birchwood-Cir-Wimberley-TX-78676",
         "beds": 4,
