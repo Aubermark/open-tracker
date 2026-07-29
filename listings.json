@@ -26086,6 +26086,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "776ecf01-6927-5eda-bf86-759efee7d1d5",
+        "address": "63-Samson-Ave-Madison-NJ-07940",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1448,
+        "listed_at": "2026-07-29T14:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1110000,
+        "price_label": "$1.110M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.409838,
+          40.748936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "778e3a61-614c-5009-b65e-1979017488de",
         "address": "1710-Fairhaven-Dr-Columbia-SC-29210",
         "beds": 3,
