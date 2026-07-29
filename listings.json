@@ -45322,27 +45322,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d0140d4b-1107-5671-9833-f3c85145e0e7",
-        "address": "1528-Abberbury-Dr-Conway-SC-29527",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1985,
-        "listed_at": "2026-07-24T19:00:03.000Z",
-        "days_on_market": "5",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.092819,
-          33.822963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d01ca691-13c5-524a-be5c-ffb236cdcfc7",
         "address": "532-W-860-S-Tremonton-UT-84337",
         "beds": 5,
@@ -55144,6 +55123,27 @@
         "coordinates": [
           -95.606505,
           32.717628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9ca3160-b430-5d84-8261-f8a165224f3b",
+        "address": "2630-Se-8th-Ave-Ocala-FL-34471",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1143,
+        "listed_at": "2026-07-29T13:00:04.000Z",
+        "days_on_market": "13",
+        "current_price": 182000,
+        "price_label": "$182K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.128108,
+          29.162257
         ]
       }
     },
