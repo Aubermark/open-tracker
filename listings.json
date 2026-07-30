@@ -51790,6 +51790,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9a60c1b-08e0-568f-8025-8f6aa172d4a2",
+        "address": "204-W-Wayne-St-Edmond-OK-73003",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1381,
+        "listed_at": "2026-07-30T07:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.485229,
+          35.660751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9a66754-c496-5ba0-a4d3-0f4e3dd41ad4",
         "address": "22524-N-Davis-Way-Maricopa-AZ-85138-18176905",
         "beds": 4,
