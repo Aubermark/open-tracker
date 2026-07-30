@@ -31819,6 +31819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90ba65fe-b1bf-5eb8-99ad-3c01b5b4c073",
+        "address": "714-Continental-Dr-Lawrenceville-GA-30044-16706877",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1720,
+        "listed_at": "2026-07-30T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.072816,
+          33.888118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90cb6d0c-1439-5365-a61a-70433bbc49ef",
         "address": "1852-Schooner-Rd-El-Reno-OK-73036",
         "beds": 3,
@@ -39631,27 +39652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b3eb5b0c-1d2c-50e7-a344-905f489e4814",
-        "address": "3584-Jim-Kasey-Ln-S-Lakeland-FL-33812",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2179,
-        "listed_at": "2026-07-22T20:10:04.000Z",
-        "days_on_market": "8",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.893834,
-          27.971958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b3f16147-cbc5-5844-bfcf-ee3894ef73cb",
         "address": "2-Sumer-Ln-S-Douglasville-GA-30134",
         "beds": 3,
@@ -46681,6 +46681,27 @@
         "coordinates": [
           -95.782235,
           29.799812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d476a3b2-a40d-5c91-b4f2-684663fe93fb",
+        "address": "5150-Williamsburg-Rd-Winston-Salem-NC-27106",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1430,
+        "listed_at": "2026-07-30T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.301147,
+          36.166921
         ]
       }
     },
