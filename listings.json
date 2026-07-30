@@ -1537,27 +1537,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "04fea10a-3788-5f75-b39f-7afe974797c4",
-        "address": "1126-Glencoe-Dr-Glenn-Heights-TX-75154",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3321,
-        "listed_at": "2026-05-27T21:30:02.000Z",
-        "days_on_market": "64",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.828291,
-          32.557294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "050f015a-6192-5656-a575-1bce054ebe0e",
         "address": "19438-Otter-Trail-Ct-Katy-TX-77449",
         "beds": 4,
@@ -11953,27 +11932,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "37667234-354e-5c92-b274-bdb420a8a143",
-        "address": "6129-5th-Ave-N-Saint-Petersburg-FL-33710",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1004,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "13",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.719068,
-          27.777505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
         "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
         "beds": 4,
@@ -14404,27 +14362,6 @@
         "coordinates": [
           -82.073493,
           41.343863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "41752c88-7cc4-5741-a7dc-2028741c2282",
-        "address": "5646-Apple-Grove-Rd-Buford-GA-30519",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2603,
-        "listed_at": "2026-05-21T06:29:42.000Z",
-        "days_on_market": "97",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.86261,
-          34.086999
         ]
       }
     },
@@ -52855,6 +52792,27 @@
         "coordinates": [
           -84.748187,
           33.902045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eea83724-3315-591f-a0ef-5439609faa14",
+        "address": "1302-E-Egbert-St-Brighton-CO-80601",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2393,
+        "listed_at": "2026-07-30T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.805405,
+          39.983491
         ]
       }
     },
