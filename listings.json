@@ -9286,6 +9286,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a8cd3ca-ba2f-59ae-882e-b510d33cd414",
+        "address": "1810-Pennfield-Dr-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1346,
+        "listed_at": "2026-07-31T19:50:04.000Z",
+        "days_on_market": "7",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.913713,
+          34.066085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ac3c876-367e-57c8-a059-4469e06c5f7c",
         "address": "920-S-Palmetto-Ave-Apt-9-Ontario-CA-91762",
         "beds": 2,
@@ -12079,27 +12100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "387aae6c-db8e-5a4d-a64c-0b962f259fde",
-        "address": "1848-Pinedale-Pl-Decatur-GA-30032",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1094,
-        "listed_at": "2026-07-25T06:18:29.000Z",
-        "days_on_market": "7",
-        "current_price": 178000,
-        "price_label": "$178K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.253851,
-          33.736952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "38818fba-ad6e-5e73-9a95-ba975e3a5b61",
         "address": "242-Kingswood-Dr-Clarksville-TN-37043-18019524",
         "beds": 3,
@@ -12220,6 +12220,27 @@
         "coordinates": [
           -96.684927,
           33.114156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39b8db2a-b119-54fb-a327-e25e04664804",
+        "address": "318-Nash-Blvd-San-Antonio-TX-78223",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1014,
+        "listed_at": "2026-07-31T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.430572,
+          29.362736
         ]
       }
     },
@@ -27829,6 +27850,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e059f9c-0fee-5b37-ad95-f943fc29ca2b",
+        "address": "3800-Seminole-Dr-Orlando-FL-32812",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2233,
+        "listed_at": "2026-07-31T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 523000,
+        "price_label": "$523K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.334505,
+          28.459685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e3bb5a7-f34e-4627-aee5-872b76d1a28e",
         "address": "1217-Black-Walnut-St-Monroe-NC-28112",
         "beds": 4,
@@ -31259,8 +31301,8 @@
         "sqft": 896,
         "listed_at": "2026-07-30T06:04:07.000Z",
         "days_on_market": "39",
-        "current_price": 127000,
-        "price_label": "$127K"
+        "current_price": 140000,
+        "price_label": "$140K"
       },
       "geometry": {
         "type": "Point",
@@ -45883,6 +45925,27 @@
         "coordinates": [
           -112.172656,
           41.700778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d046bc01-d619-5d62-a099-bb0ba9b0f747",
+        "address": "3707-Gowen-Ct-Killeen-TX-76543",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2163,
+        "listed_at": "2026-07-31T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.70108,
+          31.088376
         ]
       }
     },
