@@ -844,27 +844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "02543519-c93a-592e-8b42-1d4d08bbbf1f",
-        "address": "686-Hancock-Bridge-Rd-Winder-GA-30680",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1377,
-        "listed_at": "2026-07-29T16:20:04.000Z",
-        "days_on_market": "2",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.65779,
-          34.03063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "02575f18-a5ef-54c7-87d6-252f5d1c0518",
         "address": "825-Summerville-Dr-Delaware-OH-43015",
         "beds": 3,
@@ -20899,27 +20878,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5fe23dc4-1c4e-5dfc-ab0a-a053b994e3f4",
-        "address": "1151-Glenwyck-Dr-Braselton-GA-30517",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1985,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "25",
-        "current_price": 342000,
-        "price_label": "$342K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.744006,
-          34.126742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ffe21f0-ee9c-45cf-9db7-3a523e1e37a4",
         "address": "1671-Fairmount-Dr-Greenfield-IN-46140",
         "beds": 4,
@@ -21922,6 +21880,27 @@
         "coordinates": [
           -97.363283,
           32.996236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "63f70f79-5e6d-5569-a6cd-15bd736cb45d",
+        "address": "2505-Lain-Dr-Killeen-TX-76543",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1563,
+        "listed_at": "2026-07-31T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.699619,
+          31.133267
         ]
       }
     },
@@ -56950,6 +56929,27 @@
         "coordinates": [
           -74.861215,
           40.033804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff841fb9-7908-563d-ba43-0db790be1b6b",
+        "address": "423-N-Missouri-St-Liberty-MO-64068",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1715,
+        "listed_at": "2026-07-31T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 354000,
+        "price_label": "$354K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.418281,
+          39.250828
         ]
       }
     },
