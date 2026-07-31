@@ -4540,6 +4540,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1427b137-fbfc-5408-af8f-f5904c5b4fa1",
+        "address": "5732-Wallace-Cabin-Dr-Charlotte-NC-28212",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1756,
+        "listed_at": "2026-07-31T07:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.730349,
+          35.210278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "142f95fc-ac96-5889-accf-f05f65d0f47a",
         "address": "19-Wolf-Ave-Englewood-OH-45322",
         "beds": 3,
