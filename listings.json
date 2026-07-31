@@ -13906,6 +13906,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f3fa1ad-74b5-5529-a070-3d732da83021",
+        "address": "4149-S-Rome-St-Aurora-CO-80018",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1456,
+        "listed_at": "2026-07-31T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.730464,
+          39.641174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f54da14-a3af-50a8-ae83-44ebcd718cde",
         "address": "3739-Lake-Griffin-Rd-Lady-Lake-FL-32159",
         "beds": 3,
