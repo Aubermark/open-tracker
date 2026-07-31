@@ -6157,6 +6157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b0b2340-839f-55c3-90b2-b6014625a865",
+        "address": "39180-Anchor-Bay-Unit-A-Murrieta-CA-92563",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1387,
+        "listed_at": "2026-07-31T06:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13183,
+          33.551631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b0e46eb-011e-5305-8791-2d6794011bc2",
         "address": "2020-Stoney-Point-Ln-Unit-59-Charlotte-NC-28210",
         "beds": 2,
@@ -29419,6 +29440,27 @@
         "coordinates": [
           -78.566681,
           35.591882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85e809e9-f0ff-5c8b-ba99-962408a862fd",
+        "address": "3115-N-53rd-Dr-Phoenix-AZ-85031",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1567,
+        "listed_at": "2026-07-31T06:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.173084,
+          33.485395
         ]
       }
     },
