@@ -33814,6 +33814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99685b4e-a37d-530a-ae2a-9074782d708f",
+        "address": "6943-W-Bamburgh-Way-West-Valley-City-UT-84128",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1508,
+        "listed_at": "2026-07-31T13:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.057127,
+          40.697749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9976cb7c-43fd-5496-89cf-11e1313b8946",
         "address": "2154-Gold-Dust-Ln-Highlands-Ranch-CO-80129",
         "beds": 3,
@@ -33871,6 +33892,27 @@
         "coordinates": [
           -84.694916,
           33.862047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "99c1a3fc-059a-5578-a52f-6fc2d0d5465f",
+        "address": "26375-Normandy-St-Roseville-MI-48066",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1104,
+        "listed_at": "2026-07-31T13:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 176000,
+        "price_label": "$176K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.922124,
+          42.490914
         ]
       }
     },
