@@ -15985,6 +15985,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "481b47e6-f623-5f71-a75e-dd6326bda851",
+        "address": "13936-W-65th-Dr-Arvada-CO-80004",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1677,
+        "listed_at": "2026-07-31T08:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.155632,
+          39.815299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48313ae1-24cf-552c-9ae1-0f6e8ca2bd90",
         "address": "368-Holstein-Dr-Dallas-NC-28034",
         "beds": 5,
