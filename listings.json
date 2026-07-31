@@ -6577,27 +6577,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ccb00eb-f5ab-5a45-a4fa-d8f2db42704b",
-        "address": "8340-Nw-22nd-Pl-Miami-FL-33147",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1134,
-        "listed_at": "2026-07-29T20:20:04.000Z",
-        "days_on_market": "25",
-        "current_price": 497000,
-        "price_label": "$497K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.235253,
-          25.850684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1cd2d5a1-0d03-581f-b26d-9805fc2fc8d4",
         "address": "123-Merry-Way-Gun-Barrel-City-TX-75156",
         "beds": 3,
@@ -18463,6 +18442,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55eab1ce-6605-5fc3-b097-575a96853f9c",
+        "address": "608-Amanda-Dr-Matthews-NC-28104",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2712,
+        "listed_at": "2026-07-31T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 695000,
+        "price_label": "$695K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.749485,
+          35.048648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "55fc8fc6-608c-5acf-8509-fc8a63b9444e",
         "address": "6032-Briggs-Dr-Charlotte-NC-28269-6077059",
         "beds": 3,
@@ -21397,6 +21397,27 @@
         "coordinates": [
           -81.135083,
           29.387826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "623b4965-184a-5d14-8202-c56910a58c99",
+        "address": "4241-Grady-Smith-Rd-Loganville-GA-30052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1418,
+        "listed_at": "2026-07-31T16:30:04.000Z",
+        "days_on_market": "135",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.842319,
+          33.861916
         ]
       }
     },
