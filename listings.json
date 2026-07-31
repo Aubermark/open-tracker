@@ -11512,6 +11512,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33b09465-db12-4d2b-b65b-0a611e2f8606",
+        "address": "205-N-Washington-St-Arcadia-IN-46030",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1644,
+        "listed_at": "2026-07-31T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.021265,
+          40.177308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33e4a370-e5c0-5042-a68e-e203708cb237",
         "address": "3146-Lora-Dr-Maryville-TN-37803",
         "beds": 3,
@@ -38812,27 +38833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "afb6fe5b-1f76-57fb-9a1e-53f95bbed99b",
-        "address": "5995-Liberty-Rd-Solon-OH-44139",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1788,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "72",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.41521,
-          41.395937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "afbbaf97-5bb2-5321-875c-7523b18fcc50",
         "address": "1690-Sparkleberry-Dr-Clarksville-TN-37042",
         "beds": 3,
@@ -43510,27 +43510,6 @@
         "coordinates": [
           -80.62564,
           35.45946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c423eaf4-4a17-5d6f-b883-83b8223a7ac7",
-        "address": "1580-W-Cloaninger-Ave-Statesville-NC-28625",
-        "beds": 6,
-        "baths": 4.5,
-        "sqft": 2272,
-        "listed_at": "2026-07-27T19:50:04.000Z",
-        "days_on_market": "46",
-        "current_price": 352000,
-        "price_label": "$352K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.860305,
-          35.778752
         ]
       }
     },
@@ -49180,27 +49159,6 @@
         "coordinates": [
           -81.064348,
           34.968851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc459561-28bc-5f37-a114-bc8338ea8629",
-        "address": "510-Green-Spring-Cir-Winter-Springs-FL-32708",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1180,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "86",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.298473,
-          28.69439
         ]
       }
     },
@@ -56614,27 +56572,6 @@
         "coordinates": [
           -96.724088,
           33.02231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe26fb25-a2ad-516d-a532-c1b2e407c79e",
-        "address": "121-Rey-Del-Mar-Cir-Weatherford-TX-76085",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2776,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "39",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.587025,
-          32.894189
         ]
       }
     },
