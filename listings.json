@@ -14305,6 +14305,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40b40c73-36f7-5e00-931e-257d1c8db463",
+        "address": "2884-Kingston-Ave-Grove-City-OH-43123",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1453,
+        "listed_at": "2026-08-01T21:30:04.000Z",
+        "days_on_market": "26",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.080074,
+          39.877168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40c739ce-74fd-562a-bd87-3c83efea6203",
         "address": "602-Torero-Dr-Little-Elm-TX-75068",
         "beds": 3,
