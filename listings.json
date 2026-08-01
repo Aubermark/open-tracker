@@ -34759,6 +34759,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9badbf03-e3d6-54a7-949e-7e71245810bd",
+        "address": "1622-Halliard-Dr-Lawrenceville-GA-30043",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2269,
+        "listed_at": "2026-08-01T16:50:04.000Z",
+        "days_on_market": ">160",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.082775,
+          33.965877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9be87888-e31a-5014-9f3a-4656df849047",
         "address": "8747-W-Lone-Cactus-Dr-Peoria-AZ-85382",
         "beds": 4,
@@ -45442,6 +45463,27 @@
         "coordinates": [
           -90.513947,
           38.564366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cd14ed7d-e786-5de5-9453-94ea41cb2996",
+        "address": "15929-La-Verida-Dr-Victorville-CA-92395",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-08-01T16:50:04.000Z",
+        "days_on_market": "50",
+        "current_price": 374000,
+        "price_label": "$374K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.306778,
+          34.540306
         ]
       }
     },
