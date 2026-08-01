@@ -22453,6 +22453,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "662fabd3-c569-5d18-9a70-c0c34f962521",
+        "address": "4948-Dewey-Dr-Fair-Oaks-CA-95628",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2037,
+        "listed_at": "2026-08-01T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.308002,
+          38.655827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "665ae509-d3a1-5f13-ad91-4ce48d58ab54",
         "address": "1711-Hickory-Ridge-Rd-Rock-Hill-SC-29732",
         "beds": 3,
@@ -53863,27 +53884,6 @@
         "coordinates": [
           -83.393959,
           42.392671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "efc6a2fb-5d13-5520-bd68-3de4d55f1389",
-        "address": "109-Coco-Ln-Lewisburg-TN-37091",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1200,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "96",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.76546,
-          35.446812
         ]
       }
     },
