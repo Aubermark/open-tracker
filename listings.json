@@ -16195,27 +16195,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4a4609a1-ced9-59b5-95fb-50ce63009bbf",
-        "address": "814-Charles-Rd-Shelby-NC-28152",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1483,
-        "listed_at": "2026-06-04T06:19:40.000Z",
-        "days_on_market": "68",
-        "current_price": 231000,
-        "price_label": "$231K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.564929,
-          35.276175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4a5f6275-dd69-585f-aeb3-6cd1d626d492",
         "address": "1302-Old-Market-Sq-Greenwood-IN-46143",
         "beds": 3,
@@ -41731,27 +41710,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bb903709-22ba-550b-b262-4f8af5fdc91f",
-        "address": "3412-Nixon-Rd-Holiday-FL-34691",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1524,
-        "listed_at": "2026-07-28T18:40:03.000Z",
-        "days_on_market": "5",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.757592,
-          28.195556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bba763b8-422d-5ea0-9392-fe1a3f3c9e88",
         "address": "1618-7th-Ave-Greeley-CO-80631",
         "beds": 3,
@@ -44665,6 +44623,27 @@
         "coordinates": [
           -112.440506,
           33.60635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cad75771-ad02-5afc-9fec-076e18adf473",
+        "address": "4211-Honeycomb-St-San-Antonio-TX-78230",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2829,
+        "listed_at": "2026-08-02T19:20:04.000Z",
+        "days_on_market": "65",
+        "current_price": 599900,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.568714,
+          29.552279
         ]
       }
     },
@@ -53023,27 +53002,6 @@
         "coordinates": [
           -117.192509,
           33.272457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ed87e2d9-9598-5b57-b37d-e9c0d62101e7",
-        "address": "2865-Pingree-Ave-Ogden-UT-84401",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 801,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": ">161",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.977928,
-          41.212998
         ]
       }
     },
