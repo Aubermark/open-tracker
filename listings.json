@@ -2020,27 +2020,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "07d92492-9e97-5089-b003-7fff59b452f3",
-        "address": "1311-Stanford-Dr-Rockwall-TX-75087",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3279,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "18",
-        "current_price": 461000,
-        "price_label": "$461K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.466291,
-          32.943539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "07dc6856-de3f-5a31-ba53-7542dbd85a27",
         "address": "1207-E-Clearview-Dr-Casa-Grande-AZ-85122",
         "beds": 3,
@@ -50965,6 +50944,27 @@
         "coordinates": [
           -111.915359,
           33.41287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2f117e1-9594-5779-9be1-aaf782910121",
+        "address": "3969-Briaridge-Cir-Atlanta-GA-30340",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1650,
+        "listed_at": "2026-08-02T07:08:16.000Z",
+        "days_on_market": ">160",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.225835,
+          33.874891
         ]
       }
     },
