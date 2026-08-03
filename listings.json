@@ -12415,27 +12415,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3ab48dc0-3bc1-5e69-854c-dcb676bfdb1a",
-        "address": "1561-Redolence-Ave-North-Las-Vegas-NV-89031",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1943,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "59",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.163589,
-          36.243259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3ad3013d-a60f-50b0-a16c-b5ae5209e37a",
         "address": "1702-Patterson-Grove-Rd-Apex-NC-27502",
         "beds": 4,
@@ -19224,10 +19203,10 @@
         "beds": 5,
         "baths": 2.5,
         "sqft": 3001,
-        "listed_at": "2026-07-24T09:00:04.000Z",
+        "listed_at": "2026-08-03T21:20:03.000Z",
         "days_on_market": "11",
-        "current_price": 1150000,
-        "price_label": "$1.150M"
+        "current_price": 1118000,
+        "price_label": "$1.118M"
       },
       "geometry": {
         "type": "Point",
@@ -28065,10 +28044,10 @@
         "beds": 4,
         "baths": 2,
         "sqft": 1826,
-        "listed_at": "2026-08-03T18:00:02.000Z",
+        "listed_at": "2026-08-03T21:20:04.000Z",
         "days_on_market": "0",
-        "current_price": 348000,
-        "price_label": "$348K"
+        "current_price": 343000,
+        "price_label": "$343K"
       },
       "geometry": {
         "type": "Point",
@@ -31126,27 +31105,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8c891ec5-7624-59b8-b710-89804020e44b",
-        "address": "4920-Cass-Elizabeth-Rd-Waterford-MI-48327",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1014,
-        "listed_at": "2026-07-27T21:10:04.000Z",
-        "days_on_market": "7",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.383764,
-          42.626702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8c89f4a6-2a6d-5018-b186-c4e85b104357",
         "address": "2242-N-Alabama-St-Indianapolis-IN-46205",
         "beds": 3,
@@ -31372,27 +31330,6 @@
         "coordinates": [
           -78.877733,
           35.73183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8da0b37a-da29-5712-9b66-f20fc6fa3860",
-        "address": "12843-Slade-Castle-Ct-Charlotte-NC-28273",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1440,
-        "listed_at": "2026-07-31T18:30:04.000Z",
-        "days_on_market": "3",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.98937,
-          35.094794
         ]
       }
     },
@@ -54919,6 +54856,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f62535bc-f834-5243-9017-fa2c6a284011",
+        "address": "6401-Forest-Grove-Dr-Fredericksburg-VA-22407",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2378,
+        "listed_at": "2026-08-03T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.557141,
+          38.265629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f64abdaf-cc77-5b45-bf01-973c70da4735",
         "address": "2360-Kimbrough-Ct-Atlanta-GA-30350",
         "beds": 6,
@@ -56467,6 +56425,27 @@
         "coordinates": [
           -96.724088,
           33.02231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe420c25-c63e-5ae9-a2fd-f367c164d565",
+        "address": "407-Westmoreland-Rd-Columbia-SC-29229",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3244,
+        "listed_at": "2026-08-03T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.946984,
+          34.161746
         ]
       }
     },
