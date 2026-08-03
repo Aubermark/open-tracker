@@ -6808,27 +6808,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1e7e8c1a-3062-5526-a95a-d7ec454962d9",
-        "address": "1801-Missouri-Ave-Saint-Cloud-FL-34769",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1605,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "60",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.288785,
-          28.24048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1e85dfe8-bf12-4873-95f8-d6f7a6831257",
         "address": "1165-Eagleston-Way-Blythewood-SC-29016",
         "beds": 4,
@@ -16840,6 +16819,27 @@
         "coordinates": [
           -81.20985,
           33.940596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4d2ac315-49cb-5280-8cc8-b8ae4722d656",
+        "address": "798-Kallispel-Ct-Hampton-GA-30228",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3198,
+        "listed_at": "2026-08-03T14:40:04.000Z",
+        "days_on_market": "108",
+        "current_price": 397000,
+        "price_label": "$397K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.366437,
+          33.426744
         ]
       }
     },
