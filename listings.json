@@ -2041,27 +2041,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "08094c9f-3d3b-5413-a5ca-f37ac8ff13f9",
-        "address": "19-Crispwater-Way-Hopkinton-MA-01748",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1764,
-        "listed_at": "2026-07-02T05:50:45.000Z",
-        "days_on_market": ">162",
-        "current_price": 830000,
-        "price_label": "$830K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.489311,
-          42.232729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "08146f9a-a927-5e91-8c4f-94899e069f21",
         "address": "1716-N-Hollywood-St-Philadelphia-PA-19121",
         "beds": 3,
@@ -11275,27 +11254,6 @@
         "coordinates": [
           -111.798878,
           33.252948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "334079e1-6385-5201-ae51-9eb12dcce771",
-        "address": "17052-Sw-39th-Cir-Ocala-FL-34473",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1545,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "105",
-        "current_price": 228000,
-        "price_label": "$228K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.184512,
-          28.972723
         ]
       }
     },
@@ -26038,6 +25996,27 @@
         "coordinates": [
           -95.291773,
           30.01927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76e4f8d9-d992-596c-b86c-fd723974fa8a",
+        "address": "212-Westwind-Dr-Newnan-GA-30263",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2528,
+        "listed_at": "2026-08-03T16:40:04.000Z",
+        "days_on_market": ">162",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.790486,
+          33.461302
         ]
       }
     },
