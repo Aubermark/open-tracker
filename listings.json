@@ -49753,6 +49753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "df8272e3-17ed-5d1a-b720-a8d07d5f1d3f",
+        "address": "4407-W-Dale-Ave-Tampa-FL-33609",
+        "beds": 5,
+        "baths": 6.5,
+        "sqft": 7066,
+        "listed_at": "2026-08-03T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 2900000,
+        "price_label": "$2.900M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.519144,
+          27.940522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dfacba68-4c4a-59ea-bfc0-2f815de0792e",
         "address": "14207-Alistar-Manor-Dr-Wimauma-FL-33598",
         "beds": 3,
