@@ -15187,27 +15187,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "44d8988d-bebe-5d75-bcd2-1948e6a45f48",
-        "address": "1355-Mills-Cove-Dr-Covington-GA-30016",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2178,
-        "listed_at": "2026-05-28T05:41:10.000Z",
-        "days_on_market": "111",
-        "current_price": 323000,
-        "price_label": "$323K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.944218,
-          33.56541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "44fd822f-63c6-5c8d-9376-5194c420fdc6",
         "address": "1241-Pine-Acre-Dr-Sugar-Hill-GA-30518",
         "beds": 4,
@@ -27115,27 +27094,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7b252462-9fa1-5291-86d1-f0ebfcdd7b21",
-        "address": "12133-Lantana-Ln-Fishers-IN-46037",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2758,
-        "listed_at": "2026-07-27T18:30:03.000Z",
-        "days_on_market": "6",
-        "current_price": 475000,
-        "price_label": "$475K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.884739,
-          39.96491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7b48e0b8-e6df-524b-adb9-70cd03b56fc9",
         "address": "23061-E-Stacey-Rd-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -35635,6 +35593,27 @@
         "coordinates": [
           -106.726365,
           35.320063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1421050-c006-5400-969e-56679cb194f2",
+        "address": "1751-N-Houston-Lake-Blvd-Warner-Robins-GA-31093",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4202,
+        "listed_at": "2026-08-03T06:00:22.000Z",
+        "days_on_market": "0",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.705077,
+          32.674328
         ]
       }
     },
