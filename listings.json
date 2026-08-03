@@ -44587,6 +44587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb26ee78-e726-5a9d-8246-75aab86fb1c9",
+        "address": "273-Cherokee-Trl-Granville-OH-43023",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1616,
+        "listed_at": "2026-08-03T10:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57996,
+          40.034894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb3d70ef-4431-5da0-a269-807c4263d873",
         "address": "3630-Vanderbilt-Dr-Corona-CA-92881",
         "beds": 5,
