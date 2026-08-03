@@ -1642,6 +1642,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0659c87c-7acf-5b50-902e-11b846948bc2",
+        "address": "13236-Pike-Lake-Dr-Riverview-FL-33579",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1086,
+        "listed_at": "2026-08-03T12:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.299075,
+          27.801068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "068b9815-d87a-5105-bb10-b76255717f38",
         "address": "10508-Whitehaven-Rd-Oklahoma-City-OK-73120",
         "beds": 3,
