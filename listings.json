@@ -1705,6 +1705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06bf3fd4-3022-5a79-b8cf-641a1b876e3c",
+        "address": "17590-Eastland-St-Roseville-MI-48066",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1637,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93916,
+          42.513016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06ce4e26-8ef8-52e8-8861-06e45caa2ec7",
         "address": "140-W-13th-St-Lafayette-OR-97127",
         "beds": 3,
@@ -2476,6 +2497,27 @@
         "coordinates": [
           -84.472115,
           33.452829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0a58f9e3-790b-5a85-b68d-3e7ca31124b6",
+        "address": "4812-Ice-Age-Way-Elk-Grove-CA-95757",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2168,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.449434,
+          38.374391
         ]
       }
     },
@@ -4009,6 +4051,27 @@
         "coordinates": [
           -81.111932,
           33.966941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "11b72cff-5644-5478-8edb-264452640229",
+        "address": "6805-Aquamarine-Dr-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2105,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.695199,
+          31.052188
         ]
       }
     },
@@ -10399,6 +10462,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ed008bf-9dd6-5cf1-bd26-86c53803bccd",
+        "address": "8479-Lake-Dr-Cedar-Hill-MO-63016",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1112,
+        "listed_at": "2026-08-04T19:55:01.000Z",
+        "days_on_market": "112",
+        "current_price": 167000,
+        "price_label": "$167K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.651688,
+          38.32054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ed2775a-9ed7-5e15-b29f-a8387936a9b9",
         "address": "438-N-Ash-Mesa-AZ-85201",
         "beds": 3,
@@ -10855,27 +10939,6 @@
         "coordinates": [
           -82.410473,
           34.890681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "30ccad1a-f0fe-49dc-8402-e7a77e3479bd",
-        "address": "1818-Irby-Ct-Tavares-FL-32778",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1690,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "120",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.706319,
-          28.808928
         ]
       }
     },
@@ -12415,6 +12478,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a6a2590-dda2-5247-86a0-ddcbf2a03c5b",
+        "address": "3016-Wyntree-Ct-Matthews-NC-28104",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1825,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.691404,
+          35.083695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3a81e99e-ad8d-5c7a-8540-93652ded0b08",
         "address": "243-Meadow-Saffron-Dr-Lexington-SC-29073",
         "beds": 5,
@@ -13927,27 +14011,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3fd39ce6-98f8-5259-861a-1cddba6bbb1d",
-        "address": "134-Springway-Dr-Kannapolis-NC-28081",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3240,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "91",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.625527,
-          35.457154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3fda8357-caa7-58d2-96b2-7025b936083e",
         "address": "701-E-Charlevoix-Ave-Gilbert-AZ-85297",
         "beds": 5,
@@ -14431,27 +14494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4196223f-53d0-5593-9448-a9e19b74d56c",
-        "address": "780-Olympic-Cir-Ocoee-FL-34761",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1401,
-        "listed_at": "2026-07-27T16:30:05.000Z",
-        "days_on_market": "77",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.527196,
-          28.565274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "41c0ae9a-b0cb-5c46-8e06-5eb88e2c9044",
         "address": "619-E-Arlington-Ave-Fort-Worth-TX-76104",
         "beds": 3,
@@ -14488,6 +14530,27 @@
         "coordinates": [
           -88.995255,
           42.28507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "41dd1cd3-685a-5fca-acad-440154c8d4d3",
+        "address": "4147-Willow-South-Dr-Mulberry-FL-33860",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1635,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 289000,
+        "price_label": "$289K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.021862,
+          27.917134
         ]
       }
     },
@@ -15943,27 +16006,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4840e41e-8dc2-5cb2-8d5c-064ec7393703",
-        "address": "8910-Olmstead-Park-Converse-TX-78109",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3472,
-        "listed_at": "2026-07-09T05:58:38.000Z",
-        "days_on_market": "127",
-        "current_price": 353000,
-        "price_label": "$353K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.312205,
-          29.465908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4842e296-2176-5228-a12b-bb40b1245995",
         "address": "703-Midland-Ct-Houston-TX-77060",
         "beds": 3,
@@ -16762,6 +16804,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4c2af7a9-380b-54b9-8054-07fd9ff6fcd6",
+        "address": "191-E-Marker-St-Long-Beach-CA-90805",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1272,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200744,
+          33.875377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4c3a13ef-24c8-54a4-b2d9-d9f57ee4941b",
         "address": "3740-Ballejo-Ct-W-Jacksonville-FL-32210",
         "beds": 3,
@@ -17176,6 +17239,27 @@
         "coordinates": [
           -96.888831,
           33.042527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4dfe1833-94bd-5b55-9de4-053962f39705",
+        "address": "2609-Rockwell-Rd-Nw-Huntsville-AL-35810",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1497,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.601596,
+          34.758131
         ]
       }
     },
@@ -18904,6 +18988,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57b3b19e-0511-5ed1-b0ba-e2a2aa26ad59",
+        "address": "7436-W-Sanna-St-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1902,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 413000,
+        "price_label": "$413K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.219298,
+          33.569497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57b615e0-6dd7-555e-b70e-69dbda18731f",
         "address": "343-Damascus-Dr-Summerville-SC-29483",
         "beds": 3,
@@ -19612,6 +19717,27 @@
         "coordinates": [
           -81.76619,
           28.047362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5a761336-edeb-5acd-bc45-2e31dab64057",
+        "address": "1535-W-15th-St-Loveland-CO-80538",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1340,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.099537,
+          40.408439
         ]
       }
     },
@@ -23251,27 +23377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "69ba74fa-b4ef-5437-b59b-290317cac510",
-        "address": "8141-Long-Nook-Ln-Charlotte-NC-28277",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2314,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "162",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.805023,
-          35.052908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "69d7877a-7ff2-517b-a504-c107d27d5fcd",
         "address": "65-W-Harrison-St-Delaware-OH-43015",
         "beds": 2,
@@ -26080,6 +26185,27 @@
         "coordinates": [
           -86.682989,
           36.294578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7609157b-b816-577d-9108-56b25eb6a96f",
+        "address": "25701-Chestnut-Way-Stevenson-Ranch-CA-91381-17954929",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3324,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 1275000,
+        "price_label": "$1.275M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.586949,
+          34.375866
         ]
       }
     },
@@ -30055,6 +30181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "87d365fe-d99a-4d2e-a223-410c37a10167",
+        "address": "9694-Brackenfield-Ln-0-Frisco-TX-75035",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3290,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.750896,
+          33.1574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "87d5fc40-299b-5a1a-b52c-6d1bcf2d0476",
         "address": "1-Terrain-Dr-Greenville-SC-29605",
         "beds": 3,
@@ -31651,6 +31798,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8e1c632b-7575-5403-9cea-fbda21a9017a",
+        "address": "608-E-Morehead-St-Reidsville-NC-27320",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1193,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 156000,
+        "price_label": "$156K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.652507,
+          36.362623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8e253374-21db-4ea5-b5d1-859de9cc6392",
         "address": "16903-Ne-37th-Ave-Vancouver-WA-98686",
         "beds": 5,
@@ -32092,6 +32260,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90af2d0b-c077-5553-9f49-7fea5baad42f",
+        "address": "8005-Edgewood-Ct-Plainfield-IN-46168",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3726,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.380071,
+          39.654726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90b51ec9-9ddf-5ddc-9d0c-3bb19c4ff9d1",
         "address": "59-Cane-Garden-Way-Saint-Augustine-FL-32092",
         "beds": 5,
@@ -32128,27 +32317,6 @@
         "coordinates": [
           -122.797843,
           45.446543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "90ba65fe-b1bf-5eb8-99ad-3c01b5b4c073",
-        "address": "714-Continental-Dr-Lawrenceville-GA-30044-16706877",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1720,
-        "listed_at": "2026-07-30T14:40:04.000Z",
-        "days_on_market": "5",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.072816,
-          33.888118
         ]
       }
     },
@@ -33541,6 +33709,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "975d472f-a1d6-54e2-b169-61cfdbeeec98",
+        "address": "3011-Poplar-Isle-Missouri-City-TX-77459",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2812,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.537918,
+          29.492548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "979c3339-0221-58bc-94f7-7447915a514c",
         "address": "3106-Forrester-Dr-Pearland-TX-77584",
         "beds": 5,
@@ -34102,27 +34291,6 @@
         "coordinates": [
           -105.015167,
           39.542266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9976fdd5-d08f-4c14-ae6e-81056acc3ba0",
-        "address": "13176-Twin-Bridges-Dr-Riverview-FL-33579",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3573,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "57",
-        "current_price": 687000,
-        "price_label": "$687K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.26284,
-          27.809579
         ]
       }
     },
@@ -36313,6 +36481,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a38300d6-0273-55fb-97b2-f34e40821bfd",
+        "address": "841-Chinook-Ave-Akron-OH-44305",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1168,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.470601,
+          41.086874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3990eb7-4f78-5795-ad20-622e3d624697",
         "address": "5503-Hardie-Farm-Dr-Greensboro-NC-27405",
         "beds": 4,
@@ -37189,6 +37378,27 @@
         "coordinates": [
           -83.266823,
           33.266971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a7ccc41a-17af-4831-8d89-14adac7770ad",
+        "address": "12898-Golden-Hay-Cir-Nw-Madison-AL-35756",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1527,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.820318,
+          34.744386
         ]
       }
     },
@@ -38281,6 +38491,27 @@
         "coordinates": [
           -82.664014,
           27.81272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "acc30451-1a35-512a-89d8-87855c7c440a",
+        "address": "30406-Everett-St-Southfield-MI-48076",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.207447,
+          42.512587
         ]
       }
     },
@@ -41038,6 +41269,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8b207bf-a144-59eb-b69b-1cf64c274a17",
+        "address": "1298-S-Perry-St-Denver-CO-80219",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 612,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.039997,
+          39.6933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8c3be48-58b4-54dd-a590-c2747bc6b8e4",
         "address": "309-Cedar-Glade-Ct-Lebanon-TN-37090",
         "beds": 3,
@@ -41452,6 +41704,27 @@
         "coordinates": [
           -81.57986,
           28.525944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ba959503-6754-565e-bb49-246c814599d0",
+        "address": "4220-Plantation-Oaks-Blvd-Unit-1813-Orange-Park-FL-32065",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1475,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.845677,
+          30.177138
         ]
       }
     },
@@ -45826,6 +46099,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfe4d3c6-ab13-5973-a478-843e528f030b",
+        "address": "1202-Hillside-Blvd-Wilmington-DE-19803",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2138,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 552000,
+        "price_label": "$552K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.510711,
+          39.786604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d00846aa-3264-5f0b-83d3-7ba572a05ec8",
         "address": "609-Ginger-Dr-Kings-Mountain-NC-28086",
         "beds": 3,
@@ -46303,6 +46597,27 @@
         "coordinates": [
           -116.4875,
           33.793189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d1a3610c-e781-55f0-a658-83293214b950",
+        "address": "1004-Clifford-Dr-Durham-NC-27704",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1444,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.858118,
+          36.00874
         ]
       }
     },
@@ -47374,6 +47689,27 @@
         "coordinates": [
           -84.056857,
           34.135054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d50b187d-b6e7-5f08-9b7b-f203fd6dcfe5",
+        "address": "176-Fred-Bishop-Dr-Canton-GA-30114",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2645,
+        "listed_at": "2026-08-04T19:55:01.000Z",
+        "days_on_market": "70",
+        "current_price": 439000,
+        "price_label": "$439K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.459187,
+          34.294872
         ]
       }
     },
@@ -49690,27 +50026,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "df070b23-3adf-5dc4-ba6b-12bfd4b8436a",
-        "address": "3504-Wild-Horse-Rd-Ne-Rio-Rancho-NM-87144",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1400,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "22",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.666689,
-          35.286482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "df0878d4-c6d5-5b22-95d6-4cf079f7e9ac",
         "address": "734-Mitscher-Dr-Spring-Hill-TN-37174",
         "beds": 3,
@@ -50803,6 +51118,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e38b344f-59b0-5650-8754-8753bd1608f3",
+        "address": "18743-Chapel-Ln-Huntington-Beach-CA-92646-18379819",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1577,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 985000,
+        "price_label": "$985K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.985548,
+          33.690575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e39af502-a5ee-5a88-bdb1-ff7a1ff3da9b",
         "address": "11-Chanter-Ct-Durham-NC-27705",
         "beds": 3,
@@ -51853,6 +52189,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e814cf88-fcb4-4ace-84e9-ed256010bf3f",
+        "address": "1970-Downey-Ln-Greenfield-IN-46140",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1495,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.797812,
+          39.795915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e821d12f-19e7-5ad2-a3b7-4c1fdad8c103",
         "address": "316-Willow-Lake-Dr-Saint-Augustine-FL-32092",
         "beds": 5,
@@ -51973,6 +52330,27 @@
         "coordinates": [
           -97.662279,
           31.040042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e8d30dd4-b9cf-588d-986b-5d1e846d3c4e",
+        "address": "8177-E-Jacque-Dr-Prescott-Valley-AZ-86314",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1284,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.321786,
+          34.610139
         ]
       }
     },
@@ -52288,6 +52666,27 @@
         "coordinates": [
           -81.242685,
           33.899308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea0ae435-f48e-54a5-87ea-473ae8def16a",
+        "address": "8928-W-Cherry-Hills-Dr-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1575,
+        "listed_at": "2026-08-04T19:55:00.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.251316,
+          33.592764
         ]
       }
     },
@@ -53296,27 +53695,6 @@
         "coordinates": [
           -81.49099,
           30.078499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eea7f7b1-a455-598b-9fde-5ffd94beaa90",
-        "address": "4528-Ferguson-Cir-Marvin-NC-28173",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2452,
-        "listed_at": "2026-07-30T18:40:03.000Z",
-        "days_on_market": "5",
-        "current_price": 570000,
-        "price_label": "$570K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.770916,
-          34.918565
         ]
       }
     },
@@ -55066,27 +55444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f5c6cc2b-2386-5752-a87a-86576b613e87",
-        "address": "4700-Maryannes-Meadow-Dr-Fort-Worth-TX-76135",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2394,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "67",
-        "current_price": 312000,
-        "price_label": "$312K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.430882,
-          32.823766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f5e7a624-560a-5851-9d04-8729e12e18da",
         "address": "1205-Kachina-Ln-Haslet-TX-76052",
         "beds": 4,
@@ -55984,27 +56341,6 @@
         "coordinates": [
           -97.447012,
           35.411779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f9f6aa50-d945-533b-a02a-3feb652bb134",
-        "address": "1726-Thrive-Dr-Windsor-CO-80550",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1712,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "19",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.942878,
-          40.454043
         ]
       }
     },
