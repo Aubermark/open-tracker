@@ -6661,6 +6661,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1d78cddc-8410-534e-93ad-6674e2595607",
+        "address": "4468-Norfleet-St-Concord-NC-28025",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2261,
+        "listed_at": "2026-08-04T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.562585,
+          35.35417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d821499-4ef4-5fdc-854b-fa11a473f63c",
         "address": "13449-Nascoby-Ln-Woodbridge-VA-22193",
         "beds": 3,
@@ -32554,6 +32575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9307244c-4a5d-5c4e-b3f6-f707d0b6d8e8",
+        "address": "12685-Sw-Percheron-Ln-Beaverton-OR-97008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1302,
+        "listed_at": "2026-08-04T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807332,
+          45.446772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "93140c7c-c8ba-579a-bf4c-6bfa51a8aecb",
         "address": "11600-W-Granville-Dr-Marana-AZ-85653",
         "beds": 3,
@@ -46429,6 +46471,27 @@
         "coordinates": [
           -98.268157,
           29.774017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d2b8f25b-09cf-5bdd-9ad7-3b48c7c3733d",
+        "address": "1933-Choyce-Cir-Charlotte-NC-28217",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 912,
+        "listed_at": "2026-08-04T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.911429,
+          35.142875
         ]
       }
     },
