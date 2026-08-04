@@ -12142,6 +12142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "38e450c7-f742-5f81-97d6-22b8fd614f18",
+        "address": "1618-Saddlebrook-Dr-Heath-OH-43056",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 2042,
+        "listed_at": "2026-08-04T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463907,
+          40.008409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3985fbc2-3d36-5af1-b7f7-713a73310c32",
         "address": "1727-Joben-Dr-Murfreesboro-TN-37128",
         "beds": 4,
@@ -17239,6 +17260,27 @@
         "coordinates": [
           -112.405843,
           33.584025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4e92a1ad-96ce-5593-9304-a2a86216daec",
+        "address": "1388-N-Los-Altos-Dr-Chandler-AZ-85224",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1043,
+        "listed_at": "2026-08-04T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.879651,
+          33.326039
         ]
       }
     },
@@ -30013,27 +30055,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "87573af3-5aff-5334-9a3a-6728c357afe9",
-        "address": "29206-Rio-Lobo-Way-Valencia-CA-91354",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1809,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "43",
-        "current_price": 700000,
-        "price_label": "$700K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.553252,
-          34.471086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "876bfe6c-276e-541f-aa87-6cf66008d540",
         "address": "237-Kensington-Trce-Stockbridge-GA-30281",
         "beds": 3,
@@ -40891,27 +40912,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b82d0147-1b6e-53ab-ad32-bb79b3c44589",
-        "address": "208-Autumn-Trl-Acworth-GA-30102",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2320,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "97",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.618438,
-          34.083764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b85370e0-0e59-50d5-a9b3-caab4f727dcb",
         "address": "402-Bering-Ln-Summerville-SC-29486",
         "beds": 4,
@@ -50545,27 +50545,6 @@
         "coordinates": [
           -82.587987,
           28.330853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2425f59-9058-5360-8b8e-5efe8588777e",
-        "address": "901-S-Belle-Vista-Ave-Youngstown-OH-44509",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 2328,
-        "listed_at": "2026-07-30T20:40:04.000Z",
-        "days_on_market": "5",
-        "current_price": 125000,
-        "price_label": "$125K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.688207,
-          41.090372
         ]
       }
     },
