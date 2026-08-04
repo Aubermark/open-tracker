@@ -20374,6 +20374,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5dca7ed9-e78a-5563-8391-67e02c487678",
+        "address": "1005-Ne-44th-St-Kansas-City-MO-64116",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 688,
+        "listed_at": "2026-08-04T13:40:04.000Z",
+        "days_on_market": "96",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.567822,
+          39.174084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ddf8ac2-e07e-5485-ba8f-34aedde7e136",
         "address": "8341-Watermill-Dr-Millersville-MD-21108",
         "beds": 4,
@@ -45925,27 +45946,6 @@
         "coordinates": [
           -80.133916,
           32.914815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d0813a3b-2d13-5bbd-81e2-a2102d1bbf2f",
-        "address": "16802-Enderbush-Ln-Eureka-MO-63025",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3515,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "106",
-        "current_price": 470000,
-        "price_label": "$470K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.630455,
-          38.511143
         ]
       }
     },
