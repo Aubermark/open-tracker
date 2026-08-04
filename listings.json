@@ -2482,6 +2482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a70f6e2-85aa-5d63-92d9-64997158c59a",
+        "address": "4273-Stream-Dale-Cir-Nw-Concord-NC-28027",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3005,
+        "listed_at": "2026-08-04T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.644125,
+          35.420142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a7e1fd5-d660-5e88-a0ba-04dfa9467954",
         "address": "7202-Gotland-St-Union-City-GA-30291",
         "beds": 3,
@@ -49852,6 +49873,27 @@
         "coordinates": [
           -82.519144,
           27.940522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df8fd8dd-bace-5147-8ff5-388273bfe150",
+        "address": "972-Darby-Rd-Chester-SC-29706",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1596,
+        "listed_at": "2026-08-04T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 307000,
+        "price_label": "$307K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.185497,
+          34.768191
         ]
       }
     },
