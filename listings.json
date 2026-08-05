@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "004af4e3-0ee2-5c1f-9726-791e267285ef",
+        "address": "5055-W-Hacienda-Ave-Unit-1002-Las-Vegas-NV-89118",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1036,
+        "listed_at": "2026-08-05T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.211228,
+          36.093153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "005192b1-5d80-500b-9ada-ec547ac2cb6b",
         "address": "62-Stocks-St-Lovettsville-VA-20180",
         "beds": 4,
@@ -922,27 +943,6 @@
         "coordinates": [
           -112.429203,
           33.343184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "02a3556b-b43c-5eee-89f0-423ffc71d812",
-        "address": "7037-Green-St-New-Port-Richey-FL-34652",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1092,
-        "listed_at": "2026-07-28T19:20:04.000Z",
-        "days_on_market": "8",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.725483,
-          28.259737
         ]
       }
     },
@@ -5716,6 +5716,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1823cc81-f117-576b-a206-478022783654",
+        "address": "52-Echota-Rd-Ne-Cartersville-GA-30121",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-08-05T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 253000,
+        "price_label": "$253K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7992,
+          34.248664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "182d08ba-b46a-5a69-b654-60b0f1f437a2",
         "address": "707-Willowmoore-Ave-Thomasville-NC-27360",
         "beds": 3,
@@ -7963,27 +7984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24159de2-bf7b-597b-b665-ecb732de14cb",
-        "address": "10504-Ruidosa-St-Austin-TX-78719",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 1612,
-        "listed_at": "2026-07-28T20:00:03.000Z",
-        "days_on_market": "8",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.678759,
-          30.135417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "24319240-0134-58a5-b701-7529f368d735",
         "address": "6550-Snowbird-Ln-Douglasville-GA-30134",
         "beds": 5,
@@ -8776,27 +8776,6 @@
         "coordinates": [
           -84.43229,
           33.998617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
-        "address": "2237-Nw-158th-St-Edmond-OK-73013",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1582,
-        "listed_at": "2026-06-25T06:24:59.000Z",
-        "days_on_market": "105",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.553594,
-          35.631298
         ]
       }
     },
@@ -17953,6 +17932,27 @@
         "coordinates": [
           -82.529015,
           27.940254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "50efc171-0a55-5a76-983d-cb3cb285f6d7",
+        "address": "8733-W-Cornell-Ave-Apt-4-Lakewood-CO-80227",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1275,
+        "listed_at": "2026-08-05T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.092655,
+          39.660787
         ]
       }
     },
@@ -28558,6 +28558,27 @@
         "coordinates": [
           -85.204318,
           35.186451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7ea69634-3e2a-5ee8-81fb-23593ea4873e",
+        "address": "15003-Live-Oak-Springs-Canyon-Rd-Santa-Clarita-CA-91387",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 4344,
+        "listed_at": "2026-08-05T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1495000,
+        "price_label": "$1.495M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.402158,
+          34.408998
         ]
       }
     },
@@ -41206,27 +41227,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b722da11-f86a-5ab7-8837-268232ecc623",
-        "address": "2237-Red-Barn-St-Delaware-OH-43015",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1546,
-        "listed_at": "2026-07-23T20:10:04.000Z",
-        "days_on_market": "13",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.113072,
-          40.318224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b72dd2c4-5fd2-5a2c-a758-34d4270b1f43",
         "address": "5795-Stewart-Mill-Rd-Douglasville-GA-30135",
         "beds": 3,
@@ -41536,27 +41536,6 @@
         "coordinates": [
           -80.830326,
           35.435922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8a92ffe-ff23-5f8b-887b-191aede36fa1",
-        "address": "602-Johnnys-Cv-Leeds-AL-35094",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2080,
-        "listed_at": "2026-08-01T06:09:33.000Z",
-        "days_on_market": "5",
-        "current_price": 289000,
-        "price_label": "$289K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.583426,
-          33.526118
         ]
       }
     },
@@ -47107,6 +47086,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d1b3e8d8-f552-5968-a831-03e9d5315d90",
+        "address": "1038-Overlook-Dr-Villa-Rica-GA-30180",
+        "beds": 4,
+        "baths": 5.5,
+        "sqft": 5370,
+        "listed_at": "2026-08-05T17:20:05.000Z",
+        "days_on_market": "30",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.896744,
+          33.73833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d1bb9f85-f238-5e15-a9b2-5ca72b22f2dc",
         "address": "",
         "beds": 3,
@@ -47374,6 +47374,27 @@
         "coordinates": [
           -115.28711,
           36.056061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d2dc9abf-b6a1-5c83-b3fe-194f3b606ea7",
+        "address": "3512-Majestic-Ln-Bowie-MD-20715",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1887,
+        "listed_at": "2026-08-05T17:20:05.000Z",
+        "days_on_market": ">164",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.736997,
+          38.983053
         ]
       }
     },
@@ -53323,27 +53344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eaaba771-dc87-5ca3-ac57-c5e0449f2dc2",
-        "address": "4522-Mariner-Dr-Rowlett-TX-75088",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1578,
-        "listed_at": "2026-04-16T16:18:49.000Z",
-        "days_on_market": ">164",
-        "current_price": 316000,
-        "price_label": "$316K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.526187,
-          32.902092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
         "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
         "beds": 3,
@@ -53464,27 +53464,6 @@
         "coordinates": [
           -80.358918,
           27.24185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eb72cd6c-dccf-5f4b-88d8-b642b3ee6c46",
-        "address": "110-W-4th-Ave-San-Manuel-AZ-85631",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 864,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "47",
-        "current_price": 118000,
-        "price_label": "$118K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.633836,
-          32.606765
         ]
       }
     },
