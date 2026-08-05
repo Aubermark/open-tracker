@@ -7102,27 +7102,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ef441e3-b0c5-54fa-8a06-69819223d31c",
-        "address": "13387-Quinta-Way-Desert-Hot-Springs-CA-92240",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1614,
-        "listed_at": "2026-08-03T17:20:05.000Z",
-        "days_on_market": "125",
-        "current_price": 412000,
-        "price_label": "$412K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.476389,
-          33.951616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f0bf5d3-1dea-51de-ac1d-e7376a925316",
         "address": "953-Balto-Dr-Shelbyville-IN-46176",
         "beds": 3,
@@ -16189,27 +16168,6 @@
         "coordinates": [
           -81.858372,
           28.725408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "480a8d69-d8b4-5e21-b22d-699553526cfc",
-        "address": "621-S-Timber-Ln-Oklahoma-City-OK-73127",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 972,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "58",
-        "current_price": 133000,
-        "price_label": "$133K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.639018,
-          35.473655
         ]
       }
     },
@@ -50215,27 +50173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "dd05748f-ad79-55dc-9549-18d6a76046b5",
-        "address": "6003-N-Cosby-Ct-Kansas-City-MO-64151",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 4704,
-        "listed_at": "2026-08-03T18:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 696000,
-        "price_label": "$696K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.648885,
-          39.202493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dd164c7f-5fc2-55d0-bb3d-1df3a62236a1",
         "address": "29202-Cowboy-Ct-Valencia-CA-91354",
         "beds": 3,
@@ -56824,6 +56761,27 @@
         "coordinates": [
           -82.128108,
           29.162257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9cfa727-7c37-509a-b76d-ad8cf6256a50",
+        "address": "305-N-Lakeside-Ter-Mustang-OK-73064",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1832,
+        "listed_at": "2026-08-05T18:40:03.000Z",
+        "days_on_market": ">164",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.683042,
+          35.394073
         ]
       }
     },
