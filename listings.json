@@ -10042,6 +10042,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d2bf5f3-c538-562e-a771-f1d7273af918",
+        "address": "710-Encanto-Dr-Leander-TX-78641",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2062,
+        "listed_at": "2026-08-05T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8712,
+          30.581648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d3dbbf2-d68c-53b5-aff3-fd18f1411e1b",
         "address": "828-Claiborne-Ln-Lebanon-IN-46052",
         "beds": 3,
@@ -29887,6 +29908,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85de681e-f653-54e9-a6ab-36a7eb005812",
+        "address": "11314-Sailwing-Creek-Ct-Pearland-TX-77584",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4616,
+        "listed_at": "2026-08-05T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.395172,
+          29.564684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85e809e9-f0ff-5c8b-ba99-962408a862fd",
         "address": "3115-N-53rd-Dr-Phoenix-AZ-85031",
         "beds": 4,
@@ -37699,27 +37741,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a8f306c0-d6df-5fe9-ae72-ee3ac79bd46b",
-        "address": "5704-Shady-Hollow-Ct-Rosharon-TX-77583",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2259,
-        "listed_at": "2026-07-28T18:00:03.000Z",
-        "days_on_market": "8",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.441699,
-          29.499693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a8f9b052-f0a6-5307-b24e-8ddd637f6412",
         "address": "6334-N-Ensenada-Ct-Aurora-CO-80019",
         "beds": 4,
@@ -44203,6 +44224,27 @@
         "coordinates": [
           -111.770927,
           33.463833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c748da1f-346e-575b-a701-7a2aa89c4bc8",
+        "address": "3610-Clearview-Dr-Corinth-TX-76210",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1650,
+        "listed_at": "2026-08-05T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.050987,
+          33.135285
         ]
       }
     },
