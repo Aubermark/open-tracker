@@ -6703,6 +6703,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c6c251e-7e97-509e-b8b8-9aa458e4e3b1",
+        "address": "17-Lakeview-Dr-Key-Largo-FL-33037",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1632,
+        "listed_at": "2026-08-05T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 750000,
+        "price_label": "$750K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.434184,
+          25.105054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c9db0b8-bd42-45f0-b9eb-389419a6eac9",
         "address": "154-Catalpa-Rd-Milner-GA-30257",
         "beds": 4,
@@ -28075,6 +28096,27 @@
         "coordinates": [
           -89.971484,
           38.697496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7cee1a58-2250-5ce4-90a5-a12ccfde40f3",
+        "address": "5048-Kerry-Downs-Rd-Hoover-AL-35242",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2785,
+        "listed_at": "2026-08-05T15:20:04.000Z",
+        "days_on_market": ">164",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.715012,
+          33.404516
         ]
       }
     },
