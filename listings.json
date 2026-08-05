@@ -2209,6 +2209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "085b0a04-3543-5093-bdb1-5c8cd2a75597",
+        "address": "9304-Farmington-Dr-Henrico-VA-23229",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2228,
+        "listed_at": "2026-08-05T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.581254,
+          37.605117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08c5e9d6-41e0-57f9-8959-b572499012b1",
         "address": "2109-Sheffield-Rd-Raleigh-NC-27610",
         "beds": 2,
@@ -4786,27 +4807,6 @@
         "coordinates": [
           -82.697699,
           28.018369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "14912d8c-7cf0-54e5-b1cf-a3be0d57f8c6",
-        "address": "5097-Village-Dr-Las-Vegas-NV-89142",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1295,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": ">164",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.063288,
-          36.148328
         ]
       }
     },
@@ -16258,27 +16258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "481b47e6-f623-5f71-a75e-dd6326bda851",
-        "address": "13936-W-65th-Dr-Arvada-CO-80004",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1677,
-        "listed_at": "2026-07-31T08:00:03.000Z",
-        "days_on_market": "6",
-        "current_price": 605000,
-        "price_label": "$605K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.155632,
-          39.815299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4830d960-ff7f-517b-9939-a8ee388bcf71",
         "address": "916-Summer-Rain-Ct-Conroe-TX-77303",
         "beds": 5,
@@ -27298,27 +27277,6 @@
         "coordinates": [
           -97.716568,
           30.630697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "793fe865-b3f6-569c-839a-b80d1b4088b2",
-        "address": "5432-Nuthatch-St-Dallas-TX-75236",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1356,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "85",
-        "current_price": 268000,
-        "price_label": "$268K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.896548,
-          32.678209
         ]
       }
     },
@@ -41536,27 +41494,6 @@
         "coordinates": [
           -88.351538,
           42.088696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8992c12-a522-5b35-aed1-8d41d57361c3",
-        "address": "13655-Audrey-Ln-Largo-FL-33771",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1740,
-        "listed_at": "2026-07-22T17:30:05.000Z",
-        "days_on_market": "14",
-        "current_price": 423000,
-        "price_label": "$423K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.732297,
-          27.896157
         ]
       }
     },
