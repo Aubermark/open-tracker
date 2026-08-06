@@ -3763,6 +3763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fc217bc-9c2d-5034-a9e6-f609b4db220f",
+        "address": "5909-Urbano-Bnd-Round-Rock-TX-78665",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-08-06T09:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.599583,
+          30.553047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fd8dd79-6ea2-5eba-99f7-abf99c4870ec",
         "address": "1124-Washington-Dr-Moody-AL-35004",
         "beds": 3,
