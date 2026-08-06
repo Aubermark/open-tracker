@@ -511,7 +511,8 @@
     ["<=", domNumber, 60],  "#9821f3",
     ["<=", domNumber, 90],  "#ffd900f4",
     ["<=", domNumber, 120], "#FF9800",
-    "#E65100"
+    ["<=", domNumber, 160], "#E65100",
+    "#af3e01da"
   ];
 
   const domIconExpression = [
@@ -522,7 +523,8 @@
     ["<=", domNumber, 60],  "pill-violet",
     ["<=", domNumber, 90],  "pill-yellow",
     ["<=", domNumber, 120], "pill-orange",
-    "pill-red"
+    ["<=", domNumber, 160], "pill-red",
+    "pill-darkred"
   ];
 
   const DOM_RANGES = [
@@ -532,11 +534,12 @@
     { key: 30,  label: "30 – 60 days",    color: "#9821f3" },
     { key: 60,  label: "60 – 90 days",   color: "#ffd900f4" },
     { key: 90,  label: "90 – 120 days",   color: "#FF9800" },
-    { key: 120, label: "+120 days",       color: "#E65100" },
+     { key: 120,  label: "120 – 160 days",   color: "#FF9800" },
+    { key: 160, label: "+160 days",       color: "#af3e01da" },
   ];
 
   const activeFilters = new Set(DOM_RANGES.map(r => r.key));
-  let domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0, 90: 0, 120: 0 };
+  let domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0, 90: 0, 120: 0, 160: 0 };
 
   function parseDOMValue(raw) {
     const s = String(raw);
@@ -544,7 +547,7 @@
   }
 
   function computeDOMCounts(features) {
-    domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0, 90: 0, 120: 0 };
+    domCounts = { 0: 0, 1: 0, 7: 0, 30: 0, 60: 0, 90: 0, 120: 0, 160: 0 };
     features.forEach(f => {
       const d = parseDOMValue(f.properties?.days_on_market ?? 0);
       if      (d <= 1)              domCounts[0]++;
@@ -553,7 +556,8 @@
       else if (d > 30  && d <= 60)  domCounts[30]++;
       else if (d > 60 && d <= 90) domCounts[60]++;
       else if (d > 90 && d <= 120) domCounts[90]++;
-      else if (d > 120)             domCounts[120]++;
+      else if (d > 120 && d <= 160) domCounts[120]++;
+      else if (d > 160)             domCounts[160]++;
     });
   }
 
@@ -576,7 +580,8 @@
     if (activeFilters.has(30))  conditions.push(["all", [">", domNumber, 30], ["<=", domNumber, 60]]);
     if (activeFilters.has(60))  conditions.push(["all", [">", domNumber, 60], ["<=", domNumber, 90]]);
     if (activeFilters.has(90))  conditions.push(["all", [">", domNumber, 90], ["<=", domNumber, 120]]);
-    if (activeFilters.has(120)) conditions.push([">", domNumber, 120]);
+     if (activeFilters.has(120))  conditions.push(["all", [">", domNumber, 120], ["<=", domNumber, 160]]);
+    if (activeFilters.has(160)) conditions.push([">", domNumber, 160]);
     return ["any", ...conditions];
   }
 
@@ -742,7 +747,7 @@
 
     const PILL_COLORS = {
       "pill-lime": "#a8c623", "pill-green": "#21f36b", "pill-violet": "#9821f3", "pill-yellow": "#ffd900f4",
-      "pill-blue": "#2196F3", "pill-orange": "#FF9800", "pill-red": "#E65100",
+      "pill-blue": "#2196F3", "pill-orange": "#FF9800", "pill-red": "#E65100", "pill-darkred": "#af3e01da",
     };
     for (const [name, color] of Object.entries(PILL_COLORS)) {
       map.addImage(name, makeRoundedRect(color, 120, 40, 10), { pixelRatio: 2 });
