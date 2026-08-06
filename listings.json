@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09aa39ef-ec3c-5dbc-b20b-2fcb1999fcfb",
+        "address": "2802-S-Ireland-Way-Aurora-CO-80013",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2850,
+        "listed_at": "2026-08-06T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 587000,
+        "price_label": "$587K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.752503,
+          39.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09b618b7-1b24-4740-a583-f81341ef6467",
         "address": "115-Spring-Hall-Dr-Troutman-NC-28166",
         "beds": 4,
@@ -6199,27 +6220,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1968ece3-69aa-589c-ac94-304c1fb756ef",
-        "address": "3423-Willow-Crest-Ln-Dallas-TX-75233-18344732",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2689,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "31",
-        "current_price": 342000,
-        "price_label": "$342K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.877299,
-          32.69216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "19ad7ca0-98c7-5b08-872b-b6c383d56c78",
         "address": "321-Eastover-Cir-Summerville-SC-29483-17915291",
         "beds": 3,
@@ -9259,27 +9259,6 @@
         "coordinates": [
           -88.435612,
           41.360562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2935434c-b687-5ec7-a17b-4ddf0add1aa4",
-        "address": "5923-Cielo-Rnch-San-Antonio-TX-78218",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2759,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "31",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.368881,
-          29.49426
         ]
       }
     },
@@ -32212,6 +32191,27 @@
         "coordinates": [
           -80.788784,
           34.924518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8d2cacba-7bfc-5f38-9bef-1e2daf6460ba",
+        "address": "5148-Clearview-Dr-Winston-Salem-NC-27104",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2205,
+        "listed_at": "2026-08-06T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.351082,
+          36.090648
         ]
       }
     },
