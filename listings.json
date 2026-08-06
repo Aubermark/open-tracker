@@ -11701,6 +11701,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "334079e1-6385-5201-ae51-9eb12dcce771",
+        "address": "17052-Sw-39th-Cir-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1545,
+        "listed_at": "2026-08-06T13:50:04.000Z",
+        "days_on_market": "108",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.184512,
+          28.972723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33442f67-e661-5acc-a4f7-ec120d33b03d",
         "address": "9816-Mullins-Crossing-Dr-Fort-Worth-TX-76126",
         "beds": 4,
@@ -22972,6 +22993,27 @@
         "coordinates": [
           -81.092402,
           34.932909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "665c4fd0-f704-5e35-b302-d06f7bf57848",
+        "address": "6530-Swallow-Ct-Mc-Kinney-TX-75071",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3040,
+        "listed_at": "2026-08-06T13:50:04.000Z",
+        "days_on_market": "9",
+        "current_price": 850000,
+        "price_label": "$850K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.732918,
+          33.26703
         ]
       }
     },
@@ -34633,27 +34675,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "99075937-4347-523c-860f-caaf91fac475",
-        "address": "15188-Brantley-Ln-Noblesville-IN-46060",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2146,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "55",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.976063,
-          40.009646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9913934b-ec5e-5e79-93de-b5594b0faa32",
         "address": "7212-Derickson-Ave-Ne-Albuquerque-NM-87109",
         "beds": 3,
@@ -41190,9 +41211,9 @@
         "beds": 3,
         "baths": 2,
         "sqft": 2180,
-        "listed_at": "2026-08-06T05:16:42.000Z",
+        "listed_at": "2026-08-06T13:50:03.000Z",
         "days_on_market": "27",
-        "current_price": 200001,
+        "current_price": 200000,
         "price_label": "$200K"
       },
       "geometry": {
