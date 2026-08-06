@@ -25246,27 +25246,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "705545b7-31e8-587d-ad4a-fe87db05a32f",
-        "address": "781-S-Silvercreek-Ln-Casa-Grande-AZ-85122",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1785,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "86",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.701499,
-          32.843665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "708cf2cf-aefd-5123-8174-18d4d0ca4500",
         "address": "6756-Palo-Duro-Dr-Irving-TX-75063",
         "beds": 4,
@@ -44671,6 +44650,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c57c6e9c-c5e1-5434-9333-fe0ccd3dac68",
+        "address": "112-Sherard-Ave-Ninety-Six-SC-29666",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1650,
+        "listed_at": "2026-08-06T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02214,
+          34.172743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6475ebc-5b7b-5186-81f6-22ecaac185fa",
         "address": "366-Frank-Burns-Way-Kings-Mountain-NC-28086",
         "beds": 3,
@@ -50251,6 +50251,27 @@
         "coordinates": [
           -78.43168,
           35.686995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db84897c-51e0-57e9-80d5-3cd8ee5ceacb",
+        "address": "3127-Madsen-St-Hayward-CA-94541",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1418,
+        "listed_at": "2026-08-06T19:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 645000,
+        "price_label": "$645K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.091151,
+          37.6629
         ]
       }
     },
