@@ -613,6 +613,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0199190f-581a-5e4a-b70a-bb0c8697c48e",
+        "address": "1756-Hidden-Brook-Dr-Grand-Prairie-TX-75050-18293223",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3006,
+        "listed_at": "2026-08-06T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.042225,
+          32.766699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "019e34de-b754-5c97-9763-2c70ffe2413e",
         "address": "6811-Kingman-Dr-Indianapolis-IN-46256",
         "beds": 3,
@@ -5805,10 +5826,10 @@
         "beds": 3,
         "baths": 3.5,
         "sqft": 3080,
-        "listed_at": "2026-07-09T05:58:39.000Z",
+        "listed_at": "2026-08-06T17:50:03.000Z",
         "days_on_market": "105",
-        "current_price": 725000,
-        "price_label": "$725K"
+        "current_price": 690000,
+        "price_label": "$690K"
       },
       "geometry": {
         "type": "Point",
@@ -39444,13 +39465,13 @@
       "properties": {
         "address_token": "ade6d1ac-e447-56b9-bb56-fde28f99ed6c",
         "address": "115-Cochran-Farms-Dr-Roswell-GA-30075",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 5584,
-        "listed_at": "2026-07-24T09:00:04.000Z",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 4908,
+        "listed_at": "2026-08-06T17:50:03.000Z",
         "days_on_market": "104",
-        "current_price": 1250000,
-        "price_label": "$1.250M"
+        "current_price": 1199000,
+        "price_label": "$1.199M"
       },
       "geometry": {
         "type": "Point",
@@ -42387,10 +42408,10 @@
         "beds": 6,
         "baths": 3.5,
         "sqft": 4964,
-        "listed_at": "2026-07-24T09:00:04.000Z",
+        "listed_at": "2026-08-06T17:50:03.000Z",
         "days_on_market": "115",
-        "current_price": 849000,
-        "price_label": "$849K"
+        "current_price": 800000,
+        "price_label": "$800K"
       },
       "geometry": {
         "type": "Point",
@@ -43090,27 +43111,6 @@
         "coordinates": [
           -81.854674,
           35.119601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bdab2b44-5583-5b0c-b91f-57e62d7ffa8e",
-        "address": "12858-Sw-228th-St-Miami-FL-33170",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2620,
-        "listed_at": "2026-07-08T06:07:34.000Z",
-        "days_on_market": "30",
-        "current_price": 745000,
-        "price_label": "$745K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.400052,
-          25.555011
         ]
       }
     },
@@ -53407,6 +53407,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e970a84a-dae2-5d99-82d6-1eb50a2359dd",
+        "address": "105-Jefferson-Forest-Ct-Winston-Salem-NC-27106",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-08-06T17:50:04.000Z",
+        "days_on_market": "45",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33083,
+          36.118544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e9942828-4be2-5065-b13b-35dded47d8ff",
         "address": "39676-Ridgedale-Dr-Murrieta-CA-92563-18200024",
         "beds": 3,
@@ -56656,6 +56677,27 @@
         "coordinates": [
           -84.032498,
           34.063979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f79683f4-308a-5eeb-b7b6-2030adb42323",
+        "address": "6908-Welton-Dr-Ne-Albuquerque-NM-87109",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1946,
+        "listed_at": "2026-08-06T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.570009,
+          35.155577
         ]
       }
     },
