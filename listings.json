@@ -17602,6 +17602,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e496f66-1632-514e-bc43-ca737566b231",
+        "address": "17409-Mapleboro-Ave-Maple-Heights-OH-44137",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1022,
+        "listed_at": "2026-08-06T13:10:04.000Z",
+        "days_on_market": ">165",
+        "current_price": 141000,
+        "price_label": "$141K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55767,
+          41.413937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4e59f73d-587a-5777-afd2-0ef795bc43d0",
         "address": "10964-N-161st-Ave-Surprise-AZ-85379",
         "beds": 4,
@@ -41171,7 +41192,7 @@
         "sqft": 2180,
         "listed_at": "2026-08-06T05:16:42.000Z",
         "days_on_market": "27",
-        "current_price": 200000,
+        "current_price": 200001,
         "price_label": "$200K"
       },
       "geometry": {
