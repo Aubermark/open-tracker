@@ -31819,6 +31819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8cbe6dfb-ec58-5d51-95cc-5d7d35e80e63",
+        "address": "5713-A-Charles-Merle-Dr-Austin-TX-78747",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1810,
+        "listed_at": "2026-08-06T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75557,
+          30.156371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8cdb2b15-ce7b-5179-9032-bef8c916c824",
         "address": "3004-Sw-Barton-St-Seattle-WA-98126",
         "beds": 3,
