@@ -886,6 +886,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0231715e-6a5c-5ddb-88ee-fc567ae01db1",
+        "address": "1444-Peppoli-Loop-Se-Rio-Rancho-NM-87124",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2206,
+        "listed_at": "2026-08-06T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.690613,
+          35.239036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02469a3c-8f2f-5253-8042-fbf900bce68b",
         "address": "3358-Neptune-Dr-Raleigh-NC-27604",
         "beds": 3,
@@ -57748,6 +57769,27 @@
         "coordinates": [
           -80.690447,
           35.253444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd77efbc-b324-5214-b919-55747228084a",
+        "address": "16-Thomas-Ct-Nw-Cartersville-GA-30121",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1185,
+        "listed_at": "2026-08-06T14:30:04.000Z",
+        "days_on_market": "105",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.820728,
+          34.265927
         ]
       }
     },
