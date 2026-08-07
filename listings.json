@@ -1285,6 +1285,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03de1181-d2ae-5b9f-ac93-2fdd0da35b54",
+        "address": "2603-Pecan-Valley-Dr-Granbury-TX-76048",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 3038,
+        "listed_at": "2026-08-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.821402,
+          32.488069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03f95439-ec38-5a67-9784-75400d16ac38",
         "address": "19539-N-Rose-Ct-Maricopa-AZ-85138-18103013",
         "beds": 3,
@@ -2455,6 +2476,27 @@
         "coordinates": [
           -80.887462,
           35.685005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "09bdc4c7-8e46-525b-9a37-29b84cd3aba9",
+        "address": "3333-17th-Ave-Forest-Grove-OR-97116",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2434,
+        "listed_at": "2026-08-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0885,
+          45.515754
         ]
       }
     },
@@ -18163,6 +18205,27 @@
         "coordinates": [
           -112.048487,
           33.294106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "525febf3-2eca-5df3-ac29-da437a889a10",
+        "address": "11-W-Canyon-Way-Chandler-AZ-85248",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2696,
+        "listed_at": "2026-08-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.841851,
+          33.238853
         ]
       }
     },
@@ -36103,6 +36166,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a031fe1d-0971-5461-a44c-49f8496fe3fd",
+        "address": "830-Graham-Dr-Burleson-TX-76028",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3725,
+        "listed_at": "2026-08-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.363563,
+          32.548795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a050f94b-87d7-52fc-b442-2d9361bdb446",
         "address": "845-Songbird-Dr-Orange-Park-FL-32065-18408794",
         "beds": 5,
@@ -39085,27 +39169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ad0a7351-3f04-5e77-9541-ac0abde0135c",
-        "address": "4046-Farmingham-Woods-Dr-Hermitage-TN-37076",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "87",
-        "current_price": 342000,
-        "price_label": "$342K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.585405,
-          36.183757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ad16a510-c6f4-5ce1-934f-c5cabb2abd79",
         "address": "6472-Haypress-Ct-Las-Vegas-NV-89141-7452671",
         "beds": 3,
@@ -40843,27 +40906,6 @@
         "coordinates": [
           -96.461601,
           32.686741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b3f16147-cbc5-5844-bfcf-ee3894ef73cb",
-        "address": "2-Sumer-Ln-S-Douglasville-GA-30134",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2215,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "32",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.786385,
-          33.787656
         ]
       }
     },
@@ -43636,27 +43678,6 @@
         "coordinates": [
           -105.120163,
           40.434374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c115fa8a-4786-559d-88c1-b77de2996567",
-        "address": "9814-Dean-Cove-Ln-Orlando-FL-32825",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1054,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "108",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.24774,
-          28.56025
         ]
       }
     },
@@ -48508,6 +48529,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4e5ebc8-f031-51f4-bf51-5544dbe73127",
+        "address": "106-Forestview-Rd-Hickory-Creek-TX-75065",
+        "beds": 6,
+        "baths": 2.5,
+        "sqft": 4011,
+        "listed_at": "2026-08-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.040838,
+          33.125198
         ]
       }
     },
@@ -56971,27 +57013,6 @@
         "coordinates": [
           -86.044004,
           39.499752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8a9a66f-cce6-54d4-8683-f8a3c65b8d32",
-        "address": "1301-Lucaya-Ave-Venice-FL-34285",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1791,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "87",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.421002,
-          27.104863
         ]
       }
     },
