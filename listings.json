@@ -2104,6 +2104,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07c2b001-b951-5039-b0ec-52da6decb16a",
+        "address": "1886-Greenwood-Rd-Chattanooga-TN-37406",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1040,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.241735,
+          35.057327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
@@ -2623,6 +2644,27 @@
         "coordinates": [
           -77.65451,
           36.466248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0a4c56f1-1498-59d8-8dd2-77ceaae04697",
+        "address": "1231-Jeanette-Way-Carrollton-TX-75006",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3673,
+        "listed_at": "2026-08-07T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.899628,
+          32.970994
         ]
       }
     },
@@ -15628,6 +15670,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44b672bf-d3af-52c3-8634-cd3ebb562416",
+        "address": "1100-Prescot-Ave-Nw-Massillon-OH-44646",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2156,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464219,
+          40.808356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44bc9d7a-a5ae-5bdd-929c-8d427b7c2e4c",
         "address": "3132-Evangeline-Rd-Fort-Worth-TX-76140-15466654",
         "beds": 3,
@@ -16273,6 +16336,27 @@
         "coordinates": [
           -84.24778,
           39.182887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "47855e82-faba-5b21-887a-e6266e8a1d6a",
+        "address": "7044-Birnamwood-Ct-Myrtle-Beach-SC-29579",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2199,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.913059,
+          33.774457
         ]
       }
     },
@@ -17974,6 +18058,27 @@
         "coordinates": [
           -82.363849,
           31.210272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "502fb4a4-ecfc-55f3-80f0-73b4cb3cd864",
+        "address": "10244-Gloman-Ct-Mint-Hill-NC-28227",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1018,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.671403,
+          35.199241
         ]
       }
     },
@@ -23692,6 +23797,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "695da759-bcc5-5431-9a7b-e076a00c62b1",
+        "address": "791-W-Glenview-Dr-Lenoir-City-TN-37771",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2426,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.292933,
+          35.799385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "69616987-b24b-5f99-9d23-d9117d8d08b7",
         "address": "3011-Cameron-St-Indianapolis-IN-46203",
         "beds": 3,
@@ -26059,27 +26185,6 @@
         "coordinates": [
           -81.626444,
           28.467765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "74d5d25f-83d5-5294-91a7-c7cdcf89cbf4",
-        "address": "133-Roadster-Row-Summerville-SC-29483",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3347,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "115",
-        "current_price": 389000,
-        "price_label": "$389K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.268035,
-          33.022791
         ]
       }
     },
@@ -29026,6 +29131,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7fd9a680-4252-5e10-957c-7b725da2c7f6",
+        "address": "2136-Mountainview-Dr-Hurst-TX-76054",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1568,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.176734,
+          32.854911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8038e8b9-4f89-5f27-9e57-db62fa956a5f",
         "address": "7188-Tarragon-Ct-Liberty-Twp-OH-45011",
         "beds": 4,
@@ -31126,27 +31252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "89bb5fea-9bf5-5365-b5cb-36de5b3fb3e9",
-        "address": "208-Forest-Way-Schertz-TX-78154",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1296,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "108",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.250739,
-          29.555204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "89c9d5c6-6f05-5945-bbc7-9d96bbc8030d",
         "address": "4272-Summersweet-Ln-Crowley-TX-76036",
         "beds": 5,
@@ -32863,6 +32968,27 @@
         "coordinates": [
           -122.797843,
           45.446543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90ba65fe-b1bf-5eb8-99ad-3c01b5b4c073",
+        "address": "714-Continental-Dr-Lawrenceville-GA-30044-16706877",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1720,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "8",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.072816,
+          33.888118
         ]
       }
     },
@@ -37741,6 +37867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a5f47df5-a732-582c-941a-d5d536d917b1",
+        "address": "12325-Wright-Ct-Noblesville-IN-46060",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2045,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.946921,
+          40.017444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a5fafa79-9c59-4521-8a05-3c4ce0c2c433",
         "address": "5713-S-13th-Ave-Phoenix-AZ-85041",
         "beds": 3,
@@ -38302,27 +38449,6 @@
         "coordinates": [
           -98.01675,
           30.434743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
-        "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1649,
-        "listed_at": "2026-06-22T20:00:04.000Z",
-        "days_on_market": "136",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.200959,
-          32.977357
         ]
       }
     },
@@ -46849,6 +46975,27 @@
         "coordinates": [
           -80.013798,
           32.968042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cf1f6ad6-51b9-5ec7-a135-844b010c85f0",
+        "address": "30-Pickwick-Pl-Greensboro-NC-27407",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1564,
+        "listed_at": "2026-08-07T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.891468,
+          36.04956
         ]
       }
     },
