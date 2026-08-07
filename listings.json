@@ -30643,6 +30643,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "87d7108b-b886-5cf0-b8e0-feb4baac2d2d",
+        "address": "10330-Sandbar-Dr-Irving-TX-75063",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3032,
+        "listed_at": "2026-08-07T12:30:04.000Z",
+        "days_on_market": "80",
+        "current_price": 630000,
+        "price_label": "$630K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.966079,
+          32.945903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "881beca7-48e5-5005-8857-b0476a53a617",
         "address": "7508-Star-Harbor-Dr-Corpus-Christi-TX-78414",
         "beds": 4,
