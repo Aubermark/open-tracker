@@ -21361,6 +21361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fac7359-fbcf-5cf0-bce9-d1d8d0085960",
+        "address": "13720-Stevenson-Ln-Odessa-FL-33556",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2418,
+        "listed_at": "2026-08-07T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.590009,
+          28.198244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
         "address": "1900-Milfield-Cir-Snellville-GA-30078",
         "beds": 4,
@@ -40303,6 +40324,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b238a7f4-ba56-5270-bd0a-2de08ffbe9c1",
+        "address": "314-Jameson-Loop-The-Villages-FL-32163",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2033,
+        "listed_at": "2026-08-07T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.955428,
+          28.783383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b23dc2fb-eb7e-531f-87d0-e4a4a376e77d",
         "address": "16484-N-108th-Pl-Scottsdale-AZ-85255",
         "beds": 4,
@@ -52120,6 +52162,27 @@
         "coordinates": [
           -96.979904,
           32.965112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e487af9e-45bb-5cbb-9236-2cd70bbcf4da",
+        "address": "3664-Sw-Ivy-Pl-Dunnellon-FL-34431",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 972,
+        "listed_at": "2026-08-07T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48334,
+          29.143528
         ]
       }
     },
