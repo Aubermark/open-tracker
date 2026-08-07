@@ -41059,6 +41059,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b59ffb9e-2019-54b6-b6d4-737f64267835",
+        "address": "881-Haring-Ln-Mount-Dora-FL-32757",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2420,
+        "listed_at": "2026-08-07T11:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61883,
+          28.803655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b5a7b647-81cd-5eb9-b9d6-083b66103f68",
         "address": "4927-Trade-Wind-Ave-N-Keizer-OR-97303",
         "beds": 3,
@@ -43657,6 +43678,27 @@
         "coordinates": [
           -81.24774,
           28.56025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c118e43c-7a4f-5738-8360-5d732342a4f0",
+        "address": "5064-Bromley-Ave-Spring-Hill-FL-34609",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1025,
+        "listed_at": "2026-08-07T11:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.516349,
+          28.502988
         ]
       }
     },
