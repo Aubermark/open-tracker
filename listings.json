@@ -12121,27 +12121,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "35e4d146-4d00-56cc-bbb5-c0f3ee4c2c9c",
-        "address": "8906-Mission-Brk-San-Antonio-TX-78223",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1427,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "49",
-        "current_price": 194000,
-        "price_label": "$194K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.440507,
-          29.333497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3611cdc8-6c66-51c8-87b1-2591ef697c66",
         "address": "1838-N-62nd-St-Kansas-City-KS-66102",
         "beds": 3,
@@ -18604,6 +18583,27 @@
         "coordinates": [
           -112.041749,
           33.469125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "545a62cd-1640-5c2b-ab81-16c75d280cf8",
+        "address": "150-Sumter-Ct-Burlington-NC-27217",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1585,
+        "listed_at": "2026-08-07T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.340241,
+          36.137457
         ]
       }
     },
@@ -50929,27 +50929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "df0dde6c-b177-43d4-8c8b-489ee885c74c",
-        "address": "4704-Ward-St-Houston-TX-77021",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 1998,
-        "listed_at": "2026-07-23T06:17:22.000Z",
-        "days_on_market": "42",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.350546,
-          29.688305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "df118d6c-6e25-56d4-99a9-f5e89e2d632d",
         "address": "6703-E-Javalina-Way-Florence-AZ-85132",
         "beds": 3,
@@ -58336,27 +58315,6 @@
         "coordinates": [
           -80.926113,
           33.976189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "feb96443-5890-5262-bd59-c217cf7f3b3f",
-        "address": "3097-Rural-Plains-Cir-Franklin-TN-37064-17364817",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2583,
-        "listed_at": "2026-07-06T14:40:03.000Z",
-        "days_on_market": "32",
-        "current_price": 960000,
-        "price_label": "$960K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.839035,
-          35.866137
         ]
       }
     },
