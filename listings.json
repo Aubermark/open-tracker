@@ -56956,6 +56956,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f53a7949-b890-5a55-944a-bae589fa3169",
+        "address": "301-Brickingham-Way-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2334,
+        "listed_at": "2026-08-08T13:40:04.000Z",
+        "days_on_market": "54",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.901109,
+          34.145391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f53dc943-57dc-5b25-a473-b99ce13bdf24",
         "address": "1332-Delcastle-Loop-Grove-City-OH-43123",
         "beds": 4,
