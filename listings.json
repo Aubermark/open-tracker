@@ -18001,6 +18001,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e9861de-e4c6-55bb-aff5-585977bf0917",
+        "address": "1907-Sue-Ann-St-Orlando-FL-32817",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1655,
+        "listed_at": "2026-08-08T12:10:04.000Z",
+        "days_on_market": "31",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27186,
+          28.570035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4ef335ce-28d3-5af3-bad3-e20c3ea8bdc8",
         "address": "7945-Laurelwood-St-Beaumont-TX-77707",
         "beds": 4,
