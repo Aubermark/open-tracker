@@ -40282,6 +40282,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae69c18b-57c9-5ddd-a306-7949f147d878",
+        "address": "212-Conrad-Cir-Columbia-SC-29212",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1750,
+        "listed_at": "2026-08-08T14:20:04.000Z",
+        "days_on_market": "25",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.188,
+          34.057947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae8cd4be-6706-5bc4-af35-3ce7935952e6",
         "address": "235-White-Cloud-Trl-Murfreesboro-TN-37127",
         "beds": 3,
