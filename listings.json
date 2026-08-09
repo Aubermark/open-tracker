@@ -43369,27 +43369,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "baa4b425-07db-4e81-84c7-341b289d8543",
-        "address": "7453-Brompton-Dr-Foley-AL-36535",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1787,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "72",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.691346,
-          30.331702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bab8da3d-ed3f-5fa6-bedd-693f2bb453c2",
         "address": "1659-Woodwalk-Strm-Se-#-6-Atlanta-GA-30339",
         "beds": 4,
@@ -51286,27 +51265,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "db174ef0-5e80-5f8e-80a0-3093445ce3fd",
-        "address": "16960-Tack-Ln-Moreno-Valley-CA-92555",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1311,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "101",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.209872,
-          33.875172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "db2c457d-119f-59fc-8c4a-ed132860ebe4",
         "address": "2400-Creekview-Dr-Plano-TX-75093",
         "beds": 5,
@@ -51826,6 +51784,27 @@
         "coordinates": [
           -84.596542,
           33.831036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd69aa15-32da-5738-bdfd-87b7db84873e",
+        "address": "2128-Ronald-Ave-White-Bear-Lake-MN-55110",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 912,
+        "listed_at": "2026-08-09T16:10:04.000Z",
+        "days_on_market": "61",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.010822,
+          45.052412
         ]
       }
     },
