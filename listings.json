@@ -13234,6 +13234,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3adb879b-e545-559f-9373-9906f7e50eb0",
+        "address": "1619-River-Birch-Ave-Oviedo-FL-32765",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1981,
+        "listed_at": "2026-08-09T16:50:05.000Z",
+        "days_on_market": "48",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.183213,
+          28.629713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3adbdf6a-45c5-5cfc-ab49-9d60ec6177c9",
         "address": "6409-Tivoli-Ct-Charlotte-NC-28211",
         "beds": 3,
