@@ -23083,27 +23083,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "64b68b6b-ac76-5b02-9a7a-512c041a4e05",
-        "address": "4830-Dunbarton-Dr-Orlando-FL-32817",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1822,
-        "listed_at": "2026-08-03T18:00:02.000Z",
-        "days_on_market": "7",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.25089,
-          28.609825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "64f59680-842c-500d-be0f-cdacceee2807",
         "address": "1902-E-116th-Pl-Northglenn-CO-80233",
         "beds": 3,
@@ -33115,6 +33094,27 @@
         "coordinates": [
           -95.669947,
           30.237123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8f4a57fc-d7b8-5a7a-9166-32b4d28a18fe",
+        "address": "440-Hood-St-Rockingham-NC-28379",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 985,
+        "listed_at": "2026-08-10T14:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76007,
+          34.934059
         ]
       }
     },
@@ -46051,27 +46051,6 @@
         "coordinates": [
           -104.739217,
           38.914623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c85dc633-faa3-5961-a9ff-746b471173d6",
-        "address": "3346-Babson-Ct-Franklin-OH-45005",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3943,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "103",
-        "current_price": 531000,
-        "price_label": "$531K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.304503,
-          39.490839
         ]
       }
     },
