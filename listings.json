@@ -43726,6 +43726,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc919cbd-1a1b-5e80-be19-76d4209462e9",
+        "address": "6-Crimson-Clover-Ct-Durham-NC-27704",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-08-10T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890743,
+          36.06312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bca20b02-9cce-5f37-b529-93c6862b9d6f",
         "address": "28321-N-Cactus-Flower-Cir-San-Tan-Valley-AZ-85143",
         "beds": 3,
