@@ -49648,6 +49648,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d3332fbd-17df-55dc-ba53-b6cf732423e8",
+        "address": "3073-Saratoga-Dr-Dalton-GA-30721",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1750,
+        "listed_at": "2026-08-11T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.969171,
+          34.874458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d33dbd9f-db61-576a-bd55-6ddc74ac7bf8",
         "address": "7507-Lower-Ridge-Rd-Everett-WA-98203",
         "beds": 3,
@@ -57118,27 +57139,6 @@
         "coordinates": [
           -76.887534,
           38.676914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f16a2990-2acd-5e79-b647-f84a4c764d5a",
-        "address": "8134-S-Firefly-Dr-Pendleton-IN-46064",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2300,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "103",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.855813,
-          39.985981
         ]
       }
     },
