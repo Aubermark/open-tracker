@@ -4834,27 +4834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "134758ca-0ec7-5529-aaba-95ab78f86859",
-        "address": "2774-Emanuel-Church-Rd-West-Columbia-SC-29170",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1561,
-        "listed_at": "2026-06-11T05:53:46.000Z",
-        "days_on_market": "145",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.157016,
-          33.941767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "13686eb1-f4b0-5a01-98d9-d76f4ff7659d",
         "address": "4408-Waxhaw-Indian-Trail-Rd-Indian-Trail-NC-28079",
         "beds": 3,
@@ -12625,6 +12604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3617cb06-842b-53d8-842d-6d8e24fc2013",
+        "address": "14542-Arbor-Ridge-Dr-Charlotte-NC-28273",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1890,
+        "listed_at": "2026-08-11T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.982487,
+          35.119196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36205a04-713b-5053-b019-d0de71d33cb1",
         "address": "3-Eden-Dr-Nw-Rome-GA-30165",
         "beds": 3,
@@ -18352,27 +18352,6 @@
         "coordinates": [
           -84.803587,
           34.257324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4f6710d7-57ca-5ac8-9434-970960870f7a",
-        "address": "103-Marty-Ln-Dallas-GA-30132",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1183,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "26",
-        "current_price": 246000,
-        "price_label": "$246K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.792288,
-          33.961817
         ]
       }
     },
@@ -44812,6 +44791,27 @@
         "coordinates": [
           -79.868932,
           36.126782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bd4eadc6-6818-5a63-894e-c36e0d1b783c",
+        "address": "2294-Cullman-Rd-Arab-AL-35016",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1455,
+        "listed_at": "2026-08-11T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.543347,
+          34.306686
         ]
       }
     },
