@@ -21550,27 +21550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5dca7ed9-e78a-5563-8391-67e02c487678",
-        "address": "1005-Ne-44th-St-Kansas-City-MO-64116",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 688,
-        "listed_at": "2026-08-04T13:40:04.000Z",
-        "days_on_market": "103",
-        "current_price": 160000,
-        "price_label": "$160K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.567822,
-          39.174084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ddf8ac2-e07e-5485-ba8f-34aedde7e136",
         "address": "8341-Watermill-Dr-Millersville-MD-21108",
         "beds": 4,
@@ -29698,27 +29677,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7f2ead02-8d7e-554e-853c-ee5fa7c51cf8",
-        "address": "827-Dora-Ave-Tavares-FL-32778",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "33",
-        "current_price": 273000,
-        "price_label": "$273K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.718546,
-          28.809622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7f5acf54-e116-5072-92bc-c772032cc44a",
         "address": "2111-Ferentz-Trce-Norcross-GA-30071",
         "beds": 3,
@@ -30196,6 +30154,27 @@
         "coordinates": [
           -98.291363,
           29.497238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "81b92f82-bd80-5ba2-a28c-3f8560ddc921",
+        "address": "204-N-Crossing-Dr-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-08-11T14:00:05.000Z",
+        "days_on_market": "25",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877071,
+          34.136044
         ]
       }
     },
