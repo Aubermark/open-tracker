@@ -14011,6 +14011,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d3e25be-861e-51cc-9b43-c6e37b9fe011",
+        "address": "5536-Scuppernong-Rd-Wilson-NC-27893",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1128,
+        "listed_at": "2026-08-11T07:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.966742,
+          35.650907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d3e51ea-c2d0-51ea-8d94-0322ead549c2",
         "address": "5621-Split-Oak-Way-Raleigh-NC-27609",
         "beds": 2,
@@ -19423,6 +19444,27 @@
         "coordinates": [
           -86.605446,
           36.185674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "54c9deb8-9d29-5c4d-9fd6-dcce43acf523",
+        "address": "5005-Mill-Br-Wilson-NC-27893",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1199,
+        "listed_at": "2026-08-11T07:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.928988,
+          35.645885
         ]
       }
     },
