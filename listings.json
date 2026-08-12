@@ -9601,6 +9601,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28e698b9-46d9-525f-ba73-b4ded7bb3e28",
+        "address": "175-Lake-Geneva-Rd-Geneva-FL-32732",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1465,
+        "listed_at": "2026-08-12T10:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.113973,
+          28.743297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28fd8b79-3853-5276-bab4-70c8bddb542a",
         "address": "2272-W-5th-St-Cleveland-OH-44113",
         "beds": 2,
@@ -21481,6 +21502,27 @@
         "coordinates": [
           -84.171692,
           34.169051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5d22bece-99a7-5c3e-b04a-5b9aad338d14",
+        "address": "7233-Thomas-Jefferson-Cir-W-Bartow-FL-33830-18501533",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 918,
+        "listed_at": "2026-08-12T10:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.723151,
+          27.915158
         ]
       }
     },
