@@ -26926,6 +26926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "747d50fc-57bd-56e2-b352-c6af0beb6628",
+        "address": "114-E-Clay-St-Whiteville-NC-28472",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1801,
+        "listed_at": "2026-08-12T12:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.702395,
+          34.328037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7488886f-a6d1-5c84-a0e8-f82ff5da510a",
         "address": "1099-E-Sourwood-Dr-Gilbert-AZ-85298",
         "beds": 4,
