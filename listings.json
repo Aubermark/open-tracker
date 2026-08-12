@@ -15586,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42510d88-31cc-5c14-b931-9fb5b4d91e4d",
+        "address": "10215-N-36th-Ave-Phoenix-AZ-85051-17893801",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1522,
+        "listed_at": "2026-08-12T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.135559,
+          33.578915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42532513-be51-5fab-a0d5-bc57f6456828",
         "address": "2147-Rosemary-Ln-Sw-Supply-NC-28462",
         "beds": 3,
@@ -53506,27 +53527,6 @@
         "coordinates": [
           -97.68028,
           30.709246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "df524979-0a23-5f1e-86de-0a4398b164e0",
-        "address": "7520-Altus-Dr-S-Jacksonville-FL-32277",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1367,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "90",
-        "current_price": 248000,
-        "price_label": "$248K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.571641,
-          30.356346
         ]
       }
     },
