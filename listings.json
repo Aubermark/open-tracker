@@ -22915,6 +22915,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "628ea20e-ed0e-5e68-bb22-29ba0b1329f4",
+        "address": "431-Summer-Garden-Way-Sacramento-CA-95833",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1160,
+        "listed_at": "2026-08-12T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.472343,
+          38.624828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "62a9a1cb-ef53-5ef9-b09d-4c559edf3470",
         "address": "3840-Habersham-Schertz-TX-78154",
         "beds": 3,
@@ -41116,27 +41137,6 @@
         "coordinates": [
           -84.00526,
           33.786484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad2f86bb-a343-5184-b902-2215bd55c2fd",
-        "address": "22415-Horizon-Vistas-Dr-Eustis-FL-32736",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1872,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "63",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.586483,
-          28.906011
         ]
       }
     },
@@ -60835,6 +60835,27 @@
         "coordinates": [
           -94.418281,
           39.250828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff93ed8b-f117-5705-a390-e5eacfce368c",
+        "address": "1353-E-Colorado-Loop-Casa-Grande-AZ-85122",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1873,
+        "listed_at": "2026-08-12T17:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.728369,
+          32.892503
         ]
       }
     },
