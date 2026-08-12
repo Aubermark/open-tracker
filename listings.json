@@ -1684,27 +1684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0551dfd2-7739-5d22-aef7-8c1853d251ee",
-        "address": "1001-Parkland-Run-Se-Smyrna-GA-30082",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2639,
-        "listed_at": "2026-08-10T20:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 556000,
-        "price_label": "$556K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.528392,
-          33.844533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "056697a8-19ec-5f00-b1e9-c35379623b04",
         "address": "912-Amsterdam-Dr-Colorado-Springs-CO-80907",
         "beds": 3,
@@ -5962,6 +5941,27 @@
         "coordinates": [
           -80.082444,
           35.896408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "183b57e6-61b1-5428-ba76-6d40e403a9b4",
+        "address": "5698-Canehill-Ln-Hilliard-OH-43026",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1323,
+        "listed_at": "2026-08-12T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.157118,
+          39.989104
         ]
       }
     },
@@ -27262,27 +27262,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "75a3b363-9d2e-5b6f-8b7d-335e4a46f10f",
-        "address": "13808-S-Robinson-Ave-Oklahoma-City-OK-73170",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2573,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "96",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.514821,
-          35.331401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "75ac5104-9a8f-531b-817a-b0a772cc726e",
         "address": "7420-W-Crabapple-Dr-Peoria-AZ-85383",
         "beds": 3,
@@ -29419,27 +29398,6 @@
         "coordinates": [
           -86.387264,
           35.829949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7d15c86d-2e91-531f-9a36-5cf426c0f58a",
-        "address": "217-Emerald-Way-W-Granite-City-IL-62040",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1817,
-        "listed_at": "2026-08-10T14:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.080349,
-          38.709951
         ]
       }
     },
