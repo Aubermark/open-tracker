@@ -32743,6 +32743,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8b24081d-b803-5813-b236-8807c87ca597",
+        "address": "106-Rother-Ln-Durham-NC-27707",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2044,
+        "listed_at": "2026-08-12T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.997683,
+          35.941365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8b541a9c-a11f-5ca3-868e-0410434666a6",
         "address": "20503-Liatris-Ln-San-Antonio-TX-78259",
         "beds": 3,
@@ -53317,6 +53338,27 @@
         "coordinates": [
           -82.426687,
           27.041683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "decdf88e-05e4-5492-85e7-227ab1be5a2f",
+        "address": "511-Brighton-Ct-Wylie-TX-75098",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1444,
+        "listed_at": "2026-08-12T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.552308,
+          33.023552
         ]
       }
     },
