@@ -10147,6 +10147,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ad8db9e-c02e-5711-9969-1b225ae83aa2",
+        "address": "97-Walnut-Ave-Defuniak-Springs-FL-32435",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2168,
+        "listed_at": "2026-08-12T11:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.105978,
+          30.714499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ad9a604-388c-519f-8b68-1c360d4645fb",
         "address": "243-Haigs-Crk-N-Elgin-SC-29045",
         "beds": 4,
