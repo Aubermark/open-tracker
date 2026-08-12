@@ -34087,27 +34087,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "90d44fda-a0d6-5268-8aa0-2c3876d6365f",
-        "address": "324-Keystone-Dr-Hopkins-SC-29061",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1876,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "27",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.880291,
-          33.958719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "90dc9e01-8fb0-5e4d-a65c-9a1ca955f964",
         "address": "3935-Lake-Lanier-Dr-Duluth-GA-30097",
         "beds": 4,
@@ -41116,6 +41095,27 @@
         "coordinates": [
           -80.280881,
           26.225488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ad6d8929-fae3-5f71-96c0-bf33edad4189",
+        "address": "760-E-Dakota-St-Tucson-AZ-85706",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-08-12T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.959454,
+          32.155022
         ]
       }
     },
@@ -54136,6 +54136,27 @@
         "coordinates": [
           -111.915359,
           33.41287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2dfb3a9-9bdd-5872-9b72-64863b08a6ab",
+        "address": "7967-Canvasback-Ct-Littleton-CO-80125",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2048,
+        "listed_at": "2026-08-12T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.080424,
+          39.477799
         ]
       }
     },
