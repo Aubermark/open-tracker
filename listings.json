@@ -5590,6 +5590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c921b6-a34a-5a2b-9d55-9c8b674b1bf2",
+        "address": "105-Nottingham-Ct-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-08-12T13:50:04.000Z",
+        "days_on_market": ">171",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16982,
+          32.955414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16c9eed9-a909-505f-886a-93584c537b98",
         "address": "2925-Lake-Port-Dr-Snellville-GA-30039",
         "beds": 4,
@@ -11863,6 +11884,27 @@
         "coordinates": [
           -112.480761,
           33.47446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "321e6ed5-f066-481a-b027-01d6a69acf1c",
+        "address": "875-Lynbrook-Ct-North-Augusta-SC-29860",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2591,
+        "listed_at": "2026-08-12T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.986419,
+          33.550565
         ]
       }
     },
@@ -33976,6 +34018,27 @@
         "coordinates": [
           -82.115811,
           29.944029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90076dbb-2d55-52a4-9098-65a4b4950790",
+        "address": "681-Henry-St-Aiken-SC-29803",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1469,
+        "listed_at": "2026-08-12T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.712289,
+          33.527124
         ]
       }
     },
