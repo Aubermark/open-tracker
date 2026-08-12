@@ -3427,27 +3427,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0d7004b8-8329-5cdf-99ba-aa30fa874bd5",
-        "address": "1034-Ne-31st-Ave-Gainesville-FL-32609",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1432,
-        "listed_at": "2026-08-03T18:40:03.000Z",
-        "days_on_market": "9",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.312341,
-          29.681638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0d71572e-6403-5e31-b872-4cb187eb8408",
         "address": "2404-Royal-Birkdale-Dr-Plano-TX-75025",
         "beds": 4,
@@ -33793,27 +33772,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f778d49-598d-5733-a38b-7df3fc69d8f7",
-        "address": "1918-Arbor-Pl-San-Antonio-TX-78207",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1502,
-        "listed_at": "2026-07-24T08:30:03.000Z",
-        "days_on_market": "20",
-        "current_price": 196000,
-        "price_label": "$196K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.535739,
-          29.438158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8faf80b3-62ca-5d29-ae64-32543d6e1eda",
         "address": "367-Trellis-Bay-Dr-Saint-Augustine-FL-32092",
         "beds": 4,
@@ -34354,6 +34312,27 @@
         "coordinates": [
           -97.420984,
           35.173905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "91cb1c52-2dcc-536a-8e6c-202a0194ba86",
+        "address": "2831-Red-Oak-Dr-Grand-Prairie-TX-75052",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1917,
+        "listed_at": "2026-08-12T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.053139,
+          32.6509
         ]
       }
     },
@@ -46891,6 +46870,27 @@
         "coordinates": [
           -94.256122,
           39.039378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c68f4093-922d-5a3c-8ce5-83e23df96f1c",
+        "address": "5615-Spanish-Oak-Dr-Houston-TX-77066",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2836,
+        "listed_at": "2026-08-12T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.50698,
+          29.970014
         ]
       }
     },
