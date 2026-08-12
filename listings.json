@@ -9013,27 +9013,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "26e4af03-776f-57b8-8c66-da391f633463",
-        "address": "2510-Middleton-Dr-Gastonia-NC-28054",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1899,
-        "listed_at": "2026-07-27T14:30:04.000Z",
-        "days_on_market": "16",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.140727,
-          35.298076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "26f9ae11-1033-55bb-b853-aeaee8b2ac4f",
         "address": "1901-Parrish-Dr-Columbia-SC-29206",
         "beds": 4,
@@ -39148,6 +39127,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a4aa187b-2c07-5472-b81b-df6c35e1cc11",
+        "address": "3143-Chase-Ct-Sw-Marietta-GA-30008",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1898,
+        "listed_at": "2026-08-12T19:10:04.000Z",
+        "days_on_market": "111",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.599558,
+          33.877588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a4cc83f6-3d0d-5c16-a499-e513d7e43fc5",
         "address": "9867-Lane-St-Thornton-CO-80260",
         "beds": 2,
@@ -41935,6 +41935,27 @@
         "coordinates": [
           -84.464578,
           33.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b02a88f2-4b99-5814-a047-ec947860caab",
+        "address": "1214-E-Frances-Ln-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1960,
+        "listed_at": "2026-08-12T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763978,
+          33.292971
         ]
       }
     },
