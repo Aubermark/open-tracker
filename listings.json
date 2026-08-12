@@ -6451,6 +6451,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19f3a658-debf-53a5-a4ce-56643f2bc849",
+        "address": "2106-Geneva-St-Castroville-TX-78009",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1573,
+        "listed_at": "2026-08-12T09:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.892563,
+          29.356182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a1fa436-6bbc-5030-850d-36328d945ae1",
         "address": "9622-Scarborough-Ct-Summerville-SC-29485",
         "beds": 3,
@@ -7768,6 +7789,27 @@
         "coordinates": [
           -77.063877,
           39.020989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "21bd8dfd-2e06-5599-b492-f02229b26ce3",
+        "address": "197-Vintage-Ranch-Cir-La-Vernia-TX-78121",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2752,
+        "listed_at": "2026-08-12T09:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.186574,
+          29.278414
         ]
       }
     },
