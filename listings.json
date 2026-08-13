@@ -2986,27 +2986,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0bb9d718-621f-5722-9bda-9bdd1fcaa2f3",
-        "address": "1111-W-Summit-Pl-Unit-28-Chandler-AZ-85224",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1133,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "49",
-        "current_price": 309000,
-        "price_label": "$309K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.861035,
-          33.353163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0bff6d5d-3e5f-52b2-9ecb-e4fd13cc1139",
         "address": "5918-Ricker-Rd-Raleigh-NC-27610",
         "beds": 4,
@@ -17743,27 +17722,6 @@
         "coordinates": [
           -83.091493,
           39.915167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4b01d940-9d0e-5c91-82bd-ddc50b996b96",
-        "address": "7401-Limerick-Dr-Charlotte-NC-28270",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1936,
-        "listed_at": "2026-07-27T17:50:05.000Z",
-        "days_on_market": "69",
-        "current_price": 429000,
-        "price_label": "$429K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.758002,
-          35.139826
         ]
       }
     },
@@ -47395,6 +47353,27 @@
         "coordinates": [
           -111.770927,
           33.463833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c71962a4-9972-5d8a-91cf-827562ced8c0",
+        "address": "526-Royal-Valley-Rd-Grand-Prairie-TX-75052-18183194",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2380,
+        "listed_at": "2026-08-13T23:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.010059,
+          32.68694
         ]
       }
     },
