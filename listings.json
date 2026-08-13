@@ -44839,6 +44839,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcb99aa4-ecc7-5a15-86d9-c1c4ed9d7a73",
+        "address": "520-Patriot-Way-West-Union-SC-29696",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2003,
+        "listed_at": "2026-08-13T13:00:10.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030692,
+          34.753555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcbddec6-4d3d-5585-a314-c7dc5081f3ac",
         "address": "8400-Chestnut-Oak-Ct-Harrisburg-NC-28075",
         "beds": 3,
