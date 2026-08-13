@@ -18631,6 +18631,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fefbcfc-74e6-581b-942c-c6279fbe8bfa",
+        "address": "355-Pecan-St-Se-Dawson-GA-39842",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1890,
+        "listed_at": "2026-08-13T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4342,
+          31.770463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "502fb4a4-ecfc-55f3-80f0-73b4cb3cd864",
         "address": "10244-Gloman-Ct-Mint-Hill-NC-28227",
         "beds": 2,
@@ -33514,6 +33535,27 @@
         "coordinates": [
           -80.926289,
           35.262405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8e15076b-7826-5791-a545-1139fa9b91be",
+        "address": "4536-Drewbridge-Way-Raleigh-NC-27604",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1404,
+        "listed_at": "2026-08-13T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.562865,
+          35.81007
         ]
       }
     },
