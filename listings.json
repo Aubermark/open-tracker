@@ -14893,6 +14893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4022da71-07ac-5599-8199-ef72ce5829f9",
+        "address": "850-W-Calle-Arroyo-Norte-Green-Valley-AZ-85614",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1258,
+        "listed_at": "2026-08-13T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.983309,
+          31.917173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40250eca-2fd3-55cf-b46c-bfc6bdb90eaf",
         "address": "2014-Tarzi-Ln-Charlotte-NC-28215",
         "beds": 3,
@@ -47464,6 +47485,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c9708d69-4b2d-58fc-ab90-8c848ba6fef2",
+        "address": "8129-Rannock-Dr-Stockton-CA-95210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1472,
+        "listed_at": "2026-08-13T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.310975,
+          38.024377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c9789706-41e3-45cc-a83a-d3fc44bab30a",
         "address": "2218-Vera-Way-Longs-SC-29568",
         "beds": 4,
@@ -50797,27 +50839,6 @@
         "coordinates": [
           -96.332536,
           32.98799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d4b26699-46a3-5abd-8d4f-011f1b8110ba",
-        "address": "4493-Easywater-Ln-Fort-Mill-SC-29707",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1172,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "73",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.865317,
-          35.003446
         ]
       }
     },
