@@ -21067,6 +21067,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b9f54af-df6b-592c-912e-4f0cdf17bf9e",
+        "address": "1337-Farm-Pond-Trl-Durham-NC-27703",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2672,
+        "listed_at": "2026-08-13T06:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.775358,
+          35.924228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
         "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
         "beds": 3,
