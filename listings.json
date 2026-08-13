@@ -10504,6 +10504,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c720979-8434-5e39-bc0d-7922ae89bfd5",
+        "address": "5363-Reber-Pl-Saint-Louis-MO-63139",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2105,
+        "listed_at": "2026-08-13T13:40:04.000Z",
+        "days_on_market": "62",
+        "current_price": 304000,
+        "price_label": "$304K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.277705,
+          38.608727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c7e5bb8-1bac-5f3d-b840-18a347be1213",
         "address": "330-Harold-Dr-Clarksville-TN-37040",
         "beds": 3,
@@ -20452,27 +20473,6 @@
         "coordinates": [
           -97.703793,
           32.442989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5841f298-ef20-5761-bfee-de9fe6e75609",
-        "address": "3737-Jamestown-Cir-Raleigh-NC-27609",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1078,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "150",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.635155,
-          35.831831
         ]
       }
     },
@@ -39022,6 +39022,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a4029d7c-316d-5868-ba79-ddf65cb7eead",
+        "address": "8909-Danson-Dr-Charlotte-NC-28277",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1692,
+        "listed_at": "2026-08-13T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 483000,
+        "price_label": "$483K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.814571,
+          35.042973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a41b4c71-a9f3-506f-9e66-93c0cee98e8c",
         "address": "5928-Lake-Ridge-Ave-Jacksonville-FL-32211",
         "beds": 4,
@@ -56320,6 +56341,27 @@
         "coordinates": [
           -81.622961,
           41.09433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb4e1820-2756-524d-9a74-4a482667dc00",
+        "address": "116-Fernwood-Dr-Easley-SC-29640",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1437,
+        "listed_at": "2026-08-13T13:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.667759,
+          34.849519
         ]
       }
     },
