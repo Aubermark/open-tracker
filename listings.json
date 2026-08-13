@@ -2062,6 +2062,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0796853d-c57b-5c7f-a94e-580c85240951",
+        "address": "815-Wild-Oak-Dr-Santa-Rosa-CA-95409",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2390,
+        "listed_at": "2026-08-13T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 1120000,
+        "price_label": "$1.120M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.600688,
+          38.432453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07a3cd62-545e-5fae-8fb2-dd93c74602d4",
         "address": "1411-Niagara-Falls-Ct-Arlington-TX-76002",
         "beds": 4,
@@ -4576,6 +4597,27 @@
         "coordinates": [
           -77.595618,
           39.292931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1263fab1-ddda-5746-a9d1-b7cd6335e9bb",
+        "address": "380-Flyway-Rd-Goose-Creek-SC-29445",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2016,
+        "listed_at": "2026-08-13T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.008133,
+          32.999637
         ]
       }
     },
@@ -41080,27 +41122,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "acdb3b51-df1e-559e-b212-19a54fac60c1",
-        "address": "7018-Lynwood-Dr-Tampa-FL-33637",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1356,
-        "listed_at": "2026-08-12T06:05:16.000Z",
-        "days_on_market": "2",
-        "current_price": 341000,
-        "price_label": "$341K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.375111,
-          28.024708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ace0cc22-c150-5590-91bc-e219c53c370e",
         "address": "85-Tarry-Ct-Greenwood-IN-46142",
         "beds": 5,
@@ -41473,6 +41494,27 @@
         "coordinates": [
           -104.738424,
           38.953997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae3f837f-b0cd-5ad7-9d7e-568135f65988",
+        "address": "1242-Via-Candelas-Oceanside-CA-92056",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1771,
+        "listed_at": "2026-08-13T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 935000,
+        "price_label": "$935K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29052,
+          33.217364
         ]
       }
     },
@@ -57853,6 +57895,27 @@
         "coordinates": [
           -78.810568,
           35.74691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f1b052f7-2b5a-45ea-8b7f-58bfa14c825a",
+        "address": "184-Oliver-Dr-Locust-Grove-GA-30248",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2031,
+        "listed_at": "2026-08-13T17:40:05.000Z",
+        "days_on_market": "78",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.065204,
+          33.351157
         ]
       }
     },
