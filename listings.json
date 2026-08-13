@@ -19051,6 +19051,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "51413fc4-437a-5b09-a3c5-df3897af8d72",
+        "address": "1146-S-Cathay-St-Aurora-CO-80017",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1736,
+        "listed_at": "2026-08-13T22:50:04.000Z",
+        "days_on_market": "149",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.766394,
+          39.695135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "515cab16-f3ed-5df6-9d81-62be0dcb9a77",
         "address": "43390-Corte-Almeria-Temecula-CA-92592",
         "beds": 3,
@@ -34717,6 +34738,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91a54091-f030-5290-8981-254f6f38cb14",
+        "address": "808-Griffin-St-Mc-Kinney-TX-75069",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1807,
+        "listed_at": "2026-08-13T22:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.624739,
+          33.193126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91cb1c52-2dcc-536a-8e6c-202a0194ba86",
         "address": "2831-Red-Oak-Dr-Grand-Prairie-TX-75052",
         "beds": 4,
@@ -43048,27 +43090,6 @@
         "coordinates": [
           -122.567519,
           45.643635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b357436e-2d43-5ece-8502-86c987e3830c",
-        "address": "3600-Asaro-Pl-Plano-TX-75025",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3814,
-        "listed_at": "2026-08-06T05:16:43.000Z",
-        "days_on_market": "97",
-        "current_price": 897000,
-        "price_label": "$897K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.761803,
-          33.074183
         ]
       }
     },
