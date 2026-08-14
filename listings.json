@@ -8278,6 +8278,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23901775-6268-5ff9-b0c2-c2db7eb49012",
+        "address": "1604-Drayton-Woods-Dr-Tucker-GA-30084",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1975,
+        "listed_at": "2026-08-14T05:31:32.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215901,
+          33.828394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2390f3bc-3e52-5b18-bb9e-bf83f20dc95a",
         "address": "310-Mitchell-St-Belmont-NC-28012",
         "beds": 3,
@@ -13564,6 +13585,27 @@
         "coordinates": [
           -97.962772,
           35.018501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b031850-8dd6-591c-a3c7-78e2d92c5d93",
+        "address": "10640-Se-54th-Ave-Belleview-FL-34420",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1055,
+        "listed_at": "2026-08-14T05:31:32.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.059397,
+          29.067431
         ]
       }
     },
@@ -33472,27 +33514,6 @@
         "coordinates": [
           -86.152267,
           39.79863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8ca018bd-22de-44f2-b98f-612cd9bc90c4",
-        "address": "11619-Sky-Pointe-Dr-Desert-Hot-Springs-CA-92240",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2088,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "66",
-        "current_price": 414000,
-        "price_label": "$414K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.567,
-          33.963919
         ]
       }
     },
