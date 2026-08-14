@@ -20374,6 +20374,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57a20a7f-01d2-5c26-a5c2-a2c8124f66a2",
+        "address": "1401-60th-St-W-Rosamond-CA-93560",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2757,
+        "listed_at": "2026-08-14T00:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239028,
+          34.843443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57add268-0c9d-5031-8525-5dd97e6074ba",
         "address": "317-Wren-Dr-Big-Bear-Lake-CA-92315",
         "beds": 3,
@@ -29083,27 +29104,6 @@
         "coordinates": [
           -111.585592,
           33.210155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7b554f5f-c46d-5b34-9ee9-dd5341b164ba",
-        "address": "2741-Barrington-Dr-Plano-TX-75093",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3005,
-        "listed_at": "2026-07-23T06:17:22.000Z",
-        "days_on_market": "133",
-        "current_price": 637000,
-        "price_label": "$637K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.833535,
-          33.038628
         ]
       }
     },
@@ -43432,6 +43432,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b5dc0854-ea97-5606-abf2-61058d0d5119",
+        "address": "1232-Spanish-Moss-Dr-Savannah-TX-76227-14739149",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2545,
+        "listed_at": "2026-08-14T00:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.907429,
+          33.221678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b621f56c-033d-5966-8c82-c219c7e6caae",
         "address": "301-Rolling-Knoll-Dr-Columbia-SC-29229",
         "beds": 4,
@@ -45925,27 +45946,6 @@
         "coordinates": [
           -104.743185,
           38.769452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c069655b-7b0d-58a5-9d0d-f1a139bbe60d",
-        "address": "9103-N-Palm-Brook-Dr-Tucson-AZ-85743",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1350,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "34",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.121434,
-          32.372166
         ]
       }
     },
