@@ -5548,27 +5548,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "16c9eed9-a909-505f-886a-93584c537b98",
-        "address": "2925-Lake-Port-Dr-Snellville-GA-30039",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2870,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "116",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.993959,
-          33.803707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "16d68e71-a259-5e70-80f9-53d1261c9f5b",
         "address": "2162-Chestnut-Pl-Lithia-Springs-GA-30122",
         "beds": 3,
@@ -6340,6 +6319,27 @@
         "coordinates": [
           -96.76514,
           32.521665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "19da8005-7d19-5665-ad91-b40d2962dd07",
+        "address": "3152-Viewcrest-Ave-Henderson-NV-89014",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2146,
+        "listed_at": "2026-08-14T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.09001,
+          36.059664
         ]
       }
     },
@@ -7495,6 +7495,27 @@
         "coordinates": [
           -111.889237,
           33.374229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "20b1805a-06f9-5fe1-809c-534bb942f5e8",
+        "address": "23130-Willow-Canyon-Dr-Katy-TX-77494",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2716,
+        "listed_at": "2026-08-14T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.774748,
+          29.769762
         ]
       }
     },
@@ -13732,27 +13753,6 @@
         "coordinates": [
           -115.33726,
           36.205855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3b828489-3290-5648-a2d1-329fa624f5c5",
-        "address": "66-Tangerine-Ct-Lake-Jackson-TX-77566",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1632,
-        "listed_at": "2026-07-07T15:20:03.000Z",
-        "days_on_market": "38",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.458167,
-          29.03436
         ]
       }
     },
@@ -36265,6 +36265,27 @@
         "coordinates": [
           -95.537918,
           29.492548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9781a75d-6593-5f69-923f-3a9c36c131ec",
+        "address": "312-Big-Cliff-Ave-North-Las-Vegas-NV-89031",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1615,
+        "listed_at": "2026-08-14T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.136214,
+          36.265696
         ]
       }
     },
