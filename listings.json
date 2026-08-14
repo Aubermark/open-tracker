@@ -5485,6 +5485,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16b6a2d1-427c-54ab-9178-520f0c5edf13",
+        "address": "14602-Rosecourt-Dr-Canyon-Country-CA-91387",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-08-14T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 746000,
+        "price_label": "$746K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38991,
+          34.450802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16b87699-5008-590a-9e7c-9aae7781b9ee",
         "address": "2932-Just-My-Style-San-Antonio-TX-78245",
         "beds": 5,
@@ -30391,6 +30412,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8092b845-f968-58bc-847f-db34aedf5c70",
+        "address": "5947-Arden-Ave-Highland-CA-92346",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2027,
+        "listed_at": "2026-08-14T01:30:04.000Z",
+        "days_on_market": "94",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234644,
+          34.145879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "809f82ab-e084-5774-8a3b-ffc76f114a11",
         "address": "1332-Cloverfield-Ave-Dayton-OH-45429",
         "beds": 3,
@@ -33745,27 +33787,6 @@
         "coordinates": [
           -83.812524,
           34.125599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8e01073e-f7d6-57ba-b362-5f4c66e41fb8",
-        "address": "5601-Beaconsfield-Rd-Charlotte-NC-28214",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 1626,
-        "listed_at": "2026-07-28T19:20:04.000Z",
-        "days_on_market": "16",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.926289,
-          35.262405
         ]
       }
     },
@@ -47164,6 +47185,27 @@
         "coordinates": [
           -82.02214,
           34.172743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c5bcac07-0be8-5f15-9489-bd12f3d72253",
+        "address": "8015-Aldea-Ave-Van-Nuys-CA-91406",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1340,
+        "listed_at": "2026-08-14T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 855000,
+        "price_label": "$855K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5091,
+          34.216146
         ]
       }
     },
