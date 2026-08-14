@@ -14914,6 +14914,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f7b952e-b6b4-5c3d-9891-1418a53fc5c9",
+        "address": "239-Stonecreek-Bnd-Monroe-GA-30655",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2397,
+        "listed_at": "2026-08-14T13:30:06.000Z",
+        "days_on_market": "57",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.680166,
+          33.796868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fab9392-4efc-5d54-8204-bc5699130a76",
         "address": "18-Misty-Ridge-Pl-Hiram-GA-30141",
         "beds": 3,
