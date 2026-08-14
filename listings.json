@@ -46246,6 +46246,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1291634-5046-53e0-8eba-7817b6189d6e",
+        "address": "7117-N-50th-St-Tampa-FL-33617",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1442,
+        "listed_at": "2026-08-14T06:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401668,
+          28.015385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c1316ea5-85c0-5adf-acfc-1485410ea4f0",
         "address": "5053-Pioneer-Pkwy-Mc-Donough-GA-30253",
         "beds": 4,
