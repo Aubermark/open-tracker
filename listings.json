@@ -11218,27 +11218,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ecda685-a903-5b8e-bbd3-cc52e09e5fad",
-        "address": "6603-Angelina-St-Las-Vegas-NV-89120",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2058,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "49",
-        "current_price": 417000,
-        "price_label": "$417K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.091566,
-          36.069264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2ed008bf-9dd6-5cf1-bd26-86c53803bccd",
         "address": "8479-Lake-Dr-Cedar-Hill-MO-63016",
         "beds": 2,
@@ -21082,6 +21061,27 @@
         "coordinates": [
           -98.565315,
           29.570642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "59db5906-124c-5045-9c1b-309841007d7a",
+        "address": "6037-Sundown-Dr-Watauga-TX-76148",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1640,
+        "listed_at": "2026-08-14T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.249889,
+          32.89127
         ]
       }
     },
@@ -46387,6 +46387,27 @@
         "coordinates": [
           -122.356559,
           48.156632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c145c902-6abd-5b58-8411-d45824f580d0",
+        "address": "209-Bryan-Ave-Roseville-CA-95661",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1582,
+        "listed_at": "2026-08-14T16:50:04.000Z",
+        "days_on_market": "35",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.287085,
+          38.724669
         ]
       }
     },
