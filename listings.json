@@ -8908,6 +8908,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "269a91be-ee3f-5227-bfc7-15a4c8d56ee6",
+        "address": "507-Avenue-K-South-Houston-TX-77587",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1092,
+        "listed_at": "2026-08-14T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 166000,
+        "price_label": "$166K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.225437,
+          29.656518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26b9ae83-db67-5f2e-9136-3cf1c07e5304",
         "address": "1401-Grey-Owl-Cir-Roseville-CA-95661",
         "beds": 5,
@@ -14389,27 +14410,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3dd063a3-166f-549f-997e-536c455c96e0",
-        "address": "1796-Nora-Ln-North-Port-FL-34286",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1801,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "9",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.164539,
-          27.060022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3dd0c27d-7220-517c-b803-ed8827a2d22b",
         "address": "3603-Indigo-Forest-St-Spring-TX-77373",
         "beds": 4,
@@ -15874,6 +15874,27 @@
         "coordinates": [
           -81.6019,
           28.491162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "42a0c0da-70d4-51d8-8718-30aa10e49890",
+        "address": "48-S-Circle-Dr-Germantown-OH-45327",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1445,
+        "listed_at": "2026-08-14T19:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37194,
+          39.620426
         ]
       }
     },
@@ -48997,6 +49018,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce0db95c-2904-5b73-9f5a-99f68e7fbb18",
+        "address": "222-Colebrook-Dr-San-Antonio-TX-78228",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1438,
+        "listed_at": "2026-08-14T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.578167,
+          29.479767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce1e2622-8802-5731-a0c5-120ecaab33ce",
         "address": "5753-Fm-36-S-Quinlan-TX-75474",
         "beds": 3,
@@ -55312,27 +55354,6 @@
         "coordinates": [
           -81.315253,
           28.520158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e4d3cd32-d94b-5f16-a01b-dbc2792cf549",
-        "address": "9625-W-Oberlin-Way-Peoria-AZ-85383",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 4464,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "71",
-        "current_price": 849000,
-        "price_label": "$849K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.267409,
-          33.735695
         ]
       }
     },
