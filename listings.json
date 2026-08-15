@@ -48094,6 +48094,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c84204e9-e3a1-4d93-99fd-cb6a4671b486",
+        "address": "614-Sw-49th-Dr-Gresham-OR-97080",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-08-15T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 576000,
+        "price_label": "$576K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43706,
+          45.464902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c8430a56-ab11-5a69-888b-aaa3c793ac06",
         "address": "4770-Paramount-Pl-Colorado-Springs-CO-80918",
         "beds": 5,
