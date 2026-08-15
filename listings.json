@@ -21613,6 +21613,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5bf5f076-bf1f-5080-8a96-360a1ca01634",
+        "address": "6310-Laguna-Mirage-Ln-Elk-Grove-CA-95758",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1232,
+        "listed_at": "2026-08-15T21:00:04.000Z",
+        "days_on_market": "25",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.43043,
+          38.423965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c023596-a0ba-587f-be8f-b1f2d292e70e",
         "address": "144-Green-Shadow-Rd-Se-Cleveland-TN-37323",
         "beds": 3,
@@ -22363,27 +22384,6 @@
         "coordinates": [
           -81.716673,
           28.460919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5e87a575-6fb2-58f1-8fe0-1bd88da8cd5d",
-        "address": "2905-E-Chelsea-St-Tampa-FL-33610",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1125,
-        "listed_at": "2026-08-04T15:40:04.000Z",
-        "days_on_market": "103",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.42754,
-          27.984882
         ]
       }
     },
