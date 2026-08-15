@@ -21256,27 +21256,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59e50b9f-cefa-5bcd-8c3f-e91f8d36c64e",
-        "address": "6331-Pima-Pl-Nw-Albuquerque-NM-87120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2254,
-        "listed_at": "2026-07-30T06:04:06.000Z",
-        "days_on_market": "137",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.715483,
-          35.157093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59ea152d-834f-5269-a22f-f09a6fdd13ec",
         "address": "416-Arizona-Ave-Bay-Shore-NY-11706",
         "beds": 4,
@@ -37546,6 +37525,27 @@
         "coordinates": [
           -95.032321,
           29.455623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9b9a15b5-7c57-5407-8e67-c25dd8bff3d5",
+        "address": "9315-Dogwood-Pl-Gainesville-GA-30506",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 928,
+        "listed_at": "2026-08-15T14:40:04.000Z",
+        "days_on_market": "53",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.982406,
+          34.242686
         ]
       }
     },
