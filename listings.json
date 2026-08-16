@@ -5947,6 +5947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18718f6b-94fb-54ec-badc-d1c0427bd0e7",
+        "address": "513-M-St-Oakland-MD-21550",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1056,
+        "listed_at": "2026-08-16T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.376825,
+          39.400791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18761db7-7685-58fc-82d3-848c830fb71a",
         "address": "6800-Olivia-Ct-Whitsett-NC-27377",
         "beds": 4,
@@ -7243,27 +7264,6 @@
         "coordinates": [
           -115.223362,
           36.232817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1ec9b390-3fb2-47b5-9809-d956750b041f",
-        "address": "408-Riverside-Dr-Princeton-TX-75407",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1260,
-        "listed_at": "2026-08-05T14:40:03.000Z",
-        "days_on_market": "10",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.508878,
-          33.087982
         ]
       }
     },
@@ -11029,27 +11029,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2e2bfe30-e74d-56a3-8205-ecde38f94712",
-        "address": "4157-Chantilly-Ln-Frisco-TX-75034",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3703,
-        "listed_at": "2026-08-03T20:40:03.000Z",
-        "days_on_market": "134",
-        "current_price": 699000,
-        "price_label": "$699K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.887739,
-          33.112351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2e2f8a9d-01f9-5698-ade7-ba4242f9f4c6",
         "address": "130-Fredricksburg-Way-Columbia-SC-29210",
         "beds": 2,
@@ -11317,6 +11296,27 @@
         "coordinates": [
           -78.342586,
           39.001324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2f242134-8833-5318-8ee9-e240bb985641",
+        "address": "14624-W-Blackwood-Dr-Sun-City-West-AZ-85375",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1404,
+        "listed_at": "2026-08-16T07:30:04.000Z",
+        "days_on_market": "109",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.374739,
+          33.674097
         ]
       }
     },
@@ -21571,27 +21571,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5bf5f076-bf1f-5080-8a96-360a1ca01634",
-        "address": "6310-Laguna-Mirage-Ln-Elk-Grove-CA-95758",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1232,
-        "listed_at": "2026-08-15T21:00:04.000Z",
-        "days_on_market": "25",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.43043,
-          38.423965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5c023596-a0ba-587f-be8f-b1f2d292e70e",
         "address": "144-Green-Shadow-Rd-Se-Cleveland-TN-37323",
         "beds": 3,
@@ -30769,27 +30748,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8175f8d8-29a2-58c0-b816-512da1ae5b2e",
-        "address": "2831-N-70th-Dr-Phoenix-AZ-85035",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1064,
-        "listed_at": "2026-08-08T05:47:30.000Z",
-        "days_on_market": "86",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.210807,
-          33.479539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "818b6009-17b8-5c81-a9dd-0501f9c8aa3c",
         "address": "399-Hickory-Ln-Westerville-OH-43081",
         "beds": 4,
@@ -32863,27 +32821,6 @@
         "coordinates": [
           -98.414681,
           29.578101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "89fce909-b4ce-57ac-a72a-e15d57626863",
-        "address": "225-Avonlea-Dr-Covington-GA-30016",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2908,
-        "listed_at": "2026-08-12T06:05:16.000Z",
-        "days_on_market": "4",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.94315,
-          33.601186
         ]
       }
     },
@@ -38029,6 +37966,27 @@
         "coordinates": [
           -95.358745,
           35.340218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e5090de-218d-5e2e-ae30-300208364101",
+        "address": "118-Marlise-Ln-Winchester-VA-22602",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3089,
+        "listed_at": "2026-08-16T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.119548,
+          39.170009
         ]
       }
     },
@@ -49873,27 +49831,6 @@
         "coordinates": [
           -111.637566,
           33.47405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cfe0d058-62d6-486a-aebf-c964cfa54bad",
-        "address": "10008-Altura-Cv-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1646,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "99",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.706493,
-          31.039605
         ]
       }
     },
