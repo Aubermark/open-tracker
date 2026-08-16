@@ -12562,6 +12562,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "342ebce6-e69e-5bc6-9ba6-081009d4080b",
+        "address": "2596-38th-Ave-N-Saint-Petersburg-FL-33713",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 804,
+        "listed_at": "2026-08-16T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.669155,
+          27.806333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "34875e77-8150-5efb-82b4-07da0c5eb1ad",
         "address": "2127-Hannover-Way-Spring-TX-77388",
         "beds": 4,
@@ -20752,27 +20773,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5803fdee-402b-5dfc-bfd3-24e846fa6711",
-        "address": "23-Plaza-Modena-Lake-Elsinore-CA-92532",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3404,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "138",
-        "current_price": 694000,
-        "price_label": "$694K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.278994,
-          33.675617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5805a9a8-2d4b-544c-ac43-4ea7b69b660e",
         "address": "546-Penns-Neck-Dr-Deland-FL-32724",
         "beds": 4,
@@ -26674,27 +26674,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "70e4fcf3-4a5f-5f28-b856-a4cff8d33535",
-        "address": "1100-Carefree-Cove-Dr-Winter-Haven-FL-33881",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1019,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "96",
-        "current_price": 208000,
-        "price_label": "$208K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.731134,
-          28.064103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "70fb2d8b-9604-5136-914d-98d5547ad852",
         "address": "5609-Camilla-Dr-Charlotte-NC-28226",
         "beds": 5,
@@ -29251,6 +29230,27 @@
         "coordinates": [
           -79.160801,
           35.622621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7aa85405-1366-5fd3-b4b0-f487be84f5b6",
+        "address": "1572-Astoria-Arbor-Ln-Orlando-FL-32824",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2060,
+        "listed_at": "2026-08-16T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.362176,
+          28.363184
         ]
       }
     },
@@ -37909,27 +37909,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9d82a373-81d3-527e-b978-2160a7d4eba1",
-        "address": "751-Grandon-Ave-Columbus-OH-43209",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1512,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "4",
-        "current_price": 456000,
-        "price_label": "$456K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.926674,
-          39.954705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9d8fbb77-48aa-5b0d-9369-f958d08d975a",
         "address": "3-Summer-Branch-Ct-Irmo-SC-29063",
         "beds": 3,
@@ -41725,27 +41704,6 @@
         "coordinates": [
           -86.165001,
           39.607795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad0a7351-3f04-5e77-9541-ac0abde0135c",
-        "address": "4046-Farmingham-Woods-Dr-Hermitage-TN-37076",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-08-12T06:05:17.000Z",
-        "days_on_market": "96",
-        "current_price": 342000,
-        "price_label": "$342K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.585405,
-          36.183757
         ]
       }
     },
