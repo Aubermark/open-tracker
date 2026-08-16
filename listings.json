@@ -1075,27 +1075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0361eb10-f70d-5e3f-a749-4a87ef3797bf",
-        "address": "414-Meadowhill-Dr-Garland-TX-75043",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 1966,
-        "listed_at": "2026-08-08T05:47:30.000Z",
-        "days_on_market": "9",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.629008,
-          32.859624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0386b034-6894-5ba9-bf4f-2d11dfafc960",
         "address": "31403-Imperial-Bluff-Ct-Spring-TX-77386",
         "beds": 4,
@@ -42193,6 +42172,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aecea456-2b92-42c1-8553-361e7c6244ac",
+        "address": "669-Tundra-Loop-Groveland-FL-34736",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2447,
+        "listed_at": "2026-08-16T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.807186,
+          28.611514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aee62cf7-be30-5e59-9689-4933d9c3aa44",
         "address": "2434-W-67th-St-Indianapolis-IN-46268",
         "beds": 3,
@@ -48634,6 +48634,27 @@
         "coordinates": [
           -117.205601,
           33.943076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb130892-3ad1-43f9-9f95-fbe9968dd3c2",
+        "address": "2172-Rider-Rain-Ln-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1755,
+        "listed_at": "2026-08-16T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54363,
+          28.661154
         ]
       }
     },
