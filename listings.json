@@ -19744,6 +19744,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53c333bf-8249-594e-9e64-fb1140f02210",
+        "address": "2366-Belen-Dr-Deltona-FL-32738",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2322,
+        "listed_at": "2026-08-16T12:10:04.000Z",
+        "days_on_market": "11",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.203079,
+          28.88829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "53d9fb02-1a86-5b01-a5c0-5e4f153b79d0",
         "address": "2197-11th-Ave-Se-Cambridge-MN-55008",
         "beds": 3,
@@ -20116,27 +20137,6 @@
         "coordinates": [
           -77.178181,
           39.185033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "55909659-ec5f-50b5-afcd-ad1b0099758c",
-        "address": "3622-Shady-Grove-Cir-Orlando-FL-32810",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 953,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "115",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.423965,
-          28.633841
         ]
       }
     },
