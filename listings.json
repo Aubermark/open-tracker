@@ -37132,27 +37132,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9a0507b9-9cf7-5fab-97ca-483045f3bc0f",
-        "address": "121-Pelham-Ln-Fort-Mill-SC-29715",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1886,
-        "listed_at": "2026-07-16T07:07:52.000Z",
-        "days_on_market": "143",
-        "current_price": 363000,
-        "price_label": "$363K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.907161,
-          35.026548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9a07e463-7e7d-5855-96b4-af7bcfbc21c8",
         "address": "5155-Summerlinn-Way-West-Linn-OR-97068",
         "beds": 2,
@@ -56089,6 +56068,27 @@
         "coordinates": [
           -80.185258,
           33.029159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e6da3722-7083-547c-8d82-059adfb43608",
+        "address": "4573-Bayridge-Ct-Spring-Hill-FL-34606",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1822,
+        "listed_at": "2026-08-16T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57843,
+          28.499125
         ]
       }
     },
