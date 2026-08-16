@@ -11848,6 +11848,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31c731a9-9928-52c0-988f-04e2f08a5d2d",
+        "address": "1826-East-Blvd-Petersburg-VA-23805",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-08-16T16:10:04.000Z",
+        "days_on_market": "62",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392281,
+          37.202616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31ef42c7-accc-5977-b4ca-ba10f62febfc",
         "address": "27348-N-90th-Ln-Peoria-AZ-85383",
         "beds": 4,
@@ -49957,6 +49978,27 @@
         "coordinates": [
           -97.547631,
           30.567463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0150d42-c6d2-5d05-b192-718af06f696e",
+        "address": "428-Kubota-Dr-Murfreesboro-TN-37128",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1496,
+        "listed_at": "2026-08-16T16:10:04.000Z",
+        "days_on_market": "128",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.409992,
+          35.801084
         ]
       }
     },
