@@ -53260,27 +53260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "da57f562-2361-5cac-96ac-1323eec19829",
-        "address": "4727-Garden-Hills-Dr-Stone-Mountain-GA-30083",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1069,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": ">175",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.200266,
-          33.786085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "da5d80e6-0c49-538c-b5b4-51d65fc33635",
         "address": "1830-Bellgrove-St-Lakeland-FL-33805",
         "beds": 3,
@@ -54493,6 +54472,27 @@
         "coordinates": [
           -83.081251,
           42.683097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df9d6e98-962f-5fee-8a5a-9c75a8321a25",
+        "address": "226-Brookhill-Ln-Ne-Cleveland-TN-37323",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1154,
+        "listed_at": "2026-08-16T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.816666,
+          35.148681
         ]
       }
     },
