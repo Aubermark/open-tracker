@@ -2188,6 +2188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0834adfb-c256-56f9-9190-205876f58ce4",
+        "address": "745-Soaring-Eagle-Cir-Hixson-TN-37343",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3091,
+        "listed_at": "2026-08-17T06:19:19.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.262145,
+          35.134063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "083a9e19-7c00-5d7d-8626-8489e12e62ea",
         "address": "1514-Willow-Gate-Way-Auburn-GA-30011",
         "beds": 3,
@@ -43111,6 +43132,27 @@
         "coordinates": [
           -81.955428,
           28.783383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b23dc2fb-eb7e-531f-87d0-e4a4a376e77d",
+        "address": "16484-N-108th-Pl-Scottsdale-AZ-85255",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2994,
+        "listed_at": "2026-08-17T06:19:20.000Z",
+        "days_on_market": "17",
+        "current_price": 1300000,
+        "price_label": "$1.300M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.848318,
+          33.636627
         ]
       }
     },
