@@ -5506,6 +5506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "163ec17c-561b-4e78-a5a4-ba639c0e45c2",
+        "address": "4496-Bellaire-Ave-Clovis-CA-93619",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1677,
+        "listed_at": "2026-08-17T23:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.621779,
+          36.792049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16428f71-0864-51cd-a420-d219b413c8ff",
         "address": "311-Hickory-Wood-Dr-Kannapolis-NC-28083",
         "beds": 3,
@@ -18883,27 +18904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4f6710d7-57ca-5ac8-9434-970960870f7a",
-        "address": "103-Marty-Ln-Dallas-GA-30132",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1183,
-        "listed_at": "2026-08-14T21:30:05.000Z",
-        "days_on_market": "32",
-        "current_price": 246000,
-        "price_label": "$246K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.792288,
-          33.961817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4f6735fc-4b9b-584f-98ff-a30ae744d0f5",
         "address": "3309-Mokelumne-Ct-Modesto-CA-95354",
         "beds": 3,
@@ -21544,6 +21544,27 @@
         "coordinates": [
           -117.342458,
           34.737587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5aa8cb54-2314-5b12-b4c6-82fece8b4e44",
+        "address": "923-S-Lindsay-St-Gainesville-TX-76240",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2760,
+        "listed_at": "2026-08-17T23:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.141515,
+          33.615845
         ]
       }
     },
@@ -45679,27 +45700,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bc1290d2-2fc6-50cd-ac67-c47eec00c9c9",
-        "address": "3859-Briggs-Rd-Columbus-OH-43228",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1349,
-        "listed_at": "2026-07-26T14:40:04.000Z",
-        "days_on_market": ">176",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.100502,
-          39.935515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bc3cd675-63e5-5c75-8dad-66d136f290e4",
         "address": "1459-N-Avenue-57-Los-Angeles-CA-90042",
         "beds": 3,
@@ -47542,6 +47542,27 @@
         "coordinates": [
           -80.305779,
           36.197992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c305d12e-6e39-4f49-a84c-53e5ea7008e2",
+        "address": "18630-Sw-Solitude-St-Beaverton-OR-97007",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1817,
+        "listed_at": "2026-08-17T23:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.868892,
+          45.43156
         ]
       }
     },
