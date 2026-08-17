@@ -40534,6 +40534,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
+        "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1649,
+        "listed_at": "2026-08-17T13:10:04.000Z",
+        "days_on_market": "146",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.200959,
+          32.977357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a820750e-da62-4b2e-b4af-cdb5e0fe989d",
         "address": "13592-Gunsmoke-Ln-Cresson-TX-76035",
         "beds": 3,
