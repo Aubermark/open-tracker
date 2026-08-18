@@ -2398,6 +2398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "090a7057-5709-5f80-8a3d-475bc8287099",
+        "address": "1731-Sundale-Dr-Lawrenceville-GA-30046",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2080,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.034274,
+          33.948133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0929628e-6a4e-5f2e-b4cd-11f4ce15e39b",
         "address": "2824-Saint-Bernard-Dr-Dallas-TX-75233",
         "beds": 4,
@@ -3967,6 +3988,27 @@
         "coordinates": [
           -97.599583,
           30.553047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0fd64878-999e-5751-9fc4-7c7d381afa17",
+        "address": "1872-Bakers-Mill-Rd-Dacula-GA-30019",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3184,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.907881,
+          34.056418
         ]
       }
     },
@@ -11680,6 +11722,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "303242b9-0652-5718-bd87-2037ce0d0be6",
+        "address": "6120-Dorchester-Dr-Rex-GA-30273",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1234,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.270804,
+          33.587181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30356dee-2bc0-5bde-9f5f-5c29be9f3631",
         "address": "15941-Sky-Run-Dr-Edmond-OK-73013",
         "beds": 3,
@@ -13066,6 +13129,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3626d970-e42d-59cf-bdfb-49dfc9b93f3b",
+        "address": "225-Berkshire-Pass-Covington-GA-30016",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1709,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.988406,
+          33.543938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3629b09d-8091-56d7-b5af-ec6be69b62c9",
         "address": "23560-Alamo-Pl-Unit-B-Aurora-CO-80016",
         "beds": 2,
@@ -13144,27 +13228,6 @@
         "coordinates": [
           -112.613279,
           33.670569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3735f228-a5df-51f6-b469-5297b7adc118",
-        "address": "482-W-Whitetail-Dr-Casa-Grande-AZ-85122",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1832,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "74",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.759088,
-          32.984545
         ]
       }
     },
@@ -16126,6 +16189,27 @@
         "coordinates": [
           -81.051726,
           29.248823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "434180f4-0575-5823-95e0-61f04cafb335",
+        "address": "252-Sage-Derby-Dr-Hutto-TX-78634",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2431,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.584172,
+          30.516162
         ]
       }
     },
@@ -21970,27 +22054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5c32af55-9d41-5450-a9bd-3f92f8c6ca00",
-        "address": "41812-W-Hillman-Dr-Maricopa-AZ-85138",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1546,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "67",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.016681,
-          33.087391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5c4d8e10-df5a-5d52-b569-b6cca4bfa1a6",
         "address": "8723-Lookout-Mountain-Ave-Los-Angeles-CA-90046",
         "beds": 3,
@@ -22852,6 +22915,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f2169ed-5878-548b-98d8-ab9b007825c6",
+        "address": "321-Basel-Way-Hampton-GA-30228",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4879,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.270862,
+          33.443498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5f66cc71-c6f4-5e7f-a53e-df9464a7c6e9",
         "address": "12816-Wooly-Bucket-Cv-Elgin-TX-78621",
         "beds": 3,
@@ -22867,6 +22951,27 @@
         "coordinates": [
           -97.430817,
           30.347483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f7064eb-9787-5b76-8842-b4b0ea9f256a",
+        "address": "1024-5th-St-Apt-3-Santa-Monica-CA-90403",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 945,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.500177,
+          34.021849
         ]
       }
     },
@@ -27409,6 +27514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "722fe516-af38-5a9f-a622-7bc0a2504a04",
+        "address": "10283-Freehome-Hwy-Canton-GA-30115",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1636,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.289054,
+          34.222341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "727ef962-aff3-5cb7-b865-00e6764b701f",
         "address": "1425-Hollyberry-Ln-West-Columbia-SC-29169",
         "beds": 3,
@@ -27802,6 +27928,27 @@
         "coordinates": [
           -90.520791,
           38.584443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "743814e3-7e4e-5ce0-9807-5bb2dc94479b",
+        "address": "261-Potomac-Dr-Dallas-GA-30132",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2502,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.790376,
+          34.078024
         ]
       }
     },
@@ -34297,6 +34444,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d2d3fde-70fb-527f-9b62-ba5b94842175",
+        "address": "5344-Forest-Springs-Dr-Atlanta-GA-30338",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4653,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.315018,
+          33.957136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d36af2b-6d87-5eff-8ff1-c58dfee7f78a",
         "address": "6621-Blalock-Forest-Dr-Willow-Spring-NC-27592-17207715",
         "beds": 4,
@@ -38665,6 +38833,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9f9059bf-35fe-508d-b3c7-c170642f9b05",
+        "address": "1801-60th-Ave-Sacramento-CA-95822",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1674,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 452000,
+        "price_label": "$452K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.496677,
+          38.496791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9f99f346-6cfc-5a69-a8ad-3a14e7229a1e",
         "address": "403-Buckingham-Blvd-Gallatin-TN-37066",
         "beds": 3,
@@ -39757,27 +39946,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a3d2a7bc-8a2b-52ed-a44f-79f2289da524",
-        "address": "9379-W-Ute-Dr-Littleton-CO-80128",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1526,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "42",
-        "current_price": 595000,
-        "price_label": "$595K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.103763,
-          39.557823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a3f16b47-a0c7-5e10-a5a0-ab7a77f7cae9",
         "address": "2244-E-Nicolet-Ave-Phoenix-AZ-85020",
         "beds": 4,
@@ -40276,6 +40444,27 @@
         "coordinates": [
           -85.946921,
           40.017444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a61873e6-5f22-552a-be44-bf5a22a8f03b",
+        "address": "103-Camino-Arroyo-S-Palm-Desert-CA-92260",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2051,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.374591,
+          33.739346
         ]
       }
     },
@@ -42775,27 +42964,6 @@
         "coordinates": [
           -75.517307,
           39.059073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af9a3342-7484-5dd2-854a-01789707e498",
-        "address": "212-Islandia-Ct-W-Nashville-TN-37217",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2576,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "32",
-        "current_price": 431000,
-        "price_label": "$431K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.613744,
-          36.097881
         ]
       }
     },
@@ -47884,6 +48052,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c436bab1-ef20-5d21-9a3f-7e60a9e1e34f",
+        "address": "691-N-Tidwell-Way-Meridian-ID-83642",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1357,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.422048,
+          43.611107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c43a8d7d-a2a2-521c-9218-58b94f09323f",
         "address": "112-E-Bernie-Ln-Gilbert-AZ-85295",
         "beds": 3,
@@ -48466,6 +48655,27 @@
         "coordinates": [
           -121.004073,
           38.699629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c7f535ba-d079-5123-89e7-b569db1a3c1d",
+        "address": "4865-Silver-Leaf-Dr-Cumming-GA-30040",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2788,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.190801,
+          34.190715
         ]
       }
     },
@@ -57040,6 +57250,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7cd5e2c-b858-5d87-acb4-c60789fa40d4",
+        "address": "2506-Marixa-Dr-Statham-GA-30666",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1533,
+        "listed_at": "2026-08-18T06:01:28.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.557985,
+          33.97451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e80e49c2-37e6-5593-a02b-bf0fd85c072e",
         "address": "710-Magalloway-Dr-Cary-NC-27519",
         "beds": 5,
@@ -57937,6 +58168,27 @@
         "coordinates": [
           -81.080682,
           35.191189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb960a55-6726-5f0f-805f-b2380c5dc92b",
+        "address": "2785-Bonita-Dr-Highland-CA-92346",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1399,
+        "listed_at": "2026-08-18T06:01:29.000Z",
+        "days_on_market": "143",
+        "current_price": 563000,
+        "price_label": "$563K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.205288,
+          34.142065
         ]
       }
     },
@@ -61759,6 +62011,27 @@
         "coordinates": [
           -81.104784,
           34.957704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fba2d276-39bd-5bc5-a0cd-0e6f60eb2a06",
+        "address": "44758-Potestas-Dr-Temecula-CA-92592",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1234,
+        "listed_at": "2026-08-18T06:01:29.000Z",
+        "days_on_market": "67",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.092403,
+          33.476917
         ]
       }
     },
