@@ -31252,6 +31252,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81673b00-e418-53c1-9177-2bf05f5747be",
+        "address": "30-Timber-Dr-Forsyth-GA-31029",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3241,
+        "listed_at": "2026-08-18T13:40:04.000Z",
+        "days_on_market": "90",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95792,
+          33.191571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "816edfc4-4722-5258-a103-61fc492deccf",
         "address": "42355-Willeta-Ave-Lancaster-CA-93536",
         "beds": 4,
