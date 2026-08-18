@@ -13045,6 +13045,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3591749b-eacf-5d14-be83-19c326b63269",
+        "address": "1446-E-Whiteside-St-Springfield-MO-65804",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1143,
+        "listed_at": "2026-08-18T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26989,
+          37.175208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3611cdc8-6c66-51c8-87b1-2591ef697c66",
         "address": "1838-N-62nd-St-Kansas-City-KS-66102",
         "beds": 3,
@@ -41185,6 +41206,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a8cb4f98-2958-4591-8199-ef37511af346",
+        "address": "8361-W-Rochelle-Ave-Las-Vegas-NV-89147",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2276,
+        "listed_at": "2026-08-18T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.273686,
+          36.110861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a8edb148-7652-5bbc-9fdf-0f9f6302f1cc",
         "address": "8939-Winona-Ct-Westminster-CO-80031",
         "beds": 4,
@@ -50467,6 +50509,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cf977ddb-4b2c-5f6b-9d9a-8dfd8a4cf9fa",
+        "address": "2734-Preston-Ct-Aurora-IL-60502",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1160,
+        "listed_at": "2026-08-18T16:20:04.000Z",
+        "days_on_market": "35",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.248619,
+          41.806377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cf9b404f-f9da-5dc5-9cfd-30caf89cc497",
         "address": "5100-Robinwood-Dr-Charlotte-NC-28215",
         "beds": 3,
@@ -58735,27 +58798,6 @@
         "coordinates": [
           -84.301683,
           33.927333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "edda8d64-369b-54fc-86b6-dd1952739056",
-        "address": "4811-Roslyn-Rd-Downers-Grove-IL-60515",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1148,
-        "listed_at": "2026-07-22T18:10:03.000Z",
-        "days_on_market": "27",
-        "current_price": 383000,
-        "price_label": "$383K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.986559,
-          41.800233
         ]
       }
     },
