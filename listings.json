@@ -60316,6 +60316,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f670bb16-4759-5b28-bbb7-3f40dc2783ec",
+        "address": "8717-Hunters-Creek-Dr-Fort-Worth-TX-76123",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2085,
+        "listed_at": "2026-08-18T00:30:05.000Z",
+        "days_on_market": "39",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.387729,
+          32.613676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f68fb9e7-0fd6-58ba-b570-8d28982a0414",
         "address": "725-Lyndhurst-Dr-Anna-TX-75409-17984723",
         "beds": 5,
