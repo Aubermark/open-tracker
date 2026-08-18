@@ -8530,6 +8530,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23ea10a0-eedc-50fa-ba4a-7af9f5353743",
+        "address": "1653-E-Kellogg-Cir-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1426,
+        "listed_at": "2026-08-18T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.721801,
+          33.760764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24319240-0134-58a5-b701-7529f368d735",
         "address": "6550-Snowbird-Ln-Douglasville-GA-30134",
         "beds": 5,
@@ -8965,6 +8986,27 @@
         "coordinates": [
           -87.83795,
           41.893436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "264c91fa-52bb-5cfe-98a9-d940e8cd4d71",
+        "address": "109-Corene-Ave-Glennville-GA-30427",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1657,
+        "listed_at": "2026-08-18T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.938864,
+          31.926953
         ]
       }
     },
@@ -10987,27 +11029,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2d036a9e-15b0-51cd-b4cf-f1023346a302",
-        "address": "640-Autumn-Leaf-Cir-Mc-Donough-GA-30253",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2126,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "74",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.16672,
-          33.46391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2d2bf5f3-c538-562e-a771-f1d7273af918",
         "address": "710-Encanto-Dr-Leander-TX-78641",
         "beds": 3,
@@ -11632,27 +11653,6 @@
         "coordinates": [
           -86.629818,
           36.266673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2f97c09b-6c6e-5946-9922-e50236aae949",
-        "address": "286-Blue-Rock-Dr-Longs-SC-29568",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1349,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "76",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.733587,
-          34.011977
         ]
       }
     },
@@ -21487,27 +21487,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59ea152d-834f-5269-a22f-f09a6fdd13ec",
-        "address": "416-Arizona-Ave-Bay-Shore-NY-11706",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1396,
-        "listed_at": "2026-08-05T14:40:03.000Z",
-        "days_on_market": "13",
-        "current_price": 716000,
-        "price_label": "$716K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.257978,
-          40.764419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59fc9c93-48a1-5a86-b6eb-9d38c41783d0",
         "address": "1043-E-Daniella-Dr-San-Tan-Valley-AZ-85140",
         "beds": 4,
@@ -29734,27 +29713,6 @@
         "coordinates": [
           -77.880903,
           39.574886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7ad97038-9388-5b0f-8d2a-824cc7c27586",
-        "address": "8505-Troutman-Ln-Knoxville-TN-37931",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1803,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "54",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.096956,
-          35.956171
         ]
       }
     },
@@ -59953,27 +59911,6 @@
         "coordinates": [
           -82.691444,
           28.384869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f34053b6-18fb-5b9d-83b2-7e0fee8d077e",
-        "address": "111-Forest-Park-Ln-Red-Oak-TX-75154",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1642,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "71",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.802592,
-          32.522414
         ]
       }
     },
