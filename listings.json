@@ -1285,6 +1285,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "040334b1-8434-571c-a5c1-8f1b6fddc64c",
+        "address": "8809-10th-St-Lubbock-TX-79416",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1662,
+        "listed_at": "2026-08-18T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.01125,
+          33.586867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0417c669-b187-5cb9-ba3d-28d3da0ab6ed",
         "address": "619-Piedmont-Ln-Ladson-SC-29456",
         "beds": 3,
@@ -43831,27 +43852,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b110e1af-0e5e-5351-a1c9-9707029d5a8e",
-        "address": "12620-Bay-Hill-Dr-Grand-Island-FL-32735",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1515,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "76",
-        "current_price": 247000,
-        "price_label": "$247K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.747311,
-          28.882295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b1281cc3-c8c4-5509-983d-97c88319427a",
         "address": "4636-Pine-Acre-Cir-Sugar-Hill-GA-30518",
         "beds": 4,
@@ -56746,27 +56746,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e38b344f-59b0-5650-8754-8753bd1608f3",
-        "address": "18743-Chapel-Ln-Huntington-Beach-CA-92646-18379819",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1577,
-        "listed_at": "2026-08-04T19:55:00.000Z",
-        "days_on_market": "14",
-        "current_price": 985000,
-        "price_label": "$985K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.985548,
-          33.690575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e3987c59-4849-5ab1-8daf-c2412d3160c2",
         "address": "110-Bitternut-Cir-Roswell-GA-30076",
         "beds": 4,
@@ -61948,6 +61927,27 @@
         "coordinates": [
           -98.692644,
           29.442129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8ef8e1b-f13a-5b03-9e04-e3ec1fe31450",
+        "address": "22-Gillen-Ter-Gloversville-NY-12078",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1314,
+        "listed_at": "2026-08-18T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.335638,
+          43.068676
         ]
       }
     },
