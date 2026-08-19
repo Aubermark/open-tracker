@@ -30454,6 +30454,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c87e894-9831-5131-8f58-f1e3726758d8",
+        "address": "602-Heard-Ave-Augusta-GA-30904",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1154,
+        "listed_at": "2026-08-19T11:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.005114,
+          33.480785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c89be5a-b1c7-5ac0-9f10-9331d9e40653",
         "address": "20-Leach-Dr-Guntersville-AL-35976-17569517",
         "beds": 3,
