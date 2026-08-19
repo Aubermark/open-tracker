@@ -29803,6 +29803,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a32f14a-f83f-5998-bd9f-7dcb046468f6",
+        "address": "10708-W-Chautauga-Mtn-Littleton-CO-80127",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3662,
+        "listed_at": "2026-08-19T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.117858,
+          39.573119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a572ddb-5d16-5c08-b70c-716870849487",
         "address": "110-Lyman-Oak-Ct-Fort-Mill-SC-29715",
         "beds": 5,
@@ -30196,6 +30217,27 @@
         "coordinates": [
           -115.316097,
           36.099291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7be639d4-0054-53cc-8591-8337f37db013",
+        "address": "880-Mill-St-Ortonville-MI-48462",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2411,
+        "listed_at": "2026-08-19T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.434447,
+          42.850832
         ]
       }
     },
@@ -45217,6 +45259,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b7348d7a-78c6-573b-a7d1-4416b5cfcbe2",
+        "address": "142-Silvermill-Rd-Columbia-SC-29210",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2224,
+        "listed_at": "2026-08-19T14:10:04.000Z",
+        "days_on_market": "75",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137577,
+          34.046743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b7362f72-a67b-560d-a77c-9b17ca5096ae",
         "address": "7040-Longstreet-Dr-Unit-C-Raleigh-NC-27615",
         "beds": 3,
@@ -45232,6 +45295,27 @@
         "coordinates": [
           -78.646131,
           35.87563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b76bce11-7c2c-5f77-8fa6-499bfe48040a",
+        "address": "4100-Flamingo-Blvd-Hernando-Beach-FL-34607",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3022,
+        "listed_at": "2026-08-19T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 642000,
+        "price_label": "$642K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.651221,
+          28.496796
         ]
       }
     },
@@ -60442,27 +60526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f2e0693f-adbe-5e4c-8039-df02df27e1c9",
-        "address": "4709-Wildfire-Rd-Nw-Albuquerque-NM-87114",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1553,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "159",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.675729,
-          35.185658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f31abdfa-3379-5ed8-9397-e008851dcb5c",
         "address": "2577-Previs-Rd-Fayetteville-NC-28306",
         "beds": 3,
@@ -60709,6 +60772,27 @@
         "coordinates": [
           -106.525267,
           35.120096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4590cf4-d43c-56bb-ba09-bec3fb88016e",
+        "address": "228-Fairfax-St-Colorado-Springs-CO-80911",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1521,
+        "listed_at": "2026-08-19T14:10:04.000Z",
+        "days_on_market": "78",
+        "current_price": 339000,
+        "price_label": "$339K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.715414,
+          38.73145
         ]
       }
     },
