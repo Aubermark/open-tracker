@@ -8614,6 +8614,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24e93476-0d21-53aa-8d81-ac4db84dbbf5",
+        "address": "946-N-Logan-St-Gaffney-SC-29341",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 800,
+        "listed_at": "2026-08-19T19:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 154000,
+        "price_label": "$154K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.644361,
+          35.082355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
         "address": "819-Scenic-Cir-Seymour-TN-37865",
         "beds": 3,
@@ -16777,27 +16798,6 @@
         "coordinates": [
           -81.238377,
           28.58501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4549ba79-a3ce-5c54-8b56-3643eeb96a91",
-        "address": "8312-Snow-Goose-Way-Fort-Worth-TX-76118",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3352,
-        "listed_at": "2026-08-06T05:16:41.000Z",
-        "days_on_market": "113",
-        "current_price": 526000,
-        "price_label": "$526K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.198602,
-          32.800472
         ]
       }
     },
@@ -50152,6 +50152,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbcee632-492b-5628-a990-99b5f12409a8",
+        "address": "305-Red-Fox-Run-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1673,
+        "listed_at": "2026-08-19T19:20:06.000Z",
+        "days_on_market": "29",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.182257,
+          32.98883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbd3d551-64a3-5298-9e10-1b2e9a40c3db",
         "address": "552-Marshall-Johnson-Ave-S-Port-Lavaca-TX-77979",
         "beds": 3,
@@ -55375,6 +55396,27 @@
         "coordinates": [
           -104.675388,
           38.255992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dc777c26-8163-5008-9ee0-cadae316dcce",
+        "address": "8348-Se-140th-Ct-Portland-OR-97236",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-08-19T19:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.518919,
+          45.462406
         ]
       }
     },
