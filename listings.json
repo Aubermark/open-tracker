@@ -7438,6 +7438,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e549d06-7c96-5c0e-8514-36de08d31a5b",
+        "address": "172-Gardenia-Ct-Marble-NC-28905",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 960,
+        "listed_at": "2026-08-19T11:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.937563,
+          35.157802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e5f5777-7a6b-5243-b115-2b9bbb968d85",
         "address": "4615-W-Powell-Dr-Phoenix-AZ-85087",
         "beds": 4,
