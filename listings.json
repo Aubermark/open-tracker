@@ -8572,6 +8572,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "246e1115-327a-51ff-9e55-542910fad9fe",
+        "address": "468-Carolina-Hickory-St-Loris-SC-29569",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-08-20T08:30:04.000Z",
+        "days_on_market": "28",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.936367,
+          34.033096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24a669ae-8f14-57da-80cf-f321eb822d3c",
         "address": "2928-Thurman-Dairy-Loop-Wake-Forest-NC-27587",
         "beds": 5,
@@ -36979,6 +37000,27 @@
         "coordinates": [
           -98.123148,
           29.6678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9508aba1-e5c1-58e5-8087-98a3e15f5fc6",
+        "address": "454-Carolina-Hickory-St-Loris-SC-29569",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1584,
+        "listed_at": "2026-08-20T08:30:04.000Z",
+        "days_on_market": "28",
+        "current_price": 272000,
+        "price_label": "$272K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.936654,
+          34.033989
         ]
       }
     },
