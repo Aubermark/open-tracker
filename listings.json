@@ -886,6 +886,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02543519-c93a-592e-8b42-1d4d08bbbf1f",
+        "address": "686-Hancock-Bridge-Rd-Winder-GA-30680",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1377,
+        "listed_at": "2026-08-20T18:30:04.000Z",
+        "days_on_market": "22",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65779,
+          34.03063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0258fd82-5fb3-5d39-b2fd-719ecb5fe114",
         "address": "1197-Clancy-Dr-Ne-Leland-NC-28451",
         "beds": 3,
@@ -1699,6 +1720,27 @@
         "coordinates": [
           -97.540715,
           32.900959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0645c4ec-0722-57b5-8d88-b1bf7c0589ee",
+        "address": "10933-Pointer-Ridge-Dr-Charlotte-NC-28214",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1311,
+        "listed_at": "2026-08-20T18:30:04.000Z",
+        "days_on_market": "21",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.990034,
+          35.305127
         ]
       }
     },
@@ -7774,6 +7816,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21423f28-6576-5794-98b6-869061a20559",
+        "address": "2717-O-Hara-Dr-Charlotte-NC-28273",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1582,
+        "listed_at": "2026-08-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.953175,
+          35.139129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "214f16b2-053e-5bad-a857-60c8adde4829",
         "address": "6951-Cutting-Crk-San-Antonio-TX-78244",
         "beds": 5,
@@ -10693,6 +10756,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b75d930-424e-54bf-a776-f0f74363800a",
+        "address": "106-Hilltop-Rd-Laurens-SC-29360",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1586,
+        "listed_at": "2026-08-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 209000,
+        "price_label": "$209K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.024495,
+          34.483319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b8f0651-44b6-5add-b20a-a14bc7fae8a8",
         "address": "1148-Blossom-Ter-Fort-Mill-SC-29715",
         "beds": 3,
@@ -10834,6 +10918,27 @@
         "coordinates": [
           -97.41697,
           32.613004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2bd50c69-e2bb-5ed0-a858-342b487f59a2",
+        "address": "4248-E-Erie-St-Gilbert-AZ-85295",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2041,
+        "listed_at": "2026-08-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 481000,
+        "price_label": "$481K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.698515,
+          33.310333
         ]
       }
     },
@@ -25624,6 +25729,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67f34b07-0605-5038-9942-e078f096d2b6",
+        "address": "131-Duke-Dr-Sequim-WA-98382",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1584,
+        "listed_at": "2026-08-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110674,
+          48.096773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "680953a0-2856-5970-b229-36b300bac048",
         "address": "1537-W-74th-Pl-Indianapolis-IN-46260",
         "beds": 3,
@@ -33457,27 +33583,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8708baea-806e-5467-bdc2-bf6817d10c20",
-        "address": "218-Persimmon-Cir-Goose-Creek-SC-29445",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1115,
-        "listed_at": "2026-08-01T06:09:33.000Z",
-        "days_on_market": "20",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.07547,
-          33.027108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "870eca90-4014-5fa3-8e33-bfdeb4b07c08",
         "address": "836-Castilla-Way-Winder-GA-30680",
         "beds": 3,
@@ -34396,27 +34501,6 @@
         "coordinates": [
           -121.495077,
           38.663754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8b1b3325-2c98-54fd-beae-09a01eb38d17",
-        "address": "3885-Iron-Mountain-Cir-Jurupa-Valley-CA-92509",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2085,
-        "listed_at": "2026-07-10T12:00:03.000Z",
-        "days_on_market": "41",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.446809,
-          34.018488
         ]
       }
     },
@@ -39142,6 +39226,27 @@
         "coordinates": [
           -81.52252,
           35.28572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9d82a373-81d3-527e-b978-2160a7d4eba1",
+        "address": "751-Grandon-Ave-Columbus-OH-43209",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1512,
+        "listed_at": "2026-08-20T18:30:04.000Z",
+        "days_on_market": "8",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.926674,
+          39.954705
         ]
       }
     },
@@ -48346,27 +48451,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c1c68b96-e298-559a-93bb-dd9be7dc7765",
-        "address": "2291-Yale-St-Martinez-CA-94553",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1287,
-        "listed_at": "2026-07-06T17:20:03.000Z",
-        "days_on_market": "162",
-        "current_price": 699000,
-        "price_label": "$699K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.121981,
-          38.002883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c1e656f3-2e2f-5070-853b-ed979ee2d357",
         "address": "10428-Turning-Leaf-Trl-Fort-Worth-TX-76131",
         "beds": 3,
@@ -55234,27 +55318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "da6b8e60-3cbd-52aa-9ebe-c34c9fb8a02e",
-        "address": "8-Bumelia-Ct-Homosassa-FL-34446",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1528,
-        "listed_at": "2026-08-20T06:22:42.000Z",
-        "days_on_market": "76",
-        "current_price": 219000,
-        "price_label": "$219K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.537717,
-          28.743028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "da70cb7d-e76e-5ace-b2a2-c7478cbfd11c",
         "address": "417-Calumet-Rd-Avon-Park-FL-33825",
         "beds": 2,
@@ -56956,27 +57019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e1809a17-8b34-5a35-b298-597f89bac1bf",
-        "address": "789-Wolfeton-Way-New-Braunfels-TX-78130",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1700,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": "80",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.037061,
-          29.669693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e1895d5c-49b2-5f0a-a2d6-2b46aa4cf1b9",
         "address": "7329-Wilder-Ave-Jacksonville-FL-32208",
         "beds": 3,
@@ -58000,6 +58042,27 @@
         "coordinates": [
           -85.958422,
           39.849312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e642d4d8-3d63-52bc-8310-1f6e504222c5",
+        "address": "6925-52nd-Ave-W-University-Place-WA-98467",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 920,
+        "listed_at": "2026-08-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.505729,
+          47.195207
         ]
       }
     },
@@ -61906,27 +61969,6 @@
         "coordinates": [
           -83.956529,
           33.964975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f6c099ea-357e-5f48-9a67-d9c38f1c4b86",
-        "address": "3005-Country-Walk-Dr-Powder-Springs-GA-30127",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1835,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "14",
-        "current_price": 354000,
-        "price_label": "$354K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.692077,
-          33.877374
         ]
       }
     },
