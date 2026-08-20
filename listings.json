@@ -13864,27 +13864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3a81e99e-ad8d-5c7a-8540-93652ded0b08",
-        "address": "243-Meadow-Saffron-Dr-Lexington-SC-29073",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3024,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "170",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.227916,
-          33.894016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3a84b8ad-8542-59cb-9bae-12e2824ef250",
         "address": "2800-Orchard-Summit-Ct-Hyattsville-MD-20785",
         "beds": 3,
@@ -28285,6 +28264,27 @@
         "coordinates": [
           -84.480293,
           33.61742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74768348-b40a-5dfa-9320-9f8c3af090d0",
+        "address": "1212-Courtland-Cir-Plainfield-IL-60586",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1484,
+        "listed_at": "2026-08-20T13:50:04.000Z",
+        "days_on_market": "103",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20262,
+          41.544061
         ]
       }
     },
@@ -59260,6 +59260,27 @@
         "coordinates": [
           -81.622961,
           41.09433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb3c6943-2781-5cba-8d63-c7b664039135",
+        "address": "14220-Bison-Ct-Victorville-CA-92394",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2087,
+        "listed_at": "2026-08-20T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.353925,
+          34.541948
         ]
       }
     },
