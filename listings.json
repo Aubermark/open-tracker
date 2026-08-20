@@ -24385,6 +24385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63fb2b9e-715f-5ccd-b774-9152cdabe985",
+        "address": "917-N-Miller-Dr-Tucson-AZ-85710",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2149,
+        "listed_at": "2026-08-20T07:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.805553,
+          32.23232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "640211f3-7b8a-4fd4-aa7f-d41ac331dd8b",
         "address": "4510-Penkert-Pl-Lakeland-FL-33811",
         "beds": 5,
@@ -39484,6 +39505,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9fd19298-b878-5f69-9935-b017f64cedb7",
+        "address": "1108-Brandywine-Ln-Rocky-Mount-NC-27804",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1451,
+        "listed_at": "2026-08-20T07:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.844322,
+          35.985497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a001726a-68ec-53f2-90fb-84eb5e941891",
         "address": "5894-E-Sanderling-Dr-Tucson-AZ-85756",
         "beds": 3,
@@ -43699,6 +43741,27 @@
         "coordinates": [
           -81.41521,
           41.395937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "afc6c562-bb6c-5026-a157-b16b402d0f82",
+        "address": "168-Hollow-Tree-Ct-Lugoff-SC-29078",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2521,
+        "listed_at": "2026-08-20T07:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.707198,
+          34.239333
         ]
       }
     },
