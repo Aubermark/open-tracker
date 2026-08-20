@@ -38140,6 +38140,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "977efbf3-3cef-55b2-8e11-dc2069291aa0",
+        "address": "1578-Tice-Hurst-Ln-Apex-NC-27502",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3219,
+        "listed_at": "2026-08-20T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 721000,
+        "price_label": "$721K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.862869,
+          35.71298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9781a75d-6593-5f69-923f-3a9c36c131ec",
         "address": "312-Big-Cliff-Ave-North-Las-Vegas-NV-89031",
         "beds": 3,
