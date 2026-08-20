@@ -781,6 +781,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0226cac2-6092-505d-a374-9a7783c8eb86",
+        "address": "845-Se-8th-St-Gresham-OR-97080",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2164,
+        "listed_at": "2026-08-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 493000,
+        "price_label": "$493K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422562,
+          45.491927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "022e3997-7e02-5609-a689-b087078af90b",
         "address": "1300-Ne-68th-Ave-Apt-15-Portland-OR-97213",
         "beds": 1,
@@ -817,6 +838,27 @@
         "coordinates": [
           -106.690613,
           35.239036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "023b14bb-0c58-5325-af8d-cd351a45041b",
+        "address": "2924-Bow-Line-Pl-Longmont-CO-80503",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1950,
+        "listed_at": "2026-08-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.142502,
+          40.202905
         ]
       }
     },
@@ -1426,27 +1468,6 @@
         "coordinates": [
           -97.260662,
           33.137975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "046eb675-34bc-503d-b5e3-4126e95aebb2",
-        "address": "62-Cordona-Dr-Kissimmee-FL-34758",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1696,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "71",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.447595,
-          28.150187
         ]
       }
     },
@@ -3925,27 +3946,6 @@
         "coordinates": [
           -111.601776,
           33.233224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0f9e3f1b-6c9c-5369-abb7-7e25a582eb66",
-        "address": "1375-Nw-South-Hicks-Cir-Conyers-GA-30012",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1300,
-        "listed_at": "2026-07-28T18:40:04.000Z",
-        "days_on_market": "37",
-        "current_price": 180000,
-        "price_label": "$180K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.017176,
-          33.680104
         ]
       }
     },
@@ -9133,6 +9133,27 @@
         "coordinates": [
           -80.309479,
           36.128948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "269445c7-d16e-55f3-8599-187accd49dd5",
+        "address": "4800-Leonard-Ave-Henrico-VA-23231-18498952",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1466,
+        "listed_at": "2026-08-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.355988,
+          37.521639
         ]
       }
     },
@@ -15754,27 +15775,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "416386f5-3ab2-52ce-ae66-20107bb936f3",
-        "address": "102-California-Ave-Elyria-OH-44035",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1868,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "111",
-        "current_price": 258000,
-        "price_label": "$258K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.073493,
-          41.343863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "418249a1-c33d-5edb-a5a8-6866adf6f05a",
         "address": "6100-Nora-St-Metairie-LA-70003",
         "beds": 4,
@@ -16189,6 +16189,27 @@
         "coordinates": [
           -96.913847,
           32.59919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "433028e6-cbc7-572d-8c8c-83c54e2c90d6",
+        "address": "2083-W-Arizona-Rose-Dr-Oro-Valley-AZ-85737",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3682,
+        "listed_at": "2026-08-20T15:50:04.000Z",
+        "days_on_market": "13",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.012197,
+          32.412726
         ]
       }
     },
@@ -39904,27 +39925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a1a6634c-5863-403d-80c6-f959acaa5a30",
-        "address": "9443-Gulf-Shore-Ter-Parrish-FL-34219",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2319,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "154",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.475228,
-          27.5994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a1aafba5-1d36-541b-8a31-d708b8a82c26",
         "address": "909-Winchester-Ct-Brandon-FL-33510",
         "beds": 3,
@@ -45064,27 +45064,6 @@
         "coordinates": [
           -96.907429,
           33.221678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b64cf10a-940f-5fc8-9f81-016984368270",
-        "address": "3324-Baymount-Way-Lawrenceville-GA-30043",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1968,
-        "listed_at": "2026-08-11T16:40:04.000Z",
-        "days_on_market": "86",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.007923,
-          34.053293
         ]
       }
     },
@@ -59638,27 +59617,6 @@
         "coordinates": [
           -96.938103,
           33.214865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ed28e651-e7c3-5ff1-9283-f090853400b7",
-        "address": "5016-Watercrest-Trl-Belmont-NC-28012",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2757,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "146",
-        "current_price": 596000,
-        "price_label": "$596K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.048274,
-          35.16611
         ]
       }
     },
