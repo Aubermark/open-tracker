@@ -14389,6 +14389,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c79bb2c-a783-5b64-84f2-f22189fea37f",
+        "address": "17780-Sweetgum-Ln-Canyon-Country-CA-91387",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3446,
+        "listed_at": "2026-08-20T10:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1065000,
+        "price_label": "$1.065M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44683,
+          34.404704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c81d543-154a-52cd-b8d5-636643870b9d",
         "address": "1512-Dovetail-Dr-Fayetteville-NC-28314",
         "beds": 4,
@@ -23413,6 +23434,27 @@
         "coordinates": [
           -98.406939,
           29.569807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6051ad65-9a0e-5cf4-9edd-1ae54eced43f",
+        "address": "15343-Pimenta-Ave-Paramount-CA-90723",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 743,
+        "listed_at": "2026-08-20T10:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.143703,
+          33.893266
         ]
       }
     },
@@ -62641,6 +62683,27 @@
         "coordinates": [
           -95.606505,
           32.717628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9b1e284-d833-5397-882e-b92780e7b005",
+        "address": "7365-Pomelo-Dr-West-Hills-CA-91307",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1816,
+        "listed_at": "2026-08-20T10:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1150000,
+        "price_label": "$1.150M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.64585,
+          34.204558
         ]
       }
     },
