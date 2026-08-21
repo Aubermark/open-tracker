@@ -2608,6 +2608,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09964a41-e71a-50f9-8568-92d66ac5b5e3",
+        "address": "507-Willoughby-Ln-Staunton-VA-24401",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2816,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.048637,
+          38.177437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "099757d2-fdb2-5fea-bfa4-b0bdfb81a03e",
         "address": "412-S-Main-St-2-B3-Breckenridge-CO-80424",
         "beds": 2,
@@ -3841,6 +3862,27 @@
         "coordinates": [
           -121.067045,
           39.032819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0e65893c-5b5d-5a3d-ad30-66cfabeaa635",
+        "address": "1578-Zeverly-St-Winston-Salem-NC-27127",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1376,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.269613,
+          36.03614
         ]
       }
     },
@@ -6256,6 +6298,27 @@
         "coordinates": [
           -81.212443,
           34.125782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "187fc108-929d-5d25-a6b1-87c21558bc00",
+        "address": "1447-Snell-Blvd-Nashville-TN-37218",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 975,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.843865,
+          36.181653
         ]
       }
     },
@@ -11071,6 +11134,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2bb94a78-e7a3-56db-8723-908eadbd6764",
+        "address": "277-Apache-Dr-Effort-PA-18330",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2096,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.431502,
+          40.997481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bc0372c-7c22-577b-97a5-733b55c12def",
         "address": "2739-April-Hill-Ln-Dallas-TX-75287",
         "beds": 2,
@@ -15586,21 +15670,21 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3ec60fee-550a-5a17-b650-1d46b7957002",
-        "address": "5400-Shepherd-Pl-Flower-Mound-TX-75028",
+        "address_token": "3ea43727-49e9-53ea-9e38-c253e07cfa55",
+        "address": "5005-Cascade-Dr-Corpus-Christi-TX-78413",
         "beds": 3,
         "baths": 2,
-        "sqft": 1518,
-        "listed_at": "2026-07-23T06:17:22.000Z",
-        "days_on_market": "57",
-        "current_price": 387000,
-        "price_label": "$387K"
+        "sqft": 2445,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.044941,
-          33.05872
+          -97.388844,
+          27.699293
         ]
       }
     },
@@ -20116,6 +20200,27 @@
         "coordinates": [
           -76.140516,
           36.253244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "50efaa6e-2255-5981-a123-ebcf37e357b8",
+        "address": "5108-Griffendale-Ln-Upper-Marlboro-MD-20772",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3915,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 645000,
+        "price_label": "$645K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.791656,
+          38.818472
         ]
       }
     },
@@ -30265,27 +30370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "77a88ebb-046b-54f8-ae43-55e15fdf19d6",
-        "address": "3627-S-Monroe-St-Tacoma-WA-98409",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 780,
-        "listed_at": "2026-07-24T17:40:03.000Z",
-        "days_on_market": "28",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.491871,
-          47.225472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "77b29323-4f01-5b2a-940e-24d5a526cb16",
         "address": "3036-N-Getty-St-Kansas-City-KS-66104",
         "beds": 3,
@@ -32995,6 +33079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81b6a721-918e-5113-b0df-c86e1b7085b3",
+        "address": "136-Cressmont-Ave-Blackwood-NJ-08012",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1485,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.058959,
+          39.795414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81b92f82-bd80-5ba2-a28c-3f8560ddc921",
         "address": "204-N-Crossing-Dr-Columbia-SC-29229",
         "beds": 3,
@@ -33457,27 +33562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "83389d0a-5a29-571c-8cbd-4e697b390c84",
-        "address": "122-Se-73rd-Ave-Portland-OR-97215",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 820,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "46",
-        "current_price": 278000,
-        "price_label": "$278K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.587605,
-          45.521763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "833c19a2-d764-5cd3-8d20-90131bd8942b",
         "address": "5505-Eulala-Dr-Nashville-TN-37211",
         "beds": 2,
@@ -33745,27 +33829,6 @@
         "coordinates": [
           -83.333372,
           42.448197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8404c19b-3fe7-5ba5-a51f-9224b9ab8320",
-        "address": "9983-Ridgeline-Dr-Montgomery-Village-MD-20886",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1196,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "31",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.204495,
-          39.175474
         ]
       }
     },
@@ -44266,6 +44329,27 @@
         "coordinates": [
           -80.625418,
           28.083472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac48e6ab-9716-5843-a513-63b2057d43fe",
+        "address": "1032-Rudder-Dr-Spring-Hill-TN-37174",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2572,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.868629,
+          35.762095
         ]
       }
     },
@@ -58678,6 +58762,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e2dfb3a9-9bdd-5872-9b72-64863b08a6ab",
+        "address": "7967-Canvasback-Ct-Littleton-CO-80125",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2048,
+        "listed_at": "2026-08-21T22:20:04.000Z",
+        "days_on_market": "9",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.080424,
+          39.477799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e2f117e1-9594-5779-9be1-aaf782910121",
         "address": "3969-Briaridge-Cir-Atlanta-GA-30340",
         "beds": 3,
@@ -59596,6 +59701,27 @@
         "coordinates": [
           -82.533952,
           28.885986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e66555d2-575c-537c-ae57-c200e1f1aae2",
+        "address": "736-W-Borden-St-Sinton-TX-78387",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1262,
+        "listed_at": "2026-08-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.519917,
+          28.035925
         ]
       }
     },
