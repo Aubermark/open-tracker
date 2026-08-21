@@ -5380,27 +5380,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "14e04a29-0a83-5bb4-90d1-3e52aa6f549e",
-        "address": "5049-Saphire-Ct-Douglasville-GA-30135",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2219,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "107",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.703579,
-          33.728252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "14e3fd05-5861-5570-b51d-18502836b802",
         "address": "8317-Moritz-Dr-Stokesdale-NC-27357-18406875",
         "beds": 3,
@@ -11989,6 +11968,27 @@
         "coordinates": [
           -86.629818,
           36.266673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2f97c09b-6c6e-5946-9922-e50236aae949",
+        "address": "286-Blue-Rock-Dr-Longs-SC-29568",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1349,
+        "listed_at": "2026-08-21T15:40:04.000Z",
+        "days_on_market": "79",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.733587,
+          34.011977
         ]
       }
     },
@@ -49075,6 +49075,27 @@
         "coordinates": [
           -80.695635,
           35.2972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1bfff21-2639-4154-813e-da12f7b72d2e",
+        "address": "3627-Junefield-St-Tracy-CA-95377",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2580,
+        "listed_at": "2026-08-21T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.480397,
+          37.689753
         ]
       }
     },
