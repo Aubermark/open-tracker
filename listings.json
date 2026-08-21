@@ -3658,6 +3658,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d9d3cdb-b25e-4965-81ca-4f05e2ffd358",
+        "address": "2307-Burney-Falls-Ln-Davenport-FL-33837",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1432,
+        "listed_at": "2026-08-21T15:00:04.000Z",
+        "days_on_market": "78",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.650809,
+          28.1836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
         "address": "1623-12th-St-Saint-Cloud-FL-34769",
         "beds": 4,
@@ -10771,6 +10792,27 @@
         "coordinates": [
           -95.484908,
           30.091522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b2e6638-cc9c-5976-95c0-4f355ee21d21",
+        "address": "2054-Avondown-Rd-Forney-TX-75126",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2730,
+        "listed_at": "2026-08-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.433655,
+          32.771102
         ]
       }
     },
@@ -27283,6 +27325,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cef094d-6649-5131-9a0b-beaab600f851",
+        "address": "274-Whitford-Ave-Providence-RI-02908",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 888,
+        "listed_at": "2026-08-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.449522,
+          41.838507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d3648e4-8b40-5e97-859c-5a65875f34f2",
         "address": "6550-W-Wolf-Valley-Way-Tucson-AZ-85757-18458070",
         "beds": 4,
@@ -27970,6 +28033,27 @@
         "coordinates": [
           -80.107163,
           33.015253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "712154e2-6bd8-5301-a4c2-e8f1ae0f1c53",
+        "address": "1309-Winding-Brook-Dr-Garland-TX-75044",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3673,
+        "listed_at": "2026-08-21T15:00:04.000Z",
+        "days_on_market": "128",
+        "current_price": 735000,
+        "price_label": "$735K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.646815,
+          32.9835
         ]
       }
     },
@@ -38350,6 +38434,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "984c6fe8-b856-5709-a13a-d47189bed530",
+        "address": "426-E-Payton-St-San-Tan-Valley-AZ-85140",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1660,
+        "listed_at": "2026-08-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.561236,
+          33.236788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "984ccb19-3d06-5b45-ba11-907dc20a77cc",
         "address": "205-Avocet-Ln-Clayton-NC-27520",
         "beds": 5,
@@ -40045,27 +40150,6 @@
         "coordinates": [
           -78.91728,
           35.564448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9f232fc7-9cd2-5650-b3a3-5075bc7984ce",
-        "address": "1002-Hummingbird-Dr-Granite-Shoals-TX-78654",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 888,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "16",
-        "current_price": 155000,
-        "price_label": "$155K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.36337,
-          30.592846
         ]
       }
     },
@@ -44098,6 +44182,27 @@
         "coordinates": [
           -81.188,
           34.057947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae891d92-22ec-5d8b-adf1-b250749ebd7c",
+        "address": "8763-Autumn-Oaks-Dr-Rockford-MN-55373",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3122,
+        "listed_at": "2026-08-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.752829,
+          45.083458
         ]
       }
     },
@@ -48403,6 +48508,27 @@
         "coordinates": [
           -97.659136,
           30.490174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf99c6bf-b59f-5af8-8759-5202c51def81",
+        "address": "9-Atlantic-Ave-North-Providence-RI-02904",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1428,
+        "listed_at": "2026-08-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 457000,
+        "price_label": "$457K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.436031,
+          41.874873
         ]
       }
     },
@@ -57958,6 +58084,27 @@
         "coordinates": [
           -115.009915,
           36.06496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e33f6817-a4dd-511e-9e7f-d0793451e0d2",
+        "address": "3408-Grove-Blossom-Ln-Plant-City-FL-33567",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1540,
+        "listed_at": "2026-08-21T15:00:04.000Z",
+        "days_on_market": "98",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.159157,
+          27.965199
         ]
       }
     },
