@@ -15607,6 +15607,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f0136ae-59cf-4f53-9594-7e1874f768af",
+        "address": "3267-Carambola-Ave-Clovis-CA-93619",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1677,
+        "listed_at": "2026-08-21T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.621436,
+          36.792118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f0f68e5-8611-54f7-87f9-d0b1c2d1839c",
         "address": "811-Sunset-Ave-Nw-Cleveland-TN-37311",
         "beds": 3,
