@@ -4540,6 +4540,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10c174e6-5322-5ca7-9f01-5953401e38ce",
+        "address": "1005-S-3rd-St-Festus-MO-63028",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1176,
+        "listed_at": "2026-08-22T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 115000,
+        "price_label": "$115K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.405326,
+          38.217799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10eaacfc-d876-53e4-a390-d1c5589e01b6",
         "address": "4517-Vanessita-Ct-Laredo-TX-78046",
         "beds": 3,
