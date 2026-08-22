@@ -30307,6 +30307,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76f4a8c5-e422-56cf-9130-aa0f9390b119",
+        "address": "3117-Verdugo-Dr-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1222,
+        "listed_at": "2026-08-22T19:40:04.000Z",
+        "days_on_market": "71",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.610879,
+          35.737917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "770aa645-1b31-5bb0-8a0f-8e60be19c048",
         "address": "4876-Grassy-Knoll-Dr-Tavares-FL-32778",
         "beds": 4,
