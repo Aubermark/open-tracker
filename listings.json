@@ -21529,6 +21529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55909659-ec5f-50b5-afcd-ad1b0099758c",
+        "address": "3622-Shady-Grove-Cir-Orlando-FL-32810",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 953,
+        "listed_at": "2026-08-22T10:39:28.000Z",
+        "days_on_market": "121",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.423965,
+          28.633841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5598a2de-44a1-5cf7-b56e-e5960b4850d7",
         "address": "2305-Sw-Fern-Cir-Port-Saint-Lucie-FL-34953",
         "beds": 3,
