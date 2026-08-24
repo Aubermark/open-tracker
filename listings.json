@@ -21361,6 +21361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55fc8fc6-608c-5acf-8509-fc8a63b9444e",
+        "address": "6032-Briggs-Dr-Charlotte-NC-28269-6077059",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-08-24T12:10:04.000Z",
+        "days_on_market": "133",
+        "current_price": 334000,
+        "price_label": "$334K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.793207,
+          35.324182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5610edd4-475b-5643-a0cd-e952ce2586fb",
         "address": "800-S-Bedford-Dr-Chandler-AZ-85225",
         "beds": 4,
@@ -56467,27 +56488,6 @@
         "coordinates": [
           -86.724078,
           36.269345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "db822d50-44ae-5983-9972-c33e18613395",
-        "address": "216-Hardaway-Pt-Clayton-NC-27527",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1994,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "82",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.43168,
-          35.686995
         ]
       }
     },
