@@ -10819,6 +10819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29f17d45-e8d8-51f5-b612-9b4f167a8f26",
+        "address": "2801-Maria-Casas-St-El-Paso-TX-79938",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2035,
+        "listed_at": "2026-08-24T10:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.207325,
+          31.779888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a2c7318-abeb-5895-8d27-05f52d487a44",
         "address": "403-Eagle-Claw-Ct-Chapin-SC-29036",
         "beds": 5,
