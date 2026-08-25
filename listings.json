@@ -51643,6 +51643,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c87589e0-cc8f-56e6-9c67-e81501d0a25d",
+        "address": "449-Virginia-Ave-Statesville-NC-28677",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1403,
+        "listed_at": "2026-08-25T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.892297,
+          35.803288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c89cdf2a-2b56-5193-8150-3d5ce3b224f3",
         "address": "3054-Montclair-Cir-Se-Smyrna-GA-30080",
         "beds": 4,
