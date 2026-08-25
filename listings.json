@@ -2587,6 +2587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09141017-34f7-5fa6-82c1-750ba2e55203",
+        "address": "971-Learidge-Rd-Cleveland-OH-44124",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1804,
+        "listed_at": "2026-08-25T07:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.504277,
+          41.533622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0929628e-6a4e-5f2e-b4cd-11f4ce15e39b",
         "address": "2824-Saint-Bernard-Dr-Dallas-TX-75233",
         "beds": 4,
