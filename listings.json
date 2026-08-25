@@ -43453,6 +43453,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a7cd5a62-312e-543e-baa5-11258542c8e6",
+        "address": "3561-Rain-Forest-Dr-W-Jacksonville-FL-32277",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1188,
+        "listed_at": "2026-08-25T13:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.573337,
+          30.364545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a7ddbb2b-d071-5cae-9bca-c1daed484806",
         "address": "18840-W-Mercer-Ln-Surprise-AZ-85388",
         "beds": 4,
