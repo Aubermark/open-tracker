@@ -634,6 +634,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01bc99dc-6f16-5120-95d2-470660273d6e",
+        "address": "912-Hollycrest-Dr-Champaign-IL-61821",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1500,
+        "listed_at": "2026-08-26T12:00:04.000Z",
+        "days_on_market": "37",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.279691,
+          40.106617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01bf2ef1-02f0-54aa-8222-0b0ca786fe44",
         "address": "17240-Westmill-Ln-Charlotte-NC-28277",
         "beds": 3,
