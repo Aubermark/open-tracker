@@ -17476,6 +17476,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "427e8ab3-8d2d-5781-94f2-c27e62a4be0f",
+        "address": "1315-Tumbling-River-Dr-Leander-TX-78641",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1841,
+        "listed_at": "2026-08-26T10:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.855663,
+          30.538144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4297b955-775f-5394-b0d3-b018a34434fa",
         "address": "4309-Saltmarsh-Sparrow-Dr-Windermere-FL-34786",
         "beds": 5,
