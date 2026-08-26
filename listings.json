@@ -32911,6 +32911,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d4a22f2-0fd5-59f0-9922-7a6131701c76",
+        "address": "1513-Alpha-Ct-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1128,
+        "listed_at": "2026-08-26T10:40:04.000Z",
+        "days_on_market": "84",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.926432,
+          34.052765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7d86756d-bd70-5b62-97d8-6a5dde651fbb",
         "address": "2032-Lobo-Trot-Ct-Se-Albuquerque-NM-87123",
         "beds": 3,
