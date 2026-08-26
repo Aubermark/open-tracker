@@ -193,6 +193,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00a1d223-5106-5c32-9ff3-56480354b920",
+        "address": "7700-E-Meadowbrook-Ave-Scottsdale-AZ-85251",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-08-26T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.915008,
+          33.504503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00a36a78-cf73-5de3-9c6f-055c95064406",
         "address": "278-Chemistry-Cir-Ladson-SC-29456",
         "beds": 3,
@@ -1762,27 +1783,6 @@
         "coordinates": [
           -80.224358,
           27.233817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "06328d9b-6372-5fcd-80c7-1a997e618cff",
-        "address": "886-Sagebrush-Dr-Brighton-CO-80603",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2030,
-        "listed_at": "2026-08-20T21:50:04.000Z",
-        "days_on_market": "6",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.733283,
-          40.005046
         ]
       }
     },
@@ -10120,6 +10120,27 @@
         "coordinates": [
           -95.220937,
           36.330506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2688db1e-47de-5441-8d28-5a39c24c098a",
+        "address": "736-Bettes-Ave-Akron-OH-44310",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1176,
+        "listed_at": "2026-08-26T20:40:05.000Z",
+        "days_on_market": "42",
+        "current_price": 112000,
+        "price_label": "$112K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.488153,
+          41.110328
         ]
       }
     },
@@ -35893,27 +35914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8703409c-d729-573f-b991-2cb6a83aff0a",
-        "address": "606-Gulfstream-Trl-S-Orange-Park-FL-32073",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2153,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "153",
-        "current_price": 351000,
-        "price_label": "$351K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.741658,
-          30.156298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "870eca90-4014-5fa3-8e33-bfdeb4b07c08",
         "address": "836-Castilla-Way-Winder-GA-30680",
         "beds": 3,
@@ -42607,6 +42607,27 @@
         "coordinates": [
           -84.162802,
           34.14135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a17d559d-22be-56d3-be87-c1af76ab0f79",
+        "address": "2405-Waterloo-Ln-Mesquite-TX-75181",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2632,
+        "listed_at": "2026-08-26T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 334000,
+        "price_label": "$334K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.553497,
+          32.735824
         ]
       }
     },
@@ -53638,6 +53659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbb45e79-4b73-5e99-a789-470c6b44d877",
+        "address": "18715-Libby-Rd-Maple-Heights-OH-44137",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1596,
+        "listed_at": "2026-08-26T20:40:05.000Z",
+        "days_on_market": "177",
+        "current_price": 176000,
+        "price_label": "$176K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.548407,
+          41.417271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbb84bcc-eb6a-505f-8a10-71c279228d41",
         "address": "6437-Westminster-Dr-Cleveland-OH-44129",
         "beds": 3,
@@ -63649,6 +63691,27 @@
         "coordinates": [
           -84.47056,
           33.92966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0224918-a944-5306-87f4-b1af0a4af5cd",
+        "address": "7511-Orient-Ave-Kansas-City-KS-66112",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1858,
+        "listed_at": "2026-08-26T20:40:05.000Z",
+        "days_on_market": "23",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.754553,
+          39.10995
         ]
       }
     },
