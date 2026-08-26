@@ -4309,6 +4309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fd2dac7-e28f-4c0e-bba9-092e99f61505",
+        "address": "230-Flat-Shoal-Dr-Bonaire-GA-31005",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2241,
+        "listed_at": "2026-08-26T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.574071,
+          32.538995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fd64878-999e-5751-9fc4-7c7d381afa17",
         "address": "1872-Bakers-Mill-Rd-Dacula-GA-30019",
         "beds": 5,
@@ -20893,6 +20914,27 @@
         "coordinates": [
           -84.4342,
           31.770463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "50161df7-cf66-4389-b6da-cb7ce65c16a0",
+        "address": "205-Flat-Shoal-Dr-Bonaire-GA-31005",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2241,
+        "listed_at": "2026-08-26T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.573747,
+          32.535899
         ]
       }
     },
