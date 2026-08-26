@@ -15754,27 +15754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3c8af525-2668-589e-9fd9-1cec0b2e1185",
-        "address": "71-Bethesda-Church-Rd-Lawrenceville-GA-30044-18235524",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1100,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "69",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.082567,
-          33.910575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3cb10bed-5725-5fd1-833c-6e025804b92d",
         "address": "6200-W-6th-Street-Rd-Greeley-CO-80634",
         "beds": 3,
@@ -20074,27 +20053,6 @@
         "coordinates": [
           -80.755772,
           35.080148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4c6efcd6-dec0-5403-9da9-a39e1657d84e",
-        "address": "315-Elam-Dr-Anna-TX-75409-18448920",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1832,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "23",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.550288,
-          33.385738
         ]
       }
     },
@@ -34123,27 +34081,6 @@
         "coordinates": [
           -82.548839,
           28.203167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "818b6009-17b8-5c81-a9dd-0501f9c8aa3c",
-        "address": "399-Hickory-Ln-Westerville-OH-43081",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2918,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "48",
-        "current_price": 461000,
-        "price_label": "$461K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.910485,
-          40.109125
         ]
       }
     },
@@ -67114,6 +67051,27 @@
         "coordinates": [
           -79.479199,
           35.17466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffc7a0e5-7d09-558d-b0de-10b982895406",
+        "address": "509-Calhoun-Pl-Hemet-CA-92543",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-08-26T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 402000,
+        "price_label": "$402K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.966983,
+          33.750025
         ]
       }
     },
