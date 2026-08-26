@@ -529,6 +529,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0165378e-60f3-565c-989d-91caaf530bad",
+        "address": "23089-Brittany-Ave-Eastpointe-MI-48021",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1080,
+        "listed_at": "2026-08-26T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.939363,
+          42.46879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01723653-bdf1-521a-994b-6c37c15247a3",
         "address": "608-Howland-Ave-Toledo-OH-43605",
         "beds": 3,
@@ -12913,27 +12934,6 @@
         "coordinates": [
           -74.364508,
           39.581485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "303242b9-0652-5718-bd87-2037ce0d0be6",
-        "address": "6120-Dorchester-Dr-Rex-GA-30273",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1234,
-        "listed_at": "2026-08-18T06:01:28.000Z",
-        "days_on_market": "9",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.270804,
-          33.587181
         ]
       }
     },
@@ -27598,6 +27598,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "683ac0e6-f37a-5106-8e01-ea3f67ec5d81",
+        "address": "3364-N-60th-Ter-Kansas-City-KS-66104",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1877,
+        "listed_at": "2026-08-26T21:20:04.000Z",
+        "days_on_market": "16",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.718937,
+          39.148339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68458d81-e3c0-57c1-af53-aac317f21156",
         "address": "342-Newcastle-Vis-Mc-Donough-GA-30253",
         "beds": 3,
@@ -35677,6 +35698,27 @@
         "coordinates": [
           -80.903696,
           35.060548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "865aea0e-b337-50c4-9512-406b4298ddb3",
+        "address": "4625-Kenross-Dr-Columbus-OH-43207",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2144,
+        "listed_at": "2026-08-26T21:20:04.000Z",
+        "days_on_market": "63",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.994677,
+          39.867273
         ]
       }
     },
@@ -66778,27 +66820,6 @@
         "coordinates": [
           -81.519733,
           41.055576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc7be495-7f67-5334-869e-3b5d9c75721e",
-        "address": "504-Love-Cir-Corsicana-TX-75110",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2786,
-        "listed_at": "2026-08-19T14:50:04.000Z",
-        "days_on_market": "20",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.482114,
-          32.111387
         ]
       }
     },
