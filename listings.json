@@ -3448,6 +3448,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c2fd303-008f-5ba2-8dea-54b9d5978dbe",
+        "address": "2401-N-Hills-Dr-New-Bern-NC-28562",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1435,
+        "listed_at": "2026-08-27T13:10:04.000Z",
+        "days_on_market": "52",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069103,
+          35.12161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c318fa0-d43e-558f-bfc2-cbfed065a2c9",
         "address": "6005-La-Castana-Way-Sacramento-CA-95823",
         "beds": 4,
@@ -11506,6 +11527,27 @@
         "coordinates": [
           -96.723272,
           33.156662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ad8db9e-c02e-5711-9969-1b225ae83aa2",
+        "address": "97-Walnut-Ave-Defuniak-Springs-FL-32435",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2168,
+        "listed_at": "2026-08-27T13:10:04.000Z",
+        "days_on_market": "15",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.105978,
+          30.714499
         ]
       }
     },
@@ -33010,27 +33052,6 @@
         "coordinates": [
           -81.712903,
           30.395849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7c818607-6002-563b-a294-4431cb34647f",
-        "address": "5569-Partridge-Cir-West-Chester-OH-45069",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1564,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "37",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.43756,
-          39.348362
         ]
       }
     },
