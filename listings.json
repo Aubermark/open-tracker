@@ -7354,6 +7354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ae6d7b6-9766-5cfa-be81-0e81b7531f61",
+        "address": "8956-Devonshire-Dr-Fort-Worth-TX-76131",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2111,
+        "listed_at": "2026-08-27T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338117,
+          32.899013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b0b2340-839f-55c3-90b2-b6014625a865",
         "address": "39180-Anchor-Bay-Unit-A-Murrieta-CA-92563",
         "beds": 3,
