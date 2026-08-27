@@ -382,6 +382,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00f709e1-7447-52aa-95b2-dd377061ad94",
+        "address": "127-Nelson-St-Durham-NC-27707",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1372,
+        "listed_at": "2026-08-27T21:50:05.000Z",
+        "days_on_market": "122",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90566,
+          35.973706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01280b8a-31b9-5a6e-a756-2f4e23a1f720",
         "address": "21016-68th-Street-Ct-E-Bonney-Lake-WA-98391",
         "beds": 3,
@@ -12268,27 +12289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c8b69b9-539c-519f-b6c8-b62848e4da52",
-        "address": "1714-Andrew-Crockett-Ct-Brentwood-TN-37027",
-        "beds": 5,
-        "baths": 5.5,
-        "sqft": 5823,
-        "listed_at": "2026-08-26T18:00:04.000Z",
-        "days_on_market": "1",
-        "current_price": 2000000,
-        "price_label": "$2.000M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.786288,
-          35.960513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c983687-26d8-523e-b35f-6513f2eb08a5",
         "address": "5098-River-Glen-Dr-Unit-215-Las-Vegas-NV-89103",
         "beds": 1,
@@ -20080,27 +20080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4b04341a-74c6-5087-ac57-678bba830f75",
-        "address": "5917-Raza-Rd-Pearland-TX-77584",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2048,
-        "listed_at": "2026-08-25T16:00:04.000Z",
-        "days_on_market": "114",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.312208,
-          29.535083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4b0f2c50-ff81-50f6-88a1-f7be5cf58cdf",
         "address": "8423-Berry-Knoll-Dr-Universal-City-TX-78148",
         "beds": 4,
@@ -23035,27 +23014,6 @@
         "coordinates": [
           -77.688123,
           37.457823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5740ce49-9bcd-4540-9ca9-4127f8f655b5",
-        "address": "431-Pleasanton-Way-San-Antonio-TX-78221",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1340,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": ">186",
-        "current_price": 182000,
-        "price_label": "$182K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.496093,
-          29.322904
         ]
       }
     },
@@ -26353,6 +26311,27 @@
         "coordinates": [
           -80.623098,
           33.033554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "62d3f7d7-8577-5e5d-92dd-1ae6477d908f",
+        "address": "2011-Allyson-Dr-Heartland-TX-75126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1527,
+        "listed_at": "2026-08-27T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.457631,
+          32.691215
         ]
       }
     },
@@ -44398,27 +44377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a59ae329-e46f-5e59-9f1c-24d6d07efde8",
-        "address": "12158-E-Ironwood-Dr-Scottsdale-AZ-85259",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3736,
-        "listed_at": "2026-08-18T19:00:05.000Z",
-        "days_on_market": "9",
-        "current_price": 1780000,
-        "price_label": "$1.780M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.819136,
-          33.577241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a5a24d1e-3a75-54bc-a7fb-c5fbeab71129",
         "address": "11307-Narrowleaf-Dr-Indianapolis-IN-46235",
         "beds": 4,
@@ -53176,27 +53134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c6cddc2e-b82e-56eb-8ff3-b85d371d8342",
-        "address": "1-Newcourt-Pl-Columbia-SC-29229",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1935,
-        "listed_at": "2026-08-20T12:30:04.000Z",
-        "days_on_market": "146",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.921642,
-          34.148109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c6d6f4a9-7805-5c74-9970-fe8b64f0150b",
         "address": "1396-Bramlett-Forest-Ct-Lawrenceville-GA-30045",
         "beds": 4,
@@ -54808,6 +54745,27 @@
         "coordinates": [
           -80.420878,
           34.997597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce365ce3-e4a5-56cf-a07b-ab34d901d76a",
+        "address": "923-Keeneland-Rd-Florissant-MO-63034-18246746",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2761,
+        "listed_at": "2026-08-27T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.304455,
+          38.835953
         ]
       }
     },
