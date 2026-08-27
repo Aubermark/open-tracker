@@ -5968,6 +5968,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1676207c-0e77-5e63-9ba6-f7c30d0a8b0d",
+        "address": "4303-Castlewood-Pkwy-Columbus-GA-31907",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2515,
+        "listed_at": "2026-08-27T12:30:04.000Z",
+        "days_on_market": "110",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.920201,
+          32.505216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "168a9322-4add-5e9b-b706-47b1662b2b16",
         "address": "538-Walnut-Way-Palmetto-GA-30268",
         "beds": 5,
@@ -13081,6 +13102,27 @@
         "coordinates": [
           -81.033804,
           35.031501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3094e443-aeb8-54de-95b6-eae7c78cc605",
+        "address": "724-Chippewa-Trl-Niles-MI-49120",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1684,
+        "listed_at": "2026-08-27T12:30:05.000Z",
+        "days_on_market": "83",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274584,
+          41.81888
         ]
       }
     },
