@@ -4477,6 +4477,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ffeef14-3681-580e-806d-f66e64cf80e7",
+        "address": "1421-Prairie-Lake-Ct-Carrollton-TX-75010",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2704,
+        "listed_at": "2026-08-27T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.886651,
+          33.052519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "100441f3-417c-52bf-9dc4-5998aa1e434b",
         "address": "1605-Auten-Rd-Gastonia-NC-28054",
         "beds": 3,
@@ -16483,6 +16504,27 @@
         "coordinates": [
           -97.679705,
           30.660875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d976f84-0e79-58fc-bece-09252cb8bdd6",
+        "address": "8915-Cinder-Ln-Huntersville-NC-28078",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2449,
+        "listed_at": "2026-08-27T19:10:05.000Z",
+        "days_on_market": "167",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.913041,
+          35.381546
         ]
       }
     },
@@ -31540,27 +31582,6 @@
         "coordinates": [
           -95.856082,
           29.866761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "76d789ac-c2ba-5e56-a87b-eeab7b5b1978",
-        "address": "8735-Hazel-Rose-Sky-Dr-Humble-TX-77338",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1658,
-        "listed_at": "2026-07-09T05:58:39.000Z",
-        "days_on_market": "90",
-        "current_price": 231000,
-        "price_label": "$231K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.291773,
-          30.01927
         ]
       }
     },
@@ -63382,27 +63403,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ec17ad02-a26e-517d-bb9a-8d4ec1cb5078",
-        "address": "717-Twisted-Oaks-Ln-Buda-TX-78610",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1688,
-        "listed_at": "2026-07-16T07:07:51.000Z",
-        "days_on_market": ">186",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.804315,
-          30.042634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ec23a245-d722-5a7a-b9ad-49fb75edf230",
         "address": "1230-E-Pleasant-Run-Parkway-North-Dr-Indianapolis-IN-46203",
         "beds": 2,
@@ -66610,27 +66610,6 @@
         "coordinates": [
           -86.128194,
           30.742771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8da5703-134e-5485-98a2-0af3d46e53e5",
-        "address": "3014-Country-Boy-Ct-Spring-TX-77373",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1770,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "60",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.374144,
-          30.06306
         ]
       }
     },
