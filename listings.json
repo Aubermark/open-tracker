@@ -17287,6 +17287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41b1f08f-0820-5df9-8010-439716ad797b",
+        "address": "1088-Meadow-Glen-Cir-Fairburn-GA-30213",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1498,
+        "listed_at": "2026-08-27T06:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.582881,
+          33.53314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41c0ae9a-b0cb-5c46-8e06-5eb88e2c9044",
         "address": "619-E-Arlington-Ave-Fort-Worth-TX-76104",
         "beds": 3,
