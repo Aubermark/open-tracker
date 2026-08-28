@@ -3700,6 +3700,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
+        "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2007,
+        "listed_at": "2026-08-28T15:50:04.000Z",
+        "days_on_market": "169",
+        "current_price": 439000,
+        "price_label": "$439K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.953184,
+          39.574237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c9b4a8a-d7b8-5d3a-9301-6666789528c2",
         "address": "622-Mesa-Loop-San-Antonio-TX-78258",
         "beds": 3,
@@ -13774,6 +13795,27 @@
         "coordinates": [
           -112.25535,
           33.731675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "31fb00c0-b6dd-5a9d-b317-2feed46a5bc2",
+        "address": "26210-Presidio-Mesa-Boerne-TX-78015",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1738,
+        "listed_at": "2026-08-28T15:50:04.000Z",
+        "days_on_market": "16",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.634599,
+          29.689762
         ]
       }
     },
@@ -25387,6 +25429,27 @@
         "coordinates": [
           -81.163371,
           35.240495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f052536-8b58-5cb4-9317-53fe0e28bf8d",
+        "address": "151-Westfield-Ave-Hamilton-OH-45013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1080,
+        "listed_at": "2026-08-28T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.596142,
+          39.418185
         ]
       }
     },
@@ -56641,27 +56704,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d2eabd78-c6a2-5dd7-ad7b-f669a27d3a79",
-        "address": "8951-Adams-Ave-Jacksonville-FL-32208",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1350,
-        "listed_at": "2026-08-25T15:20:03.000Z",
-        "days_on_market": "3",
-        "current_price": 100000,
-        "price_label": "$100K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.683461,
-          30.404567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d2f916a5-6eea-57de-ba09-ec96f46f6b67",
         "address": "23110-Pennsgrove-Rd-Spring-TX-77373",
         "beds": 3,
@@ -59953,6 +59995,27 @@
         "coordinates": [
           -79.945042,
           35.973463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de73812c-c25e-5c5e-bc8a-16028bb699df",
+        "address": "3008-Lerwick-Rd-Sacramento-CA-95821",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1446,
+        "listed_at": "2026-08-28T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 441000,
+        "price_label": "$441K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.392758,
+          38.631163
         ]
       }
     },
