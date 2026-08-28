@@ -15187,6 +15187,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "38295736-36ee-54cd-83c3-e73a4cd2cbe8",
+        "address": "45370-W-Horse-Mesa-Rd-Maricopa-AZ-85139",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3120,
+        "listed_at": "2026-08-28T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.055192,
+          33.041535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3839d102-8b4b-5c67-a710-9c13137ada4d",
         "address": "5415-Foxhill-Rd-Temple-TX-76502",
         "beds": 4,
@@ -34738,6 +34759,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "811e9583-7c80-5a20-840f-7bdea8f0890e",
+        "address": "537-S-Miles-Ave-El-Reno-OK-73036",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2144,
+        "listed_at": "2026-08-28T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.958854,
+          35.52821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8126924b-252b-5670-9be2-c51bd878de37",
         "address": "435-Churchill-Ct-Jonesboro-GA-30238",
         "beds": 3,
@@ -50110,6 +50152,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9e7af76-c0a2-5787-9f82-060e665e9b5a",
+        "address": "7636-Montgomery-Rd-Unit-C-Cincinnati-OH-45236",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1188,
+        "listed_at": "2026-08-28T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388415,
+          39.195736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9eb62ca-bdee-59ca-b11e-4db1be5dcb35",
         "address": "7912-Pine-St-Taylor-MI-48180",
         "beds": 3,
@@ -59890,27 +59953,6 @@
         "coordinates": [
           -79.9467,
           36.397775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dd05748f-ad79-55dc-9549-18d6a76046b5",
-        "address": "6003-N-Cosby-Ct-Kansas-City-MO-64151",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 4704,
-        "listed_at": "2026-08-25T17:20:04.000Z",
-        "days_on_market": "25",
-        "current_price": 696000,
-        "price_label": "$696K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.648885,
-          39.202493
         ]
       }
     },
