@@ -130,27 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "008b89b6-8024-5397-84db-2b7cc821ed10",
-        "address": "301-Hocutt-Dr-Clayton-NC-27520",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1375,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "123",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.475883,
-          35.644055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "008f95ea-069a-5c0c-99c7-c24f74fa4bdb",
         "address": "2027-W-Corrine-Dr-Phoenix-AZ-85029",
         "beds": 3,
@@ -1972,6 +1951,27 @@
         "coordinates": [
           -97.561155,
           35.575904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "069d278c-c468-5eb2-a3a4-d6ad949ef43b",
+        "address": "110-N-Delaware-Blvd-Apt-10-C-Jupiter-FL-33458",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1320,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.118308,
+          26.936226
         ]
       }
     },
@@ -6508,27 +6508,6 @@
         "coordinates": [
           -121.370678,
           38.563244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "17deb581-766c-530b-a804-8b1db488a760",
-        "address": "161-Patterdale-Pl-Benson-NC-27504",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1300,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "82",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.564473,
-          35.492142
         ]
       }
     },
@@ -15565,6 +15544,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39c67123-b07e-541a-a0ec-50c93ff242f6",
+        "address": "5857-Mistyview-Dr-Rex-GA-30273",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.272401,
+          33.594767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39de011d-ba41-564f-a712-76f6dfa7f771",
         "address": "8526-Vista-Grande-Dr-Dallas-TX-75249",
         "beds": 4,
@@ -15916,27 +15916,6 @@
         "coordinates": [
           -115.227479,
           36.181512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3b05ab61-f780-584d-8cda-b77d17430bd9",
-        "address": "218-Shepard-Dr-Dawsonville-GA-30534",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2132,
-        "listed_at": "2026-08-25T22:00:04.000Z",
-        "days_on_market": "3",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.112706,
-          34.409264
         ]
       }
     },
@@ -24175,6 +24154,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5a52d8dc-b6cc-4bdf-8b31-3b359098f8f4",
+        "address": "201-Loving-Trl-Justin-TX-76247",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3549,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.308444,
+          33.074276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a6bc746-20cf-5dac-b0c1-34ce40738cfd",
         "address": "2120-Spring-Lake-Dr-Spring-Hill-TN-37174",
         "beds": 3,
@@ -24526,27 +24526,6 @@
         "coordinates": [
           -80.945798,
           34.059874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5bd73688-9290-50e2-9608-8bb29b0f976c",
-        "address": "310-Hunters-Chase-Mc-Donough-GA-30253",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2481,
-        "listed_at": "2026-08-20T06:22:42.000Z",
-        "days_on_market": "9",
-        "current_price": 308000,
-        "price_label": "$308K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.17776,
-          33.394893
         ]
       }
     },
@@ -25408,6 +25387,27 @@
         "coordinates": [
           -74.819344,
           39.990782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e5979f8-bc98-57c6-aaae-def229369d66",
+        "address": "2899-Armaugh-Dr-Brownsburg-IN-46112",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2390,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.371533,
+          39.805663
         ]
       }
     },
@@ -28642,6 +28642,27 @@
         "coordinates": [
           -78.527213,
           36.272291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "69cd6d5b-914f-509f-a288-3c0654766fc0",
+        "address": "6718-Spring-Haven-St-San-Antonio-TX-78249",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1486,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 273000,
+        "price_label": "$273K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.621966,
+          29.552669
         ]
       }
     },
@@ -38581,27 +38602,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8d36af2b-6d87-5eff-8ff1-c58dfee7f78a",
-        "address": "6621-Blalock-Forest-Dr-Willow-Spring-NC-27592-17207715",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2566,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "77",
-        "current_price": 469000,
-        "price_label": "$469K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.68371,
-          35.597854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8d8de036-96f4-5ce8-b789-d74a2a1a4a2a",
         "address": "3001-Gilchrist-Dr-Lorena-TX-76655",
         "beds": 5,
@@ -44014,6 +44014,27 @@
         "coordinates": [
           -97.618388,
           30.490923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1bb68a9-69f4-5cf5-aa24-0f4b929183a0",
+        "address": "758-Meadow-Ridge-Rd-Walland-TN-37886",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1571,
+        "listed_at": "2026-08-28T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.813167,
+          35.799459
         ]
       }
     },
@@ -50908,27 +50929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bb28fa4a-eea1-57ab-b7fd-7b78a6ab7df1",
-        "address": "1116-Arbor-Greene-Dr-Garner-NC-27529",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2369,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "93",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.621969,
-          35.650143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bb3610eb-c159-537b-b387-5663a667298e",
         "address": "119-Old-State-Cir-Powell-TN-37849",
         "beds": 2,
@@ -54709,27 +54709,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "caac7297-5b09-57b3-b618-bd3c42541692",
-        "address": "109-Rockrose-Ave-Clayton-NC-27527",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2596,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "121",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.392966,
-          35.651179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cad49e2c-0da4-5e9b-b4e7-2dde82cd1391",
         "address": "13442-N-177th-Dr-Surprise-AZ-85388",
         "beds": 4,
@@ -55711,27 +55690,6 @@
         "coordinates": [
           -81.408299,
           28.489418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cec1e625-7513-5785-a642-2888cbbfe854",
-        "address": "576-Sunray-Dr-Clayton-NC-27520",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1212,
-        "listed_at": "2026-07-28T18:00:04.000Z",
-        "days_on_market": "31",
-        "current_price": 283000,
-        "price_label": "$283K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.408505,
-          35.562267
         ]
       }
     },
