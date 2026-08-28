@@ -1054,6 +1054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "026f39e3-73a8-5b48-ba71-74eeeba8e36c",
+        "address": "132-Old-Ferry-Way-Roswell-GA-30076",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-08-28T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.323475,
+          34.025123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "026ffc8b-e1d1-4723-9715-8ecec1178460",
         "address": "18664-Legend-Oaks-Dr-Magnolia-TX-77355",
         "beds": 4,
@@ -14341,27 +14362,6 @@
         "coordinates": [
           -75.139959,
           39.957569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "340e5ee4-16d1-5d38-8dba-b9e8f7ae7e6d",
-        "address": "4100-Birchgarden-Dr-High-Point-NC-27265",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1670,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "43",
-        "current_price": 322000,
-        "price_label": "$322K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.978998,
-          36.034666
         ]
       }
     },
@@ -36376,27 +36376,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "870eca90-4014-5fa3-8e33-bfdeb4b07c08",
-        "address": "836-Castilla-Way-Winder-GA-30680",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1872,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "23",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.708228,
-          33.967033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8729e80a-7818-50b0-b56c-57a8a303e768",
         "address": "23669-W-Parkway-Dr-Buckeye-AZ-85326",
         "beds": 4,
@@ -49579,6 +49558,27 @@
         "coordinates": [
           -90.002209,
           38.53545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8770528-1a4e-5c48-989f-e7fe36514553",
+        "address": "526-Towne-Ct-Gilberts-IL-60136",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2706,
+        "listed_at": "2026-08-28T12:40:04.000Z",
+        "days_on_market": "86",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.351538,
+          42.088696
         ]
       }
     },
