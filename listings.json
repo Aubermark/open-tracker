@@ -2860,6 +2860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "099b1186-df60-5a34-8155-08d03be67642",
+        "address": "2796-Shiells-Ave-Riverside-CA-92509",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-08-28T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.421735,
+          34.01857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "099fc79d-a7ad-552b-a95c-3aa14a7ef901",
         "address": "2704-S-Lands-End-Rd-Tucson-AZ-85713",
         "beds": 2,
@@ -12976,6 +12997,27 @@
         "coordinates": [
           -111.866919,
           33.423192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2eda3b82-d744-56dc-a1a2-4956ca5c4a14",
+        "address": "9537-Clayton-Ct-Thornton-CO-80229",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1917,
+        "listed_at": "2026-08-28T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.954958,
+          39.869831
         ]
       }
     },
@@ -28474,27 +28516,6 @@
         "coordinates": [
           -81.252402,
           33.991461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6a801588-51ed-5b6a-8471-07fc7facdba7",
-        "address": "14729-Moran-Rd-Allen-Park-MI-48101",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1438,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "36",
-        "current_price": 248000,
-        "price_label": "$248K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.204276,
-          42.227834
         ]
       }
     },
@@ -64426,6 +64447,27 @@
         "coordinates": [
           -81.59252,
           31.861817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef9d6258-330a-5285-91fe-0e732a489e02",
+        "address": "8801-Parkfield-Dr-Austin-TX-78758",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 967,
+        "listed_at": "2026-08-28T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.710159,
+          30.361707
         ]
       }
     },
