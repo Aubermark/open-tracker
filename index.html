@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">28/08/2026, 16:39 (CET)</span>
+                <span class="hero-meta-value">28/08/2026, 16:41 (CET)</span>
               </div>
           </div>
         </section>
@@ -4891,7 +4891,7 @@ PCE was disappointing today, but I still think they’ll keep rates the same. <a
       tooltip: { show: false },
 
       legend: {
-        data: ['P. Sold', 'Active Listings', 'Rotation %', 'Original Sold'],
+        data: ['P. Sold', 'Active Listings', 'Rotation %', 'Before Relistings'],
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
         itemWidth: 12,
@@ -5062,7 +5062,7 @@ PCE was disappointing today, but I still think they’ll keep rates the same. <a
             + 'P. Sold: <strong style="font-size:17px">' + valuesOpt[closestIdx].toLocaleString() + '</strong></div>';
       html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">'
             + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + bandColor + ';margin-right:5px"></span>'
-            + 'Original Sold: <span>' + (originalOpt[closestIdx] ?? valuesOpt[closestIdx]).toLocaleString() + '</span></div>';
+            + 'Before Relistings: <span>' + (originalOpt[closestIdx] ?? valuesOpt[closestIdx]).toLocaleString() + '</span></div>';
       html += '<div style="font-size:11px;opacity:0.65;margin:1px 0">'
             + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:' + activeColor + ';margin-right:5px"></span>'
             + 'Active Listings: <span>' + activeOpt[closestIdx].toLocaleString() + '</span></div>';
