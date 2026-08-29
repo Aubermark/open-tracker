@@ -14284,6 +14284,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "331a6659-eb85-57ef-90cb-75da45b5279e",
+        "address": "817-Shallow-Creek-Way-Mc-Kinney-TX-75071",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3884,
+        "listed_at": "2026-08-29T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 670000,
+        "price_label": "$670K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.614108,
+          33.292333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "333d33fa-62f4-54e2-8075-9770fca9cae5",
         "address": "1134-Somerset-Springs-Dr-Spring-Hill-TN-37174",
         "beds": 3,
