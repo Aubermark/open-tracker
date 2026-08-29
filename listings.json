@@ -27325,6 +27325,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63ff9ca1-4948-58a0-b312-d6b0bb9cb5dd",
+        "address": "2891-Grosvenor-Dr-Cincinnati-OH-45251",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-08-29T05:49:36.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57781,
+          39.259154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "640211f3-7b8a-4fd4-aa7f-d41ac331dd8b",
         "address": "4510-Penkert-Pl-Lakeland-FL-33811",
         "beds": 5,
@@ -31057,6 +31078,27 @@
         "coordinates": [
           -97.205457,
           31.4712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "72c025e2-c857-5407-8a40-97f589732042",
+        "address": "122-Catterick-Way-Fountain-Inn-SC-29644",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1971,
+        "listed_at": "2026-08-29T05:49:36.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.192097,
+          34.704982
         ]
       }
     },
@@ -36454,6 +36496,27 @@
         "coordinates": [
           -117.636435,
           33.570606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85bf93e7-2134-5c11-b89e-dfc3bdd12f0f",
+        "address": "21-Glenhawk-Loop-Irmo-SC-29063",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1497,
+        "listed_at": "2026-08-29T05:49:37.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.223213,
+          34.148097
         ]
       }
     },
@@ -61885,27 +61948,6 @@
         "coordinates": [
           -81.39789,
           30.03308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2c4ad32-693c-5fcc-b35c-954941d1c2a4",
-        "address": "17123-E-Calaveras-Ave-Fountain-Hills-AZ-85268",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1701,
-        "listed_at": "2026-08-20T21:10:04.000Z",
-        "days_on_market": "8",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.710498,
-          33.618187
         ]
       }
     },
