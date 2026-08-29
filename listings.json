@@ -32575,6 +32575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78202664-defd-48c9-b732-eaf0d8d7180e",
+        "address": "415-Olmstead-Way-Unit-68-Alpharetta-GA-30022",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2217,
+        "listed_at": "2026-08-29T01:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.288073,
+          34.052407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "782a14a8-acd3-5175-a38c-0e25990f51d0",
         "address": "3502-Waterstone-Dr-Indianapolis-IN-46268",
         "beds": 4,
@@ -62095,6 +62116,27 @@
         "coordinates": [
           -80.32418,
           35.787456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3847ac0-ab74-5cb5-a214-09390a24022c",
+        "address": "1336-Fate-Conn-Rd-Canton-GA-30114",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2284,
+        "listed_at": "2026-08-29T01:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.478913,
+          34.300954
         ]
       }
     },
