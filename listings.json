@@ -14452,27 +14452,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "33bd5ab7-0e23-5d6c-a72d-b842d0114e00",
-        "address": "1061-Hunt-St-Nw-Palm-Bay-FL-32907",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1157,
-        "listed_at": "2026-08-21T19:40:04.000Z",
-        "days_on_market": "8",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.700562,
-          28.029636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "33e4a370-e5c0-5042-a68e-e203708cb237",
         "address": "3146-Lora-Dr-Maryville-TN-37803",
         "beds": 3,
@@ -47674,6 +47653,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae8fdaaf-bc38-5f7b-b14d-300c99a1e675",
+        "address": "532-S-7th-St-Montesano-WA-98563",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 832,
+        "listed_at": "2026-08-29T19:00:04.000Z",
+        "days_on_market": "36",
+        "current_price": 309000,
+        "price_label": "$309K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.609533,
+          46.976993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae932b5e-853d-5876-b41b-9003ed4574d3",
         "address": "1136-Kris-St-Irving-TX-75060",
         "beds": 3,
@@ -48991,6 +48991,27 @@
         "coordinates": [
           -96.982822,
           32.914136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b39208cf-3940-5bfc-80aa-ef8cbce986bb",
+        "address": "662-Herndon-Pkwy-Herndon-VA-20170",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1753,
+        "listed_at": "2026-08-29T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.391133,
+          38.958978
         ]
       }
     },
