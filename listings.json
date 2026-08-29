@@ -4897,6 +4897,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11536661-5085-5114-b904-92004b293362",
+        "address": "207-Seneca-Forest-Ct-Nashville-TN-37217",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-08-29T12:20:04.000Z",
+        "days_on_market": "86",
+        "current_price": 214000,
+        "price_label": "$214K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.610325,
+          36.090369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1166aaf3-3dc8-5ecd-b99e-bbf7386a614f",
         "address": "9-Bluff-Ridge-Ct-Greenville-SC-29617",
         "beds": 4,
@@ -47206,27 +47227,6 @@
         "coordinates": [
           -82.664014,
           27.81272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "acc30451-1a35-512a-89d8-87855c7c440a",
-        "address": "30406-Everett-St-Southfield-MI-48076",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1686,
-        "listed_at": "2026-08-04T19:55:00.000Z",
-        "days_on_market": "25",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.207447,
-          42.512587
         ]
       }
     },
