@@ -2314,6 +2314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07c1a171-f255-5ce5-bf6f-a7cc18cc128f",
+        "address": "651-Raleigh-Dr-Columbus-OH-43228",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-08-29T21:00:04.000Z",
+        "days_on_market": "30",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.108335,
+          39.939583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07c2b001-b951-5039-b0ec-52da6decb16a",
         "address": "1886-Greenwood-Rd-Chattanooga-TN-37406",
         "beds": 3,
@@ -2959,6 +2980,27 @@
         "coordinates": [
           -120.798809,
           38.71746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "09f998c4-a82e-5fa2-891e-8365f7653723",
+        "address": "8171-Shady-Maple-Dr-Canal-Winchester-OH-43110-18510441",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1874,
+        "listed_at": "2026-08-29T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.761467,
+          39.852961
         ]
       }
     },
