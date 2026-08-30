@@ -6661,6 +6661,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "182d08ba-b46a-5a69-b654-60b0f1f437a2",
+        "address": "707-Willowmoore-Ave-Thomasville-NC-27360",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1958,
+        "listed_at": "2026-08-30T10:30:02.000Z",
+        "days_on_market": "170",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.082444,
+          35.896408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18310417-fd51-51eb-9891-edfe51652cd9",
         "address": "2770-Burtz-Dr-Marietta-GA-30068",
         "beds": 4,
@@ -21439,27 +21460,6 @@
         "coordinates": [
           -97.195235,
           32.671612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4fd3c9e5-a380-50c6-a2e6-d0202746d738",
-        "address": "3001-Sterling-Dr-Waxhaw-NC-28173",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3828,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "40",
-        "current_price": 710000,
-        "price_label": "$710K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.778095,
-          34.92917
         ]
       }
     },
