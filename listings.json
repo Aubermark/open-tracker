@@ -9853,6 +9853,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23ea10a0-eedc-50fa-ba4a-7af9f5353743",
+        "address": "1653-E-Kellogg-Cir-Douglasville-GA-30134",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1426,
+        "listed_at": "2026-08-30T18:20:04.000Z",
+        "days_on_market": "12",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.721801,
+          33.760764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23f77e66-3b25-517b-a0dd-683592bce003",
         "address": "17641-W-Valentine-St-Surprise-AZ-85388",
         "beds": 5,
@@ -64069,27 +64090,6 @@
         "coordinates": [
           -97.120225,
           33.258067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ed770a81-2a2c-5273-8b5a-ab7121b977af",
-        "address": "20-Evergreen-Lake-Dr-Mountain-Top-PA-18707",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2473,
-        "listed_at": "2026-08-09T06:44:54.000Z",
-        "days_on_market": "22",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.913311,
-          41.138769
         ]
       }
     },
