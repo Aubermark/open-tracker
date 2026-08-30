@@ -17749,6 +17749,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4195f4b2-ef3c-5457-ac93-97de33707237",
+        "address": "28061-Virginia-Mission-Viejo-CA-92692",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1950,
+        "listed_at": "2026-08-30T19:40:04.000Z",
+        "days_on_market": "54",
+        "current_price": 1199000,
+        "price_label": "$1.199M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.640925,
+          33.651893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41b1f08f-0820-5df9-8010-439716ad797b",
         "address": "1088-Meadow-Glen-Cir-Fairburn-GA-30213",
         "beds": 3,
@@ -42949,27 +42970,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9f13fb80-940a-5731-995d-01f46f9a3ac9",
-        "address": "4541-S-Merriman-Way-Gilbert-AZ-85297",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1398,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "55",
-        "current_price": 464000,
-        "price_label": "$464K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.769454,
-          33.267729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9f9059bf-35fe-508d-b3c7-c170642f9b05",
         "address": "1801-60th-Ave-Sacramento-CA-95822",
         "beds": 3,
@@ -46555,27 +46555,6 @@
         "coordinates": [
           -76.965264,
           38.931956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "abfee60e-6d8b-5917-9d29-e256c77b15f9",
-        "address": "11244-W-Massey-Dr-Marana-AZ-85653",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2000,
-        "listed_at": "2026-08-30T17:40:04.000Z",
-        "days_on_market": "68",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.205025,
-          32.435835
         ]
       }
     },
