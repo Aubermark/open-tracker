@@ -9895,6 +9895,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24319240-0134-58a5-b701-7529f368d735",
+        "address": "6550-Snowbird-Ln-Douglasville-GA-30134",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1818,
+        "listed_at": "2026-08-30T15:00:04.000Z",
+        "days_on_market": "55",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.741948,
+          33.767751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2461b3cf-0a7d-5b84-89db-71cd7f7fb7a4",
         "address": "5829-E-Preakness-Dr-San-Tan-Valley-AZ-85140",
         "beds": 3,
@@ -10924,27 +10945,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "27f51e0c-8746-5afd-a8ad-8eb840d2ef12",
-        "address": "2507-E-Buffalo-St-Chandler-AZ-85225-18331986",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1168,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "83",
-        "current_price": 421000,
-        "price_label": "$421K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.797577,
-          33.30497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "27f9272a-adf4-530a-b34d-fe225ea6ba26",
         "address": "1753-Beckenbauer-Ln-Indianapolis-IN-46214",
         "beds": 4,
@@ -11338,27 +11338,6 @@
         "coordinates": [
           -83.245269,
           42.775857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "29ac74f4-e85f-50a2-980d-a0d29eb2f0f8",
-        "address": "17171-W-Young-St-Surprise-AZ-85388",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2524,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "68",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.429517,
-          33.635352
         ]
       }
     },
@@ -12787,27 +12766,6 @@
         "coordinates": [
           -78.94606,
           35.068202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2e538ff8-7506-5e69-a1e8-2687e34bd02f",
-        "address": "13-5th-Ave-Mechanic-Falls-ME-04256",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1050,
-        "listed_at": "2026-08-28T19:50:05.000Z",
-        "days_on_market": "2",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.393412,
-          44.118429
         ]
       }
     },
@@ -65140,27 +65098,6 @@
         "coordinates": [
           -86.588701,
           36.157775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f0ac1264-b0d8-5a27-a1ce-22224bb888c0",
-        "address": "2130-Nc-Highway-42-E-Wilson-NC-27893",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1226,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "38",
-        "current_price": 139000,
-        "price_label": "$139K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.873328,
-          35.734187
         ]
       }
     },
