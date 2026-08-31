@@ -10924,6 +10924,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "280be744-43bb-423f-97e6-4a69ca9aa160",
+        "address": "8220-Gusty-Brook-St-Las-Vegas-NV-89113",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3932,
+        "listed_at": "2026-08-31T19:00:04.000Z",
+        "days_on_market": "13",
+        "current_price": 1180000,
+        "price_label": "$1.180M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.266225,
+          36.038095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2813f8b3-d672-5581-9af6-88febfa8f713",
         "address": "12904-E-54th-St-Kansas-City-MO-64133",
         "beds": 3,
@@ -12136,27 +12157,6 @@
         "coordinates": [
           -81.361567,
           28.431512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2c45e342-ca8b-568e-9456-942f493e4fb0",
-        "address": "1508-Boone-Ave-N-Golden-Valley-MN-55427",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1942,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": ">190",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.389998,
-          44.995022
         ]
       }
     },
@@ -18457,6 +18457,27 @@
         "coordinates": [
           -84.165299,
           33.514749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "44764488-84c7-5635-b4c4-a9244a7e4688",
+        "address": "6007-Amber-Dr-Farmington-NY-14425",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2384,
+        "listed_at": "2026-08-31T19:00:04.000Z",
+        "days_on_market": "83",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.353046,
+          42.953183
         ]
       }
     },
@@ -27802,27 +27823,6 @@
         "coordinates": [
           -81.123043,
           32.033954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "682942d3-7167-5530-9d7a-cdf829515b5a",
-        "address": "3000-Candide-Ln-Mc-Kinney-TX-75070",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2668,
-        "listed_at": "2026-08-28T21:10:04.000Z",
-        "days_on_market": "3",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.661654,
-          33.167504
         ]
       }
     },
@@ -44104,27 +44104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a47d0e1f-d5f3-533f-96b4-65e885f0d1a1",
-        "address": "1803-Kent-Ave-Atlanta-GA-30338",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 3503,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "165",
-        "current_price": 974000,
-        "price_label": "$974K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.314292,
-          33.926894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a48830ca-d3cf-519a-afef-c859ceee2f62",
         "address": "4387-N-Presidio-Dr-Florence-AZ-85132",
         "beds": 2,
@@ -57523,27 +57502,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d641d0ce-5d49-5950-93f9-4fc261db6803",
-        "address": "4519-S-Ridgewalk-Dr-Houston-TX-77053",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2058,
-        "listed_at": "2026-08-17T17:10:03.000Z",
-        "days_on_market": "14",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.452576,
-          29.581477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
@@ -60526,27 +60484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e2682a22-5469-549f-acdb-363d2029f3ff",
-        "address": "219-Windsor-Dr-Roxboro-NC-27573",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1422,
-        "listed_at": "2026-08-28T06:01:19.000Z",
-        "days_on_market": "4",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.974243,
-          36.414064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e271673a-a191-58e3-b4c2-cf4e55f08df8",
         "address": "9121-Indian-Breeze-Dr-Las-Vegas-NV-89129",
         "beds": 2,
@@ -61381,27 +61318,6 @@
         "coordinates": [
           -95.443147,
           30.296426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e53cdb3d-84dd-5d8d-b829-a3e023d72776",
-        "address": "233-S-C-St-Hamilton-OH-45013",
-        "beds": 3,
-        "baths": 4,
-        "sqft": 1952,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "129",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.57099,
-          39.400922
         ]
       }
     },
