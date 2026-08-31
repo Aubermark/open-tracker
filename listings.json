@@ -9223,6 +9223,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2224182c-56a2-5330-8a36-c9ad88a411c3",
+        "address": "6127-Willowcrest-Ct-Spring-TX-77389",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4095,
+        "listed_at": "2026-08-31T15:40:04.000Z",
+        "days_on_market": "34",
+        "current_price": 712000,
+        "price_label": "$712K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.516837,
+          30.116822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "223f7d8d-8c23-55c1-acd1-31fc1c17dd75",
         "address": "276-Circle-Way-Jarrell-TX-76537",
         "beds": 3,
@@ -32743,27 +32764,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a8af14a-792f-5d86-a60a-0003e016b035",
-        "address": "218-N-Gotwalt-St-York-PA-17404",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1710,
-        "listed_at": "2026-08-28T16:30:04.000Z",
-        "days_on_market": "56",
-        "current_price": 279000,
-        "price_label": "$279K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.775208,
-          39.954953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a8fc378-d3bc-528a-a66d-41d0ad0a15db",
         "address": "1804-Gade-Bryant-Rd-Moncure-NC-27559",
         "beds": 3,
@@ -37909,27 +37909,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8c89f4a6-2a6d-5018-b186-c4e85b104357",
-        "address": "2242-N-Alabama-St-Indianapolis-IN-46205",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1050,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "88",
-        "current_price": 258000,
-        "price_label": "$258K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.152267,
-          39.79863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8c9345cb-9e2b-5d54-9c77-9d2da2f51902",
         "address": "506-Fox-Hollow-Ln-Mills-River-NC-28759",
         "beds": 4,
@@ -41053,6 +41032,27 @@
         "coordinates": [
           -78.528128,
           35.576161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "985d44d5-bdf1-592d-93ee-f6611da004d2",
+        "address": "6616-Amanda-Cir-Fayetteville-NC-28304",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-08-31T15:40:04.000Z",
+        "days_on_market": "34",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.009274,
+          35.019907
         ]
       }
     },
