@@ -5926,6 +5926,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1529b88f-9ab9-547a-99e7-04b602ca8b9f",
+        "address": "1821-Baltimore-Ave-Whiting-NJ-08759",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2530,
+        "listed_at": "2026-08-31T19:40:05.000Z",
+        "days_on_market": "23",
+        "current_price": 528000,
+        "price_label": "$528K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.383667,
+          39.928208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15458912-425f-5119-92f9-6b776e666b88",
         "address": "866-S-1580-W-Lehi-UT-84043",
         "beds": 3,
@@ -23560,27 +23581,6 @@
         "coordinates": [
           -97.356975,
           32.539836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5938f4d7-1cbc-5aca-9601-6f807d8ba80f",
-        "address": "3400-Founders-Way-Melissa-TX-75454",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2014,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "56",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.576138,
-          33.294091
         ]
       }
     },
