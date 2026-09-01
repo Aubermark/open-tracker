@@ -12772,6 +12772,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f4d4ede-3c1d-5980-a06e-dbe75e32efb9",
+        "address": "201-Bob-White-Trl-Oak-Grove-KY-42262",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1266,
+        "listed_at": "2026-09-01T20:30:05.000Z",
+        "days_on_market": "49",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.40173,
+          36.649334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f57af8b-8441-5833-b0bb-1ba9779ce1c6",
         "address": "3801-Grecian-Ct-Plano-TX-75074",
         "beds": 3,
@@ -15328,27 +15349,6 @@
         "coordinates": [
           -76.878169,
           38.926089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3aad2c77-484c-5b5f-b739-5ba038145792",
-        "address": "48-Eagle-Crest-Dr-Apt-5-F-Lake-Oswego-OR-97035",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1312,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "57",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.709526,
-          45.437449
         ]
       }
     },
@@ -32113,27 +32113,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a8af14a-792f-5d86-a60a-0003e016b035",
-        "address": "218-N-Gotwalt-St-York-PA-17404",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1710,
-        "listed_at": "2026-08-31T16:20:04.000Z",
-        "days_on_market": "57",
-        "current_price": 279000,
-        "price_label": "$279K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.775208,
-          39.954953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a8fc378-d3bc-528a-a66d-41d0ad0a15db",
         "address": "1804-Gade-Bryant-Rd-Moncure-NC-27559",
         "beds": 3,
@@ -47710,6 +47689,27 @@
         "coordinates": [
           -98.254872,
           29.556038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b5ae6593-7365-43b9-b1a7-10eab8d643e7",
+        "address": "",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1541,
+        "listed_at": "2026-09-01T20:30:05.000Z",
+        "days_on_market": "153",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.296925,
+          33.434832
         ]
       }
     },
