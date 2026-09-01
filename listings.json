@@ -17476,27 +17476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "418249a1-c33d-5edb-a5a8-6866adf6f05a",
-        "address": "6100-Nora-St-Metairie-LA-70003",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1432,
-        "listed_at": "2026-08-30T14:20:04.000Z",
-        "days_on_market": "22",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.203786,
-          29.987869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "418424b6-9a42-50b2-8ec4-211555c14894",
         "address": "52186-Jacqueline-Ct-Macomb-MI-48042",
         "beds": 3,
@@ -55228,6 +55207,27 @@
         "coordinates": [
           -78.786811,
           35.607294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0a7200f-d8c5-585b-b6bf-69c593f8e950",
+        "address": "7800-W-Sharpe-Rd-Fowlerville-MI-48836",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1590,
+        "listed_at": "2026-09-01T12:30:04.000Z",
+        "days_on_market": "27",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.070153,
+          42.672493
         ]
       }
     },
