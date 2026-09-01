@@ -18505,6 +18505,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4549ba79-a3ce-5c54-8b56-3643eeb96a91",
+        "address": "8312-Snow-Goose-Way-Fort-Worth-TX-76118",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3352,
+        "listed_at": "2026-09-01T13:50:04.000Z",
+        "days_on_market": "126",
+        "current_price": 526000,
+        "price_label": "$526K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.198602,
+          32.800472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "454d9341-133f-5894-8887-a29cb03b97eb",
         "address": "2298-Camden-Dr-Sw-Marietta-GA-30064",
         "beds": 6,
@@ -30370,27 +30391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "72f3065b-4ace-571e-9eb0-4e7693129929",
-        "address": "108-W-Dogwood-Dr-Mebane-NC-27302",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1418,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "126",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.282092,
-          36.078067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7303a6a3-31e4-5730-840c-e21d986d3421",
         "address": "1033-Chestnut-Hill-Cir-Sw-Marietta-GA-30064",
         "beds": 4,
@@ -32296,6 +32296,27 @@
         "coordinates": [
           -80.748007,
           35.393356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7a1209d6-6782-50d3-accc-34a93b1f79e2",
+        "address": "505-Old-Warden-Way-Hope-Mills-NC-28348",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1528,
+        "listed_at": "2026-09-01T13:50:04.000Z",
+        "days_on_market": "44",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.922008,
+          34.987146
         ]
       }
     },
@@ -65707,27 +65728,6 @@
         "coordinates": [
           -83.910046,
           33.861118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f87adcf6-2afa-5361-bc69-3e1cebdf348c",
-        "address": "3537-Rebecca-St-Houston-TX-77021",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-08-17T21:50:03.000Z",
-        "days_on_market": "15",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.373979,
-          29.683545
         ]
       }
     },
