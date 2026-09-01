@@ -14074,6 +14074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33bd5ab7-0e23-5d6c-a72d-b842d0114e00",
+        "address": "1061-Hunt-St-Nw-Palm-Bay-FL-32907",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1157,
+        "listed_at": "2026-09-01T14:30:04.000Z",
+        "days_on_market": "11",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.700562,
+          28.029636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33e4a370-e5c0-5042-a68e-e203708cb237",
         "address": "3146-Lora-Dr-Maryville-TN-37803",
         "beds": 3,
@@ -28558,27 +28579,6 @@
         "coordinates": [
           -86.618828,
           36.168549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6bcbb060-ae20-5906-a0a6-91a0ad43b009",
-        "address": "3300-Saratoga-St-Unit-C-Wellington-CO-80549",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1034,
-        "listed_at": "2026-08-25T14:40:03.000Z",
-        "days_on_market": "7",
-        "current_price": 273000,
-        "price_label": "$273K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.015912,
-          40.705512
         ]
       }
     },
@@ -44077,27 +44077,6 @@
         "coordinates": [
           -96.935858,
           32.525531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a5dc1594-7c37-5715-8d43-4564b69c01f3",
-        "address": "306-Fayetteville-St-Newton-Grove-NC-28366",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2093,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "21",
-        "current_price": 247000,
-        "price_label": "$247K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.356049,
-          35.244144
         ]
       }
     },
