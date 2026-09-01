@@ -2524,6 +2524,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "088efbbb-af82-5dca-9838-2be61e2a5a4d",
+        "address": "5453-Pikes-Peak-Loop-Ne-Rio-Rancho-NM-87144",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2670,
+        "listed_at": "2026-09-01T19:10:06.000Z",
+        "days_on_market": "7",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.698633,
+          35.348932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08bc9b97-a7a5-581c-a885-5505523173e0",
         "address": "12134-Brushfield-Ln-Fishers-IN-46037",
         "beds": 3,
@@ -33121,6 +33142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d4720fa-db4a-5de2-8834-fe4cd0546648",
+        "address": "322-E-Mariposa-Dr-Rialto-CA-92376",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1412,
+        "listed_at": "2026-09-01T19:10:06.000Z",
+        "days_on_market": "85",
+        "current_price": 596000,
+        "price_label": "$596K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.365555,
+          34.122959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7d86756d-bd70-5b62-97d8-6a5dde651fbb",
         "address": "2032-Lobo-Trot-Ct-Se-Albuquerque-NM-87123",
         "beds": 3,
@@ -59896,6 +59938,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e2c4ad32-693c-5fcc-b35c-954941d1c2a4",
+        "address": "17123-E-Calaveras-Ave-Fountain-Hills-AZ-85268",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1701,
+        "listed_at": "2026-09-01T19:10:06.000Z",
+        "days_on_market": "12",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.710498,
+          33.618187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e2f117e1-9594-5779-9be1-aaf782910121",
         "address": "3969-Briaridge-Cir-Atlanta-GA-30340",
         "beds": 3,
@@ -63460,27 +63523,6 @@
         "coordinates": [
           -84.708333,
           34.237176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f06b289d-f51b-5308-96ba-a4f98a7672ea",
-        "address": "321-Gilman-Ln-Unit-109-Raleigh-NC-27610",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1708,
-        "listed_at": "2026-08-26T22:00:05.000Z",
-        "days_on_market": "57",
-        "current_price": 219000,
-        "price_label": "$219K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.545816,
-          35.775385
         ]
       }
     },
