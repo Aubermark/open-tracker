@@ -3805,6 +3805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d2ca1be-a003-5203-9b63-2c13783894c3",
+        "address": "1504-Double-Branch-Rd-West-Columbia-SC-29169",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 780,
+        "listed_at": "2026-09-01T15:50:04.000Z",
+        "days_on_market": "15",
+        "current_price": 100000,
+        "price_label": "$100K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.083397,
+          33.996293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d30a94a-00cf-52ed-8aec-79ede1093061",
         "address": "3664-Lewis-Rd-Amelia-OH-45102",
         "beds": 3,
@@ -7831,27 +7852,6 @@
         "coordinates": [
           -104.740814,
           40.589319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1c57fd8d-3325-56ec-aa10-cf96a530fb0a",
-        "address": "37209-Grassy-Hill-Ln-Dade-City-FL-33525",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1212,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "28",
-        "current_price": 148000,
-        "price_label": "$148K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.200457,
-          28.35039
         ]
       }
     },
@@ -32302,27 +32302,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a1209d6-6782-50d3-accc-34a93b1f79e2",
-        "address": "505-Old-Warden-Way-Hope-Mills-NC-28348",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1528,
-        "listed_at": "2026-09-01T13:50:04.000Z",
-        "days_on_market": "44",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.922008,
-          34.987146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a2f319d-f30d-55f6-bf44-2cd81c46a857",
         "address": "920-Maupin-St-Saint-Clair-MO-63077",
         "beds": 3,
@@ -34129,27 +34108,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "803dad8b-3aa2-59ec-b508-4deaf598bfbe",
-        "address": "7395-Sun-Dance-Dr-Fort-Mill-SC-29707",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1104,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "105",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.860288,
-          34.968222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "804788b4-d240-5e40-ba7d-f20ab52c2f5f",
         "address": "25797-W-Siesta-Way-Buckeye-AZ-85326",
         "beds": 3,
@@ -35089,27 +35047,6 @@
         "coordinates": [
           -104.749262,
           38.757968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "83bf6ab3-e186-50dd-bfca-20042e459fba",
-        "address": "14606-Bartter-Ave-Cleveland-OH-44111",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1769,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "71",
-        "current_price": 234000,
-        "price_label": "$234K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.797736,
-          41.455158
         ]
       }
     },
@@ -53632,6 +53569,27 @@
         "coordinates": [
           -83.969925,
           33.889743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cbb45e79-4b73-5e99-a789-470c6b44d877",
+        "address": "18715-Libby-Rd-Maple-Heights-OH-44137",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1596,
+        "listed_at": "2026-09-01T15:50:04.000Z",
+        "days_on_market": "183",
+        "current_price": 176000,
+        "price_label": "$176K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.548407,
+          41.417271
         ]
       }
     },
