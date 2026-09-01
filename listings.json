@@ -17392,6 +17392,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4195f4b2-ef3c-5457-ac93-97de33707237",
+        "address": "28061-Virginia-Mission-Viejo-CA-92692",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1950,
+        "listed_at": "2026-09-01T21:10:04.000Z",
+        "days_on_market": "56",
+        "current_price": 1199000,
+        "price_label": "$1.199M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.640925,
+          33.651893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41b1f08f-0820-5df9-8010-439716ad797b",
         "address": "1088-Meadow-Glen-Cir-Fairburn-GA-30213",
         "beds": 3,
@@ -21733,27 +21754,6 @@
         "coordinates": [
           -84.871868,
           33.808174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "53a33e79-51f8-426c-8329-016871fd704a",
-        "address": "10773-Hemingway-Ave-S-Cottage-Grove-MN-55016",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1830,
-        "listed_at": "2026-08-18T19:00:05.000Z",
-        "days_on_market": "14",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.953581,
-          44.794665
         ]
       }
     },
@@ -37231,27 +37231,6 @@
         "coordinates": [
           -97.189279,
           32.704659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8d1096eb-208a-58cf-88d1-ea91589ba2ce",
-        "address": "7627-Glen-Fls-San-Antonio-TX-78239",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 896,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "71",
-        "current_price": 130000,
-        "price_label": "$130K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.346278,
-          29.503455
         ]
       }
     },
