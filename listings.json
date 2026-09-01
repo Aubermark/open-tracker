@@ -5149,27 +5149,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1273acff-5831-5dbd-acc7-ed1ff2145a62",
-        "address": "5239-S-Apsley-Pl-Boise-ID-83709",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1730,
-        "listed_at": "2026-08-27T18:30:04.000Z",
-        "days_on_market": "5",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.336557,
-          43.555478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1295ebf5-5d30-5ad2-8781-4b913dffd3af",
         "address": "885-Halidon-Way-Apt-1421-Folsom-CA-95630",
         "beds": 1,
@@ -6424,6 +6403,27 @@
         "coordinates": [
           -121.370678,
           38.563244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
+        "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3217,
+        "listed_at": "2026-09-01T15:10:04.000Z",
+        "days_on_market": "138",
+        "current_price": 359000,
+        "price_label": "$359K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.674265,
+          29.838555
         ]
       }
     },
@@ -29320,27 +29320,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6e2d6cd9-9de8-527f-bacb-19bb57f0f905",
-        "address": "820-Lilly-Ln-Cincinnati-OH-45245",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1090,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "70",
-        "current_price": 213000,
-        "price_label": "$213K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.279514,
-          39.063611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6e388ea7-11b2-527a-b43e-6c25f79e919d",
         "address": "1741-S-Krameria-Way-Denver-CO-80224",
         "beds": 3,
@@ -29503,6 +29482,27 @@
         "coordinates": [
           -81.767999,
           30.201136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6f254c15-0ef9-52c3-ba93-5627e0d9616e",
+        "address": "3045-Stonebridge-Creek-Dr-Lithonia-GA-30058",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1623,
+        "listed_at": "2026-09-01T15:10:04.000Z",
+        "days_on_market": "71",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.125919,
+          33.722353
         ]
       }
     },
