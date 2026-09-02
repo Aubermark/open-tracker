@@ -13885,6 +13885,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "342ebce6-e69e-5bc6-9ba6-081009d4080b",
+        "address": "2596-38th-Ave-N-Saint-Petersburg-FL-33713",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 804,
+        "listed_at": "2026-09-02T20:40:04.000Z",
+        "days_on_market": "17",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.669155,
+          27.806333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "346ae44d-8506-51c6-b9ea-0cb367c71fc3",
         "address": "5206-N-Sumac-Cir-Fayetteville-NC-28304",
         "beds": 3,
@@ -61738,27 +61759,6 @@
         "coordinates": [
           -81.124902,
           35.21591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ebd11018-e9b1-5fe1-9524-006f8fcb3c87",
-        "address": "3013-Chatuge-Ct-Charlotte-NC-28214",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1434,
-        "listed_at": "2026-07-24T09:00:05.000Z",
-        "days_on_market": "155",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.966654,
-          35.257722
         ]
       }
     },
