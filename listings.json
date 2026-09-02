@@ -4960,27 +4960,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "11b9553f-9d0f-4809-9008-0c3953c4e025",
-        "address": "3411-Woodwind-Ct-Kinston-NC-28504",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1847,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "109",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.668432,
-          35.332246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "11d06d53-107b-5d13-9243-6a82ff4f10cd",
         "address": "157-Ashbury-Cir-Dallas-GA-30157",
         "beds": 5,
@@ -13885,27 +13864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "342ebce6-e69e-5bc6-9ba6-081009d4080b",
-        "address": "2596-38th-Ave-N-Saint-Petersburg-FL-33713",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 804,
-        "listed_at": "2026-09-02T20:40:04.000Z",
-        "days_on_market": "17",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.669155,
-          27.806333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "346ae44d-8506-51c6-b9ea-0cb367c71fc3",
         "address": "5206-N-Sumac-Cir-Fayetteville-NC-28304",
         "beds": 3,
@@ -15685,6 +15643,27 @@
         "coordinates": [
           -79.060676,
           35.033904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3c851912-02fe-503f-9d77-35331e1515db",
+        "address": "2299-Camden-Dr-Sw-Marietta-GA-30064",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2609,
+        "listed_at": "2026-09-02T21:20:21.000Z",
+        "days_on_market": "68",
+        "current_price": 565000,
+        "price_label": "$565K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.620922,
+          33.92761
         ]
       }
     },
