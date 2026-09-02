@@ -61681,27 +61681,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eb3c6943-2781-5cba-8d63-c7b664039135",
-        "address": "14220-Bison-Ct-Victorville-CA-92394",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2087,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "13",
-        "current_price": 455000,
-        "price_label": "$455K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.353925,
-          34.541948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eb46dc78-12b6-5eea-810a-fa8a096efc71",
         "address": "8612-Coppergrove-Dr-North-Charleston-SC-29420",
         "beds": 4,
@@ -62893,6 +62872,27 @@
         "coordinates": [
           -81.59252,
           31.861817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef96785e-4829-51ff-899b-d2d04efe493d",
+        "address": "1706-N-Lazy-Branch-Rd-Independence-MO-64058",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-09-02T17:10:05.000Z",
+        "days_on_market": "50",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.357966,
+          39.134329
         ]
       }
     },
