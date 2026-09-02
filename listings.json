@@ -5611,6 +5611,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "142f95fc-ac96-5889-accf-f05f65d0f47a",
+        "address": "19-Wolf-Ave-Englewood-OH-45322",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1940,
+        "listed_at": "2026-09-02T16:00:05.000Z",
+        "days_on_market": "49",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29956,
+          39.873079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1475108f-389f-58de-addb-a8aa275a755e",
         "address": "1618-Hillside-Dr-Waxahachie-TX-75165",
         "beds": 3,
@@ -5920,27 +5941,6 @@
         "coordinates": [
           -80.752163,
           35.055374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "15ee8a0b-835f-5fb8-b6b2-5a43fe0f515e",
-        "address": "499-Holland-Ridge-Dr-La-Vergne-TN-37086",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1072,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "48",
-        "current_price": 313000,
-        "price_label": "$313K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.546563,
-          36.045098
         ]
       }
     },
@@ -18457,27 +18457,6 @@
         "coordinates": [
           -105.073419,
           40.039001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "45f00732-2a76-5932-9e56-1bed57a0fd1e",
-        "address": "252-Cameron-St-Summerville-SC-29486",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2440,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "40",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.112788,
-          33.115491
         ]
       }
     },
@@ -58069,6 +58048,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dba3bd0f-228f-591a-92c3-470db6d9800a",
+        "address": "3010-Hope-Valley-Rd-Winston-Salem-NC-27106",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1769,
+        "listed_at": "2026-09-02T16:00:05.000Z",
+        "days_on_market": "99",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.296031,
+          36.127759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dbb44a08-ddb6-5e68-b1ac-c5a6bf0102db",
         "address": "2509-Oakwood-Dr-Burnsville-MN-55306",
         "beds": 3,
@@ -61696,27 +61696,6 @@
         "coordinates": [
           -81.528319,
           29.96151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eb212cc1-47a9-5bd0-99cb-7018f1d86d2d",
-        "address": "70-Feldspar-Dr-Jefferson-GA-30549",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2544,
-        "listed_at": "2026-08-27T17:50:09.000Z",
-        "days_on_market": "72",
-        "current_price": 314000,
-        "price_label": "$314K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.538445,
-          34.048332
         ]
       }
     },
