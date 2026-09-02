@@ -15124,6 +15124,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39eb1c78-31e2-5b4d-ac80-bb229fb4c354",
+        "address": "36524-W-Alhambra-St-Maricopa-AZ-85138",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2744,
+        "listed_at": "2026-09-02T14:00:05.000Z",
+        "days_on_market": "41",
+        "current_price": 364000,
+        "price_label": "$364K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.959822,
+          33.058865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39fc7d82-1c5e-5582-b714-1617ed18537c",
         "address": "5321-Abbottswood-Dr-Smyrna-TN-37167",
         "beds": 4,
