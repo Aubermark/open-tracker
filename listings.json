@@ -17266,6 +17266,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41dd0033-bb64-58cd-b240-7fcbe3ba3c85",
+        "address": "224-Avery-St-Fort-Mill-SC-29715",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 853,
+        "listed_at": "2026-09-02T18:00:04.000Z",
+        "days_on_market": "40",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.931774,
+          35.011256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41dd1cd3-685a-5fca-acad-440154c8d4d3",
         "address": "4147-Willow-South-Dr-Mulberry-FL-33860",
         "beds": 3,
@@ -45715,27 +45736,6 @@
         "coordinates": [
           -86.702418,
           36.241831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ae69c18b-57c9-5ddd-a306-7949f147d878",
-        "address": "212-Conrad-Cir-Columbia-SC-29212",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 1750,
-        "listed_at": "2026-08-08T14:20:04.000Z",
-        "days_on_market": "50",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.188,
-          34.057947
         ]
       }
     },
