@@ -25414,27 +25414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "62574979-7923-5953-8c1c-cf10548ab687",
-        "address": "1305-W-Spencer-St-Plant-City-FL-33563",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1619,
-        "listed_at": "2026-08-26T17:20:07.000Z",
-        "days_on_market": "7",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.136008,
-          28.028888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "62600ebb-fd8d-5572-aab8-4e018b370a37",
         "address": "4816-61st-Avenue-Ter-W-Bradenton-FL-34210",
         "beds": 3,
@@ -42418,6 +42397,27 @@
         "coordinates": [
           -81.277297,
           28.676145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2356227-3783-5ed6-b57b-d1a022adfd58",
+        "address": "509-Drake-Ave-Nashville-TN-37211",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 864,
+        "listed_at": "2026-09-02T20:00:04.000Z",
+        "days_on_market": "71",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.746936,
+          36.101793
         ]
       }
     },
