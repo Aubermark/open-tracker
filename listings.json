@@ -5086,6 +5086,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12107525-7b42-5eb9-94f0-99c9be57661a",
+        "address": "1393-San-Diego-Ct-Winter-Springs-FL-32708",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 987,
+        "listed_at": "2026-09-02T12:40:04.000Z",
+        "days_on_market": "47",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.259768,
+          28.650822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
         "address": "659-Day-Break-Dr-Greenwood-IN-46143",
         "beds": 3,
@@ -62221,6 +62242,27 @@
         "coordinates": [
           -111.822611,
           33.326892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec9472a7-7d39-52fc-9237-fb2ec60e8380",
+        "address": "4409-Idlewood-Ln-Tucker-GA-30084",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1594,
+        "listed_at": "2026-09-02T12:40:04.000Z",
+        "days_on_market": ">192",
+        "current_price": 167000,
+        "price_label": "$167K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21069,
+          33.835381
         ]
       }
     },
