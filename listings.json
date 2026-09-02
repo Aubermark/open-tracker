@@ -23335,6 +23335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ab1b8cb-5287-5c47-8d51-0c150d11fb05",
+        "address": "2028-Larson-Ln-Goose-Creek-SC-29445",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1426,
+        "listed_at": "2026-09-02T13:20:04.000Z",
+        "days_on_market": "89",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.021194,
+          32.967672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ab4e498-6430-5392-bb19-d5ec830320fa",
         "address": "911-New-York-St-Edgewater-FL-32132",
         "beds": 2,
@@ -24358,27 +24379,6 @@
         "coordinates": [
           -95.088694,
           29.929884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5e215419-f2cb-5346-bdd0-03a60172ec4c",
-        "address": "21943-Pelican-Crk-San-Antonio-TX-78258",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2683,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "110",
-        "current_price": 379000,
-        "price_label": "$379K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.48107,
-          29.633868
         ]
       }
     },
