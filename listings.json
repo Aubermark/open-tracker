@@ -48430,27 +48430,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b8cb0016-d68d-5f77-8a2e-783a46f5ef5e",
-        "address": "1145-Rivera-Dr-Wrightwood-CA-92397",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1645,
-        "listed_at": "2026-07-30T06:04:07.000Z",
-        "days_on_market": "77",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.63709,
-          34.365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b8cfff3c-707c-5b29-ba52-dcc535649656",
         "address": "8635-Amsbury-Way-Cumming-GA-30041",
         "beds": 4,
@@ -63040,6 +63019,27 @@
         "coordinates": [
           -83.938413,
           33.823169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "effc7cee-e161-59b9-b9e7-33b8179b7641",
+        "address": "9100-Chisholm-Trl-Crossroads-TX-76227",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1894,
+        "listed_at": "2026-09-02T16:30:24.000Z",
+        "days_on_market": "57",
+        "current_price": 278000,
+        "price_label": "$278K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.977958,
+          33.205748
         ]
       }
     },
