@@ -25099,6 +25099,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "611f7e27-ca22-5650-8808-f525e7b6e63c",
+        "address": "24831-Blane-Dr-Katy-TX-77493",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3048,
+        "listed_at": "2026-09-02T21:10:04.000Z",
+        "days_on_market": "12",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.796687,
+          29.79711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "613168d0-3ce0-50df-b68b-fc3eae72a231",
         "address": "11648-Hidden-Hollow-Cir-Tampa-FL-33635",
         "beds": 4,
@@ -64846,27 +64867,6 @@
         "coordinates": [
           -86.044004,
           39.499752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8ad6b9a-8ed0-5a1b-a47a-9ef9ca89c9b9",
-        "address": "306-N-Houston-St-Aransas-Pass-TX-78336",
-        "beds": 4,
-        "baths": 1,
-        "sqft": 1270,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "26",
-        "current_price": 139000,
-        "price_label": "$139K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.143307,
-          27.909307
         ]
       }
     },
