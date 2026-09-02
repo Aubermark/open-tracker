@@ -39127,27 +39127,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "94f661da-d690-51c4-aac9-7ace9fcabeee",
-        "address": "1620-Sunview-Cir-New-Braunfels-TX-78130",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1685,
-        "listed_at": "2026-08-12T18:30:03.000Z",
-        "days_on_market": "21",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.123148,
-          29.6678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "950f572a-523c-5106-b6f1-7bb6b5748d0a",
         "address": "2958-Sw-Redmond-Hill-Rd-Mc-Minnville-OR-97128-17955537",
         "beds": 5,
@@ -50782,6 +50761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c2111372-5916-5eb8-9685-55ea17916b7b",
+        "address": "7827-Glen-Tree-Dr-Citrus-Heights-CA-95610",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1031,
+        "listed_at": "2026-09-02T18:30:03.000Z",
+        "days_on_market": "99",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.266901,
+          38.708741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c2127ee0-95cb-5c21-a568-600129cf5a6d",
         "address": "48-Woodlawn-St-Randolph-MA-02368",
         "beds": 3,
@@ -55879,6 +55879,27 @@
         "coordinates": [
           -81.085069,
           35.07379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4e5ebc8-f031-51f4-bf51-5544dbe73127",
+        "address": "106-Forestview-Rd-Hickory-Creek-TX-75065",
+        "beds": 6,
+        "baths": 2.5,
+        "sqft": 4011,
+        "listed_at": "2026-09-02T18:30:03.000Z",
+        "days_on_market": "26",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.040838,
+          33.125198
         ]
       }
     },
