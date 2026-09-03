@@ -24763,6 +24763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60544185-1df2-5e29-beac-e3042c9c7d9e",
+        "address": "500-Kilcrease-Rd-Auburn-GA-30011",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1187,
+        "listed_at": "2026-09-03T21:50:05.000Z",
+        "days_on_market": "36",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.821181,
+          33.981376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "608e67d9-e6d9-5d17-b7a6-062a448dbd66",
         "address": "1212-2nd-Ave-Sw-Alabaster-AL-35007",
         "beds": 3,
@@ -44629,27 +44650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ac286db3-98e1-55ef-8530-8edf71f9e286",
-        "address": "1024-Laurel-Leaf-Rd-Zebulon-NC-27597",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1096,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "83",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.335709,
-          35.830864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ac3d51ec-072c-5cea-af75-618a72cccfd9",
         "address": "1604-Park-Ave-Melbourne-FL-32901",
         "beds": 3,
@@ -53050,27 +53050,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ce7c58fc-f34f-5856-969f-8b8abcfad3a7",
-        "address": "5150-Brookfield-Ct-Antioch-CA-94531",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1499,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "51",
-        "current_price": 543000,
-        "price_label": "$543K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.755013,
-          37.966588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ce7c93f5-7b34-51aa-9d23-4b21cdbd100e",
         "address": "644-Carybrook-Ct-York-SC-29745",
         "beds": 4,
@@ -60772,6 +60751,27 @@
         "coordinates": [
           -117.170244,
           33.564931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9a66754-c496-5ba0-a4d3-0f4e3dd41ad4",
+        "address": "22524-N-Davis-Way-Maricopa-AZ-85138-18176905",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2476,
+        "listed_at": "2026-09-03T21:50:04.000Z",
+        "days_on_market": "87",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.014028,
+          33.085066
         ]
       }
     },
