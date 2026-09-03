@@ -4624,6 +4624,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "107da636-5ee9-50da-8a10-24b5d651983d",
+        "address": "4683-Ladd-Springs-Rd-Old-Fort-TN-37362",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1092,
+        "listed_at": "2026-09-03T14:30:05.000Z",
+        "days_on_market": "22",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.733682,
+          35.033236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1089979b-45fd-410f-8045-e998befb9c3c",
         "address": "20942-Torbay-Dr-Northville-MI-48167",
         "beds": 5,
@@ -9427,6 +9448,27 @@
         "coordinates": [
           -97.640063,
           30.606978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "23a9452b-c42d-5f19-89ff-ddd513f80ce5",
+        "address": "1503-Curtis-Ln-Cedar-Hill-TX-75104",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1614,
+        "listed_at": "2026-09-03T14:30:05.000Z",
+        "days_on_market": "21",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.941732,
+          32.620802
         ]
       }
     },
@@ -16825,27 +16867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "403af9e4-2c5f-552d-9215-fff4d65edd9f",
-        "address": "1106-N-Atkins-Dr-Celeste-TX-75423",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1625,
-        "listed_at": "2026-08-20T19:10:03.000Z",
-        "days_on_market": "14",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.191298,
-          33.300731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "404de755-e877-5fd4-a2b3-9a8e4c949f7e",
         "address": "3950-Skyland-Blvd-E-Tuscaloosa-AL-35405",
         "beds": 3,
@@ -21250,6 +21271,27 @@
         "coordinates": [
           -86.164826,
           39.829647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "530e049f-629d-5288-a43c-86a550a8a349",
+        "address": "2321-Willow-Shade-Ln-Loganville-GA-30052",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2427,
+        "listed_at": "2026-09-03T14:30:05.000Z",
+        "days_on_market": "58",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.979322,
+          33.823115
         ]
       }
     },
@@ -26542,27 +26584,6 @@
         "coordinates": [
           -96.732918,
           33.26703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "66649c17-dfaa-5044-82a2-9eca53f7881b",
-        "address": "2566-Brookforest-Ct-Midlothian-VA-23112",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1862,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "72",
-        "current_price": 404000,
-        "price_label": "$404K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.616673,
-          37.454237
         ]
       }
     },
