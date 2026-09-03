@@ -13696,6 +13696,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33b09465-db12-4d2b-b65b-0a611e2f8606",
+        "address": "205-N-Washington-St-Arcadia-IN-46030",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1644,
+        "listed_at": "2026-09-03T13:50:05.000Z",
+        "days_on_market": "34",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.021265,
+          40.177308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33bd5ab7-0e23-5d6c-a72d-b842d0114e00",
         "address": "1061-Hunt-St-Nw-Palm-Bay-FL-32907",
         "beds": 3,
@@ -46372,27 +46393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b09c0e40-ea27-5951-aeeb-db6040007854",
-        "address": "2050-Windfield-Dr-Monroe-GA-30655",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1828,
-        "listed_at": "2026-08-28T19:10:03.000Z",
-        "days_on_market": "6",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.659425,
-          33.800672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b0a686db-0286-5168-918f-1ebfaf1e3978",
         "address": "18041-W-Via-Del-Sol-Surprise-AZ-85387",
         "beds": 5,
@@ -51511,6 +51511,27 @@
         "coordinates": [
           -84.011612,
           33.808983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c67fd9aa-e341-56bd-97d6-405b8b6b7c6c",
+        "address": "1913-Ne-Grant-Cir-Blue-Springs-MO-64014",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1558,
+        "listed_at": "2026-09-03T13:50:05.000Z",
+        "days_on_market": "126",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.256122,
+          39.039378
         ]
       }
     },
@@ -57055,27 +57076,6 @@
         "coordinates": [
           -80.447276,
           27.708339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d9709829-34bc-5fdb-8b35-dcf8dcbc4cd2",
-        "address": "2615-Boulevard-Pl-Indianapolis-IN-46208",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1482,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "27",
-        "current_price": 178000,
-        "price_label": "$178K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.162676,
-          39.804676
         ]
       }
     },
