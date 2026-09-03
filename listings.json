@@ -2692,6 +2692,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "099b1186-df60-5a34-8155-08d03be67642",
+        "address": "2796-Shiells-Ave-Riverside-CA-92509",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-09-03T21:10:05.000Z",
+        "days_on_market": "6",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.421735,
+          34.01857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "099fc79d-a7ad-552b-a95c-3aa14a7ef901",
         "address": "2704-S-Lands-End-Rd-Tucson-AZ-85713",
         "beds": 2,
@@ -7537,27 +7558,6 @@
         "coordinates": [
           -104.740814,
           40.589319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1c477665-64b2-55a5-9b6b-146fea2fe431",
-        "address": "6931-Beltran-Pass-San-Antonio-TX-78252",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1782,
-        "listed_at": "2026-09-03T05:50:15.000Z",
-        "days_on_market": "34",
-        "current_price": 216000,
-        "price_label": "$216K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.634,
-          29.34413
         ]
       }
     },
