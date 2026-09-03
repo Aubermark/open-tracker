@@ -4099,48 +4099,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0e6cf4a3-7f27-53db-ad81-ee0b122f5cfc",
-        "address": "7804-Mc-Clintock-Way-Sacramento-CA-95828",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1645,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "44",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.411288,
-          38.484602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0e72c32f-82f6-51dc-8a78-5ac5bc10d3f0",
-        "address": "1-Winsted-Pl-Florissant-MO-63031",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "100",
-        "current_price": 184000,
-        "price_label": "$184K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.342908,
-          38.79984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
         "address": "4213-Mallard-Dr-Batavia-OH-45103",
         "beds": 3,
@@ -20788,6 +20746,27 @@
         "coordinates": [
           -105.092655,
           39.660787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "50f86fa2-3372-5a06-bf55-59af7940ff15",
+        "address": "7807-Bideford-Ln-Houston-TX-77070",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2226,
+        "listed_at": "2026-09-03T19:50:04.000Z",
+        "days_on_market": "112",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5533,
+          29.985006
         ]
       }
     },
@@ -37861,27 +37840,6 @@
         "coordinates": [
           -80.741542,
           35.218462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9157b05a-40f2-5645-8db8-723d66bb2172",
-        "address": "284-Siloam-Church-Rd-Dahlonega-GA-30533",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2847,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "117",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.038068,
-          34.526994
         ]
       }
     },
