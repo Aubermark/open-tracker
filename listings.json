@@ -8593,27 +8593,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "212e0179-cd48-5574-901a-4c0c53af60c4",
-        "address": "4415-Oak-Park-Ave-Cleveland-OH-44109",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "59",
-        "current_price": 179500,
-        "price_label": "$180K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.71587,
-          41.42639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2137417c-8cf2-5eb0-9774-62e2909dc89d",
         "address": "3808-Tatonka-Dr-Killeen-TX-76549",
         "beds": 4,
@@ -16279,27 +16258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3e9b76c9-4918-5d28-9cbb-aef098a67cea",
-        "address": "1111-3rd-Ln-Pleasant-Grove-AL-35127",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1440,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "144",
-        "current_price": 212000,
-        "price_label": "$212K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.963756,
-          33.482426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3e9b84ed-d516-5611-8e8e-fe437726895d",
         "address": "7452-S-Golden-Shore-Dr-Tucson-AZ-85757",
         "beds": 4,
@@ -21445,27 +21403,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "53c333bf-8249-594e-9e64-fb1140f02210",
-        "address": "2366-Belen-Dr-Deltona-FL-32738",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2322,
-        "listed_at": "2026-08-16T12:10:04.000Z",
-        "days_on_market": "29",
-        "current_price": 376000,
-        "price_label": "$376K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.203079,
-          28.88829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "53d9fb02-1a86-5b01-a5c0-5e4f153b79d0",
         "address": "2197-11th-Ave-Se-Cambridge-MN-55008",
         "beds": 3,
@@ -23371,6 +23308,27 @@
         "coordinates": [
           -80.945798,
           34.059874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5bd73688-9290-50e2-9608-8bb29b0f976c",
+        "address": "310-Hunters-Chase-Mc-Donough-GA-30253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2481,
+        "listed_at": "2026-09-03T15:50:04.000Z",
+        "days_on_market": "15",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17776,
+          33.394893
         ]
       }
     },
