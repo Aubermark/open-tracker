@@ -16867,6 +16867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "416386f5-3ab2-52ce-ae66-20107bb936f3",
+        "address": "102-California-Ave-Elyria-OH-44035",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1868,
+        "listed_at": "2026-09-04T12:50:04.000Z",
+        "days_on_market": "126",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.073493,
+          41.343863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "418424b6-9a42-50b2-8ec4-211555c14894",
         "address": "52186-Jacqueline-Ct-Macomb-MI-48042",
         "beds": 3,
@@ -19528,27 +19549,6 @@
         "coordinates": [
           -80.755772,
           35.080148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4c868656-6858-529e-9f60-f59cc0023735",
-        "address": "15133-Seventeen-Lakes-Blvd-Roanoke-TX-76262",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3406,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "21",
-        "current_price": 610000,
-        "price_label": "$610K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.26223,
-          33.003107
         ]
       }
     },
@@ -50839,6 +50839,27 @@
         "coordinates": [
           -84.218058,
           34.038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c50c76eb-af0a-51c0-a335-8f0f10c5851a",
+        "address": "2404-Danciger-Ln-Cedar-Park-TX-78613",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3109,
+        "listed_at": "2026-09-04T12:50:04.000Z",
+        "days_on_market": "53",
+        "current_price": 626000,
+        "price_label": "$626K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.850617,
+          30.465092
         ]
       }
     },
