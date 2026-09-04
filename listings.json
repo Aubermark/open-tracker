@@ -1957,27 +1957,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "071abb93-02ca-5844-bc9f-162d7a6f116e",
-        "address": "5728-W-Raymond-St-Phoenix-AZ-85043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1605,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "113",
-        "current_price": 332000,
-        "price_label": "$332K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.183191,
-          33.414923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
         "address": "123-King-Richard-Dr-Griffin-GA-30223",
         "beds": 4,
@@ -11764,27 +11743,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2d9155f0-b712-55eb-8523-78ef7b6bd190",
-        "address": "9207-W-Kerry-Ln-Peoria-AZ-85382",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1304,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "120",
-        "current_price": 304000,
-        "price_label": "$304K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.25753,
-          33.658747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2dab9612-7661-5e98-9ea8-84db5fe1819c",
         "address": "235-Sumner-Ave-Gallatin-TN-37066",
         "beds": 3,
@@ -12997,27 +12955,6 @@
         "coordinates": [
           -80.273067,
           33.027449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3231a3fe-8a7d-595e-a41b-8b789fefa24e",
-        "address": "82-Cedar-Ridge-Dr-Pacific-MO-63069",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 960,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "22",
-        "current_price": 204000,
-        "price_label": "$204K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.777146,
-          38.482404
         ]
       }
     },
@@ -48172,6 +48109,27 @@
         "coordinates": [
           -84.462626,
           33.910626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bad62ce8-b54e-5ef7-94cc-2e6285ca3408",
+        "address": "21886-Pinewilde-Ct-Porter-TX-77365",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1587,
+        "listed_at": "2026-09-04T14:10:06.000Z",
+        "days_on_market": "7",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.295723,
+          30.13217
         ]
       }
     },
