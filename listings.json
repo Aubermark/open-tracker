@@ -9706,6 +9706,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
+        "address": "316-Vincent-St-Alabaster-AL-35007",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1602,
+        "listed_at": "2026-09-04T14:50:05.000Z",
+        "days_on_market": "158",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.822256,
+          33.177774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2635dc97-7900-5eb4-b060-0ad60110fde3",
         "address": "619-N-4th-Ave-Maywood-IL-60153",
         "beds": 3,
@@ -32197,6 +32218,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d0edac5-232c-5a39-8ebf-7220fefaa418",
+        "address": "1119-Walton-Dr-Murfreesboro-TN-37130",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2442,
+        "listed_at": "2026-09-04T14:50:05.000Z",
+        "days_on_market": "101",
+        "current_price": 419000,
+        "price_label": "$419K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.387264,
+          35.829949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7d15c86d-2e91-531f-9a36-5cf426c0f58a",
         "address": "217-Emerald-Way-W-Granite-City-IL-62040",
         "beds": 2,
@@ -49543,6 +49585,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c0984566-0e2b-592e-b65b-8731cf49ae55",
+        "address": "5202-Oster-Dr-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1867,
+        "listed_at": "2026-09-04T14:50:05.000Z",
+        "days_on_market": ">194",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72734,
+          31.064149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c09fb56d-2b4e-5bcd-825c-1cb0523d36fd",
         "address": "22-Yale-Rd-Atco-NJ-08004",
         "beds": 4,
@@ -51427,27 +51490,6 @@
         "coordinates": [
           -116.41815,
           34.145428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c87589e0-cc8f-56e6-9c67-e81501d0a25d",
-        "address": "449-Virginia-Ave-Statesville-NC-28677",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1403,
-        "listed_at": "2026-08-25T12:00:04.000Z",
-        "days_on_market": "10",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.892297,
-          35.803288
         ]
       }
     },
@@ -57433,6 +57475,27 @@
         "coordinates": [
           -79.9467,
           36.397775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd05748f-ad79-55dc-9549-18d6a76046b5",
+        "address": "6003-N-Cosby-Ct-Kansas-City-MO-64151",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4704,
+        "listed_at": "2026-09-04T14:50:05.000Z",
+        "days_on_market": "32",
+        "current_price": 696000,
+        "price_label": "$696K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.648885,
+          39.202493
         ]
       }
     },
