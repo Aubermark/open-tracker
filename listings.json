@@ -7249,27 +7249,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1ba9894b-8096-59bd-a464-ba7800e42da4",
-        "address": "126-Red-Pine-Dr-Lexington-SC-29073",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2586,
-        "listed_at": "2026-08-20T19:10:03.000Z",
-        "days_on_market": "16",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.170821,
-          33.983424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1bb11ea4-0f96-50e4-9539-966bb00005de",
         "address": "271-Stane-Brook-Ct-Jackson-GA-30233",
         "beds": 4,
@@ -47779,6 +47758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bcb99aa4-ecc7-5a15-86d9-c1c4ed9d7a73",
+        "address": "520-Patriot-Way-West-Union-SC-29696",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2003,
+        "listed_at": "2026-09-05T19:30:03.000Z",
+        "days_on_market": "23",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030692,
+          34.753555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bcf4f71c-15af-5ce7-8f9a-84d1f374899e",
         "address": "5602-Briarwood-Forest-Dr-Houston-TX-77088",
         "beds": 3,
@@ -59680,6 +59680,27 @@
         "coordinates": [
           -81.528319,
           29.96151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb212cc1-47a9-5bd0-99cb-7018f1d86d2d",
+        "address": "70-Feldspar-Dr-Jefferson-GA-30549",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2544,
+        "listed_at": "2026-09-05T19:30:03.000Z",
+        "days_on_market": "75",
+        "current_price": 314000,
+        "price_label": "$314K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.538445,
+          34.048332
         ]
       }
     },
