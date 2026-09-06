@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24319240-0134-58a5-b701-7529f368d735",
+        "address": "6550-Snowbird-Ln-Douglasville-GA-30134",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1818,
+        "listed_at": "2026-09-06T13:10:03.000Z",
+        "days_on_market": "62",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.741948,
+          33.767751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2461b3cf-0a7d-5b84-89db-71cd7f7fb7a4",
         "address": "5829-E-Preakness-Dr-San-Tan-Valley-AZ-85140",
         "beds": 3,
