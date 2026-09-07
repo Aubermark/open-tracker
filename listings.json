@@ -8551,6 +8551,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "220b456d-4f42-586f-932d-80b5617bd031",
+        "address": "3906-E-Amberwood-Dr-Phoenix-AZ-85048",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1975,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.999013,
+          33.299573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2224182c-56a2-5330-8a36-c9ad88a411c3",
         "address": "6127-Willowcrest-Ct-Spring-TX-77389",
         "beds": 4,
@@ -9091,6 +9112,27 @@
         "coordinates": [
           -104.894195,
           39.94133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "23cfa368-6e48-54ab-b816-79ef194f4f47",
+        "address": "18405-N-Stonegate-Rd-Maricopa-AZ-85138",
+        "beds": 6,
+        "baths": 3.5,
+        "sqft": 4282,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.018796,
+          33.046997
         ]
       }
     },
@@ -14116,6 +14158,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3851bd2f-ec68-598d-9ecb-25d44d051f5f",
+        "address": "15294-Clear-St-Noblesville-IN-46060",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2308,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.984389,
+          40.011126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "38818fba-ad6e-5e73-9a95-ba975e3a5b61",
         "address": "242-Kingswood-Dr-Clarksville-TN-37043-18019524",
         "beds": 3,
@@ -14719,27 +14782,6 @@
         "coordinates": [
           -80.752805,
           35.151504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3afe6609-e540-56c5-931e-738b23d5dc4d",
-        "address": "2308-Dillards-Dr-Chickasha-OK-73018",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1216,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "152",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.962772,
-          35.018501
         ]
       }
     },
@@ -20206,27 +20248,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "50e4bd4d-53be-5cb2-8b98-addce1d24984",
-        "address": "4795-Liberty-Rd-Villa-Rica-GA-30180",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2489,
-        "listed_at": "2026-08-14T20:50:04.000Z",
-        "days_on_market": "24",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.891745,
-          33.673798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "50e8390d-7488-5f42-baa5-8731b639dfb4",
         "address": "1003-Bateman-Dr-Elizabeth-City-NC-27909",
         "beds": 4,
@@ -22552,27 +22573,6 @@
         "coordinates": [
           -80.021194,
           32.967672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5ab4e498-6430-5392-bb19-d5ec830320fa",
-        "address": "911-New-York-St-Edgewater-FL-32132",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 875,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "117",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.90234,
-          28.984795
         ]
       }
     },
@@ -28033,6 +28033,27 @@
         "coordinates": [
           -86.891215,
           35.770368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6ed7fe50-0420-5bde-a89e-0af7a323fe81",
+        "address": "544-Shawnee-Dr-Louisburg-NC-27549",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.19988,
+          35.952748
         ]
       }
     },
@@ -38896,6 +38917,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99acaba1-bd64-5f35-9b66-cb2c9915f4e9",
+        "address": "7925-W-Harmony-Ln-Peoria-AZ-85382",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1852,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.230323,
+          33.673029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99c4691c-2bb6-5ef2-b44f-bace44417185",
         "address": "16107-Horseshoe-Hill-Ct-Cypress-TX-77429",
         "beds": 3,
@@ -45595,6 +45637,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b37a12ec-f6a0-5080-b329-d2b8eddac1d1",
+        "address": "10048-Ironway-Dr-Indianapolis-IN-46239",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1572,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.988248,
+          39.759706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b381359c-220d-5ef6-a02b-9a7ebe3471a3",
         "address": "7707-Windmere-Ct-Irving-TX-75063",
         "beds": 3,
@@ -49564,27 +49627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c2fbd87d-2015-597e-b5f7-e191dfd687ea",
-        "address": "1309-Tohari-Rd-Winston-Salem-NC-27105-18294730",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2008,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "90",
-        "current_price": 284000,
-        "price_label": "$284K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.305779,
-          36.197992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c3093a26-1b5c-5694-85a7-5b35c941e7bc",
         "address": "2082-Lawrin-Ct-Indianapolis-IN-46234",
         "beds": 3,
@@ -53533,6 +53575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d317b742-55a4-5fe1-a2e8-79b16d3edbfb",
+        "address": "1738-W-North-Ln-Phoenix-AZ-85021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1516,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.097286,
+          33.581506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d31b2f61-82b9-5b93-a4cb-701f711cefe9",
         "address": "831-Haulover-Dr-Altamonte-Springs-FL-32714",
         "beds": 3,
@@ -54199,6 +54262,27 @@
         "coordinates": [
           -104.98328,
           39.911163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4a69ac7-1db0-5b94-85f8-24c230d63086",
+        "address": "2913-Hervey-St-Indianapolis-IN-46203",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11316,
+          39.735041
         ]
       }
     },
@@ -62080,6 +62164,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f3286c82-416c-5a90-8ac0-e68f37b3b89a",
+        "address": "227-Buck-Johnson-St-Fuquay-Varina-NC-27526",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2880,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.797066,
+          35.570571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3400376-ce2d-5f26-97f8-97e396b301e1",
         "address": "1347-Chalmette-Dr-Ne-Atlanta-GA-30306",
         "beds": 2,
@@ -63928,6 +64033,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fb3c2729-02df-57a2-b193-33e6b2d0e388",
+        "address": "918-Santa-Cruz-New-Braunfels-TX-78132",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3224,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 630000,
+        "price_label": "$630K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.209896,
+          29.738944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fb5f2a51-f75f-5f18-ba3c-6adb5168a890",
         "address": "405-Isle-Of-Pines-Rd-Mooresville-NC-28117",
         "beds": 3,
@@ -65077,6 +65203,27 @@
         "coordinates": [
           -79.479199,
           35.17466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffbcedf4-7b54-54c2-bace-f2ce729a434d",
+        "address": "2568-Wilton-Ave-Creedmoor-NC-27522",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1470,
+        "listed_at": "2026-09-07T16:50:10.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649337,
+          36.123071
         ]
       }
     },
