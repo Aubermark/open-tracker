@@ -3805,6 +3805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e4a03d2-52a8-5400-84ed-5718422d0e97",
+        "address": "2339-Northgate-Ave-Riverside-IL-60546",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-09-07T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.814231,
+          41.847315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e57dcf8-9a95-58be-b03e-0b42e299bcc5",
         "address": "21981-Propello-Dr-Santa-Clarita-CA-91350",
         "beds": 4,
@@ -41179,27 +41200,6 @@
         "coordinates": [
           -122.890629,
           45.532213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a2893dd1-8632-5c18-8f97-5b5688a59a03",
-        "address": "4467-Maybeck-Ter-Fremont-CA-94536",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2036,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "84",
-        "current_price": 1299000,
-        "price_label": "$1.299M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.00969,
-          37.552132
         ]
       }
     },
