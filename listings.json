@@ -35494,27 +35494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8beeb46f-16bc-5c99-a196-ad51b4912eca",
-        "address": "1402-Stone-Oak-Ct-Cedar-Hill-TX-75104",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3658,
-        "listed_at": "2026-09-03T05:50:13.000Z",
-        "days_on_market": "14",
-        "current_price": 426000,
-        "price_label": "$426K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.911892,
-          32.597042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8c17166c-ca31-5641-862e-d30afb0f8074",
         "address": "5202-E-2nd-St-Tucson-AZ-85711",
         "beds": 3,
@@ -54499,27 +54478,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d5351656-ee8b-5742-bd68-d37653bf3da8",
-        "address": "12746-River-Rock-Way-Longmont-CO-80504",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2119,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "131",
-        "current_price": 471000,
-        "price_label": "$471K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.968017,
-          40.185866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d55a7edb-5b50-5cf6-a91d-8a8fe0d54b57",
         "address": "100-Clay-Ct-Tyrone-GA-30290",
         "beds": 2,
@@ -57832,6 +57790,27 @@
         "coordinates": [
           -82.587987,
           28.330853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e250a1c3-3ee7-5e93-b96e-a2e5ef32ddc4",
+        "address": "8804-Pony-Express-Trl-Ne-Albuquerque-NM-87109",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-09-07T19:30:03.000Z",
+        "days_on_market": "121",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.545646,
+          35.167471
         ]
       }
     },
