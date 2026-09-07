@@ -35599,6 +35599,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d1096eb-208a-58cf-88d1-ea91589ba2ce",
+        "address": "7627-Glen-Fls-San-Antonio-TX-78239",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 896,
+        "listed_at": "2026-09-07T15:00:04.000Z",
+        "days_on_market": "77",
+        "current_price": 130000,
+        "price_label": "$130K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.346278,
+          29.503455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d13e965-a0ac-52a9-93f9-29642e1a093e",
         "address": "7020-Chrysanthemum-Rd-Lancaster-SC-29720",
         "beds": 4,
@@ -56956,6 +56977,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e071c526-1ece-5f48-b895-45deee24d00a",
+        "address": "10645-Xerxes-Ave-S-Bloomington-MN-55431",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1621,
+        "listed_at": "2026-09-07T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.318951,
+          44.810255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e07bb18f-632a-56f0-85c0-a242a25cbc8a",
         "address": "585-Hewett-Dr-Orlando-FL-32807",
         "beds": 2,
@@ -59302,6 +59344,27 @@
         "coordinates": [
           -81.242685,
           33.899308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea0ae435-f48e-54a5-87ea-473ae8def16a",
+        "address": "8928-W-Cherry-Hills-Dr-Peoria-AZ-85345",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1575,
+        "listed_at": "2026-09-07T15:00:03.000Z",
+        "days_on_market": "34",
+        "current_price": 394000,
+        "price_label": "$394K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.251316,
+          33.592764
         ]
       }
     },
