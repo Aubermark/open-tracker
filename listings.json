@@ -5653,6 +5653,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15a341a3-d691-5146-ab05-092e19a04722",
+        "address": "510-N-Maple-St-Durham-NC-27703",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 966,
+        "listed_at": "2026-09-08T09:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.880417,
+          35.991175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15a3ad57-5669-559b-925c-dd7eb7ad550f",
         "address": "3741-Candlebluff-Dr-San-Antonio-TX-78244",
         "beds": 3,
@@ -6109,6 +6130,27 @@
         "coordinates": [
           -111.723098,
           33.238821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1816ba7f-3b67-59c1-b0c0-2b9a4dea90c8",
+        "address": "2308-Brasstown-Ln-Apex-NC-27502",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2421,
+        "listed_at": "2026-09-08T09:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.895507,
+          35.718509
         ]
       }
     },
@@ -19261,6 +19303,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4c55029a-a650-5eb1-9b6d-0886c155243d",
+        "address": "5328-Seaspray-Ln-Raleigh-NC-27610",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2085,
+        "listed_at": "2026-09-08T09:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.544974,
+          35.787384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4c569b52-0f82-57db-b0b8-7042d4d74dd5",
         "address": "5309-Lancelot-Dr-Charlotte-NC-28270",
         "beds": 4,
@@ -20494,6 +20557,27 @@
         "coordinates": [
           -77.050902,
           35.540035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "520c6f08-faa8-5cb6-a71d-871ef0421b22",
+        "address": "102-Bowdoin-St-San-Antonio-TX-78237",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1238,
+        "listed_at": "2026-09-08T09:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.544357,
+          29.437004
         ]
       }
     },
