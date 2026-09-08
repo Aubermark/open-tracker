@@ -33415,6 +33415,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81d523cd-4589-5383-8a9b-5c23cbefb8dd",
+        "address": "11284-N-186th-Ln-Surprise-AZ-85388",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2913,
+        "listed_at": "2026-09-08T17:40:04.000Z",
+        "days_on_market": "94",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.461113,
+          33.586853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81e22b00-6e66-5255-b3bd-2864f6e6f90e",
         "address": "2175-Timberleaf-Cir-Ingleside-TX-78362",
         "beds": 3,
@@ -33640,6 +33661,27 @@
         "coordinates": [
           -83.438238,
           34.701953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "825d38c0-8904-5b01-969f-bbc31cfcc4ef",
+        "address": "3426-Sable-Chase-Ln-Atlanta-GA-30349",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1366,
+        "listed_at": "2026-09-08T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.504242,
+          33.598225
         ]
       }
     },
@@ -60694,6 +60736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e9f49d37-5d68-5604-9774-efd0dc317cc1",
+        "address": "35-Davidson-Ave-Merrimack-NH-03054",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1973,
+        "listed_at": "2026-09-08T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.543988,
+          42.850888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ea0ae435-f48e-54a5-87ea-473ae8def16a",
         "address": "8928-W-Cherry-Hills-Dr-Peoria-AZ-85345",
         "beds": 3,
@@ -62305,27 +62368,6 @@
         "coordinates": [
           -84.39546,
           33.739407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f060459b-4ee4-5ae6-a925-fda8f77e6529",
-        "address": "18-Broadlands-Dr-White-GA-30184",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1372,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "42",
-        "current_price": 297000,
-        "price_label": "$297K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.708333,
-          34.237176
         ]
       }
     },
