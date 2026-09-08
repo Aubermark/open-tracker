@@ -16153,27 +16153,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3fda8357-caa7-58d2-96b2-7025b936083e",
-        "address": "701-E-Charlevoix-Ave-Gilbert-AZ-85297",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2945,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "46",
-        "current_price": 750000,
-        "price_label": "$750K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.774831,
-          33.268654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3fdaa337-8894-57c2-86bb-6c9ffbd074c3",
         "address": "215-Laurel-Ln-Hemet-CA-92544",
         "beds": 3,
@@ -28873,6 +28852,27 @@
         "coordinates": [
           -97.205457,
           31.4712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "72b594e6-91af-5a64-9657-be60e606da46",
+        "address": "4335-Acacia-Ln-Se-Port-Orchard-WA-98366",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2230,
+        "listed_at": "2026-09-08T06:23:04.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.636886,
+          47.510035
         ]
       }
     },
