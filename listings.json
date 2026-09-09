@@ -4120,6 +4120,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e9d97bd-8375-59ff-bdef-5714c9655e4c",
+        "address": "9132-Trinidad-Dr-Cincinnati-OH-45231",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1575,
+        "listed_at": "2026-09-09T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.571027,
+          39.236716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ed93887-2e49-5323-9a52-6c3c729dc02e",
         "address": "470-Kinsman-Ct-Fuquay-Varina-NC-27526",
         "beds": 3,
@@ -16504,6 +16525,27 @@
         "coordinates": [
           -112.188999,
           33.586793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3fa18a25-0f4a-5963-ae05-8ee0796c7b70",
+        "address": "17794-N-114th-Ln-Surprise-AZ-85378",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1560,
+        "listed_at": "2026-09-09T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.306782,
+          33.645116
         ]
       }
     },
@@ -37384,6 +37426,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8e7b78d0-a33f-561d-a584-bec4d081ea20",
+        "address": "9405-Sw-31st-Ln-Gainesville-FL-32608",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2235,
+        "listed_at": "2026-09-09T15:20:04.000Z",
+        "days_on_market": "123",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.442685,
+          29.625846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8e84cdba-0be5-554d-a877-639f10b866aa",
         "address": "4253-Useppa-Ct-Westfield-IN-46062",
         "beds": 3,
@@ -38197,27 +38260,6 @@
         "coordinates": [
           -78.630099,
           33.879729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9233516c-af0e-55c3-8962-fdcedd14be7f",
-        "address": "913-Peninsula-Pl-Knightdale-NC-27545",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2236,
-        "listed_at": "2026-08-27T17:50:08.000Z",
-        "days_on_market": "13",
-        "current_price": 365000,
-        "price_label": "$365K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.461807,
-          35.754499
         ]
       }
     },
@@ -45007,27 +45049,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "abc915f4-66b9-5c7f-aa39-1de677580071",
-        "address": "234-School-House-Dr-Greenfield-IN-46140",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2160,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "54",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.811821,
-          39.787856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "abcd7ce9-a5e2-525a-bfbe-dd3210fb39aa",
         "address": "712-141st-St-E-Tacoma-WA-98445",
         "beds": 3,
@@ -50923,6 +50944,27 @@
         "coordinates": [
           -82.401668,
           28.015385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c130478b-66dd-5576-ba05-282fa7f7ea56",
+        "address": "16-Slade-Ter-Oakville-CT-06779",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2484,
+        "listed_at": "2026-09-09T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.077734,
+          41.593753
         ]
       }
     },
