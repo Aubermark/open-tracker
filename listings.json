@@ -4645,6 +4645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10c8d443-18b2-5b79-bef1-41ae4f15013f",
+        "address": "1093-Hidden-Spirit-Trl-Lawrenceville-GA-30045",
+        "beds": 6,
+        "baths": 6,
+        "sqft": 5291,
+        "listed_at": "2026-09-09T08:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 645000,
+        "price_label": "$645K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.993815,
+          33.908616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10eaacfc-d876-53e4-a390-d1c5589e01b6",
         "address": "4517-Vanessita-Ct-Laredo-TX-78046",
         "beds": 3,
