@@ -36103,6 +36103,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8a564c88-ed99-51a9-ab0a-c3eb1a3df591",
+        "address": "2997-N-3400-W-Ogden-UT-84404",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2525,
+        "listed_at": "2026-09-09T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.061786,
+          41.314239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8a6640aa-3fe8-528e-84cf-9643585bc040",
         "address": "9686-Fairwood-St-Littleton-CO-80125",
         "beds": 3,
@@ -38869,27 +38890,6 @@
         "coordinates": [
           -79.749377,
           36.518399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "949742fd-0e0d-5608-8690-68cd37bec0c0",
-        "address": "4034-Rosfield-Dr-Charlotte-NC-28214",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1995,
-        "listed_at": "2026-09-03T05:50:13.000Z",
-        "days_on_market": "93",
-        "current_price": 348000,
-        "price_label": "$348K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.964937,
-          35.25354
         ]
       }
     },
@@ -62956,6 +62956,27 @@
         "coordinates": [
           -82.353585,
           27.773067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ee18e569-fb3e-5c7b-9bf3-19ede7ca0583",
+        "address": "19550-N-Grayhawk-Dr-Unit-2028-Scottsdale-AZ-85255",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1795,
+        "listed_at": "2026-09-09T16:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.895727,
+          33.663888
         ]
       }
     },
