@@ -37006,6 +37006,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d36af2b-6d87-5eff-8ff1-c58dfee7f78a",
+        "address": "6621-Blalock-Forest-Dr-Willow-Spring-NC-27592-17207715",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2566,
+        "listed_at": "2026-09-09T13:20:03.000Z",
+        "days_on_market": "89",
+        "current_price": 469000,
+        "price_label": "$469K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68371,
+          35.597854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d8de036-96f4-5ce8-b789-d74a2a1a4a2a",
         "address": "3001-Gilchrist-Dr-Lorena-TX-76655",
         "beds": 5,
