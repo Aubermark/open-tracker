@@ -6220,6 +6220,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17deb581-766c-530b-a804-8b1db488a760",
+        "address": "161-Patterdale-Pl-Benson-NC-27504",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1300,
+        "listed_at": "2026-09-09T14:00:04.000Z",
+        "days_on_market": "94",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.564473,
+          35.492142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "17dfc38f-68df-5282-866e-a1873f3f6c0e",
         "address": "4710-Autumn-Pine-Ln-Houston-TX-77084-14925610",
         "beds": 4,
@@ -47191,6 +47212,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b2edd747-9b31-59be-afea-3db518964668",
+        "address": "12702-Fox-Pass-Rd-Edmond-OK-73034",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1825,
+        "listed_at": "2026-09-09T14:00:04.000Z",
+        "days_on_market": "43",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.385413,
+          35.746665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b2f15c88-489a-5058-910a-caab11826047",
         "address": "10113-Rosemary-Leaf-Ln-Riverview-FL-33578",
         "beds": 3,
@@ -47332,6 +47374,27 @@
         "coordinates": [
           -122.567519,
           45.643635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b3616fe1-40ad-4b71-8fb6-72fcf311f580",
+        "address": "317-Genoa-Rd-Commercial-Point-OH-43116",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2502,
+        "listed_at": "2026-09-09T14:00:04.000Z",
+        "days_on_market": "41",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.059768,
+          39.777864
         ]
       }
     },
