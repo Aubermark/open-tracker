@@ -16741,6 +16741,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "403af9e4-2c5f-552d-9215-fff4d65edd9f",
+        "address": "1106-N-Atkins-Dr-Celeste-TX-75423",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1625,
+        "listed_at": "2026-09-09T16:40:04.000Z",
+        "days_on_market": "20",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.191298,
+          33.300731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "404de755-e877-5fd4-a2b3-9a8e4c949f7e",
         "address": "3950-Skyland-Blvd-E-Tuscaloosa-AL-35405",
         "beds": 3,
@@ -20458,6 +20479,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4efd2d41-d6b6-560e-923c-f8008376f137",
+        "address": "55-Concord-Ct-Covington-GA-30016",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2035,
+        "listed_at": "2026-09-09T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.944351,
+          33.611698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f2a56b3-4b41-5e19-8dcf-450ea80625ae",
         "address": "18175-W-Carlota-Ln-Surprise-AZ-85387",
         "beds": 3,
@@ -23518,27 +23560,6 @@
         "coordinates": [
           -84.17776,
           33.394893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5be2b35a-e88d-4814-8e49-3662b591172f",
-        "address": "20797-Racine-St-Orlando-FL-32833",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3036,
-        "listed_at": "2026-08-16T18:10:03.000Z",
-        "days_on_market": "24",
-        "current_price": 1040000,
-        "price_label": "$1.040M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.064517,
-          28.47065
         ]
       }
     },
@@ -33856,27 +33877,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "81b6a721-918e-5113-b0df-c86e1b7085b3",
-        "address": "136-Cressmont-Ave-Blackwood-NJ-08012",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1485,
-        "listed_at": "2026-08-21T22:20:03.000Z",
-        "days_on_market": "19",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.058959,
-          39.795414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "81b92f82-bd80-5ba2-a28c-3f8560ddc921",
         "address": "204-N-Crossing-Dr-Columbia-SC-29229",
         "beds": 3,
@@ -35404,27 +35404,6 @@
         "coordinates": [
           -81.149803,
           35.19234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "86b734bf-6335-5f41-93eb-d5793b0a145a",
-        "address": "21530-Glendale-Ave-Port-Charlotte-FL-33952",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1888,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "55",
-        "current_price": 219000,
-        "price_label": "$219K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.090793,
-          26.998827
         ]
       }
     },
