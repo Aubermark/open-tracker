@@ -27892,27 +27892,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6bd962f5-7cab-5ef1-90f6-b68b52c90ee7",
-        "address": "2450-Garganey-Dr-Castle-Rock-CO-80104",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2249,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "54",
-        "current_price": 574000,
-        "price_label": "$574K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.836456,
-          39.340943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6be51b15-643e-5a8d-a742-08e176afca5a",
         "address": "6020-Nw-Expressway-Oklahoma-City-OK-73132",
         "beds": 3,
@@ -48004,6 +47983,27 @@
         "coordinates": [
           -78.680231,
           35.799467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b687ed61-be89-5a1f-a8b0-73d3a11f09d4",
+        "address": "2715-James-Ave-Covington-KY-41014",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1807,
+        "listed_at": "2026-09-09T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50072,
+          39.057181
         ]
       }
     },
