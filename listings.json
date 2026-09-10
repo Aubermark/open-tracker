@@ -30055,6 +30055,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "711eca95-9893-5163-9f78-1dbc559b17ce",
+        "address": "9701-Chris-Dr-Raleigh-NC-27603",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-09-10T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.694081,
+          35.649325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "712154e2-6bd8-5301-a4c2-e8f1ae0f1c53",
         "address": "1309-Winding-Brook-Dr-Garland-TX-75044",
         "beds": 4,
@@ -41395,6 +41416,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a394f6d-441c-587f-bb45-49edc571054b",
+        "address": "4284-Nc-56-Hwy-E-Louisburg-NC-27549",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1103,
+        "listed_at": "2026-09-10T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.158425,
+          36.094747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a3e0ba6-4681-5208-b24b-c47f9b69b74d",
         "address": "22197-E-Easter-Cir-Aurora-CO-80016",
         "beds": 6,
@@ -46492,27 +46534,6 @@
         "coordinates": [
           -86.438107,
           35.743583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad8d0f40-04de-5d50-afcf-7abc9d4fe77e",
-        "address": "9965-Boulder-Bend-Ln-Brookshire-TX-77423",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2366,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "93",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.890432,
-          29.765746
         ]
       }
     },
@@ -59266,6 +59287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da391645-8e41-58ca-a486-5b352a6a7b27",
+        "address": "8408-Aztec-Dawn-Ct-Raleigh-NC-27613",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1677,
+        "listed_at": "2026-09-10T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.734999,
+          35.890696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "da3ba4e5-9fc0-585e-98af-389470f8b0a0",
         "address": "4660-Creekside-Villas-Way-Se-Smyrna-GA-30082",
         "beds": 3,
@@ -64145,8 +64187,8 @@
         "sqft": 710,
         "listed_at": "2026-09-10T06:10:26.000Z",
         "days_on_market": "52",
-        "current_price": 345000,
-        "price_label": "$345K"
+        "current_price": 354000,
+        "price_label": "$354K"
       },
       "geometry": {
         "type": "Point",
