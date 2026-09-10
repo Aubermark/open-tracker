@@ -9286,6 +9286,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22d89f3f-9ffd-5753-b23d-df26a6330c4f",
+        "address": "1015-Kingsway-Dr-Lorain-OH-44052",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2328,
+        "listed_at": "2026-09-10T15:30:04.000Z",
+        "days_on_market": "91",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.181562,
+          41.433089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22e4926a-01f4-5a4a-871f-14aa843eacab",
         "address": "338-Buffalo-Creek-Dr-Toney-AL-35773",
         "beds": 3,
@@ -12661,6 +12682,27 @@
         "coordinates": [
           -84.377279,
           33.71916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2f491299-d88b-5cde-a20f-bf88623441bb",
+        "address": "2138-Shady-Forest-Way-Stockton-CA-95205",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2282,
+        "listed_at": "2026-09-10T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.274554,
+          37.990399
         ]
       }
     },
@@ -29425,6 +29467,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d9ba9c1-a485-5e80-85a7-f13f1f91b48d",
+        "address": "718-Alabama-Ave-Saint-Cloud-FL-34769",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1256,
+        "listed_at": "2026-09-10T15:30:04.000Z",
+        "days_on_market": "64",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.296066,
+          28.250921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6da89316-0e27-5ad6-a2e1-74b0c336b101",
         "address": "23691-Redfern-Rd-Columbia-Station-OH-44028",
         "beds": 5,
@@ -29839,27 +29902,6 @@
         "coordinates": [
           -122.674219,
           45.446823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6f99d724-3396-5077-bb62-1a82dcdc8aa9",
-        "address": "9325-Ayscough-Rd-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2221,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "49",
-        "current_price": 389000,
-        "price_label": "$389K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.122221,
-          32.940999
         ]
       }
     },
@@ -41143,6 +41185,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "994d5f2c-d7b1-5a20-aec2-310644316d27",
+        "address": "204-Jim-Grizzle-Rd-Royston-GA-30662",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1312,
+        "listed_at": "2026-09-10T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235807,
+          34.250904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99804a5f-b904-542f-829e-15975a4d04e4",
         "address": "4681-Sweetwater-Ave-Powder-Springs-GA-30127",
         "beds": 4,
@@ -43048,27 +43111,6 @@
         "coordinates": [
           -106.726365,
           35.320063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a14b3262-597c-59ef-a8a4-46a9d496410e",
-        "address": "750-W-Gentile-St-Layton-UT-84041",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2083,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "163",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.980741,
-          41.060412
         ]
       }
     },
@@ -50362,27 +50404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ba9ec5c8-45de-52ff-a367-b989a7d893fa",
-        "address": "1430-Union-St-Mishawaka-IN-46544",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1636,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "20",
-        "current_price": 217000,
-        "price_label": "$217K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.176544,
-          41.648083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bab8da3d-ed3f-5fa6-bedd-693f2bb453c2",
         "address": "1659-Woodwalk-Strm-Se-#-6-Atlanta-GA-30339",
         "beds": 4,
@@ -55333,27 +55354,6 @@
         "coordinates": [
           -104.743509,
           38.782118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cf05a1b8-ca9e-531c-9b4a-b3fc49c2bc70",
-        "address": "5-Cyprus-Ct-Goose-Creek-SC-29445",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1347,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "41",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.013798,
-          32.968042
         ]
       }
     },
