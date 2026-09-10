@@ -2356,6 +2356,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "080c0209-78c6-53f0-81e3-036b54e9fa98",
+        "address": "10314-Quayle-Mist-San-Antonio-TX-78254",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2545,
+        "listed_at": "2026-09-10T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.724475,
+          29.538474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08146f9a-a927-5e91-8c4f-94899e069f21",
         "address": "1716-N-Hollywood-St-Philadelphia-PA-19121",
         "beds": 3,
@@ -4324,27 +4345,6 @@
         "coordinates": [
           -83.63295,
           35.786837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0fbe2099-bbf5-5ad2-bfb8-2437714d51bc",
-        "address": "940-Western-Trl-Keller-TX-76248",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2442,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "56",
-        "current_price": 421000,
-        "price_label": "$421K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.259712,
-          32.91852
         ]
       }
     },
@@ -35179,27 +35179,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "83547b12-2ea2-5304-867c-f5dbb2247b03",
-        "address": "12473-Nw-Lynch-Ln-Port-Saint-Lucie-FL-34987-18071800",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1649,
-        "listed_at": "2026-09-10T18:10:04.000Z",
-        "days_on_market": "157",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.45236,
-          27.327477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8364285a-bbb8-5c7a-8d9b-2406702ab7dd",
         "address": "440-First-Turn-Ct-Sw-Concord-NC-28025",
         "beds": 3,
@@ -41416,27 +41395,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9a0a7279-a4d0-51b4-b2b5-0625eaf0b234",
-        "address": "1806-N-Wildflower-Ln-Casa-Grande-AZ-85122",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2291,
-        "listed_at": "2026-08-20T19:10:03.000Z",
-        "days_on_market": "21",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.714153,
-          32.90172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9a3e0ba6-4681-5208-b24b-c47f9b69b74d",
         "address": "22197-E-Easter-Cir-Aurora-CO-80016",
         "beds": 6,
@@ -44854,6 +44812,27 @@
         "coordinates": [
           -84.297301,
           39.303475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a78c3ca8-4e9b-5656-89fe-5b1370ecec92",
+        "address": "37414-N-Big-Bend-Rd-San-Tan-Valley-AZ-85140",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2923,
+        "listed_at": "2026-09-10T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.575872,
+          33.218958
         ]
       }
     },
