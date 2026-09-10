@@ -17077,6 +17077,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "416b64a7-175e-5b6c-a758-8523a2f6516d",
+        "address": "7907-Florado-St-Denver-CO-80221",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1840,
+        "listed_at": "2026-09-10T11:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.011795,
+          39.839884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "418424b6-9a42-50b2-8ec4-211555c14894",
         "address": "52186-Jacqueline-Ct-Macomb-MI-48042",
         "beds": 3,
