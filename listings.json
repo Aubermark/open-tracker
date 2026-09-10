@@ -13990,6 +13990,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "35a4b8e9-27be-5b9c-b429-2767e4ae9b32",
+        "address": "100-Betty-Ln-Carrollton-GA-30116",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1245,
+        "listed_at": "2026-09-10T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.037772,
+          33.626632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35bff2eb-68c7-41b1-8f1f-6ade9685ef72",
         "address": "241-Greenbriar-Dr-Livingston-TX-77351",
         "beds": 4,
@@ -17848,6 +17869,27 @@
         "coordinates": [
           -81.891045,
           28.021338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "445e3799-58dc-527b-ac68-a280f92ef7e6",
+        "address": "910-Paper-Creek-Dr-Lawrenceville-GA-30046",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3025,
+        "listed_at": "2026-09-10T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 451000,
+        "price_label": "$451K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.962133,
+          33.945299
         ]
       }
     },
@@ -34900,6 +34942,27 @@
         "coordinates": [
           -82.619119,
           39.726204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85a6942f-3ae3-5ad4-aa20-eb48cbcd742c",
+        "address": "1337-Parkside-Club-Dr-Lawrenceville-GA-30044",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1115,
+        "listed_at": "2026-09-10T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07862,
+          33.95295
         ]
       }
     },
