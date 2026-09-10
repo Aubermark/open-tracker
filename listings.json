@@ -59014,6 +59014,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dde7a4a8-bf8b-558d-8876-7ea39ac6d646",
+        "address": "1014-Bretton-Woods-Dr-Cedar-Park-TX-78613",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3503,
+        "listed_at": "2026-09-10T10:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.80761,
+          30.510481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "de2b210f-60b0-521e-9ae5-8f0c31febe3c",
         "address": "422-116th-Pl-Sw-Everett-WA-98204",
         "beds": 5,
