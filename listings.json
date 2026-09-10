@@ -17791,6 +17791,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43eecf7a-0adf-56a8-a77a-e71f1b1c0989",
+        "address": "14928-Nighthawk-Ln-Broomfield-CO-80023",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3433,
+        "listed_at": "2026-09-10T12:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1160000,
+        "price_label": "$1.160M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.044766,
+          39.9689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4406e60f-b818-50ac-b780-e7542e75f6ac",
         "address": "15652-W-Calavar-Rd-Surprise-AZ-85379",
         "beds": 5,
@@ -54913,6 +54934,27 @@
         "coordinates": [
           -82.533112,
           28.476281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d07877d3-50f3-5c4e-88b4-325e2ce26663",
+        "address": "821-Sage-Sparrow-Cir-Highlands-Ranch-CO-80129",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2285,
+        "listed_at": "2026-09-10T12:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 712000,
+        "price_label": "$712K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.999513,
+          39.53148
         ]
       }
     },
