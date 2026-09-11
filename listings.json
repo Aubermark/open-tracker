@@ -6073,6 +6073,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15cadaeb-723a-59cb-a541-aa786ee9efdc",
+        "address": "7226-Tyree-Rd-Winston-GA-30187",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3369,
+        "listed_at": "2026-09-11T06:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.885297,
+          33.608625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16036bb4-f001-5e24-9a98-d6352ea606d9",
         "address": "24542-N-Denham-Ridge-Ln-Spring-TX-77389",
         "beds": 5,
@@ -11653,6 +11674,27 @@
         "coordinates": [
           -80.752981,
           34.159554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ae4dfc2-7b71-553b-864c-f2931627db5a",
+        "address": "90-Ascott-Trce-Covington-GA-30016",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1792,
+        "listed_at": "2026-09-11T06:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.858688,
+          33.441623
         ]
       }
     },
