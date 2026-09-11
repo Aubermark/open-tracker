@@ -13843,6 +13843,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31c731a9-9928-52c0-988f-04e2f08a5d2d",
+        "address": "1826-East-Blvd-Petersburg-VA-23805",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-09-11T20:20:04.000Z",
+        "days_on_market": "88",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392281,
+          37.202616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31deacbd-8669-5809-9b41-4564aa26d81b",
         "address": "5747-Union-Pointe-Dr-Union-City-GA-30291",
         "beds": 6,
@@ -34234,6 +34255,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7bf05ce7-3345-5587-9eb4-cc6bd60c1170",
+        "address": "4042-Greenbriar-Dr-Missouri-City-TX-77459",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2829,
+        "listed_at": "2026-09-11T20:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.531136,
+          29.562138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7bfc75e2-9664-59fd-8921-8d78c0c4d111",
         "address": "713-Ridgedale-Ct-Charlotte-NC-28206",
         "beds": 2,
@@ -47521,27 +47563,6 @@
         "coordinates": [
           -122.421714,
           47.128528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "abd7906c-a81f-5e17-935a-b6db75b1fa32",
-        "address": "6331-Safford-Ter-North-Port-FL-34287",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1402,
-        "listed_at": "2026-08-21T06:37:29.000Z",
-        "days_on_market": "22",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.244318,
-          27.041962
         ]
       }
     },
