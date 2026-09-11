@@ -6451,6 +6451,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
+        "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2155,
+        "listed_at": "2026-09-11T13:00:03.000Z",
+        "days_on_market": "122",
+        "current_price": 599000,
+        "price_label": "$599K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.790383,
+          35.212193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "178d0e1a-438d-5bb6-8728-2a2821f0fb3c",
         "address": "5627-Barclay-Ct-Fort-Mill-SC-29707",
         "beds": 4,
@@ -11590,6 +11611,27 @@
         "coordinates": [
           -86.545158,
           35.038585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2a8e0283-9a3f-5986-ab46-38e40a30145d",
+        "address": "5806-Fox-Briar-Way-Midlothian-VA-23112",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3119,
+        "listed_at": "2026-09-11T13:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.700489,
+          37.418181
         ]
       }
     },
@@ -39631,6 +39673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9157b05a-40f2-5645-8db8-723d66bb2172",
+        "address": "284-Siloam-Church-Rd-Dahlonega-GA-30533",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2847,
+        "listed_at": "2026-09-11T13:00:03.000Z",
+        "days_on_market": "125",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.038068,
+          34.526994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "915855e9-f4ed-5b9a-aa69-1aba86f47b25",
         "address": "5759-Midcrown-Dr-San-Antonio-TX-78218",
         "beds": 4,
@@ -44413,6 +44476,27 @@
         "coordinates": [
           -84.035969,
           35.891329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a337dbd5-5455-5b5e-a13e-547d7bfdf5d7",
+        "address": "272-Cape-Jasmine-Way-Lexington-SC-29073",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2072,
+        "listed_at": "2026-09-11T13:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.237777,
+          33.900488
         ]
       }
     },
@@ -52939,27 +53023,6 @@
         "coordinates": [
           -82.401668,
           28.015385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c130478b-66dd-5576-ba05-282fa7f7ea56",
-        "address": "16-Slade-Ter-Oakville-CT-06779",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2484,
-        "listed_at": "2026-09-09T15:20:03.000Z",
-        "days_on_market": "2",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.077734,
-          41.593753
         ]
       }
     },
