@@ -5296,6 +5296,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1273acff-5831-5dbd-acc7-ed1ff2145a62",
+        "address": "5239-S-Apsley-Pl-Boise-ID-83709",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1730,
+        "listed_at": "2026-09-11T17:00:03.000Z",
+        "days_on_market": "15",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.336557,
+          43.555478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1295ebf5-5d30-5ad2-8781-4b913dffd3af",
         "address": "885-Halidon-Way-Apt-1421-Folsom-CA-95630",
         "beds": 1,
@@ -8362,27 +8383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1e520713-0d19-5347-8c42-fa0afedd6beb",
-        "address": "4450-Keats-Ave-Titusville-FL-32780",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 933,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "21",
-        "current_price": 226000,
-        "price_label": "$226K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.817627,
-          28.56115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1e549d06-7c96-5c0e-8514-36de08d31a5b",
         "address": "172-Gardenia-Ct-Marble-NC-28905",
         "beds": 2,
@@ -9427,6 +9427,27 @@
         "coordinates": [
           -80.533463,
           35.9216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "229c2a85-3999-5e92-82f4-ce5f0811a96f",
+        "address": "5644-N-199th-Ave-Litchfield-Park-AZ-85340",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1862,
+        "listed_at": "2026-09-11T17:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.487991,
+          33.516894
         ]
       }
     },
@@ -31294,27 +31315,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "727ef962-aff3-5cb7-b865-00e6764b701f",
-        "address": "1425-Hollyberry-Ln-West-Columbia-SC-29169",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "53",
-        "current_price": 258000,
-        "price_label": "$258K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.083711,
-          34.000361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "729916b6-bff4-5d1e-ab7d-f811b6a695d2",
         "address": "309-Applewood-Ln-Hewitt-TX-76643",
         "beds": 3,
@@ -36391,6 +36391,27 @@
         "coordinates": [
           -120.837393,
           38.143369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "84a3f25f-28ce-5f79-84d6-5ff07fa9c413",
+        "address": "1430-Hawk-Ln-Seymour-TN-37865",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1258,
+        "listed_at": "2026-09-11T17:00:03.000Z",
+        "days_on_market": "32",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.727643,
+          35.820572
         ]
       }
     },
@@ -56467,6 +56488,27 @@
         "coordinates": [
           -111.877189,
           40.778221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce0db95c-2904-5b73-9f5a-99f68e7fbb18",
+        "address": "222-Colebrook-Dr-San-Antonio-TX-78228",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1438,
+        "listed_at": "2026-09-11T17:00:03.000Z",
+        "days_on_market": "28",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.578167,
+          29.479767
         ]
       }
     },
