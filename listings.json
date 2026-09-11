@@ -45910,6 +45910,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a942fa7c-920b-5dcd-a66d-1b173ee58cf1",
+        "address": "3714-Saint-William-Ln-Houston-TX-77084",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1436,
+        "listed_at": "2026-09-11T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.690638,
+          29.826457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a94e487f-beba-5223-ab49-b92fec2b16cf",
         "address": "4417-Spanish-Broom-Ct-Nw-Albuquerque-NM-87120",
         "beds": 3,
