@@ -35095,6 +35095,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8172b5f9-d670-5ecf-bf11-e578fb933452",
+        "address": "6121-Jones-Cir-Las-Vegas-NV-89107",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1768,
+        "listed_at": "2026-09-11T11:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.225132,
+          36.167433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81777eee-f3e2-5968-a0d5-879e78520c01",
         "address": "115-Birchwood-Ct-Loganville-GA-30052",
         "beds": 4,
@@ -54829,6 +54850,27 @@
         "coordinates": [
           -96.670456,
           33.847475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c9615dbe-20cc-5b63-9f03-a18bec17ec33",
+        "address": "1120-Newnham-Dr-Columbia-SC-29210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-09-11T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.122128,
+          34.064825
         ]
       }
     },
