@@ -55465,6 +55465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccf9b604-6aa9-5ab6-92dd-7e65cb42d124",
+        "address": "52990-Avenida-Diaz-La-Quinta-CA-92253",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-09-11T09:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.315505,
+          33.663584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd14ed7d-e786-5de5-9453-94ea41cb2996",
         "address": "15929-La-Verida-Dr-Victorville-CA-92395",
         "beds": 3,
