@@ -28690,6 +28690,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a570867-012d-4795-89ea-8a1860c4bb6c",
+        "address": "418-Fairway-Ln-Sycamore-IL-60178",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2387,
+        "listed_at": "2026-09-11T11:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.680601,
+          41.978925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a6f6abf-f195-5747-b980-cb79d60e89f7",
         "address": "200-Kinsale-Dr-Spring-Hill-TN-37174",
         "beds": 2,
@@ -42817,6 +42838,27 @@
         "coordinates": [
           -84.448619,
           33.601763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9db1b9fe-cc51-47a1-83b6-37df426977f5",
+        "address": "691-Cassia-Ct-Crystal-Lake-IL-60012",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1717,
+        "listed_at": "2026-09-11T11:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.285533,
+          42.258358
         ]
       }
     },
