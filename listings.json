@@ -16699,6 +16699,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e727ddd-4d9c-5bde-835a-e86bcaf839d7",
+        "address": "7820-Amber-Ct-Texas-City-TX-77591",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1977,
+        "listed_at": "2026-09-11T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.000269,
+          29.407373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e98e193-aa30-50fd-9515-240e34205718",
         "address": "6226-Valley-Castle-San-Antonio-TX-78250",
         "beds": 3,
