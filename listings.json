@@ -31357,6 +31357,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "738c4f8b-855a-5346-9e0e-c445c8d5bc82",
+        "address": "7825-Old-Guild-Rd-North-Chesterfield-VA-23237",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1725,
+        "listed_at": "2026-09-11T12:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.455981,
+          37.413871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "73d95dd2-ad61-5430-a40a-a990b0e8e5de",
         "address": "2819-Avenue-K-Galveston-TX-77550",
         "beds": 2,
