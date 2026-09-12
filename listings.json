@@ -47149,27 +47149,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "aa40a1bf-fcf5-5207-ac5d-f8fbcf0d5919",
-        "address": "4993-Winding-Ridge-Dr-Greensboro-NC-27406",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3900,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "149",
-        "current_price": 480000,
-        "price_label": "$480K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.686613,
-          35.976322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "aa484be6-4452-5918-823c-cde6129e4da6",
         "address": "16207-N-11th-Pl-Phoenix-AZ-85022",
         "beds": 4,
@@ -65833,6 +65812,27 @@
         "coordinates": [
           -81.124902,
           35.21591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebd2634f-7707-5fa9-ba82-822044330a59",
+        "address": "6138-S-Granite-St-Gilbert-AZ-85298",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4047,
+        "listed_at": "2026-09-12T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1400000,
+        "price_label": "$1.400M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.759463,
+          33.238597
         ]
       }
     },
