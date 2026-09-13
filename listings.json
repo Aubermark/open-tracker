@@ -18673,6 +18673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43970713-56e0-5f65-a106-0af870d0ff5a",
+        "address": "1774-7th-St-Riverside-CA-92507",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1912,
+        "listed_at": "2026-09-13T17:30:03.000Z",
+        "days_on_market": "104",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.350116,
+          33.976529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43b6ae03-65d8-53aa-b340-e3e71de73cd9",
         "address": "624-Van-Thomas-Dr-Raleigh-NC-27615",
         "beds": 3,
@@ -41221,27 +41242,6 @@
         "coordinates": [
           -86.146818,
           39.935001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9609695e-0ba7-5813-9e09-8dd3a52ab1db",
-        "address": "4819-Powell-Rd-Fairfax-VA-22032",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3127,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "68",
-        "current_price": 904000,
-        "price_label": "$904K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.279262,
-          38.818785
         ]
       }
     },
