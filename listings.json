@@ -10252,27 +10252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "24f61178-3436-5c19-8f87-811372915c9d",
-        "address": "819-Scenic-Cir-Seymour-TN-37865",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1500,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "137",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.754504,
-          35.894024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "24fa75c6-b84e-5f95-a275-240765c4e0ec",
         "address": "2315-Wigeon-Way-Copperas-Cove-TX-76522",
         "beds": 5,
@@ -11044,6 +11023,27 @@
         "coordinates": [
           -82.114514,
           29.225033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "27e1906e-9aec-54ba-970e-1988b8cd2fcc",
+        "address": "1233-Oakland-Dr-Sw-Atlanta-GA-30310",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-09-14T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.427699,
+          33.721306
         ]
       }
     },
@@ -12629,11 +12629,11 @@
         "address": "6312-Ridgemount-St-Wake-Forest-NC-27587",
         "beds": 4,
         "baths": 3,
-        "sqft": 2517,
-        "listed_at": "2026-08-06T05:16:42.000Z",
+        "sqft": 2366,
+        "listed_at": "2026-09-14T20:20:03.000Z",
         "days_on_market": "84",
-        "current_price": 456000,
-        "price_label": "$456K"
+        "current_price": 442000,
+        "price_label": "$442K"
       },
       "geometry": {
         "type": "Point",
@@ -20494,6 +20494,27 @@
         "coordinates": [
           -93.565352,
           44.451601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "49f23953-84b4-5dd8-972f-e2a6a35bb538",
+        "address": "1034-Sweet-River-Dr-O-Fallon-MO-63366",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-09-14T20:20:04.000Z",
+        "days_on_market": "140",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73528,
+          38.879755
         ]
       }
     },
@@ -43159,6 +43180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9cdeaec7-7031-599f-baac-9048beab216c",
+        "address": "29655-Eagle-Crest-Ave-Murrieta-CA-92563",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1262,
+        "listed_at": "2026-09-14T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 583000,
+        "price_label": "$583K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.143235,
+          33.569809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9ce3fd44-7e6e-59ea-bc2e-1f2573e23578",
         "address": "1575-Liberty-Ave-Se-Atlanta-GA-30317",
         "beds": 4,
@@ -46072,27 +46114,6 @@
         "coordinates": [
           -97.711929,
           31.065287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a7553b9d-0538-5210-94b6-baaaffd048b8",
-        "address": "1896-Richal-Dr-Woodbury-MN-55125-11899130",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1068,
-        "listed_at": "2026-09-08T21:40:03.000Z",
-        "days_on_market": "6",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.956265,
-          44.921233
         ]
       }
     },
