@@ -25918,27 +25918,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5f052536-8b58-5cb4-9317-53fe0e28bf8d",
-        "address": "151-Westfield-Ave-Hamilton-OH-45013",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1080,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "17",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.596142,
-          39.418185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5f151eb8-6def-59b5-96c0-bd7de3a7a22c",
         "address": "1115-Moreno-Ln-Lewisburg-TN-37091",
         "beds": 3,
@@ -35026,6 +35005,27 @@
         "coordinates": [
           -122.192348,
           47.715337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7fb2da8e-3f72-59b8-bed5-933162c7b09a",
+        "address": "406-Fox-Trot-Dr-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2066,
+        "listed_at": "2026-09-14T14:30:04.000Z",
+        "days_on_market": "82",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.877297,
+          34.159672
         ]
       }
     },
