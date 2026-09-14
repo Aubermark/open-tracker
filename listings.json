@@ -14452,27 +14452,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "346ae44d-8506-51c6-b9ea-0cb367c71fc3",
-        "address": "5206-N-Sumac-Cir-Fayetteville-NC-28304",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1128,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "26",
-        "current_price": 153000,
-        "price_label": "$153K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.965509,
-          35.026252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "348a8366-1272-575b-840f-e8c35077b29f",
         "address": "8123-Little-Circle-Rd-Noblesville-IN-46060",
         "beds": 3,
@@ -19276,6 +19255,27 @@
         "coordinates": [
           -98.156996,
           29.66468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "45c59db8-bf56-59f1-bd86-86ea4699ffce",
+        "address": "7966-Lazelle-Woods-Dr-Westerville-OH-43081",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3164,
+        "listed_at": "2026-09-14T16:30:04.000Z",
+        "days_on_market": "115",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.983802,
+          40.129062
         ]
       }
     },
@@ -36838,27 +36838,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8646c87f-efce-5201-bd88-016c23e75c15",
-        "address": "1440-Shade-Tree-Way-Alpharetta-GA-30009",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3023,
-        "listed_at": "2026-09-08T18:20:03.000Z",
-        "days_on_market": "6",
-        "current_price": 795000,
-        "price_label": "$795K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.32383,
-          34.077098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "864f8a50-8b33-585a-9d95-1fac98665d57",
         "address": "923-Taybyn-Rd-Fort-Mill-SC-29715",
         "beds": 3,
@@ -49102,27 +49081,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b23fdded-1ef6-5b1a-b5e0-c018a69ce363",
-        "address": "1485-Barrier-Rd-Marietta-GA-30066",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2180,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "107",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.505395,
-          34.060349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b25f4a35-6a0e-5ede-9410-0e18e98294d3",
         "address": "1436-Alabama-Ave-Daytona-Beach-FL-32117",
         "beds": 3,
@@ -51322,6 +51280,27 @@
         "coordinates": [
           -111.516454,
           33.138128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9c8da8d-7101-5ac4-865e-67a141032eaf",
+        "address": "3042-Colleen-St-Ne-Salem-OR-97305",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1024,
+        "listed_at": "2026-09-14T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.974273,
+          44.965134
         ]
       }
     },
