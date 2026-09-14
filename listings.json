@@ -7963,6 +7963,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c57fd8d-3325-56ec-aa10-cf96a530fb0a",
+        "address": "37209-Grassy-Hill-Ln-Dade-City-FL-33525",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1212,
+        "listed_at": "2026-09-14T13:10:04.000Z",
+        "days_on_market": "41",
+        "current_price": 148000,
+        "price_label": "$148K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.200457,
+          28.35039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c60ad13-7597-5052-8ecb-d2619cdbea14",
         "address": "20509-E-Reno-Ave-Harrah-OK-73045",
         "beds": 2,
@@ -30973,27 +30994,6 @@
         "coordinates": [
           -110.870545,
           32.12317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "71465715-60de-5eb6-9dfa-540b53c1dd2c",
-        "address": "104-Arbuckle-Ln-Cary-NC-27511",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1354,
-        "listed_at": "2026-07-24T09:00:04.000Z",
-        "days_on_market": "111",
-        "current_price": 282000,
-        "price_label": "$282K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.793619,
-          35.768503
         ]
       }
     },
