@@ -53722,6 +53722,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c246bbc6-4dd8-513e-8bf8-7b153f71c6de",
+        "address": "188-Forest-Walk-Way-Mooresville-NC-28115",
+        "beds": 6,
+        "baths": 3,
+        "sqft": 3318,
+        "listed_at": "2026-09-14T11:50:04.000Z",
+        "days_on_market": "31",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.776498,
+          35.608246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c25e6574-9f57-5246-a53d-ce4320d6f2ba",
         "address": "504-Ledyard-Ct-Wake-Forest-NC-27587",
         "beds": 4,
