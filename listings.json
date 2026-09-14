@@ -4351,6 +4351,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0f605804-4a9e-5f5c-80f0-6f372e5b11bd",
+        "address": "4003-Oakview-Ct-Alpharetta-GA-30005",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3440,
+        "listed_at": "2026-09-14T12:30:03.000Z",
+        "days_on_market": "111",
+        "current_price": 677000,
+        "price_label": "$677K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.242377,
+          34.082204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0f7b8ef4-9ca6-5e7a-b22e-f922db7775f4",
         "address": "22338-E-Via-De-Olivos-Queen-Creek-AZ-85142",
         "beds": 3,
@@ -18394,27 +18415,6 @@
         "coordinates": [
           -81.6019,
           28.491162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "42a0c0da-70d4-51d8-8718-30aa10e49890",
-        "address": "48-S-Circle-Dr-Germantown-OH-45327",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1445,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "31",
-        "current_price": 217000,
-        "price_label": "$217K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.37194,
-          39.620426
         ]
       }
     },
