@@ -4057,6 +4057,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0debd25c-97ee-51b3-a8a3-cdb2db3b265a",
+        "address": "8932-Mesa-Oak-Dr-Riverside-CA-92508",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2447,
+        "listed_at": "2026-09-15T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.302295,
+          33.888467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0df2d3e3-5709-4c48-8398-d3babfab0601",
         "address": "8373-W-Rochelle-Ave-Las-Vegas-NV-89147",
         "beds": 3,
@@ -16714,6 +16735,27 @@
         "coordinates": [
           -84.171301,
           33.794244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3c8af525-2668-589e-9fd9-1cec0b2e1185",
+        "address": "71-Bethesda-Church-Rd-Lawrenceville-GA-30044-18235524",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1100,
+        "listed_at": "2026-09-15T13:40:04.000Z",
+        "days_on_market": "89",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.082567,
+          33.910575
         ]
       }
     },
