@@ -5191,6 +5191,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "115e2e99-cd9e-5085-acad-d61a26ebd301",
+        "address": "5578-E-Eugenia-Ave-Fresno-CA-93727",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1773,
+        "listed_at": "2026-09-15T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.701493,
+          36.713367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1166aaf3-3dc8-5ecd-b99e-bbf7386a614f",
         "address": "9-Bluff-Ridge-Ct-Greenville-SC-29617",
         "beds": 4,
@@ -12388,6 +12409,27 @@
         "coordinates": [
           -96.433655,
           32.771102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b489746-d506-5835-9efa-27de33287c5b",
+        "address": "2711-Vistaview-Dr-Corinth-TX-76210",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3056,
+        "listed_at": "2026-09-15T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.059604,
+          33.136607
         ]
       }
     },
@@ -28354,27 +28396,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "63fb2b9e-715f-5ccd-b774-9152cdabe985",
-        "address": "917-N-Miller-Dr-Tucson-AZ-85710",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2149,
-        "listed_at": "2026-09-03T05:50:13.000Z",
-        "days_on_market": "27",
-        "current_price": 365000,
-        "price_label": "$365K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.805553,
-          32.23232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "640211f3-7b8a-4fd4-aa7f-d41ac331dd8b",
         "address": "4510-Penkert-Pl-Lakeland-FL-33811",
         "beds": 5,
@@ -43201,27 +43222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "99acaba1-bd64-5f35-9b66-cb2c9915f4e9",
-        "address": "7925-W-Harmony-Ln-Peoria-AZ-85382",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1852,
-        "listed_at": "2026-09-07T16:50:10.000Z",
-        "days_on_market": "8",
-        "current_price": 438000,
-        "price_label": "$438K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.230323,
-          33.673029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "99c4691c-2bb6-5ef2-b44f-bace44417185",
         "address": "16107-Horseshoe-Hill-Ct-Cypress-TX-77429",
         "beds": 3,
@@ -57265,6 +57265,27 @@
         "coordinates": [
           -85.368607,
           40.170366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cce5c03d-1003-5947-9379-30ed9a337a0b",
+        "address": "817-W-Isabella-Ave-Mesa-AZ-85210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1531,
+        "listed_at": "2026-09-15T23:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.849255,
+          33.383012
         ]
       }
     },
