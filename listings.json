@@ -41668,6 +41668,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9498fd2d-29e5-54d6-b8dd-b8ec5838c7fb",
+        "address": "2716-Dearborn-Ln-Frisco-TX-75034",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3593,
+        "listed_at": "2026-09-15T23:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.866498,
+          33.141076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "94ab83e1-f90f-5342-a805-b23fe26cc56a",
         "address": "112-Rockbridge-Ct-Kernersville-NC-27284",
         "beds": 3,
@@ -54199,6 +54220,27 @@
         "coordinates": [
           -117.37644,
           33.679486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0769737-ba27-5af8-bba2-28b681d68ccd",
+        "address": "6114-Cedar-Ridge-Rd-Columbia-SC-29206",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2896,
+        "listed_at": "2026-09-15T23:00:03.000Z",
+        "days_on_market": "159",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945779,
+          34.035899
         ]
       }
     },
