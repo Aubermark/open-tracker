@@ -34150,6 +34150,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79fd890d-3909-50f3-88cb-2e7fd71da964",
+        "address": "8152-Black-Sumac-Dr-Fort-Worth-TX-76131",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2740,
+        "listed_at": "2026-09-16T07:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.358466,
+          32.888673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a0ef978-eb4a-5635-8aa7-9b633e6fa516",
         "address": "433-Kelly-Way-Bellefontaine-OH-43311",
         "beds": 3,
