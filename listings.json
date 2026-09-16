@@ -1180,6 +1180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02d9a63c-d652-5aec-a4e7-8f02bbb462ec",
+        "address": "415-Hawkins-Rd-Clarksville-TN-37040",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2446,
+        "listed_at": "2026-09-16T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.359029,
+          36.495455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02dd7d64-e3b5-541f-af3b-0d2d0bffbf59",
         "address": "17917-Turning-Leaf-Cir-Land-O-Lakes-FL-34638",
         "beds": 3,
@@ -3505,27 +3526,6 @@
         "coordinates": [
           -96.772278,
           33.24361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0c1a9eda-fded-5c7b-8006-e5a712d84349",
-        "address": "4-Mac-Arthur-Cir-Peabody-MA-01960",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1978,
-        "listed_at": "2026-08-13T05:38:24.000Z",
-        "days_on_market": "64",
-        "current_price": 725000,
-        "price_label": "$725K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.948206,
-          42.50583
         ]
       }
     },
@@ -21124,27 +21124,6 @@
         "coordinates": [
           -80.758002,
           35.139826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4b0e27b3-fa58-56ab-b183-1c3115ea961e",
-        "address": "308-W-Winterberry-Trl-White-House-TN-37188",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2192,
-        "listed_at": "2026-09-10T16:10:03.000Z",
-        "days_on_market": "6",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.687525,
-          36.488499
         ]
       }
     },
@@ -50167,6 +50146,27 @@
         "coordinates": [
           -106.686439,
           35.262979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b3354703-085d-5a00-8382-36ed963a67d7",
+        "address": "16271-Bolling-Dr-Denver-CO-80239",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1643,
+        "listed_at": "2026-09-16T20:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.798325,
+          39.779452
         ]
       }
     },
