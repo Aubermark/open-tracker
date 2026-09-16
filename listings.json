@@ -41374,6 +41374,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "946a9047-2673-5fc1-8ab0-35f61375dd88",
+        "address": "953-Pleasant-Run-Rd-Smyrna-TN-37167",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1580,
+        "listed_at": "2026-09-16T16:40:04.000Z",
+        "days_on_market": "19",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.524153,
+          35.912691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9473a2ca-e61f-5a43-ab18-3a5c6c9554b6",
         "address": "401-Sanders-St-Indianapolis-IN-46225",
         "beds": 3,
@@ -46855,27 +46876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a7ed129a-17ab-5564-9ff7-d675137dc54f",
-        "address": "6200-Sw-109th-Ave-Miami-FL-33173",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1314,
-        "listed_at": "2026-08-13T20:20:05.000Z",
-        "days_on_market": "34",
-        "current_price": 680000,
-        "price_label": "$680K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.370982,
-          25.709777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a7ee2908-22ed-51be-ade4-8e1941a47256",
         "address": "1905-Prospect-Ln-Aubrey-TX-76227",
         "beds": 3,
@@ -49663,6 +49663,27 @@
         "coordinates": [
           -75.828111,
           41.034776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b1f7e5aa-4d24-5ce4-8f48-b4aa4f461112",
+        "address": "6436-Kathy-Dr-High-Ridge-MO-63049",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1248,
+        "listed_at": "2026-09-16T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.56225,
+          38.458389
         ]
       }
     },
@@ -58126,6 +58147,27 @@
         "coordinates": [
           -81.660287,
           41.381129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d04fba97-26ad-5730-b1b3-da7ebb3c349d",
+        "address": "5082-Sw-31st-St-Ocala-FL-34474",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2047,
+        "listed_at": "2026-09-16T16:40:04.000Z",
+        "days_on_market": "43",
+        "current_price": 473000,
+        "price_label": "$473K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.204821,
+          29.15688
         ]
       }
     },
