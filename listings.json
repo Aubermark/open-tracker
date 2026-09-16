@@ -21046,6 +21046,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a400fbb-2e06-418a-b1d7-eac8326d628e",
+        "address": "3513-Radiant-Mountain-Dr-Plant-City-FL-33565",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1451,
+        "listed_at": "2026-09-16T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.103727,
+          28.053755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a426608-d698-59e1-893e-28f81e9f0c11",
         "address": "857-Forest-Park-Rd-Columbia-SC-29209",
         "beds": 2,
