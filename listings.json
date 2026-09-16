@@ -57733,6 +57733,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cec1e625-7513-5785-a642-2888cbbfe854",
+        "address": "576-Sunray-Dr-Clayton-NC-27520",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1212,
+        "listed_at": "2026-09-16T11:20:04.000Z",
+        "days_on_market": "50",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.408505,
+          35.562267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ced011a7-8b37-5897-a8c1-340bf8c46458",
         "address": "571-Winston-St-Franklinton-NC-27525",
         "beds": 3,
