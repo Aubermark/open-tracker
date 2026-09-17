@@ -43621,6 +43621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c673ed2-4b92-5992-96be-1e16a13e9ea2",
+        "address": "2000-Herschel-St-Roseville-MN-55113",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1923,
+        "listed_at": "2026-09-17T09:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.172767,
+          45.001444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c6839f3-b9d5-5b15-8fdc-36fc19c33246",
         "address": "3809-S-Drumm-Ave-Independence-MO-64055",
         "beds": 3,
