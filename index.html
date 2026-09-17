@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">17/09/2026, 23:50 (CET)</span>
+                <span class="hero-meta-value">17/09/2026, 23:52 (CET)</span>
               </div>
           </div>
         </section>
@@ -4915,6 +4915,9 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     { key: 'avg8_90d', name: '90 Days', color: '#BA68C8' }
   ];
  
+  // Mismo umbral que la vista SQL (listed >= 100). Si cambia alli, cambiar aqui.
+  const COHORT_MIN_LISTED = 100;
+ 
   // Deben coincidir con grid.top / grid.bottom: delimitan la franja de la
   // leyenda y la del eje X, donde el crosshair no debe actuar.
   const COHORT_GRID_TOP = 36;
@@ -4942,15 +4945,14 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     if (!weeks.length) return;
  
     const labelsOpt = weeks.map(r => cohortWeekEnding(r.week_start));
+    const listedOpt = weeks.map(r => parseInt(r.listed) || 0);
     const seriesData = {};
     AVG_SERIES.forEach(s => {
       seriesData[s.key] = weeks.map(r => num(r[s.key]));
     });
  
-    // Rango del eje Y calculado sobre TODAS las series y fijado explicitamente.
-    // Con scale:true el eje se recalcula segun las series visibles, asi que al
-    // ocultar una desde la leyenda las demas se salen de cuadro y parece que
-    // hayan desaparecido. Con min/max fijos el grafico es estable y comparable.
+    // Rango del eje Y calculado sobre TODAS las series y fijado explicitamente,
+    // para que ocultar una desde la leyenda no reescale el eje.
     const allVals = AVG_SERIES
       .flatMap(s => seriesData[s.key])
       .filter(v => v !== null);
@@ -4958,13 +4960,14 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     const rawMax = Math.max.apply(null, allVals);
     const yPad = Math.max((rawMax - rawMin) * 0.10, 2);
     const yMin = Math.max(0, Math.floor((rawMin - yPad) / 5) * 5);
-    const yMax = Math.ceil((rawMax + yPad) / 10) * 10;
+    const yMax = Math.ceil(rawMax / 10) * 10;   // el redondeo a decena ya deja aire arriba
  
+    // SIN useDirtyRect: con pocas series de linea sobre fondo vacio, el
+    // repintado parcial deja regiones borradas al ocultar una serie y
+    // pasar el raton por la leyenda. Aqui no aporta rendimiento.
     const chart = echarts.init(document.getElementById('cohortAvgChart'), null, {
       renderer: 'canvas'
     });
-
-    
  
     const options = {
       animation: false,
@@ -5053,8 +5056,7 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
       const mouseX = e.clientX - rect.left;
       const mouseY = e.clientY - rect.top;
  
-      // Fuera del area de plot no hay crosshair: arriba esta la leyenda
-      // (si el tooltip la tapa, ECharts recibe enter/leave espurios) y abajo el eje X.
+      // Fuera del area de plot no hay crosshair: arriba la leyenda, abajo el eje X
       if (mouseY < COHORT_GRID_TOP || mouseY > chartDom.clientHeight - COHORT_GRID_BOTTOM) {
         hideCrosshair();
         return;
@@ -5087,13 +5089,24 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
       let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">'
                + labelsOpt[closestIdx] + '</div>';
  
-      AVG_SERIES.forEach(function (s) {
-        const v = seriesData[s.key][closestIdx];
-        html += '<div style="font-size:12px;margin:2px 0">'
-              + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'
-              + s.color + ';margin-right:5px"></span>'
-              + s.name + ': <strong>' + (v === null ? '&mdash;' : v.toFixed(1) + '%') + '</strong></div>';
-      });
+      const lowVolume = listedOpt[closestIdx] < COHORT_MIN_LISTED;
+ 
+      if (lowVolume) {
+        // white-space:normal porque el contenedor lleva nowrap
+        html += '<div style="font-size:11px;color:#facc15;margin:4px 0;white-space:normal;max-width:220px;">'
+              + 'Only ' + listedOpt[closestIdx] + ' homes listed this week &mdash; below the '
+              + COHORT_MIN_LISTED + ' minimum, so this cohort is excluded from the moving averages.</div>';
+      } else {
+        AVG_SERIES.forEach(function (s) {
+          const v = seriesData[s.key][closestIdx];
+          html += '<div style="font-size:12px;margin:2px 0">'
+                + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'
+                + s.color + ';margin-right:5px"></span>'
+                + s.name + ': <strong>' + (v === null ? '&mdash;' : v.toFixed(1) + '%') + '</strong></div>';
+        });
+        html += '<div style="font-size:11px;opacity:0.6;margin-top:4px">Listed: '
+              + listedOpt[closestIdx].toLocaleString() + '</div>';
+      }
  
       html += '<div style="font-size:10px;opacity:0.55;margin-top:6px">8-cohort weighted MA (6&ndash;7 at series start)</div>';
  
@@ -5127,7 +5140,6 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
   });
   cohortAvgObserver.observe(cohortAvgContainer);
 </script>
-
 
 
 
