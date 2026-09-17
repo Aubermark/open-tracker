@@ -40513,27 +40513,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9097a3c2-566c-5993-a826-49ebfe44e22b",
-        "address": "3085-Moss-Bridge-Ln-Myrtle-Beach-SC-29579",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1907,
-        "listed_at": "2026-07-23T06:17:23.000Z",
-        "days_on_market": "92",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.89666,
-          33.770898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "90b51ec9-9ddf-5ddc-9d0c-3bb19c4ff9d1",
         "address": "59-Cane-Garden-Way-Saint-Augustine-FL-32092",
         "beds": 5,
@@ -56005,6 +55984,27 @@
         "coordinates": [
           -81.356377,
           33.992546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c831bdea-ef51-5aa3-bb37-8de03b79b439",
+        "address": "19016-Felbridge-St-Canyon-Country-CA-91351",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1080,
+        "listed_at": "2026-09-17T13:40:03.000Z",
+        "days_on_market": "97",
+        "current_price": 699000,
+        "price_label": "$699K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.46802,
+          34.42562
         ]
       }
     },
