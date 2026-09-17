@@ -109,6 +109,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0084be4e-236a-5bc2-bc0e-e8891286e097",
+        "address": "275-Forrest-Ave-Fayetteville-GA-30214",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2088,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.460568,
+          33.461336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "008b89b6-8024-5397-84db-2b7cc821ed10",
         "address": "301-Hocutt-Dr-Clayton-NC-27520",
         "beds": 3,
@@ -5968,6 +5989,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13dacae3-7ed9-5c51-96ba-d18cfd6bd615",
+        "address": "19-Rivanna-Dr-Anderson-SC-29625",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2286,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.701045,
+          34.534498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13db9a5c-28f3-5ccc-97af-12a1b9d321c2",
         "address": "5941-Bridge-Garden-Rd-Knoxville-TN-37912",
         "beds": 3,
@@ -9020,8 +9062,8 @@
         "sqft": 1260,
         "listed_at": "2026-09-10T06:10:28.000Z",
         "days_on_market": "49",
-        "current_price": 340000,
-        "price_label": "$340K"
+        "current_price": 345000,
+        "price_label": "$345K"
       },
       "geometry": {
         "type": "Point",
@@ -9343,6 +9385,27 @@
         "coordinates": [
           -78.653171,
           35.73727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "20e1e94d-5b7d-43fd-875d-7cc86c959fd0",
+        "address": "543-Bellum-Dr-Unit-1061-Henderson-NV-89011",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1096,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.010026,
+          36.065061
         ]
       }
     },
@@ -12766,6 +12829,27 @@
         "coordinates": [
           -96.868309,
           32.78199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2c15217a-000e-5d1c-9f77-c5e7919225ef",
+        "address": "447-Via-Del-Plano-Novato-CA-94949",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1491,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1120000,
+        "price_label": "$1.120M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.548583,
+          38.066766
         ]
       }
     },
@@ -22516,6 +22600,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4f6d20a2-9050-43e3-8575-2a015a0c000a",
+        "address": "3654-Mystic-Way-Grove-City-OH-43123",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2769,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.105287,
+          39.890466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f70a15c-d158-534e-87be-3a9814267b4c",
         "address": "12301-Burning-Embers-Ln-N-Jacksonville-FL-32225",
         "beds": 3,
@@ -23749,6 +23854,27 @@
         "coordinates": [
           -97.737286,
           32.202142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "540ea8be-5d46-52ab-a8c4-81dea837adad",
+        "address": "1903-Dobbin-Dr-San-Jose-CA-95133",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2015,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1070000,
+        "price_label": "$1.070M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.864388,
+          37.366828
         ]
       }
     },
@@ -27655,27 +27781,6 @@
         "coordinates": [
           -98.673817,
           29.52752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6235fef9-1369-5e92-ac1a-17f41799ce9e",
-        "address": "413-E-Vega-Ln-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1619,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "94",
-        "current_price": 189000,
-        "price_label": "$189K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.748576,
-          31.069333
         ]
       }
     },
@@ -42046,6 +42151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95712bec-6a8c-5ad3-874b-34c585c902d3",
+        "address": "244-Brookside-Dr-Millers-Creek-NC-28651",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1152,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.254143,
+          36.213297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "957a3645-8f05-5af3-b727-0439cb9ca188",
         "address": "7020-Greenbower-Ln-Atlanta-GA-30349",
         "beds": 3,
@@ -45280,6 +45406,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a17d559d-22be-56d3-be87-c1af76ab0f79",
+        "address": "2405-Waterloo-Ln-Mesquite-TX-75181",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2632,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "22",
+        "current_price": 334000,
+        "price_label": "$334K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.553497,
+          32.735824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a190bf66-2693-5e55-8d0b-9b7864dc3586",
         "address": "749-Peacock-Dr-Sunbury-OH-43074",
         "beds": 5,
@@ -47611,6 +47758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a973ab43-fca9-5bdf-b7e3-2d431e256dac",
+        "address": "5-Steeple-Chase-Cir-Westford-MA-01886",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2893,
+        "listed_at": "2026-09-17T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1020000,
+        "price_label": "$1.020M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.40853,
+          42.561124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a974f0a5-86b1-5428-aecb-e90693a0fa70",
         "address": "1512-Buckingham-Ave-Gastonia-NC-28054",
         "beds": 4,
@@ -49579,27 +49747,6 @@
         "coordinates": [
           -82.083587,
           29.175079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b0ea909e-e9a0-59ab-8f7a-e5db91c0c51a",
-        "address": "1107-Burgess-Dr-Leander-TX-78641-18595815",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1415,
-        "listed_at": "2026-09-17T06:29:12.000Z",
-        "days_on_market": "10",
-        "current_price": 271000,
-        "price_label": "$271K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.873926,
-          30.586594
         ]
       }
     },
@@ -53884,6 +54031,27 @@
         "coordinates": [
           -80.966933,
           35.31935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
+        "address": "5708-Maxfli-Dr-Schertz-TX-78108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "161",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.221246,
+          29.619438
         ]
       }
     },
@@ -68149,27 +68317,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f19ba348-af71-54ed-abc8-fdff17cb797e",
-        "address": "722-Virginia-Ln-Apopka-FL-32703",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1380,
-        "listed_at": "2026-08-25T14:00:04.000Z",
-        "days_on_market": "83",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.451779,
-          28.667902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f19f3e2c-fa21-567a-a387-cfe9e91f7b23",
         "address": "2325-Harbor-Ave-Sw-Unit-B2-Seattle-WA-98126",
         "beds": 3,
@@ -68668,6 +68815,27 @@
         "coordinates": [
           -81.259433,
           34.155702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f3ebc9a8-3fee-530a-8429-e310c83018ea",
+        "address": "1955-Blossom-Creek-Ln-Cumming-GA-30040",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3635,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 611000,
+        "price_label": "$611K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.178215,
+          34.228873
         ]
       }
     },
@@ -70138,6 +70306,27 @@
         "coordinates": [
           -81.511987,
           33.898147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9fcb634-92e1-5f33-8fd6-2786609bfb82",
+        "address": "200-Stillwater-Ct-Simpsonville-SC-29681",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1896,
+        "listed_at": "2026-09-17T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.224764,
+          34.789959
         ]
       }
     },
