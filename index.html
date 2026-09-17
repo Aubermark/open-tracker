@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">17/09/2026, 23:40 (CET)</span>
+                <span class="hero-meta-value">17/09/2026, 23:41 (CET)</span>
               </div>
           </div>
         </section>
@@ -4961,9 +4961,10 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     const yMax = Math.ceil((rawMax + yPad) / 5) * 5;
  
     const chart = echarts.init(document.getElementById('cohortAvgChart'), null, {
-      renderer: 'canvas',
-      useDirtyRect: true
+      renderer: 'canvas'
     });
+
+    
  
     const options = {
       animation: false,
