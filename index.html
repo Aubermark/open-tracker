@@ -2618,7 +2618,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">18/09/2026, 00:00 (CET)</span>
+                <span class="hero-meta-value">18/09/2026, 00:01 (CET)</span>
               </div>
           </div>
         </section>
@@ -4908,12 +4908,18 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     return m + "-" + day;
   }
  
+  // Cada rango tiene dos series: la cohorte real de esa semana y la media movil.
   const AVG_SERIES = [
-    { key: 'avg8_7d',  name: '7 Days',  color: '#4FC3F7' },
-    { key: 'avg8_30d', name: '30 Days', color: '#81C784' },
-    { key: 'avg8_60d', name: '60 Days', color: '#FFD54F' },
-    { key: 'avg8_90d', name: '90 Days', color: '#BA68C8' }
+    { avgKey: 'avg8_7d',  rawKey: 'pct_sold_7d',  name: '7 Days',  color: '#4FC3F7' },
+    { avgKey: 'avg8_30d', rawKey: 'pct_sold_30d', name: '30 Days', color: '#81C784' },
+    { avgKey: 'avg8_60d', rawKey: 'pct_sold_60d', name: '60 Days', color: '#FFD54F' },
+    { avgKey: 'avg8_90d', rawKey: 'pct_sold_90d', name: '90 Days', color: '#BA68C8' }
   ];
+ 
+  // Nombres de leyenda. Varias series comparten nombre: ECharts las agrupa
+  // bajo una sola entrada y el toggle las activa o desactiva todas a la vez.
+  const LEGEND_RAW = 'This Week';
+  const LEGEND_AVG = '8-Cohort Avg';
  
   // Mismo umbral que la vista SQL (listed >= 100). Si cambia alli, cambiar aqui.
   const COHORT_MIN_LISTED = 100;
@@ -4934,40 +4940,76 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
       return isNaN(n) ? null : n;
     };
  
-    // Recortar extremos donde las cuatro medias son NULL: por delante la
-    // ventana aun no esta completa, por detras las cohortes son muy jovenes
-    const hasAny = r => AVG_SERIES.some(s => num(r[s.key]) !== null);
+    // El rango visible lo marcan las medias: por delante la ventana aun no
+    // esta completa, por detras las cohortes son demasiado jovenes.
+    const hasAnyAvg = r => AVG_SERIES.some(s => num(r[s.avgKey]) !== null);
     let lo = 0, hi = sorted.length - 1;
-    while (lo <= hi && !hasAny(sorted[lo])) lo++;
-    while (hi >= lo && !hasAny(sorted[hi])) hi--;
+    while (lo <= hi && !hasAnyAvg(sorted[lo])) lo++;
+    while (hi >= lo && !hasAnyAvg(sorted[hi])) hi--;
     const weeks = sorted.slice(lo, hi + 1);
  
     if (!weeks.length) return;
  
     const labelsOpt = weeks.map(r => cohortWeekEnding(r.week_start));
     const listedOpt = weeks.map(r => parseInt(r.listed) || 0);
-    const seriesData = {};
+ 
+    const avgData = {};
+    const rawData = {};
     AVG_SERIES.forEach(s => {
-      seriesData[s.key] = weeks.map(r => num(r[s.key]));
+      avgData[s.avgKey] = weeks.map(r => num(r[s.avgKey]));
+      // Las semanas por debajo del umbral se omiten tambien en la serie real:
+      // con 11 listados un porcentaje es ruido y dibujaria un pico enganoso.
+      rawData[s.rawKey] = weeks.map(function (r) {
+        const listed = parseInt(r.listed) || 0;
+        return listed < COHORT_MIN_LISTED ? null : num(r[s.rawKey]);
+      });
     });
  
-    // Rango del eje Y calculado sobre TODAS las series y fijado explicitamente,
-    // para que ocultar una desde la leyenda no reescale el eje.
+    // Rango del eje Y sobre TODAS las series (reales y medias), fijado
+    // explicitamente para que ocultar una desde la leyenda no lo reescale.
     const allVals = AVG_SERIES
-      .flatMap(s => seriesData[s.key])
+      .flatMap(s => avgData[s.avgKey].concat(rawData[s.rawKey]))
       .filter(v => v !== null);
     const rawMin = Math.min.apply(null, allVals);
     const rawMax = Math.max.apply(null, allVals);
-    const yPad = Math.max((rawMax - rawMin) * 0.10, 2);
+    const yPad = Math.max((rawMax - rawMin) * 0.08, 2);
     const yMin = Math.max(0, Math.floor((rawMin - yPad) / 5) * 5);
-    const yMax = Math.ceil(rawMax / 10) * 10;   // el redondeo a decena ya deja aire arriba
+    const yMax = Math.ceil(rawMax / 5) * 5;   // paso de 5: con las series reales el techo sube
  
-    // SIN useDirtyRect: con pocas series de linea sobre fondo vacio, el
-    // repintado parcial deja regiones borradas al ocultar una serie y
-    // pasar el raton por la leyenda. Aqui no aporta rendimiento.
+    // SIN useDirtyRect: el repintado parcial deja regiones borradas al ocultar
+    // una serie y pasar el raton por la leyenda. Aqui no aporta rendimiento.
     const chart = echarts.init(document.getElementById('cohortAvgChart'), null, {
       renderer: 'canvas'
     });
+ 
+    // Series reales primero (z bajo), medias encima
+    const rawSeries = AVG_SERIES.map(s => ({
+      name: LEGEND_RAW,
+      type: 'line',
+      data: rawData[s.rawKey],
+      smooth: false,
+      symbol: 'none',
+      connectNulls: true,
+      z: 2,
+      lineStyle: { color: s.color, width: 1, type: 'dashed', opacity: 0.55 },
+      itemStyle: { color: s.color },
+      emphasis: { disabled: true },
+      silent: true
+    }));
+ 
+    const avgSeries = AVG_SERIES.map(s => ({
+      name: LEGEND_AVG,
+      type: 'line',
+      data: avgData[s.avgKey],
+      smooth: false,
+      symbol: 'circle',
+      symbolSize: 4,
+      connectNulls: true,
+      z: 10,
+      lineStyle: { color: s.color, width: 2, join: 'round', cap: 'round' },
+      itemStyle: { color: s.color },
+      emphasis: { disabled: true }
+    }));
  
     const options = {
       animation: false,
@@ -4976,10 +5018,19 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
       tooltip: { show: false },
  
       legend: {
-        data: AVG_SERIES.map(s => s.name),
+        // Solo dos entradas: el color lo lleva cada linea, la leyenda
+        // distingue continua (media) de discontinua (semana real).
+        data: [
+          { name: LEGEND_AVG, icon: 'line',
+            lineStyle: { color: '#cfd8dc', width: 2 },
+            itemStyle: { color: '#cfd8dc' } },
+          { name: LEGEND_RAW, icon: 'line',
+            lineStyle: { color: '#cfd8dc', width: 1, type: 'dashed', opacity: 0.7 },
+            itemStyle: { color: '#cfd8dc', opacity: 0.7 } }
+        ],
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
-        itemWidth: 12,
+        itemWidth: 16,
         itemHeight: 8
       },
  
@@ -5012,18 +5063,7 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
         }
       },
  
-      series: AVG_SERIES.map(s => ({
-        name: s.name,
-        type: 'line',
-        data: seriesData[s.key],
-        smooth: false,
-        symbol: 'circle',
-        symbolSize: 4,
-        connectNulls: true,          // salta huecos internos (semanas de bajo volumen)
-        itemStyle: { color: s.color },
-        lineStyle: { color: s.color, width: 2, join: 'round', cap: 'round' },
-        emphasis: { disabled: true }
-      }))
+      series: rawSeries.concat(avgSeries)
     };
  
     chart.setOption(options);
@@ -5036,7 +5076,7 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
     chartDom.appendChild(lineEl);
  
     const tipEl = document.createElement('div');
-    tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.75);border:1px solid #4FC3F7;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
+    tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.78);border:1px solid #4FC3F7;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
  
     function hideCrosshair() {
@@ -5049,6 +5089,10 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
       const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
       const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
       return Math.abs(px1 - px0) / 2;
+    }
+ 
+    function fmt(v) {
+      return v === null ? '&mdash;' : v.toFixed(1) + '%';
     }
  
     chartDom.addEventListener('mousemove', function (e) {
@@ -5095,20 +5139,23 @@ I laid out other possible scenarios. I’m holding and letting <a href="https://
         // white-space:normal porque el contenedor lleva nowrap
         html += '<div style="font-size:11px;color:#facc15;margin:4px 0;white-space:normal;max-width:220px;">'
               + 'Only ' + listedOpt[closestIdx] + ' homes listed this week &mdash; below the '
-              + COHORT_MIN_LISTED + ' minimum, so this cohort is excluded from the moving averages.</div>';
+              + COHORT_MIN_LISTED + ' minimum, so this cohort is excluded from the chart and the averages.</div>';
       } else {
+        html += '<div style="font-size:10px;opacity:0.5;margin:2px 0 4px 13px">week &middot; avg</div>';
         AVG_SERIES.forEach(function (s) {
-          const v = seriesData[s.key][closestIdx];
+          const raw = rawData[s.rawKey][closestIdx];
+          const avg = avgData[s.avgKey][closestIdx];
           html += '<div style="font-size:12px;margin:2px 0">'
                 + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'
                 + s.color + ';margin-right:5px"></span>'
-                + s.name + ': <strong>' + (v === null ? '&mdash;' : v.toFixed(1) + '%') + '</strong></div>';
+                + s.name + ': <strong>' + fmt(raw) + '</strong>'
+                + '<span style="opacity:0.6"> &middot; ' + fmt(avg) + '</span></div>';
         });
         html += '<div style="font-size:11px;opacity:0.6;margin-top:4px">Listed: '
               + listedOpt[closestIdx].toLocaleString() + '</div>';
       }
  
-      html += '<div style="font-size:10px;opacity:0.55;margin-top:6px">8-cohort weighted MA (6&ndash;7 at series start)</div>';
+      html += '<div style="font-size:10px;opacity:0.55;margin-top:6px">Dashed = that week&rsquo;s cohort &middot; solid = 8-cohort weighted MA</div>';
  
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
