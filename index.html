@@ -2548,21 +2548,26 @@
 
 
 
-  .cohort-mode-btn {
-    background: transparent;
+  .cohort-mode-badge {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #6b7686;
     border: 1px solid #3f4854;
-    color: #8b95a4;
-    font-size: 11px;
-    padding: 3px 10px;
+    background: rgba(255,255,255,0.02);
     border-radius: 4px;
+    padding: 2px 7px;
     cursor: pointer;
-    font-family: inherit;
+    user-select: none;
+    white-space: nowrap;
+    transition: color .12s, border-color .12s, background .12s;
   }
-  .cohort-mode-btn:hover { color: #cfd8dc; border-color: #5a6675; }
-  .cohort-mode-btn.active {
+  .cohort-mode-badge:hover { color: #cfd8dc; border-color: #5a6675; }
+  .cohort-mode-badge.active {
     color: #4FC3F7;
-    border-color: #4FC3F7;
-    background: rgba(79,195,247,0.08);
+    border-color: rgba(79,195,247,0.55);
+    background: rgba(79,195,247,0.12);
   }
 
     </style>
@@ -3339,12 +3344,15 @@
               <span class="card-tag">Cohorts</span>
             </div>
 
-              <div id="cohortAvgToggle" style="display:flex;gap:6px;margin-bottom:6px;>
-                  <button type="button" data-mode="absolute" class="cohort-mode-btn">Absolute</button>
-                  <button type="button" data-mode="indexed" class="cohort-mode-btn">Indexed</button>
+              <div style="position:relative;">
+                <div id="cohortAvgToggle" style="position:absolute;top:0;right:4px;z-index:5;display:flex;gap:4px;">
+                  <span role="button" tabindex="0" data-mode="absolute" class="cohort-mode-badge">Absolute</span>
+                  <span role="button" tabindex="0" data-mode="indexed" class="cohort-mode-badge">Indexed</span>
+                </div>
+                <div id="cohortAvgChart" style="width:100%;height:360px;margin-bottom:18px;"></div>
               </div>
 
-            <div id="cohortAvgChart" style="width:100%;height:340px;margin-bottom:18px;"></div>
+            <div id="cohortAvgChart" style="width:100%;height:360px;margin-bottom:18px;"></div>
             
     <table class="dashboard-table" id="table-cohort-conversion">
       <thead>
@@ -4988,9 +4996,9 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
       });
     });
  
-    // Indexado: cada serie a base 100 sobre su PRIMER valor no nulo.
-    // La media y la semana real de un mismo rango comparten base (la de la
-    // media), para que sigan siendo comparables entre si dentro del rango.
+    // Indexado: cada serie a base 100 sobre el PRIMER valor de su media.
+    // La semana real comparte la base de su media para que ambas sigan
+    // siendo comparables entre si dentro del mismo rango.
     function firstValid(arr) {
       for (let i = 0; i < arr.length; i++) if (arr[i] !== null) return arr[i];
       return null;
@@ -5010,22 +5018,19 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
       rawIdx[s.rawKey] = reindex(rawData[s.rawKey], base);
     });
  
-    // Rangos de eje precalculados para cada modo, fijos, de modo que ocultar
+    // Rangos de eje precalculados y fijos para cada modo, de modo que ocultar
     // una serie desde la leyenda no reescale el eje.
     function axisRange(vals, step) {
       const clean = vals.filter(v => v !== null);
       const mn = Math.min.apply(null, clean);
       const mx = Math.max.apply(null, clean);
-      return {
-        min: Math.floor(mn / step) * step,
-        max: Math.ceil(mx / step) * step
-      };
+      return { min: Math.floor(mn / step) * step, max: Math.ceil(mx / step) * step };
     }
  
-    const absVals = AVG_SERIES.flatMap(s => avgData[s.avgKey].concat(rawData[s.rawKey]));
-    const idxVals = AVG_SERIES.flatMap(s => avgIdx[s.avgKey].concat(rawIdx[s.rawKey]));
-    const absAxis = axisRange(absVals, 5);
-    const idxAxis = axisRange(idxVals, 5);
+    const absAxis = axisRange(
+      AVG_SERIES.flatMap(s => avgData[s.avgKey].concat(rawData[s.rawKey])), 5);
+    const idxAxis = axisRange(
+      AVG_SERIES.flatMap(s => avgIdx[s.avgKey].concat(rawIdx[s.rawKey])), 5);
     absAxis.min = Math.max(0, absAxis.min);
  
     // SIN useDirtyRect: el repintado parcial deja regiones borradas al ocultar
@@ -5037,9 +5042,11 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
     let mode = 'absolute';
  
     function seriesFor(m) {
-      const a = m === 'indexed' ? avgIdx : avgData;
-      const r = m === 'indexed' ? rawIdx : rawData;
+      const indexed = (m === 'indexed');
+      const a = indexed ? avgIdx : avgData;
+      const r = indexed ? rawIdx : rawData;
  
+      // Series reales primero (z bajo), medias encima
       const rawSeries = AVG_SERIES.map(s => ({
         name: LEGEND_RAW,
         type: 'line',
@@ -5054,53 +5061,57 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
         silent: true
       }));
  
-      const avgSeries = AVG_SERIES.map(s => ({
-        name: LEGEND_AVG,
-        type: 'line',
-        data: a[s.avgKey],
-        smooth: false,
-        symbol: 'circle',
-        symbolSize: 4,
-        connectNulls: true,
-        z: 10,
-        lineStyle: { color: s.color, width: 2, join: 'round', cap: 'round' },
-        itemStyle: { color: s.color },
-        emphasis: { disabled: true }
-      }));
+      const avgSeries = AVG_SERIES.map(function (s, i) {
+        const serie = {
+          name: LEGEND_AVG,
+          type: 'line',
+          data: a[s.avgKey],
+          smooth: false,
+          symbol: 'circle',
+          symbolSize: 4,
+          connectNulls: true,
+          z: 10,
+          lineStyle: { color: s.color, width: 2, join: 'round', cap: 'round' },
+          itemStyle: { color: s.color },
+          emphasis: { disabled: true }
+        };
+        // Linea de referencia en 100, solo una vez y solo en modo indexado
+        if (indexed && i === 0) {
+          serie.markLine = {
+            silent: true,
+            symbol: 'none',
+            data: [{ yAxis: 100 }],
+            lineStyle: { color: 'rgba(255,255,255,0.35)', width: 1 },
+            label: { show: false }
+          };
+        }
+        return serie;
+      });
  
       return rawSeries.concat(avgSeries);
     }
  
     function applyMode(m) {
       mode = m;
-      const ax = m === 'indexed' ? idxAxis : absAxis;
+      const ax = (m === 'indexed') ? idxAxis : absAxis;
+ 
+      // replaceMerge en series: con ocho series compartiendo solo dos nombres,
+      // la fusion por defecto no sabe emparejarlas y el cambio no se aplica.
       chart.setOption({
         yAxis: {
           min: ax.min,
           max: ax.max,
-          axisLabel: { formatter: m === 'indexed' ? '{value}' : '{value}%' }
+          axisLabel: { formatter: (m === 'indexed') ? '{value}' : '{value}%' }
         },
-        // Linea de referencia en 100 solo en modo indexado
-        series: seriesFor(m).map(function (s, i) {
-          if (i === seriesFor(m).length - 1 && m === 'indexed') {
-            s.markLine = {
-              silent: true,
-              symbol: 'none',
-              data: [{ yAxis: 100 }],
-              lineStyle: { color: 'rgba(255,255,255,0.35)', width: 1, type: 'solid' },
-              label: { show: false }
-            };
-          }
-          return s;
-        })
-      });
+        series: seriesFor(m)
+      }, { replaceMerge: ['series'] });
  
-      document.querySelectorAll('.cohort-mode-btn').forEach(function (b) {
+      document.querySelectorAll('.cohort-mode-badge').forEach(function (b) {
         b.classList.toggle('active', b.dataset.mode === m);
       });
     }
  
-    const options = {
+    chart.setOption({
       animation: false,
       backgroundColor: 'transparent',
       progressive: 0,
@@ -5151,13 +5162,15 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
       },
  
       series: seriesFor('absolute')
-    };
+    });
  
-    chart.setOption(options);
     applyMode('absolute');
  
-    document.querySelectorAll('.cohort-mode-btn').forEach(function (b) {
+    document.querySelectorAll('.cohort-mode-badge').forEach(function (b) {
       b.addEventListener('click', function () { applyMode(b.dataset.mode); });
+      b.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); applyMode(b.dataset.mode); }
+      });
     });
  
     // Crosshair + tooltip propio, mismo patron que weeklyChart
@@ -5256,7 +5269,7 @@ It's such a small number at scale.</p>&mdash; Maëlan (@maelan_sdmr)
       }
  
       html += '<div style="font-size:10px;opacity:0.55;margin-top:6px">Solid = 8-cohort weighted MA &middot; dashed = that week&rsquo;s cohort'
-            + (mode === 'indexed' ? ' &middot; chart indexed to 100 at ' + labelsOpt[0] : '')
+            + (mode === 'indexed' ? ' &middot; indexed to 100 at ' + labelsOpt[0] : '')
             + '</div>';
  
       tipEl.innerHTML = html;
