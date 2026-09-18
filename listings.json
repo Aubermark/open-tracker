@@ -48031,6 +48031,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a9f6697a-792d-5e88-b942-bc999edad7ac",
+        "address": "17534-Balmaha-Dr-Land-O-Lakes-FL-34638",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2262,
+        "listed_at": "2026-09-18T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52534,
+          28.207542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa3c9121-8b11-5117-92fe-972fc5eefc80",
         "address": "12035-Olympic-Club-Dr-Charlotte-NC-28277",
         "beds": 4,
@@ -49726,6 +49747,27 @@
         "coordinates": [
           -84.434622,
           33.999225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0386e54-5259-53d5-913b-6429c6af7882",
+        "address": "14725-Eagles-Crossing-Dr-Orlando-FL-32837",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1960,
+        "listed_at": "2026-09-18T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.413751,
+          28.349027
         ]
       }
     },
