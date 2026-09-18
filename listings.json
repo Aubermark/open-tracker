@@ -634,6 +634,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0188052b-c84c-5790-92c6-b2b40af41cf1",
+        "address": "435-16th-St-Cramerton-NC-28032",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1064,
+        "listed_at": "2026-09-18T13:20:03.000Z",
+        "days_on_market": "100",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.082303,
+          35.245405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "019b7321-9a57-5212-a8a7-673e66b9e9ff",
         "address": "10812-Marble-Falls-Pl-Mc-Kinney-TX-75071",
         "beds": 4,
@@ -17638,27 +17659,6 @@
         "coordinates": [
           -122.527852,
           45.484704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3e2fb996-94f4-5d3a-b9ad-e61ccadce68a",
-        "address": "724-Woodmere-Dr-Nashville-TN-37217",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1525,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "134",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.711111,
-          36.121298
         ]
       }
     },
@@ -37273,27 +37273,6 @@
         "coordinates": [
           -119.741623,
           39.437583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "82c73e14-05f0-57b3-b87b-9e70977c98f2",
-        "address": "1623-W-Pleasant-Dr-Midlothian-TX-76065",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1792,
-        "listed_at": "2026-09-08T16:20:02.000Z",
-        "days_on_market": "10",
-        "current_price": 353000,
-        "price_label": "$353K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.996026,
-          32.466449
         ]
       }
     },
