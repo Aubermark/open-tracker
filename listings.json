@@ -35074,6 +35074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b713248-ece6-5c00-8ffe-31eab7da8141",
+        "address": "21323-Wharfdale-Dr-Noblesville-IN-46062",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2730,
+        "listed_at": "2026-09-18T07:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.062798,
+          40.097551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b8744c2-b850-5e55-9d52-e24f47f3eec4",
         "address": "11072-Silver-Surfer-Aly-Winter-Garden-FL-34787",
         "beds": 3,
