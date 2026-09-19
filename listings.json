@@ -15019,6 +15019,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "32ffee01-44cb-5e52-8fe3-35adabd6e5e6",
+        "address": "7906-Elphin-Ct-Charlotte-NC-28270",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2240,
+        "listed_at": "2026-09-19T17:00:04.000Z",
+        "days_on_market": "127",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.774672,
+          35.105608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32ffefcb-2418-5aba-ad41-d6b5ba2faf18",
         "address": "3715-Highland-Dr-Ayden-NC-28513",
         "beds": 3,
@@ -35341,27 +35362,6 @@
         "coordinates": [
           -84.335297,
           33.943006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "78e13959-d916-5617-9c74-8734810c23e1",
-        "address": "305-Brims-Way-Garner-NC-27529",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1552,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "58",
-        "current_price": 354000,
-        "price_label": "$354K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.631576,
-          35.690629
         ]
       }
     },
