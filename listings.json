@@ -57208,6 +57208,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c38c565f-b921-589c-bba9-5bcefbae0736",
+        "address": "6489-N-Sweetwater-Rd-Lithia-Springs-GA-30122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1056,
+        "listed_at": "2026-09-19T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.662521,
+          33.796954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3971ee5-31a6-455f-b308-ab6ee6a72222",
         "address": "8379-W-Rochelle-Ave-Las-Vegas-NV-89147",
         "beds": 4,
