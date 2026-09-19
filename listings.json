@@ -21361,6 +21361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "482df607-e028-5986-bf2e-4f00435e1ca8",
+        "address": "305-Old-Tree-Trce-Roswell-GA-30075",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2660,
+        "listed_at": "2026-09-19T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 561000,
+        "price_label": "$561K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.368565,
+          34.009645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "483eb335-164f-5b14-abdf-1b06a7685527",
         "address": "1135-Myrtle-Ave-Baltimore-MD-21201",
         "beds": 3,
@@ -60289,6 +60310,27 @@
         "coordinates": [
           -82.533112,
           28.476281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d072ac45-592d-55f8-9b0f-e43172e1a3c7",
+        "address": "2256-Royal-Vineyard-Ln-Se-Smyrna-GA-30080",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3459,
+        "listed_at": "2026-09-19T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 656000,
+        "price_label": "$656K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.470849,
+          33.896354
         ]
       }
     },
