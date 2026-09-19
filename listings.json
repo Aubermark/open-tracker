@@ -1621,27 +1621,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03d620bf-fa52-5f13-9dbd-850e92aae594",
-        "address": "18320-Candice-Dr-Triangle-VA-22172",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1685,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "193",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.313879,
-          38.554266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "03de1181-d2ae-5b9f-ac93-2fdd0da35b54",
         "address": "2603-Pecan-Valley-Dr-Granbury-TX-76048",
         "beds": 2,
@@ -35662,6 +35641,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a302961-8b9c-532a-a1a0-475412e69c9d",
+        "address": "8404-S-Brookline-Ave-Oklahoma-City-OK-73159",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 934,
+        "listed_at": "2026-09-19T14:10:03.000Z",
+        "days_on_market": "73",
+        "current_price": 110000,
+        "price_label": "$110K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.567897,
+          35.382868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a32f14a-f83f-5998-bd9f-7dcb046468f6",
         "address": "10708-W-Chautauga-Mtn-Littleton-CO-80127",
         "beds": 4,
@@ -49942,6 +49942,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ac0c76b8-f050-5ae9-a62d-3c69c414c09b",
+        "address": "2571-S-Hills-Riverdale-GA-30296",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2144,
+        "listed_at": "2026-09-19T14:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475547,
+          33.56156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac2638e8-9935-569d-a406-993fac72eff7",
         "address": "129-Carmel-Dr-Cibolo-TX-78108",
         "beds": 5,
@@ -56131,6 +56152,27 @@
         "coordinates": [
           -95.062916,
           29.506066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c018fd1e-03d2-55a6-9e1e-ee5ec27c890f",
+        "address": "1304-Grapevine-Dr-Allen-TX-75002",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3297,
+        "listed_at": "2026-09-19T14:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.640763,
+          33.116196
         ]
       }
     },
