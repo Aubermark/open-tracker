@@ -67603,6 +67603,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e88de59e-a250-54fd-bc73-e1301d479858",
+        "address": "6280-6th-St-Ne-Fridley-MN-55432-16039777",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2214,
+        "listed_at": "2026-09-19T06:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.259715,
+          45.08278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e8ab5034-eb5c-4fef-8360-c84f3a1e99a8",
         "address": "1687-Pena-Ln-Woodland-CA-95776",
         "beds": 3,
