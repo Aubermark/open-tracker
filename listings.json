@@ -16657,6 +16657,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "397eb4bb-a588-5363-bff8-bf150223d897",
+        "address": "204-Arbor-Way-Dallas-GA-30157",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1191,
+        "listed_at": "2026-09-19T10:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.871267,
+          33.829137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3985fbc2-3d36-5af1-b7f7-713a73310c32",
         "address": "1727-Joben-Dr-Murfreesboro-TN-37128",
         "beds": 4,
