@@ -72811,6 +72811,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fa93bef1-5dbf-5af0-b62f-565b5c7bacc6",
+        "address": "1370-Eaglecreek-Trl-Cumming-GA-30041",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1386,
+        "listed_at": "2026-09-19T11:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.113372,
+          34.21006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa99a45e-24a9-56c4-9373-2e9becfc43d0",
         "address": "21505-E-50th-Terrace-Ct-S-Blue-Springs-MO-64015",
         "beds": 3,
