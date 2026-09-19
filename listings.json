@@ -58972,6 +58972,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbf0b9c7-95b2-548a-ab9f-cf8d72651780",
+        "address": "100-Cramer-Pl-Martinsville-IN-46151",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1690,
+        "listed_at": "2026-09-19T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.400576,
+          39.436488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbf4c4c9-d731-5385-ac0d-f096a321f4c0",
         "address": "2954-Rangpur-Ct-Escondido-CA-92027",
         "beds": 4,
