@@ -9664,6 +9664,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21423f28-6576-5794-98b6-869061a20559",
+        "address": "2717-O-Hara-Dr-Charlotte-NC-28273",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1582,
+        "listed_at": "2026-09-19T10:50:04.000Z",
+        "days_on_market": "30",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.953175,
+          35.139129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "214f16b2-053e-5bad-a857-60c8adde4829",
         "address": "6951-Cutting-Crk-San-Antonio-TX-78244",
         "beds": 5,
