@@ -4435,6 +4435,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e5cdbab-4fce-5bf9-9db1-e75ac89d9d51",
+        "address": "1902-New-Orleans-St-Deer-Park-TX-77536",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-09-20T20:20:04.000Z",
+        "days_on_market": "150",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.140707,
+          29.688272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e5e3bc0-9279-4117-b07d-bf050e3bb65e",
         "address": "11277-Rustic-Timber-Loop-San-Antonio-FL-33576",
         "beds": 5,
