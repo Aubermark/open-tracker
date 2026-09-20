@@ -23377,27 +23377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4f98f9d7-be2a-596a-a951-b56ddcb44373",
-        "address": "4207-Bentley-Dr-Randleman-NC-27317",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1068,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "34",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.817705,
-          35.817108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4fba64a3-baec-5368-8291-76639f9002d2",
         "address": "319-Prairie-View-Pl-Sw-Atlanta-GA-30311",
         "beds": 5,
@@ -30364,6 +30343,27 @@
         "coordinates": [
           -81.123043,
           32.033954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "682942d3-7167-5530-9d7a-cdf829515b5a",
+        "address": "3000-Candide-Ln-Mc-Kinney-TX-75070",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2668,
+        "listed_at": "2026-09-20T19:00:03.000Z",
+        "days_on_market": "23",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.661654,
+          33.167504
         ]
       }
     },
