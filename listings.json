@@ -20605,6 +20605,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45f41198-5685-589b-b27b-ece28abc3a87",
+        "address": "112-Alden-St-Troy-MO-63379-18108926",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1040,
+        "listed_at": "2026-09-21T15:20:04.000Z",
+        "days_on_market": "11",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.979478,
+          38.973428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45f90e9b-7971-4e62-9740-9b7175cbd838",
         "address": "232-Shadowbrook-Way-Camden-SC-29020",
         "beds": 3,
@@ -23314,6 +23335,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4f8b0645-8f9c-5337-92eb-e18bacb2b23c",
+        "address": "14915-Cardigan-Wheel-San-Antonio-TX-78254",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2024,
+        "listed_at": "2026-09-21T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.791249,
+          29.523296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4f8f8471-0ac9-52a1-a78c-984b96628493",
         "address": "65-Tanglewood-Rd-Newnan-GA-30263",
         "beds": 5,
@@ -25177,27 +25219,6 @@
         "coordinates": [
           -76.538568,
           39.145716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5652c816-fded-5aa0-a077-31c5e41611c1",
-        "address": "7711-Nc-Hwy-73-E-Mount-Pleasant-NC-28124",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1616,
-        "listed_at": "2026-09-18T14:29:56.000Z",
-        "days_on_market": "3",
-        "current_price": 130000,
-        "price_label": "$130K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.447456,
-          35.406549
         ]
       }
     },
@@ -49159,27 +49180,6 @@
         "coordinates": [
           -81.702586,
           28.517031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ab343340-79f1-51e7-af28-521e3b8f42e1",
-        "address": "16201-Surfview-Ct-Wildwood-MO-63040",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2507,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "110",
-        "current_price": 441000,
-        "price_label": "$441K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.607923,
-          38.579541
         ]
       }
     },
