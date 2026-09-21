@@ -38623,6 +38623,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "850fb108-723a-5527-9014-71ad9f7f4d9c",
+        "address": "215-Beech-Brook-St-Saint-Johns-FL-32259",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1008,
+        "listed_at": "2026-09-21T13:20:03.000Z",
+        "days_on_market": "90",
+        "current_price": 201000,
+        "price_label": "$201K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.585627,
+          30.113854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "851c1ca5-f4c9-531e-83eb-84fbee83a404",
         "address": "5444-Kenbridge-Dr-Cleveland-OH-44143",
         "beds": 4,
