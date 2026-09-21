@@ -11806,6 +11806,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28885ca6-2b28-52ed-a043-b3ae41516f7c",
+        "address": "3746-Sw-Mc-Kinley-St-Gresham-OR-97080",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1860,
+        "listed_at": "2026-09-21T18:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.470392,
+          45.474948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28895c3a-0312-5ec6-a914-5e82e9a292aa",
         "address": "601-Community-Dr-Waycross-GA-31501",
         "beds": 4,
@@ -32806,27 +32827,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "715fc70e-032e-59e6-ba9a-52f656e0868c",
-        "address": "4300-Windwillow-Ct-Fort-Worth-TX-76137",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2050,
-        "listed_at": "2026-09-17T06:29:08.000Z",
-        "days_on_market": "62",
-        "current_price": 317000,
-        "price_label": "$317K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.292435,
-          32.882809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "716a39f2-db44-5ae2-b391-94f0762e8884",
         "address": "400-Sw-Golfview-Ter-Apt-112-Boynton-Beach-FL-33426",
         "beds": 2,
@@ -34039,27 +34039,6 @@
         "coordinates": [
           -77.088991,
           38.860949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "758154a0-21a7-5a5c-8306-13bc57eb4a46",
-        "address": "3011-Jubilee-Trl-Austin-TX-78748",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1158,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "33",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.842092,
-          30.177662
         ]
       }
     },
@@ -50362,27 +50341,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "aeae5267-be35-5ee6-8912-56dd865e8af4",
-        "address": "4473-Ravenwood-Dr-Union-City-GA-30291",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1844,
-        "listed_at": "2026-09-08T19:00:03.000Z",
-        "days_on_market": "13",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.570494,
-          33.594216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "aeafbc71-4e86-5662-908a-d5623c6f80d2",
         "address": "4028-Catalpa-Ave-Knoxville-TN-37914",
         "beds": 3,
@@ -65707,27 +65665,6 @@
         "coordinates": [
           -80.537446,
           35.022972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2a26162-d593-51eb-9cd6-038c9c2026d0",
-        "address": "9011-Manorford-Dr-Cleveland-OH-44130",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1103,
-        "listed_at": "2026-09-10T06:10:29.000Z",
-        "days_on_market": "70",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.747688,
-          41.387025
         ]
       }
     },
