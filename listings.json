@@ -3763,6 +3763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c3218b8-cb21-5b0c-a7a6-0141b6980dc1",
+        "address": "125-Stockmar-Rd-Villa-Rica-GA-30180",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1977,
+        "listed_at": "2026-09-21T14:00:04.000Z",
+        "days_on_market": "200",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.903507,
+          33.748155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c43a7ee-3987-5d14-b4fa-24f4246911ac",
         "address": "159-Old-Tree-Rd-Goose-Creek-SC-29445",
         "beds": 2,
@@ -11317,27 +11338,6 @@
         "coordinates": [
           -79.742025,
           36.140076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "26db5765-1f6d-59cc-af6f-f433477dc972",
-        "address": "4112-Innovation-Ln-Clermont-FL-34711",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2061,
-        "listed_at": "2026-08-20T06:22:42.000Z",
-        "days_on_market": "45",
-        "current_price": 437000,
-        "price_label": "$437K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.676548,
-          28.515505
         ]
       }
     },
@@ -59644,27 +59644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cf977ddb-4b2c-5f6b-9d9a-8dfd8a4cf9fa",
-        "address": "2734-Preston-Ct-Aurora-IL-60502",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1160,
-        "listed_at": "2026-09-17T06:29:12.000Z",
-        "days_on_market": "69",
-        "current_price": 261000,
-        "price_label": "$261K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.248619,
-          41.806377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cf97d9b6-47f2-5361-ba15-dd9ade6a6e0b",
         "address": "2856-E-Megan-St-Gilbert-AZ-85295",
         "beds": 3,
@@ -71104,6 +71083,27 @@
         "coordinates": [
           -77.557141,
           38.265629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f64abdaf-cc77-5b45-bf01-973c70da4735",
+        "address": "2360-Kimbrough-Ct-Atlanta-GA-30350",
+        "beds": 6,
+        "baths": 5,
+        "sqft": 4291,
+        "listed_at": "2026-09-21T14:00:04.000Z",
+        "days_on_market": "138",
+        "current_price": 765000,
+        "price_label": "$765K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.288214,
+          33.960399
         ]
       }
     },
