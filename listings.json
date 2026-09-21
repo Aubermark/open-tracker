@@ -39673,6 +39673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88fa5686-f2de-5fd5-8692-a4979ebc9ae6",
+        "address": "182-Livingston-Ln-Covington-GA-30016",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1419,
+        "listed_at": "2026-09-21T16:40:04.000Z",
+        "days_on_market": "137",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.992952,
+          33.545412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8930ef10-2551-572b-87e1-43be7e4d88cc",
         "address": "12159-Hawthorne-Dr-Montgomery-TX-77356",
         "beds": 4,
@@ -50419,27 +50440,6 @@
         "coordinates": [
           -83.86776,
           35.99909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aecea456-2b92-42c1-8553-361e7c6244ac",
-        "address": "669-Tundra-Loop-Groveland-FL-34736",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2447,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "36",
-        "current_price": 428000,
-        "price_label": "$428K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.807186,
-          28.611514
         ]
       }
     },
@@ -69913,6 +69913,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f0e5bc54-1ae4-509d-a818-8ece99bd495b",
+        "address": "9701-Black-Bear-Ct-New-Port-Richey-FL-34654",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1868,
+        "listed_at": "2026-09-21T16:40:04.000Z",
+        "days_on_market": "73",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.646873,
+          28.297556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f0e8d7b7-e584-50cf-94f7-0fe6ad4d7ce1",
         "address": "2817-Se-Condor-Ave-Gresham-OR-97080-18377289",
         "beds": 4,
@@ -70432,27 +70453,6 @@
         "coordinates": [
           -82.691444,
           28.384869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f3286c82-416c-5a90-8ac0-e68f37b3b89a",
-        "address": "227-Buck-Johnson-St-Fuquay-Varina-NC-27526",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2880,
-        "listed_at": "2026-09-07T16:50:10.000Z",
-        "days_on_market": "14",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.797066,
-          35.570571
         ]
       }
     },
