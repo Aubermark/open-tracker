@@ -63235,6 +63235,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d9709829-34bc-5fdb-8b35-dcf8dcbc4cd2",
+        "address": "2615-Boulevard-Pl-Indianapolis-IN-46208",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1482,
+        "listed_at": "2026-09-21T12:00:03.000Z",
+        "days_on_market": "45",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.162676,
+          39.804676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9783b9f-0d1a-595c-8a77-084fda0c0fb4",
         "address": "144-Morningside-Ln-Columbia-TN-38401",
         "beds": 2,
