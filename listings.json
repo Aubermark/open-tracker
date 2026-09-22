@@ -58300,6 +58300,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca15892e-0de5-5610-b18e-96850532c8d1",
+        "address": "7111-Pinecroft-Ln-Knoxville-TN-37914",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1739,
+        "listed_at": "2026-09-22T07:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.789281,
+          35.995319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca599c9d-7e62-4da6-9525-e0a8ea2e0263",
         "address": "15376-Coaltown-Rd-Willis-TX-77378",
         "beds": 3,
