@@ -2377,6 +2377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07a3cd62-545e-5fae-8fb2-dd93c74602d4",
+        "address": "1411-Niagara-Falls-Ct-Arlington-TX-76002",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2596,
+        "listed_at": "2026-09-22T22:00:04.000Z",
+        "days_on_market": "54",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.085585,
+          32.629054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07b70c70-1e80-4641-a615-6cc584074001",
         "address": "2838-Davis-Trce-San-Antonio-TX-78245",
         "beds": 3,
@@ -2413,27 +2434,6 @@
         "coordinates": [
           -85.241735,
           35.057327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
-        "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2064,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "200",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.142082,
-          33.510648
         ]
       }
     },
@@ -22075,27 +22075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4a4609a1-ced9-59b5-95fb-50ce63009bbf",
-        "address": "814-Charles-Rd-Shelby-NC-28152",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1483,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "119",
-        "current_price": 219000,
-        "price_label": "$219K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.564929,
-          35.276175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4a699dc0-ecc3-5664-be09-6832e982f7d7",
         "address": "5025-Hillsboro-Pike-Apt-7-A-Nashville-TN-37215",
         "beds": 2,
@@ -29572,27 +29551,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "649f47e1-0a8e-592c-829f-55c647f8d5e6",
-        "address": "4536-Eagles-Nest-Rd-Fruitland-Park-FL-34731",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1314,
-        "listed_at": "2026-09-16T18:00:03.000Z",
-        "days_on_market": "6",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.877553,
-          28.886868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "64d3caaf-239b-550d-879f-6106fbbf0b92",
         "address": "3802-Claude-Brewer-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -35851,27 +35809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7b0a6d29-d94f-5b5d-a5e4-e3c47b1f585a",
-        "address": "137-Deerwood-Oaks-Boerne-TX-78006",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2554,
-        "listed_at": "2026-08-29T01:10:03.000Z",
-        "days_on_market": "25",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.705785,
-          29.746073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7b163059-4b5f-5c6f-a6f2-d43fae2fa0f2",
         "address": "694-Cummins-Ave-Bessemer-AL-35023",
         "beds": 2,
@@ -38743,27 +38680,6 @@
         "coordinates": [
           -83.727643,
           35.820572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "84a853d8-d8b4-56a1-8b88-1b1fefc9f5ed",
-        "address": "25210-S-Wyoming-Ave-Sun-Lakes-AZ-85248",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 970,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "179",
-        "current_price": 294000,
-        "price_label": "$294K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.887297,
-          33.217702
         ]
       }
     },
@@ -66568,27 +66484,6 @@
         "coordinates": [
           -86.726332,
           34.645525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e4abc13e-5e33-54c9-ab92-a9a32dc046ca",
-        "address": "2000-Plainfield-Dr-Orlando-FL-32812",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1020,
-        "listed_at": "2026-08-26T18:00:04.000Z",
-        "days_on_market": "166",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.315253,
-          28.520158
         ]
       }
     },
