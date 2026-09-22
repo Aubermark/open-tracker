@@ -22264,6 +22264,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b9ecb81-e3d0-5549-aa24-981f5197df40",
+        "address": "231-Camp-Ct-Unit-11-Bethlehem-GA-30620",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2250,
+        "listed_at": "2026-09-22T06:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.755753,
+          33.907818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4ba7c503-329b-47eb-8485-866e55eaefec",
         "address": "4066-Calloway-Rd-Raeford-NC-28376",
         "beds": 4,
@@ -39982,6 +40003,27 @@
         "coordinates": [
           -98.414681,
           29.578101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89ede8c9-a3bd-56e5-9c4d-e6cef740ba85",
+        "address": "250-S-Central-St-Atlanta-IN-46031",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1782,
+        "listed_at": "2026-09-22T06:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 115000,
+        "price_label": "$115K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.022686,
+          40.213776
         ]
       }
     },
