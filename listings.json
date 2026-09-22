@@ -24595,6 +24595,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "536656e8-7cc8-591e-9516-28765b59b92c",
+        "address": "15074-Barkwood-Dr-Woodbridge-VA-22193",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3587,
+        "listed_at": "2026-09-22T12:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.333929,
+          38.624287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "536ac4c3-c1a4-5091-bf0d-394e3f6f1f16",
         "address": "13191-El-Rio-Rd-Victorville-CA-92392",
         "beds": 3,
