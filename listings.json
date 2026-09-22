@@ -2440,6 +2440,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07dc6856-de3f-5a31-ba53-7542dbd85a27",
+        "address": "1207-E-Clearview-Dr-Casa-Grande-AZ-85122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2490,
+        "listed_at": "2026-09-22T16:40:06.000Z",
+        "days_on_market": "109",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.735353,
+          32.889932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07ea1db2-2302-5a10-8523-256de25c9f67",
         "address": "4636-Archer-Dr-The-Colony-TX-75056",
         "beds": 3,
@@ -5038,27 +5059,6 @@
         "coordinates": [
           -82.432481,
           27.98821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "10ae8e33-87d9-59b3-ab1c-cc598d220293",
-        "address": "18813-Genova-Bay-Ct-New-Caney-TX-77357",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2212,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "111",
-        "current_price": 249000,
-        "price_label": "$249K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.203977,
-          30.164063
         ]
       }
     },
@@ -24973,6 +24973,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "547254f2-c612-50b7-a7e6-2818d03dbc26",
+        "address": "1213-Whitecreek-Dr-Glenn-Heights-TX-75154",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2122,
+        "listed_at": "2026-09-22T16:40:06.000Z",
+        "days_on_market": "28",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.82657,
+          32.557005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "547ed32a-afa0-547c-b223-7330baf43ad4",
         "address": "4635-Leprechaun-Ln-Winston-Salem-NC-27127",
         "beds": 3,
@@ -32107,27 +32128,6 @@
         "coordinates": [
           -111.105428,
           32.120932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6d581ccc-ea22-5907-95bf-3c3cf39aa52e",
-        "address": "7791-Newhaven-Dr-Oak-Ridge-NC-27310",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4181,
-        "listed_at": "2026-07-30T06:04:08.000Z",
-        "days_on_market": "106",
-        "current_price": 720000,
-        "price_label": "$720K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.968255,
-          36.177815
         ]
       }
     },
@@ -44440,27 +44440,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "98fbdd6c-3024-58e5-953a-6506c3ce80cd",
-        "address": "2142-Falcon-Ridge-Dr-Carrollton-TX-75010",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1492,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "119",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.871519,
-          33.032085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "99041e5a-4819-56be-92df-70a09376d94e",
         "address": "1202-Mc-Cormick-St-Garland-TX-75040",
         "beds": 4,
@@ -53170,27 +53149,6 @@
         "coordinates": [
           -84.763395,
           33.703306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b7348d7a-78c6-573b-a7d1-4416b5cfcbe2",
-        "address": "142-Silvermill-Rd-Columbia-SC-29210",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2224,
-        "listed_at": "2026-09-10T06:10:29.000Z",
-        "days_on_market": "109",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.137577,
-          34.046743
         ]
       }
     },
