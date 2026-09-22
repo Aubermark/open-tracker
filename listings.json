@@ -2104,6 +2104,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06e30653-2592-5131-be9e-5b4d3a501329",
+        "address": "1910-Basinger-Ave-Sw-Palm-Bay-FL-32908",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1518,
+        "listed_at": "2026-09-22T21:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.693462,
+          27.950632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0700f83c-b471-5367-a593-f4e3c5bf08b0",
         "address": "5721-Blackberry-Row-Ellenwood-GA-30294",
         "beds": 3,
@@ -5101,27 +5122,6 @@
         "coordinates": [
           -83.993815,
           33.908616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "10eaacfc-d876-53e4-a390-d1c5589e01b6",
-        "address": "4517-Vanessita-Ct-Laredo-TX-78046",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1330,
-        "listed_at": "2026-08-18T21:40:04.000Z",
-        "days_on_market": "35",
-        "current_price": 180000,
-        "price_label": "$180K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.479811,
-          27.450393
         ]
       }
     },
@@ -49417,27 +49417,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ab343340-79f1-51e7-af28-521e3b8f42e1",
-        "address": "16201-Surfview-Ct-Wildwood-MO-63040",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2507,
-        "listed_at": "2026-09-22T16:00:04.000Z",
-        "days_on_market": "111",
-        "current_price": 441000,
-        "price_label": "$441K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.607923,
-          38.579541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ab3865a7-425a-52b9-a1c6-aa5c7ac2e5fc",
         "address": "2220-Sumac-Dr-Little-Elm-TX-75068",
         "beds": 4,
@@ -72385,6 +72364,27 @@
         "coordinates": [
           -97.683042,
           35.394073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9f16b82-e3cd-53e7-a1a5-827beac68b13",
+        "address": "2886-Oakbranch-Rdg-New-Braunfels-TX-78130",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1758,
+        "listed_at": "2026-09-22T21:20:03.000Z",
+        "days_on_market": "46",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.068001,
+          29.744415
         ]
       }
     },
