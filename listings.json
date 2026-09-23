@@ -34318,6 +34318,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75a78b04-38e1-5dfa-863e-675d70f3c9bc",
+        "address": "252-Queener-Ln-Caryville-TN-37714",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1092,
+        "listed_at": "2026-09-23T07:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 217000,
+        "price_label": "$217K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.182226,
+          36.258142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75ac5104-9a8f-531b-817a-b0a772cc726e",
         "address": "7420-W-Crabapple-Dr-Peoria-AZ-85383",
         "beds": 3,
