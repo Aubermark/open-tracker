@@ -3217,6 +3217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a3de826-c48d-56d9-ba1b-095470cc395f",
+        "address": "20861-Lone-Eagle-Rd-Apple-Valley-CA-92308",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1008,
+        "listed_at": "2026-09-23T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.208584,
+          34.481523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a52517b-c0d1-54de-bb54-579c73dbeacb",
         "address": "10806-W-Elbow-Dr-Tampa-FL-33612",
         "beds": 3,
@@ -6403,6 +6424,27 @@
         "coordinates": [
           -78.546461,
           35.877577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "155e0577-996b-4a88-817d-3806780bec09",
+        "address": "4370-Waters-Edge-Ln-Lebanon-OH-45036",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1846,
+        "listed_at": "2026-09-23T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 359000,
+        "price_label": "$359K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.288025,
+          39.458653
         ]
       }
     },
@@ -14509,27 +14551,6 @@
         "coordinates": [
           -86.464962,
           36.369832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3189587d-4d95-505b-a99b-b545da1dcffa",
-        "address": "27-Russman-Ln-Palm-Coast-FL-32164",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2562,
-        "listed_at": "2026-09-08T13:40:03.000Z",
-        "days_on_market": "15",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.247875,
-          29.513574
         ]
       }
     },
@@ -29398,6 +29419,27 @@
         "coordinates": [
           -82.053826,
           27.980435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "640c4eb9-1ea1-5bae-a49f-5932301757d7",
+        "address": "5706-W-T-Ryan-Ln-Laveen-AZ-85339",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2260,
+        "listed_at": "2026-09-23T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 441000,
+        "price_label": "$441K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.180415,
+          33.390044
         ]
       }
     },
@@ -59071,6 +59113,27 @@
         "coordinates": [
           -83.989182,
           34.044355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc7d8abb-22ec-56df-b93b-752b48a17234",
+        "address": "1881-Old-Daytona-Rd-Deland-FL-32724",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1040,
+        "listed_at": "2026-09-23T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.259478,
+          29.071297
         ]
       }
     },
