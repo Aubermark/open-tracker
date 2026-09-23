@@ -6073,6 +6073,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14558ad2-e985-59a4-9f05-c78f7c762798",
+        "address": "9324-E-Lochnay-Ln-Tucson-AZ-85747",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2156,
+        "listed_at": "2026-09-23T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.793343,
+          32.107815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1475108f-389f-58de-addb-a8aa275a755e",
         "address": "1618-Hillside-Dr-Waxahachie-TX-75165",
         "beds": 3,
@@ -16861,27 +16882,6 @@
         "coordinates": [
           -116.958407,
           32.835988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "39fc7d82-1c5e-5582-b714-1617ed18537c",
-        "address": "5321-Abbottswood-Dr-Smyrna-TN-37167",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2670,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "151",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.582438,
-          35.950715
         ]
       }
     },
@@ -33940,6 +33940,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "74d64941-105a-5ce8-af5c-73afedb220ad",
+        "address": "7990-Nw-112th-Ter-Parkland-FL-33076",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2635,
+        "listed_at": "2026-09-23T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1100000,
+        "price_label": "$1.100M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.277631,
+          26.32971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "74d839df-7345-5a04-9f72-371dcab24307",
         "address": "13976-W-Port-Royale-Ln-Surprise-AZ-85379",
         "beds": 4,
@@ -49159,27 +49180,6 @@
         "coordinates": [
           -80.789638,
           35.037593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aa484be6-4452-5918-823c-cde6129e4da6",
-        "address": "16207-N-11th-Pl-Phoenix-AZ-85022",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2039,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "96",
-        "current_price": 575000,
-        "price_label": "$575K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.057023,
-          33.633486
         ]
       }
     },
