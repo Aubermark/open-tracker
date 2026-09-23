@@ -27178,27 +27178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5c9e2ec2-16cf-512c-9324-53f3e8458208",
-        "address": "1374-El-Nita-Ln-Hemet-CA-92544",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 930,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "55",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.957648,
-          33.746417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ca3e25a-843f-5aac-9a4c-263db5d0f34d",
         "address": "506-S-Foley-St-Seymour-TX-76380",
         "beds": 2,
@@ -58237,6 +58216,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c9729bb2-6490-5478-be9b-08f5a3b57f00",
+        "address": "8515-N-192nd-Ave-Waddell-AZ-85355",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3287,
+        "listed_at": "2026-09-23T18:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 900000,
+        "price_label": "$900K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.471253,
+          33.559432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c97cc22b-ff0a-53f7-b13c-70b37350cab4",
         "address": "20-Falling-Leaf-Dr-Youngsville-NC-27596",
         "beds": 3,
@@ -67891,6 +67891,27 @@
         "coordinates": [
           -86.822171,
           33.34861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9c8c1ae-434b-5c59-a833-718fdd6a6aa0",
+        "address": "14214-Cold-Harbour-Dr-Accokeek-MD-20607",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3152,
+        "listed_at": "2026-09-23T18:10:03.000Z",
+        "days_on_market": "181",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.972046,
+          38.69358
         ]
       }
     },
