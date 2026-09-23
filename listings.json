@@ -24805,6 +24805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5441ef52-f2d4-5a53-a6b0-2ed96b2cf0e8",
+        "address": "12634-Old-Pond-Rd-Noblesville-IN-46060",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2426,
+        "listed_at": "2026-09-23T23:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.940839,
+          40.013436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5442cdcd-9300-5b32-9989-7b79e5e42d0b",
         "address": "1923-Lakewood-Ct-Chatham-IL-62629",
         "beds": 5,
@@ -32779,6 +32800,27 @@
         "coordinates": [
           -117.443803,
           34.073298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7105bc57-52c6-5512-ad1d-c904047fe434",
+        "address": "12032-Orange-St-Norwalk-CA-90650",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1624,
+        "listed_at": "2026-09-23T23:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.077642,
+          33.902568
         ]
       }
     },
@@ -52288,27 +52330,6 @@
         "coordinates": [
           -82.018616,
           33.399997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b52d3060-68c8-53ea-a7ee-3cf8a539fb85",
-        "address": "3737-Winterberry-Ct-Nw-Concord-NC-28027",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2182,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "40",
-        "current_price": 396000,
-        "price_label": "$396K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.634641,
-          35.401476
         ]
       }
     },
