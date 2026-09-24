@@ -4918,6 +4918,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1045a814-df91-51eb-b081-afa01208dfef",
+        "address": "4399-E-Bluebird-Ct-Gurnee-IL-60031",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2384,
+        "listed_at": "2026-09-24T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911727,
+          42.365818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "107da636-5ee9-50da-8a10-24b5d651983d",
         "address": "4683-Ladd-Springs-Rd-Old-Fort-TN-37362",
         "beds": 3,
@@ -21061,27 +21082,6 @@
         "coordinates": [
           -106.668249,
           35.189919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "46cdce55-4b38-5b20-ab9f-cad358c59872",
-        "address": "7704-Simon-Ridge-Ct-Kissimmee-FL-34747",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1718,
-        "listed_at": "2026-09-21T20:00:03.000Z",
-        "days_on_market": "3",
-        "current_price": 358000,
-        "price_label": "$358K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.599577,
-          28.299017
         ]
       }
     },
@@ -42424,27 +42424,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "912f92d8-9a3e-56ed-9d2f-f247cc92db0a",
-        "address": "109-Jolie-Ln-Sharpsburg-GA-30277",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3421,
-        "listed_at": "2026-09-12T07:40:12.000Z",
-        "days_on_market": "13",
-        "current_price": 825000,
-        "price_label": "$825K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.642329,
-          33.419914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "914e4e03-5424-579e-a9e7-ed7c85121aed",
         "address": "4720-Topsail-Ct-Charlotte-NC-28212",
         "beds": 3,
@@ -43264,27 +43243,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "94af793a-07a7-5c0e-a6a2-022116c2f5cc",
-        "address": "3609-Millington-Dr-Clarksville-TN-37040",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2085,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "92",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.295408,
-          36.618917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "94bf6c50-1d6b-500b-8b60-8ede7afa4d36",
         "address": "1480-Sw-47th-Ave-Deerfield-Beach-FL-33442",
         "beds": 2,
@@ -43846,6 +43804,27 @@
         "coordinates": [
           -93.415192,
           44.487566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "962df13b-e538-528e-81e9-8944db947809",
+        "address": "507-Abu-Bakar-Dr-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-09-24T16:30:04.000Z",
+        "days_on_market": "58",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.759603,
+          31.067184
         ]
       }
     },
@@ -44938,27 +44917,6 @@
         "coordinates": [
           -76.997425,
           38.983611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "99f9010a-2a43-5ae1-80af-87a761318a93",
-        "address": "3514-Nettle-Ln-Ne-Roswell-GA-30075-14485372",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1882,
-        "listed_at": "2026-08-06T05:16:42.000Z",
-        "days_on_market": "117",
-        "current_price": 540000,
-        "price_label": "$540K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.430358,
-          34.035683
         ]
       }
     },
@@ -55186,27 +55144,6 @@
         "coordinates": [
           -97.823645,
           30.627174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bcb99aa4-ecc7-5a15-86d9-c1c4ed9d7a73",
-        "address": "520-Patriot-Way-West-Union-SC-29696",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2003,
-        "listed_at": "2026-09-05T19:30:03.000Z",
-        "days_on_market": "42",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.030692,
-          34.753555
         ]
       }
     },
@@ -73351,6 +73288,27 @@
         "coordinates": [
           -95.596348,
           29.94644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc3cb4a3-c4cc-5a58-ba3a-bbf8a4c53c09",
+        "address": "20710-Miller-Ave-Cleveland-OH-44119",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1504,
+        "listed_at": "2026-09-24T16:30:04.000Z",
+        "days_on_market": "175",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.535856,
+          41.588453
         ]
       }
     },
