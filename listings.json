@@ -18295,6 +18295,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3ed4f249-cc9d-56b8-a4f9-fa225998cf9d",
+        "address": "6309-Pine-Cove-Ln-Jacksonville-FL-32211",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1365,
+        "listed_at": "2026-09-24T00:50:03.000Z",
+        "days_on_market": "64",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.591924,
+          30.347042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3ed8f2fd-269f-5ac6-9efc-e953c7f6ec76",
         "address": "3009-Melbourne-Ct-E-Mount-Juliet-TN-37122",
         "beds": 5,
@@ -29335,6 +29356,27 @@
         "coordinates": [
           -82.409112,
           27.732281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "63fb2b9e-715f-5ccd-b774-9152cdabe985",
+        "address": "917-N-Miller-Dr-Tucson-AZ-85710",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2149,
+        "listed_at": "2026-09-24T00:50:03.000Z",
+        "days_on_market": "35",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.805553,
+          32.23232
         ]
       }
     },
