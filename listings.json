@@ -3343,6 +3343,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0acd5365-651c-591f-85c5-fdec75f0525f",
+        "address": "5209-Sw-128th-Pl-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1335,
+        "listed_at": "2026-09-24T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20726,
+          29.03598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ad01e18-6ed9-56bd-ba94-1c1b1d6fe5f2",
         "address": "106-Millbranch-Ln-Statesville-NC-28625",
         "beds": 4,
@@ -9658,27 +9679,6 @@
         "coordinates": [
           -97.892507,
           31.131707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2190907b-bf18-58b8-914a-73ccf90c8fee",
-        "address": "8301-N-47th-Dr-Glendale-AZ-85302",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2052,
-        "listed_at": "2026-09-17T06:29:08.000Z",
-        "days_on_market": "8",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.160588,
-          33.557069
         ]
       }
     },
@@ -18835,6 +18835,27 @@
         "coordinates": [
           -81.177243,
           34.093673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3ff05e7c-6059-5237-b362-26b30a2936bd",
+        "address": "5328-16th-St-W-Bradenton-FL-34207",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1180,
+        "listed_at": "2026-09-24T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57892,
+          27.446029
         ]
       }
     },
@@ -49207,6 +49228,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a91e5991-e562-5c61-9f00-9b21db37346b",
+        "address": "9805-Heaton-Ct-Orlando-FL-32817",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1886,
+        "listed_at": "2026-09-24T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24916,
+          28.594482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a920bb2f-a466-59f5-845f-730ecf9eeba2",
         "address": "1127-Aurora-Ct-Atlanta-GA-30338",
         "beds": 3,
@@ -51622,27 +51664,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b10d0a11-063e-5fe8-a3e4-2d0178cedf8b",
-        "address": "1501-S-Roxboro-St-Durham-NC-27707",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1033,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "94",
-        "current_price": 277000,
-        "price_label": "$277K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.905571,
-          35.979473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b1281cc3-c8c4-5509-983d-97c88319427a",
         "address": "4636-Pine-Acre-Cir-Sugar-Hill-GA-30518",
         "beds": 4,
@@ -52645,27 +52666,6 @@
         "coordinates": [
           -95.534947,
           30.025546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b4bae9a1-5fd8-5a59-8f27-f8dcdfbc2bc5",
-        "address": "1630-Tigris-Ct-Atlanta-GA-30349",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1922,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "211",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.44597,
-          33.603191
         ]
       }
     },
@@ -54199,27 +54199,6 @@
         "coordinates": [
           -84.473845,
           33.98709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b96449e5-d9f5-569e-9562-e34fdf5d816a",
-        "address": "113-Eason-St-Bowdon-GA-30108",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1152,
-        "listed_at": "2026-09-19T06:15:45.000Z",
-        "days_on_market": "6",
-        "current_price": 125000,
-        "price_label": "$125K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.264305,
-          33.537901
         ]
       }
     },
@@ -66826,27 +66805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e3aa91bb-762a-5237-b960-ff5253654df9",
-        "address": "905-Ridgemont-Dr-Allen-TX-75002",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2800,
-        "listed_at": "2026-09-03T05:50:13.000Z",
-        "days_on_market": "58",
-        "current_price": 455000,
-        "price_label": "$455K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.659754,
-          33.082485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e3b01b8b-5e28-5b15-ae24-cbca0b38f5a4",
         "address": "510-E-5400-S-Ogden-UT-84405",
         "beds": 3,
@@ -70348,6 +70306,27 @@
         "coordinates": [
           -81.335501,
           29.839085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef74bcf1-046c-5ef7-8855-3124960f8273",
+        "address": "7002-Crockett-Ridge-Dr-Richmond-TX-77406",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2480,
+        "listed_at": "2026-09-24T21:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.757032,
+          29.673201
         ]
       }
     },
