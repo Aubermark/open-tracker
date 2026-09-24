@@ -12520,6 +12520,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b15e6e7-68e7-5cda-bc6f-bf5679809c8b",
+        "address": "5914-Deal-Ave-Nashville-TN-37209",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1600,
+        "listed_at": "2026-09-24T13:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.865225,
+          36.155365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b1aa1d8-01c4-561c-85ce-efbbafbb244a",
         "address": "1314-S-Braddock-St-Winchester-VA-22601",
         "beds": 2,
@@ -17218,6 +17239,27 @@
         "coordinates": [
           -81.785259,
           28.832156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b1e11a4-f8fe-5784-b2f1-141de5c30e3b",
+        "address": "1001-Stanbery-Cir-Greeneville-TN-37745",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1400,
+        "listed_at": "2026-09-24T13:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.803788,
+          36.163775
         ]
       }
     },
@@ -25162,6 +25204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "556ae6fc-c678-5b90-8957-53143753c890",
+        "address": "5438-Cold-Spring-Ln-North-Port-FL-34291",
+        "beds": 3,
+        "baths": 4,
+        "sqft": 2512,
+        "listed_at": "2026-09-24T13:40:03.000Z",
+        "days_on_market": "27",
+        "current_price": 776000,
+        "price_label": "$776K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.207769,
+          27.114357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "559072f9-f9b1-5a4e-b05a-7195e3bb6aa1",
         "address": "8509-Ivoryton-Way-Montgomery-Village-MD-20886",
         "beds": 3,
@@ -31000,27 +31063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6a6f6abf-f195-5747-b980-cb79d60e89f7",
-        "address": "200-Kinsale-Dr-Spring-Hill-TN-37174",
-        "beds": 2,
-        "baths": 3.5,
-        "sqft": 1884,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "80",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.941426,
-          35.750157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6a7a6d49-efc3-5671-a96b-d83e401d3104",
         "address": "145-Saks-Ave-Lexington-SC-29072",
         "beds": 5,
@@ -31897,27 +31939,6 @@
         "coordinates": [
           -82.165863,
           28.961467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6cc13921-4180-5247-b5f8-72810bd5f526",
-        "address": "802-W-Tipton-Dr-Tucson-AZ-85705",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1250,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": ">214",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.984567,
-          32.255064
         ]
       }
     },
@@ -66085,6 +66106,27 @@
         "coordinates": [
           -111.710498,
           33.618187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2f044aa-4dab-5065-b094-8fb7e52ee1bf",
+        "address": "623-Washburn-Ave-Louisville-KY-40222",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1465,
+        "listed_at": "2026-09-24T13:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.616651,
+          38.260381
         ]
       }
     },
