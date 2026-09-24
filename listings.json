@@ -1222,27 +1222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "02cadb88-de8d-590e-86d2-4ac2bb63c6d4",
-        "address": "10619-Skye-Paseo-Ave-Las-Vegas-NV-89166",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2508,
-        "listed_at": "2026-09-14T19:00:04.000Z",
-        "days_on_market": "90",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.327326,
-          36.310207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "02d9a63c-d652-5aec-a4e7-8f02bbb462ec",
         "address": "415-Hawkins-Rd-Clarksville-TN-37040",
         "beds": 3,
@@ -16420,6 +16399,27 @@
         "coordinates": [
           -112.408505,
           33.437586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "388a52ca-1054-5c03-82b3-2dd0a217972c",
+        "address": "4659-Spring-Glen-Dr-House-Springs-MO-63051",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-09-24T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.57157,
+          38.406458
         ]
       }
     },
@@ -40933,27 +40933,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8c805a8d-5f4a-5069-aa04-fa8cee1197bd",
-        "address": "619-Samet-St-Fort-Mill-SC-29715",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2092,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "28",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.919988,
-          35.076323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8c9fe7e4-248b-50a2-85ce-9c4a95ee593d",
         "address": "106-Briarcliff-Dr-San-Antonio-TX-78213",
         "beds": 4,
@@ -42103,6 +42082,27 @@
         "coordinates": [
           -115.284107,
           36.122991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "90259fa1-8eaf-5311-b95e-5d7798569108",
+        "address": "1014-Maple-Leaf-Rdg-Jonesboro-GA-30238",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1353,
+        "listed_at": "2026-09-24T17:50:04.000Z",
+        "days_on_market": "104",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.359151,
+          33.46624
         ]
       }
     },
@@ -56110,6 +56110,27 @@
         "coordinates": [
           -96.640763,
           33.116196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c02f0da3-7dbc-5f78-8acc-801f366e34f9",
+        "address": "7086-N-Avenida-Adella-Tucson-AZ-85741",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1468,
+        "listed_at": "2026-09-24T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.029856,
+          32.335291
         ]
       }
     },
