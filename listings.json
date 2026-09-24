@@ -27283,6 +27283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5cf3a375-949a-5fa1-b5df-a3e6e34523f5",
+        "address": "12531-81st-Pl-Ne-Kirkland-WA-98034",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1760,
+        "listed_at": "2026-09-24T03:20:03.000Z",
+        "days_on_market": "61",
+        "current_price": 1060000,
+        "price_label": "$1.060M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.233491,
+          47.713029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d22bece-99a7-5c3e-b04a-5b9aad338d14",
         "address": "7233-Thomas-Jefferson-Cir-W-Bartow-FL-33830-18501533",
         "beds": 2,
