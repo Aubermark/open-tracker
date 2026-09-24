@@ -46414,27 +46414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a141af53-cf5f-51ee-9783-7e323de37d4e",
-        "address": "429-Playful-Meadows-Dr-Ne-Rio-Rancho-NM-87144",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2180,
-        "listed_at": "2026-08-20T06:22:39.000Z",
-        "days_on_market": "77",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.726365,
-          35.320063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a154f7a4-a9b8-5723-b644-d13f0625e17b",
         "address": "5624-Shady-Springs-Trl-Fort-Worth-TX-76179",
         "beds": 2,
@@ -52687,6 +52666,27 @@
         "coordinates": [
           -96.688965,
           32.865669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b65ef11d-2f72-5da9-ba1c-bfebe9cab6bc",
+        "address": "112-Coquina-Bay-Dr-Saint-Petersburg-FL-33705",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1538,
+        "listed_at": "2026-09-24T00:10:04.000Z",
+        "days_on_market": "47",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.635371,
+          27.734072
         ]
       }
     },
@@ -61654,6 +61654,27 @@
         "coordinates": [
           -82.659207,
           27.790437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d46c2e7f-bffd-546b-9a69-2c673d696e2b",
+        "address": "4847-Tower-Rd-Apt-C-Greensboro-NC-27410",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1450,
+        "listed_at": "2026-09-24T00:10:04.000Z",
+        "days_on_market": "163",
+        "current_price": 209000,
+        "price_label": "$209K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.875493,
+          36.075624
         ]
       }
     },
