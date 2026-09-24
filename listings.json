@@ -27262,6 +27262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5cad9c6a-e3af-528b-9380-f54bf88cf2ff",
+        "address": "66669-2nd-St-Desert-Hot-Springs-CA-92240",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1245,
+        "listed_at": "2026-09-24T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.497377,
+          33.963007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5cb09ac0-02b0-5f8a-95d2-86fd9e3cd88f",
         "address": "815-Parnell-Ct-Columbia-SC-29229",
         "beds": 3,
@@ -47164,6 +47185,27 @@
         "coordinates": [
           -81.315371,
           28.798917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a3118503-66f1-50dc-af84-0691c8944d06",
+        "address": "541-W-Lake-Brantley-Rd-Altamonte-Springs-FL-32714",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3100,
+        "listed_at": "2026-09-24T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 710000,
+        "price_label": "$710K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.431096,
+          28.66987
         ]
       }
     },
@@ -70894,6 +70936,27 @@
         "coordinates": [
           -93.091264,
           44.916861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f1f728df-fbac-5900-9a4d-5f8cf0fc9d07",
+        "address": "3311-Pond-Pine-Rd-Saint-Cloud-FL-34773",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2366,
+        "listed_at": "2026-09-24T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 344000,
+        "price_label": "$344K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150327,
+          28.201212
         ]
       }
     },
