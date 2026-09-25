@@ -13402,6 +13402,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c6b83b8-3d6a-58e0-9c53-067418611064",
+        "address": "1809-Love-Rd-Monroe-NC-28110",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1084,
+        "listed_at": "2026-09-25T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.592849,
+          35.014902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c720979-8434-5e39-bc0d-7922ae89bfd5",
         "address": "5363-Reber-Pl-Saint-Louis-MO-63139",
         "beds": 3,
@@ -35557,6 +35578,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "77cad7e7-fcdd-5e81-b24a-2f095eb69f6f",
+        "address": "1900-Cedar-Ct-Clayton-NC-27520",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1393,
+        "listed_at": "2026-09-25T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.510172,
+          35.657147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77e73725-a353-53a7-a0d3-e4ee2e1222bb",
         "address": "2516-Milagro-Ridge-Ct-Ne-Rio-Rancho-NM-87124",
         "beds": 4,
@@ -42943,27 +42985,6 @@
         "coordinates": [
           -78.630099,
           33.879729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "923cbfd1-2d9c-525d-933c-5d59791916dc",
-        "address": "166-Kirby-Dr-Clarksville-TN-37042",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2197,
-        "listed_at": "2026-08-27T05:57:15.000Z",
-        "days_on_market": "113",
-        "current_price": 289000,
-        "price_label": "$289K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.408257,
-          36.569911
         ]
       }
     },
@@ -67135,27 +67156,6 @@
         "coordinates": [
           -85.616651,
           38.260381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2f1ca19-5a2b-5788-93f9-4b6b12f9f5dd",
-        "address": "6735-Carmel-Hills-Dr-Charlotte-NC-28226-18511200",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1677,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "37",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.834022,
-          35.099697
         ]
       }
     },
