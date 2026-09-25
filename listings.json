@@ -17980,27 +17980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3cc352bd-6966-5f35-a85c-f1aa1f2405cb",
-        "address": "626-S-67th-St-Tampa-FL-33619",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 886,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "98",
-        "current_price": 247000,
-        "price_label": "$247K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.380386,
-          27.94196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3ce586ab-dfc6-4728-933f-2e5a4c36c49a",
         "address": "7463-Buckview-Ct-Kernersville-NC-27284",
         "beds": 4,
@@ -28144,6 +28123,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5eddb615-cf62-559f-b488-f33216791852",
+        "address": "3209-Tampa-Ave-Cleveland-OH-44109",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1152,
+        "listed_at": "2026-09-25T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.704873,
+          41.432366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5eee9b39-b19f-5907-80b6-d9f8d40aaea5",
         "address": "1910-Tawakani-Ln-Little-Elm-TX-75068",
         "beds": 3,
@@ -35068,27 +35068,6 @@
         "coordinates": [
           -84.790486,
           33.461302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "76f4a8c5-e422-56cf-9130-aa0f9390b119",
-        "address": "3117-Verdugo-Dr-Raleigh-NC-27610",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1222,
-        "listed_at": "2026-09-14T17:04:26.000Z",
-        "days_on_market": "105",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.610879,
-          35.737917
         ]
       }
     },
@@ -46219,6 +46198,27 @@
         "coordinates": [
           -122.866639,
           45.753714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9ea951e4-151a-522f-8348-95801eda8342",
+        "address": "1803-High-Meadow-St-Glenn-Heights-TX-75154",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 4432,
+        "listed_at": "2026-09-25T13:20:04.000Z",
+        "days_on_market": "11",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.831057,
+          32.557255
         ]
       }
     },
