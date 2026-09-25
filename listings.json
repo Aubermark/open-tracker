@@ -12079,6 +12079,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28f86b23-355b-5025-9c0f-dd78705eb5fe",
+        "address": "3349-Celon-Dr-Corpus-Christi-TX-78418",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1963,
+        "listed_at": "2026-09-25T06:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.302379,
+          27.630002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "290bdbe5-74ee-52dc-b597-cc50279c8b40",
         "address": "155-Liberty-Pl-Sw-Calhoun-GA-30701",
         "beds": 3,
