@@ -4057,6 +4057,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cfd4a11-cb20-59dd-8d5f-2fd8001a5929",
+        "address": "3409-Constance-St-Titusville-FL-32796",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1274,
+        "listed_at": "2026-09-25T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 284000,
+        "price_label": "$284K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.848498,
+          28.590044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d0b7690-359b-4d85-9852-761be5de9622",
         "address": "2112-Elio-Ridge-Dr-Zellwood-FL-32798",
         "beds": 3,
@@ -11491,6 +11512,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27058852-3aec-53bf-97ac-4aa9357d17d5",
+        "address": "2617-Silver-Hill-Dr-Fort-Worth-TX-76131",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1727,
+        "listed_at": "2026-09-25T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.323038,
+          32.853861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "271c343e-2b53-5d85-9d95-1c739222c775",
         "address": "7221-Durand-Dr-Irving-TX-75063",
         "beds": 6,
@@ -15166,27 +15208,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32f1d790-d782-5f26-a86e-96a6b06112c7",
-        "address": "4849-S-Albacete-Ave-Tucson-AZ-85746",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2329,
-        "listed_at": "2026-09-17T14:20:02.000Z",
-        "days_on_market": "8",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.001445,
-          32.164209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32ffee01-44cb-5e52-8fe3-35adabd6e5e6",
         "address": "7906-Elphin-Ct-Charlotte-NC-28270",
         "beds": 4,
@@ -18478,6 +18499,27 @@
         "coordinates": [
           -121.974362,
           38.302423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3e7095bb-b905-5476-85ea-95165254fa97",
+        "address": "1618-Woodcrest-Ln-Carrollton-TX-75006",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1976,
+        "listed_at": "2026-09-25T17:20:04.000Z",
+        "days_on_market": "91",
+        "current_price": 369000,
+        "price_label": "$369K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894901,
+          32.980988
         ]
       }
     },
@@ -26737,27 +26779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "59954489-8d54-5684-ac43-4fa22b7a5a3d",
-        "address": "7537-Fairfield-Rd-Brooklyn-Park-MN-55444",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1713,
-        "listed_at": "2026-09-10T22:20:03.000Z",
-        "days_on_market": "15",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.288746,
-          45.092482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59bd0afc-b300-590d-8d25-2abb1a534f17",
         "address": "3363-Lakeside-Pl-Hermitage-TN-37076",
         "beds": 2,
@@ -28285,27 +28306,6 @@
         "coordinates": [
           -81.704873,
           41.432366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5eee9b39-b19f-5907-80b6-d9f8d40aaea5",
-        "address": "1910-Tawakani-Ln-Little-Elm-TX-75068",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1958,
-        "listed_at": "2026-09-12T07:40:12.000Z",
-        "days_on_market": "14",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.906791,
-          33.165394
         ]
       }
     },
@@ -47779,27 +47779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a36a33dc-71c5-5284-93bd-7d5cdb217542",
-        "address": "6320-Ian-Chad-Dr-E-Jacksonville-FL-32244",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1392,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "66",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.777291,
-          30.235042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a36ae1d1-c615-5c34-aeb4-76a3cb2dd875",
         "address": "9155-Nesbit-Ferry-Rd-Unit-53-Alpharetta-GA-30022",
         "beds": 3,
@@ -51994,6 +51973,27 @@
         "coordinates": [
           -111.5343,
           33.245956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b1021313-f15e-5d89-8c93-ee78bada0955",
+        "address": "4427-W-Dahlia-Dr-Glendale-AZ-85304",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1862,
+        "listed_at": "2026-09-25T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.154011,
+          33.60258
         ]
       }
     },
@@ -56809,6 +56809,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c09fb56d-2b4e-5bcd-825c-1cb0523d36fd",
+        "address": "22-Yale-Rd-Atco-NJ-08004",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1938,
+        "listed_at": "2026-09-25T17:20:04.000Z",
+        "days_on_market": "95",
+        "current_price": 399000,
+        "price_label": "$399K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.901645,
+          39.765835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0be37ba-bbfc-5abe-8de7-37deb886e78c",
         "address": "87-Buxton-Ln-Boynton-Beach-FL-33426",
         "beds": 3,
@@ -58147,27 +58168,6 @@
         "coordinates": [
           -106.641628,
           35.303331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c5ada580-0cbb-5ae5-bc0f-c87d9eb05cc3",
-        "address": "1824-Sierra-Norte-Loop-Ne-Rio-Rancho-NM-87144",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2224,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "37",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.700238,
-          35.276131
         ]
       }
     },
@@ -73435,6 +73435,27 @@
         "coordinates": [
           -95.606505,
           32.717628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9b583bc-a0db-5949-b7a4-af2bdd724298",
+        "address": "4143-White-Kestrel-Dr-Raleigh-NC-27616",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2220,
+        "listed_at": "2026-09-25T17:20:04.000Z",
+        "days_on_market": "35",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.518429,
+          35.867874
         ]
       }
     },
