@@ -928,6 +928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "020e318d-ba1e-55d6-bbe9-ded71d55e864",
+        "address": "4322-Sunny-Creek-Pl-Kissimmee-FL-34746",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-09-26T14:20:04.000Z",
+        "days_on_market": "159",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.457151,
+          28.24761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "020e65f2-b4ec-55c6-b436-a307ee76e03e",
         "address": "1502-Clearfield-Cir-Severn-MD-21144",
         "beds": 2,
@@ -35851,6 +35872,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "783c35c7-0b95-5332-949a-4f3455d277eb",
+        "address": "142-Canterbury-Xing-Fort-Mill-SC-29708",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4033,
+        "listed_at": "2026-09-26T14:20:03.000Z",
+        "days_on_market": "159",
+        "current_price": 726000,
+        "price_label": "$726K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.963566,
+          35.067046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "788589f1-299e-5691-8076-72b2774ea85a",
         "address": "7023-Shindler-Dr-Jacksonville-FL-32222",
         "beds": 3,
@@ -49663,27 +49705,6 @@
         "coordinates": [
           -94.496004,
           38.920591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a91e5991-e562-5c61-9f00-9b21db37346b",
-        "address": "9805-Heaton-Ct-Orlando-FL-32817",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1886,
-        "listed_at": "2026-09-24T21:50:02.000Z",
-        "days_on_market": "2",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.24916,
-          28.594482
         ]
       }
     },
@@ -67450,27 +67471,6 @@
         "coordinates": [
           -105.056045,
           39.581534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e3ec08cb-595c-5519-aee2-ff2b8b5de3dc",
-        "address": "8808-Sprouted-Ln-Wake-Forest-NC-27587",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3154,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "61",
-        "current_price": 662000,
-        "price_label": "$662K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.559231,
-          36.01926
         ]
       }
     },
