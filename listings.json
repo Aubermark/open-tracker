@@ -64684,6 +64684,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d9a0e762-2354-4e8b-a099-9a2439e08315",
+        "address": "174-Pecan-St-Danielsville-GA-30633",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1689,
+        "listed_at": "2026-09-26T10:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.290812,
+          34.168878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9ae25e1-5a35-594e-8c88-d3a69aa3fe1b",
         "address": "6625-Steen-St-Canal-Winchester-OH-43110",
         "beds": 3,
