@@ -4330,6 +4330,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d93b3b5-3152-5571-a84d-a71b851fa99b",
+        "address": "7301-Meadowbrook-Cir-Knoxville-TN-37918",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 999,
+        "listed_at": "2026-09-26T19:10:04.000Z",
+        "days_on_market": "29",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.982799,
+          36.053152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d93bdc1-6979-53d6-952c-ef338adffd1f",
         "address": "5654-Tower-Rd-Riverside-CA-92506",
         "beds": 3,
@@ -7495,27 +7516,6 @@
         "coordinates": [
           -86.843865,
           36.181653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1881dd3c-b973-503f-9000-d405a07dd292",
-        "address": "5414-Astor-St-Leesburg-FL-34748",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1256,
-        "listed_at": "2026-09-08T13:40:02.000Z",
-        "days_on_market": "18",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.863924,
-          28.715116
         ]
       }
     },
@@ -64384,27 +64384,6 @@
         "coordinates": [
           -98.250097,
           29.517067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d95d80a0-4a90-5158-aceb-cf17a1e7cefb",
-        "address": "5845-Wyndham-Mnr-Vero-Beach-FL-32967",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3400,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "58",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.447276,
-          27.708339
         ]
       }
     },
