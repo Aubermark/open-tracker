@@ -28417,6 +28417,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5eee9b39-b19f-5907-80b6-d9f8d40aaea5",
+        "address": "1910-Tawakani-Ln-Little-Elm-TX-75068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1958,
+        "listed_at": "2026-09-26T21:00:03.000Z",
+        "days_on_market": "15",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.906791,
+          33.165394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5efd524c-00da-51c9-9255-82fd6aee2967",
         "address": "1633-San-Francisco-St-Carrollton-TX-75007",
         "beds": 3,
