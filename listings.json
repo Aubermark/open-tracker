@@ -11638,27 +11638,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "27332d10-35aa-5276-876f-9373e695a7d6",
-        "address": "155-Eagle-Ridge-Dr-Chesnee-SC-29323",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1700,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "16",
-        "current_price": 294000,
-        "price_label": "$294K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.856838,
-          35.15519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "273b9297-7fae-5473-8348-6c1bef32038d",
         "address": "917-Hillview-Dr-Cary-NC-27511",
         "beds": 3,
@@ -35158,27 +35137,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "75f5d3ba-23f5-570d-8b33-c627fbe08b21",
-        "address": "114-Blake-Dr-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1800,
-        "listed_at": "2026-09-18T06:09:31.000Z",
-        "days_on_market": "9",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.201533,
-          32.987053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "75f72c58-19ad-5c0c-981f-5b409ba7c9a4",
         "address": "1994-Pinewood-Dr-Brunswick-OH-44212",
         "beds": 3,
@@ -47647,6 +47605,27 @@
         "coordinates": [
           -81.277297,
           28.676145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2356227-3783-5ed6-b57b-d1a022adfd58",
+        "address": "509-Drake-Ave-Nashville-TN-37211",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 864,
+        "listed_at": "2026-09-26T15:00:04.000Z",
+        "days_on_market": "95",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.746936,
+          36.101793
         ]
       }
     },
