@@ -5485,6 +5485,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "123240be-5e6d-5f69-9057-68cc8b11bb73",
+        "address": "4607-128th-Cir-Ne-Blaine-MN-55449",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3032,
+        "listed_at": "2026-09-27T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.151443,
+          45.202083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "123dc3f9-4f64-5968-bc0f-0a4692bbcc3d",
         "address": "11625-Mica-Pl-Lovettsville-VA-20180",
         "beds": 4,
