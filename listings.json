@@ -53911,6 +53911,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b81874c4-8f27-5a64-924f-38362264d203",
+        "address": "103-Hampshire-Ct-Salisbury-NC-28144",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2978,
+        "listed_at": "2026-09-27T18:10:04.000Z",
+        "days_on_market": "124",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.465602,
+          35.699969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b822e479-7081-57bb-a0c3-ad6cc2cb6dd9",
         "address": "165-Pinewood-Dr-Rock-Spring-GA-30739",
         "beds": 3,
@@ -60925,27 +60946,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d0c40bd3-406e-51b3-a16d-c27fd64f3737",
-        "address": "612-Tahos-Rd-Orinda-CA-94563",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2039,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "67",
-        "current_price": 1399000,
-        "price_label": "$1.399M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.165289,
-          37.882345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d0d6d731-e02d-545b-9b32-a3fa01a542be",
         "address": "3037-Ellington-Dr-Summerville-SC-29485",
         "beds": 4,
@@ -61885,27 +61885,6 @@
         "coordinates": [
           -81.884465,
           31.618663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d386611f-96b9-5add-8ed6-519ff6490f66",
-        "address": "8745-Spring-Canyon-Dr-#-16-Spring-Valley-CA-91977",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1088,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "83",
-        "current_price": 529000,
-        "price_label": "$529K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.010865,
-          32.695387
         ]
       }
     },
