@@ -23230,6 +23230,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4db39029-50ee-46ac-b4ae-ad82c7fb1860",
+        "address": "133-Timber-Crest-Trl-White-Bluff-TN-37187",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2006,
+        "listed_at": "2026-09-28T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22842,
+          36.111459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4db8bddd-40d5-5048-81ca-a42a781ec9fa",
         "address": "4117-Clifton-Ct-Boulder-CO-80301",
         "beds": 3,
@@ -36559,27 +36580,6 @@
         "coordinates": [
           -81.712903,
           30.395849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7c818607-6002-563b-a294-4431cb34647f",
-        "address": "5569-Partridge-Cir-West-Chester-OH-45069",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1564,
-        "listed_at": "2026-09-21T16:00:04.000Z",
-        "days_on_market": "69",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.43756,
-          39.348362
         ]
       }
     },
@@ -70159,6 +70159,27 @@
         "coordinates": [
           -84.39546,
           33.739407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0389b7d-8333-54c4-8091-1317d49041f7",
+        "address": "652-White-Face-Dr-Clarksville-TN-37040",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-09-28T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.272942,
+          36.570389
         ]
       }
     },
