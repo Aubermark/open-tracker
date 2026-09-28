@@ -2860,27 +2860,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "09050ad2-42b8-5091-9f51-49de2c362731",
-        "address": "5503-Antioch-Rd-Oxford-NC-27565",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1170,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "202",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.545962,
-          36.304888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0905308d-3015-5d9f-946f-8a3cb663cf72",
         "address": "22906-Sherioaks-Ln-Spring-TX-77389",
         "beds": 3,
@@ -6031,6 +6010,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "144193f6-04c9-4e13-90d5-cd499172ed5f",
+        "address": "618-Paul-Cyn-San-Antonio-TX-78253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2173,
+        "listed_at": "2026-09-28T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.785819,
+          29.427424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14558ad2-e985-59a4-9f05-c78f7c762798",
         "address": "9324-E-Lochnay-Ln-Tucson-AZ-85747",
         "beds": 4,
@@ -6130,6 +6130,27 @@
         "coordinates": [
           -81.950833,
           33.468854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "149c90c6-36a8-51cd-8a3d-2a8356d7c0c7",
+        "address": "6800-Havenhurst-Dr-Sacramento-CA-95831",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1488,
+        "listed_at": "2026-09-28T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 546000,
+        "price_label": "$546K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.520457,
+          38.504069
         ]
       }
     },
@@ -35830,27 +35851,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7a302961-8b9c-532a-a1a0-475412e69c9d",
-        "address": "8404-S-Brookline-Ave-Oklahoma-City-OK-73159",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 934,
-        "listed_at": "2026-09-19T14:10:03.000Z",
-        "days_on_market": "82",
-        "current_price": 110000,
-        "price_label": "$110K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.567897,
-          35.382868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7a32f14a-f83f-5998-bd9f-7dcb046468f6",
         "address": "10708-W-Chautauga-Mtn-Littleton-CO-80127",
         "beds": 4,
@@ -64069,6 +64069,27 @@
         "coordinates": [
           -84.016018,
           33.593136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da5d80e6-0c49-538c-b5b4-51d65fc33635",
+        "address": "1830-Bellgrove-St-Lakeland-FL-33805",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1174,
+        "listed_at": "2026-09-28T14:30:04.000Z",
+        "days_on_market": "188",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.985938,
+          28.068904
         ]
       }
     },
