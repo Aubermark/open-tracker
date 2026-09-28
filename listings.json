@@ -5905,6 +5905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13b5559c-748e-58a4-bc8c-e48336bdbda1",
+        "address": "2627-Glenbrook-Ln-Conyers-GA-30012",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2363,
+        "listed_at": "2026-09-28T13:10:03.000Z",
+        "days_on_market": "152",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969602,
+          33.688202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13dacae3-7ed9-5c51-96ba-d18cfd6bd615",
         "address": "19-Rivanna-Dr-Anderson-SC-29625",
         "beds": 4,
