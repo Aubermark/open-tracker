@@ -13612,6 +13612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d18d927-3231-49c7-9dd9-1c247cef76a7",
+        "address": "30-Sunrise-Ct-Spring-Hope-NC-27882",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2232,
+        "listed_at": "2026-09-29T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.201706,
+          35.928705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d22871f-2a6b-564a-9062-101abd56688c",
         "address": "801-Marvin-Layne-Rd-Mount-Juliet-TN-37122",
         "beds": 3,
@@ -14551,6 +14572,27 @@
         "coordinates": [
           -78.580631,
           35.830294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "30abc7e6-4c62-5b73-a022-b040856169fe",
+        "address": "12330-Deerhurst-Dr-Midlothian-VA-23113",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1299,
+        "listed_at": "2026-09-29T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.634595,
+          37.514636
         ]
       }
     },
@@ -20662,6 +20704,27 @@
         "coordinates": [
           -97.113763,
           33.245389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "44605819-2da6-54c3-8198-af88a9c99608",
+        "address": "6908-Laurdane-Rd-Raleigh-NC-27613",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1537,
+        "listed_at": "2026-09-29T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 411000,
+        "price_label": "$411K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.735554,
+          35.941054
         ]
       }
     },
@@ -32239,27 +32302,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6c047e77-1b24-5eca-9f55-4f8bf5f0af79",
-        "address": "10330-E-Weaver-Pl-Englewood-CO-80111",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2373,
-        "listed_at": "2026-09-11T18:20:04.000Z",
-        "days_on_market": "158",
-        "current_price": 684000,
-        "price_label": "$684K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.869563,
-          39.599274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6c095478-0818-5470-954e-997a68c7f8c5",
         "address": "3911-Teal-Vista-Ct-Fresno-TX-77545",
         "beds": 3,
@@ -43531,27 +43573,6 @@
         "coordinates": [
           -86.834939,
           36.122946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "94c8daeb-a366-52f4-8a9a-4c2f8e0e1c16",
-        "address": "10502-Bessemer-St-Houston-TX-77034",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1840,
-        "listed_at": "2026-09-10T06:10:26.000Z",
-        "days_on_market": "63",
-        "current_price": 229000,
-        "price_label": "$229K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.226612,
-          29.637681
         ]
       }
     },
@@ -55444,27 +55465,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bc2608b0-ef84-4fa8-b48e-23ec9b4a3e57",
-        "address": "3468-Se-Silver-Fox-Ave-Hillsboro-OR-97123",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2947,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "20",
-        "current_price": 579000,
-        "price_label": "$579K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.921979,
-          45.495143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bc3cd675-63e5-5c75-8dad-66d136f290e4",
         "address": "1459-N-Avenue-57-Los-Angeles-CA-90042",
         "beds": 3,
@@ -63733,27 +63733,6 @@
         "coordinates": [
           -104.707133,
           38.726351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d772c725-1c85-50f6-841c-c02ce401d60a",
-        "address": "133-Danzid-Dr-Summerville-SC-29483",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2042,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "76",
-        "current_price": 324000,
-        "price_label": "$324K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.230257,
-          32.993541
         ]
       }
     },
