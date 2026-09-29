@@ -1831,6 +1831,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0564c70b-d657-51f0-9b0a-b94909f606a3",
+        "address": "3417-Beulah-Rd-Smoaks-SC-29481",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1154,
+        "listed_at": "2026-09-29T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.860539,
+          33.103593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "056697a8-19ec-5f00-b1e9-c35379623b04",
         "address": "912-Amsterdam-Dr-Colorado-Springs-CO-80907",
         "beds": 3,
@@ -46834,6 +46855,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1d491fe-f54a-56a2-9785-b080398a4b4d",
+        "address": "117-Sundance-Cir-Statesville-NC-28625",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1914,
+        "listed_at": "2026-09-29T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.878709,
+          35.878188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1d68e91-e525-5aae-849a-e2294322f1a0",
         "address": "5821-Starboardway-Dr-Fort-Worth-TX-76135",
         "beds": 5,
@@ -47353,27 +47395,6 @@
         "coordinates": [
           -97.495634,
           32.756889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a350b8b7-622d-59c6-be97-5b5b59bf1039",
-        "address": "6440-Stonefly-Dr-Colorado-Springs-CO-80924",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2630,
-        "listed_at": "2026-09-03T05:50:13.000Z",
-        "days_on_market": "50",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.708194,
-          38.952136
         ]
       }
     },
@@ -54640,6 +54661,27 @@
         "coordinates": [
           -80.091905,
           32.901453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ba640999-f4aa-5977-8dda-caca099edfbb",
+        "address": "1113-Sw-Sequoia-Ln-Dallas-OR-97338",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-09-29T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.331622,
+          44.926698
         ]
       }
     },
