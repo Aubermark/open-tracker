@@ -22684,6 +22684,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4bd9d4fc-5b42-536e-921d-e84fe0003786",
+        "address": "2221-Myrtle-Ave-Columbus-OH-43211",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1008,
+        "listed_at": "2026-09-29T18:00:05.000Z",
+        "days_on_market": "50",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.950418,
+          40.016285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4bdc1cc7-d777-5a35-a080-599e31f2f7c7",
         "address": "2697-Louise-Dr-North-Charleston-SC-29405",
         "beds": 3,
@@ -25030,6 +25051,27 @@
         "coordinates": [
           -93.197686,
           45.56217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "540294c4-a4b8-5dea-a197-d3edf6713aae",
+        "address": "9703-Glenpointe-Dr-Riverview-FL-33569",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1977,
+        "listed_at": "2026-09-29T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.295801,
+          27.857904
         ]
       }
     },
@@ -51595,6 +51637,27 @@
         "coordinates": [
           -81.413751,
           28.349027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b038c03f-e7c7-5b26-8b18-401f47654a3b",
+        "address": "1505-Rival-Ter-North-Port-FL-34286",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1098,
+        "listed_at": "2026-09-29T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.188764,
+          27.072982
         ]
       }
     },
