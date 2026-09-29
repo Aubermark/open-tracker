@@ -7354,27 +7354,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "18310417-fd51-51eb-9891-edfe51652cd9",
-        "address": "2770-Burtz-Dr-Marietta-GA-30068",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3505,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "197",
-        "current_price": 558000,
-        "price_label": "$558K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.471459,
-          33.942894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "183742d0-e56a-550e-9b92-fcdbc3b8dd56",
         "address": "6403-83rd-Ct-N-Brooklyn-Park-MN-55445",
         "beds": 2,
@@ -65686,6 +65665,27 @@
         "coordinates": [
           -84.596542,
           33.831036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd699129-f05f-578c-90ad-612a26f3dc9a",
+        "address": "7030-W-Fallen-Sun-Ct-Tucson-AZ-85743",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2338,
+        "listed_at": "2026-09-29T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 473000,
+        "price_label": "$473K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.114721,
+          32.353722
         ]
       }
     },
