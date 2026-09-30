@@ -1432,6 +1432,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0357b109-d61e-5bbe-9266-d7b8fcfc7624",
+        "address": "8310-Rolling-Log-Dr-Orlando-FL-32817",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-09-30T14:50:03.000Z",
+        "days_on_market": "49",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.275543,
+          28.582386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "038b9fe7-97b2-5ac4-8cdc-d0bd87c7cf86",
         "address": "4-Shirley-Caesar-Ct-Durham-NC-27701",
         "beds": 3,
@@ -2203,27 +2224,6 @@
         "coordinates": [
           -86.181302,
           32.245458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0746adfd-6507-5019-bddc-47af94872ad5",
-        "address": "10124-Windtree-Ln-Charlotte-NC-28215-18263307",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2758,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "54",
-        "current_price": 577000,
-        "price_label": "$577K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.651721,
-          35.242326
         ]
       }
     },
@@ -17140,27 +17140,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "39eb1c78-31e2-5b4d-ac80-bb229fb4c354",
-        "address": "36524-W-Alhambra-St-Maricopa-AZ-85138",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2744,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "69",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.959822,
-          33.058865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "39f50471-c41b-55c3-9d46-3864ea449fe1",
         "address": "24435-Nan-Ct-Diamond-Bar-CA-91765",
         "beds": 5,
@@ -19633,6 +19612,27 @@
         "coordinates": [
           -86.713579,
           36.092183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4117e2e3-136d-58d7-8092-82437848a418",
+        "address": "1721-Evergreen-St-Kissimmee-FL-34746",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1379,
+        "listed_at": "2026-09-30T14:50:03.000Z",
+        "days_on_market": "19",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.455712,
+          28.255267
         ]
       }
     },
@@ -64720,27 +64720,6 @@
         "coordinates": [
           -112.338483,
           33.427289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d89a9995-8a58-5180-9f35-3b5d926bccaa",
-        "address": "2533-Vista-Creek-Ct-Garland-TX-75044",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 4331,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "117",
-        "current_price": 655000,
-        "price_label": "$655K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.667891,
-          32.981444
         ]
       }
     },
