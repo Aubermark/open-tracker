@@ -3364,6 +3364,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0b284e39-fd63-510e-b6dc-7a9ce5e76a60",
+        "address": "190-N-100-W-Alpine-UT-84004",
+        "beds": 6,
+        "baths": 3.5,
+        "sqft": 3010,
+        "listed_at": "2026-09-30T07:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 680000,
+        "price_label": "$680K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7794,
+          40.455478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0b3da7ff-7998-5c14-8a8b-1bc2dfc140ca",
         "address": "616-Faith-Dr-Sw-Concord-NC-28027",
         "beds": 4,
@@ -41473,6 +41494,27 @@
         "coordinates": [
           -70.980569,
           42.229986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8bcbc68c-0c9b-543f-83af-036c37271798",
+        "address": "14077-S-Grand-View-Peak-Cir-Riverton-UT-84096-18562280",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2140,
+        "listed_at": "2026-09-30T07:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.007895,
+          40.495365
         ]
       }
     },
