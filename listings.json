@@ -16909,6 +16909,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "396c8dd7-890a-5a5d-8940-2b0cc3f93703",
+        "address": "161-Bennington-Dr-Raeford-NC-28376",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1797,
+        "listed_at": "2026-09-30T07:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.093806,
+          35.020016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39716d94-81ab-50cd-afdd-aaad854216b3",
         "address": "310-W-Indiana-Ave-Bessemer-City-NC-28016",
         "beds": 2,
