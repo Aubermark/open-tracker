@@ -13150,27 +13150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c15217a-000e-5d1c-9f77-c5e7919225ef",
-        "address": "447-Via-Del-Plano-Novato-CA-94949",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1491,
-        "listed_at": "2026-09-17T17:00:03.000Z",
-        "days_on_market": "13",
-        "current_price": 1120000,
-        "price_label": "$1.120M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.548583,
-          38.066766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c167267-fdbf-5b74-ac3d-9fa1779c26a6",
         "address": "821-Pinkney-Pl-Stanley-NC-28164-18435734",
         "beds": 6,
@@ -24862,6 +24841,27 @@
         "coordinates": [
           -111.841851,
           33.238853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "52677683-faea-59ca-a55f-897cae199e01",
+        "address": "2-Cinderella-Ln-Nw-Unit-A-Fort-Walton-Beach-FL-32547",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1240,
+        "listed_at": "2026-09-30T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.623458,
+          30.4533
         ]
       }
     },
@@ -52315,6 +52315,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b0fd9096-afde-5902-b5bd-bdbbead2619e",
+        "address": "2656-Riviera-Cir-El-Dorado-Hills-CA-95762",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1880,
+        "listed_at": "2026-09-30T19:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.079415,
+          38.694019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1021313-f15e-5d89-8c93-ee78bada0955",
         "address": "4427-W-Dahlia-Dr-Glendale-AZ-85304",
         "beds": 3,
@@ -56845,27 +56866,6 @@
         "coordinates": [
           -123.289491,
           44.91581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bf803a32-18a0-58b8-badb-f6ae5f1c1b73",
-        "address": "132-Gran-Via-Palm-Desert-CA-92260",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1656,
-        "listed_at": "2026-09-29T15:20:02.000Z",
-        "days_on_market": "1",
-        "current_price": 472000,
-        "price_label": "$472K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.390291,
-          33.739066
         ]
       }
     },
@@ -68191,27 +68191,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e56ac3c2-3c77-516c-baf7-f2e4f1bd1ad8",
-        "address": "1421-Caruth-Ln-Celina-TX-75009",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2560,
-        "listed_at": "2026-09-17T06:29:08.000Z",
-        "days_on_market": "98",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.760672,
-          33.334234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e5813eba-0f5b-49d7-a37c-c6dd82551fa5",
         "address": "8239-Gusty-Brook-St-Las-Vegas-NV-89113",
         "beds": 5,
@@ -68290,27 +68269,6 @@
         "coordinates": [
           -94.447251,
           39.021681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e5d4f538-883f-41d7-859f-d7944716e889",
-        "address": "3000-Grand-Mission-Way-3000-Pflugerville-TX-78660",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1814,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "78",
-        "current_price": 343000,
-        "price_label": "$343K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.58318,
-          30.459081
         ]
       }
     },
