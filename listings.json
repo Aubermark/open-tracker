@@ -27388,6 +27388,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5bea666c-ec9c-52de-9547-d78ace3281c6",
+        "address": "811-Maple-Leaf-Loop-Winter-Springs-FL-32708",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2852,
+        "listed_at": "2026-09-30T15:30:04.000Z",
+        "days_on_market": "118",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.321354,
+          28.709379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5beccd79-1d18-5da2-b8a4-dca2f026cf7d",
         "address": "5110-Winston-Dr-Indianapolis-IN-46226",
         "beds": 3,
@@ -40990,6 +41011,27 @@
         "coordinates": [
           -112.007312,
           33.374912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a863e4d-e116-5360-b990-4bdb41432ce2",
+        "address": "11606-Elcadore-St-Las-Vegas-NV-89183",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1751,
+        "listed_at": "2026-09-30T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.170772,
+          35.978993
         ]
       }
     },
@@ -58231,27 +58273,6 @@
         "coordinates": [
           -84.890895,
           33.749938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3e58e64-1614-54d0-8a6e-a5610e533d5a",
-        "address": "4034-Green-St-Jacksonville-FL-32205",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1067,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "150",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.718866,
-          30.315215
         ]
       }
     },
