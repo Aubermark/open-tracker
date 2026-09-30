@@ -26569,6 +26569,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5852d0d5-27f5-5b74-9f31-43a05ff0595e",
+        "address": "20-Moonglo-Cir-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1362,
+        "listed_at": "2026-09-30T18:50:04.000Z",
+        "days_on_market": "86",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.956699,
+          34.070891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "585c9461-3548-5f0c-90c9-50b6cc7d7c9c",
         "address": "28825-N-45th-St-Cave-Creek-AZ-85331",
         "beds": 4,
@@ -58447,27 +58468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c499bd96-1f56-5aef-a81f-8b2c10a8b76a",
-        "address": "124-Manor-Ridge-Way-Lexington-NC-27292",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1374,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "16",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.283326,
-          35.655211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c4b6a106-99fa-5d28-963a-29eaa81541d8",
         "address": "404-Vincent-St-Cedar-Hill-TX-75104",
         "beds": 3,
@@ -68689,27 +68689,6 @@
         "coordinates": [
           -105.122795,
           39.891176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e73a0be0-9b4a-5f87-87ca-a1b7b74e504f",
-        "address": "9165-Blackstone-Dr-Aubrey-TX-76227",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2600,
-        "listed_at": "2026-09-17T06:29:08.000Z",
-        "days_on_market": "86",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.967872,
-          33.242154
         ]
       }
     },
