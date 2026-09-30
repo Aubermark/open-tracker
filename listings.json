@@ -6871,6 +6871,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1670ce24-60a1-4ec7-87b8-b96c6e425f5e",
+        "address": "3616-Ne-170th-St-Vancouver-WA-98686",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2325,
+        "listed_at": "2026-09-30T20:10:04.000Z",
+        "days_on_market": ">220",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.633431,
+          45.744887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "168a9322-4add-5e9b-b706-47b1662b2b16",
         "address": "538-Walnut-Way-Palmetto-GA-30268",
         "beds": 5,
@@ -11884,27 +11905,6 @@
         "coordinates": [
           -112.062391,
           33.373225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "28901306-d9b1-5438-b06c-a598c0440aee",
-        "address": "9006-Parlor-Dr-Ladson-SC-29456",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2466,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "77",
-        "current_price": 288000,
-        "price_label": "$288K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.149203,
-          32.958777
         ]
       }
     },
@@ -18862,6 +18862,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f3fa1ad-74b5-5529-a070-3d732da83021",
+        "address": "4149-S-Rome-St-Aurora-CO-80018",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1456,
+        "listed_at": "2026-09-30T20:10:04.000Z",
+        "days_on_market": "61",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.730464,
+          39.641174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f6516ba-cdac-5d42-9c6f-dcdbff94785c",
         "address": "8460-Orchard-Creek-Way-Elk-Grove-CA-95624",
         "beds": 3,
@@ -19738,27 +19759,6 @@
         "coordinates": [
           -84.680975,
           34.075331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "416386f5-3ab2-52ce-ae66-20107bb936f3",
-        "address": "102-California-Ave-Elyria-OH-44035",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2244,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "152",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.073493,
-          41.343863
         ]
       }
     },
@@ -28852,6 +28852,27 @@
         "coordinates": [
           -87.367189,
           36.638459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5fcbbf67-3750-5572-96d9-e16f520fc61c",
+        "address": "5-Dunoon-Ct-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.897066,
+          34.155275
         ]
       }
     },
@@ -42718,6 +42739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "906a76a9-7a39-5c55-9689-c995ca9224c2",
+        "address": "990-Chads-Ford-Ct-Macon-GA-31210",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2915,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.73694,
+          32.909636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "906de799-0fd7-5aab-8657-8add961c1940",
         "address": "6220-Paylor-St-Mebane-NC-27302",
         "beds": 3,
@@ -43594,27 +43636,6 @@
         "coordinates": [
           -79.749377,
           36.518399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "94933129-d1d8-594b-b199-47aa839f11c9",
-        "address": "22432-S-Vermont-Ave-Unit-2-Torrance-CA-90502",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1092,
-        "listed_at": "2026-09-30T16:50:04.000Z",
-        "days_on_market": "96",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.289973,
-          33.822415
         ]
       }
     },
@@ -47086,6 +47107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a086ee15-3082-575d-ae1d-ad0239b52aed",
+        "address": "167-Lionsgate-Dr-Columbia-SC-29223",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1803,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 126000,
+        "price_label": "$126K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.923403,
+          34.098167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0921aa9-bab5-5060-a9a5-26fd308f8a6b",
         "address": "18036-E-Curva-De-Plata-Rio-Verde-AZ-85263",
         "beds": 2,
@@ -47794,6 +47836,27 @@
         "coordinates": [
           -80.152656,
           32.991317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2a03e7d-cefb-5676-8ebe-fee092c78761",
+        "address": "320-Hunters-Ridge-Dr-Lexington-SC-29072",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2044,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.225412,
+          34.005231
         ]
       }
     },
@@ -57628,6 +57691,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c18d4f94-6daf-545a-a1c5-1c834562af7a",
+        "address": "962-Centennial-Dr-Columbia-SC-29229",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3432,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.871917,
+          34.174249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c1bfff21-2639-4154-813e-da12f7b72d2e",
         "address": "3627-Junefield-St-Tracy-CA-95377",
         "beds": 5,
@@ -59875,6 +59959,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca502f2d-0890-50e3-bdf7-8ce2bf4c24fc",
+        "address": "113-Pine-Bluff-Rd-Columbia-SC-29229",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1193,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 202000,
+        "price_label": "$202K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.880272,
+          34.165514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca599c9d-7e62-4da6-9525-e0a8ea2e0263",
         "address": "15376-Coaltown-Rd-Willis-TX-77378",
         "beds": 3,
@@ -59890,27 +59995,6 @@
         "coordinates": [
           -95.476459,
           30.463183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ca70097b-d491-52b7-9a69-ccefae239296",
-        "address": "644-Wellfleet-Dr-Bay-Village-OH-44140",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1918,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "71",
-        "current_price": 397000,
-        "price_label": "$397K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.95497,
-          41.478276
         ]
       }
     },
@@ -61555,6 +61639,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d00c85de-f252-511f-afc3-14c84df4347f",
+        "address": "1725-N-Date-Unit-5-Mesa-AZ-85201",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-09-30T20:10:04.000Z",
+        "days_on_market": "40",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.843556,
+          33.447008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d00e7b59-c5db-54c8-a41f-327abae30f02",
         "address": "206-Almquist-St-Hutto-TX-78634",
         "beds": 4,
@@ -62284,6 +62389,27 @@
         "coordinates": [
           -94.569179,
           39.047305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d201be4c-a5c4-5a29-af50-e9b1ca09a22e",
+        "address": "670-Marsh-Ct-Jonesboro-GA-30238",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1590,
+        "listed_at": "2026-09-30T20:10:04.000Z",
+        "days_on_market": "35",
+        "current_price": 223000,
+        "price_label": "$223K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.413336,
+          33.505116
         ]
       }
     },
@@ -67330,27 +67456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e1b27351-c34d-5913-b914-f8c7b5121549",
-        "address": "4542-Carrington-Way-Hilliard-OH-43026",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2925,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "47",
-        "current_price": 553000,
-        "price_label": "$553K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.138766,
-          40.058103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e2286703-aca7-501b-bbc6-e4de49c125c2",
         "address": "13717-Rosette-Rd-Hudson-FL-34669",
         "beds": 3,
@@ -71335,6 +71440,27 @@
         "coordinates": [
           -81.31178,
           28.946222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "efc2aa48-a8f7-5eec-991d-d8ae1500eeda",
+        "address": "237-Arthurdale-Dr-West-Columbia-SC-29170",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-09-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.158322,
+          33.940001
         ]
       }
     },
