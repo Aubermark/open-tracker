@@ -28690,6 +28690,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
+        "address": "1900-Milfield-Cir-Snellville-GA-30078",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3751,
+        "listed_at": "2026-10-01T12:40:04.000Z",
+        "days_on_market": "128",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020844,
+          33.897571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5fbc02b9-f11f-5a28-8133-6f9d6dbfcb9d",
         "address": "1450-Raven-Rd-Clarksville-TN-37042",
         "beds": 5,
