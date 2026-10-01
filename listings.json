@@ -6283,27 +6283,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "14abc2cd-2cba-584b-943e-097d88903b87",
-        "address": "2017-Yorktowne-Dr-La-Place-LA-70068",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1773,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "78",
-        "current_price": 162000,
-        "price_label": "$162K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.479017,
-          30.083419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "14bfd4fb-4f92-5929-9a8b-278093168d56",
         "address": "3-Porter-St-Sw-Rome-GA-30161",
         "beds": 3,
@@ -57895,6 +57874,27 @@
         "coordinates": [
           -97.668066,
           31.049021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c2b10554-c4e2-5dab-8e00-22f2fa2781e3",
+        "address": "304-Field-St-Graham-NC-27253",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 945,
+        "listed_at": "2026-10-01T12:00:04.000Z",
+        "days_on_market": "104",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.395743,
+          36.064926
         ]
       }
     },
