@@ -28270,6 +28270,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5eb4b120-f074-5460-856b-cba48146b31a",
+        "address": "1401-W-Sandpiper-Dr-Gilbert-AZ-85233",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 4628,
+        "listed_at": "2026-10-01T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 1200000,
+        "price_label": "$1.200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.819512,
+          33.346011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ebf7194-8308-5bfd-b683-a3f56d330b0b",
         "address": "265-Mc-Donald-Rd-Winchester-VA-22602",
         "beds": 3,
@@ -35719,6 +35740,27 @@
         "coordinates": [
           -84.584633,
           33.877348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78a7f890-cd4c-54cd-aec7-3f2af1c74f1c",
+        "address": "1410-4th-Ave-Sw-Austin-MN-55912",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 976,
+        "listed_at": "2026-10-01T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.992147,
+          43.663546
         ]
       }
     },
@@ -44707,6 +44749,27 @@
         "coordinates": [
           -80.357282,
           36.079987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "986937c1-2e45-59c2-895f-a9f6fff117f4",
+        "address": "10494-Ouray-St-Commerce-City-CO-80022",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2214,
+        "listed_at": "2026-10-01T18:20:03.000Z",
+        "days_on_market": "100",
+        "current_price": 494000,
+        "price_label": "$494K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.791507,
+          39.887938
         ]
       }
     },
@@ -55837,27 +55900,6 @@
         "coordinates": [
           -97.823645,
           30.627174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bcf4f71c-15af-5ce7-8f9a-84d1f374899e",
-        "address": "5602-Briarwood-Forest-Dr-Houston-TX-77088",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1654,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "86",
-        "current_price": 207000,
-        "price_label": "$207K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.472249,
-          29.889403
         ]
       }
     },
@@ -72280,6 +72322,27 @@
         "coordinates": [
           -84.178215,
           34.228873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4123776-5c66-557e-a578-0f03f2609c30",
+        "address": "13155-W-Avenida-Del-Rey-Peoria-AZ-85383",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2257,
+        "listed_at": "2026-10-01T18:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.345093,
+          33.715884
         ]
       }
     },
