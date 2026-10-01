@@ -17287,6 +17287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3abe39a2-0499-5335-98d5-803d1b264ec3",
+        "address": "13800-Spring-Heath-Rd-Pflugerville-TX-78660",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1838,
+        "listed_at": "2026-10-01T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.658006,
+          30.419704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3ad3013d-a60f-50b0-a16c-b5ae5209e37a",
         "address": "1702-Patterson-Grove-Rd-Apex-NC-27502",
         "beds": 4,
