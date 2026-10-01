@@ -25540,6 +25540,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "559da23e-213b-5ee7-ac77-672f9adce0d6",
+        "address": "2460-Greensboro-Rd-Madison-GA-30650",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2665,
+        "listed_at": "2026-10-01T15:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.406168,
+          33.598676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "55af29ae-0bcd-5472-849e-9f944e2c1dbe",
         "address": "2206-N-Basswood-Ct-Derby-KS-67037",
         "beds": 3,
@@ -28690,6 +28711,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fb48d01-eed0-5f06-8c36-4b6813161d48",
+        "address": "2708-Timberline-Dr-Killeen-TX-76543",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1128,
+        "listed_at": "2026-10-01T15:50:06.000Z",
+        "days_on_market": "168",
+        "current_price": 189000,
+        "price_label": "$189K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.669335,
+          31.130409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
         "address": "1900-Milfield-Cir-Snellville-GA-30078",
         "beds": 4,
@@ -30721,27 +30763,6 @@
         "coordinates": [
           -81.764694,
           28.493435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "66d8ece1-df3b-54a8-a188-5e965b552f6b",
-        "address": "8331-Golden-Bamboo-Dr-Jacksonville-FL-32219",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2731,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "87",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.811802,
-          30.407423
         ]
       }
     },
