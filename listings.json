@@ -14368,6 +14368,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "309959f0-b42e-5049-b2c8-3fb441d371f6",
+        "address": "3401-Old-Buffaloe-Rd-Raleigh-NC-27604",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1412,
+        "listed_at": "2026-10-01T21:10:04.000Z",
+        "days_on_market": "9",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.580631,
+          35.830294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30abc7e6-4c62-5b73-a022-b040856169fe",
         "address": "12330-Deerhurst-Dr-Midlothian-VA-23113",
         "beds": 3,
