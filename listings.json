@@ -8908,27 +8908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1eaa20e1-e5a7-59d8-88ee-43482e05544e",
-        "address": "4036-White-Opal-St-Las-Vegas-NV-89130",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2956,
-        "listed_at": "2026-09-15T05:45:25.000Z",
-        "days_on_market": "167",
-        "current_price": 488000,
-        "price_label": "$488K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.223362,
-          36.232817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1ecd4a89-3c92-5914-93f5-74f932c0da0d",
         "address": "312-Overland-Trce-Montgomery-TX-77316",
         "beds": 5,
@@ -29797,6 +29776,27 @@
         "coordinates": [
           -111.845724,
           33.845863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "631ad221-f5a3-5e18-8330-fe0b05516a6e",
+        "address": "2826-Jon-St-Colorado-Springs-CO-80907",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1533,
+        "listed_at": "2026-10-01T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.808019,
+          38.869995
         ]
       }
     },
