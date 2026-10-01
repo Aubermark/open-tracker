@@ -9265,6 +9265,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2034884a-551c-5ae2-a38f-4c11f04fdcfc",
+        "address": "10217-Pear-Valley-Rd-Mc-Kinney-TX-75072",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1676,
+        "listed_at": "2026-10-01T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.755714,
+          33.200557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2080d7e8-73e7-50a2-a5f9-d6d1483e4197",
         "address": "16005-Stags-Leap-Dr-Lutz-FL-33559",
         "beds": 3,
