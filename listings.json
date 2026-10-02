@@ -8404,6 +8404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c7b454f-6d95-5589-82ef-3fddd49b91c8",
+        "address": "2836-S-Lakeview-Dr-Cedar-Hill-TX-75104",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2674,
+        "listed_at": "2026-10-02T06:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.008297,
+          32.571028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c849e29-94c6-5929-860e-860c450f3634",
         "address": "9603-Orion-Dr-Temple-TX-76502",
         "beds": 3,
