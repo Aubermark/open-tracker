@@ -20542,6 +20542,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43e0b07a-18f0-5890-a3e9-d5d52a741bb6",
+        "address": "3009-Tex-Blvd-Fort-Worth-TX-76116",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1498,
+        "listed_at": "2026-10-02T06:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 263000,
+        "price_label": "$263K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.430097,
+          32.731382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43eecf7a-0adf-56a8-a77a-e71f1b1c0989",
         "address": "14928-Nighthawk-Ln-Broomfield-CO-80023",
         "beds": 5,
@@ -40234,6 +40255,27 @@
         "coordinates": [
           -86.692339,
           33.652098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8885f362-dbb0-59b4-81c1-25c05de65846",
+        "address": "5482-Swanson-Rd-Ellenwood-GA-30294",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2156,
+        "listed_at": "2026-10-02T06:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.282721,
+          33.605257
         ]
       }
     },
@@ -67933,6 +67975,27 @@
         "coordinates": [
           -77.528226,
           38.78888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e41b7c80-b1f1-529d-9712-59c3b9b62153",
+        "address": "500-Camber-Woods-Dr-Roswell-GA-30076",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2308,
+        "listed_at": "2026-10-02T06:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352861,
+          34.073906
         ]
       }
     },
