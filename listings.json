@@ -46771,27 +46771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a006e695-453f-57bc-bbc7-cd274c625fca",
-        "address": "1537-Mintz-Ave-Fayetteville-NC-28303",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1803,
-        "listed_at": "2026-08-27T05:57:17.000Z",
-        "days_on_market": "155",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.930752,
-          35.099433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a00c24cd-083f-5082-b4e9-99c10092eede",
         "address": "37045-Chagrin-Blvd-Chagrin-Falls-OH-44022",
         "beds": 5,
@@ -58048,6 +58027,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c2ece9c4-a7cc-54d0-a0f1-2a3cc2194ad3",
+        "address": "4406-Lane-Ave-S-Jacksonville-FL-32210",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1761,
+        "listed_at": "2026-10-02T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.758829,
+          30.25785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3093a26-1b5c-5694-85a7-5b35c941e7bc",
         "address": "2082-Lawrin-Ct-Indianapolis-IN-46234",
         "beds": 3,
@@ -61255,6 +61255,27 @@
         "coordinates": [
           -80.864928,
           35.309866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cf89764b-f998-5a57-bc77-b20aae384e58",
+        "address": "746-Catherine-St-Jesup-GA-31546",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3392,
+        "listed_at": "2026-10-02T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.884697,
+          31.585905
         ]
       }
     },
