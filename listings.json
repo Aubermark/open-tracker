@@ -18610,6 +18610,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e43dbc9-2738-5733-9603-48cbc7bad64b",
+        "address": "1271-Seven-Springs-Cir-Marietta-GA-30068",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1408,
+        "listed_at": "2026-10-03T15:50:04.000Z",
+        "days_on_market": "121",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.429814,
+          33.979382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e7095bb-b905-5476-85ea-95165254fa97",
         "address": "1618-Woodcrest-Ln-Carrollton-TX-75006",
         "beds": 3,
