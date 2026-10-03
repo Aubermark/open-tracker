@@ -1768,27 +1768,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "04d3e477-96e4-510d-9bed-d18c1978adb2",
-        "address": "3172-Chasen-Dr-Cameron-Park-CA-95682",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3653,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "81",
-        "current_price": 878000,
-        "price_label": "$878K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.967189,
-          38.681694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "054b8d5d-8bda-5bcc-b19d-869b6d6e4e4a",
         "address": "207-Renaldo-Dr-Chesterfield-MO-63017",
         "beds": 4,
@@ -44014,6 +43993,27 @@
         "coordinates": [
           -79.749377,
           36.518399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94933129-d1d8-594b-b199-47aa839f11c9",
+        "address": "22432-S-Vermont-Ave-Unit-2-Torrance-CA-90502",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1092,
+        "listed_at": "2026-10-03T17:20:04.000Z",
+        "days_on_market": "99",
+        "current_price": 599000,
+        "price_label": "$599K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.289973,
+          33.822415
         ]
       }
     },
