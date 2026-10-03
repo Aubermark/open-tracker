@@ -16384,6 +16384,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "371cf2c3-73f8-5198-9e9d-6e0e9e506cb1",
+        "address": null,
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1764,
+        "listed_at": "2026-10-03T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.259959,
+          38.824108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3721b5fe-a684-5912-b10b-6fa5ff1283a4",
         "address": "2832-Eagle-Trace-Ter-Richmond-VA-23223",
         "beds": 3,
@@ -43195,27 +43216,6 @@
         "coordinates": [
           -81.519633,
           30.034612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "90e7e201-afd2-5cec-8ac8-e9704bf35185",
-        "address": "301-Decatur-Dr-Summerville-SC-29486",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2760,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "54",
-        "current_price": 376000,
-        "price_label": "$376K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.106612,
-          33.10933
         ]
       }
     },
