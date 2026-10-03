@@ -25036,6 +25036,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "524e2b97-87f5-4d58-aa1d-3fde2bd3c00e",
+        "address": "228-Flat-Shoal-Dr-Bonaire-GA-31005",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1804,
+        "listed_at": "2026-10-03T18:50:05.000Z",
+        "days_on_market": "33",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.572995,
+          32.536684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "525cb15a-00a0-5564-b4b2-796a1612ff47",
         "address": "20919-Hollywood-St-Harper-Woods-MI-48225",
         "beds": 2,
