@@ -14767,6 +14767,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31c731a9-9928-52c0-988f-04e2f08a5d2d",
+        "address": "1826-East-Blvd-Petersburg-VA-23805",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-10-04T21:33:08.000Z",
+        "days_on_market": "111",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392281,
+          37.202616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31ef42c7-accc-5977-b4ca-ba10f62febfc",
         "address": "27348-N-90th-Ln-Peoria-AZ-85383",
         "beds": 4,
@@ -76207,27 +76228,6 @@
         "coordinates": [
           -81.210002,
           35.265409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ff6e71f7-78e0-556d-9aca-08eaa2f85931",
-        "address": "1148-Wentworth-Cir-Rockledge-FL-32955",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1794,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "37",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.747393,
-          28.339913
         ]
       }
     },
