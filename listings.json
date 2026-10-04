@@ -33604,6 +33604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6fc333ae-3876-5b3d-933b-da44a519c318",
+        "address": null,
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-10-04T06:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.685966,
+          35.024258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6fc822b9-b883-5cd8-99ab-b0c87a9c49ba",
         "address": "6-Cimarron-Ct-Roanoke-TX-76262",
         "beds": 4,
