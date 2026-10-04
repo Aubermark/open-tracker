@@ -59644,6 +59644,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7db1e76-1dc9-517c-9259-072e95a7236b",
+        "address": null,
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1230,
+        "listed_at": "2026-10-04T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.351371,
+          35.682222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7f535ba-d079-5123-89e7-b569db1a3c1d",
         "address": "4865-Silver-Leaf-Dr-Cumming-GA-30040",
         "beds": 4,
