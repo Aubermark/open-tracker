@@ -48346,6 +48346,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2d66d96-fb8e-57de-b950-43c87e1deb7b",
+        "address": "601 Flint St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2640,
+        "listed_at": "2026-10-05T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 781000,
+        "price_label": "$781K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.976934,
+          32.751105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2f6a701-8ba5-5e7d-90ee-31ea12f77a3a",
         "address": "708-Woodgreen-Dr-Durham-NC-27704",
         "beds": 4,
