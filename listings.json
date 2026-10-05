@@ -8950,27 +8950,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1e24bc64-0418-5a12-9239-a6ea3a3664fe",
-        "address": "1747-Palermo-Dr-Riverside-CA-92507",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2012,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "38",
-        "current_price": 592000,
-        "price_label": "$592K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.352832,
-          33.995614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1e4f15f0-1d5b-5285-be11-912cf06f002b",
         "address": "1108-Herrin-Ave-Charlotte-NC-28205",
         "beds": 3,
@@ -26191,27 +26170,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "55f66a13-cef2-5158-8299-244fd6ba2162",
-        "address": "2347-Bethabara-Haven-Dr-Winston-Salem-NC-27106",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1562,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "39",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.26681,
-          36.134593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "55fc8fc6-608c-5acf-8509-fc8a63b9444e",
         "address": "6032-Briggs-Dr-Charlotte-NC-28269-6077059",
         "beds": 3,
@@ -41809,6 +41767,27 @@
         "coordinates": [
           -122.56249,
           45.487268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8baa7635-c37b-5b88-b148-add48c3b53a5",
+        "address": "5408 Woodard Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1819,
+        "listed_at": "2026-10-05T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89953,
+          35.141347
         ]
       }
     },
