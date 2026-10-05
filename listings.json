@@ -67120,6 +67120,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dcb7683f-05fb-524f-b4fb-515f6ff8c264",
+        "address": "561 Augusta Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2117,
+        "listed_at": "2026-10-05T20:20:06.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.593431,
+          36.208289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dd4d213b-e562-5fd0-8688-9e0e046a502a",
         "address": "6733-Barrington-Hills-St-Las-Vegas-NV-89149",
         "beds": 4,
