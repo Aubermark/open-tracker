@@ -2629,6 +2629,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08bb10b5-9107-560a-8edd-a7fd9e500101",
+        "address": "5533 Melissa Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1161,
+        "listed_at": "2026-10-05T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 187000,
+        "price_label": "$187K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.637477,
+          33.695896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08bc9b97-a7a5-581c-a885-5505523173e0",
         "address": "12134-Brushfield-Ln-Fishers-IN-46037",
         "beds": 3,
@@ -49369,6 +49390,27 @@
         "coordinates": [
           -84.297301,
           39.303475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a78533b1-6e91-5898-82bf-348d48f57681",
+        "address": "313 Glen Eagles Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2459,
+        "listed_at": "2026-10-05T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22407,
+          33.037815
         ]
       }
     },
