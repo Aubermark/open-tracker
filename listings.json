@@ -15334,27 +15334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "331a6659-eb85-57ef-90cb-75da45b5279e",
-        "address": "817-Shallow-Creek-Way-Mc-Kinney-TX-75071",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3884,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "37",
-        "current_price": 650000,
-        "price_label": "$650K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.614108,
-          33.292333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "333faa0b-0bea-51d8-a2b7-05363d57c6ff",
         "address": "3684-S-Danielson-Way-Chandler-AZ-85286",
         "beds": 4,
@@ -54373,6 +54352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b5b2237a-ee80-5b39-92f4-1d2f971ff8b0",
+        "address": "15134 NW Marie Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3149,
+        "listed_at": "2026-10-05T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 810000,
+        "price_label": "$810K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.832891,
+          45.567892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b5b3d176-b95f-5934-b5ef-661dcff07d3a",
         "address": "13-Nanticoke-Rd-Cambridge-MD-21613",
         "beds": 3,
@@ -69025,6 +69025,27 @@
         "coordinates": [
           -111.992889,
           40.705233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e578e967-b704-5408-bfb3-afe09a9f5777",
+        "address": "789 Little Pine Dr",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-10-05T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.015818,
+          29.171797
         ]
       }
     },
