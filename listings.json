@@ -57460,6 +57460,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bdce5d94-ea06-5dd2-ae7c-bc8d1c7b7be1",
+        "address": "15237 W Sherman St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2034,
+        "listed_at": "2026-10-05T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.386748,
+          33.439349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bde43e2a-93c1-5452-a310-df85a941e949",
         "address": "44-Fairwood-Dr-Dallas-GA-30157",
         "beds": 4,
@@ -64153,6 +64174,27 @@
         "coordinates": [
           -122.688677,
           45.526936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d33d6577-df4a-5482-a7d8-23d8f04baa23",
+        "address": "4717 Burning Springs Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2226,
+        "listed_at": "2026-10-05T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.185183,
+          32.661008
         ]
       }
     },
