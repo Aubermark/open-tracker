@@ -39589,6 +39589,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "850f430e-b0e3-5a73-8716-25005db85c6f",
+        "address": "15613 John Diskin Cir",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1150,
+        "listed_at": "2026-10-05T13:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28741,
+          38.614165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "850fb108-723a-5527-9014-71ad9f7f4d9c",
         "address": "215-Beech-Brook-St-Saint-Johns-FL-32259",
         "beds": 2,
