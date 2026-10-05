@@ -27157,6 +27157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59954489-8d54-5684-ac43-4fa22b7a5a3d",
+        "address": "7537-Fairfield-Rd-Brooklyn-Park-MN-55444",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1713,
+        "listed_at": "2026-10-05T16:40:04.000Z",
+        "days_on_market": "25",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.288746,
+          45.092482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "59bd0afc-b300-590d-8d25-2abb1a534f17",
         "address": "3363-Lakeside-Pl-Hermitage-TN-37076",
         "beds": 2,
@@ -56908,6 +56929,27 @@
         "coordinates": [
           -78.494986,
           35.784993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bdfa18af-38f6-50b0-a47e-dc823cb3565f",
+        "address": "205 Nacoochee Way",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1478,
+        "listed_at": "2026-10-05T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.518489,
+          34.181132
         ]
       }
     },
