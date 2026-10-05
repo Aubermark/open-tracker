@@ -45700,6 +45700,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a96df5f-2754-5611-86de-84e1edac00d1",
+        "address": "706 Kaplan Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1452,
+        "listed_at": "2026-10-05T14:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.871877,
+          38.900283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a9b6caf-d712-5b95-adb7-1c7f266f944e",
         "address": "329-Fairview-Ave-Winchester-VA-22601",
         "beds": 3,
@@ -56110,27 +56131,6 @@
         "coordinates": [
           -96.554896,
           32.733401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bc63cd52-09c6-5618-bf16-779e982bb7a6",
-        "address": "104-Belair-Ln-Stockbridge-GA-30281",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2116,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "122",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.211147,
-          33.574637
         ]
       }
     },
