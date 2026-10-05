@@ -28921,27 +28921,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5eff877f-cd65-5fae-aec7-a4a5cff538e6",
-        "address": "949-Colonial-Way-Franklin-IN-46131",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2059,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "47",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.04307,
-          39.50529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5f030f2b-877d-5ae0-aefa-d4d0afbf1141",
         "address": "1716-Timberlane-St-Gastonia-NC-28054",
         "beds": 4,
@@ -31750,6 +31729,27 @@
         "coordinates": [
           -123.110674,
           48.096773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "681aa31e-940c-5229-94aa-c1721e54fc2f",
+        "address": "331-Market-Hall-Pl-Rock-Hill-SC-29732",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1487,
+        "listed_at": "2026-10-05T19:30:05.000Z",
+        "days_on_market": "25",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.050599,
+          34.949926
         ]
       }
     },
