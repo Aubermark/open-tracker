@@ -25477,6 +25477,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "532ab32c-a11d-5d57-95f2-0a70b6533db6",
+        "address": "1903 Elizabeth Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1437,
+        "listed_at": "2026-10-05T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.509119,
+          33.898837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "534bddba-a64b-518b-8c0c-b975fa8fd132",
         "address": "4732-Lonnie-Dr-Rolesville-NC-27571",
         "beds": 5,
@@ -76816,6 +76837,27 @@
         "coordinates": [
           -84.519508,
           33.558873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fdb22b3c-01a8-50b8-9847-f819605c8d34",
+        "address": "612-Sugar-Brook-Dr-Temple-TX-76502",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2434,
+        "listed_at": "2026-10-05T21:20:05.000Z",
+        "days_on_market": "133",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.446635,
+          31.127714
         ]
       }
     },
