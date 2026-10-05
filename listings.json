@@ -37993,6 +37993,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7eb53f3d-0f93-528f-8dcd-f0dedb60d2ca",
+        "address": "170 Early Sundown Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1887,
+        "listed_at": "2026-10-05T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.524742,
+          34.703874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ee73d8f-231c-5ee8-b1e9-16e8b4cd44b4",
         "address": "3933-Grizzly-Hills-Cir-Fort-Worth-TX-76244",
         "beds": 4,
