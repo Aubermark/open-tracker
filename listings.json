@@ -2356,6 +2356,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07dc6856-de3f-5a31-ba53-7542dbd85a27",
+        "address": "1207-E-Clearview-Dr-Casa-Grande-AZ-85122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2490,
+        "listed_at": "2026-10-05T15:00:05.000Z",
+        "days_on_market": "122",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.735353,
+          32.889932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07ea1db2-2302-5a10-8523-256de25c9f67",
         "address": "4636-Archer-Dr-The-Colony-TX-75056",
         "beds": 3,
@@ -17407,6 +17428,27 @@
         "coordinates": [
           -97.658006,
           30.419704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3ace2861-41d1-5b7f-8fe1-925c5bb6f127",
+        "address": "2560 N Village Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1337,
+        "listed_at": "2026-10-05T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.768633,
+          38.479151
         ]
       }
     },
@@ -46876,6 +46918,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9fdf90a7-d926-513c-82fe-eb08a389cdc5",
+        "address": "6916 Troubador Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1312,
+        "listed_at": "2026-10-05T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.118834,
+          36.064032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9fef8cde-0221-5385-b230-0b8f757b19b0",
         "address": "1267-Ne-Morning-Sun-Dr-Hillsboro-OR-97124",
         "beds": 4,
@@ -50839,6 +50902,27 @@
         "coordinates": [
           -107.821166,
           37.223083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac78238b-406c-5720-9fce-8cedaeab5577",
+        "address": "2024 Montreat Pkwy",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1750,
+        "listed_at": "2026-10-05T15:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 187000,
+        "price_label": "$187K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.800503,
+          33.412933
         ]
       }
     },
