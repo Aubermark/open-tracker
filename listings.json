@@ -8425,6 +8425,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c2812c9-ec9b-51ac-b717-f023f8fbbb1c",
+        "address": "3004 Lusitania Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2507,
+        "listed_at": "2026-10-05T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.372257,
+          38.447735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c3a27be-313d-5275-801b-99e850d6b234",
         "address": "6150-Parkoaks-Dr-Citrus-Heights-CA-95621",
         "beds": 3,
