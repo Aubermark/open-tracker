@@ -2482,6 +2482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0817c729-7466-5ba3-98c2-2414fd0c6e77",
+        "address": "522 Sandringham Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1458,
+        "listed_at": "2026-10-05T21:40:04.000Z",
+        "days_on_market": ">225",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.266944,
+          34.09979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "082fbf7b-fe54-5b3b-a4b1-ba968f97cf21",
         "address": "300-Sprucewood-Rd-Lake-Mary-FL-32746",
         "beds": 3,
@@ -49921,6 +49942,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a6fb2385-b121-54f9-9358-03b0920cb407",
+        "address": "3339 W Sunset Dr N",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1837,
+        "listed_at": "2026-10-05T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.865489,
+          39.78991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a70886fe-da95-544b-9736-efc0ffcffc52",
         "address": "21211-Hidden-Bend-Loop-Magnolia-TX-77354",
         "beds": 5,
@@ -55801,6 +55843,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b80e416f-b783-57b0-885c-bbc8e17eb837",
+        "address": "4735 Nijinsky Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1899,
+        "listed_at": "2026-10-05T21:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.905594,
+          35.340825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b81874c4-8f27-5a64-924f-38362264d203",
         "address": "103-Hampshire-Ct-Salisbury-NC-28144",
         "beds": 3,
@@ -59659,27 +59722,6 @@
         "coordinates": [
           -82.432583,
           29.585464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c4d4e398-d029-58fd-9959-8c741394c619",
-        "address": "1229-King-Dr-Bedford-TX-76022",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1053,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "5",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.157726,
-          32.832352
         ]
       }
     },
