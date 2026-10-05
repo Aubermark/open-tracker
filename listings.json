@@ -20521,6 +20521,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42eab0cd-7c3f-57f3-bb82-28d3ee8a0d26",
+        "address": "801 N Delaware St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1104,
+        "listed_at": "2026-10-05T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 156000,
+        "price_label": "$156K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.332503,
+          38.265658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42edbb35-f306-52dd-a527-3b191826d143",
         "address": "4157-Oconnell-St-Indian-Trail-NC-28079",
         "beds": 4,
@@ -61156,6 +61177,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccb9286c-4b2e-52b1-a92c-8d0db791c8c5",
+        "address": "5228-Yellowtail-Ln-Nw-Kennesaw-GA-30152",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2951,
+        "listed_at": "2026-10-05T16:50:05.000Z",
+        "days_on_market": "132",
+        "current_price": 689000,
+        "price_label": "$689K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.707143,
+          33.978866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccc59cd6-3e4f-5e04-985d-a91ac461068f",
         "address": "745-Mount-Massive-St-Berthoud-CO-80513",
         "beds": 5,
@@ -61297,6 +61339,27 @@
         "coordinates": [
           -104.318369,
           39.746438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cd26cef5-1242-5d27-8f50-47cc7f96e1eb",
+        "address": "515-Teresa-Ln-Canton-GA-30115",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3915,
+        "listed_at": "2026-10-05T16:50:05.000Z",
+        "days_on_market": "168",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.427468,
+          34.173858
         ]
       }
     },
