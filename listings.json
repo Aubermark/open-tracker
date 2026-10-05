@@ -6871,6 +6871,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1667b196-d004-5297-b73c-978323658cae",
+        "address": "7303-Havenbrook-Dr-San-Antonio-TX-78227",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1125,
+        "listed_at": "2026-10-05T17:10:05.000Z",
+        "days_on_market": "91",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.637958,
+          29.428908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1670ce24-60a1-4ec7-87b8-b96c6e425f5e",
         "address": "3616-Ne-170th-St-Vancouver-WA-98686",
         "beds": 3,
@@ -15181,6 +15202,27 @@
         "coordinates": [
           -78.751775,
           35.572999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "32c5d9e1-c8f6-503e-bb26-bf925eda606d",
+        "address": "361 Valley Brook Ln SE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1624,
+        "listed_at": "2026-10-05T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 279000,
+        "price_label": "$279K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.570917,
+          35.413098
         ]
       }
     },
@@ -54451,6 +54493,27 @@
         "coordinates": [
           -84.684752,
           33.834387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b631f211-ef91-5549-a695-0856c8c3a7a6",
+        "address": "773 North Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1323,
+        "listed_at": "2026-10-05T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.414646,
+          33.665682
         ]
       }
     },
