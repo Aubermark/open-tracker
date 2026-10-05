@@ -51034,6 +51034,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ac35d2a1-f5ae-5cde-990e-cc05a4624c68",
+        "address": "201 Fairview St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1774,
+        "listed_at": "2026-10-05T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.504582,
+          44.190368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac3d51ec-072c-5cea-af75-618a72cccfd9",
         "address": "1604-Park-Ave-Melbourne-FL-32901",
         "beds": 3,
@@ -59554,27 +59575,6 @@
         "coordinates": [
           -76.77576,
           38.8335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c7097a8f-5078-596b-893c-0f13bf48d0ee",
-        "address": "6606-De-Moss-Dr-Apt-1211-Houston-TX-77074",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1092,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "27",
-        "current_price": 109000,
-        "price_label": "$109K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.499278,
-          29.708611
         ]
       }
     },
