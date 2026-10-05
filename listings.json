@@ -3679,6 +3679,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c5665f1-333b-5e21-9abc-d8a506764344",
+        "address": "117 Milestone Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1875,
+        "listed_at": "2026-10-05T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.616492,
+          28.135091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c57ba62-83ed-5873-9bd1-342609511206",
         "address": "4848-Wandering-Way-Zephyrhills-FL-33544",
         "beds": 3,
@@ -11737,27 +11758,6 @@
         "coordinates": [
           -117.205521,
           33.554826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "27e9d21a-80cb-541c-b0b1-2c282858d67e",
-        "address": "2431-Rabbit-Farm-Cir-Loganville-GA-30052",
-        "beds": 7,
-        "baths": 5.5,
-        "sqft": 7182,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "40",
-        "current_price": 1331000,
-        "price_label": "$1.331M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.894405,
-          33.774275
         ]
       }
     },
