@@ -21361,6 +21361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4587ab66-a57a-5900-8e59-a9b8283d52dc",
+        "address": "4412 Lazy Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4297,
+        "listed_at": "2026-10-05T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.692855,
+          35.267589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45abe540-aa12-5efa-9e8d-ca3750014112",
         "address": "2804-Churchill-St-Roseville-MN-55113",
         "beds": 3,
@@ -45799,6 +45820,27 @@
         "coordinates": [
           -76.997425,
           38.983611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "99f9010a-2a43-5ae1-80af-87a761318a93",
+        "address": "3514-Nettle-Ln-Ne-Roswell-GA-30075-14485372",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1882,
+        "listed_at": "2026-10-05T17:00:05.000Z",
+        "days_on_market": "128",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.430358,
+          34.035683
         ]
       }
     },
