@@ -5611,6 +5611,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1282d208-5047-5abc-b24b-b220ff995ce7",
+        "address": "1500 Dallas St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1733,
+        "listed_at": "2026-10-05T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 176000,
+        "price_label": "$176K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738185,
+          31.10782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1295ebf5-5d30-5ad2-8781-4b913dffd3af",
         "address": "885-Halidon-Way-Apt-1421-Folsom-CA-95630",
         "beds": 1,
@@ -63970,27 +63991,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d427a03f-432e-5158-9f3f-0003767e9dae",
-        "address": "1834-Brooker-Rd-Jacksonville-FL-32207",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 856,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "28",
-        "current_price": 192000,
-        "price_label": "$192K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.644376,
-          30.282802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d42b4ee3-4352-5fbc-b95c-9fede4963d5c",
         "address": "1917-Altivo-Dr-Henderson-NV-89074",
         "beds": 4,
@@ -70732,27 +70732,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
-        "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1622,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "143",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.243906,
-          26.702856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eaf5989b-0e89-585b-a2a2-c90562ce1be4",
         "address": "145-Katrina-Ct-Lexington-SC-29073",
         "beds": 4,
@@ -73729,6 +73708,27 @@
         "coordinates": [
           -104.792796,
           39.882405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f497e1c2-d6de-54b6-bf7b-343126717e9a",
+        "address": "1213 Boulevard Rd SE",
+        "beds": 6,
+        "baths": 3,
+        "sqft": 2357,
+        "listed_at": "2026-10-05T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 536000,
+        "price_label": "$536K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.869456,
+          47.037856
         ]
       }
     },
