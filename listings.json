@@ -74953,6 +74953,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f9a99413-a8b8-53c4-9994-83fd5b792d47",
+        "address": "2559 Hitchcock St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2486,
+        "listed_at": "2026-10-05T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.095349,
+          35.996577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f9b1e284-d833-5397-882e-b92780e7b005",
         "address": "7365-Pomelo-Dr-West-Hills-CA-91307",
         "beds": 3,
