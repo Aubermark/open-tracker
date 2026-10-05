@@ -3889,6 +3889,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
+        "address": "5908 Wateree Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1362,
+        "listed_at": "2026-10-05T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.915831,
+          35.921976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cfd4a11-cb20-59dd-8d5f-2fd8001a5929",
         "address": "3409-Constance-St-Titusville-FL-32796",
         "beds": 3,
@@ -8944,6 +8965,27 @@
         "coordinates": [
           -96.964677,
           33.239223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1e387a9f-8489-5d6e-bce5-a8d099782619",
+        "address": "157 Hillside Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1564,
+        "listed_at": "2026-10-05T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.630491,
+          36.323098
         ]
       }
     },
@@ -38890,6 +38932,27 @@
         "coordinates": [
           -112.461113,
           33.586853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "81e61288-419a-57b0-ba4b-a99aef568f37",
+        "address": "7607 Tangle Rush Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3612,
+        "listed_at": "2026-10-05T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37422,
+          27.827052
         ]
       }
     },
