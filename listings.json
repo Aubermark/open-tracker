@@ -41080,6 +41080,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8958c8a2-29e5-5367-be08-d5d37bc8b2fd",
+        "address": "509-Spring-Park-Dr-Canton-GA-30114",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2266,
+        "listed_at": "2026-10-05T17:40:05.000Z",
+        "days_on_market": "83",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.511847,
+          34.256503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "895f9bb3-a1e5-48ca-8ce1-2e090e35215f",
         "address": "1120-Amber-Vista-Ln-Knoxville-TN-37914",
         "beds": 4,
@@ -52141,6 +52162,27 @@
         "coordinates": [
           -122.589916,
           45.494422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "af24ff10-25b9-54bc-9803-97a39ece5780",
+        "address": "809 Arbor Way",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3433,
+        "listed_at": "2026-10-05T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.872191,
+          33.816612
         ]
       }
     },
