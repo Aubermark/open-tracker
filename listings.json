@@ -3763,6 +3763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cc9ac7b-d12a-56db-8a31-e12376396688",
+        "address": "5810 NW Landing Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1950,
+        "listed_at": "2026-10-05T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.894271,
+          45.561619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cd720a5-4ca1-592c-8120-8e7a618ff6ad",
         "address": "9707-Wescott-Rd-Cincinnati-OH-45231",
         "beds": 3,
@@ -30826,6 +30847,27 @@
         "coordinates": [
           -83.895332,
           33.822033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "64f5bad1-471e-5feb-b169-f8c62de596ce",
+        "address": "2817 N Walnut Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1574,
+        "listed_at": "2026-10-05T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.90529,
+          32.258394
         ]
       }
     },
@@ -60106,6 +60148,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c759ae27-1cbd-59b4-a456-22a8d0a9ac55",
+        "address": "3218 Berry Holw",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2844,
+        "listed_at": "2026-10-05T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.555776,
+          33.271666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7686ed1-eaf1-5d65-8ae5-bbe631f1a385",
         "address": "24322-Ferdossa-Dr-Richmond-TX-77406",
         "beds": 5,
@@ -71236,6 +71299,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eb86e0e5-f5ff-5974-95a4-b3f75765ce08",
+        "address": "8 Monticello Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1646,
+        "listed_at": "2026-10-05T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9705,
+          38.593491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ebb8e37c-7080-5d86-9e9c-70b19c59b548",
         "address": "1248-Christopher-Cir-Rock-Hill-SC-29730",
         "beds": 3,
@@ -74842,27 +74926,6 @@
         "coordinates": [
           -97.851315,
           30.539793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f7a48b0e-7cc4-51f1-98ff-825b4f278201",
-        "address": "11530-Sw-Tigard-Dr-Portland-OR-97223",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1558,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "91",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795339,
-          45.436106
         ]
       }
     },
