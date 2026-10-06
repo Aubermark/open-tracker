@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ec9b390-3fb2-47b5-9809-d956750b041f",
+        "address": "408-Riverside-Dr-Princeton-TX-75407",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-10-06T19:30:05.000Z",
+        "days_on_market": "62",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.508878,
+          33.087982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1ecd4a89-3c92-5914-93f5-74f932c0da0d",
         "address": "312-Overland-Trce-Montgomery-TX-77316",
         "beds": 5,
