@@ -21466,6 +21466,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "450778d9-c6cc-5db1-93bd-47b5ae5aa436",
+        "address": "509 Paso Fino Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1432,
+        "listed_at": "2026-10-06T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.824302,
+          30.516361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "450d1367-22b9-5c3d-8ccb-3b5baa6ba084",
         "address": "14725-Grand-Forest-Ct-South-Chesterfield-VA-23834",
         "beds": 4,
@@ -24631,6 +24652,27 @@
         "coordinates": [
           -82.783682,
           28.048223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4fab5c2b-67b7-5ea7-af79-3402a53f907c",
+        "address": "301 Freeland Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2532,
+        "listed_at": "2026-10-06T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.035243,
+          33.100447
         ]
       }
     },
@@ -52393,27 +52435,6 @@
         "coordinates": [
           -97.686432,
           30.492529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ada8bb18-fa32-5022-ae57-e6c5a5046535",
-        "address": "2613-Matchstick-Pl-Spring-Hill-TN-37174",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1311,
-        "listed_at": "2026-09-18T19:40:03.000Z",
-        "days_on_market": "18",
-        "current_price": 382000,
-        "price_label": "$382K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.901065,
-          35.750512
         ]
       }
     },
