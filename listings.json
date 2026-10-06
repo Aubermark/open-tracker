@@ -2965,6 +2965,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09a33102-d569-5bd9-849a-c9ad05b1775e",
+        "address": "15033 W Aster Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3318,
+        "listed_at": "2026-10-06T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 532000,
+        "price_label": "$532K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.383403,
+          33.600777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09b5eb91-97a7-54e3-a4fc-4795d6416137",
         "address": "3339-Paisley-Cir-Orlando-FL-32817",
         "beds": 4,
