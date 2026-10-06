@@ -4015,27 +4015,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0d30a94a-00cf-52ed-8aec-79ede1093061",
-        "address": "3664-Lewis-Rd-Amelia-OH-45102",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1677,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "77",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.236173,
-          39.038832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0d3688fc-5dcb-53f9-83ca-be24bcbefa60",
         "address": "902-La-Cascada-San-Antonio-TX-78258",
         "beds": 5,
@@ -17344,6 +17323,27 @@
         "coordinates": [
           -84.272401,
           33.594767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39d01b19-e7c1-588b-809f-277f3d5dafe0",
+        "address": "5836-Westhaven-Dr-Apt-B-Fort-Worth-TX-76132",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1290,
+        "listed_at": "2026-10-06T17:50:05.000Z",
+        "days_on_market": "28",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396602,
+          32.663673
         ]
       }
     },
