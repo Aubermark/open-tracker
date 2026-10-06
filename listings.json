@@ -45826,6 +45826,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97ff68ef-638e-5ff6-b3d6-c7dc1ca24ee6",
+        "address": "4289-159th-Ct-W-Rosemount-MN-55068-18127872",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1800,
+        "listed_at": "2026-10-06T15:00:04.000Z",
+        "days_on_market": "61",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.154228,
+          44.718223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "98111234-87f5-5d5a-a63c-96c812e6eb98",
         "address": "912-S-Mountain-Ave-Apt-D-Ontario-CA-91762",
         "beds": 2,
@@ -54367,6 +54388,27 @@
         "coordinates": [
           -122.567519,
           45.643635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b354436a-5143-5e89-9aa7-fee3abc5a553",
+        "address": "1211 Southern Stream Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1497,
+        "listed_at": "2026-10-06T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.586705,
+          30.114127
         ]
       }
     },
