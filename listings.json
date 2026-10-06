@@ -31651,27 +31651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "67138300-8dd2-5a65-98f7-06b1f8f7b777",
-        "address": "1038-Cash-St-Alvin-TX-77511",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1648,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "202",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.253366,
-          29.441293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6733f938-4222-5c8d-8381-de750c99c9f0",
         "address": "249-Southberry-Ln-Lexington-SC-29072",
         "beds": 5,
@@ -61360,6 +61339,27 @@
         "coordinates": [
           -78.428142,
           36.017933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c97fe1f7-0d35-58dc-927b-a6caa4203209",
+        "address": "2801 Wickersham Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2401,
+        "listed_at": "2026-10-06T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.387864,
+          31.059167
         ]
       }
     },
