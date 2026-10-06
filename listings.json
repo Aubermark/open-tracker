@@ -75898,6 +75898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f887b8f5-f7b5-546a-b45e-94f6aaa68521",
+        "address": "324 Silver Fox Way",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4930,
+        "listed_at": "2026-10-06T19:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 695000,
+        "price_label": "$695K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.020328,
+          40.242865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f89867a5-019e-50aa-bd2e-777ab8d0261a",
         "address": "925-Harbon-Dr-Franklin-IN-46131",
         "beds": 3,
