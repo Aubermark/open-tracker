@@ -16720,6 +16720,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37a87345-94f7-59f4-a090-1c8a9e0593c2",
+        "address": "2144-Airline-Rd-Mc-Donough-GA-30252",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4143,
+        "listed_at": "2026-10-06T18:30:06.000Z",
+        "days_on_market": "168",
+        "current_price": 691000,
+        "price_label": "$691K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09866,
+          33.500222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "37b569e1-6643-50d4-bd5f-051f4e6365a9",
         "address": "5500-Fortunes-Ridge-Dr-Apt-86-B-Durham-NC-27713",
         "beds": 3,
@@ -29104,27 +29125,6 @@
         "coordinates": [
           -97.398373,
           32.325205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5eddb615-cf62-559f-b488-f33216791852",
-        "address": "3209-Tampa-Ave-Cleveland-OH-44109",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1152,
-        "listed_at": "2026-09-25T13:20:03.000Z",
-        "days_on_market": "11",
-        "current_price": 135000,
-        "price_label": "$135K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.704873,
-          41.432366
         ]
       }
     },
