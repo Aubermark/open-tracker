@@ -13801,6 +13801,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2dce4035-da25-5a29-af7e-e54f1aab6d38",
+        "address": "2213-Pine-View-Trl-Ellenwood-GA-30294",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2286,
+        "listed_at": "2026-10-06T16:40:06.000Z",
+        "days_on_market": "73",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.298376,
+          33.648967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2dd8665e-2d56-5e7b-8b2f-732b6e22123b",
         "address": "5-Bluff-View-Dr-Se-Huntsville-AL-35803",
         "beds": 5,
@@ -27970,27 +27991,6 @@
         "coordinates": [
           -86.082725,
           39.846575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5bf415fc-09ac-5acb-9294-052819cc6016",
-        "address": "93-Charlie-Smith-Dr-Senoia-GA-30276",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1935,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": ">226",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.641178,
-          33.269491
         ]
       }
     },
