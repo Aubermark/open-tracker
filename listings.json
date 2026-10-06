@@ -46834,6 +46834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b74abd5-cdf3-57b9-83d8-623611f539bf",
+        "address": "63 April Wind Dr S",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2000,
+        "listed_at": "2026-10-06T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.614148,
+          30.366798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9b9a15b5-7c57-5407-8e67-c25dd8bff3d5",
         "address": "9315-Dogwood-Pl-Gainesville-GA-30506",
         "beds": 2,
@@ -51154,27 +51175,6 @@
         "coordinates": [
           -84.514536,
           39.205663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a93ce641-52b3-5f63-8827-0a8c9c07de75",
-        "address": "909-Axis-Cir-Hope-Mills-NC-28348",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1454,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "40",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.923196,
-          35.000142
         ]
       }
     },
@@ -56341,6 +56341,27 @@
         "coordinates": [
           -82.619732,
           28.030706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b8c0113b-f5a2-51ba-aec9-1d00d96d98b9",
+        "address": "2101 Rivers Edge Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1488,
+        "listed_at": "2026-10-06T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.709935,
+          30.227117
         ]
       }
     },
@@ -67828,27 +67849,6 @@
         "coordinates": [
           -81.176106,
           35.100188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc843cdd-591d-58a9-8b97-6c22debdc75e",
-        "address": "6401-Marquett-Dr-Rowlett-TX-75089",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1904,
-        "listed_at": "2026-08-13T05:38:22.000Z",
-        "days_on_market": "64",
-        "current_price": 338000,
-        "price_label": "$338K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.524322,
-          32.917383
         ]
       }
     },
