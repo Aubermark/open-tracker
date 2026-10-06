@@ -24721,6 +24721,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fd0d7aa-e326-5eea-8b09-7e64606833ca",
+        "address": "1702 Corona Del Mar Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3616,
+        "listed_at": "2026-10-06T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.526165,
+          29.561198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4fe0abb0-a13f-57bd-8d1e-dbd003fce83a",
         "address": "235-Cedar-Brook-Ln-Cave-Junction-OR-97523",
         "beds": 4,
@@ -43768,27 +43789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "906a76a9-7a39-5c55-9689-c995ca9224c2",
-        "address": "990-Chads-Ford-Ct-Macon-GA-31210",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2915,
-        "listed_at": "2026-09-30T20:10:03.000Z",
-        "days_on_market": "6",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.73694,
-          32.909636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "906de799-0fd7-5aab-8657-8add961c1940",
         "address": "6220-Paylor-St-Mebane-NC-27302",
         "beds": 3,
@@ -50797,27 +50797,6 @@
         "coordinates": [
           -98.01675,
           30.434743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a81b8e4e-a28a-5163-bf3b-cb2142ee9e50",
-        "address": "202-Arbor-Oaks-Dr-Summerville-SC-29485",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1649,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "196",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.200959,
-          32.977357
         ]
       }
     },
