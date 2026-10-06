@@ -29845,6 +29845,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6076040c-406a-5666-8f9e-041b1d83cedc",
+        "address": "110 Patsy Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1747,
+        "listed_at": "2026-10-06T18:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 228000,
+        "price_label": "$228K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.916404,
+          35.455257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "608e67d9-e6d9-5d17-b7a6-062a448dbd66",
         "address": "1212-2nd-Ave-Sw-Alabaster-AL-35007",
         "beds": 3,
@@ -62017,6 +62038,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbc6f605-7138-5428-9807-c74bc48bd07f",
+        "address": "3455 S 800 E",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2584,
+        "listed_at": "2026-10-06T18:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.543972,
+          41.252668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbd38bee-3b43-5fce-a893-ee1d9bfef7c7",
         "address": "4805-Coronet-Rd-Plant-City-FL-33566",
         "beds": 3,
@@ -64699,27 +64741,6 @@
         "coordinates": [
           -104.896558,
           40.325674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d3d741af-7d75-5697-b1cb-662472b1406c",
-        "address": "5539-W-Avenue-L6-Lancaster-CA-93536",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2021,
-        "listed_at": "2026-10-02T18:01:36.000Z",
-        "days_on_market": "29",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.228985,
-          34.654959
         ]
       }
     },
