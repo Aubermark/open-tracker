@@ -7207,27 +7207,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "178d0e1a-438d-5bb6-8728-2a2821f0fb3c",
-        "address": "5627-Barclay-Ct-Fort-Mill-SC-29707",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2772,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "83",
-        "current_price": 470000,
-        "price_label": "$470K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.899968,
-          35.067209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "178ddec4-5fba-493a-bfab-68a44a7540d8",
         "address": "5699-Kusnick-Ave-Tracy-CA-95377",
         "beds": 5,
@@ -35866,6 +35845,27 @@
         "coordinates": [
           -112.218883,
           33.711638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "75b8c6da-4bbf-5570-822a-1bfdb69f8e41",
+        "address": "1193-E-G-St-Ontario-CA-91764",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1014,
+        "listed_at": "2026-10-06T20:20:06.000Z",
+        "days_on_market": "64",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.628869,
+          34.070898
         ]
       }
     },
