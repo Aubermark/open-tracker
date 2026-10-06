@@ -11386,6 +11386,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "269445c7-d16e-55f3-8599-187accd49dd5",
+        "address": "4800-Leonard-Ave-Henrico-VA-23231-18498952",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1466,
+        "listed_at": "2026-10-06T15:30:07.000Z",
+        "days_on_market": "47",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.355988,
+          37.521639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "269f8594-c7a7-5805-82b2-41ec3e3ee4c8",
         "address": "19495-Sw-Southview-St-Beaverton-OR-97078",
         "beds": 3,
@@ -33121,6 +33142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bd1eafe-9e61-583f-8a3b-f3977e8e00fa",
+        "address": "1126 5th St NW",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1028,
+        "listed_at": "2026-10-06T15:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 558000,
+        "price_label": "$558K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019228,
+          38.905144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6be009fe-f34a-594f-b712-c670a6a21dd7",
         "address": "15019-Silhouette-Ridge-Dr-Humble-TX-77396",
         "beds": 4,
@@ -44728,6 +44770,27 @@
         "coordinates": [
           -80.149529,
           36.109124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94af793a-07a7-5c0e-a6a2-022116c2f5cc",
+        "address": "3609-Millington-Dr-Clarksville-TN-37040",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2085,
+        "listed_at": "2026-10-06T15:30:07.000Z",
+        "days_on_market": "104",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.295408,
+          36.618917
         ]
       }
     },
