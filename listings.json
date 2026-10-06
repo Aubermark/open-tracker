@@ -2650,6 +2650,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "085853d8-3f60-5dcf-9e33-f6581e8ad849",
+        "address": "1898 S 160th Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2090,
+        "listed_at": "2026-10-06T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.404238,
+          33.428849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0876faba-ae91-5d7d-9e95-1492054c7be8",
         "address": "13241-Cameron-St-Victorville-CA-92392",
         "beds": 3,
@@ -49144,27 +49165,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a337dbd5-5455-5b5e-a13e-547d7bfdf5d7",
-        "address": "272-Cape-Jasmine-Way-Lexington-SC-29073",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2072,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "25",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.237777,
-          33.900488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a339db2e-a9c4-59b0-a873-130d04d0e95e",
         "address": "35-Dapp-Ct-Elmwood-Park-NJ-07407",
         "beds": 2,
@@ -72448,27 +72448,6 @@
         "coordinates": [
           -96.938103,
           33.214865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ed28e651-e7c3-5ff1-9283-f090853400b7",
-        "address": "5016-Watercrest-Trl-Belmont-NC-28012",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2661,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "193",
-        "current_price": 586000,
-        "price_label": "$586K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.048274,
-          35.16611
         ]
       }
     },
