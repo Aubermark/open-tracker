@@ -3952,27 +3952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0cfd4a11-cb20-59dd-8d5f-2fd8001a5929",
-        "address": "3409-Constance-St-Titusville-FL-32796",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1274,
-        "listed_at": "2026-09-25T17:20:03.000Z",
-        "days_on_market": "11",
-        "current_price": 284000,
-        "price_label": "$284K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.848498,
-          28.590044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0d0b7690-359b-4d85-9852-761be5de9622",
         "address": "2112-Elio-Ridge-Dr-Zellwood-FL-32798",
         "beds": 3,
@@ -67870,6 +67849,27 @@
         "coordinates": [
           -86.593431,
           36.208289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd4d213b-e562-5fd0-8688-9e0e046a502a",
+        "address": "6733-Barrington-Hills-St-Las-Vegas-NV-89149",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2294,
+        "listed_at": "2026-10-06T16:00:05.000Z",
+        "days_on_market": "49",
+        "current_price": 439000,
+        "price_label": "$439K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.299315,
+          36.283669
         ]
       }
     },
