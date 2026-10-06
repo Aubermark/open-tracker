@@ -20752,6 +20752,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42ac4158-15d2-4a78-96be-383b8e1fffc0",
+        "address": "3229 W Silverdale Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2327,
+        "listed_at": "2026-10-06T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.601014,
+          33.139893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42b319f9-262a-58da-aae9-3963303ef86d",
         "address": "2158-Chambers-Rd-Mc-Donough-GA-30253",
         "beds": 4,
@@ -32296,27 +32317,6 @@
         "coordinates": [
           -82.419455,
           40.080797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "68b79ef6-34cb-5a04-9214-1ad7316197b7",
-        "address": "104-Adon-St-Reidsville-GA-30453",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1527,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "12",
-        "current_price": 206000,
-        "price_label": "$206K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.104838,
-          32.091768
         ]
       }
     },
