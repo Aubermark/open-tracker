@@ -47128,6 +47128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9d8f3487-c23b-5034-bec4-99eb96a72976",
+        "address": "5549 S Youngfield Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1557,
+        "listed_at": "2026-10-06T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 621000,
+        "price_label": "$621K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.14401,
+          39.615824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d8fbb77-48aa-5b0d-9369-f958d08d975a",
         "address": "3-Summer-Branch-Ct-Irmo-SC-29063",
         "beds": 3,
