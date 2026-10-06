@@ -17539,6 +17539,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a97083e-f2f7-5c3d-bbc1-3eba267457ba",
+        "address": "11828 Craw Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1352,
+        "listed_at": "2026-10-06T06:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.693218,
+          34.038778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3aae093d-6122-5083-9125-1f5ead3f7b09",
         "address": "311-Quail-Run-Roswell-GA-30076",
         "beds": 2,
