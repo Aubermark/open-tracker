@@ -73441,6 +73441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f0b4fb0a-a62a-562f-bedd-bde650a5ddb1",
+        "address": "4986 S Fillmore Ct",
+        "beds": 5,
+        "baths": 7,
+        "sqft": 9554,
+        "listed_at": "2026-10-06T12:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 4770000,
+        "price_label": "$4.770M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9532,
+          39.625464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f0dbd26b-bdf1-572d-b619-7dc75ab616bf",
         "address": "1825-Habersham-Villa-Dr-Cumming-GA-30041",
         "beds": 4,
