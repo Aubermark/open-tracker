@@ -53344,27 +53344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b038c03f-e7c7-5b26-8b18-401f47654a3b",
-        "address": "1505-Rival-Ter-North-Port-FL-34286",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1098,
-        "listed_at": "2026-09-29T18:00:04.000Z",
-        "days_on_market": "7",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.188764,
-          27.072982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b039b45d-aa60-5dcb-8866-36aaa081215c",
         "address": "195-Lotz-Dr-Summerville-SC-29483",
         "beds": 4,
@@ -59827,6 +59806,27 @@
         "coordinates": [
           -84.890895,
           33.749938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3e58e64-1614-54d0-8a6e-a5610e533d5a",
+        "address": "4034-Green-St-Jacksonville-FL-32205",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1067,
+        "listed_at": "2026-10-06T21:20:05.000Z",
+        "days_on_market": "156",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.718866,
+          30.315215
         ]
       }
     },
