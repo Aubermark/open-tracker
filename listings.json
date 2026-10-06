@@ -16846,6 +16846,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "384e6335-9e87-5c2b-aa5d-0a468dac7bb1",
+        "address": "2304 Sabroso St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1218,
+        "listed_at": "2026-10-06T11:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.018419,
+          36.200642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3851bd2f-ec68-598d-9ecb-25d44d051f5f",
         "address": "15294-Clear-St-Noblesville-IN-46060",
         "beds": 3,
@@ -65791,6 +65812,27 @@
         "coordinates": [
           -116.99729,
           32.598462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d7d6506d-2f12-53d3-8516-16b189e2bf1e",
+        "address": "1617 Fallingwater Trl",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3057,
+        "listed_at": "2026-10-06T11:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.395106,
+          32.992814
         ]
       }
     },
