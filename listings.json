@@ -844,6 +844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "021fe4d5-4a4c-517b-ae93-a5555edb68a0",
+        "address": "3192 Wild Dunes Ct",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1212,
+        "listed_at": "2026-10-06T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.794808,
+          39.919721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "022301b9-468a-538b-83c1-fd64791bd84a",
         "address": "704-Morningside-Dr-Mount-Holly-NC-28120-9168436",
         "beds": 2,
