@@ -24406,27 +24406,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4f5b2036-b1e6-5843-b026-8837ccdc1aef",
-        "address": "2338-Hillandale-Rd-Durham-NC-27705",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1445,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "21",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.935006,
-          36.043993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4f6735fc-4b9b-584f-98ff-a30ae744d0f5",
         "address": "3309-Mokelumne-Ct-Modesto-CA-95354",
         "beds": 3,
@@ -65371,6 +65350,27 @@
         "coordinates": [
           -80.827484,
           35.287726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d54248a8-028a-53da-bde5-76cc0a0b59cc",
+        "address": "208 Bluffton Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1962,
+        "listed_at": "2026-10-06T18:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.617721,
+          34.087484
         ]
       }
     },
