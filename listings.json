@@ -32890,6 +32890,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b62411c-8a07-5cc8-9b27-8ad60762dc38",
+        "address": "6670 Stagecoach Ave",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 2324,
+        "listed_at": "2026-10-06T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.929783,
+          40.153382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b65d68b-9770-586b-9528-ca2e3fc21fb9",
         "address": "320-Summerwalk-Cir-Chapel-Hill-NC-27517",
         "beds": 2,
@@ -44245,6 +44266,27 @@
         "coordinates": [
           -94.76828,
           39.347246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "93b3c873-92b0-55bf-a5ad-a542c4708e89",
+        "address": "1607 Timberline Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2037,
+        "listed_at": "2026-10-06T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.799843,
+          32.136254
         ]
       }
     },
@@ -73162,6 +73204,27 @@
         "coordinates": [
           -96.977958,
           33.205748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f001c507-71d8-5b5b-a770-f0cde2b40a69",
+        "address": "1322 E Waco Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1494,
+        "listed_at": "2026-10-06T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.804497,
+          32.735211
         ]
       }
     },
