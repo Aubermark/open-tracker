@@ -8824,27 +8824,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d78cddc-8410-534e-93ad-6674e2595607",
-        "address": "4468-Norfleet-St-Concord-NC-28025",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2261,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "64",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.562585,
-          35.35417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1d821499-4ef4-5fdc-854b-fa11a473f63c",
         "address": "13449-Nascoby-Ln-Woodbridge-VA-22193",
         "beds": 3,
@@ -17407,27 +17386,6 @@
         "coordinates": [
           -84.272401,
           33.594767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "39d01b19-e7c1-588b-809f-277f3d5dafe0",
-        "address": "5836-Westhaven-Dr-Apt-B-Fort-Worth-TX-76132",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1290,
-        "listed_at": "2026-10-06T17:50:05.000Z",
-        "days_on_market": "28",
-        "current_price": 212000,
-        "price_label": "$212K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.396602,
-          32.663673
         ]
       }
     },
@@ -61444,6 +61402,27 @@
         "coordinates": [
           -79.822824,
           36.039938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c9b6ca99-2600-591f-a0cc-c8110f04500c",
+        "address": "188 Green Egret Way",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2757,
+        "listed_at": "2026-10-06T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.876415,
+          30.634003
         ]
       }
     },
