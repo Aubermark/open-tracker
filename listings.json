@@ -42655,6 +42655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d609618-3e70-5eda-bc10-c154692bb5ae",
+        "address": "15391 Trillium Cir",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1465,
+        "listed_at": "2026-10-06T10:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.474654,
+          44.868229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d8de036-96f4-5ce8-b789-d74a2a1a4a2a",
         "address": "3001-Gilchrist-Dr-Lorena-TX-76655",
         "beds": 5,
