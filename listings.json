@@ -42970,6 +42970,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8de0a210-0c92-51a3-a317-e26d985ed096",
+        "address": "9518-Rushmore-Cir-Braselton-GA-30517",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2067,
+        "listed_at": "2026-10-06T12:30:04.000Z",
+        "days_on_market": "139",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.812524,
+          34.125599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8de5e9d8-a830-51b5-9e43-def491292b6e",
         "address": "8386-W-Palo-Verde-Ave-Peoria-AZ-85345",
         "beds": 4,
@@ -49453,6 +49474,27 @@
         "coordinates": [
           -84.599558,
           33.877588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a4c03f8c-76ed-58d5-9514-c5def69f4a9b",
+        "address": "1330 Quentin St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2500,
+        "listed_at": "2026-10-06T12:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.844768,
+          39.7375
         ]
       }
     },
