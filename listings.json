@@ -14725,6 +14725,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30dc7c6a-2f69-5c78-9d24-78d3e7b03523",
+        "address": "15128 Evergreen House Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2996,
+        "listed_at": "2026-10-06T13:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.978884,
+          35.093853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30e47612-019b-5cfa-9b48-b976310a5e1f",
         "address": "3202-N-Arlington-Ave-Indianapolis-IN-46218",
         "beds": 3,
