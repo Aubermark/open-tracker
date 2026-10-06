@@ -15523,6 +15523,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "336af74a-0437-5edb-a958-68c61d9a0e92",
+        "address": "9430 Lookover Bay",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-10-06T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 222000,
+        "price_label": "$222K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.30001,
+          29.521452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3372c11c-50bf-5bc9-a970-fb0658d49550",
         "address": "408-N-1500-W-Clearfield-UT-84015",
         "beds": 5,
