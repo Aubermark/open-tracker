@@ -25708,6 +25708,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53bcb04d-b21f-56c4-afcd-4dd65ce9339f",
+        "address": "12421 Tippecanoe Pl",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2155,
+        "listed_at": "2026-10-06T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.229622,
+          41.392528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "53d706f1-f546-5bac-b7a9-414f02165b8f",
         "address": "9334-Arbor-Creek-Dr-Charlotte-NC-28269",
         "beds": 4,
@@ -36895,27 +36916,6 @@
         "coordinates": [
           -97.66131,
           31.047221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "797f99bf-88d7-5bcb-ba75-5eaa5d96bc7e",
-        "address": "774-Urban-St-Lakewood-CO-80401",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1906,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "81",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.133365,
-          39.728514
         ]
       }
     },
