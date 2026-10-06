@@ -12541,6 +12541,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a30820a-569f-54af-b3d8-4f83982d37ca",
+        "address": "3147 Glade Springs Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1633,
+        "listed_at": "2026-10-06T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.192235,
+          30.065471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a60113f-0e55-5b76-a64f-6c8436382723",
         "address": "1349-Sierry-Peaks-Dr-Prescott-AZ-86305",
         "beds": 4,
@@ -54934,6 +54955,27 @@
         "coordinates": [
           -97.133377,
           31.507121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b52d3060-68c8-53ea-a7ee-3cf8a539fb85",
+        "address": "3737-Winterberry-Ct-Nw-Concord-NC-28027",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2182,
+        "listed_at": "2026-10-06T19:50:05.000Z",
+        "days_on_market": "53",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.634641,
+          35.401476
         ]
       }
     },
