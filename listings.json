@@ -10798,27 +10798,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "242212d5-852c-56a7-94e4-6459bcb09df5",
-        "address": "13561-Glacier-Cir-Hesperia-CA-92345",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1250,
-        "listed_at": "2026-09-10T22:20:03.000Z",
-        "days_on_market": "26",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.366962,
-          34.436134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "242e250f-238c-5ef8-8fa4-bb0d1afd2489",
         "address": "220-Poplar-St-Wendell-NC-27591",
         "beds": 3,
@@ -31084,6 +31063,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6532ef4c-35ee-5493-86ee-634483272b4d",
+        "address": "8223-Manorford-Dr-Cleveland-OH-44129",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1888,
+        "listed_at": "2026-10-06T14:30:05.000Z",
+        "days_on_market": "19",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.742476,
+          41.387012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "653382b4-98ed-5b2c-9771-4b515ae8bbd2",
         "address": "5320-Beverly-Dr-Guthrie-OK-73044",
         "beds": 3,
@@ -36433,6 +36433,27 @@
         "coordinates": [
           -122.819506,
           45.516377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "77fae4c6-f046-55d8-af3d-2d1ec4ef3eac",
+        "address": "1133 Hudson Dr NE",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3248,
+        "listed_at": "2026-10-06T14:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1200000,
+        "price_label": "$1.200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.350195,
+          33.780689
         ]
       }
     },
@@ -54850,6 +54871,27 @@
         "coordinates": [
           -97.443486,
           31.100669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b56ff56a-c9a7-54b9-be33-e712298bd8e9",
+        "address": "1801 Dogwood Ct",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2967,
+        "listed_at": "2026-10-06T14:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.903367,
+          34.997758
         ]
       }
     },
