@@ -11218,6 +11218,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26148dba-e16e-5416-af55-8f1fe8d6827f",
+        "address": "2433 Misty Ridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2444,
+        "listed_at": "2026-10-06T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 557000,
+        "price_label": "$557K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.219893,
+          35.830277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2627a601-4c19-53e8-ad8d-3c430bf5178f",
         "address": "4253-E-Vineyard-Rd-Phoenix-AZ-85042",
         "beds": 3,
