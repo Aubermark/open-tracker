@@ -27430,6 +27430,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5a42c548-235a-5075-b9d8-aec11415fa79",
+        "address": "17297 Wilde Ave",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1165,
+        "listed_at": "2026-10-06T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.789279,
+          39.550176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a52d8dc-b6cc-4bdf-8b31-3b359098f8f4",
         "address": "201-Loving-Trl-Justin-TX-76247",
         "beds": 4,
