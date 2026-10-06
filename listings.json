@@ -5590,6 +5590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "122b68f5-57cd-5912-9313-39dbed779c04",
+        "address": "5083 Sagelyn St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1896,
+        "listed_at": "2026-10-06T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.035392,
+          36.096691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12315ff1-3ea8-5fbe-8f8c-9f971ad78307",
         "address": "659-Day-Break-Dr-Greenwood-IN-46143",
         "beds": 3,
@@ -14656,6 +14677,27 @@
         "coordinates": [
           -81.033804,
           35.031501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3088e515-1cf2-548f-b8fd-9aff51170895",
+        "address": "4042 Tahoe Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1740,
+        "listed_at": "2026-10-06T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 351000,
+        "price_label": "$351K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.947788,
+          38.602688
         ]
       }
     },
@@ -44203,6 +44245,27 @@
         "coordinates": [
           -87.019036,
           36.387953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92c0c82f-c227-544e-8476-cc6470c950cb",
+        "address": "1511 Living Desert Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1114,
+        "listed_at": "2026-10-06T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.132628,
+          36.106402
         ]
       }
     },
