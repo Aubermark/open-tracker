@@ -52966,6 +52966,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "af61b940-ef19-5f3a-9854-fef9b26f80ed",
+        "address": "1013-Ashley-Garden-Blvd-Charleston-SC-29414",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1744,
+        "listed_at": "2026-10-06T15:10:06.000Z",
+        "days_on_market": "104",
+        "current_price": 414000,
+        "price_label": "$414K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09043,
+          32.834061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "af6a8e49-18e6-53a5-ba0b-8fef840ba498",
         "address": "176-Bellflower-Ln-Magnolia-DE-19962",
         "beds": 4,
