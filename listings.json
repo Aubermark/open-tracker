@@ -4204,6 +4204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ddef024-014f-5cc9-a809-233c4f980016",
+        "address": "104-Santa-Anita-Ave-Newark-OH-43055",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1110,
+        "listed_at": "2026-10-06T14:40:05.000Z",
+        "days_on_market": "81",
+        "current_price": 187000,
+        "price_label": "$187K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.428313,
+          40.094129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0debd25c-97ee-51b3-a8a3-cdb2db3b265a",
         "address": "8932-Mesa-Oak-Dr-Riverside-CA-92508",
         "beds": 3,
@@ -21649,6 +21670,27 @@
         "coordinates": [
           -82.983802,
           40.129062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
+        "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "listed_at": "2026-10-06T14:40:05.000Z",
+        "days_on_market": "165",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.326256,
+          34.658557
         ]
       }
     },
