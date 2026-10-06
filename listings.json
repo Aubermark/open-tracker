@@ -33751,6 +33751,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6dfdd0e6-223c-525e-a3c4-e564f6fe4f05",
+        "address": "3520 S J St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1571,
+        "listed_at": "2026-10-06T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 766000,
+        "price_label": "$766K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.185443,
+          34.167967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6e27dd2d-7c80-5454-80d4-09b766ff232c",
         "address": "4466-W-Center-Ave-Denver-CO-80219",
         "beds": 3,
