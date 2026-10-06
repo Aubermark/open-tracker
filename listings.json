@@ -15103,6 +15103,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3262863e-1df3-522e-a8d1-1f2cc0a58022",
+        "address": "6710 Hopi Rd",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1974,
+        "listed_at": "2026-10-06T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.541642,
+          44.882075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "32637fa7-1303-5f94-b682-794c91f491ed",
         "address": "3499-Fm-1564-E-Greenville-TX-75402",
         "beds": 4,
@@ -74779,6 +74800,27 @@
         "coordinates": [
           -82.266628,
           27.93251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6249e3e-4730-4646-8fe1-821477dd18cb",
+        "address": "109 Meadowbrook Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1474,
+        "listed_at": "2026-10-06T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.597274,
+          27.944125
         ]
       }
     },
