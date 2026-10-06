@@ -43936,6 +43936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9108c495-33cb-59f7-8e25-25ba6e5dcc2e",
+        "address": "402-Mossyleaf-Dr-Sw-Huntsville-AL-35824",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2259,
+        "listed_at": "2026-10-06T15:50:06.000Z",
+        "days_on_market": "89",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.735373,
+          34.650024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9114d1d1-157a-5a90-b861-4c577ed79fad",
         "address": "1328-Baffin-Bay-Rd-Columbia-SC-29212",
         "beds": 3,
@@ -67849,27 +67870,6 @@
         "coordinates": [
           -86.593431,
           36.208289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dd4d213b-e562-5fd0-8688-9e0e046a502a",
-        "address": "6733-Barrington-Hills-St-Las-Vegas-NV-89149",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2294,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "49",
-        "current_price": 439000,
-        "price_label": "$439K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.299315,
-          36.283669
         ]
       }
     },
