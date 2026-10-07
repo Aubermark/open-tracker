@@ -57145,6 +57145,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ba640999-f4aa-5977-8dda-caca099edfbb",
+        "address": "1113-Sw-Sequoia-Ln-Dallas-OR-97338",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-10-07T13:30:06.000Z",
+        "days_on_market": "8",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.331622,
+          44.926698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ba8918a1-4f5e-540e-8acc-9e37e07dcce4",
         "address": "1320-Nw-5th-Ct-Battle-Ground-WA-98604",
         "beds": 4,
