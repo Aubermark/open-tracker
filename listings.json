@@ -844,6 +844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02158333-4fdf-57dc-94cd-2c8a03deab57",
+        "address": "1812-Devonridge-Dr-Fuquay-Varina-NC-27526",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2777,
+        "listed_at": "2026-10-07T16:00:05.000Z",
+        "days_on_market": "122",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.808519,
+          35.608734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "021fe4d5-4a4c-517b-ae93-a5555edb68a0",
         "address": "3192 Wild Dunes Ct",
         "beds": 3,
