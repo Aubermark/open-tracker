@@ -44377,6 +44377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90b67088-bfbd-55ac-89dc-846f674a6b12",
+        "address": "10132-Sw-Trapper-Ter-Beaverton-OR-97008",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1072,
+        "listed_at": "2026-10-07T19:10:05.000Z",
+        "days_on_market": "151",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797843,
+          45.446543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90e7edac-ac23-5fe4-858b-a466daf5bd3a",
         "address": "208-Foxdale-Ct-Lagrange-GA-30240",
         "beds": 4,
@@ -76606,27 +76627,6 @@
         "coordinates": [
           -95.374144,
           30.06306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8e63a7d-9b0e-5584-bc84-b93eafd2a926",
-        "address": "815-Grants-Cyn-San-Antonio-TX-78251",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2145,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "159",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.692644,
-          29.442129
         ]
       }
     },
