@@ -18463,6 +18463,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c03e2be-f102-512b-b2f3-00b71d7610a3",
+        "address": "10418-White-Peacock-Pl-Riverview-FL-33578",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1360,
+        "listed_at": "2026-10-07T15:30:06.000Z",
+        "days_on_market": "29",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.328286,
+          27.848454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c06b0e2-a504-5847-903a-3e3f54b9ceb7",
         "address": "7266-E-29th-St-Tucson-AZ-85710",
         "beds": 3,
