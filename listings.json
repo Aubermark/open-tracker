@@ -14893,6 +14893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3081889d-36f1-5eaf-a5c6-f5af069d3fc5",
+        "address": "100 S Monitor Pl",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2067,
+        "listed_at": "2026-10-07T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.800132,
+          32.219581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3088e515-1cf2-548f-b8fd-9aff51170895",
         "address": "4042 Tahoe Pl",
         "beds": 3,
@@ -39142,6 +39163,27 @@
         "coordinates": [
           -84.186745,
           33.926925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7f68107f-75e8-5621-b55e-1e6bb3446024",
+        "address": "620-Spangler-Ln-Ashland-City-TN-37015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1832,
+        "listed_at": "2026-10-07T21:10:05.000Z",
+        "days_on_market": "29",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.050697,
+          36.363743
         ]
       }
     },
