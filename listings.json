@@ -10063,6 +10063,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21c5db0f-c5e1-5e8e-ab17-3fc9b462365d",
+        "address": "6253 Catalina Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1049,
+        "listed_at": "2026-10-07T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 208000,
+        "price_label": "$208K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.776638,
+          33.798994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21e5a5e5-5910-5172-a984-5af31ea2bc91",
         "address": "6113-Rock-Dove-Cir-Colleyville-TX-76034",
         "beds": 3,
