@@ -9496,6 +9496,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1faea363-c9ae-5e49-b462-ad2799222ef4",
+        "address": "8126-Gambrel-Way-Rosharon-TX-77583",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1833,
+        "listed_at": "2026-10-07T14:20:06.000Z",
+        "days_on_market": "48",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.470429,
+          29.465926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1fcf8bfb-c0bf-572c-9e61-12ced620ebf8",
         "address": "405-Annie-Lee-Rd-Trussville-AL-35173",
         "beds": 3,
@@ -59455,27 +59476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c1771733-06e2-595b-90f4-52d7d3cdebb3",
-        "address": "314-Colonial-Dr-Exton-PA-19341",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1708,
-        "listed_at": "2026-09-10T14:50:03.000Z",
-        "days_on_market": "27",
-        "current_price": 585000,
-        "price_label": "$585K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.643483,
-          40.045306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c17947ee-0d80-5b1f-a7d5-b321823223f1",
         "address": "11327-Mounts-Run-Dr-Dallas-TX-75218",
         "beds": 5,
@@ -67702,27 +67702,6 @@
         "coordinates": [
           -87.51209,
           36.849933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "da6243a4-bc4b-575d-9199-ae5516c77857",
-        "address": "6604-N-Chesterfield-Dr-Saginaw-TX-76179",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1356,
-        "listed_at": "2026-09-10T19:06:10.000Z",
-        "days_on_market": "68",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.405171,
-          32.856373
         ]
       }
     },
