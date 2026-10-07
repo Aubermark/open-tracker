@@ -54163,6 +54163,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b0ecf445-59ff-53fb-95ac-e2f064331cee",
+        "address": "1823 Kingsbury Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1365,
+        "listed_at": "2026-10-07T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.443065,
+          40.713048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b0fc978c-5a95-5700-b55e-85ef1404abcc",
         "address": "2923-E-Inca-Ln-San-Tan-Valley-AZ-85140",
         "beds": 3,
