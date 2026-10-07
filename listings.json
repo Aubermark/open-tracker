@@ -17560,6 +17560,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39884987-3017-5556-b1dd-8b3312d2fb73",
+        "address": "1100 Burlingame Ct",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2024,
+        "listed_at": "2026-10-07T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.596367,
+          36.07318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "399da60d-782a-5bdc-984a-ec06c068732a",
         "address": "1034-Kennedy-Dr-Allen-TX-75013-13974253",
         "beds": 5,
@@ -38470,27 +38491,6 @@
         "coordinates": [
           -80.764027,
           34.642375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7cf8110f-e03c-5f50-92a8-02ab543c77ac",
-        "address": "37557-Daliha-Ter-Zephyrhills-FL-33542",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1363,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "61",
-        "current_price": 182000,
-        "price_label": "$182K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.194834,
-          28.249916
         ]
       }
     },
