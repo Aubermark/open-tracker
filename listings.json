@@ -11575,27 +11575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "269f8594-c7a7-5805-82b2-41ec3e3ee4c8",
-        "address": "19495-Sw-Southview-St-Beaverton-OR-97078",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1022,
-        "listed_at": "2026-10-02T20:00:02.000Z",
-        "days_on_market": "5",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.877829,
-          45.486157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "26b15529-00a1-5c3c-82d5-845cd1004a50",
         "address": "6702-Terania-Cir-Katy-TX-77493",
         "beds": 4,
@@ -32365,27 +32344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "677e2f45-fbcd-5c0e-8ccd-b9ecbaefcd6d",
-        "address": "1624-British-Cup-Dr-Las-Vegas-NV-89117",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1820,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "70",
-        "current_price": 455000,
-        "price_label": "$455K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.305951,
-          36.151863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "678116c9-9627-434d-9b0b-546caf71aa84",
         "address": "321-Apalachee-Way-Bonaire-GA-31005",
         "beds": 5,
@@ -48067,6 +48025,27 @@
         "coordinates": [
           -116.941934,
           33.738688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9dcbb6c2-7c3e-549f-bc9b-d1620953f4fb",
+        "address": "3798 Fern Ridge Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1536,
+        "listed_at": "2026-10-07T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.844099,
+          35.044932
         ]
       }
     },
