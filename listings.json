@@ -19282,6 +19282,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e7dde56-66e8-5725-8eff-f9146a6f9ac7",
+        "address": "1031-Cutter-St-Cincinnati-OH-45203",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2469,
+        "listed_at": "2026-10-07T16:30:06.000Z",
+        "days_on_market": "71",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.526006,
+          39.106035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e8b5017-d0f4-5c7a-8db3-059bbb472c84",
         "address": "4059-Canby-Ln-Decatur-GA-30035",
         "beds": 3,
@@ -44518,6 +44539,27 @@
         "coordinates": [
           -98.376957,
           29.490517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "915e0b37-2a35-4c78-af86-50d0b0c579ab",
+        "address": "122 Persimmon Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2609,
+        "listed_at": "2026-10-07T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.106382,
+          35.065629
         ]
       }
     },
@@ -76480,6 +76522,27 @@
         "coordinates": [
           -86.044004,
           39.499752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f89d29b0-3daf-4fb2-9c90-2d3c56c8a43d",
+        "address": "1008 Channel Drop Loop",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2446,
+        "listed_at": "2026-10-07T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.278259,
+          35.807714
         ]
       }
     },
