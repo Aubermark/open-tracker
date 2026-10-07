@@ -73210,6 +73210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee3da461-050c-551b-b67a-35586a5ba30c",
+        "address": "12-Birchwood-Cir-Wimberley-TX-78676",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2607,
+        "listed_at": "2026-10-07T15:50:06.000Z",
+        "days_on_market": "128",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.150091,
+          30.041606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ee4e602b-4d7e-50ec-9841-75975faef41f",
         "address": "1340-Sassafras-Ave-Altamonte-Springs-FL-32714",
         "beds": 4,
