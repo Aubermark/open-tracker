@@ -77704,6 +77704,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fcb71368-4403-53ce-89d8-d2ea4caff74a",
+        "address": "4014 Northerly Island Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2197,
+        "listed_at": "2026-10-07T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.181927,
+          35.222687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fcba158c-b939-5f01-92e9-e4a058a2793c",
         "address": "153-Courtney-Oak-Dr-West-Columbia-SC-29170",
         "beds": 3,
