@@ -1180,6 +1180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02c9c4c5-8b26-5981-9810-8e414ad8ea78",
+        "address": "3208 Timberdale Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2080,
+        "listed_at": "2026-10-07T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 339000,
+        "price_label": "$339K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.325126,
+          36.606006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02d9a63c-d652-5aec-a4e7-8f02bbb462ec",
         "address": "415-Hawkins-Rd-Clarksville-TN-37040",
         "beds": 3,
@@ -10420,6 +10441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22b4d950-f6f9-5367-9208-35128e03bfba",
+        "address": "223 Gumtree Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1452,
+        "listed_at": "2026-10-07T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.590434,
+          35.487226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22bb5471-c42c-5bee-8d36-687a06f97df2",
         "address": "4193-Persimmon-Rd-Lancaster-SC-29720",
         "beds": 4,
@@ -17869,6 +17911,27 @@
         "coordinates": [
           -112.329026,
           33.756029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3a50e70d-0177-5d54-abbd-ed4dfa963cad",
+        "address": "3907 E 16th St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1054,
+        "listed_at": "2026-10-07T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.100281,
+          39.788626
         ]
       }
     },
@@ -27424,27 +27487,6 @@
         "coordinates": [
           -80.232467,
           32.953763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "57d353fc-caf6-50da-8de3-9dc0fcd9b017",
-        "address": "1311-Campus-Ave-Redlands-CA-92374",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1200,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "23",
-        "current_price": 519000,
-        "price_label": "$519K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.159157,
-          34.065728
         ]
       }
     },
@@ -38365,27 +38407,6 @@
         "coordinates": [
           -122.872946,
           45.516838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7cce452c-97a6-5d5e-b6b9-030d8deabbc7",
-        "address": "209-Dana-Dr-Collinsville-IL-62234",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2116,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "69",
-        "current_price": 253000,
-        "price_label": "$253K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.971484,
-          38.697496
         ]
       }
     },
@@ -62452,27 +62473,6 @@
         "coordinates": [
           -105.01287,
           40.040232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cb8e4946-994c-5cf1-b94b-73b8ab927f7d",
-        "address": "3221-Meadow-Ln-Winston-Salem-NC-27107",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1070,
-        "listed_at": "2026-09-10T14:10:03.000Z",
-        "days_on_market": "27",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.135004,
-          36.049181
         ]
       }
     },
