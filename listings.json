@@ -14620,6 +14620,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f9aebf6-3a39-5908-b7c9-808603256648",
+        "address": "2328 Forty Niner Ct",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3452,
+        "listed_at": "2026-10-07T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.786145,
+          37.961665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2faecc89-bb8c-59a2-b5c3-3956e11999d3",
         "address": "2832-Avenue-I-Fort-Worth-TX-76105",
         "beds": 2,
@@ -45337,27 +45358,6 @@
         "coordinates": [
           -80.167696,
           26.295606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "94bfa03a-f840-5602-a42c-5eb274355bb3",
-        "address": "6337-Pontoon-St-Fort-Worth-TX-76179",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1685,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "72",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.421667,
-          32.861434
         ]
       }
     },
