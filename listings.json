@@ -2944,6 +2944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0994a7c7-3ea7-5036-8b48-8c0ed7342a04",
+        "address": "967 Horse Mountain Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1875,
+        "listed_at": "2026-10-07T13:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.438568,
+          35.499989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "09964a41-e71a-50f9-8568-92d66ac5b5e3",
         "address": "507-Willoughby-Ln-Staunton-VA-24401",
         "beds": 5,
@@ -50278,27 +50299,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a59f147a-9b97-58e8-b921-7427cf703dac",
-        "address": "62-Pine-St-Griffin-GA-30223",
-        "beds": 4,
-        "baths": 1,
-        "sqft": 1311,
-        "listed_at": "2026-10-02T04:59:01.000Z",
-        "days_on_market": "6",
-        "current_price": 70000,
-        "price_label": "$70K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.273297,
-          33.263581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a5a24d1e-3a75-54bc-a7fb-c5fbeab71129",
         "address": "11307-Narrowleaf-Dr-Indianapolis-IN-46235",
         "beds": 4,
@@ -66232,27 +66232,6 @@
         "coordinates": [
           -95.511986,
           29.696256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d608ca7e-8a74-54ca-a7ab-c165d2bb4467",
-        "address": "399-N-Victoria-Rd-Woodstock-GA-30189",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2117,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "93",
-        "current_price": 383000,
-        "price_label": "$383K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.599553,
-          34.153708
         ]
       }
     },
