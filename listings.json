@@ -4309,27 +4309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ddef024-014f-5cc9-a809-233c4f980016",
-        "address": "104-Santa-Anita-Ave-Newark-OH-43055",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1110,
-        "listed_at": "2026-10-06T14:40:05.000Z",
-        "days_on_market": "82",
-        "current_price": 187000,
-        "price_label": "$187K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.428313,
-          40.094129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0debd25c-97ee-51b3-a8a3-cdb2db3b265a",
         "address": "8932-Mesa-Oak-Dr-Riverside-CA-92508",
         "beds": 3,
@@ -63586,6 +63565,27 @@
         "coordinates": [
           -80.864928,
           35.309866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cf86e510-1a6a-540d-8318-c52b0c70f8f7",
+        "address": "15000 Chesdin Green Way",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4265,
+        "listed_at": "2026-10-07T17:10:22.000Z",
+        "days_on_market": "0",
+        "current_price": 840000,
+        "price_label": "$840K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.651886,
+          37.283842
         ]
       }
     },
