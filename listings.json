@@ -6976,6 +6976,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "160ae715-9ef1-5f01-9169-1d89191f02cb",
+        "address": "1033 Olivewood Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1299,
+        "listed_at": "2026-10-07T08:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.300767,
+          32.603774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "163ec17c-561b-4e78-a5a4-ba639c0e45c2",
         "address": "4496-Bellaire-Ave-Clovis-CA-93619",
         "beds": 3,
