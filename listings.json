@@ -28144,6 +28144,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5a8467c8-fda3-5aa6-95fa-d0de5f7d9a11",
+        "address": "114 Wc Nursing Home Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2116,
+        "listed_at": "2026-10-07T16:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74356,
+          36.293549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a8c6919-1cd6-51c0-9b5c-2fdc3471152d",
         "address": "14729-Hartford-Ln-Helendale-CA-92342",
         "beds": 3,
@@ -57916,6 +57937,27 @@
         "coordinates": [
           -84.472221,
           33.810895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bd04fb43-34a2-5ca8-9b0d-0754e6f2cd46",
+        "address": "12228 Allen Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2205,
+        "listed_at": "2026-10-07T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.240566,
+          44.781264
         ]
       }
     },
