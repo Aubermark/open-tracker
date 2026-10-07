@@ -25876,6 +25876,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "524d537d-25fd-5f93-a260-7a7b4d8b9ef1",
+        "address": "106 Denali Cir",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2283,
+        "listed_at": "2026-10-07T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.768473,
+          34.149741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "524e2b97-87f5-4d58-aa1d-3fde2bd3c00e",
         "address": "228-Flat-Shoal-Dr-Bonaire-GA-31005",
         "beds": 3,
