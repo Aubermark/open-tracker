@@ -62941,6 +62941,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccabee48-3785-50f9-9e26-b57fd519eb09",
+        "address": "3125-Midvale-Dr-Indianapolis-IN-46222",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 900,
+        "listed_at": "2026-10-07T21:00:24.000Z",
+        "days_on_market": "92",
+        "current_price": 159000,
+        "price_label": "$159K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23855,
+          39.811968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccb9286c-4b2e-52b1-a92c-8d0db791c8c5",
         "address": "5228-Yellowtail-Ln-Nw-Kennesaw-GA-30152",
         "beds": 4,
@@ -75814,27 +75835,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f6104787-7a8b-5a5a-b9c6-4072b761348e",
-        "address": "509-Clearfield-Rd-Brandon-FL-33511",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 912,
-        "listed_at": "2026-10-02T04:59:02.000Z",
-        "days_on_market": "6",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.266628,
-          27.93251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f6249e3e-4730-4646-8fe1-821477dd18cb",
         "address": "109 Meadowbrook Dr",
         "beds": 3,
@@ -77677,27 +77677,6 @@
         "coordinates": [
           -81.535856,
           41.588453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc68e55e-3574-5ea7-b6dd-752d823f222c",
-        "address": "1175-Country-Club-Rd-Columbus-OH-43227",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1312,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "69",
-        "current_price": 209000,
-        "price_label": "$209K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.867442,
-          39.951964
         ]
       }
     },
