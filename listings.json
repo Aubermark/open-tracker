@@ -40597,6 +40597,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "851ff94d-df15-5268-9696-ea002f38191f",
+        "address": "19872 W Montecito Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1900,
+        "listed_at": "2026-10-07T07:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.487026,
+          33.498489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85247aba-524e-5bbd-b6e6-a4ad3c0680eb",
         "address": "248-Colfax-Dr-Boiling-Springs-SC-29316",
         "beds": 4,
