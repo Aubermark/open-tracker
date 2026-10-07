@@ -9034,6 +9034,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e0213e6-8ab0-5d6b-8b23-4205cf236943",
+        "address": "8331 N Rose Marie Ln",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4193,
+        "listed_at": "2026-10-07T09:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1295000,
+        "price_label": "$1.295M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.029043,
+          32.357931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e0306b3-3724-57f4-b5f6-23bd7c399463",
         "address": "1924-Hartwell-Ct-Aubrey-TX-76227",
         "beds": 4,
