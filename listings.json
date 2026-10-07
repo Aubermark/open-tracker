@@ -45637,27 +45637,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "95712bec-6a8c-5ad3-874b-34c585c902d3",
-        "address": "244-Brookside-Dr-Millers-Creek-NC-28651",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "20",
-        "current_price": 243000,
-        "price_label": "$243K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.254143,
-          36.213297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "957a3645-8f05-5af3-b727-0439cb9ca188",
         "address": "7020-Greenbower-Ln-Atlanta-GA-30349",
         "beds": 3,
@@ -63460,6 +63439,27 @@
         "coordinates": [
           -78.408505,
           35.562267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cecc94a4-da53-5781-ac95-66e8a8837cab",
+        "address": "1715 Old Hollow Rd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1484,
+        "listed_at": "2026-10-07T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.200713,
+          36.184874
         ]
       }
     },
