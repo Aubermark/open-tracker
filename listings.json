@@ -16783,6 +16783,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37695154-d830-5b1e-9b45-04f7e44f766c",
+        "address": "424 Cypress Hill Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2393,
+        "listed_at": "2026-10-07T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.609908,
+          33.233013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
         "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
         "beds": 4,
@@ -64090,6 +64111,27 @@
         "coordinates": [
           -78.589673,
           35.745598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0d0b158-6020-5e55-8bc9-95095c3c792b",
+        "address": "3911 White Settlement Rd",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 4947,
+        "listed_at": "2026-10-07T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 850000,
+        "price_label": "$850K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.375107,
+          32.758946
         ]
       }
     },
