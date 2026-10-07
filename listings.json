@@ -13570,6 +13570,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cc38a27-e868-5628-9c7b-d209f8ceac64",
+        "address": "607 Turtle Creek Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2146,
+        "listed_at": "2026-10-07T12:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.092591,
+          33.119178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cc53ec3-6992-5120-9b81-5f708863b941",
         "address": "4018-City-Homes-Pl-Charlotte-NC-28209",
         "beds": 2,
