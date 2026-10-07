@@ -8404,6 +8404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b5e5a35-d42c-5cca-9ea4-efb1fd3cfdc4",
+        "address": "7544-S-Elkhorn-Mtn-Littleton-CO-80127",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 4578,
+        "listed_at": "2026-10-07T15:10:05.000Z",
+        "days_on_market": "15",
+        "current_price": 731000,
+        "price_label": "$731K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.120842,
+          39.579955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b8140d9-d768-5d8f-813e-cc202e824b1f",
         "address": "521-Brazos-Hills-Dr-Weatherford-TX-76087",
         "beds": 4,
@@ -9448,6 +9469,27 @@
         "coordinates": [
           -80.090151,
           32.835366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1f6f90ac-d849-5ae8-90c9-720f3a59acd7",
+        "address": "109 Pine Walk Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1430,
+        "listed_at": "2026-10-07T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.320907,
+          34.874431
         ]
       }
     },
