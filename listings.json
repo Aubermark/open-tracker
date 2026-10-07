@@ -25834,6 +25834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52255334-fc62-4e97-8ea0-f5d2338412c8",
+        "address": "1618 104th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1246,
+        "listed_at": "2026-10-07T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.847912,
+          40.411495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "523a1ef2-19d0-5f07-913a-84a163f7ec96",
         "address": "1469 6th St",
         "beds": 4,
@@ -37315,6 +37336,27 @@
         "coordinates": [
           -80.798252,
           35.037651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "78d3640e-dfd3-5227-bfda-506b952428fe",
+        "address": "27801-Canyon-Hills-Way-Murrieta-CA-92563",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2995,
+        "listed_at": "2026-10-07T21:50:05.000Z",
+        "days_on_market": "151",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17485,
+          33.585935
         ]
       }
     },
