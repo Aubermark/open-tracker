@@ -21592,6 +21592,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43f10b11-2ae6-5f83-9c89-9494c54de227",
+        "address": "4139 Jericho Loop",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1627,
+        "listed_at": "2026-10-07T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.749983,
+          38.815749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4406e996-246c-5171-a7a7-b49ecbc16188",
         "address": "14280-Se-85th-Ave-Summerfield-FL-34491",
         "beds": 2,
