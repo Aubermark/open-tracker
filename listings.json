@@ -37972,6 +37972,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b0a6d29-d94f-5b5d-a5e4-e3c47b1f585a",
+        "address": "137-Deerwood-Oaks-Boerne-TX-78006",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2554,
+        "listed_at": "2026-10-07T20:40:04.000Z",
+        "days_on_market": "40",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.705785,
+          29.746073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b163059-4b5f-5c6f-a6f2-d43fae2fa0f2",
         "address": "694-Cummins-Ave-Bessemer-AL-35023",
         "beds": 2,
