@@ -2251,6 +2251,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0755ab05-6c0f-50f3-b440-6d17999eed0c",
+        "address": "1920 Pikes Peak Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "listed_at": "2026-10-08T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.163228,
+          38.844762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0784ff46-5133-56a8-a27b-b5e8e4c37ea8",
         "address": "19219-W-Washington-St-Buckeye-AZ-85326",
         "beds": 3,
@@ -3631,27 +3652,6 @@
         "coordinates": [
           -82.496461,
           27.890679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0bb853f0-8099-504c-8a3b-42a40521443e",
-        "address": "1960-Edwards-Fork-Rd-Scotland-Neck-NC-27874",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2204,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "132",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.389312,
-          36.11855
         ]
       }
     },
@@ -20389,6 +20389,27 @@
         "coordinates": [
           -86.713579,
           36.092183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "41147bf5-82f5-50d6-b2fe-80c0d218c499",
+        "address": "1609 Old Daytona Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 720,
+        "listed_at": "2026-10-08T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.269859,
+          29.066942
         ]
       }
     },
