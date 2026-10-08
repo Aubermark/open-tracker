@@ -48703,6 +48703,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0181b49-0a27-5649-9b75-88c8cfc5448d",
+        "address": "501 Ridge St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-10-08T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.884885,
+          31.113938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0188a66-67e8-583b-b661-9c6161ff4aad",
         "address": "12525-Panthersville-Dr-Charlotte-NC-28269",
         "beds": 3,
@@ -61108,6 +61129,27 @@
         "coordinates": [
           -84.684252,
           33.897783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c60b26e5-cc17-58d7-a54b-6ad86b52d63f",
+        "address": "6936 Red Bone Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1973,
+        "listed_at": "2026-10-08T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.116287,
+          33.634331
         ]
       }
     },
