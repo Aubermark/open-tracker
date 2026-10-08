@@ -38581,6 +38581,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d80572f-30ab-549d-be33-154949f57c30",
+        "address": "5800 Chuck Wagon Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2216,
+        "listed_at": "2026-10-08T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.692279,
+          33.154116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7d86984b-4ea3-52dd-95cd-8e88ca548e79",
         "address": "506-Mason-Ct-Murfreesboro-TN-37130",
         "beds": 4,
@@ -72559,27 +72580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "eb0188b0-851b-5ac7-8015-6ccef69ec1d8",
-        "address": "2916-Woodslope-Dr-Raleigh-NC-27610",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2338,
-        "listed_at": "2026-09-07T16:20:03.000Z",
-        "days_on_market": "31",
-        "current_price": 465000,
-        "price_label": "$465K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.521943,
-          35.727506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "eb0fc595-2e66-532d-87ab-d4f237b6d5b2",
         "address": "1524-Mt-Holly-Huntersville-Rd-Charlotte-NC-28214",
         "beds": 3,
@@ -75598,6 +75598,27 @@
         "coordinates": [
           -79.777074,
           34.14262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f47a7c4a-78c6-5b8b-8912-e08622a83d05",
+        "address": "3411 Halifax Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1740,
+        "listed_at": "2026-10-08T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.162618,
+          32.722925
         ]
       }
     },
