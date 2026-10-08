@@ -7438,6 +7438,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17fab463-910c-5a0c-981d-45f7829d1e69",
+        "address": "2695-E-Vermont-Ct-Gilbert-AZ-85295-18320450",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2025,
+        "listed_at": "2026-10-08T23:20:05.000Z",
+        "days_on_market": "108",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.731873,
+          33.303642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1803efed-e63f-5a1c-8bae-3e527032c99c",
         "address": "3080-E-Powell-Way-Gilbert-AZ-85298",
         "beds": 4,
@@ -74590,27 +74611,6 @@
         "coordinates": [
           -82.646873,
           28.297556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f0e8d7b7-e584-50cf-94f7-0fe6ad4d7ce1",
-        "address": "2817-Se-Condor-Ave-Gresham-OR-97080-18377289",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2120,
-        "listed_at": "2026-08-20T06:22:40.000Z",
-        "days_on_market": "77",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.384234,
-          45.476957
         ]
       }
     },
