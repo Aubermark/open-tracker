@@ -9349,27 +9349,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1f3629ec-1b7f-515a-be08-0ddc7b79c249",
-        "address": "14903-Superior-St-Charlotte-NC-28273",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2450,
-        "listed_at": "2026-09-14T17:40:03.000Z",
-        "days_on_market": "24",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.982686,
-          35.092038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f497f03-3ac0-5cc1-9da0-396a513f2504",
         "address": "19745-E-Raven-Dr-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -39961,6 +39940,27 @@
         "coordinates": [
           -83.935696,
           36.020882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8258abd7-272d-5dcc-a1d9-2269698230df",
+        "address": "940-Cider-Ridge-Ct-Clarkesville-GA-30523",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1850,
+        "listed_at": "2026-10-08T13:40:06.000Z",
+        "days_on_market": "147",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.438238,
+          34.701953
         ]
       }
     },
