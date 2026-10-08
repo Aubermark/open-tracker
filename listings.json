@@ -23272,6 +23272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "497afadf-6e1e-5f6b-9411-5315754a959f",
+        "address": "107-Autumn-Pl-York-SC-29745",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 929,
+        "listed_at": "2026-10-08T21:20:06.000Z",
+        "days_on_market": "50",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.243893,
+          34.984093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "498912b1-8966-5ada-a338-cb9f2af1fa7e",
         "address": "2145-E-Columbia-Pl-Denver-CO-80210",
         "beds": 3,
@@ -48067,6 +48088,27 @@
         "coordinates": [
           -116.941934,
           33.738688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9dbf609e-adea-5716-8e83-61bc7b292358",
+        "address": "7557 Brody Meadows St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1290,
+        "listed_at": "2026-10-08T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.199072,
+          36.298092
         ]
       }
     },
