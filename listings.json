@@ -16090,6 +16090,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "349ce4b6-0106-55ba-a198-0f1c3518c637",
+        "address": "1370 Estes St",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 540,
+        "listed_at": "2026-10-08T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 163000,
+        "price_label": "$163K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.095122,
+          39.738054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "34a414ce-a2fa-5f8e-ad91-ee1351ea6a6e",
         "address": "1245-N-1st-Ave-Tucson-AZ-85719",
         "beds": 3,
