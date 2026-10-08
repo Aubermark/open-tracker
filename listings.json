@@ -38791,6 +38791,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e60bec3-b77e-5def-a46a-71e5c536705b",
+        "address": "4403-Nw-202nd-St-Miami-Gardens-FL-33055",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1012,
+        "listed_at": "2026-10-08T15:10:06.000Z",
+        "days_on_market": "149",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.274218,
+          25.957477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e656990-d937-56b0-86ea-b3782f4ff7b6",
         "address": "1307-Redwood-Dr-Loveland-CO-80538",
         "beds": 3,
