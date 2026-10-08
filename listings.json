@@ -47065,6 +47065,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a4cfd56-598f-505e-9992-fbd9cb00eee6",
+        "address": "2062 Dalton Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1744,
+        "listed_at": "2026-10-08T09:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 301000,
+        "price_label": "$301K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.248414,
+          28.922405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a567f8a-3c7a-5994-9b80-24bf1c719eca",
         "address": "1115-N-Waterview-Dr-Richardson-TX-75080",
         "beds": 3,
