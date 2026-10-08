@@ -11806,6 +11806,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27d8fa9c-7389-4388-96e1-a74590f3e6ab",
+        "address": "1537 NW 44th Court Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1914,
+        "listed_at": "2026-10-08T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.196285,
+          29.202616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27dc5da0-cb01-51d1-b8e6-ad97ac010cff",
         "address": "9624-Crosspointe-Dr-Highlands-Ranch-CO-80130",
         "beds": 3,
