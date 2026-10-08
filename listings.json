@@ -2251,27 +2251,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "075bd63e-250b-562e-9722-c4ca83204bd2",
-        "address": "5591-Coventry-Dr-Prosper-TX-75078",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1862,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "209",
-        "current_price": 321000,
-        "price_label": "$321K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.893477,
-          33.229679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0784ff46-5133-56a8-a27b-b5e8e4c37ea8",
         "address": "19219-W-Washington-St-Buckeye-AZ-85326",
         "beds": 3,
@@ -45637,6 +45616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "958125fe-1b50-5825-9bd8-3db02fe49b20",
+        "address": "6073 Jones Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1831,
+        "listed_at": "2026-10-08T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.103282,
+          35.42737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95889ccd-10c6-5857-af8c-253a318bcb5c",
         "address": "3229-Regents-Park-Ln-Unit-D-Greensboro-NC-27455",
         "beds": 3,
@@ -60877,27 +60877,6 @@
         "coordinates": [
           -82.02214,
           34.172743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c59ad82c-6500-5cb1-adea-a70c1426077c",
-        "address": "160-Carib-Dr-Merritt-Island-FL-32952",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1512,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "52",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.696643,
-          28.351871
         ]
       }
     },
