@@ -2146,6 +2146,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "070930c6-8680-5884-9ef0-23877ba0a96f",
+        "address": "394 Alcove Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1568,
+        "listed_at": "2026-10-08T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.786291,
+          28.608762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "070e99e8-68c8-41fd-b17f-240bd067d2b1",
         "address": "124 Citrine Loop",
         "beds": 3,
@@ -19822,6 +19843,27 @@
         "coordinates": [
           -112.306782,
           33.645116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3fa6ba9e-a112-5c80-8f97-bcb5f9439e66",
+        "address": "3107 Rosewalk Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1699,
+        "listed_at": "2026-10-08T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.503441,
+          33.572585
         ]
       }
     },
@@ -60610,6 +60652,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c4ae67f6-d663-5e85-adf4-e17f8d3fdf7d",
+        "address": "2516 Boxford Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2010,
+        "listed_at": "2026-10-08T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.722545,
+          35.194017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c4b6a106-99fa-5d28-963a-29eaa81541d8",
         "address": "404-Vincent-St-Cedar-Hill-TX-75104",
         "beds": 3,
@@ -70873,6 +70936,27 @@
         "coordinates": [
           -83.869723,
           33.57936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e5ecb3bc-2442-513b-8ead-e815fe20f3d8",
+        "address": "7718 S Titanite Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1495,
+        "listed_at": "2026-10-08T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 309000,
+        "price_label": "$309K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.792203,
+          32.111638
         ]
       }
     },
