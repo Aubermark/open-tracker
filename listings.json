@@ -16447,6 +16447,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "35b79cb1-fa96-5deb-bafd-0f584b2f5c17",
+        "address": "12243 Loggeta Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1716,
+        "listed_at": "2026-10-08T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 471000,
+        "price_label": "$471K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.184747,
+          35.966987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "35bff2eb-68c7-41b1-8f1f-6ade9685ef72",
         "address": "241-Greenbriar-Dr-Livingston-TX-77351",
         "beds": 4,
@@ -24232,6 +24253,27 @@
         "coordinates": [
           -96.436664,
           32.784872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4d04a646-dccd-53f5-a844-74a8a3afc199",
+        "address": "15830 Hilltop Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1903,
+        "listed_at": "2026-10-08T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.200794,
+          32.41761
         ]
       }
     },
@@ -52792,6 +52834,27 @@
         "coordinates": [
           -84.00526,
           33.786484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ad36770c-50f3-54c4-9c8d-aed89efcc364",
+        "address": "1331 30th Ave E",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1936,
+        "listed_at": "2026-10-08T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54835,
+          27.473643
         ]
       }
     },
