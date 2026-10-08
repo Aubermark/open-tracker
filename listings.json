@@ -40996,6 +40996,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85d17108-1a11-56ef-99b2-61bfab52eb10",
+        "address": "42318 Broadwalk Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1704,
+        "listed_at": "2026-10-08T17:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 221000,
+        "price_label": "$221K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.491393,
+          30.473498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85de681e-f653-54e9-a6ab-36a7eb005812",
         "address": "11314-Sailwing-Creek-Ct-Pearland-TX-77584",
         "beds": 5,
@@ -48319,27 +48340,6 @@
         "coordinates": [
           -104.746669,
           39.509889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9e8d67d6-4356-5bcb-a9db-3f60e988976d",
-        "address": "6906-King-George-Pl-Corpus-Christi-TX-78414",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2174,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "162",
-        "current_price": 286000,
-        "price_label": "$286K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.379059,
-          27.643702
         ]
       }
     },
@@ -61954,27 +61954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c91b777b-e6a9-5a7f-97f9-6b12b872c61f",
-        "address": "942-Ram-Dr-Franklin-IN-46131",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2793,
-        "listed_at": "2026-10-02T15:30:04.000Z",
-        "days_on_market": "6",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.064789,
-          39.464396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c9615dbe-20cc-5b63-9f03-a18bec17ec33",
         "address": "1120-Newnham-Dr-Columbia-SC-29210",
         "beds": 3,
@@ -64111,27 +64090,6 @@
         "coordinates": [
           -111.637566,
           33.47405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cfe4d3c6-ab13-5973-a478-843e528f030b",
-        "address": "1202-Hillside-Blvd-Wilmington-DE-19803",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2138,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "65",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.509877,
-          39.786985
         ]
       }
     },
