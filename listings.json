@@ -56956,6 +56956,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8e12513-a412-5653-84cf-ba0795aa5972",
+        "address": "7343-E-29th-St-Tucson-AZ-85710",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1020,
+        "listed_at": "2026-10-08T13:10:05.000Z",
+        "days_on_market": "27",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.835213,
+          32.199719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8f9ea2a-0c97-5a92-858e-3a7214089a78",
         "address": "20832-N-Wilford-Ave-Maricopa-AZ-85138",
         "beds": 4,
