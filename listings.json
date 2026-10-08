@@ -73777,6 +73777,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eeeb7176-0326-561e-b9be-66d040e05e38",
+        "address": "8233-Fair-Way-Citrus-Heights-CA-95610",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2123,
+        "listed_at": "2026-10-08T21:50:05.000Z",
+        "days_on_market": "121",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.275777,
+          38.715954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eef9a52a-9b27-54b4-a695-7b3613224da6",
         "address": "1856-Carl-St-Fort-Worth-TX-76103",
         "beds": 2,
