@@ -39862,6 +39862,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8212731c-a6cb-5da7-a9e5-b2b3ed433dfd",
+        "address": "116-Savannah-St-Se-Calhoun-GA-30701",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1720,
+        "listed_at": "2026-10-08T14:10:04.000Z",
+        "days_on_market": "30",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.825777,
+          34.474146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "821c56d9-e9db-5bae-aaf3-39c68d8675dd",
         "address": "5208 Fernwood Way",
         "beds": 3,
