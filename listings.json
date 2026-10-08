@@ -8488,6 +8488,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1bcd6018-aaf1-5f7f-898b-e6a87590a851",
+        "address": "8703-Stonecrest-Dr-Irving-TX-75063",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-10-08T18:20:06.000Z",
+        "days_on_market": "16",
+        "current_price": 426000,
+        "price_label": "$426K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.94633,
+          32.925554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1bdaa1bc-047a-5d5c-a633-c44591828a7e",
         "address": "8749-Christopher-Ln-Warrenton-VA-20186",
         "beds": 3,
@@ -31357,27 +31378,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "640211f3-7b8a-4fd4-aa7f-d41ac331dd8b",
-        "address": "4510-Penkert-Pl-Lakeland-FL-33811",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 2626,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "147",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.053826,
-          27.980435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "640c4eb9-1ea1-5bae-a49f-5932301757d7",
         "address": "5706-W-T-Ryan-Ln-Laveen-AZ-85339",
         "beds": 4,
@@ -45589,6 +45589,27 @@
         "coordinates": [
           -75.721127,
           39.601986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "95712bec-6a8c-5ad3-874b-34c585c902d3",
+        "address": "244-Brookside-Dr-Millers-Creek-NC-28651",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1152,
+        "listed_at": "2026-10-08T18:20:06.000Z",
+        "days_on_market": "21",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.254143,
+          36.213297
         ]
       }
     },
