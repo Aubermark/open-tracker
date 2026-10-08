@@ -33499,27 +33499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6b7195a0-6b23-571b-ad86-92dc65592f1e",
-        "address": "158-Colemans-Bluff-Dr-Woodstock-GA-30188",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1446,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "125",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.449408,
-          34.08966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6b95cee0-3e05-5afc-93c5-8b717b88b6d2",
         "address": "5307-Chatham-Hill-Ln-Houston-TX-77084",
         "beds": 4,
@@ -72679,6 +72658,27 @@
         "coordinates": [
           -89.9705,
           38.593491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebac12f5-ef0f-5cbf-b31d-ffcc264499cb",
+        "address": "226 Parliament Rd",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1150,
+        "listed_at": "2026-10-08T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63354,
+          36.566725
         ]
       }
     },
