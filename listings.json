@@ -26695,6 +26695,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54f8337a-c1ae-511b-b529-b3fc50799392",
+        "address": "8405 NW 109th St",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2840,
+        "listed_at": "2026-10-08T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.664269,
+          35.580919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "550017c9-6fb3-58b0-819c-e112925d845e",
         "address": "4335-Se-8th-St-Ocala-FL-34471",
         "beds": 3,
@@ -63487,27 +63508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ce0db95c-2904-5b73-9f5a-99f68e7fbb18",
-        "address": "222-Colebrook-Dr-San-Antonio-TX-78228",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1438,
-        "listed_at": "2026-09-11T17:00:03.000Z",
-        "days_on_market": "55",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.578167,
-          29.479767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ce1e2622-8802-5731-a0c5-120ecaab33ce",
         "address": "5753-Fm-36-S-Quinlan-TX-75474",
         "beds": 3,
@@ -71230,6 +71230,27 @@
         "coordinates": [
           -95.624993,
           31.749788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e6cfa790-e603-57c3-8033-77654da29f04",
+        "address": "2408 S Spruce",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2670,
+        "listed_at": "2026-10-08T22:20:02.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.857066,
+          33.371249
         ]
       }
     },
