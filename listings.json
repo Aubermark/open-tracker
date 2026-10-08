@@ -54898,6 +54898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b308cec8-352e-59dd-af42-f7fc1e7750c5",
+        "address": "1621 S Bristol Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1250,
+        "listed_at": "2026-10-08T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.93116,
+          32.202358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b317e08f-43d8-5610-8144-66b0819d14e7",
         "address": "9565-Horsebit-Ln-Concord-NC-28027",
         "beds": 4,
@@ -59050,6 +59071,27 @@
         "coordinates": [
           -95.062916,
           29.506066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0096bdd-4a62-5ca2-9d0b-957110e2942a",
+        "address": "3113 W Corte Olivia",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1937,
+        "listed_at": "2026-10-08T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.032747,
+          32.33405
         ]
       }
     },
