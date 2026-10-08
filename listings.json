@@ -44314,6 +44314,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9113e46a-dd26-5edc-8e08-cf9c725ac486",
+        "address": "552 Rich Davis Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2145,
+        "listed_at": "2026-10-08T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.789346,
+          33.862275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9114d1d1-157a-5a90-b861-4c577ed79fad",
         "address": "1328-Baffin-Bay-Rd-Columbia-SC-29212",
         "beds": 3,
