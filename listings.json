@@ -5107,6 +5107,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "10712c8f-1e6b-583d-8278-a3480a68b53b",
+        "address": "391-Harvard-Rd-Venice-FL-34293",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1533,
+        "listed_at": "2026-10-08T22:30:05.000Z",
+        "days_on_market": "48",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404058,
+          27.031115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "107da636-5ee9-50da-8a10-24b5d651983d",
         "address": "4683-Ladd-Springs-Rd-Old-Fort-TN-37362",
         "beds": 3,
