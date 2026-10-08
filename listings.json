@@ -74281,6 +74281,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f0789913-16e5-5be0-973d-9eb27e9bfdae",
+        "address": "241 Moss Cove Rd",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2696,
+        "listed_at": "2026-10-08T08:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.926159,
+          34.897255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f08fbaba-5c0f-58dc-a52f-b20855e17d66",
         "address": "517-Schooner-Cv-Hermitage-TN-37076",
         "beds": 4,
