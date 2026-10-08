@@ -27850,6 +27850,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59011e4e-fd3f-58ca-b5bf-a81e33febc07",
+        "address": "2633 Park Ridge Blvd",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3792,
+        "listed_at": "2026-10-08T23:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.111639,
+          34.938926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5915dbc4-66b3-51ef-b3bb-df38a9da5fd9",
         "address": "6112-Pinehurst-Dr-Nashville-TN-37215",
         "beds": 5,
@@ -40927,27 +40948,6 @@
         "coordinates": [
           -84.07862,
           33.95295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85bf93e7-2134-5c11-b89e-dfc3bdd12f0f",
-        "address": "21-Glenhawk-Loop-Irmo-SC-29063",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1497,
-        "listed_at": "2026-08-29T05:49:37.000Z",
-        "days_on_market": "41",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.223213,
-          34.148097
         ]
       }
     },
