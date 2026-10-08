@@ -27262,6 +27262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5766401e-e77c-5a6c-b450-fd1bf4ab5fff",
+        "address": "7811 W 62nd Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1336,
+        "listed_at": "2026-10-08T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 581000,
+        "price_label": "$581K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.085108,
+          39.809675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "577b71ba-2d70-5ece-b049-e2d03a1e0798",
         "address": "9313 Dosier Cv W",
         "beds": 4,
@@ -50719,27 +50740,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a63f78c2-1cc5-5eaf-9e30-195c159e5caf",
-        "address": "675-Jenny-St-Selmer-TN-38375",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2014,
-        "listed_at": "2026-09-18T13:57:25.000Z",
-        "days_on_market": "20",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.556985,
-          35.176704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a64fb83e-3c9d-553a-b5f8-13c94ba5d447",
         "address": "3510-Cedartree-Ter-Winston-Salem-NC-27127",
         "beds": 3,
@@ -73141,6 +73141,27 @@
         "coordinates": [
           -112.298224,
           33.480322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ecb6c540-9eb3-5edb-ada6-d3eaa91a7900",
+        "address": "1125 W 28th Ave",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1853,
+        "listed_at": "2026-10-08T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110409,
+          44.027896
         ]
       }
     },
