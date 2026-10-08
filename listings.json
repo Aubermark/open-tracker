@@ -56221,27 +56221,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b700fa11-e215-5db9-b707-3e553bee209c",
-        "address": "20186-E-Cedar-Canyon-Dr-Mayer-AZ-86333",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1290,
-        "listed_at": "2026-09-25T14:40:03.000Z",
-        "days_on_market": "13",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.108132,
-          34.308684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b72290dd-0f7e-5b7a-89ba-f5cb181dddfe",
         "address": "915-Kenham-Pl-Lenoir-NC-28645",
         "beds": 3,
@@ -76984,6 +76963,27 @@
         "coordinates": [
           -84.036949,
           33.104207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9312e1b-9cee-4c4a-8a8b-ff40a44d0add",
+        "address": "15637-Native-Willow-Dr-Monument-CO-80132",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2818,
+        "listed_at": "2026-10-08T17:30:06.000Z",
+        "days_on_market": "148",
+        "current_price": 589000,
+        "price_label": "$589K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.865711,
+          39.059481
         ]
       }
     },
