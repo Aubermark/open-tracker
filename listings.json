@@ -7921,6 +7921,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19126bf2-0ab2-5d1d-bde2-7c15ee6b8adb",
+        "address": "11401-Villa-St-Adelanto-CA-92301",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2391,
+        "listed_at": "2026-10-08T17:50:05.000Z",
+        "days_on_market": "85",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.414772,
+          34.517397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "191bb7e8-c76a-5584-b15b-951ae3aff8d7",
         "address": "12846-W-Rosewood-Dr-El-Mirage-AZ-85335",
         "beds": 3,
@@ -34948,27 +34969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7126af56-d5d6-56d3-83d3-74b670b8f13b",
-        "address": "7102-S-Vuelta-De-Tranquilidad-Tucson-AZ-85756",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1264,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "153",
-        "current_price": 259000,
-        "price_label": "$259K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.870545,
-          32.12317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "71465715-60de-5eb6-9dfa-540b53c1dd2c",
         "address": "104-Arbuckle-Ln-Cary-NC-27511",
         "beds": 3,
@@ -59218,27 +59218,6 @@
         "coordinates": [
           -96.713431,
           33.088287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c09fb56d-2b4e-5bcd-825c-1cb0523d36fd",
-        "address": "22-Yale-Rd-Atco-NJ-08004",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1938,
-        "listed_at": "2026-09-25T17:20:04.000Z",
-        "days_on_market": "108",
-        "current_price": 399000,
-        "price_label": "$399K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.901645,
-          39.765835
         ]
       }
     },
