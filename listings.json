@@ -61072,6 +61072,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c641084e-16dd-57d8-90fe-d88977a5d00c",
+        "address": "5608 Chapman Hwy",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1860,
+        "listed_at": "2026-10-08T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.884133,
+          35.92397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6475ebc-5b7b-5186-81f6-22ecaac185fa",
         "address": "366-Frank-Burns-Way-Kings-Mountain-NC-28086",
         "beds": 3,
