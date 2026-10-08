@@ -11281,6 +11281,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25cbeb45-58c7-5138-abcc-4bf23fd7fa9e",
+        "address": "17475 SW Eirwen St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1425,
+        "listed_at": "2026-10-08T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.857728,
+          45.497686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
         "address": "316-Vincent-St-Alabaster-AL-35007",
         "beds": 4,
@@ -68794,6 +68815,27 @@
         "coordinates": [
           -86.593431,
           36.208289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd164c7f-5fc2-55d0-bb3d-1df3a62236a1",
+        "address": "29202-Cowboy-Ct-Valencia-CA-91354",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1934,
+        "listed_at": "2026-10-08T16:20:05.000Z",
+        "days_on_market": "125",
+        "current_price": 689000,
+        "price_label": "$689K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.552048,
+          34.472864
         ]
       }
     },
