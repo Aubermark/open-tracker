@@ -2146,6 +2146,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "070e99e8-68c8-41fd-b17f-240bd067d2b1",
+        "address": "124 Citrine Loop",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1725,
+        "listed_at": "2026-10-08T13:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.484863,
+          28.154284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
         "address": "123-King-Richard-Dr-Griffin-GA-30223",
         "beds": 4,
