@@ -58594,6 +58594,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "be169649-30af-5c93-a18b-a07e2af5f5ac",
+        "address": "2-Tidewater-Trce-Batavia-OH-45103",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1248,
+        "listed_at": "2026-10-08T22:00:04.000Z",
+        "days_on_market": "92",
+        "current_price": 166000,
+        "price_label": "$166K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.257331,
+          39.09663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "be37f16c-c379-5128-9f04-7a930486d37a",
         "address": "3962-Spalding-Holw-Peachtree-Corners-GA-30092",
         "beds": 4,
