@@ -62164,6 +62164,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c89cdf2a-2b56-5193-8150-3d5ce3b224f3",
+        "address": "3054-Montclair-Cir-Se-Smyrna-GA-30080",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2834,
+        "listed_at": "2026-10-09T13:50:05.000Z",
+        "days_on_market": "153",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.506955,
+          33.878519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c8a22d2c-2368-5389-8209-a9577c375286",
         "address": "3111-Braddock-Dr-Fayetteville-NC-28301",
         "beds": 4,
