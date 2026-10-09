@@ -23083,6 +23083,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "47e7f646-85b8-53c9-8412-9cada4d758e9",
+        "address": "660 Stonemont Ct",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 4417,
+        "listed_at": "2026-10-09T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 860000,
+        "price_label": "$860K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.898214,
+          39.476559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "48100fb3-4ee6-5851-9047-cbdb543c13a4",
         "address": "1331-W-Baseline-Rd-Unit-229-Mesa-AZ-85202",
         "beds": 2,
@@ -27277,6 +27298,27 @@
         "coordinates": [
           -77.820526,
           35.862553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "55eab1ce-6605-5fc3-b097-575a96853f9c",
+        "address": "608-Amanda-Dr-Matthews-NC-28104",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2712,
+        "listed_at": "2026-10-09T18:20:04.000Z",
+        "days_on_market": "70",
+        "current_price": 670000,
+        "price_label": "$670K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.749485,
+          35.048648
         ]
       }
     },
