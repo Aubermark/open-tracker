@@ -51748,6 +51748,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a862329a-f605-40c0-9ce6-3b03bb3d171e",
+        "address": "3357 Monarch Pass Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2707,
+        "listed_at": "2026-10-09T08:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.096051,
+          32.790555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a8743e2b-590b-5985-bfc2-8c63341982b4",
         "address": "1006-Oakmere-Rd-Waxhaw-NC-28173-18395839",
         "beds": 3,
