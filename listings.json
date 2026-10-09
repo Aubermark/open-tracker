@@ -16006,6 +16006,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33f18a4b-b398-5785-8cc4-6abca30395d8",
+        "address": "412-N-Front-St-Unit-21-Philadelphia-PA-19123",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2244,
+        "listed_at": "2026-10-09T15:50:06.000Z",
+        "days_on_market": "122",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.140151,
+          39.957497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33f6233f-5c0e-561a-9aa3-5193505eb34d",
         "address": "6208 Branchwood Trl",
         "beds": 5,
