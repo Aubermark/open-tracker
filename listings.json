@@ -51895,6 +51895,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a903588c-1d09-5f6b-9f2c-ccc44d1a670b",
+        "address": "501 Franklin Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2100,
+        "listed_at": "2026-10-09T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.761681,
+          32.232931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a91b8905-4300-5540-9134-771977849927",
         "address": "11121-Herrick-Ave-Kansas-City-MO-64134",
         "beds": 4,
