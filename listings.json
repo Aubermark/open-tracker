@@ -24763,6 +24763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4cfd0acb-05f1-5a6e-bd0a-3f330a39daa2",
+        "address": "8 Mariners Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2402,
+        "listed_at": "2026-10-09T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.871428,
+          39.561185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d04a646-dccd-53f5-a844-74a8a3afc199",
         "address": "15830 Hilltop Dr",
         "beds": 4,
@@ -31141,6 +31162,27 @@
         "coordinates": [
           -90.275792,
           38.563504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6117c919-f097-514a-afd9-e26923b06b19",
+        "address": "10510-Sw-74th-Ct-Ocala-FL-34476",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1774,
+        "listed_at": "2026-10-09T20:30:06.000Z",
+        "days_on_market": "135",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.241482,
+          29.070123
         ]
       }
     },
@@ -56620,6 +56662,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b53dbd74-98c0-5135-8712-38b84be4af13",
+        "address": "474 Seele St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1053,
+        "listed_at": "2026-10-09T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.110191,
+          29.698277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b55d0295-6a1a-5462-9507-606b274cfee5",
         "address": "8710-Surrey-Ct-Temple-TX-76502",
         "beds": 4,
@@ -57475,27 +57538,6 @@
         "coordinates": [
           -82.651221,
           28.496796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b76eadb3-3c4f-5150-95eb-620762fcf93e",
-        "address": "7304-Milestone-Dr-Apollo-Beach-FL-33572",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2160,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "74",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.373908,
-          27.776444
         ]
       }
     },
