@@ -7081,6 +7081,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15ebf516-a55b-5ed8-af1a-468b83d760f4",
+        "address": "563 Manbrin Dr N",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1476,
+        "listed_at": "2026-10-09T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.032626,
+          44.987161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16036bb4-f001-5e24-9a98-d6352ea606d9",
         "address": "24542-N-Denham-Ridge-Ln-Spring-TX-77389",
         "beds": 5,
@@ -36439,27 +36460,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7584d34c-9a09-553f-b5b3-a3790d809b4b",
-        "address": "2105-Kirk-Ave-Killeen-TX-76543",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1326,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "17",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.698159,
-          31.130467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "75ac5104-9a8f-531b-817a-b0a772cc726e",
         "address": "7420-W-Crabapple-Dr-Peoria-AZ-85383",
         "beds": 3,
@@ -40528,6 +40528,27 @@
         "coordinates": [
           -80.588138,
           35.372437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "83645247-eaa8-50b5-af54-4e0fd3f9252e",
+        "address": "10713 Dobbs Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1836,
+        "listed_at": "2026-10-09T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 423000,
+        "price_label": "$423K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.32999,
+          36.301815
         ]
       }
     },
