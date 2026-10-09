@@ -39169,6 +39169,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f1e9bc2-626b-52c5-9d7e-6067ee1ba412",
+        "address": "1409 Old Stone Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2400,
+        "listed_at": "2026-10-09T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.445239,
+          36.244788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f3c3338-fdc6-5aba-801d-f81a776c7316",
         "address": "1711-Avant-St-Valrico-FL-33594",
         "beds": 3,
@@ -72931,6 +72952,27 @@
         "coordinates": [
           -82.009316,
           34.481454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
+        "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1622,
+        "listed_at": "2026-10-09T14:20:04.000Z",
+        "days_on_market": "147",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.243906,
+          26.702856
         ]
       }
     },
