@@ -31693,6 +31693,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "63b8b774-e44f-5a3c-ae87-19118c3e72f5",
+        "address": "25583 W Pioneer St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2485,
+        "listed_at": "2026-10-09T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.601288,
+          33.416749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63c474fe-366f-5680-8837-4f4e7867f7c3",
         "address": "485-Barrington-Loop-Roswell-GA-30076",
         "beds": 3,
