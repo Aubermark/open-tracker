@@ -7417,6 +7417,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "178d0e1a-438d-5bb6-8728-2a2821f0fb3c",
+        "address": "5627-Barclay-Ct-Fort-Mill-SC-29707",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2772,
+        "listed_at": "2026-10-09T16:40:05.000Z",
+        "days_on_market": "86",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.899968,
+          35.067209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "178ddec4-5fba-493a-bfab-68a44a7540d8",
         "address": "5699-Kusnick-Ave-Tracy-CA-95377",
         "beds": 5,
