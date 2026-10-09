@@ -6241,6 +6241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13723df5-154a-5f4d-8698-e801db9335fd",
+        "address": "1958 Commander Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1636,
+        "listed_at": "2026-10-09T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.42345,
+          28.266081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1386c13b-6b33-504e-91aa-0dcec4e2061f",
         "address": "434-Crate-Ave-Sacramento-CA-95818",
         "beds": 1,
@@ -51328,6 +51349,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a75cbfc6-c294-53e1-a277-51f20241691f",
+        "address": "229 Cater St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 725,
+        "listed_at": "2026-10-09T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 136000,
+        "price_label": "$136K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.491179,
+          34.528535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a76a6a88-3ce7-57c1-a258-35bf4ebb7b60",
         "address": "6623-Ambrose-Cir-Temple-TX-76502",
         "beds": 4,
@@ -53170,6 +53212,27 @@
         "coordinates": [
           -80.502225,
           33.984511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ad69eb72-4f74-5827-9023-ffa13561481b",
+        "address": "2591 Bedford Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1204,
+        "listed_at": "2026-10-09T14:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.999442,
+          33.732143
         ]
       }
     },
@@ -70411,27 +70474,6 @@
         "coordinates": [
           -115.295568,
           36.22257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e286af1f-8038-556e-aa02-c161deeeed42",
-        "address": "2006-Chelsea-Ln-Acworth-GA-30102",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1380,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "210",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.607622,
-          34.113331
         ]
       }
     },
