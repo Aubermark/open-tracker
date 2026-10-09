@@ -55360,6 +55360,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b3c06f93-ece7-51c1-9e97-e0a6e38cd306",
+        "address": "370 Hyacinth St",
+        "beds": 6,
+        "baths": 2.5,
+        "sqft": 2655,
+        "listed_at": "2026-10-09T02:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08918,
+          27.022146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b4000024-495c-579d-86ed-a854f89177c6",
         "address": "140-Triple-D-Dr-Se-Adairsville-GA-30103",
         "beds": 2,
