@@ -30055,6 +30055,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5da69a17-a1a0-55d7-be55-fff7391455cf",
+        "address": "718 S Lovell Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1073,
+        "listed_at": "2026-10-09T22:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.233634,
+          35.000295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5db97b78-177f-531a-8f77-4341df3c4bf7",
         "address": "5349-S-Greenway-Dr-Tucson-AZ-85706",
         "beds": 3,
