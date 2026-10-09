@@ -71404,6 +71404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e093f987-6ed5-5035-9185-221ffe018c59",
+        "address": "455 Longmeadow Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2959,
+        "listed_at": "2026-10-09T23:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.407369,
+          28.703317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e09df29f-72c7-5d1f-a5be-abde51436027",
         "address": "945-N-Woodridge-Ct-Wichita-KS-67206",
         "beds": 5,
