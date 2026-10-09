@@ -10126,6 +10126,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "212e184c-ea1b-5c4b-829d-1060d1a7ba51",
+        "address": "1309 Legend Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1305,
+        "listed_at": "2026-10-09T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.662097,
+          35.703748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21423f28-6576-5794-98b6-869061a20559",
         "address": "2717-O-Hara-Dr-Charlotte-NC-28273",
         "beds": 3,
