@@ -46477,6 +46477,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "980d13ff-8f65-5c10-a74a-c39e62cdba27",
+        "address": "1008 Windhook St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1671,
+        "listed_at": "2026-10-09T00:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.326008,
+          36.18347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "98111234-87f5-5d5a-a63c-96c812e6eb98",
         "address": "912-S-Mountain-Ave-Apt-D-Ontario-CA-91762",
         "beds": 2,
