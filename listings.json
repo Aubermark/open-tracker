@@ -15859,6 +15859,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33f6233f-5c0e-561a-9aa3-5193505eb34d",
+        "address": "6208 Branchwood Trl",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2608,
+        "listed_at": "2026-10-09T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.070159,
+          33.070892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33f64c68-721b-5e4d-83a7-67725b466941",
         "address": "4181-Gann-Store-Rd-Hixson-TN-37343",
         "beds": 4,
