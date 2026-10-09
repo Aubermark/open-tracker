@@ -44503,27 +44503,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8faf80b3-62ca-5d29-ae64-32543d6e1eda",
-        "address": "367-Trellis-Bay-Dr-Saint-Augustine-FL-32092",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2670,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "157",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.498645,
-          30.032963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8fddac36-b945-5fda-9a02-092300e579a9",
         "address": "42195-Fairview-Dr-Canton-MI-48187",
         "beds": 3,
@@ -48235,6 +48214,27 @@
         "coordinates": [
           -78.934374,
           34.942896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9c931815-29db-4d2f-a23b-af1ac0104b05",
+        "address": "3052 W Bent Tree Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1977,
+        "listed_at": "2026-10-09T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 556000,
+        "price_label": "$556K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.124741,
+          33.734437
         ]
       }
     },
@@ -57265,27 +57265,6 @@
         "coordinates": [
           -79.877043,
           39.982838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b795ed8f-cebc-5c22-81ff-1b4da7da1738",
-        "address": "4706-Pineywood-Dr-Sw-Decatur-AL-35603",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1624,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "15",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.978345,
-          34.513087
         ]
       }
     },
