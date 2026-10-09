@@ -9265,6 +9265,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ded1621-8cde-50f8-b97b-10e8dcdc39d3",
+        "address": "409 Berwick Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2155,
+        "listed_at": "2026-10-09T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38335,
+          28.019024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1df37bd4-8bf4-5ec2-8cbc-688ff71c4344",
         "address": "206-Lilly-St-Cherryville-NC-28021",
         "beds": 3,
@@ -27256,6 +27277,27 @@
         "coordinates": [
           -81.765479,
           41.413623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5492d61f-9404-5c9c-982e-3295f775fbc2",
+        "address": "11245 12th Ave S",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2090,
+        "listed_at": "2026-10-09T22:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318206,
+          47.50166
         ]
       }
     },
@@ -47689,27 +47731,6 @@
         "coordinates": [
           -81.026876,
           35.008194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "98f9c96b-f329-5eea-bb22-17d90898175a",
-        "address": "44-S-200th-East-Ave-Tulsa-OK-74108",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 858,
-        "listed_at": "2026-09-10T06:10:26.000Z",
-        "days_on_market": "84",
-        "current_price": 147000,
-        "price_label": "$147K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.754232,
-          36.158875
         ]
       }
     },
