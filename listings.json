@@ -66910,6 +66910,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d6518135-f8b6-5bb2-8041-9672eb0a26b9",
+        "address": "908 Heath Creek Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3948,
+        "listed_at": "2026-10-09T08:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.878935,
+          32.595017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
