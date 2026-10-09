@@ -50341,27 +50341,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a3ea2900-4084-400d-b0ac-1db6d1c792c7",
-        "address": "316-Abby-Ln-Millbrook-AL-36054",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2748,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "9",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.37873,
-          32.482701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a3f16b47-a0c7-5e10-a5a0-ab7a77f7cae9",
         "address": "2244-E-Nicolet-Ave-Phoenix-AZ-85020",
         "beds": 4,
@@ -64279,6 +64258,27 @@
         "coordinates": [
           -112.259941,
           33.50172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ceff6fdb-8bdc-5f5d-8a5e-131a0a340810",
+        "address": "19858 Laurel Trail Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1348,
+        "listed_at": "2026-10-09T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.711815,
+          29.888712
         ]
       }
     },
