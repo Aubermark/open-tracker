@@ -38728,27 +38728,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7b0a6d29-d94f-5b5d-a5e4-e3c47b1f585a",
-        "address": "137-Deerwood-Oaks-Boerne-TX-78006",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2554,
-        "listed_at": "2026-10-07T20:40:04.000Z",
-        "days_on_market": "42",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.705785,
-          29.746073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7b163059-4b5f-5c6f-a6f2-d43fae2fa0f2",
         "address": "694-Cummins-Ave-Bessemer-AL-35023",
         "beds": 2,
@@ -46051,6 +46030,27 @@
         "coordinates": [
           -77.330996,
           37.446471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "93fb3118-6331-5224-925e-95378bff22d8",
+        "address": "15339 W Via Montoya",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1366,
+        "listed_at": "2026-10-09T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.39144,
+          33.682287
         ]
       }
     },
@@ -59134,6 +59134,27 @@
         "coordinates": [
           -112.180395,
           33.570423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbb3dbff-94e9-5df4-9d07-c498d8d13d87",
+        "address": "6208 W Alvarado Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1064,
+        "listed_at": "2026-10-09T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.192948,
+          33.471645
         ]
       }
     },
