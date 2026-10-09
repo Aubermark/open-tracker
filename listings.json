@@ -64705,6 +64705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d113e9c9-40e2-5695-a006-2821b8a7b4f2",
+        "address": "20-Forest-Ridge-Ln-Phenix-City-AL-36869",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2184,
+        "listed_at": "2026-10-09T01:00:05.000Z",
+        "days_on_market": "126",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.030345,
+          32.440496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d11e7bf8-7799-5eb9-b39d-7608cbbc980e",
         "address": "3200 Trotter Rd",
         "beds": 3,
