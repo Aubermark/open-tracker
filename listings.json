@@ -19219,6 +19219,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3ca3b7c6-afa2-5ada-9f99-df1f148d5eae",
+        "address": "5464 Virginia Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1845,
+        "listed_at": "2026-10-09T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.913054,
+          33.349808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3cb66d6c-734b-5fcc-9d53-d00b59dcc63e",
         "address": "116-Valleyview-Dr-Johnstown-OH-43031",
         "beds": 3,
@@ -39289,6 +39310,27 @@
         "coordinates": [
           -98.717083,
           29.398431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7d3cc789-4a75-5b1d-b8fa-9cb7ef535151",
+        "address": "704 Thornton Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1295,
+        "listed_at": "2026-10-09T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15535,
+          30.663145
         ]
       }
     },
