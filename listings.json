@@ -61702,6 +61702,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6797522-c35c-58fd-9d29-0d163c1a12b0",
+        "address": "19448 Roudebush Blvd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2446,
+        "listed_at": "2026-10-09T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97417,
+          40.070656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c67fd9aa-e341-56bd-97d6-405b8b6b7c6c",
         "address": "1913-Ne-Grant-Cir-Blue-Springs-MO-64014",
         "beds": 3,
