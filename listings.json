@@ -130,6 +130,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "006b51a4-a1c5-4bed-b0d0-e1ad09da847c",
+        "address": "9430 Channing Hill Dr",
+        "beds": 6,
+        "baths": 4.5,
+        "sqft": 3903,
+        "listed_at": "2026-10-09T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35831,
+          27.768256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0075cf63-bb79-5e57-acb7-50b4f569ade3",
         "address": "3311-Garland-Ave-Richmond-VA-23222",
         "beds": 3,
