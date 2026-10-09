@@ -27157,6 +27157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56d56de7-10b1-5c2d-8e5b-117a468ec73f",
+        "address": "423 Sherwood Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1495,
+        "listed_at": "2026-10-09T00:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.734944,
+          36.51897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56e53c87-413e-5924-890a-b2a3e9db3487",
         "address": "11339-E-Glowing-Sunset-Dr-Tucson-AZ-85747",
         "beds": 4,
@@ -43363,6 +43384,27 @@
         "coordinates": [
           -82.06088,
           29.089278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8dbdddaa-d125-55fa-9f1b-93a88b886847",
+        "address": "2513 Lindbergh St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 975,
+        "listed_at": "2026-10-09T00:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.880177,
+          36.024411
         ]
       }
     },
