@@ -33982,6 +33982,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c047e77-1b24-5eca-9f55-4f8bf5f0af79",
+        "address": "10330-E-Weaver-Pl-Englewood-CO-80111",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2373,
+        "listed_at": "2026-10-09T15:10:05.000Z",
+        "days_on_market": "168",
+        "current_price": 684000,
+        "price_label": "$684K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.869563,
+          39.599274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c095478-0818-5470-954e-997a68c7f8c5",
         "address": "3911-Teal-Vista-Ct-Fresno-TX-77545",
         "beds": 3,
