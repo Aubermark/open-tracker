@@ -19681,6 +19681,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e512804-0ee6-56a1-9d60-87910e997455",
+        "address": "1415 Faith Meadows Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1695,
+        "listed_at": "2026-10-09T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.779373,
+          35.647239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e7095bb-b905-5476-85ea-95165254fa97",
         "address": "1618-Woodcrest-Ln-Carrollton-TX-75006",
         "beds": 3,
@@ -38365,6 +38386,27 @@
         "coordinates": [
           -80.038025,
           33.166345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7a97e0ca-eaf8-5db4-8873-80d2c6d8c1d9",
+        "address": "76 Cavalier Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1128,
+        "listed_at": "2026-10-09T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.343003,
+          37.052088
         ]
       }
     },
