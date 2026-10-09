@@ -28354,6 +28354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "59fbfde0-953e-56b7-a5b4-a9f468a17775",
+        "address": "3911 W Forrest Park Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1620,
+        "listed_at": "2026-10-09T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.584054,
+          39.208009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a1649d3-b6ca-540e-a9db-556f619631ad",
         "address": "3926-Wilgrove-Way-Dr-Charlotte-NC-28213",
         "beds": 3,
@@ -65896,6 +65917,27 @@
         "coordinates": [
           -86.762688,
           33.460611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d293aac9-21c8-54d0-9916-b6aeac1b48e5",
+        "address": "7740 Sandra Ln",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1205,
+        "listed_at": "2026-10-09T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 209000,
+        "price_label": "$209K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.641976,
+          35.883932
         ]
       }
     },
