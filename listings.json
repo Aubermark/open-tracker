@@ -27136,6 +27136,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54829ddc-d71a-51ad-bb24-465bf357e6b1",
+        "address": "11301 Riveredge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1718,
+        "listed_at": "2026-10-09T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.765479,
+          41.413623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54a52753-a4b2-4929-a983-fc8e1d924d38",
         "address": "8230 Langley Ave",
         "beds": 4,
