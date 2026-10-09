@@ -53386,6 +53386,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad498fbc-fe74-570c-8c69-85398aa436a5",
+        "address": "9019 Sunny Ridge Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3300,
+        "listed_at": "2026-10-09T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.64261,
+          29.911474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad5756ef-f85e-5b42-b542-f3656dc03f66",
         "address": "5710-Edgehill-Rd-Sumter-SC-29154",
         "beds": 3,
@@ -69571,6 +69592,27 @@
         "coordinates": [
           -84.940382,
           34.747076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dde01aa5-2c1a-5d29-ad0b-f68c505ee671",
+        "address": "317 N State St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1184,
+        "listed_at": "2026-10-09T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.367344,
+          38.045605
         ]
       }
     },
