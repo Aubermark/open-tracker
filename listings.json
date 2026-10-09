@@ -30076,6 +30076,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5dc6049e-a5f4-5a51-b0db-c5e9a372ee3a",
+        "address": "13020 Moorcroft Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1591,
+        "listed_at": "2026-10-09T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.754358,
+          30.445885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dc7b82a-348b-5c38-a49e-d332dc8a306b",
         "address": "1305-Ivey-Grove-Ct-Fuquay-Varina-NC-27526",
         "beds": 5,
@@ -70033,27 +70054,6 @@
         "coordinates": [
           -122.084697,
           37.095086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dbbf5d68-3500-50c5-a72c-3bf582ce2227",
-        "address": "8807-Mesa-Vis-San-Antonio-TX-78224",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1604,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "189",
-        "current_price": 189000,
-        "price_label": "$189K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.539272,
-          29.337621
         ]
       }
     },
