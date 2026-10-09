@@ -9790,6 +9790,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20c7f8da-e69a-51c8-bc65-255d5c8b2a77",
+        "address": "4814 Dale Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1410,
+        "listed_at": "2026-10-09T06:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.920077,
+          30.014957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20e1e94d-5b7d-43fd-875d-7cc86c959fd0",
         "address": "543-Bellum-Dr-Unit-1061-Henderson-NV-89011",
         "beds": 2,
