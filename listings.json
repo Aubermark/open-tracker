@@ -29173,27 +29173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5cb68cc1-ed4b-5e5d-9340-4ddf0357031c",
-        "address": "494-Inlet-Ave-Nw-Ocean-Shores-WA-98569",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1328,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "147",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.164586,
-          46.997364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5cb971f4-c4d0-51d5-89fc-92bf6628825a",
         "address": "571-Sw-207th-Ave-Beaverton-OR-97006",
         "beds": 3,
@@ -51013,6 +50992,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a61c0991-7ba9-5e04-8348-be032d087047",
+        "address": "5611 N Placita Arizpe",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2901,
+        "listed_at": "2026-10-09T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 800000,
+        "price_label": "$800K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.882308,
+          32.309379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a621231b-3a7c-55f1-a28b-b805dec22293",
         "address": "104-Round-Knob-Rd-Lexington-SC-29072",
         "beds": 3,
@@ -52435,27 +52435,6 @@
         "coordinates": [
           -80.437987,
           35.58609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a9f6697a-792d-5e88-b942-bc999edad7ac",
-        "address": "17534-Balmaha-Dr-Land-O-Lakes-FL-34638",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2262,
-        "listed_at": "2026-09-18T10:40:03.000Z",
-        "days_on_market": "21",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.52534,
-          28.207542
         ]
       }
     },
