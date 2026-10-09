@@ -61240,6 +61240,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c65c4b2d-e4ca-539e-a99f-9a27fb26b064",
+        "address": "1750 Clinton St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1957,
+        "listed_at": "2026-10-09T00:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.379788,
+          38.61381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c65f91bd-a48a-5e3a-8564-bcb6597eb477",
         "address": "7724 Benbrook",
         "beds": 3,
