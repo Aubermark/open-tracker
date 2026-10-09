@@ -71068,6 +71068,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e5493204-8048-5f18-8cde-cc5d3ff3a4be",
+        "address": "14609 Little Anne Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2055,
+        "listed_at": "2026-10-09T06:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.884237,
+          33.201514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e55d2bc9-97b8-5c60-abc8-29c80836faff",
         "address": "4259-W-Stane-Ave-West-Valley-City-UT-84120",
         "beds": 3,
