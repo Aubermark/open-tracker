@@ -43684,27 +43684,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8da5e103-e3be-5631-9e38-b32008b2ddbe",
-        "address": "3418-Shady-Forest-Dr-Murfreesboro-TN-37128",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2334,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "79",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.459366,
-          35.801774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8db72fe5-c3a4-51d3-b426-161fb73c77c1",
         "address": "5315-Se-91st-St-Ocala-FL-34480",
         "beds": 4,
@@ -59308,6 +59287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bea71614-0bd5-5f33-9376-005154fc532f",
+        "address": "612-Victor-Dr-Knoxville-TN-37912",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1090,
+        "listed_at": "2026-10-09T17:00:05.000Z",
+        "days_on_market": "62",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.985848,
+          36.009308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bebd9128-30f8-59cf-a19a-829c91159be3",
         "address": "4206-E-16th-St-Indianapolis-IN-46201",
         "beds": 2,
@@ -71314,6 +71314,27 @@
         "coordinates": [
           -96.979904,
           32.965112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e47e30f5-1586-5828-8ca5-ab51ce0aea9c",
+        "address": "12284 Radiant Sunrise Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1533,
+        "listed_at": "2026-10-09T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177756,
+          35.966298
         ]
       }
     },
