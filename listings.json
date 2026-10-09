@@ -6682,27 +6682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "149c90c6-36a8-51cd-8a3d-2a8356d7c0c7",
-        "address": "6800-Havenhurst-Dr-Sacramento-CA-95831",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1488,
-        "listed_at": "2026-09-28T14:30:03.000Z",
-        "days_on_market": "11",
-        "current_price": 546000,
-        "price_label": "$546K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.520457,
-          38.504069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "14a0a07a-cf5b-5032-826b-e7a988b83af8",
         "address": "101-Cambridge-Pointe-Dr-Alabaster-AL-35007",
         "beds": 3,
@@ -25828,6 +25807,27 @@
         "coordinates": [
           -83.945196,
           33.566124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "506d0473-76bb-5310-9d57-5b35c2e471d4",
+        "address": "3924 Applecrest St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1184,
+        "listed_at": "2026-10-09T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.237671,
+          36.231372
         ]
       }
     },
@@ -45742,6 +45742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "93744adc-b16e-5554-adc6-f955377466fb",
+        "address": "6297-Rolling-Fork-Rd-Apt-G-North-Charleston-SC-29406",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1076,
+        "listed_at": "2026-10-09T20:40:05.000Z",
+        "days_on_market": "87",
+        "current_price": 153000,
+        "price_label": "$153K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.022478,
+          32.911166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "939ee27d-b1d4-4d0c-acb3-c66d3fd0c8fe",
         "address": "232 N River St",
         "beds": 3,
@@ -53632,27 +53653,6 @@
         "coordinates": [
           -82.641656,
           27.726323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac96b21a-fbb0-573a-8fb6-cf09c1bc8a21",
-        "address": "4467-Rambler-Ln-Palm-Springs-CA-92262",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2369,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "221",
-        "current_price": 710000,
-        "price_label": "$710K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.54499,
-          33.869125
         ]
       }
     },
