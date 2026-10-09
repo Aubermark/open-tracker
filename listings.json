@@ -9139,6 +9139,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1daf2cec-e20e-5fab-84e3-72d0b1f73500",
+        "address": "1625 N 22nd St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-10-09T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.409835,
+          37.545238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1db7526e-d5c4-57c4-9af1-5e4728dead6c",
         "address": "109-Harmon-Hill-Ct-Hopkins-SC-29061",
         "beds": 3,
@@ -14509,27 +14530,6 @@
         "coordinates": [
           -104.954958,
           39.869831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2edf08d4-ea7c-5e0e-bfdd-f7c29fc97d64",
-        "address": "1019-Ivydale-Cir-Lawrenceville-GA-30045",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1724,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "87",
-        "current_price": 238000,
-        "price_label": "$238K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.995006,
-          33.917019
         ]
       }
     },
@@ -76459,6 +76459,27 @@
         "coordinates": [
           -122.848329,
           45.569923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f34979e0-06da-58f3-bee1-0385925af9b5",
+        "address": "1012 W 3rd Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3374,
+        "listed_at": "2026-10-09T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.475482,
+          32.091666
         ]
       }
     },
