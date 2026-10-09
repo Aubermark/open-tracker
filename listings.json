@@ -4687,6 +4687,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e8c5611-0d4f-5a26-8435-a1177489fefb",
+        "address": "2059 N Eureka Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-10-09T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.389269,
+          43.623472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
         "address": "4213-Mallard-Dr-Batavia-OH-45103",
         "beds": 3,
@@ -33283,6 +33304,27 @@
         "coordinates": [
           -78.623655,
           33.879108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6990835c-2ade-55cc-9b1e-cfd1d94e9564",
+        "address": "12522 W Camas Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1471,
+        "listed_at": "2026-10-09T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.33842,
+          43.594602
         ]
       }
     },
