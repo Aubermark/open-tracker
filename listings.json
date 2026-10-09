@@ -29761,6 +29761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5e5e9255-4776-4864-be54-b7eb6a6ff01b",
+        "address": "2591 Cornelius Pl NW",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3071,
+        "listed_at": "2026-10-09T17:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.625477,
+          35.420395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5e6f1b04-a565-50ae-b89c-847d6e6590ff",
         "address": "16571-Sw-145th-Ave-Miami-FL-33177",
         "beds": 4,
@@ -76123,6 +76144,27 @@
         "coordinates": [
           -81.442512,
           41.402807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f3b02228-c0e1-55ae-90a3-d871eae68b6b",
+        "address": "446 Royal Palms Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1677,
+        "listed_at": "2026-10-09T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.077589,
+          36.833769
         ]
       }
     },
