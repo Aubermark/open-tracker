@@ -13696,6 +13696,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c051175-f8ad-511f-b9e4-dfa8b2556190",
+        "address": "1505 Hudson Dr",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4252,
+        "listed_at": "2026-10-09T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.662041,
+          32.347935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c167267-fdbf-5b74-ac3d-9fa1779c26a6",
         "address": "821-Pinkney-Pl-Stanley-NC-28164-18435734",
         "beds": 6,
@@ -40360,6 +40381,27 @@
         "coordinates": [
           -77.207282,
           38.864877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "80e6f4e4-8b53-5a7f-8e29-b4fec8978ef6",
+        "address": "12309 Indian Mound Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2250,
+        "listed_at": "2026-10-09T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.679226,
+          30.404797
         ]
       }
     },
