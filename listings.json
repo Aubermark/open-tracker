@@ -48199,6 +48199,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a50584a-8901-5bb9-926c-8fc3e0a42d8d",
+        "address": "1612-Sharon-Rd-W-Apt-61-Charlotte-NC-28210",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 969,
+        "listed_at": "2026-10-09T22:40:05.000Z",
+        "days_on_market": "50",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.874798,
+          35.117181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a567f8a-3c7a-5994-9b80-24bf1c719eca",
         "address": "1115-N-Waterview-Dr-Richardson-TX-75080",
         "beds": 3,
@@ -62011,6 +62032,27 @@
         "coordinates": [
           -87.660827,
           41.492261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c48fd1e7-0ba8-5a9b-be9e-d1eeb84fa595",
+        "address": "3016 N 47th St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2402,
+        "listed_at": "2026-10-09T22:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1055000,
+        "price_label": "$1.055M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.980311,
+          33.482527
         ]
       }
     },
