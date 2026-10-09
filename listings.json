@@ -3658,6 +3658,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ba2e0ea-c696-5a31-b662-f02e7dcb5b2d",
+        "address": "576 Green Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1907,
+        "listed_at": "2026-10-09T14:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.814665,
+          36.236695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bab2559-8ad5-564a-bce6-40796071df19",
         "address": "1454-Farragut-St-New-Orleans-LA-70114",
         "beds": 3,
