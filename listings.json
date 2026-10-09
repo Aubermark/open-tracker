@@ -47947,6 +47947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9d9d15e3-3d9c-5648-9882-8bbc53f7d20b",
+        "address": "4128 Ballybay Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1836,
+        "listed_at": "2026-10-09T00:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03155,
+          39.708078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d9d9555-cd3a-5691-93fa-0d5eae806f0a",
         "address": "2621-Middletowne-Dr-Zachary-LA-70791",
         "beds": 3,
