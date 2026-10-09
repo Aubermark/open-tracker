@@ -17833,6 +17833,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39ad8e29-0cc6-5c2e-966e-fd2505995b5a",
+        "address": "4665 Guava Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2065,
+        "listed_at": "2026-10-09T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1500000,
+        "price_label": "$1.500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.048522,
+          33.77951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39ba6a9f-faa9-5041-82e2-1351603b7642",
         "address": "335-Hunters-Gln-Fayetteville-GA-30215",
         "beds": 3,
@@ -23896,6 +23917,27 @@
         "coordinates": [
           -84.584911,
           33.597975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4ac89224-4e15-5504-9bba-f9fad7b10499",
+        "address": "532 County Road 201",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1784,
+        "listed_at": "2026-10-09T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1025000,
+        "price_label": "$1.025M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.838869,
+          37.420569
         ]
       }
     },
@@ -58510,27 +58552,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bbb64454-833b-5a73-8fc6-b8887f031f12",
-        "address": "23608-Ashwood-Pl-Valencia-CA-91354",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1935,
-        "listed_at": "2026-09-17T17:40:05.000Z",
-        "days_on_market": "53",
-        "current_price": 872000,
-        "price_label": "$872K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.549227,
-          34.45337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bbc7464f-0ef6-5a88-a876-992d91ba745a",
         "address": "127-Walker-Ave-Bessemer-AL-35023",
         "beds": 2,
@@ -76375,6 +76396,27 @@
         "coordinates": [
           -84.178215,
           34.228873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f40af29b-f194-5de2-8a4b-124000facf6c",
+        "address": "8917 Natures Pond Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1680,
+        "listed_at": "2026-10-09T18:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.065886,
+          35.898236
         ]
       }
     },
