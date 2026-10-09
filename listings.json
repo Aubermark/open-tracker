@@ -25687,6 +25687,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fdadf9a-7f92-547c-ad9a-c5b9e38b4058",
+        "address": "190 Point Pleasant Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1865,
+        "listed_at": "2026-10-09T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.286736,
+          28.979707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4fe0abb0-a13f-57bd-8d1e-dbd003fce83a",
         "address": "235-Cedar-Brook-Ln-Cave-Junction-OR-97523",
         "beds": 4,
@@ -44119,6 +44140,27 @@
         "coordinates": [
           -93.499211,
           45.086315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8d5986d1-6c4c-562c-8fbc-730871838830",
+        "address": "1713 Tall Cane Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1374,
+        "listed_at": "2026-10-09T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.696175,
+          35.602454
         ]
       }
     },
