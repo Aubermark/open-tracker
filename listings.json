@@ -22180,6 +22180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "449fceec-4ae6-456f-8087-61425657d321",
+        "address": "5969 Charlie Little Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1290,
+        "listed_at": "2026-10-09T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.343575,
+          35.85967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44b672bf-d3af-52c3-8634-cd3ebb562416",
         "address": "1100-Prescot-Ave-Nw-Massillon-OH-44646",
         "beds": 4,
