@@ -50908,6 +50908,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a5b614c0-052d-591e-811f-8c62d5442a6b",
+        "address": "8014 Alford Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2467,
+        "listed_at": "2026-10-09T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.861178,
+          35.013283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a5b705ac-dbda-52b5-83d8-e07e34569ce6",
         "address": "1631-Glade-Meadows-Dr-Joshua-TX-76058",
         "beds": 4,
