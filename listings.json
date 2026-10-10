@@ -75310,6 +75310,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "edcb3d86-fb59-58f9-bc23-6c73d4daa151",
+        "address": "2179-E-Barcelona-Pl-Springfield-MO-65804",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2262,
+        "listed_at": "2026-10-10T13:20:04.000Z",
+        "days_on_market": "9",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.254204,
+          37.126334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "edda533c-18b1-43e7-a26c-8caf30f4f4a6",
         "address": "216-Red-Bluff-St-Summerville-SC-29483",
         "beds": 6,
@@ -76774,27 +76795,6 @@
         "coordinates": [
           -93.091264,
           44.916861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1f728df-fbac-5900-9a4d-5f8cf0fc9d07",
-        "address": "3311-Pond-Pine-Rd-Saint-Cloud-FL-34773",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2366,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "16",
-        "current_price": 341000,
-        "price_label": "$341K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.150327,
-          28.201212
         ]
       }
     },
