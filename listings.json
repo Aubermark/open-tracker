@@ -49669,6 +49669,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9edd62ca-1770-51ba-98ca-4461e9a815b5",
+        "address": "7423 Ebbert Dr SE",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2519,
+        "listed_at": "2026-10-10T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 660000,
+        "price_label": "$660K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.571066,
+          47.48085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9ef7aa96-8413-5417-a297-29c4a78ef955",
         "address": "12007-N-138th-St-Scottsdale-AZ-85259",
         "beds": 4,
