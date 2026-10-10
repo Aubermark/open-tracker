@@ -11953,6 +11953,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26c59da4-2cc6-568f-b9d6-662009f0da16",
+        "address": "2722-Quail-Oaks-Dr-Greensboro-NC-27405",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1957,
+        "listed_at": "2026-10-10T18:40:05.000Z",
+        "days_on_market": "30",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.742025,
+          36.140076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27058852-3aec-53bf-97ac-4aa9357d17d5",
         "address": "2617-Silver-Hill-Dr-Fort-Worth-TX-76131",
         "beds": 3,
