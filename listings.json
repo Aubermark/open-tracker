@@ -59308,6 +59308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bbabc38e-5902-55a1-95fd-7f00b4dddb48",
+        "address": "3431 S Champlain Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1464,
+        "listed_at": "2026-10-10T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.81975,
+          32.181399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bbb1ba3e-9893-51ab-834f-3711cb9b5ffa",
         "address": "5617-W-Hatcher-Rd-Glendale-AZ-85302",
         "beds": 4,
