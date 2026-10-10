@@ -43453,6 +43453,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8ac845fe-9c3a-5c5f-b186-583cc83d6000",
+        "address": "13804-Long-Shadow-Dr-Manor-TX-78653",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2085,
+        "listed_at": "2026-10-10T15:20:04.000Z",
+        "days_on_market": "53",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.542684,
+          30.357317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8ad46571-bb6d-5ca5-a7e2-8e1c67434298",
         "address": "771-Sandhill-Crane-Ct-Rockledge-FL-32955",
         "beds": 3,
