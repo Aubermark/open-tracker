@@ -9895,6 +9895,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2018bc36-4240-5733-87ba-e0afa6e90ce4",
+        "address": "2115 Gray Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2248,
+        "listed_at": "2026-10-10T00:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 401000,
+        "price_label": "$401K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.730461,
+          39.067091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "202e4fd6-2f44-59cf-87cb-5225665af3b0",
         "address": "2308-S-Park-Ave-Sanford-FL-32771",
         "beds": 2,
@@ -68731,6 +68752,27 @@
         "coordinates": [
           -96.548358,
           33.324341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d800a467-157c-51bb-a37d-71c164044c50",
+        "address": "6565-Bentley-Ridge-Dr-Cumming-GA-30040",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3990,
+        "listed_at": "2026-10-10T00:00:04.000Z",
+        "days_on_market": "126",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.252051,
+          34.198174
         ]
       }
     },
