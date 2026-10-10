@@ -19114,6 +19114,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c639db0-ffda-56b3-b628-916850df940f",
+        "address": "750 Celtic Crossing Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2155,
+        "listed_at": "2026-10-10T00:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04181,
+          35.986896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c656f29-a80f-5415-bcf4-3cb939352f5e",
         "address": "6728-Collisi-Pl-Brownsburg-IN-46112",
         "beds": 5,
