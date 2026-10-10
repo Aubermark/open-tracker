@@ -18358,6 +18358,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3a8ff8a5-1686-5fc8-b65b-030c188b17d2",
+        "address": "5921 W Cypress St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1529,
+        "listed_at": "2026-10-10T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 362000,
+        "price_label": "$362K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.187463,
+          33.472301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3a97083e-f2f7-5c3d-bbc1-3eba267457ba",
         "address": "11828 Craw Ave",
         "beds": 4,
