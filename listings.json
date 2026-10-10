@@ -30790,27 +30790,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5f7bf9ea-1c6e-5542-9593-cb0372b0301c",
-        "address": "4408-Ashcroft-Ave-Castle-Rock-CO-80104",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1961,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "71",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.817213,
-          39.368817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5f7f4331-3c01-5ee8-948c-d583055cc454",
         "address": "1773-Sylvan-Rd-Sw-Atlanta-GA-30310",
         "beds": 2,
@@ -55417,6 +55396,27 @@
         "coordinates": [
           -104.846266,
           39.408401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0487464-607d-5109-8548-fb63100a1cb9",
+        "address": "335 Odell Dr NW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1249,
+        "listed_at": "2026-10-10T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 304000,
+        "price_label": "$304K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.596974,
+          35.409554
         ]
       }
     },
