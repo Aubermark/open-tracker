@@ -48199,6 +48199,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9a425b56-6a1e-5176-880e-86d670b8362e",
+        "address": "3772-Havenmist-Cv-Suwanee-GA-30024",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2141,
+        "listed_at": "2026-10-10T00:30:05.000Z",
+        "days_on_market": "168",
+        "current_price": 478000,
+        "price_label": "$478K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.034917,
+          34.063845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a4cfd56-598f-505e-9992-fbd9cb00eee6",
         "address": "2062 Dalton Ave",
         "beds": 3,
