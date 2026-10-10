@@ -46309,6 +46309,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9473a2ca-e61f-5a43-ab18-3a5c6c9554b6",
+        "address": "401-Sanders-St-Indianapolis-IN-46225",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2600,
+        "listed_at": "2026-10-10T21:30:05.000Z",
+        "days_on_market": "86",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.151059,
+          39.750567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "947a25e0-904c-51fd-9d9a-2add7aba8f9f",
         "address": "405-Kathy-Ln-Wylie-TX-75098",
         "beds": 3,
