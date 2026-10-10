@@ -25729,6 +25729,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4fb4fb7a-abba-530b-8b51-31220284d7ef",
+        "address": "123 Ironwood",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1443,
+        "listed_at": "2026-10-10T07:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.128424,
+          37.764972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4fba64a3-baec-5368-8291-76639f9002d2",
         "address": "319-Prairie-View-Pl-Sw-Atlanta-GA-30311",
         "beds": 5,
