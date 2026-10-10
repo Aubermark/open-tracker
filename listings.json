@@ -45217,6 +45217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "905f21de-c63d-5c46-bb8c-fdb68bf11023",
+        "address": "308 Spring Garden Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 987,
+        "listed_at": "2026-10-10T01:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.667233,
+          35.519895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "906de799-0fd7-5aab-8657-8add961c1940",
         "address": "6220-Paylor-St-Mebane-NC-27302",
         "beds": 3,
