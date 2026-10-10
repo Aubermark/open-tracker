@@ -28585,27 +28585,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "58de81ff-2375-5c35-9665-4b2b9f338c74",
-        "address": "906-W-Marymont-Ln-Charleston-SC-29414",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1328,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "108",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.089512,
-          32.840316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "58ee4f33-c6f8-5626-bfe7-9a6aa12094de",
         "address": "148-Via-Montisi-Santee-CA-92071",
         "beds": 2,
@@ -54850,6 +54829,27 @@
         "coordinates": [
           -122.589916,
           45.494422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "af233e70-3f64-500c-b22a-ccf5f6605aae",
+        "address": "305 Pebble Creek Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1436,
+        "listed_at": "2026-10-10T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.172779,
+          33.954238
         ]
       }
     },
