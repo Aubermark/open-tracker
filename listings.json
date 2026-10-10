@@ -20962,6 +20962,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "411ab868-8774-5d5e-9168-f5e72fba85c4",
+        "address": "906 Lunar Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2849,
+        "listed_at": "2026-10-10T06:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 372000,
+        "price_label": "$372K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.951697,
+          35.914415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "412a1b8a-2164-5b5b-80d8-736f77745138",
         "address": "9919-E-Magnolia-St-Mesa-AZ-85207",
         "beds": 3,
@@ -43237,6 +43258,27 @@
         "coordinates": [
           -86.022686,
           40.213776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89eed261-38ad-52af-9895-4fc10fd95cc3",
+        "address": "19109 Capehart Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1617,
+        "listed_at": "2026-10-10T06:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.216767,
+          39.16932
         ]
       }
     },
