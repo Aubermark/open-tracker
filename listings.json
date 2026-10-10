@@ -30412,6 +30412,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5e853466-b65f-5fec-b180-b06b8b536cb6",
+        "address": "8269 Clipper Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1988,
+        "listed_at": "2026-10-10T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.105018,
+          35.036392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5ea07a66-e2fc-5b1a-b823-7cf6ae8347c9",
         "address": "204-Council-Loop-Columbia-SC-29209",
         "beds": 3,
