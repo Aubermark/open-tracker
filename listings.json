@@ -2188,6 +2188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0708b2e6-b0e1-5f81-9be7-5987e8cf602e",
+        "address": "2083-Dylan-Ct-Ellenwood-GA-30294",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2402,
+        "listed_at": "2026-10-11T14:40:04.000Z",
+        "days_on_market": "74",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.320938,
+          33.633624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "070930c6-8680-5884-9ef0-23877ba0a96f",
         "address": "394 Alcove Dr",
         "beds": 2,
