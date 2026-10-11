@@ -68359,6 +68359,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d69f400b-8fac-512f-9c25-cb74ec83b52b",
+        "address": "563 Tell Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1983,
+        "listed_at": "2026-10-11T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.921988,
+          33.756202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6af5100-9e1b-5e85-b9eb-94aff56f4671",
         "address": "2590-Swansea-Rd-Columbus-OH-43221",
         "beds": 3,
