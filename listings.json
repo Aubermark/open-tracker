@@ -16531,6 +16531,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "35352c2a-ef81-5261-9d10-fd581938dba2",
+        "address": "1202 Lansing Ave",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2710,
+        "listed_at": "2026-10-11T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.895148,
+          35.943803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "355d89c5-42ef-44c6-9f80-f8c142d6f2d8",
         "address": "1704-102nd-Ave-Greeley-CO-80634",
         "beds": 3,
