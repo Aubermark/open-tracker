@@ -28690,27 +28690,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5987ec19-6636-514a-8a6a-b4c784c5c531",
-        "address": "809-Canyon-Cove-Dr-Burleson-TX-76028",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1379,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "26",
-        "current_price": 274000,
-        "price_label": "$274K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.350036,
-          32.544645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "59954489-8d54-5684-ac43-4fa22b7a5a3d",
         "address": "7537-Fairfield-Rd-Brooklyn-Park-MN-55444",
         "beds": 3,
@@ -46639,6 +46618,27 @@
         "coordinates": [
           -75.721127,
           39.601986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9554297a-635f-5787-be49-6019da2ca64c",
+        "address": "106-Old-Georgia-Rd-Pelzer-SC-29669",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2072,
+        "listed_at": "2026-10-11T15:50:04.000Z",
+        "days_on_market": "64",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.449674,
+          34.642869
         ]
       }
     },
