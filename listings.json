@@ -13801,6 +13801,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c64c12d-de0e-54aa-b9e0-4bf42acbe4ed",
+        "address": "7629 Henley Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2060,
+        "listed_at": "2026-10-12T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.610447,
+          42.177909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c6b83b8-3d6a-58e0-9c53-067418611064",
         "address": "1809-Love-Rd-Monroe-NC-28110",
         "beds": 3,
@@ -79137,10 +79158,10 @@
         "beds": 3,
         "baths": 2,
         "sqft": 1442,
-        "listed_at": "2026-08-27T05:57:16.000Z",
+        "listed_at": "2026-10-12T15:40:04.000Z",
         "days_on_market": "171",
-        "current_price": 337000,
-        "price_label": "$337K"
+        "current_price": 329900,
+        "price_label": "$330K"
       },
       "geometry": {
         "type": "Point",
