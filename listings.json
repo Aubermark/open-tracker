@@ -21046,6 +21046,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "413ac3e9-f406-5f1b-a47d-bf7bd232b699",
+        "address": "2186-Ingram-Rd-Duluth-GA-30096-18448780",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2202,
+        "listed_at": "2026-10-12T14:10:05.000Z",
+        "days_on_market": "21",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17112,
+          33.94502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4141a574-657b-46c1-bf11-c01f153198d5",
         "address": "1303-Red-Lake-Way-Lincoln-CA-95648",
         "beds": 2,
@@ -71272,27 +71293,6 @@
         "coordinates": [
           -84.816666,
           35.148681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dfab3f25-1ce1-5f04-91ed-be973501c81b",
-        "address": "8181-Highland-Dr-Sw-Covington-GA-30014",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1181,
-        "listed_at": "2026-09-30T05:47:03.000Z",
-        "days_on_market": "13",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.872321,
-          33.57927
         ]
       }
     },
