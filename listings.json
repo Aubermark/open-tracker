@@ -79279,6 +79279,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f987d1be-3104-5627-ba3a-ea1f7f8e2d01",
+        "address": "422 Pearson Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1105,
+        "listed_at": "2026-10-12T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.916495,
+          35.935598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f99c0808-ecc4-583f-a587-97621942829b",
         "address": "205-Private-Road-6980-Alba-TX-75410",
         "beds": 2,
