@@ -80098,6 +80098,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fc1468e9-8f36-5857-854a-9ef568a22ec5",
+        "address": "10654-Quillback-St-Waldorf-MD-20603",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2006,
+        "listed_at": "2026-10-12T19:50:05.000Z",
+        "days_on_market": "32",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94634,
+          38.605526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fc273f1d-197b-5295-a04f-ad6f506ab941",
         "address": "11614-Mile-Dr-Houston-TX-77065",
         "beds": 4,
