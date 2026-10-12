@@ -45427,6 +45427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9106785a-e63a-58e1-876b-4129958c41c3",
+        "address": "7848 James Austin Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1152,
+        "listed_at": "2026-10-12T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 278000,
+        "price_label": "$278K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.711147,
+          35.536844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9108c495-33cb-59f7-8e25-25ba6e5dcc2e",
         "address": "402-Mossyleaf-Dr-Sw-Huntsville-AL-35824",
         "beds": 3,
