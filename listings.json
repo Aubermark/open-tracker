@@ -28123,6 +28123,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "570d2b5b-227d-5310-95d7-c3f0a766c025",
+        "address": "10707 Centre Forest Dr",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2412,
+        "listed_at": "2026-10-12T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 426000,
+        "price_label": "$426K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.555225,
+          29.828802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5731d755-8216-4ac2-a1ff-73de64aa30c3",
         "address": "214-Coastline-Rd-Fayetteville-GA-30214",
         "beds": 6,
@@ -53443,6 +53464,27 @@
         "coordinates": [
           -96.732888,
           33.046811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aac71aed-0bd7-5966-87c5-442c3b8f7c73",
+        "address": "6411 Bayonne Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2672,
+        "listed_at": "2026-10-12T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.51914,
+          30.101738
         ]
       }
     },
