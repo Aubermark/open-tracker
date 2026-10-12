@@ -34339,27 +34339,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6b1a40e3-2af1-52e0-87d6-670f72546437",
-        "address": "154-Rosebud-St-Spring-Lake-NC-28390",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1025,
-        "listed_at": "2026-10-08T06:13:22.000Z",
-        "days_on_market": ">232",
-        "current_price": 160000,
-        "price_label": "$160K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.964501,
-          35.235864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6b2b6bcf-1863-5b70-a6d3-8ff868e0a87a",
         "address": "5107-Chesterfield-Pl-Arlington-TX-76017-18413748",
         "beds": 3,
@@ -40402,6 +40381,27 @@
         "coordinates": [
           -110.975078,
           32.174235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "809f74ee-190d-51e0-8934-6b83b1b45c79",
+        "address": "11344 Pointer Ridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1305,
+        "listed_at": "2026-10-12T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.98608,
+          35.309691
         ]
       }
     },
@@ -59659,6 +59659,27 @@
         "coordinates": [
           -97.626324,
           31.069731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bc919cbd-1a1b-5e80-be19-76d4209462e9",
+        "address": "6-Crimson-Clover-Ct-Durham-NC-27704",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-10-12T18:20:04.000Z",
+        "days_on_market": "63",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890743,
+          36.06312
         ]
       }
     },
