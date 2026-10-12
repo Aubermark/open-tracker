@@ -38728,6 +38728,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7b072564-39a8-59a0-b444-c0c9a2e2aaa6",
+        "address": "3419 Lakeview Pkwy",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1440,
+        "listed_at": "2026-10-12T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 527000,
+        "price_label": "$527K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.766746,
+          38.327844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7b163059-4b5f-5c6f-a6f2-d43fae2fa0f2",
         "address": "694-Cummins-Ave-Bessemer-AL-35023",
         "beds": 2,
