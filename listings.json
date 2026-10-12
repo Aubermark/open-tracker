@@ -72559,6 +72559,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e476abd8-00db-52fc-8a7b-58df3c7551af",
+        "address": "628-Florida-St-Se-Albuquerque-NM-87108",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1796,
+        "listed_at": "2026-10-12T16:20:06.000Z",
+        "days_on_market": "213",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5728,
+          35.067789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e47e30f5-1586-5828-8ca5-ab51ce0aea9c",
         "address": "12284 Radiant Sunrise Rd",
         "beds": 3,
@@ -79189,27 +79210,6 @@
         "coordinates": [
           -74.153382,
           41.105421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f981c8e8-e52c-5361-92f2-e9f4c5b93ad1",
-        "address": "80-Azalea-Xing-Dallas-GA-30132",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1442,
-        "listed_at": "2026-10-12T15:40:04.000Z",
-        "days_on_market": "171",
-        "current_price": 329900,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.800181,
-          34.028123
         ]
       }
     },
