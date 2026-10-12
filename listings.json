@@ -28375,6 +28375,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5805a9a8-2d4b-544c-ac43-4ea7b69b660e",
+        "address": "546-Penns-Neck-Dr-Deland-FL-32724",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1930,
+        "listed_at": "2026-10-12T15:20:05.000Z",
+        "days_on_market": "108",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.277585,
+          29.036586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
         "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
         "beds": 4,
@@ -34507,27 +34528,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6be51b15-643e-5a8d-a742-08e176afca5a",
-        "address": "6020-Nw-Expressway-Oklahoma-City-OK-73132",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1400,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": ">232",
-        "current_price": 77000,
-        "price_label": "$77K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.622823,
-          35.549777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6bf440c0-614f-5bfb-9eb4-654fdcd40d90",
         "address": "10726-Sugar-Hill-Dr-Houston-TX-77042",
         "beds": 4,
@@ -39394,6 +39394,27 @@
         "coordinates": [
           -88.15535,
           30.663145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7d400999-75e0-5835-9bd6-95c65135a657",
+        "address": "4069 Griffith Ave",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1129,
+        "listed_at": "2026-10-12T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.191092,
+          42.508588
         ]
       }
     },
