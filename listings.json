@@ -21046,27 +21046,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "413ac3e9-f406-5f1b-a47d-bf7bd232b699",
-        "address": "2186-Ingram-Rd-Duluth-GA-30096-18448780",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2202,
-        "listed_at": "2026-10-12T14:10:05.000Z",
-        "days_on_market": "21",
-        "current_price": 443000,
-        "price_label": "$443K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.17112,
-          33.94502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4141a574-657b-46c1-bf11-c01f153198d5",
         "address": "1303-Red-Lake-Way-Lincoln-CA-95648",
         "beds": 2,
@@ -76522,6 +76501,27 @@
         "coordinates": [
           -111.748141,
           33.258092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f19ba348-af71-54ed-abc8-fdff17cb797e",
+        "address": "722-Virginia-Ln-Apopka-FL-32703",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1380,
+        "listed_at": "2026-10-12T14:20:05.000Z",
+        "days_on_market": "108",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.451779,
+          28.667902
         ]
       }
     },
