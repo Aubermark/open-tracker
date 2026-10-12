@@ -51097,6 +51097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a339db2e-a9c4-59b0-a873-130d04d0e95e",
+        "address": "35-Dapp-Ct-Elmwood-Park-NJ-07407",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1155,
+        "listed_at": "2026-10-12T16:30:06.000Z",
+        "days_on_market": "68",
+        "current_price": 587000,
+        "price_label": "$587K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112566,
+          40.914978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a33bba7d-20bc-5a8f-9cfa-782aaa943bde",
         "address": "3032-Laguna-Dr-Plano-TX-75023",
         "beds": 3,
