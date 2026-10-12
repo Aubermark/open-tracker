@@ -15292,6 +15292,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30e47612-019b-5cfa-9b48-b976310a5e1f",
+        "address": "3202-N-Arlington-Ave-Indianapolis-IN-46218",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1472,
+        "listed_at": "2026-10-12T16:00:05.000Z",
+        "days_on_market": "53",
+        "current_price": 171000,
+        "price_label": "$171K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.065133,
+          39.814757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "310359bf-e143-5d59-a3c1-e7ccbd0475df",
         "address": "16066-Foliage-Ave-W-Lakeville-MN-55068",
         "beds": 3,
