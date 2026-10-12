@@ -3028,6 +3028,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0915318d-9c53-5076-a850-25f2dbe3b556",
+        "address": "521 Grace Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1032,
+        "listed_at": "2026-10-12T16:10:05.000Z",
+        "days_on_market": "6",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.840334,
+          34.703666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "092afe97-fd2e-5070-bca4-a2afec83c95f",
         "address": "101-Settlement-Way-Savannah-GA-31410",
         "beds": 4,
