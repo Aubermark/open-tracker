@@ -6829,6 +6829,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14e3fd05-5861-5570-b51d-18502836b802",
+        "address": "8317-Moritz-Dr-Stokesdale-NC-27357-18406875",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1831,
+        "listed_at": "2026-10-12T19:40:05.000Z",
+        "days_on_market": "73",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94689,
+          36.239894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14e72974-8fc9-59b5-8345-8831f0dd6654",
         "address": "10590-Butte-Dr-Longmont-CO-80504",
         "beds": 3,
@@ -20998,6 +21019,27 @@
         "coordinates": [
           -81.269859,
           29.066942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4117e2e3-136d-58d7-8092-82437848a418",
+        "address": "1721-Evergreen-St-Kissimmee-FL-34746",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1379,
+        "listed_at": "2026-10-12T19:40:05.000Z",
+        "days_on_market": "31",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.455712,
+          28.255267
         ]
       }
     },
@@ -78454,6 +78496,27 @@
         "coordinates": [
           -104.941098,
           40.446765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f70e053e-81cd-5b63-a30d-7424d832b4fa",
+        "address": "8724 Cameron Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1623,
+        "listed_at": "2026-10-12T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.806124,
+          33.157371
         ]
       }
     },
