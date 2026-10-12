@@ -16153,6 +16153,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33aa863f-3dc7-5c0d-a718-25d043ec05fe",
+        "address": "310 Durham Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 908,
+        "listed_at": "2026-10-12T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.562277,
+          38.275929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33b09465-db12-4d2b-b65b-0a611e2f8606",
         "address": "205-N-Washington-St-Arcadia-IN-46030",
         "beds": 3,
@@ -17134,27 +17155,6 @@
         "coordinates": [
           -77.373111,
           38.396942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3690c20b-9b40-5ad2-aa99-19e602d07eea",
-        "address": "7328-Toccoa-Cir-Union-City-GA-30291",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2774,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "61",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.53255,
-          33.548169
         ]
       }
     },
