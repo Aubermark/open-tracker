@@ -8152,27 +8152,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "19126bf2-0ab2-5d1d-bde2-7c15ee6b8adb",
-        "address": "11401-Villa-St-Adelanto-CA-92301",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2391,
-        "listed_at": "2026-10-08T17:50:05.000Z",
-        "days_on_market": "89",
-        "current_price": 427000,
-        "price_label": "$427K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.414772,
-          34.517397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "191bb7e8-c76a-5584-b15b-951ae3aff8d7",
         "address": "12846-W-Rosewood-Dr-El-Mirage-AZ-85335",
         "beds": 3,
@@ -45133,6 +45112,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8feddac8-4d8b-5582-ad05-b80c711c5caf",
+        "address": "8304 Karen Ln",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4130,
+        "listed_at": "2026-10-12T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.30772,
+          32.672205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8fee7c6f-5ebd-5adc-87fb-da6780f69687",
         "address": "131-Highland-Point-Ave-Harmony-NC-28634",
         "beds": 3,
@@ -74569,27 +74569,6 @@
         "coordinates": [
           -82.009316,
           34.481454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eae31daf-059c-526d-bd01-1b7793073f47",
-        "address": "118-Waterway-Rd-Royal-Palm-Beach-FL-33411",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1622,
-        "listed_at": "2026-10-09T14:20:04.000Z",
-        "days_on_market": "150",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.243906,
-          26.702856
         ]
       }
     },
