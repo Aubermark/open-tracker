@@ -50950,6 +50950,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2ee6d49-4612-5c15-99b5-dde00e5108b0",
+        "address": "260-Woodwinds-Dr-Columbia-SC-29212",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1619,
+        "listed_at": "2026-10-12T15:30:04.000Z",
+        "days_on_market": "150",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.172936,
+          34.051361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2f6a701-8ba5-5e7d-90ee-31ea12f77a3a",
         "address": "708-Woodgreen-Dr-Durham-NC-27704",
         "beds": 4,
@@ -62137,6 +62158,27 @@
         "coordinates": [
           -106.750364,
           35.03323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c423eaf4-4a17-5d6f-b883-83b8223a7ac7",
+        "address": "1580-W-Cloaninger-Ave-Statesville-NC-28625",
+        "beds": 6,
+        "baths": 4.5,
+        "sqft": 3277,
+        "listed_at": "2026-10-12T15:30:04.000Z",
+        "days_on_market": "119",
+        "current_price": 342000,
+        "price_label": "$342K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.860305,
+          35.778752
         ]
       }
     },
