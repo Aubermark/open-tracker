@@ -55843,6 +55843,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b038c03f-e7c7-5b26-8b18-401f47654a3b",
+        "address": "1505-Rival-Ter-North-Port-FL-34286",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1098,
+        "listed_at": "2026-10-13T16:40:05.000Z",
+        "days_on_market": "14",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.188764,
+          27.072982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b039b45d-aa60-5dcb-8866-36aaa081215c",
         "address": "195-Lotz-Dr-Summerville-SC-29483",
         "beds": 4,
