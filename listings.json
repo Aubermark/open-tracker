@@ -57439,6 +57439,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b587bf2f-ff43-5a1e-b6aa-cb4fb003f47f",
+        "address": "402 Eileen Cir",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2220,
+        "listed_at": "2026-10-13T10:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.562587,
+          34.210147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b58e34ad-67ad-520b-b438-21fe07d0636e",
         "address": "27-W-Kenworth-Rd-Columbus-OH-43214",
         "beds": 2,
