@@ -3553,6 +3553,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0aae69d9-6c6a-575e-9ed0-43a7cded00b1",
+        "address": "774 N Davidson St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 920,
+        "listed_at": "2026-10-13T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.830619,
+          35.227965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ab2263a-2ac0-5076-816e-1d811e318abe",
         "address": "7405-S-Desoto-St-Tampa-FL-33616",
         "beds": 5,
