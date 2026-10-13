@@ -60694,6 +60694,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bec12f3f-7846-57bb-ae47-a4782bdfda47",
+        "address": "23061 E Desert Spoon Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2308,
+        "listed_at": "2026-10-13T13:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 508000,
+        "price_label": "$508K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.585774,
+          33.239167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bed67b65-9e59-48ed-8fa6-1796aa2d7c24",
         "address": "535-Wheeler-Rd-Demorest-GA-30535",
         "beds": 4,
