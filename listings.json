@@ -7270,6 +7270,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15ce0170-6f2a-5170-a810-38d538fbd4b9",
+        "address": "1508 Box Cir",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1268,
+        "listed_at": "2026-10-13T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.745206,
+          33.975413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "15ebf516-a55b-5ed8-af1a-468b83d760f4",
         "address": "563 Manbrin Dr N",
         "beds": 3,
