@@ -74008,6 +74008,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e85ef809-5319-5bfb-adb1-38bd093c05cb",
+        "address": "2307 Strait Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1992,
+        "listed_at": "2026-10-13T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.714042,
+          29.800726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e86bafce-24ff-5392-88c8-d1c27737b471",
         "address": "1360-Wildberry-Ln-Deltona-FL-32725",
         "beds": 3,
