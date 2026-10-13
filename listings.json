@@ -11785,6 +11785,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2619f7f7-71a0-5c6a-81b0-762499c0099f",
+        "address": "5002 Misty Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1703,
+        "listed_at": "2026-10-13T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.165222,
+          29.658469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2635dc97-7900-5eb4-b060-0ad60110fde3",
         "address": "619-N-4th-Ave-Maywood-IL-60153",
         "beds": 3,
@@ -13333,6 +13354,27 @@
         "coordinates": [
           -96.433655,
           32.771102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2b427c3b-2998-5e39-bbc4-0dc8ea3b3da4",
+        "address": "5102 Summerell Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2170,
+        "listed_at": "2026-10-13T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 476000,
+        "price_label": "$476K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.08602,
+          35.217486
         ]
       }
     },
