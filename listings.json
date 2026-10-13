@@ -36565,6 +36565,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "72c0d85f-c0d8-5903-a246-432bb0613e1d",
+        "address": "139 Green Springs Dr",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 3692,
+        "listed_at": "2026-10-13T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0127,
+          40.132401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "72dd8459-2425-587e-b81a-9fb42128697a",
         "address": "4342-Trotters-Way-Dr-Snellville-GA-30039",
         "beds": 4,
