@@ -949,6 +949,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0236ca27-7218-5a1b-8aeb-805b1e2697cf",
+        "address": "112-Sheridan-Ct-Mooresville-NC-28115",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1946,
+        "listed_at": "2026-10-13T15:30:05.000Z",
+        "days_on_market": "26",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.789108,
+          35.579152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0236d71e-8acc-53b7-8420-6fdfc07dac96",
         "address": "576-Stanley-St-Oneida-TN-37841",
         "beds": 4,
@@ -16588,6 +16609,27 @@
         "coordinates": [
           -97.039904,
           33.013818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "34ceb2a4-df13-5ce9-8999-119bdc07c589",
+        "address": "1502-Daroca-Dr-Deltona-FL-32725-18367230",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1016,
+        "listed_at": "2026-10-13T15:30:05.000Z",
+        "days_on_market": "110",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.223157,
+          28.905756
         ]
       }
     },
@@ -39205,27 +39247,6 @@
         "coordinates": [
           -82.005114,
           33.480785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7c89be5a-b1c7-5ac0-9f10-9331d9e40653",
-        "address": "20-Leach-Dr-Guntersville-AL-35976-17569517",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1884,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "158",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.357124,
-          34.388998
         ]
       }
     },
