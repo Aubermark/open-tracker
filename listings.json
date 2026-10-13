@@ -48892,6 +48892,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9ba98252-5c8d-5cb6-83ee-94d7f174d926",
+        "address": "4519-Marcell-Ave-Dallas-TX-75211",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1421,
+        "listed_at": "2026-10-13T12:00:05.000Z",
+        "days_on_market": "15",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.895743,
+          32.732237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9bf5d903-0418-50ca-9968-69ad3dd6cbc9",
         "address": "526-Bourneside-Dr-Greenfield-IN-46140",
         "beds": 3,
