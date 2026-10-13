@@ -13066,6 +13066,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a761b60-4dea-5cdc-9702-c3c5e46e95b7",
+        "address": "2961 Salado Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1695,
+        "listed_at": "2026-10-13T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195096,
+          32.80177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a7b9d20-c4a4-5175-82d8-5f76fee9806f",
         "address": "7052-Lodgepole-Dr-Morrow-GA-30260",
         "beds": 4,
@@ -36286,6 +36307,27 @@
         "coordinates": [
           -84.36471,
           33.467705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "720eb3e8-2269-5fe7-a751-8bde8153302b",
+        "address": "20402 Willow Trace Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2144,
+        "listed_at": "2026-10-13T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.736122,
+          30.001124
         ]
       }
     },
