@@ -214,6 +214,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0092ebc5-1e44-58a2-8748-628ee4113a57",
+        "address": "7520-Elverta-Rail-Way-Rio-Linda-CA-95673",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1166,
+        "listed_at": "2026-10-13T21:30:04.000Z",
+        "days_on_market": "67",
+        "current_price": 429000,
+        "price_label": "$429K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.456383,
+          38.704202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00a1d223-5106-5c32-9ff3-56480354b920",
         "address": "7700-E-Meadowbrook-Ave-Scottsdale-AZ-85251",
         "beds": 2,
@@ -48283,27 +48304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "98a260f0-1f55-5889-b045-fe2da74466fb",
-        "address": "1406-Di-Orio-Dr-Lewisville-TX-75067",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1450,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "46",
-        "current_price": 337000,
-        "price_label": "$337K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.033592,
-          33.034864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "98b242bc-3d6e-5cff-8312-d32a50827fcd",
         "address": "1850-Colony-Dr-Apt-2-H-Myrtle-Beach-SC-29575",
         "beds": 1,
@@ -63109,6 +63109,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c59ad82c-6500-5cb1-adea-a70c1426077c",
+        "address": "160-Carib-Dr-Merritt-Island-FL-32952",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1512,
+        "listed_at": "2026-10-13T21:30:04.000Z",
+        "days_on_market": "57",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.696643,
+          28.351871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c5a6d3c8-01de-50d3-8766-b3693cb2a67e",
         "address": "4701-26th-Ave-Ne-Rio-Rancho-NM-87144",
         "beds": 4,
@@ -77635,6 +77656,27 @@
         "coordinates": [
           -93.415609,
           44.713502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2b62d7e-f271-50c6-8d99-41dacb6ab631",
+        "address": "11535 Clair Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1817,
+        "listed_at": "2026-10-13T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78118,
+          28.515067
         ]
       }
     },
