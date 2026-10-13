@@ -13129,27 +13129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ad894da-c5d8-511a-8259-b70e2f388c42",
-        "address": "1696-Chatham-Cir-Apopka-FL-32703",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1144,
-        "listed_at": "2026-10-01T15:20:04.000Z",
-        "days_on_market": "187",
-        "current_price": 293000,
-        "price_label": "$293K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.478872,
-          28.649889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2ad9a604-388c-519f-8b68-1c360d4645fb",
         "address": "243-Haigs-Crk-N-Elgin-SC-29045",
         "beds": 4,
@@ -34501,27 +34480,6 @@
         "coordinates": [
           -111.669034,
           33.398297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6b7195a0-6b23-571b-ad86-92dc65592f1e",
-        "address": "158-Colemans-Bluff-Dr-Woodstock-GA-30188",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1446,
-        "listed_at": "2026-10-12T18:40:04.000Z",
-        "days_on_market": "130",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.449408,
-          34.08966
         ]
       }
     },
@@ -79021,6 +78979,27 @@
         "coordinates": [
           -80.184914,
           32.98367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7bee4d9-34f0-54fa-83ab-b9aafeaf2c76",
+        "address": "1150 Moneca St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1348,
+        "listed_at": "2026-10-13T17:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.783818,
+          40.006598
         ]
       }
     },
