@@ -26065,6 +26065,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "50596f54-5672-50c0-bfca-c316d1cb4f23",
+        "address": "33406-Buck-Rd-Magnolia-TX-77355",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2059,
+        "listed_at": "2026-10-13T13:40:05.000Z",
+        "days_on_market": "76",
+        "current_price": 464000,
+        "price_label": "$464K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69381,
+          30.132057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "506d0473-76bb-5310-9d57-5b35c2e471d4",
         "address": "3924 Applecrest St",
         "beds": 2,
