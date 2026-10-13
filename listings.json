@@ -81148,6 +81148,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fe382eec-2167-56bd-9668-9f8d2a56b025",
+        "address": "546 NE Knott St",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1356,
+        "listed_at": "2026-10-13T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.659642,
+          45.541942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe402773-36a2-5382-a4d9-25f691b4221d",
         "address": "16204-Cullen-Park-Way-Prosper-TX-75078",
         "beds": 4,
