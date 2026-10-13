@@ -7039,6 +7039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "15469f6a-1b97-5a14-a2dc-b4aa678b0552",
+        "address": "108 Winchell Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1898,
+        "listed_at": "2026-10-13T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.244906,
+          38.126191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1558c62f-1dff-5579-a804-e90845f3cb62",
         "address": "7309-Beaverwood-Dr-Raleigh-NC-27616",
         "beds": 3,
@@ -36097,27 +36118,6 @@
         "coordinates": [
           -96.646815,
           32.9835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "71216197-066f-5d16-9aae-e3cc53ff028c",
-        "address": "1533-Parkside-Trl-Lewisville-TX-75077",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2410,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "110",
-        "current_price": 449000,
-        "price_label": "$449K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.039476,
-          33.056337
         ]
       }
     },
