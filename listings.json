@@ -41857,27 +41857,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "848377a5-8d9c-5083-8657-5899ec87ca6f",
-        "address": "1148-Navaho-Dr-Lebanon-OH-45036",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1202,
-        "listed_at": "2026-10-02T18:40:03.000Z",
-        "days_on_market": "11",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.205427,
-          39.416634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "84a3f25f-28ce-5f79-84d6-5ff07fa9c413",
         "address": "1430-Hawk-Ln-Seymour-TN-37865",
         "beds": 2,
@@ -51385,6 +51364,27 @@
         "coordinates": [
           -97.337626,
           32.870037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a36a33dc-71c5-5284-93bd-7d5cdb217542",
+        "address": "6320-Ian-Chad-Dr-E-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1392,
+        "listed_at": "2026-10-13T14:30:05.000Z",
+        "days_on_market": "84",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.777291,
+          30.235042
         ]
       }
     },
