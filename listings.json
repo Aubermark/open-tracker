@@ -13990,6 +13990,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cea3ecd-2149-5c33-beec-9bc446c8d437",
+        "address": "36700-Lakeland-Dr-Avon-OH-44011",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1320,
+        "listed_at": "2026-10-13T15:50:05.000Z",
+        "days_on_market": "140",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.027688,
+          41.448868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cebada8-8745-5973-9603-5689bcca7ff5",
         "address": "1817-Twin-Caves-Dr-Lewisburg-TN-37091",
         "beds": 3,
@@ -30853,27 +30874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5f66cc71-c6f4-5e7f-a53e-df9464a7c6e9",
-        "address": "12816-Wooly-Bucket-Cv-Elgin-TX-78621",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1704,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "113",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.430817,
-          30.347483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5f7064eb-9787-5b76-8842-b4b0ea9f256a",
         "address": "1024-5th-St-Apt-3-Santa-Monica-CA-90403",
         "beds": 2,
@@ -41311,6 +41311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "834a2bc7-62a9-5c21-a8ba-49638b4a0d2c",
+        "address": "90-Anthony-St-Pittsboro-NC-27312",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 960,
+        "listed_at": "2026-10-13T15:50:05.000Z",
+        "days_on_market": "60",
+        "current_price": 193000,
+        "price_label": "$193K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.174861,
+          35.709533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8364285a-bbb8-5c7a-8d9b-2406702ab7dd",
         "address": "440-First-Turn-Ct-Sw-Concord-NC-28025",
         "beds": 3,
@@ -42019,6 +42040,27 @@
         "coordinates": [
           -85.110661,
           33.459516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "859620bd-f376-56cb-9606-39bc94c98643",
+        "address": "897 Stone Gate Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1750,
+        "listed_at": "2026-10-13T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.591394,
+          38.154161
         ]
       }
     },
