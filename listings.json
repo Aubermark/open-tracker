@@ -3469,6 +3469,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a3c2986-f5c3-5e0d-94c4-c4c68873d1d1",
+        "address": "5308 Finbrooke Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1260,
+        "listed_at": "2026-10-13T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 224000,
+        "price_label": "$224K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.512288,
+          33.094066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a3de826-c48d-56d9-ba1b-095470cc395f",
         "address": "20861-Lone-Eagle-Rd-Apple-Valley-CA-92308",
         "beds": 2,
@@ -28096,6 +28117,27 @@
         "coordinates": [
           -76.538568,
           39.145716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5652c816-fded-5aa0-a077-31c5e41611c1",
+        "address": "7711-Nc-Hwy-73-E-Mount-Pleasant-NC-28124",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1616,
+        "listed_at": "2026-10-13T22:00:05.000Z",
+        "days_on_market": "25",
+        "current_price": 130000,
+        "price_label": "$130K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.447456,
+          35.406549
         ]
       }
     },
@@ -58252,27 +58294,6 @@
         "coordinates": [
           -106.686158,
           35.226584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b6ff6795-1374-5ac9-bdb8-04140d5a9a5f",
-        "address": "9118-Tepee-Trl-Houston-TX-77064",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2633,
-        "listed_at": "2026-09-26T19:40:03.000Z",
-        "days_on_market": "29",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.570788,
-          29.906311
         ]
       }
     },
