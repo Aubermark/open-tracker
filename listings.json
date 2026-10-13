@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "075bd63e-250b-562e-9722-c4ca83204bd2",
+        "address": "5591-Coventry-Dr-Prosper-TX-75078",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1862,
+        "listed_at": "2026-10-13T16:20:06.000Z",
+        "days_on_market": "214",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.893477,
+          33.229679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0784ff46-5133-56a8-a27b-b5e8e4c37ea8",
         "address": "19219-W-Washington-St-Buckeye-AZ-85326",
         "beds": 3,
