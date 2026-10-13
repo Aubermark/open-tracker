@@ -47632,6 +47632,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97291d66-c851-5b0d-a276-5ff5e870a1d5",
+        "address": "2455 Judson Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2635,
+        "listed_at": "2026-10-13T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 452000,
+        "price_label": "$452K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.165967,
+          35.228822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9738c9e6-6fa2-5e9a-9c41-7632631c85e9",
         "address": "2336-Nesbitt-Dr-Ne-Brookhaven-GA-30319",
         "beds": 4,
@@ -49837,27 +49858,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9e5090de-218d-5e2e-ae30-300208364101",
-        "address": "118-Marlise-Ln-Winchester-VA-22602",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3089,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "59",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.119548,
-          39.170009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9e6733df-2bd0-5732-8cbd-800213dad788",
         "address": "313-Black-St-Cherryville-NC-28021",
         "beds": 3,
@@ -50545,27 +50545,6 @@
         "coordinates": [
           -84.17075,
           34.173225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a0b83dc3-849e-561c-be8e-a7ac21f2e749",
-        "address": "247-Los-Alamos-St-Saint-Augustine-FL-32095",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3922,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "127",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.405725,
-          30.033744
         ]
       }
     },
