@@ -28900,6 +28900,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5938f4d7-1cbc-5aca-9601-6f807d8ba80f",
+        "address": "3400-Founders-Way-Melissa-TX-75454",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2014,
+        "listed_at": "2026-10-13T18:00:06.000Z",
+        "days_on_market": "99",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.576138,
+          33.294091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "595debc8-0815-5d06-b711-57920b01a94f",
         "address": "9630-Beachwood-Dr-Orangevale-CA-95662",
         "beds": 3,
@@ -51307,6 +51328,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a3456f00-ca4f-59e5-ad6d-e5ba011ebb9d",
+        "address": "525-Lurene-Cir-Montgomery-AL-36109",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1944,
+        "listed_at": "2026-10-13T18:00:04.000Z",
+        "days_on_market": "130",
+        "current_price": 95000,
+        "price_label": "$95K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.213833,
+          32.370401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3498b20-a094-5100-b5a6-4826bf7b2f30",
         "address": "220-Grand-Meadow-Dr-Fort-Worth-TX-76108",
         "beds": 4,
@@ -63250,6 +63292,27 @@
         "coordinates": [
           -94.256122,
           39.039378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c68604a2-79bc-565d-afdc-84e9a8297be1",
+        "address": "2027-Ferdinand-Ct-Indianapolis-IN-46234",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1207,
+        "listed_at": "2026-10-13T18:00:06.000Z",
+        "days_on_market": "174",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.327801,
+          39.793576
         ]
       }
     },
