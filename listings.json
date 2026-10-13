@@ -32785,6 +32785,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "658c0180-2282-5342-a99e-9873afdbd51f",
+        "address": "610-Executive-Blvd-Delaware-OH-43015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1679,
+        "listed_at": "2026-10-13T18:20:05.000Z",
+        "days_on_market": "179",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08215,
+          40.316831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65a13a7e-66e3-5e11-b5a1-77e71e81cbce",
         "address": "1219-Franklin-St-Taylorsville-IN-47280",
         "beds": 3,
