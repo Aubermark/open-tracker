@@ -54520,27 +54520,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "aca792fe-3b7a-5897-b307-a1c8e26135ae",
-        "address": "2235-45th-Ave-N-Saint-Petersburg-FL-33714",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 672,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "109",
-        "current_price": 202000,
-        "price_label": "$202K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.664014,
-          27.81272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "acce2b69-455f-5b38-adf1-1e3a5aafa915",
         "address": "2145-Overland-Ave-Ne-Warren-OH-44483",
         "beds": 3,
@@ -79336,6 +79315,27 @@
         "coordinates": [
           -82.327767,
           27.705575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f84e963b-6763-5acc-863e-27130a665a3d",
+        "address": "122 Crookham Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1353,
+        "listed_at": "2026-10-13T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.50343,
+          35.994795
         ]
       }
     },
