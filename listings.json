@@ -30118,6 +30118,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d927c06-7dbe-5ea2-9a8b-6a8dc9d74a0f",
+        "address": "8902 Woodland Hills Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2868,
+        "listed_at": "2026-10-13T16:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.812584,
+          35.347741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d940429-ea4c-5d6d-a2c4-5a4b62c9ba3f",
         "address": "12642-Nw-Barnes-Rd-Apt-3-Portland-OR-97229",
         "beds": 2,
@@ -48220,27 +48241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "99194570-6a98-5639-86ca-e1b4108e154c",
-        "address": "3182-S-Xeric-Ct-Denver-CO-80231",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2568,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "141",
-        "current_price": 590000,
-        "price_label": "$590K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.886397,
-          39.658894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "991dc00c-e899-4e67-b52e-f47ac66ac103",
         "address": "3166-Rustic-Deer-Way-Green-Cove-Springs-FL-32043",
         "beds": 3,
@@ -59743,6 +59743,27 @@
         "coordinates": [
           -83.742584,
           33.987161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbaabb85-51b4-59a7-9602-a2a3bed5bbe4",
+        "address": "207 Hurston Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1565,
+        "listed_at": "2026-10-13T16:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.769624,
+          36.14577
         ]
       }
     },
@@ -73792,27 +73813,6 @@
         "coordinates": [
           -78.454082,
           36.389203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e75f5025-c56b-5b03-bcd5-0cb0025c29c9",
-        "address": "15203-Gathering-Ct-Charlotte-NC-28278",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2834,
-        "listed_at": "2026-09-18T19:40:03.000Z",
-        "days_on_market": "25",
-        "current_price": 532000,
-        "price_label": "$532K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.992956,
-          35.089415
         ]
       }
     },
