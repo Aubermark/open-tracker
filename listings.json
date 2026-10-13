@@ -31861,6 +31861,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61c58cb3-173e-5c26-948b-fb851d1d9ded",
+        "address": "1906 Garden Terrace Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2815,
+        "listed_at": "2026-10-13T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.767462,
+          29.75375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61f431c7-2857-53a0-8da5-8ba3dc1744ae",
         "address": "1842 Plantation Creek Rd",
         "beds": 5,
