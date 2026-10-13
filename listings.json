@@ -45070,6 +45070,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f16dfa7-f5c1-5955-be74-ed58ade843f6",
+        "address": "302-Sunset-Ln-Harriman-TN-37748",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2301,
+        "listed_at": "2026-10-13T16:00:05.000Z",
+        "days_on_market": "19",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.545499,
+          35.907668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f1d76bd-f158-5c5c-8b2a-ac9165371120",
         "address": "871-Wycliffe-Ct-Saint-Louis-MO-63125",
         "beds": 3,
