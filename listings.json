@@ -5842,6 +5842,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11db7cc8-2af8-50a1-b6a2-eece86526989",
+        "address": "11106 Bruneau Trl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2117,
+        "listed_at": "2026-10-13T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.653414,
+          30.364544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11ec216a-e732-5b19-a2cb-691057b82fda",
         "address": "15626-Dove-Meadow-Street-San-Antonio-TX-78248",
         "beds": 4,
