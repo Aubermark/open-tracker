@@ -67120,6 +67120,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d20143e0-6cd7-5e9a-9a8f-1bc681a9d7fa",
+        "address": "2101-Fordham-Dr-Fayetteville-NC-28304",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2108,
+        "listed_at": "2026-10-13T16:10:06.000Z",
+        "days_on_market": "54",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91659,
+          35.03604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d201be4c-a5c4-5a29-af50-e9b1ca09a22e",
         "address": "670-Marsh-Ct-Jonesboro-GA-30238",
         "beds": 3,
