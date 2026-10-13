@@ -8110,6 +8110,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18e7d97f-b467-56c2-adbb-558d4afdb8d2",
+        "address": "3713-Ripley-St-Sacramento-CA-95838-18268625",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1203,
+        "listed_at": "2026-10-13T20:00:05.000Z",
+        "days_on_market": "91",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.414135,
+          38.63519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18ec77da-74ba-5112-8f23-1685a141bd2d",
         "address": "905-Acacia-Dr-Anna-TX-75409-18419095",
         "beds": 3,
@@ -12430,6 +12451,27 @@
         "coordinates": [
           -97.357625,
           32.521689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "28448ca5-5bd0-58a2-ba9d-5c640ca5669b",
+        "address": "3127-S-Eugene-Mesa-AZ-85212",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1227,
+        "listed_at": "2026-10-13T20:00:05.000Z",
+        "days_on_market": "193",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.651232,
+          33.358904
         ]
       }
     },
