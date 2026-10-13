@@ -30181,6 +30181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5da429df-14a7-55f8-bc7b-f114fdf06cef",
+        "address": "11787 S 174th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1802,
+        "listed_at": "2026-10-13T13:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.424199,
+          33.339424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5da69a17-a1a0-55d7-be55-fff7391455cf",
         "address": "718 S Lovell Ave",
         "beds": 2,
