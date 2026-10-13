@@ -66007,6 +66007,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ced7c62f-84f6-5fc4-b2ac-b77dbd0a352a",
+        "address": "4571-Sunnyhill-Dr-Colorado-Springs-CO-80916",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1993,
+        "listed_at": "2026-10-13T20:40:05.000Z",
+        "days_on_market": "92",
+        "current_price": 379000,
+        "price_label": "$379K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.743509,
+          38.782118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cef19619-6d50-5fb7-9c3d-f61c63ea5ea6",
         "address": "4511-N-93rd-Dr-Phoenix-AZ-85037-18444287",
         "beds": 3,
