@@ -37153,27 +37153,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "752c53b9-f6a4-57c7-bf03-7f5c73af3d5c",
-        "address": "4505-W-Clarendon-Ave-Phoenix-AZ-85031",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1298,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "110",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.156388,
-          33.49262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "753eff82-1a05-4316-9ec3-01117232be12",
         "address": "655-Angel-Aura-St-Las-Vegas-NV-89138-18631439",
         "beds": 2,
@@ -77026,6 +77005,27 @@
         "coordinates": [
           -77.278266,
           38.954286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f116af07-2114-5c58-9fe5-364bc889db95",
+        "address": "2026-Cardinal-Ln-Lewisville-TX-75077",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1618,
+        "listed_at": "2026-10-13T14:00:05.000Z",
+        "days_on_market": "111",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.032141,
+          33.07494
         ]
       }
     },
