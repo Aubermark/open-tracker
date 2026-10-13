@@ -44062,6 +44062,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c1433e6-9571-5dd5-8ad6-4d74c8c4c02a",
+        "address": "1810 Sabrina Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1880,
+        "listed_at": "2026-10-13T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870866,
+          35.116514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c237017-9b54-58d2-9ec8-8cd92c098007",
         "address": "1346-Harrop-St-Ogden-UT-84404",
         "beds": 3,
@@ -75262,6 +75283,27 @@
         "coordinates": [
           -96.730578,
           33.081931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebea8fee-5a20-504c-8282-c2036505c9aa",
+        "address": "223 Richter St",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1214,
+        "listed_at": "2026-10-13T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 136000,
+        "price_label": "$136K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.127359,
+          42.269487
         ]
       }
     },
