@@ -18106,6 +18106,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39716d94-81ab-50cd-afdd-aaad854216b3",
+        "address": "310-W-Indiana-Ave-Bessemer-City-NC-28016",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 975,
+        "listed_at": "2026-10-14T22:00:05.000Z",
+        "days_on_market": "61",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29156,
+          35.279206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "397eb4bb-a588-5363-bff8-bf150223d897",
         "address": "204-Arbor-Way-Dallas-GA-30157",
         "beds": 3,
