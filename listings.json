@@ -81631,6 +81631,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fe74bc1f-46b0-5bdf-b435-0ad140d7aea9",
+        "address": "1037-Shadowbrook-Dr-Greenbrier-TN-37073",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1789,
+        "listed_at": "2026-10-14T14:30:05.000Z",
+        "days_on_market": "153",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.799451,
+          36.437576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe78e451-feec-5e20-89d4-f84a74d21781",
         "address": "4426-141st-Pl-Se-Snohomish-WA-98296",
         "beds": 5,
