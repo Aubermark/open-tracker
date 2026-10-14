@@ -32491,6 +32491,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "641ec82c-b457-5ff0-8ec1-5ba14eb74ce1",
+        "address": "1021 Heritage Dr",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1320,
+        "listed_at": "2026-10-14T14:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.723043,
+          36.269022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64745470-2917-567c-9109-092de9816286",
         "address": "204-Boulder-Bluff-Trl-Chapel-Hill-NC-27516",
         "beds": 4,
