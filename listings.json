@@ -7585,6 +7585,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16f0bcee-2d6c-54b0-ae91-aad8d8682410",
+        "address": "9580-Brentwood-Way-Unit-D-Westminster-CO-80021",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1449,
+        "listed_at": "2026-10-14T16:20:05.000Z",
+        "days_on_market": "204",
+        "current_price": 394000,
+        "price_label": "$394K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.094253,
+          39.871519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16fc28d0-09c7-533d-8831-96b6e21c9669",
         "address": "5419-Roe-Blvd-Roeland-Park-KS-66205",
         "beds": 2,
@@ -38617,6 +38638,27 @@
         "coordinates": [
           -97.66131,
           31.047221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "797f99bf-88d7-5bcb-ba75-5eaa5d96bc7e",
+        "address": "774-Urban-St-Lakewood-CO-80401",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1906,
+        "listed_at": "2026-10-14T16:20:05.000Z",
+        "days_on_market": "89",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.133365,
+          39.728514
         ]
       }
     },
