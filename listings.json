@@ -41311,6 +41311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8232cd5a-3300-5723-ac61-a16905d67f05",
+        "address": "1625 Cool Springs Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1362,
+        "listed_at": "2026-10-14T23:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.54452,
+          32.744366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "823e346a-e607-5532-8154-2a4b59ccd740",
         "address": "3240-Valley-View-St-Powder-Springs-GA-30127",
         "beds": 3,
