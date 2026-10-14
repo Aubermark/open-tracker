@@ -6850,6 +6850,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "149c90c6-36a8-51cd-8a3d-2a8356d7c0c7",
+        "address": "6800-Havenhurst-Dr-Sacramento-CA-95831",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1488,
+        "listed_at": "2026-10-14T22:40:05.000Z",
+        "days_on_market": "16",
+        "current_price": 546000,
+        "price_label": "$546K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.520457,
+          38.504069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14a0a07a-cf5b-5032-826b-e7a988b83af8",
         "address": "101-Cambridge-Pointe-Dr-Alabaster-AL-35007",
         "beds": 3,
@@ -10813,27 +10834,6 @@
         "coordinates": [
           -84.658586,
           33.9271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2267f667-bee7-5055-88dd-7f5304bf427b",
-        "address": "224-Brookhaven-Ct-Acworth-GA-30102",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1740,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "77",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.617997,
-          34.096439
         ]
       }
     },
@@ -77845,6 +77845,27 @@
         "coordinates": [
           -81.78118,
           28.515067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f2b7b8c3-dbd3-5beb-b45a-d7c2284b10d4",
+        "address": "309 B St NE",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1276,
+        "listed_at": "2026-10-14T22:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 65000,
+        "price_label": "$65K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.163019,
+          39.035788
         ]
       }
     },
