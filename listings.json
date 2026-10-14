@@ -17665,6 +17665,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37d431f7-da17-59de-96b4-feb46fccfdbe",
+        "address": "3223 Berkley Pointe Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1244,
+        "listed_at": "2026-10-14T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.901636,
+          40.040413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "37f7c8bb-7a3f-5f12-a1ff-ac5f4a3608ab",
         "address": "812-Pineburr-Rd-Jamestown-NC-27282",
         "beds": 4,
@@ -21985,27 +22006,6 @@
         "coordinates": [
           -80.767776,
           34.144874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "434180f4-0575-5823-95e0-61f04cafb335",
-        "address": "252-Sage-Derby-Dr-Hutto-TX-78634",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2431,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "58",
-        "current_price": 314000,
-        "price_label": "$314K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.584172,
-          30.516162
         ]
       }
     },
@@ -27193,6 +27193,27 @@
         "coordinates": [
           -93.197686,
           45.56217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "53ef2149-83de-5cba-97c4-192cf5c52fdf",
+        "address": "1330 Lynford Dr SW",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1252,
+        "listed_at": "2026-10-14T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.431549,
+          33.723098
         ]
       }
     },
@@ -50398,27 +50419,6 @@
         "coordinates": [
           -94.676038,
           38.867016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9fa2f33a-48de-5f4f-a1e5-381923631671",
-        "address": "1114-Forestburg-Dr-Houston-TX-77038",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2202,
-        "listed_at": "2026-09-25T14:00:03.000Z",
-        "days_on_market": "19",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.440198,
-          29.917705
         ]
       }
     },
