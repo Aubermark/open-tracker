@@ -78334,6 +78334,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f393088c-6ac9-526d-accd-e63ce77027b4",
+        "address": "600 S Dobson Terrace",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 989,
+        "listed_at": "2026-10-14T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.875311,
+          33.403172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3b02228-c0e1-55ae-90a3-d871eae68b6b",
         "address": "446 Royal Palms Ln",
         "beds": 2,
