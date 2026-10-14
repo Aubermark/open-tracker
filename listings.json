@@ -38098,6 +38098,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "77cca262-6859-566f-8cdf-f33445bf49f1",
+        "address": "119 Greenridge Cir",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2287,
+        "listed_at": "2026-10-14T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.134952,
+          29.499622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "77e73725-a353-53a7-a0d3-e4ee2e1222bb",
         "address": "2516-Milagro-Ridge-Ct-Ne-Rio-Rancho-NM-87124",
         "beds": 4,
@@ -54178,6 +54199,27 @@
         "coordinates": [
           -81.42868,
           30.109356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ab085a67-69c7-554e-b602-e10307ac255b",
+        "address": "3307 Wolf Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2371,
+        "listed_at": "2026-10-14T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.372341,
+          29.536032
         ]
       }
     },
