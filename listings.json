@@ -13360,6 +13360,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ad93ab0-9ea0-57d6-9296-8748c9f3e7e3",
+        "address": "2064 S Xenia Way",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1924,
+        "listed_at": "2026-10-14T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.885848,
+          39.678893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ad9a604-388c-519f-8b68-1c360d4645fb",
         "address": "243-Haigs-Crk-N-Elgin-SC-29045",
         "beds": 4,
@@ -16924,27 +16945,6 @@
         "coordinates": [
           -83.701602,
           33.990174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "357396cc-7e7c-5d9b-bb6c-48e9b84f8d92",
-        "address": "10710-Laurelton-Ct-Humble-TX-77396",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1497,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "47",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.220892,
-          29.978127
         ]
       }
     },
@@ -30994,27 +30994,6 @@
         "coordinates": [
           -118.500177,
           34.021849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5f75649b-4c0a-5986-bde6-8853cb0cd27b",
-        "address": "9833-E-Kinetic-Dr-Mesa-AZ-85212",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1564,
-        "listed_at": "2026-09-24T19:50:03.000Z",
-        "days_on_market": "20",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.621287,
-          33.322489
         ]
       }
     },
@@ -52771,6 +52750,27 @@
         "coordinates": [
           -84.514804,
           34.651027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a6abe1e8-bb94-5d56-8154-d7326daa6f55",
+        "address": "10103 Lakeview Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1831,
+        "listed_at": "2026-10-14T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23669,
+          42.233753
         ]
       }
     },
