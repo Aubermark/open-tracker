@@ -655,6 +655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "019d42e1-3e93-5258-9b64-cda9bbda3bfd",
+        "address": "410 NE 76th Ave",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1994,
+        "listed_at": "2026-10-14T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.901158,
+          45.524189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01acdef3-5a0b-58b4-88a3-838ca52c06fb",
         "address": "113-Griggs-St-Pageland-SC-29728",
         "beds": 2,
@@ -39883,6 +39904,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7da79942-15c2-57fa-8a23-c4a362d81ead",
+        "address": "8932 SW 149th Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2020,
+        "listed_at": "2026-10-14T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.829582,
+          45.455494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dc3bd4f-bfb3-56c1-b73f-74ab530e8e6e",
         "address": "13701-Ronald-W-Reagan-Blvd-Unit-84-Cedar-Park-TX-78613",
         "beds": 3,
@@ -50950,6 +50992,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1bb2653-687f-5500-a10d-6f090040200c",
+        "address": "180 W Main St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2129,
+        "listed_at": "2026-10-14T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.588278,
+          42.314926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1bb68a9-69f4-5cf5-aa24-0f4b929183a0",
         "address": "758-Meadow-Ridge-Rd-Walland-TN-37886",
         "beds": 3,
@@ -51847,6 +51910,27 @@
         "coordinates": [
           -112.033186,
           33.543651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a3f493b6-11bb-56dd-84db-816df3047e04",
+        "address": "1320 NE 17th St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 968,
+        "listed_at": "2026-10-14T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418318,
+          45.50918
         ]
       }
     },
