@@ -4645,6 +4645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc1f109-5c20-58d2-840e-8814b13d8d18",
+        "address": "4334 Highway 20 SE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2269,
+        "listed_at": "2026-10-14T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.01386,
+          33.573768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0de9b7fd-14c0-529b-8285-3704c784f220",
         "address": "3412 Lillian Ct",
         "beds": 3,
@@ -17959,27 +17980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "38d595d6-b4f2-5fed-8b20-d730aba8b834",
-        "address": "3724-Bramblevine-Cir-Lithonia-GA-30038",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1718,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "29",
-        "current_price": 241000,
-        "price_label": "$241K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.153645,
-          33.672263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "38e450c7-f742-5f81-97d6-22b8fd614f18",
         "address": "1618-Saddlebrook-Dr-Heath-OH-43056",
         "beds": 4,
@@ -22867,27 +22867,6 @@
         "coordinates": [
           -105.073419,
           40.039001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "45f00732-2a76-5932-9e56-1bed57a0fd1e",
-        "address": "252-Cameron-St-Summerville-SC-29486",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2440,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "82",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.112788,
-          33.115491
         ]
       }
     },
@@ -29041,27 +29020,6 @@
         "coordinates": [
           -86.620555,
           36.175663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "59cf35a1-e6ad-5a71-82e4-f5b1dd1942fb",
-        "address": "13419-Star-Heights-Dr-San-Antonio-TX-78230",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3937,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "138",
-        "current_price": 659000,
-        "price_label": "$659K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.565315,
-          29.570642
         ]
       }
     },
@@ -51448,27 +51406,6 @@
         "coordinates": [
           -104.82755,
           40.21508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a278c967-97c2-5e83-b51a-14de5d35e411",
-        "address": "8641-Ne-Windstone-St-Beaverton-OR-97006-17966821",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "217",
-        "current_price": 486000,
-        "price_label": "$486K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.890629,
-          45.532213
         ]
       }
     },
