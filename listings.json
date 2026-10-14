@@ -17644,27 +17644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3823344a-f9d8-552f-a242-ee0430ac8f23",
-        "address": "204-N-Huron-Dr-Oxon-Hill-MD-20745",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1358,
-        "listed_at": "2026-10-02T14:10:03.000Z",
-        "days_on_market": "12",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.005522,
-          38.812949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "38295736-36ee-54cd-83c3-e73a4cd2cbe8",
         "address": "45370-W-Horse-Mesa-Rd-Maricopa-AZ-85139",
         "beds": 5,
@@ -27109,6 +27088,27 @@
         "coordinates": [
           -117.83422,
           33.909791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "53bb98de-c2f8-4885-a68e-63526fe3bdcb",
+        "address": "204 Deception Pass Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1900,
+        "listed_at": "2026-10-14T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.229567,
+          33.049329
         ]
       }
     },
@@ -53107,6 +53107,27 @@
         "coordinates": [
           -115.293104,
           36.309209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a75c8acc-6a63-5b06-ac50-74d0ade404d9",
+        "address": "5501 Chapel Dr NW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-10-14T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.699273,
+          35.200465
         ]
       }
     },
