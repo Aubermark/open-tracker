@@ -28564,6 +28564,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "580b3403-f75b-575b-ac51-1c1815570fde",
+        "address": "3045-Zephyr-Dr-Colorado-Springs-CO-80920",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1017,
+        "listed_at": "2026-10-14T15:10:06.000Z",
+        "days_on_market": "132",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.768957,
+          38.943776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
         "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
         "beds": 4,
@@ -61045,27 +61066,6 @@
         "coordinates": [
           -86.781117,
           36.497725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bf0f9723-d606-5c3a-ac40-71fff66a2831",
-        "address": "5317-Winmire-Ln-Stone-Mountain-GA-30088",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2638,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "96",
-        "current_price": 362000,
-        "price_label": "$362K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.166368,
-          33.741801
         ]
       }
     },
