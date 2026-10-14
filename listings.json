@@ -37699,6 +37699,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76bb26a4-d533-5e1c-af71-8c4ee128c6e1",
+        "address": "7 Park Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1302,
+        "listed_at": "2026-10-14T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.153109,
+          45.149186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76cace90-798c-5702-a242-5256c346ef5d",
         "address": "2208-Mc-Connell-Ave-Joplin-MO-64804",
         "beds": 3,
@@ -45169,6 +45190,27 @@
         "coordinates": [
           -97.662537,
           30.560413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8e37662f-5e99-5b65-a9f9-70819284ec7c",
+        "address": "35115-University-St-Westland-MI-48185",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 768,
+        "listed_at": "2026-10-14T13:20:05.000Z",
+        "days_on_market": "65",
+        "current_price": 151000,
+        "price_label": "$151K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38523,
+          42.312465
         ]
       }
     },
