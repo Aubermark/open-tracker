@@ -8089,6 +8089,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "187e7061-09ed-5879-bc65-371c84506f34",
+        "address": "31 Arcadia Cv",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1201,
+        "listed_at": "2026-10-14T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.952046,
+          34.056992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "187fc108-929d-5d25-a6b1-87c21558bc00",
         "address": "1447-Snell-Blvd-Nashville-TN-37218",
         "beds": 3,
@@ -27577,27 +27598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "54f16f7a-38e1-5594-b8ce-47ee213b8400",
-        "address": "702-Buffalo-Cir-Carol-Stream-IL-60188",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1980,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "86",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.158775,
-          41.919731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "54f55cc1-989a-5eab-adbf-a86c78be43fe",
         "address": "411-Roy-Eaker-Rd-Cherryville-NC-28021",
         "beds": 3,
@@ -28159,27 +28159,6 @@
         "coordinates": [
           -79.734944,
           36.51897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "56e53c87-413e-5924-890a-b2a3e9db3487",
-        "address": "11339-E-Glowing-Sunset-Dr-Tucson-AZ-85747",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1800,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "86",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.750951,
-          32.08509
         ]
       }
     },
@@ -62956,27 +62935,6 @@
         "coordinates": [
           -81.718866,
           30.315215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c414a7cc-f0c0-545f-b451-c24437bc4f6d",
-        "address": "8213-Marshall-Brae-Dr-Raleigh-NC-27616",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1882,
-        "listed_at": "2026-09-29T06:04:49.000Z",
-        "days_on_market": "16",
-        "current_price": 348000,
-        "price_label": "$348K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.508007,
-          35.891073
         ]
       }
     },
