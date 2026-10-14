@@ -4897,27 +4897,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0e640505-94cc-54f2-8e57-ed108cece334",
-        "address": "23944-Oakmont-Way-Auburn-CA-95602",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1716,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "78",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.067045,
-          39.032819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0e65893c-5b5d-5a3d-ad30-66cfabeaa635",
         "address": "1578-Zeverly-St-Winston-Salem-NC-27127",
         "beds": 3,
@@ -71440,6 +71419,27 @@
         "coordinates": [
           -118.552048,
           34.472864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd1dca82-5df1-510e-9c72-a490ac2cbfdc",
+        "address": "633 Autumn Meadows Dr NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1388,
+        "listed_at": "2026-10-14T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.723786,
+          35.315696
         ]
       }
     },
