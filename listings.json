@@ -3028,6 +3028,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08d504db-4c94-5fac-89cd-322b8a2ed041",
+        "address": "2224 Markese Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 853,
+        "listed_at": "2026-10-14T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20027,
+          42.249821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08f4f6a9-36ba-5611-8d3d-e6de25d53897",
         "address": "7175-Somerset-Springs-Dr-Charlotte-NC-28262",
         "beds": 2,
