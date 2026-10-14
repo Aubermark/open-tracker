@@ -46393,6 +46393,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "92c80160-5e1b-5b2f-97ea-57bd0399c86c",
+        "address": "888-Brightwood-Way-Wellington-FL-33414",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1585,
+        "listed_at": "2026-10-14T17:20:06.000Z",
+        "days_on_market": "56",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23911,
+          26.668667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "92f34b8a-60d0-5143-851d-f6734e7b535f",
         "address": "332-Sprucewood-Rd-Lake-Mary-FL-32746",
         "beds": 4,
