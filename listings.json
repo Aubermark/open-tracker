@@ -73294,6 +73294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e450ea4f-73b6-5bb2-9f84-2d46d60769c2",
+        "address": "6372 Spring Cove Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2440,
+        "listed_at": "2026-10-14T09:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 483000,
+        "price_label": "$483K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.942194,
+          34.19949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e45989cc-4074-5ab6-a263-9722e11cc72e",
         "address": "530-Shadowcrest-Ln-Coppell-TX-75019",
         "beds": 3,
