@@ -67708,6 +67708,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d23b3c9a-2058-578c-b946-48b8e13478db",
+        "address": "14066 Clatterbuck Loop",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3034,
+        "listed_at": "2026-10-14T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 825000,
+        "price_label": "$825K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.608286,
+          38.820188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d23d4520-b3e3-553e-b743-76d83db9f618",
         "address": "21403-Park-Bishop-Dr-Katy-TX-77450",
         "beds": 2,
