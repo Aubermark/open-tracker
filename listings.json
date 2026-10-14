@@ -15460,27 +15460,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3113cfac-d61b-5e72-9e42-dc5eb4f5e7c6",
-        "address": "7428-S-15th-Dr-Phoenix-AZ-85041",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3224,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "85",
-        "current_price": 449000,
-        "price_label": "$449K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.091277,
-          33.378763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3126afd2-a995-5f62-aa05-2916c4945197",
         "address": "5417-W-Parsons-Rd-Phoenix-AZ-85083",
         "beds": 3,
@@ -16525,6 +16504,27 @@
         "coordinates": [
           -86.094937,
           39.567379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "340cd2f9-aed6-5c4a-a4e2-240f5f8c67ac",
+        "address": "36070 S Desert Sun Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2599,
+        "listed_at": "2026-10-14T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 730000,
+        "price_label": "$730K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.860771,
+          32.548333
         ]
       }
     },
@@ -50404,6 +50404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9fff9a3d-13b6-53d7-bf9a-4f8f6453bd84",
+        "address": "16891 E Lake Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4092,
+        "listed_at": "2026-10-14T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 715000,
+        "price_label": "$715K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1684,
+          44.703437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a00c24cd-083f-5082-b4e9-99c10092eede",
         "address": "37045-Chagrin-Blvd-Chagrin-Falls-OH-44022",
         "beds": 5,
@@ -70054,27 +70075,6 @@
         "coordinates": [
           -89.657991,
           35.049011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d8a1f6c5-2102-5ab0-909f-cd39d25579f2",
-        "address": "8452-Hazelwood-Cir-Westminster-CA-92683",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3307,
-        "listed_at": "2026-10-12T17:20:05.000Z",
-        "days_on_market": "37",
-        "current_price": 1350000,
-        "price_label": "$1.350M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.981833,
-          33.74316
         ]
       }
     },
