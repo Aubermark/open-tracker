@@ -21319,27 +21319,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "416386f5-3ab2-52ce-ae66-20107bb936f3",
-        "address": "102-California-Ave-Elyria-OH-44035",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2244,
-        "listed_at": "2026-10-02T20:00:04.000Z",
-        "days_on_market": "166",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.073493,
-          41.343863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "416b64a7-175e-5b6c-a758-8523a2f6516d",
         "address": "7907-Florado-St-Denver-CO-80221",
         "beds": 3,
@@ -58462,6 +58441,27 @@
         "coordinates": [
           -115.19718,
           36.263245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b6b15690-6737-581f-b5de-08ea3788cfa6",
+        "address": "2623-Wellington-Dr-Marietta-GA-30062",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3073,
+        "listed_at": "2026-10-14T16:30:06.000Z",
+        "days_on_market": "152",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.468123,
+          34.004714
         ]
       }
     },
