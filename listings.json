@@ -26863,6 +26863,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52a79a19-cb46-5899-b240-80f8b5f3f9ea",
+        "address": "1137 Harrison Crossroad Loop",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1620,
+        "listed_at": "2026-10-14T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68147,
+          36.417164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "52c569ac-7f50-5691-aaf3-666a83229294",
         "address": "314-Bernard-Ave-Indianapolis-IN-46208",
         "beds": 2,
@@ -74638,6 +74659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e887bc74-8c77-5854-9507-c95d053a2a35",
+        "address": "5526 N 5th Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1717,
+        "listed_at": "2026-10-14T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.081205,
+          33.517143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e888f58c-91b3-5fad-bb44-68a620823bf9",
         "address": "5816-Nw-83rd-St-Oklahoma-City-OK-73132",
         "beds": 4,
@@ -76375,6 +76417,27 @@
         "coordinates": [
           -84.301683,
           33.927333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "edb7ffe4-33f2-58ff-a3ea-9a672324c595",
+        "address": "1851 E Aspen Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1820,
+        "listed_at": "2026-10-14T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.749941,
+          33.363936
         ]
       }
     },
