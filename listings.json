@@ -30097,6 +30097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5d5c0cd0-ea9d-5282-b824-2b5b827a5375",
+        "address": "3795 Churchill Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2150,
+        "listed_at": "2026-10-14T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.668649,
+          33.943304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5d6c862f-5a51-5aed-aa5a-9c386ae5d040",
         "address": "1819-Bourne-Cir-Clarksville-TN-37043",
         "beds": 3,
@@ -36832,27 +36853,6 @@
         "coordinates": [
           -94.5212,
           38.811934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7366b0c7-7713-5b2e-909d-b3472e23cf5d",
-        "address": "2725-Flintlock-Pl-Austell-GA-30106",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 986,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "132",
-        "current_price": 138000,
-        "price_label": "$138K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.633632,
-          33.832133
         ]
       }
     },
@@ -46093,6 +46093,27 @@
         "coordinates": [
           -80.70063,
           35.06007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "912f92d8-9a3e-56ed-9d2f-f247cc92db0a",
+        "address": "109-Jolie-Ln-Sharpsburg-GA-30277",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3421,
+        "listed_at": "2026-10-14T16:50:05.000Z",
+        "days_on_market": "33",
+        "current_price": 825000,
+        "price_label": "$825K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.642329,
+          33.419914
         ]
       }
     },
@@ -59056,27 +59077,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b85370e0-0e59-50d5-a9b3-caab4f727dcb",
-        "address": "402-Bering-Ln-Summerville-SC-29486",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2170,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "112",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.10566,
-          33.151838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b8770528-1a4e-5c48-989f-e7fe36514553",
         "address": "526-Towne-Ct-Gilberts-IL-60136",
         "beds": 5,
@@ -69718,27 +69718,6 @@
         "coordinates": [
           -116.99729,
           32.598462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d7d6506d-2f12-53d3-8516-16b189e2bf1e",
-        "address": "1617 Fallingwater Trl",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3057,
-        "listed_at": "2026-10-06T11:50:02.000Z",
-        "days_on_market": "8",
-        "current_price": 365000,
-        "price_label": "$365K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.395106,
-          32.992814
         ]
       }
     },
