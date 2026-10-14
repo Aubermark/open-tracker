@@ -51769,6 +51769,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a3d7f3b7-d374-50b4-825c-8fb994ec30f8",
+        "address": "14971 Rabbit St NW",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2704,
+        "listed_at": "2026-10-14T08:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.487571,
+          45.242581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a3f16b47-a0c7-5e10-a5a0-ab7a77f7cae9",
         "address": "2244-E-Nicolet-Ave-Phoenix-AZ-85020",
         "beds": 4,
