@@ -33331,6 +33331,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66ede571-9be4-5294-b7f9-8de23b96b5eb",
+        "address": "859 W Desert Seasons Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1805,
+        "listed_at": "2026-10-14T13:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.575416,
+          33.176493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "67077fe0-a5a0-5784-9679-bd64053f65fc",
         "address": "6409-Coral-Gables-Dr-Corpus-Christi-TX-78413",
         "beds": 4,
