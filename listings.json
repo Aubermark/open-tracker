@@ -6871,6 +6871,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14abc2cd-2cba-584b-943e-097d88903b87",
+        "address": "2017-Yorktowne-Dr-La-Place-LA-70068",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1773,
+        "listed_at": "2026-10-14T17:30:05.000Z",
+        "days_on_market": "91",
+        "current_price": 162000,
+        "price_label": "$162K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.479017,
+          30.083419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14bfd4fb-4f92-5929-9a8b-278093168d56",
         "address": "3-Porter-St-Sw-Rome-GA-30161",
         "beds": 3,
@@ -53695,27 +53716,6 @@
         "coordinates": [
           -77.120046,
           37.472857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a862329a-f605-40c0-9ce6-3b03bb3d171e",
-        "address": "3357 Monarch Pass Dr",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2707,
-        "listed_at": "2026-10-09T08:10:04.000Z",
-        "days_on_market": "6",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.096051,
-          32.790555
         ]
       }
     },
