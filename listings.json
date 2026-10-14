@@ -28795,6 +28795,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "589213f8-a25a-552e-b595-ef7e1b5d7d13",
+        "address": "3651 S Meadowlark Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1290,
+        "listed_at": "2026-10-14T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.346499,
+          37.148652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58d92c1d-1572-4d39-86b3-bbc89f0c37ae",
         "address": "21511-Colonial-Meadow-Creek-Trl-Waller-TX-77484",
         "beds": 3,
@@ -32506,27 +32527,6 @@
         "coordinates": [
           -86.723043,
           36.269022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "64745470-2917-567c-9109-092de9816286",
-        "address": "204-Boulder-Bluff-Trl-Chapel-Hill-NC-27516",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2025,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "77",
-        "current_price": 631000,
-        "price_label": "$631K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.128815,
-          35.868722
         ]
       }
     },
@@ -60625,27 +60625,6 @@
         "coordinates": [
           -97.647155,
           30.374417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bd76fc54-381f-5f79-afa3-19d441a076f6",
-        "address": "33450-Irongate-Dr-Leesburg-FL-34788",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1364,
-        "listed_at": "2026-10-01T16:30:06.000Z",
-        "days_on_market": "68",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.786665,
-          28.834228
         ]
       }
     },
