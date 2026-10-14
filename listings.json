@@ -29929,27 +29929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ccae45f-9035-583d-9b04-43ce6b014d74",
-        "address": "17138-Gumbiner-Dr-La-Puente-CA-91744",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1216,
-        "listed_at": "2026-08-19T17:30:05.000Z",
-        "days_on_market": "69",
-        "current_price": 747000,
-        "price_label": "$747K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.917078,
-          34.032171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5cce67db-8497-510f-9b13-70db46203efb",
         "address": "3414-Mc-Vie-Ct-Old-Hickory-TN-37138",
         "beds": 3,
@@ -32275,6 +32254,27 @@
         "coordinates": [
           -89.667454,
           35.077484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "635b49e1-7d40-5e94-b01d-3eee27e4f2a8",
+        "address": "305 Indian Wells Ct",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 814,
+        "listed_at": "2026-10-14T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.016566,
+          33.59903
         ]
       }
     },
