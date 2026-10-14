@@ -64054,6 +64054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7c2642e-0d89-53db-a5a9-9c62bfa0b332",
+        "address": "3326 Briaroaks Dr",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1161,
+        "listed_at": "2026-10-14T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.680048,
+          32.934804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7d250d5-c6a6-53df-a65a-ff46d8c988b9",
         "address": "2805-Aquamarine-Cir-Rescue-CA-95672",
         "beds": 4,
