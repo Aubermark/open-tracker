@@ -10420,27 +10420,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "217db14a-d762-5fdd-92a3-05aad60225e6",
-        "address": "749-Williamsburg-Estate-Rd-Clover-SC-29710",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2756,
-        "listed_at": "2026-08-08T05:47:30.000Z",
-        "days_on_market": "68",
-        "current_price": 635000,
-        "price_label": "$635K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.170579,
-          35.143492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2180baa4-1b84-596d-84a4-a5b4bf85a2ad",
         "address": "106-Nelson-Dr-Copperas-Cove-TX-76522",
         "beds": 3,
@@ -11695,6 +11674,27 @@
         "coordinates": [
           -97.172736,
           33.238906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "25198c2e-41ba-551b-b4ed-4d9816c1dd82",
+        "address": "2243-Mintew-Cir-Lincolnton-NC-28092",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1349,
+        "listed_at": "2026-10-14T21:30:06.000Z",
+        "days_on_market": "68",
+        "current_price": 301000,
+        "price_label": "$301K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.327418,
+          35.512387
         ]
       }
     },
@@ -65503,27 +65503,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cc7009fc-d133-5afe-87b0-9e34e4216c0a",
-        "address": "2681-Tybee-Dr-Buford-GA-30519",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1968,
-        "listed_at": "2026-09-08T18:20:03.000Z",
-        "days_on_market": "36",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.989182,
-          34.044355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cc7d8abb-22ec-56df-b93b-752b48a17234",
         "address": "1881-Old-Daytona-Rd-Deland-FL-32724",
         "beds": 2,
@@ -79924,27 +79903,6 @@
         "coordinates": [
           -78.531272,
           35.580717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f9312e1b-9cee-4c4a-8a8b-ff40a44d0add",
-        "address": "15637-Native-Willow-Dr-Monument-CO-80132",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2818,
-        "listed_at": "2026-10-08T17:30:06.000Z",
-        "days_on_market": "154",
-        "current_price": 589000,
-        "price_label": "$589K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.865711,
-          39.059481
         ]
       }
     },
