@@ -7732,6 +7732,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "178a4933-0bf7-509b-8b9c-ebf24eb7861e",
+        "address": "116 S Clinton Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1843,
+        "listed_at": "2026-10-14T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.245527,
+          40.713469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "178d0e1a-438d-5bb6-8728-2a2821f0fb3c",
         "address": "5627-Barclay-Ct-Fort-Mill-SC-29707",
         "beds": 4,
@@ -42313,6 +42334,27 @@
         "coordinates": [
           -85.110661,
           33.459516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85710164-fa24-51f9-b533-0cf91d004281",
+        "address": "4120 S Choctaw Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2766,
+        "listed_at": "2026-10-14T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.264366,
+          35.424412
         ]
       }
     },
