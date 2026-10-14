@@ -6283,27 +6283,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "12feac61-9333-5cdb-bd60-e451a3e92c21",
-        "address": "1710 Cumberland Dr",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 1672,
-        "listed_at": "2026-10-09T19:40:04.000Z",
-        "days_on_market": "5",
-        "current_price": 253000,
-        "price_label": "$253K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.625867,
-          32.896285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1317d23e-35f6-5179-a226-27bb3ef174ec",
         "address": "1701-The-Greens-Way-Apt-523-Jacksonville-Beach-FL-32250",
         "beds": 2,
@@ -70978,6 +70957,27 @@
         "coordinates": [
           -84.823596,
           33.853081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db12ca87-34f8-51a3-9dfb-f84c99e3b4f9",
+        "address": "13807 Elsetta Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1198,
+        "listed_at": "2026-10-14T16:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 167000,
+        "price_label": "$167K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788259,
+          41.442294
         ]
       }
     },
