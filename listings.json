@@ -31504,6 +31504,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60d925ba-e091-5735-8f96-1dc2ab2f41e2",
+        "address": "992 Old Holcomb Bridge Rd",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-10-14T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 232000,
+        "price_label": "$232K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324282,
+          34.024408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60ec6a49-d2fe-56b7-8ce2-c47102e4da35",
         "address": "8618-Blair-Ct-Douglasville-GA-30134",
         "beds": 4,
@@ -38896,6 +38917,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a7925c1-5d91-5419-9316-b81f612de9b2",
+        "address": "2216 E Brigadier Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3385,
+        "listed_at": "2026-10-14T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7417,
+          33.210293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a8fc378-d3bc-528a-a66d-41d0ad0a15db",
         "address": "1804-Gade-Bryant-Rd-Moncure-NC-27559",
         "beds": 3,
@@ -42040,27 +42082,6 @@
         "coordinates": [
           -95.491085,
           30.041672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "843f98e3-3fde-50a1-be39-9b3726524c9c",
-        "address": "108-Legend-Creek-Dr-Canton-GA-30114-18237466",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2038,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "132",
-        "current_price": 367000,
-        "price_label": "$367K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.536328,
-          34.216698
         ]
       }
     },
@@ -57685,6 +57706,27 @@
         "coordinates": [
           -95.534947,
           30.025546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b4cd6f8e-3e87-5e49-a6a2-dfc2d4979baf",
+        "address": "6305 Windsor Trace Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1696,
+        "listed_at": "2026-10-14T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.240228,
+          33.959621
         ]
       }
     },
