@@ -24343,6 +24343,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4af0184b-d64f-58d1-9604-a97dea077c5c",
+        "address": "5005 Strickland Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1684,
+        "listed_at": "2026-10-14T23:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 341000,
+        "price_label": "$341K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.886665,
+          33.08868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b44fc11-a5f2-51da-a0fc-13cbf362b390",
         "address": "10860-W-Lone-Cactus-Dr-Sun-City-AZ-85373-18309614",
         "beds": 4,
@@ -74926,27 +74947,6 @@
         "coordinates": [
           -117.170244,
           33.564931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9a60c1b-08e0-568f-8025-8f6aa172d4a2",
-        "address": "204-W-Wayne-St-Edmond-OK-73003",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1381,
-        "listed_at": "2026-09-08T20:20:23.000Z",
-        "days_on_market": "77",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.485229,
-          35.660751
         ]
       }
     },
