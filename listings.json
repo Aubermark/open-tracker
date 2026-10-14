@@ -2398,6 +2398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0746adfd-6507-5019-bddc-47af94872ad5",
+        "address": "10124-Windtree-Ln-Charlotte-NC-28215-18263307",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2758,
+        "listed_at": "2026-10-14T16:00:06.000Z",
+        "days_on_market": "68",
+        "current_price": 577000,
+        "price_label": "$577K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651721,
+          35.242326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0755ab05-6c0f-50f3-b440-6d17999eed0c",
         "address": "1920 Pikes Peak Dr",
         "beds": 3,
@@ -11338,6 +11359,27 @@
         "coordinates": [
           -104.894195,
           39.94133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "23dcfb9c-953d-587f-bfbb-79fc2242a7aa",
+        "address": "4141 E Fairview Rd SW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1358,
+        "listed_at": "2026-10-14T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.122017,
+          33.607711
         ]
       }
     },
@@ -53470,6 +53512,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a7eeb84a-16d5-5a00-b538-ead615c71111",
+        "address": "1734 Harrogate Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1367,
+        "listed_at": "2026-10-14T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.007674,
+          33.329711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a7f323ac-a655-58cc-ac91-5705a0fd21a0",
         "address": "2415-Barnes-Bridge-Rd-Dallas-TX-75228",
         "beds": 3,
@@ -76318,27 +76381,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "edfc1a0b-7411-5b40-9aa2-318665240d71",
-        "address": "9709-Ivory-Dr-Sun-City-Center-FL-33573",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2334,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "79",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.353585,
-          27.773067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ee18e569-fb3e-5c7b-9bf3-19ede7ca0583",
         "address": "19550-N-Grayhawk-Dr-Unit-2028-Scottsdale-AZ-85255",
         "beds": 3,
@@ -77740,6 +77782,27 @@
         "coordinates": [
           -82.69803,
           35.229818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f208c3a6-957f-5805-92e5-b249584508f7",
+        "address": "3441-Bridgeton-Cv-Antioch-TN-37013",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1551,
+        "listed_at": "2026-10-14T16:00:06.000Z",
+        "days_on_market": "54",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.584966,
+          36.085144
         ]
       }
     },
