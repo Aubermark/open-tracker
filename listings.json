@@ -46099,6 +46099,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90c9cc00-088d-5df1-93b3-ab0c223bdbf5",
+        "address": "272 Mountain Brook Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1959,
+        "listed_at": "2026-10-15T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.985706,
+          34.423596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "90e7edac-ac23-5fe4-858b-a466daf5bd3a",
         "address": "208-Foxdale-Ct-Lagrange-GA-30240",
         "beds": 4,
