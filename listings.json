@@ -37720,6 +37720,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76952715-c681-5080-8282-943fdfd81212",
+        "address": "41 Tommy Cir",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 854,
+        "listed_at": "2026-10-15T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.996635,
+          34.033074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76a3729c-c2f8-54fe-9c32-3d368683875f",
         "address": "221-Glen-Ridge-Dr-Villa-Rica-GA-30180",
         "beds": 3,
