@@ -16027,27 +16027,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32f1d790-d782-5f26-a86e-96a6b06112c7",
-        "address": "4849-S-Albacete-Ave-Tucson-AZ-85746",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2329,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "28",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.001445,
-          32.164209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32f49582-f324-5c98-8f62-37a30dbb9582",
         "address": "1517-River-Oak-Dr-Leander-TX-78641",
         "beds": 4,
@@ -30049,6 +30028,27 @@
         "coordinates": [
           -122.890709,
           45.515594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5cc26354-e539-5ee1-ada8-f65b4190b6a2",
+        "address": "3001-Tourmaline-Way-Antelope-CA-95843",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1894,
+        "listed_at": "2026-10-15T17:00:05.000Z",
+        "days_on_market": "50",
+        "current_price": 509000,
+        "price_label": "$509K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.394011,
+          38.724203
         ]
       }
     },
@@ -51496,6 +51496,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a26852ca-c37d-505b-bc58-dcb1717c0939",
+        "address": "59 Glendale Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2348,
+        "listed_at": "2026-10-15T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.000697,
+          38.754377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a26c2b9c-a742-5fcb-8fa8-e112518dd9cb",
         "address": "1614-Carolyn-Dr-Stone-Mountain-GA-30087",
         "beds": 4,
@@ -51805,27 +51826,6 @@
         "coordinates": [
           -86.213833,
           32.370401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a3498b20-a094-5100-b5a6-4826bf7b2f30",
-        "address": "220-Grand-Meadow-Dr-Fort-Worth-TX-76108",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1856,
-        "listed_at": "2026-08-21T19:00:03.000Z",
-        "days_on_market": "55",
-        "current_price": 277000,
-        "price_label": "$277K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.495634,
-          32.756889
         ]
       }
     },
@@ -60793,6 +60793,27 @@
         "coordinates": [
           -76.832449,
           38.894456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bdab60d4-bce7-48a4-a0cb-5b3eb81ed8a3",
+        "address": "2444 SE 55th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1360,
+        "listed_at": "2026-10-15T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.926332,
+          45.500685
         ]
       }
     },
