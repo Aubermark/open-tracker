@@ -67288,6 +67288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0f56b10-5c4d-5f38-bedf-c2f82957d72a",
+        "address": "327 Texas Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1273,
+        "listed_at": "2026-10-15T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.024486,
+          33.126711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d113e9c9-40e2-5695-a006-2821b8a7b4f2",
         "address": "20-Forest-Ridge-Ln-Phenix-City-AL-36869",
         "beds": 4,
