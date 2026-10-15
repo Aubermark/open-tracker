@@ -5737,6 +5737,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1128835f-477a-545f-a235-bd1dd9319095",
+        "address": "222 Cloverdale Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1867,
+        "listed_at": "2026-10-15T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.671483,
+          27.956983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "112cf5b1-f44c-5719-b5cb-1796c8594e84",
         "address": "145-Pond-Oak-Ln-Columbia-SC-29212",
         "beds": 3,
@@ -64951,27 +64972,6 @@
         "coordinates": [
           -80.880272,
           34.165514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ca599c9d-7e62-4da6-9525-e0a8ea2e0263",
-        "address": "15376-Coaltown-Rd-Willis-TX-77378",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1623,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "231",
-        "current_price": 228000,
-        "price_label": "$228K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.476459,
-          30.463183
         ]
       }
     },
