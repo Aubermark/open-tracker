@@ -382,27 +382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "00f236b4-7936-50a0-a5ff-f06921464ec2",
-        "address": "2945-E-Hononegh-Dr-Phoenix-AZ-85050",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1214,
-        "listed_at": "2026-09-17T06:29:08.000Z",
-        "days_on_market": "86",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.018979,
-          33.671318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "00f709e1-7447-52aa-95b2-dd377061ad94",
         "address": "127-Nelson-St-Durham-NC-27707",
         "beds": 3,
@@ -16042,6 +16021,27 @@
         "coordinates": [
           -80.570917,
           35.413098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "32e419f9-f0bb-5bdd-acbd-1730e64a20bd",
+        "address": "8051 Painted Pony Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-10-15T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.209361,
+          39.647472
         ]
       }
     },
@@ -60898,6 +60898,27 @@
         "coordinates": [
           -112.386748,
           33.439349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bdd579c9-baa4-531f-9f9d-1db682954c9c",
+        "address": "10153 Ashton St",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1375,
+        "listed_at": "2026-10-15T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.943151,
+          42.450492
         ]
       }
     },
