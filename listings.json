@@ -33982,6 +33982,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68e98628-6b3a-5b6b-a56b-9fa6f885b728",
+        "address": "25975 Avenida Classica",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2300,
+        "listed_at": "2026-10-15T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.210564,
+          33.865345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68ef2a67-f5bb-5e31-936f-dfb8c518db88",
         "address": "1001-Kingstree-Ridge-Dr-Winston-Salem-NC-27127",
         "beds": 4,
