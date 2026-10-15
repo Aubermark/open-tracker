@@ -11638,6 +11638,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24d065e8-c72c-5500-b476-7553a9d285b2",
+        "address": "425 W Daughtery Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1525,
+        "listed_at": "2026-10-15T17:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.962716,
+          28.120797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24e93476-0d21-53aa-8d81-ac4db84dbbf5",
         "address": "946-N-Logan-St-Gaffney-SC-29341",
         "beds": 2,
@@ -17476,27 +17497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
-        "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2799,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": ">235",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.048857,
-          33.069158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "377e0840-e3fc-5bf4-84a6-685bee831192",
         "address": "1705-Orileys-Run-Winder-GA-30680",
         "beds": 4,
@@ -23203,6 +23203,27 @@
         "coordinates": [
           -84.028427,
           33.997921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "471c9bd0-c92d-5d4a-ace0-ab85d06a1ca0",
+        "address": "1713-Blue-Jay-Dr-Ennis-TX-75119",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2160,
+        "listed_at": "2026-10-15T17:30:06.000Z",
+        "days_on_market": "79",
+        "current_price": 268000,
+        "price_label": "$268K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.627217,
+          32.363587
         ]
       }
     },
@@ -69277,6 +69298,27 @@
         "coordinates": [
           -84.094347,
           33.914811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d67bfd71-b8d7-5177-96b3-ae1ccf09608d",
+        "address": "100-Miranda-Rd-Warrior-AL-35180",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1683,
+        "listed_at": "2026-10-15T17:30:06.000Z",
+        "days_on_market": "90",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.754553,
+          33.869462
         ]
       }
     },
