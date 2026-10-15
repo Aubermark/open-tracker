@@ -70711,6 +70711,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da035e29-3da7-536a-9b76-c8a458ebc052",
+        "address": "3420 Camellia Ln",
+        "beds": 7,
+        "baths": 5.5,
+        "sqft": 4989,
+        "listed_at": "2026-10-15T10:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.146553,
+          34.106971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "da095cf4-f34f-587c-8e14-dec49dd64872",
         "address": "5327 Lake Gardens Dr",
         "beds": 4,
