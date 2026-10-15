@@ -1957,6 +1957,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05b1e55b-6a76-5b4f-9104-c2b3d169ed90",
+        "address": "1509 Jefferson St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1424,
+        "listed_at": "2026-10-15T22:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.837566,
+          33.570536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05fcbe0a-f65f-5ef2-ac1a-1d77c3aeb154",
         "address": "1425 E Cherry St",
         "beds": 3,
@@ -24379,6 +24400,27 @@
         "coordinates": [
           -96.886665,
           33.08868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4b3ffb59-d30a-5969-b97e-ce9d715526cd",
+        "address": "31 Berneri Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2390,
+        "listed_at": "2026-10-15T22:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 696000,
+        "price_label": "$696K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.357145,
+          36.181104
         ]
       }
     },
