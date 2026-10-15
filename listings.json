@@ -10063,27 +10063,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1faea363-c9ae-5e49-b462-ad2799222ef4",
-        "address": "8126-Gambrel-Way-Rosharon-TX-77583",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1833,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "56",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.470429,
-          29.465926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1fcf8bfb-c0bf-572c-9e61-12ced620ebf8",
         "address": "405-Annie-Lee-Rd-Trussville-AL-35173",
         "beds": 3,
@@ -50929,6 +50908,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a15ad940-1081-5307-bd4c-3fa7b74f71a2",
+        "address": "5126-Eagle-Nest-Dr-Arlington-TX-76017",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1669,
+        "listed_at": "2026-10-15T19:10:05.000Z",
+        "days_on_market": "34",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.196778,
+          32.66167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a179ca1c-4efe-52a0-b97f-56ae7fdb9fc4",
         "address": "8785-Ellesmere-Dr-Cumming-GA-30041",
         "beds": 7,
@@ -79105,6 +79105,27 @@
         "coordinates": [
           -104.715995,
           38.920976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6104787-7a8b-5a5a-b9c6-4072b761348e",
+        "address": "509-Clearfield-Rd-Brandon-FL-33511",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 912,
+        "listed_at": "2026-10-15T19:10:05.000Z",
+        "days_on_market": "14",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.266628,
+          27.93251
         ]
       }
     },
