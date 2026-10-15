@@ -32407,6 +32407,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "636ddfa3-fdaa-5080-b599-4fd420835c5e",
+        "address": "1893 Turnberry Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-10-15T07:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.643057,
+          30.453137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "638bbf2d-4d3c-5565-bced-9ad6b184631d",
         "address": "3853-Wintergreen-Dr-Plano-TX-75074",
         "beds": 5,
