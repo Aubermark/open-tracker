@@ -6304,6 +6304,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12ba21b8-28ad-54d8-b5ec-546548640000",
+        "address": "7132-Teaberry-Ct-Ooltewah-TN-37363",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2564,
+        "listed_at": "2026-10-15T18:40:06.000Z",
+        "days_on_market": "217",
+        "current_price": 403000,
+        "price_label": "$403K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.089306,
+          35.096494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "12c2164e-6861-53dc-ab1a-2fcaeff08edf",
         "address": "135-N-Clublands-Ct-Alpharetta-GA-30022",
         "beds": 4,
@@ -8461,6 +8482,27 @@
         "coordinates": [
           -95.723179,
           29.615097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "193927e9-73a0-5441-8abc-3b807a5961d7",
+        "address": "10713 Vista Heights Blvd",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3112,
+        "listed_at": "2026-10-15T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.513161,
+          32.747034
         ]
       }
     },
@@ -37867,6 +37909,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76f74e71-39f3-5a52-b059-f6bde2198b46",
+        "address": "4409 Elmgreen Dr",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4015,
+        "listed_at": "2026-10-15T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 640000,
+        "price_label": "$640K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.263123,
+          33.013118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "770aa645-1b31-5bb0-8a0f-8e60be19c048",
         "address": "4876-Grassy-Knoll-Dr-Tavares-FL-32778",
         "beds": 4,
@@ -50314,6 +50377,27 @@
         "coordinates": [
           -97.579365,
           30.257197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f5ea22c-bdf3-5afa-a699-370f0e61c4db",
+        "address": "10955 Albion Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1523,
+        "listed_at": "2026-10-15T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 437000,
+        "price_label": "$437K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.935212,
+          39.896069
         ]
       }
     },
@@ -75157,27 +75241,6 @@
         "coordinates": [
           -81.242685,
           33.899308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9ec00ed-6fbe-5fe8-8d68-f1d4b9899c90",
-        "address": "270-Nathan-Dr-Clayton-NC-27520",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1321,
-        "listed_at": "2026-09-19T06:15:45.000Z",
-        "days_on_market": "27",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.508194,
-          35.588834
         ]
       }
     },
