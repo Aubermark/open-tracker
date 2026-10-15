@@ -26716,6 +26716,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5230ad9d-1fca-55e5-bfc6-1e522a22cc67",
+        "address": "5997 N Moon Crest Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2430,
+        "listed_at": "2026-10-15T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.904721,
+          32.315613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "523a1ef2-19d0-5f07-913a-84a163f7ec96",
         "address": "1469 6th St",
         "beds": 4,
@@ -63586,27 +63607,6 @@
         "coordinates": [
           -84.684252,
           33.897783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c60b26e5-cc17-58d7-a54b-6ad86b52d63f",
-        "address": "6936 Red Bone Way",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1973,
-        "listed_at": "2026-10-08T16:00:03.000Z",
-        "days_on_market": "7",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.116287,
-          33.634331
         ]
       }
     },
