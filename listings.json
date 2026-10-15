@@ -25582,27 +25582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4efd2d41-d6b6-560e-923c-f8008376f137",
-        "address": "55-Concord-Ct-Covington-GA-30016",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2035,
-        "listed_at": "2026-09-09T16:40:03.000Z",
-        "days_on_market": "36",
-        "current_price": 294000,
-        "price_label": "$294K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.944351,
-          33.611698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4f3f01d9-e6d6-50eb-8ff2-074562c71579",
         "address": "4966-N-205th-Gln-Buckeye-AZ-85396",
         "beds": 2,
@@ -47521,6 +47500,27 @@
         "coordinates": [
           -104.92101,
           39.594404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "953d004d-558f-52df-af6c-e2e166925b57",
+        "address": "11129 S 2125 E",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3844,
+        "listed_at": "2026-10-15T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 980000,
+        "price_label": "$980K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.830423,
+          40.549094
         ]
       }
     },
