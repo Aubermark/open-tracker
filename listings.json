@@ -63739,6 +63739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6568d78-9534-5ca9-90c4-08e605b29b79",
+        "address": "3805-Lenna-Dr-Snellville-GA-30039",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2570,
+        "listed_at": "2026-10-15T21:50:06.000Z",
+        "days_on_market": "160",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.011612,
+          33.808983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c65c4b2d-e4ca-539e-a99f-9a27fb26b064",
         "address": "1750 Clinton St",
         "beds": 3,
