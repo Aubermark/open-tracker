@@ -32365,6 +32365,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "631e2824-7ff1-512a-bda0-68d13edb13cf",
+        "address": "4011-Hunnington-Dr-Conroe-TX-77303",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1539,
+        "listed_at": "2026-10-15T15:30:05.000Z",
+        "days_on_market": "69",
+        "current_price": 218000,
+        "price_label": "$218K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.434753,
+          30.343275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63356bcb-8f2b-5e54-bae7-a5a3d0d36563",
         "address": "164-Doris-Meadow-Cv-Collierville-TN-38017",
         "beds": 4,
@@ -46471,27 +46492,6 @@
         "coordinates": [
           -95.664077,
           29.704686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "92659c49-fb5a-45f1-9857-ed4692a3cfb2",
-        "address": "14707-Silent-Gulf-Ave-Houston-TX-77082",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1820,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "182",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.646375,
-          29.715335
         ]
       }
     },
@@ -79042,27 +79042,6 @@
         "coordinates": [
           -87.688067,
           41.475687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f5adeffa-8b99-562b-882c-ee80a53e0dec",
-        "address": "1102-Timber-Glen-Ct-Sw-Lilburn-GA-30047",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3786,
-        "listed_at": "2026-09-19T06:15:45.000Z",
-        "days_on_market": "27",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.089253,
-          33.856565
         ]
       }
     },
