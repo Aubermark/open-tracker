@@ -73420,6 +73420,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e42a3942-e552-594c-940f-61dc721f9261",
+        "address": "902 Haverhill Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1371,
+        "listed_at": "2026-10-15T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67446,
+          32.564987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e447320f-7c8f-508b-bc17-edc82231dfa0",
         "address": "149-Madison-Park-Dr-Lexington-SC-29072",
         "beds": 5,
