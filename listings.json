@@ -54457,6 +54457,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aae11f92-dae4-5805-9374-47a97225168c",
+        "address": "4236 N 27th St",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1575,
+        "listed_at": "2026-10-15T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.024985,
+          33.4977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aaef8075-0d7f-5d92-aef5-d334d26e7c83",
         "address": "761-Nocatee-Village-Dr-Ponte-Vedra-FL-32081",
         "beds": 4,
