@@ -36313,6 +36313,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71216197-066f-5d16-9aae-e3cc53ff028c",
+        "address": "1533-Parkside-Trl-Lewisville-TX-75077",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2410,
+        "listed_at": "2026-10-15T13:10:05.000Z",
+        "days_on_market": "112",
+        "current_price": 449000,
+        "price_label": "$449K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.039476,
+          33.056337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71465715-60de-5eb6-9dfa-540b53c1dd2c",
         "address": "104-Arbuckle-Ln-Cary-NC-27511",
         "beds": 3,
