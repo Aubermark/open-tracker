@@ -9517,6 +9517,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1df1b18f-50e0-55d6-920b-518fc4c1f3c5",
+        "address": "3702 Kandy Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1121,
+        "listed_at": "2026-10-15T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.835277,
+          30.21131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1df37bd4-8bf4-5ec2-8cbc-688ff71c4344",
         "address": "206-Lilly-St-Cherryville-NC-28021",
         "beds": 3,
