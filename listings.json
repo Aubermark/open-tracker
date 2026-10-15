@@ -11281,6 +11281,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2366ce2b-b879-5329-a2bf-5ce9a0ebbb24",
+        "address": "2821 Enchanted Eve Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2150,
+        "listed_at": "2026-10-15T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.903324,
+          33.183235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "236be969-9746-56e4-86a8-180601862ec4",
         "address": "422-W-Main-St-Adamsville-TN-38310",
         "beds": 3,
@@ -12808,6 +12829,27 @@
         "coordinates": [
           -84.719929,
           33.37575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "28cb3ffa-c246-5d61-a992-3f1d64747bf3",
+        "address": "16853-Saint-Marys-St-Detroit-MI-48235",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1021,
+        "listed_at": "2026-10-15T21:30:05.000Z",
+        "days_on_market": "85",
+        "current_price": 100000,
+        "price_label": "$100K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.207072,
+          42.41482
         ]
       }
     },
@@ -34654,6 +34696,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6aeccb63-28d6-51dd-b9b3-4a550a2ab762",
+        "address": "120-Riley-Rd-Dallas-NC-28034",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1286,
+        "listed_at": "2026-10-15T21:30:05.000Z",
+        "days_on_market": "85",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.122952,
+          35.371964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b2b6bcf-1863-5b70-a6d3-8ff868e0a87a",
         "address": "5107-Chesterfield-Pl-Arlington-TX-76017-18413748",
         "beds": 3,
@@ -39106,27 +39169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7aa85405-1366-5fd3-b4b0-f487be84f5b6",
-        "address": "1572-Astoria-Arbor-Ln-Orlando-FL-32824",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2060,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "60",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.362176,
-          28.363184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7ab2f5b8-62fe-5f1d-8fe9-54982cb4d499",
         "address": "301-E-Jefferson-St-Palmer-TX-75152",
         "beds": 4,
@@ -42712,6 +42754,27 @@
         "coordinates": [
           -96.117767,
           33.109532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "85fe5d5c-2968-5d10-bb68-b10d8bcc076e",
+        "address": "6413 Autumn Mist Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2017,
+        "listed_at": "2026-10-15T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.520769,
+          37.449776
         ]
       }
     },
