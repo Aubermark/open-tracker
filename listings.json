@@ -44944,6 +44944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8da9ea8e-f67b-5b01-8db0-895519e36a62",
+        "address": "7906 S Cider Ln",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3635,
+        "listed_at": "2026-10-15T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 701000,
+        "price_label": "$701K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.734893,
+          33.20629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8db72fe5-c3a4-51d3-b426-161fb73c77c1",
         "address": "5315-Se-91st-St-Ocala-FL-34480",
         "beds": 4,
