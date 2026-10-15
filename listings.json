@@ -64348,6 +64348,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c8465082-66e0-5258-93f6-02512d4c8ba8",
+        "address": "5991 Acton Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1769,
+        "listed_at": "2026-10-15T13:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.511849,
+          33.993362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c861c630-b328-5aa8-8a68-6380a392dc4c",
         "address": "12919-Prestwick-Dr-Riverview-FL-33579",
         "beds": 3,
