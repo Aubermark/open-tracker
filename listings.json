@@ -21487,6 +21487,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41c869bf-1346-5826-a2b0-67cc2f10b7cc",
+        "address": "14824 Berkshire Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2024,
+        "listed_at": "2026-10-15T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.791336,
+          29.523585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "41cd7d7e-baa6-5386-8784-812ea1445143",
         "address": "80-Parkside-Rd-Plainfield-NJ-07060",
         "beds": 4,
