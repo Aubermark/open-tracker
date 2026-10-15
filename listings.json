@@ -36670,27 +36670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "727ef962-aff3-5cb7-b865-00e6764b701f",
-        "address": "1425-Hollyberry-Ln-West-Columbia-SC-29169",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "listed_at": "2026-09-14T17:40:03.000Z",
-        "days_on_market": "87",
-        "current_price": 258000,
-        "price_label": "$258K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.083711,
-          34.000361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "72b594e6-91af-5a64-9657-be60e606da46",
         "address": "4335-Acacia-Ln-Se-Port-Orchard-WA-98366",
         "beds": 4,
@@ -47422,6 +47401,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "955c36ce-1bbf-51ad-b2c1-d3a0ef0f48e6",
+        "address": "641 Kendalwood St NE",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 905,
+        "listed_at": "2026-10-15T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.653338,
+          43.020494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95712bec-6a8c-5ad3-874b-34c585c902d3",
         "address": "244-Brookside-Dr-Millers-Creek-NC-28651",
         "beds": 3,
@@ -54745,6 +54745,27 @@
         "coordinates": [
           -86.057999,
           32.360538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac239696-ea16-5070-a6de-4fa61d953673",
+        "address": "13927 Singleleaf Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1347,
+        "listed_at": "2026-10-15T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.002648,
+          35.097346
         ]
       }
     },
