@@ -81463,6 +81463,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fd367ad9-652f-5e05-9366-62cd6f142f8c",
+        "address": "2406 Drum Creek Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1288,
+        "listed_at": "2026-10-15T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.421217,
+          36.835531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fd4c3a84-16fa-5a91-97ba-eec2855c3ce4",
         "address": "53-W-Ridge-Rd-Warwick-NY-10990",
         "beds": 3,
