@@ -13381,6 +13381,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ab73b9b-91c9-5515-9702-ccee4ae5d36d",
+        "address": "115 Collinsville Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1390,
+        "listed_at": "2026-10-15T18:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.886088,
+          38.728731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ac6b1ca-a5e5-535a-afdc-d80450b69d78",
         "address": "8404-Blacktail-Trl-Mc-Kinney-TX-75070",
         "beds": 4,
