@@ -69157,6 +69157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d578c784-2b50-5cc0-96f3-1743366c2fca",
+        "address": "70 Chimney Rock",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1269,
+        "listed_at": "2026-10-15T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.493628,
+          34.397694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d57e7b97-e656-50cb-84a6-bdfd43cb56f6",
         "address": "807-W-Thompson-Ln-Murfreesboro-TN-37129",
         "beds": 3,
