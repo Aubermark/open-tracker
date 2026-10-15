@@ -60379,6 +60379,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bbe2c021-426f-5fe6-9196-b281936f44f9",
+        "address": "28 Highland St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1669,
+        "listed_at": "2026-10-15T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.568767,
+          35.6973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc742567-31c9-5747-8063-1e27881b5c72",
         "address": "961-Verona-Ave-San-Jacinto-CA-92583-18373576",
         "beds": 2,
