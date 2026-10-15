@@ -23230,27 +23230,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "47173783-d3c0-5eac-bdc9-b7587c39fa92",
-        "address": "1825-Marsh-Creek-Dr-Lawrenceville-GA-30043",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2147,
-        "listed_at": "2026-09-08T19:00:03.000Z",
-        "days_on_market": "37",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.028427,
-          33.997921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "471c9bd0-c92d-5d4a-ace0-ab85d06a1ca0",
         "address": "1713-Blue-Jay-Dr-Ennis-TX-75119",
         "beds": 4,
@@ -33997,6 +33976,27 @@
         "coordinates": [
           -81.820274,
           28.145076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6896b958-f431-5ddd-92dc-ef11fac514d8",
+        "address": "4704 Benridge Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2194,
+        "listed_at": "2026-10-15T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80547,
+          35.098673
         ]
       }
     },
@@ -49306,6 +49306,27 @@
         "coordinates": [
           -80.583719,
           35.397435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9adf0d3c-88ac-5bde-9529-7f17c93a69de",
+        "address": "10308 E 39th St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 792,
+        "listed_at": "2026-10-15T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.458152,
+          39.052003
         ]
       }
     },
