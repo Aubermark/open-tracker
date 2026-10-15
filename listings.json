@@ -74491,6 +74491,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e6f727e7-464f-54ff-8d99-68e8f1a9d40b",
+        "address": "206 Ohara Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1445,
+        "listed_at": "2026-10-15T22:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.232702,
+          34.241417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e6f79be1-431e-5afc-b6cf-b10daf5b92c5",
         "address": "1321-E-Washington-St-Dillon-SC-29536",
         "beds": 3,
