@@ -80728,6 +80728,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fad24e20-3c98-5653-a87c-e068b68a0f42",
+        "address": "786 W Mesquite Tree Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2234,
+        "listed_at": "2026-10-15T10:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.574834,
+          33.181631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "faecf5d8-ab17-57d6-bda3-c22f6b74d5f8",
         "address": "819-Harding-St-Saint-Peters-MO-63376",
         "beds": 4,
