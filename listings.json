@@ -34276,6 +34276,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68b79ef6-34cb-5a04-9214-1ad7316197b7",
+        "address": "104-Adon-St-Reidsville-GA-30453",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1527,
+        "listed_at": "2026-10-16T18:30:05.000Z",
+        "days_on_market": "22",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.104838,
+          32.091768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68d850f6-47d1-5f25-9fbd-94d7b7d81b3c",
         "address": "7210-Apple-Creek-Dr-Mint-Hill-NC-28227",
         "beds": 4,
@@ -42544,6 +42565,27 @@
         "coordinates": [
           -120.837393,
           38.143369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "847eef25-8c82-5b17-8779-09f5d23ba469",
+        "address": "11117 Okeefe Ct",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1364,
+        "listed_at": "2026-10-16T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.338606,
+          36.179346
         ]
       }
     },
