@@ -63508,6 +63508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c242b776-4fbe-5c5f-b24e-89df814cac4b",
+        "address": "8266 Lyness Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1368,
+        "listed_at": "2026-10-16T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 197000,
+        "price_label": "$197K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.579136,
+          39.220495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c244e4f3-3b59-5406-bef7-5b3acf8b213e",
         "address": "2909-Sagebrush-Dr-Lawrence-KS-66047",
         "beds": 4,
