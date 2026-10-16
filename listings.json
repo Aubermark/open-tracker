@@ -2440,6 +2440,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07825cf8-4124-592c-9063-da778315e6b1",
+        "address": "2878 Oak Springs Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2536,
+        "listed_at": "2026-10-16T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.599065,
+          33.974896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0784ff46-5133-56a8-a27b-b5e8e4c37ea8",
         "address": "19219-W-Washington-St-Buckeye-AZ-85326",
         "beds": 3,
