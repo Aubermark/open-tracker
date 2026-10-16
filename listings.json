@@ -44797,6 +44797,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bc9e813-85b3-535c-974d-8684485f5343",
+        "address": "432 Southgate Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1012,
+        "listed_at": "2026-10-16T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.103413,
+          39.617641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bcbc68c-0c9b-543f-83af-036c37271798",
         "address": "14077-S-Grand-View-Peak-Cir-Riverton-UT-84096-18562280",
         "beds": 5,
@@ -49957,6 +49978,27 @@
         "coordinates": [
           -83.700152,
           34.01193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9c327249-7a56-56ef-934a-be8d5f477d97",
+        "address": "813 Clouded Valley Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1972,
+        "listed_at": "2026-10-16T15:10:02.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.131193,
+          36.276738
         ]
       }
     },
@@ -72343,27 +72385,6 @@
         "coordinates": [
           -122.518919,
           45.462406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc79cf22-c2f4-59ee-948a-44341863045e",
-        "address": "10040-Fragile-Fields-St-Las-Vegas-NV-89183",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1170,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "57",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.137995,
-          36.007366
         ]
       }
     },
