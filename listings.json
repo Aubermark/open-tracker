@@ -69556,6 +69556,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5083273-b061-5520-a098-1b644849a510",
+        "address": "4404 Sundance Cir",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4169,
+        "listed_at": "2026-10-16T13:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.949881,
+          42.53382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d50b187d-b6e7-5f08-9b7b-f203fd6dcfe5",
         "address": "176-Fred-Bishop-Dr-Canton-GA-30114",
         "beds": 4,
