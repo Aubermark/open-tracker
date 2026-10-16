@@ -33562,6 +33562,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66812269-20da-5742-a01c-b03e5d6982b8",
+        "address": "201 Laurel St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3296,
+        "listed_at": "2026-10-16T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.549319,
+          36.679102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "66909f87-d8b1-5f9e-8b2e-8556eef641d9",
         "address": "5410-Windswept-Trce-Sugar-Hill-GA-30518",
         "beds": 3,
