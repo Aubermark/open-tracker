@@ -27178,6 +27178,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52b7271d-e0eb-5bd1-8a2c-f730da2a0b0e",
+        "address": "152 Woodcote Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2411,
+        "listed_at": "2026-10-16T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.078457,
+          33.856282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "52c569ac-7f50-5691-aaf3-666a83229294",
         "address": "314-Bernard-Ave-Indianapolis-IN-46208",
         "beds": 2,
@@ -37399,6 +37420,27 @@
         "coordinates": [
           -93.255952,
           44.757623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "740432c5-ba73-51bb-b17b-78a957d7ad78",
+        "address": "3805 N 298th Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1915,
+        "listed_at": "2026-10-16T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.691926,
+          33.490112
         ]
       }
     },
@@ -55648,27 +55690,6 @@
         "coordinates": [
           -82.641656,
           27.726323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac96b21a-fbb0-573a-8fb6-cf09c1bc8a21",
-        "address": "4467-Rambler-Ln-Palm-Springs-CA-92262",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2369,
-        "listed_at": "2026-10-12T18:30:05.000Z",
-        "days_on_market": "228",
-        "current_price": 710000,
-        "price_label": "$710K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.54499,
-          33.869125
         ]
       }
     },
