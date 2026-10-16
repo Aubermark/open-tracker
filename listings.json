@@ -7228,6 +7228,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14f2d7e7-39b9-50e4-8926-5c05a090b892",
+        "address": "628 Miramar Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1608,
+        "listed_at": "2026-10-16T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 696000,
+        "price_label": "$696K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38905,
+          30.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "150819ef-caa1-53cd-a4e0-618df41ff504",
         "address": "10247-Villa-Del-Lago-San-Antonio-TX-78245-18361591",
         "beds": 5,
@@ -30112,27 +30133,6 @@
         "coordinates": [
           -77.950135,
           35.955788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5c73a644-0a0c-511e-91f2-112514f02dab",
-        "address": "11605-Harold-Dr-Cleveland-OH-44130",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1611,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "133",
-        "current_price": 229000,
-        "price_label": "$229K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.769259,
-          41.361872
         ]
       }
     },
@@ -77620,6 +77620,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ed5590b6-9474-5272-bc68-76bfe5d548ff",
+        "address": "2517 Nokomis Ave",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1635,
+        "listed_at": "2026-10-16T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.008394,
+          44.978689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ed699337-2efe-5a13-9ecd-b8403edd318b",
         "address": "249 Drooping Leaf Rd",
         "beds": 4,
@@ -78727,6 +78748,27 @@
         "coordinates": [
           -87.272942,
           36.570389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0633c49-c4f9-5ebc-a177-696f739024ac",
+        "address": "7043 Stonington Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 4065,
+        "listed_at": "2026-10-16T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.366562,
+          39.063865
         ]
       }
     },
@@ -83284,6 +83326,27 @@
         "coordinates": [
           -80.926113,
           33.976189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "feba1521-95c4-533e-847d-b73c99fbd9aa",
+        "address": "136 Cressfell Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1384,
+        "listed_at": "2026-10-16T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.203237,
+          34.100138
         ]
       }
     },
