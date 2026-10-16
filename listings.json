@@ -17581,27 +17581,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "36ee9520-84a6-5a7f-ac99-30865a9849bd",
-        "address": "20504-N-261st-Ave-Buckeye-AZ-85396",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2158,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "162",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.613279,
-          33.670569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "37075e0f-703f-5dba-80cd-60d2f0a1d1d8",
         "address": "5910-N-78th-Dr-Glendale-AZ-85303",
         "beds": 3,
@@ -46870,6 +46849,27 @@
         "coordinates": [
           -97.053139,
           32.6509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "920364f8-51e2-56ee-9247-02d40b3e67c0",
+        "address": "2462 SE Watercrest St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1657,
+        "listed_at": "2026-10-16T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33461,
+          27.269047
         ]
       }
     },
@@ -83599,27 +83599,6 @@
         "coordinates": [
           -93.189562,
           45.111421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fff71c17-0fc5-5b14-895d-d174bf7ed211",
-        "address": "9429-Harkness-Ave-S-Cottage-Grove-MN-55016",
-        "beds": 6,
-        "baths": 3.5,
-        "sqft": 2737,
-        "listed_at": "2026-10-01T06:15:27.000Z",
-        "days_on_market": ">236",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.958726,
-          44.813736
         ]
       }
     },
