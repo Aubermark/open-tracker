@@ -32260,27 +32260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6235f628-a7b6-549e-8766-b679ebb56a9b",
-        "address": "9143-Autumn-Storm-San-Antonio-TX-78254",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1678,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "70",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.673817,
-          29.52752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6235fef9-1369-5e92-ac1a-17f41799ce9e",
         "address": "413-E-Vega-Ln-Killeen-TX-76542",
         "beds": 3,
@@ -59329,6 +59308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b652e6af-f98f-5ff3-9c93-d68808f38994",
+        "address": "3300-S-Whisper-Dr-Douglasville-GA-30135-17905619",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2599,
+        "listed_at": "2026-10-16T20:10:05.000Z",
+        "days_on_market": "59",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.684193,
+          33.728546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b65ef11d-2f72-5da9-ba1c-bfebe9cab6bc",
         "address": "112-Coquina-Bay-Dr-Saint-Petersburg-FL-33705",
         "beds": 2,
@@ -72595,6 +72595,27 @@
         "coordinates": [
           -81.064348,
           34.968851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dc33ee37-da8c-5a2e-ad7d-932a6649b3ed",
+        "address": "17695 S Fieldstone Ct",
+        "beds": 4,
+        "baths": 6.5,
+        "sqft": 6082,
+        "listed_at": "2026-10-16T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1650000,
+        "price_label": "$1.650M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.504527,
+          45.346645
         ]
       }
     },
