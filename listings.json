@@ -26758,6 +26758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "51e42349-6494-5f0f-852e-30a8751be251",
+        "address": "7-Bunker-Rd-Rotonda-West-FL-33947",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2214,
+        "listed_at": "2026-10-16T14:40:05.000Z",
+        "days_on_market": "29",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.294805,
+          26.894776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "51efb7d4-978b-53f0-b210-8fe69e28ffe9",
         "address": "434-Pine-Tree-Dr-Dawsonville-GA-30534",
         "beds": 4,
