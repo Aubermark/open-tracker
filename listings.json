@@ -36208,6 +36208,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6f8485f1-1586-5a1b-abdc-d42c496afe75",
+        "address": "3803 Split Oak Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-10-16T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.712205,
+          31.064859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f86bb8b-5302-5a77-a934-f2660636f4bb",
         "address": "10838-S-Southridge-Dr-Portland-OR-97219",
         "beds": 4,
@@ -50398,6 +50419,27 @@
         "coordinates": [
           -81.804471,
           28.610947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9cc92ae1-7101-5eb6-aa2a-b07e8442a988",
+        "address": "4757 E Rhodium Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1951,
+        "listed_at": "2026-10-16T21:00:02.000Z",
+        "days_on_market": "0",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.515536,
+          33.138706
         ]
       }
     },
@@ -78832,27 +78874,6 @@
         "coordinates": [
           -121.039165,
           37.653694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "effc7cee-e161-59b9-b9e7-33b8179b7641",
-        "address": "9100-Chisholm-Trl-Crossroads-TX-76227",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1894,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "101",
-        "current_price": 254000,
-        "price_label": "$254K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.977958,
-          33.205748
         ]
       }
     },
