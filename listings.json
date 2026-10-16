@@ -54037,27 +54037,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a7afa698-0b73-5e6d-9aa5-0a7de54d607c",
-        "address": "1627-Catoe-Rd-Lancaster-SC-29720",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1051,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "56",
-        "current_price": 203000,
-        "price_label": "$203K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.729949,
-          34.73197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a7ccc41a-17af-4831-8d89-14adac7770ad",
         "address": "12898-Golden-Hay-Cir-Nw-Madison-AL-35756",
         "beds": 3,
@@ -73456,6 +73435,27 @@
         "coordinates": [
           -81.30883,
           28.551725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e0883dc5-309e-53f2-a92d-ec4b973cb020",
+        "address": "5122-Bay-Blvd-Port-Richey-FL-34668",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1585,
+        "listed_at": "2026-10-16T11:40:05.000Z",
+        "days_on_market": "56",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.729661,
+          28.279291
         ]
       }
     },
