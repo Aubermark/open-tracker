@@ -40702,6 +40702,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ec66c3c-b1aa-5a3c-b0da-f28cc4142ca9",
+        "address": "7802 Marwood Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3803,
+        "listed_at": "2026-10-16T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.919113,
+          38.782422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ef636b4-3480-5dbe-93ce-6de4eb786961",
         "address": "1750-Evergreen-Ct-Kissimmee-FL-34746",
         "beds": 3,
@@ -43594,6 +43615,27 @@
         "coordinates": [
           -79.122869,
           35.381881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "87af450a-2b15-51a5-9363-eb18e1819a97",
+        "address": "13444 N 13th St",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2721,
+        "listed_at": "2026-10-16T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 667000,
+        "price_label": "$667K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.052507,
+          33.609884
         ]
       }
     },
@@ -73939,6 +73981,27 @@
         "coordinates": [
           -122.122241,
           38.002856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e244f385-0a85-5b38-aa9c-dda663c7c6c6",
+        "address": "823 E 91st St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1435,
+        "listed_at": "2026-10-16T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.391012,
+          31.946958
         ]
       }
     },
