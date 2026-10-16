@@ -2587,6 +2587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
+        "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2064,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "223",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.142082,
+          33.510648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07db07b3-23c2-5704-89de-972fd9704d8b",
         "address": "19-Jupiter-Hts-Weaverville-NC-28787",
         "beds": 4,
@@ -6241,27 +6262,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1273acff-5831-5dbd-acc7-ed1ff2145a62",
-        "address": "5239-S-Apsley-Pl-Boise-ID-83709",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1730,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "49",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.336557,
-          43.555478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1282d208-5047-5abc-b24b-b220ff995ce7",
         "address": "1500 Dallas St",
         "beds": 4,
@@ -6718,6 +6718,27 @@
         "coordinates": [
           -83.969602,
           33.688202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "13d0b82c-b91c-5fe3-99cf-a858ced01322",
+        "address": "10852 Grey Seal Bay St",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2496,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.258726,
+          35.991999
         ]
       }
     },
@@ -10798,6 +10819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22141f3d-d578-5869-989c-5ad64c2ba472",
+        "address": "9873 5th Street Ln N",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1625,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.906223,
+          44.952923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "221b52b1-0312-51eb-b869-4f1c132192fd",
         "address": "6046-Persinger-House-Ct-Manassas-VA-20112",
         "beds": 4,
@@ -10960,27 +11002,6 @@
         "coordinates": [
           -95.141273,
           29.687059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "229c2a85-3999-5e92-82f4-ce5f0811a96f",
-        "address": "5644-N-199th-Ave-Litchfield-Park-AZ-85340",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1862,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "34",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.487991,
-          33.516894
         ]
       }
     },
@@ -12451,27 +12472,6 @@
         "coordinates": [
           -84.203649,
           33.977917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "27ca7c23-ddc7-50cb-8839-22fb260e75e1",
-        "address": "2237-Nw-158th-St-Edmond-OK-73013",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1582,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "176",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.553594,
-          35.631298
         ]
       }
     },
@@ -14635,6 +14635,27 @@
         "coordinates": [
           -86.047961,
           39.652169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2db98a6b-bb15-5268-8d94-546ffbec0b45",
+        "address": "10138 Tamberlaine Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1739,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 551000,
+        "price_label": "$551K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.314651,
+          36.014038
         ]
       }
     },
@@ -17827,6 +17848,27 @@
         "coordinates": [
           -80.312817,
           36.129964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3832f0a3-ffd1-599c-9320-52e184c88e38",
+        "address": "9729 W Cordes Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1917,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.269811,
+          33.419427
         ]
       }
     },
@@ -21193,6 +21235,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40e93b1b-f4ec-5502-b1c3-7b7dc2e598b9",
+        "address": "1405 S Nellis Blvd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1080,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.065005,
+          36.155574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40f020d0-a8e7-5e3a-944a-89cf60a46f4f",
         "address": "5844-Waters-Edge-Dr-Fayetteville-NC-28314",
         "beds": 3,
@@ -22873,6 +22936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45c16784-353e-5b6a-811b-d47927ce12db",
+        "address": "122-S-6th-Ave-Beech-Grove-IN-46107",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1276,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "13",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.088812,
+          39.719173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45c59db8-bf56-59f1-bd86-86ea4699ffce",
         "address": "7966-Lazelle-Woods-Dr-Westerville-OH-43081",
         "beds": 4,
@@ -24106,6 +24190,27 @@
         "coordinates": [
           -119.697183,
           36.871598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4a0b0da9-af52-5caf-a0c9-1d4737def3e0",
+        "address": "1640 Pendleton Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1300,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.01975,
+          33.460868
         ]
       }
     },
@@ -26164,6 +26269,27 @@
         "coordinates": [
           -115.237671,
           36.231372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "507a37e1-14d1-583f-b986-e0983f5792ff",
+        "address": "6147-E-40th-St-Indianapolis-IN-46226",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1968,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "83",
+        "current_price": 189000,
+        "price_label": "$189K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.061327,
+          39.829233
         ]
       }
     },
@@ -33478,6 +33604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66d8ece1-df3b-54a8-a188-5e965b552f6b",
+        "address": "8331-Golden-Bamboo-Dr-Jacksonville-FL-32219",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2731,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "101",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811802,
+          30.407423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "66e135d8-ae1c-595f-aec6-75fb64aa468b",
         "address": "2257-Chappelle-St-Columbia-SC-29203",
         "beds": 4,
@@ -36013,27 +36160,6 @@
         "coordinates": [
           -81.593873,
           41.481424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6fc333ae-3876-5b3d-933b-da44a519c318",
-        "address": "1817 Corte Eduardo St SW",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1672,
-        "listed_at": "2026-10-04T06:20:03.000Z",
-        "days_on_market": "12",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.685966,
-          35.024258
         ]
       }
     },
@@ -40177,6 +40303,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7da9b788-4fa4-45f7-bcda-222c7bca313d",
+        "address": "563 Torrey Pines Cir",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3606,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.465506,
+          32.867611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7dc3bd4f-bfb3-56c1-b73f-74ab530e8e6e",
         "address": "13701-Ronald-W-Reagan-Blvd-Unit-84-Cedar-Park-TX-78613",
         "beds": 3,
@@ -43222,6 +43369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "870ae327-bfd8-553d-a8d0-1341d528f394",
+        "address": "4230 Troutbrook Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2595,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.101148,
+          40.105136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8729e80a-7818-50b0-b56c-57a8a303e768",
         "address": "23669-W-Parkway-Dr-Buckeye-AZ-85326",
         "beds": 4,
@@ -45595,6 +45763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8e86bdc0-17f5-5cd4-90a2-b0a163cacc7e",
+        "address": "47703 N Camino Del Sol",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1646,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.366628,
+          33.311629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8e9acfa1-3041-5805-a05b-85def30851cc",
         "address": "3210-San-Jose-Way-Sacramento-CA-95817",
         "beds": 3,
@@ -46477,6 +46666,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "917491df-f73a-5620-8017-4a004c765af9",
+        "address": "17279 W Tara Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2230,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.431586,
+          33.628493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91a54091-f030-5290-8981-254f6f38cb14",
         "address": "808-Griffin-St-Mc-Kinney-TX-75069",
         "beds": 3,
@@ -47101,6 +47311,27 @@
         "coordinates": [
           -81.645392,
           41.492277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94488740-c5ec-57df-8dde-354fd9fc73aa",
+        "address": "11214 E 48th St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1902,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.446794,
+          39.034947
         ]
       }
     },
@@ -48640,6 +48871,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "983f4379-22f6-5740-a31f-2db13a19a08d",
+        "address": "37601 Ficus Ct",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2333,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175432,
+          34.565404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "985d44d5-bdf1-592d-93ee-f6611da004d2",
         "address": "6616-Amanda-Cir-Fayetteville-NC-28304",
         "beds": 4,
@@ -49648,6 +49900,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c33167f-d261-5da5-8f94-7cfd4a2b7a30",
+        "address": "199 Kutz Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3573,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 567000,
+        "price_label": "$567K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.778306,
+          40.46047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c4f3464-d9b2-523f-bccb-4bd23e3438ed",
         "address": "4900-Avenida-Del-Sol-Dr-Apt-102-Raleigh-NC-27616",
         "beds": 2,
@@ -50545,6 +50818,27 @@
         "coordinates": [
           -122.571066,
           47.48085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9eedfc7c-09f8-5cdf-bc70-ad6d8205b8c9",
+        "address": "5225 Boyd Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1876,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.932891,
+          32.514646
         ]
       }
     },
@@ -53029,6 +53323,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a62af0b2-1dd9-593f-bfb7-9da18eeeab18",
+        "address": "152 Jabrok Cir",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1390,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 192000,
+        "price_label": "$192K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.697409,
+          32.719348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a64fb83e-3c9d-553a-b5f8-13c94ba5d447",
         "address": "3510-Cedartree-Ter-Winston-Salem-NC-27127",
         "beds": 3,
@@ -53722,6 +54037,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a7d1c9d3-526d-5d79-a3fc-4cb690939fea",
+        "address": "427 Wellons St NE",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1019,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.540871,
+          33.96198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a7ddbb2b-d071-5cae-9bca-c1daed484806",
         "address": "18840-W-Mercer-Ln-Surprise-AZ-85388",
         "beds": 4,
@@ -54367,6 +54703,27 @@
         "coordinates": [
           -111.990623,
           33.683958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a974132b-c208-528b-ae90-5cb381e939ff",
+        "address": "9210 Greens Pt",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1644,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.67396,
+          29.517678
         ]
       }
     },
@@ -58546,6 +58903,27 @@
         "coordinates": [
           -84.684752,
           33.834387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b62932f8-6ceb-5db2-834a-1403f83aa0f9",
+        "address": "1463 the crossing",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2299,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.080155,
+          34.942234
         ]
       }
     },
@@ -66322,6 +66700,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd7260bb-f9d2-505c-b76d-d3662f2cc8c9",
+        "address": "10401 NE 130th St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1240,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 920000,
+        "price_label": "$920K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.202037,
+          47.716606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd9c6ba9-fed6-58f9-b423-31d42777e019",
         "address": "7632-Westwind-Dr-Fort-Worth-TX-76179",
         "beds": 4,
@@ -70165,6 +70564,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d7fc230f-204e-55fb-b16a-09d6764a5164",
+        "address": "17892-E-Silver-Sage-Ln-Rio-Verde-AZ-85263",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2186,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "56",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.693135,
+          33.742467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d7fd376b-6f84-5819-900e-5d27e9589733",
         "address": "600-Brock-Dr-Anna-TX-75409",
         "beds": 4,
@@ -70516,6 +70936,27 @@
         "coordinates": [
           -89.657991,
           35.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d89c4adb-f77c-5d83-92a1-a999175ca612",
+        "address": "3313 Goodell Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2766,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 432000,
+        "price_label": "$432K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.647375,
+          34.091324
         ]
       }
     },
@@ -71146,6 +71587,27 @@
         "coordinates": [
           -87.51209,
           36.849933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da6243a4-bc4b-575d-9199-ae5516c77857",
+        "address": "6604-N-Chesterfield-Dr-Saginaw-TX-76179",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1356,
+        "listed_at": "2026-10-16T06:53:12.000Z",
+        "days_on_market": "76",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.405171,
+          32.856373
         ]
       }
     },
@@ -72097,6 +72559,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "de52350a-c6be-5649-8e39-d0b55a33bbf3",
+        "address": "645 10th Pl",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1125,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.698257,
+          27.996166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "de67e23d-f870-561f-832e-b08cf5dbe8a3",
         "address": "9306-Wilson-Blvd-Columbia-SC-29203",
         "beds": 3,
@@ -72637,6 +73120,27 @@
         "coordinates": [
           -122.805099,
           45.869251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df7167b0-b3a0-5672-b5b7-1fce433076ba",
+        "address": "1295 N Railroad Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.058554,
+          26.537517
         ]
       }
     },
@@ -73882,6 +74386,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e482d0f0-21c8-53c9-b120-f051567bef04",
+        "address": "10605 Olson Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1064,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29391,
+          38.592921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e487af9e-45bb-5cbb-9236-2cd70bbcf4da",
         "address": "3664-Sw-Ivy-Pl-Dunnellon-FL-34431",
         "beds": 2,
@@ -74149,6 +74674,27 @@
         "coordinates": [
           -95.090243,
           29.930889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e5936474-4e30-55bc-bdad-e7b4b02cd474",
+        "address": "851 W Port Royal Pl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2713,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.983975,
+          32.3925
         ]
       }
     },
@@ -77851,6 +78397,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f099091c-c6b2-56f6-959c-3163e4e2b66c",
+        "address": "3293 Sand Ct",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1148,
+        "listed_at": "2026-10-16T06:53:10.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.543027,
+          28.030883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f0b4fb0a-a62a-562f-bedd-bde650a5ddb1",
         "address": "4986 S Fillmore Ct",
         "beds": 5,
@@ -80113,6 +80680,27 @@
         "coordinates": [
           -82.462547,
           28.009171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7fdefa3-2095-51b1-9bd6-df28a513517a",
+        "address": "7219 Regent Pond St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1649,
+        "listed_at": "2026-10-16T06:53:09.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.321455,
+          36.29288
         ]
       }
     },
