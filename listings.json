@@ -63067,6 +63067,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c2231c6a-d997-5dea-b5e3-1e2e3df8b976",
+        "address": "8723 Hosta Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2045,
+        "listed_at": "2026-10-16T14:19:43.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.315887,
+          39.648188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c22ed6d7-92c9-5c93-a938-374d2b50eee2",
         "address": "1443-W-3605-S-West-Valley-City-UT-84119",
         "beds": 4,
@@ -68080,6 +68101,27 @@
         "coordinates": [
           -80.882735,
           33.963947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d128d4a6-d645-5110-bd1d-89325a9ee649",
+        "address": "4321-Nw-Briarcliff-Ln-Kansas-City-MO-64116",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4194,
+        "listed_at": "2026-10-16T14:19:45.000Z",
+        "days_on_market": "100",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.586255,
+          39.172526
         ]
       }
     },
