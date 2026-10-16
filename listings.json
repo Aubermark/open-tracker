@@ -16111,27 +16111,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "32afacce-eae2-5194-ad0e-d9b13bfed7e1",
-        "address": "8822-Hunter-Green-Ln-Charlotte-NC-28227",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1431,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "70",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.697535,
-          35.185125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "32b0378e-3d8f-5ed8-af44-6d5adcccfbe5",
         "address": "460-Long-St-Amherst-OH-44001",
         "beds": 3,
@@ -57307,6 +57286,27 @@
         "coordinates": [
           -96.807323,
           32.522488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0b7bd43-e9ab-5cce-bec0-93d24c79ed34",
+        "address": "16005 Woodpine Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1089,
+        "listed_at": "2026-10-16T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.493854,
+          28.101555
         ]
       }
     },
