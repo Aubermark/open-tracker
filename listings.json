@@ -5002,6 +5002,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e6eab84-017b-5c28-817f-e9ef036490dc",
+        "address": "404 Brewer Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1218,
+        "listed_at": "2026-10-16T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.107791,
+          39.621601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e710098-c91b-5f75-b6e2-e96848848f98",
         "address": "2670-Fern-Ave-Columbus-OH-43211",
         "beds": 3,
