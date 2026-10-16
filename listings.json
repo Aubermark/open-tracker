@@ -45973,6 +45973,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f092724-2752-51ae-88d0-ccbdfd0e4e6d",
+        "address": "13510 Summer Lgt",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1211,
+        "listed_at": "2026-10-16T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.216494,
+          29.476036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f0b2960-ee16-5f5a-af5b-6fac12fec533",
         "address": "451-Nw-Yosemite-Ter-Beaverton-OR-97006",
         "beds": 5,
