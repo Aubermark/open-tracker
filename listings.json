@@ -27472,6 +27472,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5384e87b-6a1f-517f-a27f-b008e44afdbd",
+        "address": "2012 Macon Ridge Rd",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3350,
+        "listed_at": "2026-10-16T21:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 860000,
+        "price_label": "$860K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.707374,
+          35.916862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "538a65c1-79ba-559a-bd22-dea345036ebe",
         "address": "220-Ne-Cambridge-Cir-Corvallis-OR-97330",
         "beds": 3,
@@ -34942,27 +34963,6 @@
         "coordinates": [
           -122.516216,
           45.445587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6ab391f1-aacc-590e-bea1-6e19206e9184",
-        "address": "5416-W-Albeniz-Pl-Phoenix-AZ-85043",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1500,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "30",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.175939,
-          33.413071
         ]
       }
     },
