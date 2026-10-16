@@ -1831,6 +1831,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05475968-db51-5f6f-ada7-55d8501ef136",
+        "address": "5151 Parsley Dr",
+        "beds": 2,
+        "baths": 3,
+        "sqft": 1702,
+        "listed_at": "2026-10-16T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.062942,
+          42.710794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "054b8d5d-8bda-5bcc-b19d-869b6d6e4e4a",
         "address": "207-Renaldo-Dr-Chesterfield-MO-63017",
         "beds": 4,
@@ -74617,27 +74638,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e4200580-a990-594b-ae17-61743dd217ba",
-        "address": "11615-W-68th-St-Shawnee-KS-66203",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 744,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "92",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.720915,
-          39.006874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e42a3942-e552-594c-940f-61dc721f9261",
         "address": "902 Haverhill Cir",
         "beds": 3,
@@ -76312,6 +76312,27 @@
         "coordinates": [
           -122.543022,
           45.526062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e9278677-dce4-5701-9098-6d656519d90c",
+        "address": "5578 W Shady Grove Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2591,
+        "listed_at": "2026-10-16T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 428000,
+        "price_label": "$428K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.084024,
+          32.362691
         ]
       }
     },
