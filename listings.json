@@ -36187,6 +36187,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ef41a98-65cd-5795-864a-4866254562f1",
+        "address": "26029 Luzon Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1566,
+        "listed_at": "2026-10-16T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.024082,
+          26.991993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f3f92d8-db50-4cb8-b1cc-264f20e1258e",
         "address": "519-N-Gilbert-St-Castle-Rock-CO-80104",
         "beds": 3,
@@ -81625,6 +81646,27 @@
         "coordinates": [
           -78.278259,
           35.807714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8abb74d-ba4a-5600-bf3c-b56adcb42c09",
+        "address": "101 Gillyweed Ct",
+        "beds": 6,
+        "baths": 5,
+        "sqft": 5410,
+        "listed_at": "2026-10-16T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.870653,
+          35.627188
         ]
       }
     },
