@@ -75625,6 +75625,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7cfebbd-c906-5ddf-9e6d-4ce662ee2324",
+        "address": "742 Foxwick Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2064,
+        "listed_at": "2026-10-16T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.503111,
+          38.608273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e814cf88-fcb4-4ace-84e9-ed256010bf3f",
         "address": "1970-Downey-Ln-Greenfield-IN-46140",
         "beds": 3,
