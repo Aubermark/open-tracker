@@ -16195,6 +16195,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "32ffefcb-2418-5aba-ad41-d6b5ba2faf18",
+        "address": "3715-Highland-Dr-Ayden-NC-28513",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-10-16T19:10:05.000Z",
+        "days_on_market": "140",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41707,
+          35.485428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33094046-588a-5a2b-8d3a-df599a63cfc9",
         "address": "741-Cairn-Cir-Burlington-NC-27217",
         "beds": 3,
@@ -32716,27 +32737,6 @@
         "coordinates": [
           -84.297906,
           34.028167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "63e870ff-729d-5548-b486-e3527ffe5f5c",
-        "address": "190-Pine-Knoll-Ct-Casselberry-FL-32707",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1043,
-        "listed_at": "2026-08-26T06:01:24.000Z",
-        "days_on_market": "52",
-        "current_price": 278000,
-        "price_label": "$278K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.332401,
-          28.673691
         ]
       }
     },
@@ -63775,27 +63775,6 @@
         "coordinates": [
           -97.732708,
           31.10472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c38026b8-c672-5a30-ab32-e0a6db44768f",
-        "address": "1501-Martin-Creek-Dr-Little-Elm-TX-75068-18166579",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 3562,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "160",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.926889,
-          33.205501
         ]
       }
     },
