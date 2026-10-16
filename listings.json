@@ -59917,6 +59917,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b86d85be-dd6d-5f04-a9cb-ef509e9c779b",
+        "address": "1607-N-17th-St-Belleville-IL-62226",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1649,
+        "listed_at": "2026-10-16T16:00:05.000Z",
+        "days_on_market": "143",
+        "current_price": 149000,
+        "price_label": "$149K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.002209,
+          38.53545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8770528-1a4e-5c48-989f-e7fe36514553",
         "address": "526-Towne-Ct-Gilberts-IL-60136",
         "beds": 5,
