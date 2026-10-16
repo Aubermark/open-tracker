@@ -72391,6 +72391,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dd05748f-ad79-55dc-9549-18d6a76046b5",
+        "address": "6003-N-Cosby-Ct-Kansas-City-MO-64151",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4704,
+        "listed_at": "2026-10-16T14:10:05.000Z",
+        "days_on_market": "74",
+        "current_price": 696000,
+        "price_label": "$696K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.648885,
+          39.202493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dd164c7f-5fc2-55d0-bb3d-1df3a62236a1",
         "address": "29202-Cowboy-Ct-Valencia-CA-91354",
         "beds": 3,
