@@ -7837,27 +7837,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "171b8acc-cf3c-5c28-a545-96a7703827d2",
-        "address": "1531-Hamlett-Dr-Henderson-NC-27536",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2184,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "52",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.425309,
-          36.324221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
         "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -38638,6 +38617,27 @@
         "coordinates": [
           -90.469815,
           30.089396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "780a18e7-2327-54d3-bff2-0e5d782ae86c",
+        "address": "143 Deer Lake Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2045,
+        "listed_at": "2026-10-16T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870418,
+          34.085065
         ]
       }
     },
@@ -77005,27 +77005,6 @@
         "coordinates": [
           -89.9705,
           38.593491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ebac12f5-ef0f-5cbf-b31d-ffcc264499cb",
-        "address": "226 Parliament Rd",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1150,
-        "listed_at": "2026-10-08T20:00:03.000Z",
-        "days_on_market": "8",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.63354,
-          36.566725
         ]
       }
     },
