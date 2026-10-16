@@ -74323,6 +74323,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e41e226a-7b46-53f0-881d-db4960e144d9",
+        "address": "293 Theta Pike",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2085,
+        "listed_at": "2026-10-16T13:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 402000,
+        "price_label": "$402K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.028009,
+          35.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e4200580-a990-594b-ae17-61743dd217ba",
         "address": "11615-W-68th-St-Shawnee-KS-66203",
         "beds": 3,
