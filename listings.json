@@ -22999,6 +22999,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45c2df24-a193-50d9-b411-f009ff7a38ed",
+        "address": "1210 Arbor Ave SW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1821,
+        "listed_at": "2026-10-16T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.007469,
+          34.588387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45c59db8-bf56-59f1-bd86-86ea4699ffce",
         "address": "7966-Lazelle-Woods-Dr-Westerville-OH-43081",
         "beds": 4,
@@ -37006,27 +37027,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "72467876-92e1-5cfa-a328-181f8a75aae9",
-        "address": "157-Alpine-Rd-Summerville-SC-29485",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1707,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "39",
-        "current_price": 369000,
-        "price_label": "$369K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.144889,
-          32.996471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7256c1eb-c8ed-55fc-9198-decd7854c1b3",
         "address": "1115-Long-Prairie-Dr-Katy-TX-77450",
         "beds": 4,
@@ -46219,6 +46219,27 @@
         "coordinates": [
           -81.157714,
           35.286044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8fcdf8a1-fb86-5feb-8dee-5a3d7d56ba39",
+        "address": "904 Spring Creek Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1722,
+        "listed_at": "2026-10-16T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.529149,
+          28.586443
         ]
       }
     },
@@ -76480,27 +76501,6 @@
         "coordinates": [
           -81.242685,
           33.899308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9f49d37-5d68-5604-9774-efd0dc317cc1",
-        "address": "35-Davidson-Ave-Merrimack-NH-03054",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1973,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "38",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.543988,
-          42.850888
         ]
       }
     },
