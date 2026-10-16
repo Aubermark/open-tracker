@@ -11785,6 +11785,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2495b2ec-6503-527c-95ae-ed3ed012f81c",
+        "address": "127 Hope Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2272,
+        "listed_at": "2026-10-16T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884767,
+          30.643954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24bf6ccc-9625-5027-87fd-3f20dba42ed4",
         "address": "8271-N-112th-Ave-Peoria-AZ-85345",
         "beds": 3,
@@ -17302,27 +17323,6 @@
         "coordinates": [
           -96.88443,
           35.703425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "35a4b8e9-27be-5b9c-b429-2767e4ae9b32",
-        "address": "100-Betty-Ln-Carrollton-GA-30116",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1245,
-        "listed_at": "2026-10-07T06:08:28.000Z",
-        "days_on_market": "37",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.037772,
-          33.626632
         ]
       }
     },
@@ -37832,8 +37832,8 @@
         "sqft": 1128,
         "listed_at": "2026-10-01T06:15:28.000Z",
         "days_on_market": "102",
-        "current_price": 299000,
-        "price_label": "$299K"
+        "current_price": 317000,
+        "price_label": "$317K"
       },
       "geometry": {
         "type": "Point",
