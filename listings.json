@@ -33331,6 +33331,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65a264e0-41cd-5540-8388-a347e2dbfd31",
+        "address": "14559-W-Cortez-St-Surprise-AZ-85379",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2291,
+        "listed_at": "2026-10-16T21:10:05.000Z",
+        "days_on_market": "81",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.374692,
+          33.588909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65adc1e6-db80-50ee-924f-8e6a70d5fb7d",
         "address": "2029-Buffalo-Way-Durham-NC-27704",
         "beds": 3,
