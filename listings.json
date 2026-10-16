@@ -7669,6 +7669,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1676207c-0e77-5e63-9ba6-f7c30d0a8b0d",
+        "address": "4303-Castlewood-Pkwy-Columbus-GA-31907",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2515,
+        "listed_at": "2026-10-16T18:40:05.000Z",
+        "days_on_market": "160",
+        "current_price": 294000,
+        "price_label": "$294K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.920201,
+          32.505216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "168a9322-4add-5e9b-b706-47b1662b2b16",
         "address": "538-Walnut-Way-Palmetto-GA-30268",
         "beds": 5,
@@ -9763,27 +9784,6 @@
         "coordinates": [
           -80.817627,
           28.56115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1e549d06-7c96-5c0e-8514-36de08d31a5b",
-        "address": "172-Gardenia-Ct-Marble-NC-28905",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 960,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "58",
-        "current_price": 272000,
-        "price_label": "$272K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.937563,
-          35.157802
         ]
       }
     },
@@ -21334,27 +21334,6 @@
         "coordinates": [
           -86.713579,
           36.092183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4117e2e3-136d-58d7-8092-82437848a418",
-        "address": "1721-Evergreen-St-Kissimmee-FL-34746",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1379,
-        "listed_at": "2026-10-12T19:40:05.000Z",
-        "days_on_market": "35",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.455712,
-          28.255267
         ]
       }
     },
