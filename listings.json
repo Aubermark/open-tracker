@@ -42025,6 +42025,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "82c73e14-05f0-57b3-b87b-9e70977c98f2",
+        "address": "1623-W-Pleasant-Dr-Midlothian-TX-76065",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1792,
+        "listed_at": "2026-10-16T15:40:04.000Z",
+        "days_on_market": "38",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.996026,
+          32.466449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "82fc79ba-1947-577e-b25e-68f379f4d332",
         "address": "212-Red-Oak-Ave-Durham-NC-27707-18658507",
         "beds": 4,
@@ -66742,27 +66763,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cd28fdb8-ebb6-537b-9776-1dfb6ee0221f",
-        "address": "231-Foston-Chapel-Rd-Hopkinsville-KY-42240",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 960,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "148",
-        "current_price": 145000,
-        "price_label": "$145K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.500844,
-          36.819808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cd395480-0e90-5b2b-aa77-86ec55fba062",
         "address": "5240-Janfred-Ct-Unit-1-Las-Vegas-NV-89103",
         "beds": 1,
@@ -75766,6 +75766,27 @@
         "coordinates": [
           -95.714042,
           29.800726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e86b351d-3af0-54bd-8f5d-0d58565d9280",
+        "address": "701 Garden Bounty Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1762,
+        "listed_at": "2026-10-16T15:40:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.654506,
+          38.772201
         ]
       }
     },
