@@ -59056,6 +59056,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b6238ab8-2f53-5482-bf2a-bd61bfd61f56",
+        "address": "764 Club Cottage Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1997,
+        "listed_at": "2026-10-16T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.926655,
+          34.180829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b62932f8-6ceb-5db2-834a-1403f83aa0f9",
         "address": "1463 the crossing",
         "beds": 4,
