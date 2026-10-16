@@ -8845,6 +8845,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a89f84d-c594-5874-a344-be665f1a01ee",
+        "address": "235 Hillside Oak Ln",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3546,
+        "listed_at": "2026-10-16T07:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.923481,
+          33.593862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a942004-79f3-5275-9a4e-7d34cbd34462",
         "address": "2669-Glenrose-Hl-Atlanta-GA-30341",
         "beds": 4,
