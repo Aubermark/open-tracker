@@ -64789,6 +64789,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c55082df-cc9b-5f60-975a-40b1b3f1d934",
+        "address": "10146 Maple Rnch",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1082,
+        "listed_at": "2026-10-17T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.691542,
+          29.395807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c556a2be-b596-53f6-bd0a-9d62f4a99d9d",
         "address": "788 Cedar St",
         "beds": 2,
