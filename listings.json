@@ -35683,6 +35683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c2d637a-3fa2-5880-989f-bb2606dd4167",
+        "address": "7904 Saddlehorn Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1279,
+        "listed_at": "2026-10-17T07:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.526071,
+          38.784696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c4248d1-d8a8-5e95-aefb-a7ba18e11ffd",
         "address": "7904-S-Bonanza-Park-Dr-Tucson-AZ-85747",
         "beds": 5,
