@@ -48997,6 +48997,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9702ee22-605f-4d84-af74-ea358866b35b",
+        "address": "185 E Medium Meadow Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2131,
+        "listed_at": "2026-10-17T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.784288,
+          29.210034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "970ce0e7-981d-5235-b3d5-f147be63ddc9",
         "address": "190-Stroud-Dr-Se-Mableton-GA-30126",
         "beds": 3,
