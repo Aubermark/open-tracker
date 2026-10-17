@@ -72097,6 +72097,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d8bbcdd7-25cf-5ed8-a236-dc0d6ecbf24c",
+        "address": "845-40th-Ave-S-Saint-Petersburg-FL-33705",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1235,
+        "listed_at": "2026-10-17T12:10:05.000Z",
+        "days_on_market": "135",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.645695,
+          27.732407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d8f09608-60c8-5e9f-8bf2-93119f3c5e1d",
         "address": "2409-Morning-Dew-Pl-Lawrenceville-GA-30044",
         "beds": 3,
