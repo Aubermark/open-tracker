@@ -62437,27 +62437,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "be1f8118-b921-5797-97e8-3625e17ae510",
-        "address": "3111 Collard Rd",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 4305,
-        "listed_at": "2026-10-09T19:30:04.000Z",
-        "days_on_market": "8",
-        "current_price": 850000,
-        "price_label": "$850K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.158489,
-          32.656746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "be37f16c-c379-5128-9f04-7a930486d37a",
         "address": "3962-Spalding-Holw-Peachtree-Corners-GA-30092",
         "beds": 4,
@@ -67807,6 +67786,27 @@
         "coordinates": [
           -112.068691,
           33.515724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce42d45c-2569-571d-b373-cf6e7fc07235",
+        "address": "9 Blackman Ave",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1358,
+        "listed_at": "2026-10-17T18:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10009,
+          41.522651
         ]
       }
     },
