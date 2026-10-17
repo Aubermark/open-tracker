@@ -27241,6 +27241,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "522b5bf0-4600-5f1f-a431-ea7811704a01",
+        "address": "6-Susan-Cir-Carver-MA-02330",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3533,
+        "listed_at": "2026-10-17T12:30:05.000Z",
+        "days_on_market": "98",
+        "current_price": 799000,
+        "price_label": "$799K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.786627,
+          41.933546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5230ad9d-1fca-55e5-bfc6-1e522a22cc67",
         "address": "5997 N Moon Crest Dr",
         "beds": 4,
