@@ -66385,6 +66385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c976723c-d9da-5d88-b119-889a4d0bebeb",
+        "address": "6949 E Hatchling Way",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2446,
+        "listed_at": "2026-10-17T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.491634,
+          33.156829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c97cc22b-ff0a-53f7-b13c-70b37350cab4",
         "address": "20-Falling-Leaf-Dr-Youngsville-NC-27596",
         "beds": 3,
