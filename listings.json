@@ -7984,6 +7984,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "175b8320-360b-56ac-8d04-c2b6ba89bc9b",
+        "address": "313 Hannah Pl",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2824,
+        "listed_at": "2026-10-17T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.468139,
+          34.175823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
         "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -72007,6 +72028,27 @@
         "coordinates": [
           -77.969828,
           35.382508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d8b4c039-4a20-5996-8a9e-916fdd0fd749",
+        "address": "453 Autumnwood Dr SW",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1310,
+        "listed_at": "2026-10-17T07:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.994217,
+          34.575549
         ]
       }
     },
