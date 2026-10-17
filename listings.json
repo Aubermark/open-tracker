@@ -66238,6 +66238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c95cc445-2695-52f4-b132-a73bc93ace77",
+        "address": "4898 County Road 4132 W",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1480,
+        "listed_at": "2026-10-17T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.896991,
+          32.199565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c9615dbe-20cc-5b63-9f03-a18bec17ec33",
         "address": "1120-Newnham-Dr-Columbia-SC-29210",
         "beds": 3,
