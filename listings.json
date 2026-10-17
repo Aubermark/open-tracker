@@ -33646,6 +33646,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6630d363-f50e-5f7a-95f5-5b8edcbe8df9",
+        "address": "9078 Prospect Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3286,
+        "listed_at": "2026-10-17T07:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.318767,
+          33.506596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "665ae509-d3a1-5f13-ad91-4ce48d58ab54",
         "address": "1711-Hickory-Ridge-Rd-Rock-Hill-SC-29732",
         "beds": 3,
