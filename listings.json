@@ -74407,6 +74407,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dfab3f25-1ce1-5f04-91ed-be973501c81b",
+        "address": "8181-Highland-Dr-Sw-Covington-GA-30014",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1181,
+        "listed_at": "2026-10-17T13:20:04.000Z",
+        "days_on_market": "18",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.872321,
+          33.57927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dfb663bc-0935-545c-b5f9-d8e8eb45fdd8",
         "address": "3900-Otis-St-Wheat-Ridge-CO-80033",
         "beds": 2,
