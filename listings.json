@@ -571,6 +571,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01547974-0583-5265-a7b7-6e0b1db1fd69",
+        "address": "151 Morgan Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1902,
+        "listed_at": "2026-10-17T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.134853,
+          45.191629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "015c3b4b-db80-5f59-b24b-464cf9e1e7d7",
         "address": "113-Bittercreek-Dr-Folsom-CA-95630",
         "beds": 4,
@@ -26794,6 +26815,27 @@
         "coordinates": [
           -115.342224,
           36.157217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "515fe0b8-090e-554c-8b3d-4ce0f6b2a1b5",
+        "address": "3581 Morinda Dr",
+        "beds": 6,
+        "baths": 5,
+        "sqft": 5704,
+        "listed_at": "2026-10-17T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.701143,
+          33.708108
         ]
       }
     },
