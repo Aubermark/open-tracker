@@ -24805,6 +24805,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ad67745-ebf7-5fc2-b957-9511a329f36b",
+        "address": "1113 Lake Pointe Cir",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1157,
+        "listed_at": "2026-10-18T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.392237,
+          34.00578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4af0184b-d64f-58d1-9604-a97dea077c5c",
         "address": "5005 Strickland Ave",
         "beds": 3,
