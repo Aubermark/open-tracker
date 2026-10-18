@@ -16825,6 +16825,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33c4eb1b-5754-5c66-8e4a-503d9cb46a2e",
+        "address": "6807 Wandering Creek Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1901,
+        "listed_at": "2026-10-18T08:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908312,
+          35.301721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33f18a4b-b398-5785-8cc4-6abca30395d8",
         "address": "412-N-Front-St-Unit-21-Philadelphia-PA-19123",
         "beds": 3,
