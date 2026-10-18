@@ -82219,6 +82219,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f8533d7c-4cdb-59bc-b74f-26e23b2367e4",
+        "address": "5536 Fairhaven Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2136,
+        "listed_at": "2026-10-18T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.570153,
+          33.544067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f8594401-2957-51d3-92ad-1d58e6edec05",
         "address": "16519-Eaglewood-Shadows-Dr-Sugar-Land-TX-77498",
         "beds": 4,
