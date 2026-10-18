@@ -20773,6 +20773,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f17bd74-7465-5441-98c6-659eee2ae725",
+        "address": "6730 Island Pointe Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2241,
+        "listed_at": "2026-10-18T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.074066,
+          34.148893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3f1852cb-8027-5800-84ef-5f9c7ab0d9fd",
         "address": "4358-Rhine-Dr-Florissant-MO-63033",
         "beds": 3,
