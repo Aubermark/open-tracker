@@ -15166,6 +15166,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e89ade1-6a77-5039-be97-fbf4404162a2",
+        "address": "510 Gregory Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1279,
+        "listed_at": "2026-10-18T08:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36207,
+          42.263079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e8bb710-a15c-5353-946b-f222cf5fabf7",
         "address": "3621-N-Forgeus-Ave-Tucson-AZ-85716",
         "beds": 2,
@@ -53044,6 +53065,27 @@
         "coordinates": [
           -80.152656,
           32.991317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2954e3b-a0d3-573e-9c4d-bf939721031e",
+        "address": "49 Swan Lake Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 808,
+        "listed_at": "2026-10-18T08:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21976,
+          41.659226
         ]
       }
     },
