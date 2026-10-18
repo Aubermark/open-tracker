@@ -19324,6 +19324,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b2a3de1-24eb-5dae-9804-c63c8556e635",
+        "address": "15393 Trillium Cir",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1369,
+        "listed_at": "2026-10-18T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.474648,
+          44.868224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
         "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 3,
