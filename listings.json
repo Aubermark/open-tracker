@@ -3721,6 +3721,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a6b6c89-f727-509a-bc46-9bceb0d37de8",
+        "address": "16-Erin-Ln-Tijeras-NM-87059",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2366,
+        "listed_at": "2026-10-18T23:30:05.000Z",
+        "days_on_market": "100",
+        "current_price": 519000,
+        "price_label": "$519K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.278027,
+          35.091918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a6f221d-3561-5611-89f2-b0a9d0bb192b",
         "address": "3810 1st Ave",
         "beds": 2,
