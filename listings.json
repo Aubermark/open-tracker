@@ -56914,27 +56914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "adf5e09a-5c16-51ce-9fca-2d521cea68d0",
-        "address": "1179-Horsley-Mill-Rd-Carrollton-GA-30116",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1466,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "34",
-        "current_price": 242000,
-        "price_label": "$242K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.011224,
-          33.580494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ae069355-044b-51b3-bc1d-fad835e116bc",
         "address": "10116-Chesney-Dr-Spotsylvania-VA-22553",
         "beds": 6,
@@ -63691,6 +63670,27 @@
         "coordinates": [
           -82.401668,
           28.015385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c12cf731-a774-561a-bf17-412a8a16c474",
+        "address": "996 Spanish Moss Trl",
+        "beds": 6,
+        "baths": 3.5,
+        "sqft": 3071,
+        "listed_at": "2026-10-18T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.876379,
+          33.846633
         ]
       }
     },
