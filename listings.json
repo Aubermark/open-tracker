@@ -36460,6 +36460,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6e67fbe7-740e-5315-ad8c-d2e3c2b221cc",
+        "address": "1244 Hulls Grove Church Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1576,
+        "listed_at": "2026-10-18T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.436568,
+          35.53164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6e712063-dfab-58ab-90ec-583e2c477f36",
         "address": "408-Wildhaven-Cir-Gadsden-AL-35901",
         "beds": 4,
