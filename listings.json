@@ -40828,6 +40828,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7d8027c5-5d8f-55fe-ac99-3e4ab0267eed",
+        "address": "3727 Ramblewood Dr",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1006,
+        "listed_at": "2026-10-18T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.444942,
+          43.017682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7d80572f-30ab-549d-be33-154949f57c30",
         "address": "5800 Chuck Wagon Ln",
         "beds": 3,
