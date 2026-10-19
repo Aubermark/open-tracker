@@ -36061,27 +36061,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6c218e82-0b4c-5518-9922-d24d57bfc818",
-        "address": "1418-S-K-St-Lake-Worth-Beach-FL-33460",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1309,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "61",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.056267,
-          26.598326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6c2d637a-3fa2-5880-989f-bb2606dd4167",
         "address": "7904 Saddlehorn Ct",
         "beds": 3,
@@ -53611,6 +53590,27 @@
         "coordinates": [
           -82.592811,
           28.021781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a3d77898-e766-55f3-ad71-e9d20e446a4c",
+        "address": "3308 E Silverlake Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1870,
+        "listed_at": "2026-10-19T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.922248,
+          32.199334
         ]
       }
     },
