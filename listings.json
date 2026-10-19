@@ -16930,6 +16930,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "33d45f5d-c914-56a9-99fa-b43cece33378",
+        "address": "5005 Manchineel Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1792,
+        "listed_at": "2026-10-19T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.630125,
+          34.995838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "33f18a4b-b398-5785-8cc4-6abca30395d8",
         "address": "412-N-Front-St-Unit-21-Philadelphia-PA-19123",
         "beds": 3,
@@ -73231,27 +73252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "da6b8e60-3cbd-52aa-9ebe-c34c9fb8a02e",
-        "address": "8-Bumelia-Ct-Homosassa-FL-34446",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1528,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "136",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.537717,
-          28.743028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "da9b59ac-5f3b-5086-bc5f-0c9452b47dbf",
         "address": "7109 Cottonwood Cir",
         "beds": 3,
@@ -84796,27 +84796,6 @@
         "coordinates": [
           -94.418281,
           39.250828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ff8c195b-a973-5b02-906f-f0afdad86c17",
-        "address": "25798-W-Hilton-Ave-Buckeye-AZ-85326-18440847",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2485,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "40",
-        "current_price": 369000,
-        "price_label": "$369K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.605901,
-          33.426818
         ]
       }
     },
