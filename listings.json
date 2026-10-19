@@ -84844,6 +84844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ffb39ef7-a7b7-57e5-9853-8d104264f0b3",
+        "address": "9915-Monroe-St-Crown-Point-IN-46307",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "listed_at": "2026-10-19T18:40:06.000Z",
+        "days_on_market": "89",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.341362,
+          41.438608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ffbc0688-9eed-5938-a66c-7fea570b020e",
         "address": "280-Sugar-Gum-Ln-266-Pinehurst-NC-28374",
         "beds": 2,
