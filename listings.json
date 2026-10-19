@@ -13402,6 +13402,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "297dfecc-dbe0-55a9-b606-a953057dae84",
+        "address": "29345 Sheeks Blvd",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 979,
+        "listed_at": "2026-10-19T09:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.285215,
+          42.091898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29a7bdfa-54ee-539e-820a-48e213e8fa2b",
         "address": "492-Algene-St-Lake-Orion-MI-48362",
         "beds": 3,
