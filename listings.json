@@ -6493,6 +6493,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12df7c46-cd99-5ae8-9ef1-e40b5b8a4a6b",
+        "address": "7328-Tangelo-Ave-Port-Richey-FL-34668",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1403,
+        "listed_at": "2026-10-19T15:40:04.000Z",
+        "days_on_market": "143",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.693123,
+          28.310418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1317d23e-35f6-5179-a226-27bb3ef174ec",
         "address": "1701-The-Greens-Way-Apt-523-Jacksonville-Beach-FL-32250",
         "beds": 2,
@@ -73273,6 +73294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db34f38f-52a9-5adb-b5af-99fd21718806",
+        "address": "2254 Ravenna Ct",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4215,
+        "listed_at": "2026-10-19T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 641000,
+        "price_label": "$641K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.995295,
+          38.637165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db569277-8d44-51ea-90de-336b27dd1805",
         "address": "1117-Brownview-Dr-Rocky-Mount-NC-27801",
         "beds": 3,
@@ -76375,6 +76417,27 @@
         "coordinates": [
           -83.869723,
           33.57936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e5be868a-cc9f-5d1e-931e-e6fc19aa3268",
+        "address": "5655-Hornaday-Rd-Unit-F-Greensboro-NC-27409",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 836,
+        "listed_at": "2026-10-19T15:40:04.000Z",
+        "days_on_market": "174",
+        "current_price": 125000,
+        "price_label": "$125K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.918251,
+          36.058425
         ]
       }
     },
