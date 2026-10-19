@@ -16699,27 +16699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3389e504-adc3-53fd-bc70-6199e19f94d0",
-        "address": "4012-Bluestone-Rd-Cleveland-OH-44121",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1687,
-        "listed_at": "2026-10-12T19:10:05.000Z",
-        "days_on_market": "146",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.535783,
-          41.530316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "339391b2-568e-5af1-a423-b27913df9a61",
         "address": "1724-Westend-Pl-Round-Rock-TX-78681",
         "beds": 5,
@@ -36097,6 +36076,27 @@
         "coordinates": [
           -95.597778,
           30.043256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6c482c1f-9f2f-5759-8353-79859eccd665",
+        "address": "1021-Dekleva-Dr-Apopka-FL-32712",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1953,
+        "listed_at": "2026-10-19T14:50:06.000Z",
+        "days_on_market": "190",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.555872,
+          28.6986
         ]
       }
     },
