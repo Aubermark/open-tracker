@@ -9265,6 +9265,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1baffefc-4cea-59c4-b383-d456a5038c2e",
+        "address": "1051 Stagecoach Trl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2080,
+        "listed_at": "2026-10-19T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.394608,
+          38.360165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1bb11ea4-0f96-50e4-9539-966bb00005de",
         "address": "271-Stane-Brook-Ct-Jackson-GA-30233",
         "beds": 4,
@@ -45784,27 +45805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8c9fe7e4-248b-50a2-85ce-9c4a95ee593d",
-        "address": "106-Briarcliff-Dr-San-Antonio-TX-78213",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 4122,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "38",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.510991,
-          29.522398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8ca6f7f3-d44b-55a2-b870-1bfe010d8f58",
         "address": "711-Se-Celtic-Ave-Port-Saint-Lucie-FL-34983",
         "beds": 4,
@@ -67744,6 +67744,27 @@
         "coordinates": [
           -77.533516,
           37.683208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cc7009fc-d133-5afe-87b0-9e34e4216c0a",
+        "address": "2681-Tybee-Dr-Buford-GA-30519",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1968,
+        "listed_at": "2026-10-19T17:30:06.000Z",
+        "days_on_market": "41",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.989182,
+          34.044355
         ]
       }
     },
