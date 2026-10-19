@@ -76570,6 +76570,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e695bdb9-edc1-5bc0-955d-4501569c6a59",
+        "address": "6654-Hazelhatch-Dr-Indianapolis-IN-46268",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1236,
+        "listed_at": "2026-10-19T13:20:05.000Z",
+        "days_on_market": "217",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.209052,
+          39.877435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e6a22e21-3b05-5d47-b5e3-8a5145bcf16f",
         "address": "711 Rush Creek Dr",
         "beds": 4,
