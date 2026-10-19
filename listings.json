@@ -35263,6 +35263,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "69995c47-0ab2-5c3d-9399-ef0b58224ff8",
+        "address": "9550-Olde-8-Rd-Northfield-OH-44067",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3200,
+        "listed_at": "2026-10-19T18:00:06.000Z",
+        "days_on_market": "73",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.539469,
+          41.320128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "699eb32b-310b-5770-9660-2d1316af45d9",
         "address": "1213-Maritime-Ln-Wylie-TX-75098",
         "beds": 4,
