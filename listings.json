@@ -3742,6 +3742,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a70cb84-3547-5eb3-b86e-d08936a01052",
+        "address": "3308 Kady Ln",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2409,
+        "listed_at": "2026-10-19T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.843763,
+          39.910146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a70f6e2-85aa-5d63-92d9-64997158c59a",
         "address": "4273-Stream-Dale-Cir-Nw-Concord-NC-28027",
         "beds": 5,
@@ -19549,6 +19570,27 @@
         "coordinates": [
           -83.442181,
           33.879208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b9d889c-a3f1-4daf-96d6-a32c59bb0951",
+        "address": "13409 Maymount Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4196,
+        "listed_at": "2026-10-19T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 740000,
+        "price_label": "$740K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.977887,
+          38.495478
         ]
       }
     },
