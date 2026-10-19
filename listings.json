@@ -10273,6 +10273,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f3629ec-1b7f-515a-be08-0ddc7b79c249",
+        "address": "14903-Superior-St-Charlotte-NC-28273",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2450,
+        "listed_at": "2026-10-19T20:50:06.000Z",
+        "days_on_market": "35",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.982686,
+          35.092038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f497f03-3ac0-5cc1-9da0-396a513f2504",
         "address": "19745-E-Raven-Dr-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -25366,6 +25387,27 @@
         "coordinates": [
           -96.972464,
           33.242331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4c339afb-c3d8-54e0-b2bb-e59d229bb387",
+        "address": "14978 SW 164th Ave",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2312,
+        "listed_at": "2026-10-19T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 605000,
+        "price_label": "$605K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.845987,
+          45.411463
         ]
       }
     },
@@ -61024,6 +61066,27 @@
         "coordinates": [
           -97.814502,
           30.04379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b7fe090b-7e03-53d5-8a2b-df132b6b11c4",
+        "address": "1167 Sly Fox Run",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3194,
+        "listed_at": "2026-10-19T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 416000,
+        "price_label": "$416K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.619977,
+          33.631324
         ]
       }
     },
