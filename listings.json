@@ -64789,6 +64789,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c3f79ddb-7c1a-566f-8732-c65ffa145d36",
+        "address": "4252 E Sylvane Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1012,
+        "listed_at": "2026-10-19T15:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.901832,
+          32.201064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c423eaf4-4a17-5d6f-b883-83b8223a7ac7",
         "address": "1580-W-Cloaninger-Ave-Statesville-NC-28625",
         "beds": 6,
