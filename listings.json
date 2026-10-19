@@ -29362,6 +29362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "57d92c65-8c23-5aa4-b9fc-e325450c4b99",
+        "address": "1061 Sandy Grove Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2301,
+        "listed_at": "2026-10-19T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 666000,
+        "price_label": "$666K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.014919,
+          34.180575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57ea37de-0339-5149-bb63-6d534f591d16",
         "address": "1700-Forsythe-Dr-Savannah-TX-76227",
         "beds": 3,
