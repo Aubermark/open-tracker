@@ -10294,6 +10294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f7ad0c1-cc10-5a2a-9fcb-ab289c857df9",
+        "address": "885 Lucas Creek Rd",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1507,
+        "listed_at": "2026-10-19T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.550125,
+          37.134903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f872b96-002f-5aed-af33-8ef182158cf6",
         "address": "2854-Everett-Dr-Friendswood-TX-77546",
         "beds": 5,
@@ -11149,6 +11170,27 @@
         "coordinates": [
           -97.588192,
           30.805078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "22481555-e056-5e63-8c96-cbe2e2376929",
+        "address": "2008-Vickie-Dr-Irving-TX-75060",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1350,
+        "listed_at": "2026-10-19T15:50:05.000Z",
+        "days_on_market": "105",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.971537,
+          32.806943
         ]
       }
     },
@@ -53485,6 +53527,27 @@
         "coordinates": [
           -95.319868,
           32.143694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a3984746-ab93-5e31-b2c9-3af7150902b9",
+        "address": "905 4th Ave N",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1571,
+        "listed_at": "2026-10-19T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1741,
+          45.59852
         ]
       }
     },
