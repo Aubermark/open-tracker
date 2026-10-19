@@ -47548,6 +47548,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9181a320-765e-57fb-870c-1fb415768ad9",
+        "address": "1136 Cambridge Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 931,
+        "listed_at": "2026-10-19T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.77933,
+          38.770692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91a54091-f030-5290-8981-254f6f38cb14",
         "address": "808-Griffin-St-Mc-Kinney-TX-75069",
         "beds": 3,
