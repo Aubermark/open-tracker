@@ -13423,6 +13423,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "296559ef-1b53-55e1-b574-678919bb4a36",
+        "address": "310-Terrace-St-Griffin-GA-30224",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1251,
+        "listed_at": "2026-10-19T17:00:06.000Z",
+        "days_on_market": ">239",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.258645,
+          33.236697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "297dfecc-dbe0-55a9-b606-a953057dae84",
         "address": "29345 Sheeks Blvd",
         "beds": 3,
@@ -30910,27 +30931,6 @@
         "coordinates": [
           -78.883833,
           36.03473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5d546d30-966f-5b37-a9cf-a59bb4d491b5",
-        "address": "55-Jefferson-Dr-Piscataway-NJ-08854",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1935,
-        "listed_at": "2026-08-21T21:00:04.000Z",
-        "days_on_market": "59",
-        "current_price": 711000,
-        "price_label": "$711K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.461098,
-          40.539435
         ]
       }
     },
