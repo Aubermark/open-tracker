@@ -67792,6 +67792,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccc3a3f9-d971-5ea6-ab83-57bfba7d4e13",
+        "address": "404 Golden Villas Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1699,
+        "listed_at": "2026-10-19T10:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.773165,
+          36.035431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccc59cd6-3e4f-5e04-985d-a91ac461068f",
         "address": "745-Mount-Massive-St-Berthoud-CO-80513",
         "beds": 5,
