@@ -22369,6 +22369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43131bed-aa86-596d-b02f-3fc81792065d",
+        "address": "133 Salem Ct",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1307,
+        "listed_at": "2026-10-19T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.843657,
+          35.958812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "433028e6-cbc7-572d-8c8c-83c54e2c90d6",
         "address": "2083-W-Arizona-Rose-Dr-Oro-Valley-AZ-85737",
         "beds": 5,
