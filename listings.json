@@ -66364,6 +66364,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c7e06096-6f34-5e5f-aad9-3d16c9800401",
+        "address": "813 Halstead St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 948,
+        "listed_at": "2026-10-19T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.254703,
+          28.898741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7f535ba-d079-5123-89e7-b569db1a3c1d",
         "address": "4865-Silver-Leaf-Dr-Cumming-GA-30040",
         "beds": 4,
