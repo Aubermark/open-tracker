@@ -9727,6 +9727,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1d530a0c-3b32-504c-932c-908999eb7b23",
+        "address": "1709 Baron Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1605,
+        "listed_at": "2026-10-19T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.414465,
+          35.223852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d821499-4ef4-5fdc-854b-fa11a473f63c",
         "address": "13449-Nascoby-Ln-Woodbridge-VA-22193",
         "beds": 3,
@@ -36439,6 +36460,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d2fabe5-2c72-53f1-8b2d-f88f916b5cc0",
+        "address": "7032 W Piute Ave",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2585,
+        "listed_at": "2026-10-19T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 571000,
+        "price_label": "$571K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21153,
+          33.661332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d581ccc-ea22-5907-95bf-3c3cf39aa52e",
         "address": "7791-Newhaven-Dr-Oak-Ridge-NC-27310",
         "beds": 4,
@@ -52015,6 +52057,27 @@
         "coordinates": [
           -94.676038,
           38.867016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f9ab740-19f0-5799-add3-daf22221ba6a",
+        "address": "21607-Rio-Comal-San-Antonio-TX-78259",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2125,
+        "listed_at": "2026-10-19T20:20:05.000Z",
+        "days_on_market": "157",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.437832,
+          29.639619
         ]
       }
     },
