@@ -8320,6 +8320,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "186204da-c3f7-5ffe-b087-959d5ae70209",
+        "address": "40-Chapel-Hill-Cir-San-Antonio-TX-78240",
+        "beds": 2,
+        "baths": 3,
+        "sqft": 1098,
+        "listed_at": "2026-10-19T02:10:06.000Z",
+        "days_on_market": "87",
+        "current_price": 168000,
+        "price_label": "$168K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.593629,
+          29.519239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18652774-1789-5d67-89e4-d1cdee6a7db7",
         "address": "231-Oakgrove-Rd-Asheboro-NC-27205",
         "beds": 2,
