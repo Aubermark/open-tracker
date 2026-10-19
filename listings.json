@@ -8719,6 +8719,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1932a7a8-083c-5618-82fc-3584f09bd6d7",
+        "address": "7723 N 46th Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2016,
+        "listed_at": "2026-10-19T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.158656,
+          33.550531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "193927e9-73a0-5441-8abc-3b807a5961d7",
         "address": "10713 Vista Heights Blvd",
         "beds": 5,
@@ -43741,27 +43762,6 @@
         "coordinates": [
           -84.07862,
           33.95295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85c0e4e5-55c5-5d79-a577-6bb0c7c0e6ac",
-        "address": "1818-Superior-Ct-Kissimmee-FL-34759",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2797,
-        "listed_at": "2026-09-30T05:47:03.000Z",
-        "days_on_market": "20",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.514041,
-          28.07186
         ]
       }
     },
