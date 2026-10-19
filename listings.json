@@ -41521,6 +41521,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ed0d0c1-1057-54a6-afb6-038134c50b80",
+        "address": "1122 Prairie Ct S",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2032,
+        "listed_at": "2026-10-19T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.506017,
+          44.784937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ef636b4-3480-5dbe-93ce-6de4eb786961",
         "address": "1750-Evergreen-Ct-Kissimmee-FL-34746",
         "beds": 3,
