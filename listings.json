@@ -33457,6 +33457,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64b363f7-c66e-574b-bdc3-8be9ac2f2bab",
+        "address": "1037 Yorkshire Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2458,
+        "listed_at": "2026-10-19T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.228174,
+          33.323071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64bf744e-b194-592a-a1f0-e7beeb3b078c",
         "address": "509-Greenbriar-Rd-Greensboro-NC-27405",
         "beds": 3,
@@ -74722,27 +74743,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "df737492-1633-50e9-9cfb-0ee67f2c472d",
-        "address": "3843 Globe Ave",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1294,
-        "listed_at": "2026-10-17T06:42:49.000Z",
-        "days_on_market": "3",
-        "current_price": 144000,
-        "price_label": "$144K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.140763,
-          41.434293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "df8272e3-17ed-5d1a-b720-a8d07d5f1d3f",
         "address": "4407-W-Dale-Ave-Tampa-FL-33609",
         "beds": 5,
@@ -81247,27 +81247,6 @@
         "coordinates": [
           -78.603371,
           35.49907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f4590cf4-d43c-56bb-ba09-bec3fb88016e",
-        "address": "228-Fairfax-St-Colorado-Springs-CO-80911",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1521,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "139",
-        "current_price": 329000,
-        "price_label": "$329K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.715414,
-          38.73145
         ]
       }
     },
