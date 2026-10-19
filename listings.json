@@ -24847,6 +24847,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a52085f-640f-50b7-9219-5267ad6cb815",
+        "address": "8865 Mettetal St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1942,
+        "listed_at": "2026-10-19T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 95000,
+        "price_label": "$95K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.205793,
+          42.359041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a699dc0-ecc3-5664-be09-6832e982f7d7",
         "address": "5025-Hillsboro-Pike-Apt-7-A-Nashville-TN-37215",
         "beds": 2,
@@ -77131,6 +77152,27 @@
         "coordinates": [
           -78.454082,
           36.389203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e755a491-f46f-5a07-a0c8-906410dc43cc",
+        "address": "740 SE 28th St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-10-19T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.128833,
+          29.161221
         ]
       }
     },
