@@ -13591,27 +13591,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "29f3d302-e95b-5b6e-9b90-869b7df5be2e",
-        "address": "9673-Sylvan-Ln-Concord-Township-OH-44060",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1394,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "39",
-        "current_price": 182000,
-        "price_label": "$182K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.292715,
-          41.674698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2a30820a-569f-54af-b3d8-4f83982d37ca",
         "address": "3147 Glade Springs Dr",
         "beds": 3,
@@ -28144,6 +28123,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "542f4155-b01b-5cce-ac4d-707fedc06d88",
+        "address": "2530 Logan Caroline Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2850,
+        "listed_at": "2026-10-19T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58648,
+          35.033806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5438e31e-35d3-4b3c-ad39-45b76c023025",
         "address": "3203-W-Santa-Cruz-Ave-San-Tan-Valley-AZ-85144",
         "beds": 3,
@@ -40045,27 +40045,6 @@
         "coordinates": [
           -76.343003,
           37.052088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7aa17c0a-538d-5631-a743-9bb7ac6945d7",
-        "address": "2330-Foggy-Ridge-Pkwy-Land-O-Lakes-FL-34639",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1730,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "52",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.417018,
-          28.191115
         ]
       }
     },
