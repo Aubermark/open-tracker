@@ -65482,6 +65482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c6cddc2e-b82e-56eb-8ff3-b85d371d8342",
+        "address": "1-Newcourt-Pl-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1935,
+        "listed_at": "2026-10-19T00:50:05.000Z",
+        "days_on_market": "198",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.921642,
+          34.148109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c6d6f4a9-7805-5c74-9970-fe8b64f0150b",
         "address": "1396-Bramlett-Forest-Ct-Lawrenceville-GA-30045",
         "beds": 4,
