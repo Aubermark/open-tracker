@@ -7753,6 +7753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "164c25e8-e443-5f19-903f-a3d1f1bac11d",
+        "address": "1796-Carpenter-St-Rialto-CA-92377",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1677,
+        "listed_at": "2026-10-19T16:50:04.000Z",
+        "days_on_market": "18",
+        "current_price": 697000,
+        "price_label": "$697K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.407434,
+          34.151663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1667b196-d004-5297-b73c-978323658cae",
         "address": "7303-Havenbrook-Dr-San-Antonio-TX-78227",
         "beds": 3,
