@@ -2881,27 +2881,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0817c729-7466-5ba3-98c2-2414fd0c6e77",
-        "address": "522 Sandringham Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1458,
-        "listed_at": "2026-10-05T21:40:04.000Z",
-        "days_on_market": ">239",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.266944,
-          34.09979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "082fbf7b-fe54-5b3b-a4b1-ba968f97cf21",
         "address": "300-Sprucewood-Rd-Lake-Mary-FL-32746",
         "beds": 3,
@@ -17827,27 +17806,6 @@
         "coordinates": [
           -104.712948,
           39.612468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3647af5a-c329-5a76-9b1c-8bcdd758f9dc",
-        "address": "3580 Downing      St",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2325,
-        "listed_at": "2026-09-17T20:20:04.000Z",
-        "days_on_market": "59",
-        "current_price": 431000,
-        "price_label": "$431K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.485959,
-          34.037007
         ]
       }
     },
@@ -75052,6 +75010,27 @@
         "coordinates": [
           -82.519144,
           27.940522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df9bbe36-a733-5f70-89cb-06ad228eb900",
+        "address": "1103 Boxwood Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2975,
+        "listed_at": "2026-10-19T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.079854,
+          39.591949
         ]
       }
     },
