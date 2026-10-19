@@ -33121,6 +33121,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6324de10-2543-57fb-9df9-29a2fc1c5831",
+        "address": "1772-Huntingford-Dr-Marietta-GA-30068",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3080,
+        "listed_at": "2026-10-19T14:30:05.000Z",
+        "days_on_market": "160",
+        "current_price": 674000,
+        "price_label": "$674K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.396401,
+          33.992412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "63356bcb-8f2b-5e54-bae7-a5a3d0d36563",
         "address": "164-Doris-Meadow-Cv-Collierville-TN-38017",
         "beds": 4,
