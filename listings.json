@@ -15439,6 +15439,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f97c09b-6c6e-5946-9922-e50236aae949",
+        "address": "286-Blue-Rock-Dr-Longs-SC-29568",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1349,
+        "listed_at": "2026-10-19T11:50:05.000Z",
+        "days_on_market": "138",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.733587,
+          34.011977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f9aebf6-3a39-5908-b7c9-808603256648",
         "address": "2328 Forty Niner Ct",
         "beds": 5,
