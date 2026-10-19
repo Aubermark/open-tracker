@@ -21697,6 +21697,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "41427518-3822-588a-9c8c-bb76db1f2d06",
+        "address": "6732 County Road 50",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1921,
+        "listed_at": "2026-10-19T01:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.751159,
+          32.915697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "416b64a7-175e-5b6c-a758-8523a2f6516d",
         "address": "7907-Florado-St-Denver-CO-80221",
         "beds": 3,
@@ -60940,27 +60961,6 @@
         "coordinates": [
           -84.271324,
           34.017624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b8ec0257-0ed6-4e0d-aa5e-a19e15184d4d",
-        "address": "531 New Church Ave",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1726,
-        "listed_at": "2026-10-09T18:50:04.000Z",
-        "days_on_market": "9",
-        "current_price": 610000,
-        "price_label": "$610K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.949461,
-          40.090439
         ]
       }
     },
