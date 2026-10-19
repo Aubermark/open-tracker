@@ -15523,27 +15523,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2f97c09b-6c6e-5946-9922-e50236aae949",
-        "address": "286-Blue-Rock-Dr-Longs-SC-29568",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1349,
-        "listed_at": "2026-10-19T11:50:05.000Z",
-        "days_on_market": "138",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.733587,
-          34.011977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2f9aebf6-3a39-5908-b7c9-808603256648",
         "address": "2328 Forty Niner Ct",
         "beds": 5,
@@ -43096,27 +43075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "83b62bb3-d13f-55ae-9585-113dfff6585d",
-        "address": "213-Cozy-Ln-Cedar-Hill-TX-75104",
-        "beds": 6,
-        "baths": 2.5,
-        "sqft": 3962,
-        "listed_at": "2026-09-08T16:20:02.000Z",
-        "days_on_market": "41",
-        "current_price": 362000,
-        "price_label": "$362K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.945174,
-          32.575132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "83d58258-40de-5667-af09-03d2f8fe0177",
         "address": "3407-Erin-Ave-Cleveland-OH-44113",
         "beds": 3,
@@ -51595,6 +51553,27 @@
         "coordinates": [
           -86.600511,
           36.347206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9dd92d47-6953-5c46-8556-104a4f607af1",
+        "address": "9801-Hannon-Rd-Mint-Hill-NC-28227",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1356,
+        "listed_at": "2026-10-19T20:30:05.000Z",
+        "days_on_market": "96",
+        "current_price": 301000,
+        "price_label": "$301K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.680573,
+          35.20347
         ]
       }
     },
