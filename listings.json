@@ -77389,6 +77389,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e86855fd-3fee-5e87-8b83-14fc063320ba",
+        "address": "229 Delview Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2360,
+        "listed_at": "2026-10-19T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.400934,
+          35.387547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e86b351d-3af0-54bd-8f5d-0d58565d9280",
         "address": "701 Garden Bounty Dr",
         "beds": 3,
@@ -80428,27 +80449,6 @@
         "coordinates": [
           -96.96573,
           33.242163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f19ba348-af71-54ed-abc8-fdff17cb797e",
-        "address": "722-Virginia-Ln-Apopka-FL-32703",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1380,
-        "listed_at": "2026-10-12T14:20:05.000Z",
-        "days_on_market": "115",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.451779,
-          28.667902
         ]
       }
     },
