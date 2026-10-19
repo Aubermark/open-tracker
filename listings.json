@@ -9118,6 +9118,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ae6d7b6-9766-5cfa-be81-0e81b7531f61",
+        "address": "8956-Devonshire-Dr-Fort-Worth-TX-76131",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2111,
+        "listed_at": "2026-10-19T02:20:05.000Z",
+        "days_on_market": "52",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338117,
+          32.899013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b1897a2-10fc-5e18-8417-b53be1564b76",
         "address": "354-Crimson-Way-Pittsboro-NC-27312",
         "beds": 5,
