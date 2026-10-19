@@ -1600,27 +1600,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03fda556-2152-5007-8192-af648bfd9ff1",
-        "address": "804 F St",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1104,
-        "listed_at": "2026-10-13T06:13:50.000Z",
-        "days_on_market": "7",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.027958,
-          39.406074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "03fe5f4a-bd6f-5378-a096-831a2514cf75",
         "address": "8052-Brockman-Ln-Nashville-TN-37211",
         "beds": 4,
@@ -17386,27 +17365,6 @@
         "coordinates": [
           -74.092049,
           41.164754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "35660734-dfa5-5c59-af32-5be10f6f0889",
-        "address": "64-Garden-Grv-Newnan-GA-30265",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1616,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "172",
-        "current_price": 310000,
-        "price_label": "$310K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.73496,
-          33.374072
         ]
       }
     },
@@ -72700,6 +72658,27 @@
         "coordinates": [
           -97.582581,
           33.206706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d94f906c-3717-5f69-93e1-60b0dd7b854a",
+        "address": "6428 Camp Superior Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1928,
+        "listed_at": "2026-10-19T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.365724,
+          39.292784
         ]
       }
     },
