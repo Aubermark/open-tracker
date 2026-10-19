@@ -4204,6 +4204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bd687ce-9737-57a8-920e-cac2e9552861",
+        "address": "8941 E Rosewood St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2291,
+        "listed_at": "2026-10-19T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.800894,
+          32.231657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bd6b962-4e7c-5748-8864-0467578e8685",
         "address": "101-Wyncrest-Commons-Ct-Hendersonville-TN-37075",
         "beds": 3,
@@ -51664,6 +51685,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e0c278d-1064-5f26-a148-b161bdc24055",
+        "address": "4202 Gifford Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1162,
+        "listed_at": "2026-10-19T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 130000,
+        "price_label": "$130K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.713747,
+          41.434042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e1debfe-1a89-5940-9ecb-beb483a37c1d",
         "address": "19273 Salvador Ct",
         "beds": 3,
@@ -60079,6 +60121,27 @@
         "coordinates": [
           -96.907429,
           33.221678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b5e96655-a6b9-503d-94df-713626595764",
+        "address": "5533 32nd Ave S",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 732,
+        "listed_at": "2026-10-19T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.225503,
+          44.902474
         ]
       }
     },
