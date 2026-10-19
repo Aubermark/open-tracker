@@ -45301,6 +45301,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8ade9961-d956-5fbb-a549-fde2430dc23b",
+        "address": "29397 Highway U",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2050,
+        "listed_at": "2026-10-19T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.225357,
+          38.647728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8ae88fc7-cdd5-5fe0-9e84-2f90eb3add2f",
         "address": "11327-Grass-Lake-Ln-Richmond-TX-77406",
         "beds": 4,
@@ -47647,6 +47668,27 @@
         "coordinates": [
           -96.624739,
           33.193126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "91bf612f-6dc3-5abb-b346-bb9abb21cdd1",
+        "address": "4270 Petersburg Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1178,
+        "listed_at": "2026-10-19T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.786528,
+          39.080364
         ]
       }
     },
@@ -81793,6 +81835,27 @@
         "coordinates": [
           -97.138243,
           27.894668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f578784d-4575-55c6-821a-0890332ebafc",
+        "address": "20009 Outpost Point Dr",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 2849,
+        "listed_at": "2026-10-19T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.393116,
+          28.160675
         ]
       }
     },
