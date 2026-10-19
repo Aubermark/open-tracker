@@ -75604,6 +75604,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e368d911-ea62-5c76-8cc1-ad1776684dff",
+        "address": "1675-Landings-Ln-Sarasota-FL-34231",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 4214,
+        "listed_at": "2026-10-19T14:40:05.000Z",
+        "days_on_market": "91",
+        "current_price": 1930000,
+        "price_label": "$1.930M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.536347,
+          27.281433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e3847ac0-ab74-5cb5-a214-09390a24022c",
         "address": "1336-Fate-Conn-Rd-Canton-GA-30114",
         "beds": 4,
