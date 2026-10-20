@@ -47191,27 +47191,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f4a57fc-d7b8-5a7a-9166-32b4d28a18fe",
-        "address": "440-Hood-St-Rockingham-NC-28379",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 985,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "71",
-        "current_price": 149000,
-        "price_label": "$149K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.76007,
-          34.934059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8f520932-92c2-5eb4-98d4-a0d934731b06",
         "address": "148-Pescado-Dr-Saint-Augustine-FL-32095",
         "beds": 4,
@@ -77935,6 +77914,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e836dcea-76ea-55ca-bbdc-26fcf32bb426",
+        "address": "6743-Leland-Ave-Hammond-IN-46323",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1557,
+        "listed_at": "2026-10-20T16:30:06.000Z",
+        "days_on_market": "90",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.477066,
+          41.590486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e850903f-329d-5436-b8e0-9a8fee5eba05",
         "address": "6412-Pleasant-Creek-Ct-Raleigh-NC-27613",
         "beds": 3,
@@ -80911,6 +80911,27 @@
         "coordinates": [
           -104.9532,
           39.625464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0c38db0-c822-5d04-a330-2a2b7deb95cc",
+        "address": "2628 Gaylon St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1560,
+        "listed_at": "2026-10-20T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63471,
+          33.659106
         ]
       }
     },
