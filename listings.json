@@ -70459,6 +70459,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d1d76158-7a3d-562e-a016-d08eb6fdc5ea",
+        "address": "10061 Cedar Lake Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1308,
+        "listed_at": "2026-10-20T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.958606,
+          33.229678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d1da55b2-d2a7-59a4-9d25-cf62e5a9f4d1",
         "address": "4982-Penny-Ln-North-Olmsted-OH-44070",
         "beds": 4,
