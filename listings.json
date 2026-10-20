@@ -76465,6 +76465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e3d5c728-1d56-5b27-b3d8-64fc3b3a7b9f",
+        "address": "3241 Chase Point Dr",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3979,
+        "listed_at": "2026-10-20T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1240000,
+        "price_label": "$1.240M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74647,
+          35.917281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e3e0ad86-4b8c-5563-b78f-9496198be3d8",
         "address": "7447-S-Ames-Ct-Littleton-CO-80128",
         "beds": 3,
