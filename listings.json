@@ -38287,6 +38287,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "73d95dd2-ad61-5430-a40a-a990b0e8e5de",
+        "address": "2819-Avenue-K-Galveston-TX-77550",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 864,
+        "listed_at": "2026-10-20T13:10:05.000Z",
+        "days_on_market": "40",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.79813,
+          29.297198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "73dcb480-c660-5983-bc7c-2f8d6ccfdbbf",
         "address": "5230-E-Brown-Rd-Apt-207-Mesa-AZ-85205",
         "beds": 2,
