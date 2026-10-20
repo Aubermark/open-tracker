@@ -14536,6 +14536,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2bf6cf55-ec26-5cd5-b022-e5c5030cb986",
+        "address": "146 NE American Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1712,
+        "listed_at": "2026-10-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.156879,
+          45.202278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2bfeacbb-e65c-461b-a90a-e28d813f8c41",
         "address": "2972-Audles-Ln-Dallas-TX-75212",
         "beds": 4,
@@ -34585,27 +34606,6 @@
         "coordinates": [
           -111.575416,
           33.176493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "67077fe0-a5a0-5784-9679-bd64053f65fc",
-        "address": "6409-Coral-Gables-Dr-Corpus-Christi-TX-78413",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2465,
-        "listed_at": "2026-10-02T15:30:04.000Z",
-        "days_on_market": "18",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.40337,
-          27.696148
         ]
       }
     },
