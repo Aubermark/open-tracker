@@ -9202,6 +9202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1a85d41b-2a25-56fd-961c-835ce67358a8",
+        "address": "10320 W Serene Ave",
+        "beds": 5,
+        "baths": 6,
+        "sqft": 4535,
+        "listed_at": "2026-10-20T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 2300000,
+        "price_label": "$2.300M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.318577,
+          36.019296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1a89f84d-c594-5874-a344-be665f1a01ee",
         "address": "235 Hillside Oak Ln",
         "beds": 6,
@@ -35614,6 +35635,27 @@
         "coordinates": [
           -116.33842,
           43.594602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "69958e6b-8dc9-571e-bdca-ae3d6bb61c3f",
+        "address": "6715 Winding Valley Trl",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3069,
+        "listed_at": "2026-10-20T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.537282,
+          32.931394
         ]
       }
     },
@@ -70768,6 +70810,27 @@
         "coordinates": [
           -84.219276,
           34.187757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d24fc884-5c3a-54a0-b225-0b524a69c317",
+        "address": "10112 Herons Rise St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2290,
+        "listed_at": "2026-10-20T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.224647,
+          36.00572
         ]
       }
     },
