@@ -1768,27 +1768,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "041cee27-e8d6-5ee9-8141-50865321a211",
-        "address": "1023-Roanoke-Dr-Temple-TX-76504",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1361,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "134",
-        "current_price": 190000,
-        "price_label": "$190K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.365763,
-          31.114828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0423c5f2-dc97-5dbb-b076-6c0e7e3e4610",
         "address": "302 Saddletree Ln",
         "beds": 4,
@@ -14242,6 +14221,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b5c16d4-9f38-5493-a12d-3762c476733e",
+        "address": "3250-Camellia-Ln-Suwanee-GA-30024",
+        "beds": 5,
+        "baths": 6,
+        "sqft": 5675,
+        "listed_at": "2026-10-20T15:30:05.000Z",
+        "days_on_market": "143",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.146768,
+          34.105173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b806c3b-e801-5c7a-9092-f83814878e75",
         "address": "3650-Versailles-Dr-San-Antonio-TX-78219",
         "beds": 4,
@@ -26563,6 +26563,27 @@
         "coordinates": [
           -78.935006,
           36.043993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4f6710d7-57ca-5ac8-9434-970960870f7a",
+        "address": "103-Marty-Ln-Dallas-GA-30132",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1183,
+        "listed_at": "2026-10-20T15:30:05.000Z",
+        "days_on_market": "96",
+        "current_price": 246000,
+        "price_label": "$246K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.792288,
+          33.961817
         ]
       }
     },
