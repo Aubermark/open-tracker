@@ -56116,27 +56116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a974f0a5-86b1-5428-aecb-e90693a0fa70",
-        "address": "1512-Buckingham-Ave-Gastonia-NC-28054",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2210,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "221",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.157067,
-          35.240478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a98a4f85-d0b6-5e11-8fbf-3851534c2b62",
         "address": "8815-First-Run-Ct-Charlotte-NC-28215",
         "beds": 4,
@@ -70060,6 +70039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d14ef426-6411-5fb5-8a1b-56116899a60c",
+        "address": "3306 Ellingford Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1451,
+        "listed_at": "2026-10-20T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.963919,
+          35.252489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d1541daf-40ea-5077-83b6-f1e4926603dd",
         "address": "5313-Fernwood-Way-Sacramento-CA-95841",
         "beds": 3,
@@ -80092,6 +80092,27 @@
         "coordinates": [
           -111.108324,
           32.12036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eec69487-dcea-54c1-bdb0-0e087644adce",
+        "address": "790 Heather Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1310,
+        "listed_at": "2026-10-20T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.585857,
+          45.387235
         ]
       }
     },
