@@ -5086,27 +5086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0e5bfc77-3cee-538e-b7c0-55cf168416c3",
-        "address": "128-Morena-Dr-Holly-Springs-NC-27540",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1916,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "127",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.830322,
-          35.671697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0e5e3bc0-9279-4117-b07d-bf050e3bb65e",
         "address": "11277-Rustic-Timber-Loop-San-Antonio-FL-33576",
         "beds": 5,
@@ -18163,6 +18142,27 @@
         "coordinates": [
           -96.609908,
           33.233013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3769e91a-326f-5f03-8950-7e2bf4b17d44",
+        "address": "1412-Spring-Ridge-Ln-Flower-Mound-TX-75028",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2799,
+        "listed_at": "2026-10-20T13:40:06.000Z",
+        "days_on_market": ">240",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.048857,
+          33.069158
         ]
       }
     },
