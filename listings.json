@@ -10945,27 +10945,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "21423f28-6576-5794-98b6-869061a20559",
-        "address": "2717-O-Hara-Dr-Charlotte-NC-28273",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1582,
-        "listed_at": "2026-09-19T10:50:04.000Z",
-        "days_on_market": "61",
-        "current_price": 331000,
-        "price_label": "$331K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.953175,
-          35.139129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "21480d97-3c84-5e90-951a-16315ad84241",
         "address": "1007-Haley-St-Macon-GA-31217",
         "beds": 3,
@@ -31519,27 +31498,6 @@
         "coordinates": [
           -97.754358,
           30.445885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5dc7b82a-348b-5c38-a49e-d332dc8a306b",
-        "address": "1305-Ivey-Grove-Ct-Fuquay-Varina-NC-27526",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3670,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "179",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.77735,
-          35.565986
         ]
       }
     },
@@ -69031,6 +68989,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cede5239-a34a-5dc5-8216-1d1136b98201",
+        "address": "4604 Oak Ridge Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2226,
+        "listed_at": "2026-10-20T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 162000,
+        "price_label": "$162K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.167837,
+          30.671801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cef19619-6d50-5fb7-9c3d-f61c63ea5ea6",
         "address": "4511-N-93rd-Dr-Phoenix-AZ-85037-18444287",
         "beds": 3,
@@ -73057,6 +73036,27 @@
         "coordinates": [
           -86.994217,
           34.575549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d8bac3fc-6bed-5217-8ad4-cf2a279ec9aa",
+        "address": "8703 Park Mdws",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 952,
+        "listed_at": "2026-10-20T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 172000,
+        "price_label": "$172K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.314763,
+          29.522936
         ]
       }
     },
