@@ -32323,27 +32323,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5fb48d01-eed0-5f06-8c36-4b6813161d48",
-        "address": "2708-Timberline-Dr-Killeen-TX-76543",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1128,
-        "listed_at": "2026-10-01T15:50:06.000Z",
-        "days_on_market": "187",
-        "current_price": 189000,
-        "price_label": "$189K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.669335,
-          31.130409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
         "address": "1900-Milfield-Cir-Snellville-GA-30078",
         "beds": 4,
@@ -40948,6 +40927,27 @@
         "coordinates": [
           -121.338569,
           37.813733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7c0f135e-4f34-5199-af5a-75aa43f901ac",
+        "address": "8303 Snowden Oaks Pl",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1307,
+        "listed_at": "2026-10-20T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.865702,
+          39.064554
         ]
       }
     },
@@ -62710,6 +62710,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc2b9e2e-7676-5dd0-a592-afd6f3d520de",
+        "address": "966 Oakland Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1588,
+        "listed_at": "2026-10-20T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.574118,
+          39.109932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc742567-31c9-5747-8063-1e27881b5c72",
         "address": "961-Verona-Ave-San-Jacinto-CA-92583-18373576",
         "beds": 2,
@@ -79000,27 +79021,6 @@
         "coordinates": [
           -82.895749,
           39.915845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ea659eca-3798-4cb9-90b2-6c3a5e3310e2",
-        "address": "26315-Silver-Birch-Menifee-CA-92584",
-        "beds": 6,
-        "baths": 4.5,
-        "sqft": 4134,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "73",
-        "current_price": 839000,
-        "price_label": "$839K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.199926,
-          33.674782
         ]
       }
     },
