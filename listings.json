@@ -11617,6 +11617,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22e476aa-4efd-5a88-8ced-0b70a40745c4",
+        "address": "2517 Palmridge Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1188,
+        "listed_at": "2026-10-20T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.28397,
+          36.206246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22e4926a-01f4-5a4a-871f-14aa843eacab",
         "address": "338-Buffalo-Creek-Dr-Toney-AL-35773",
         "beds": 3,
@@ -65665,6 +65686,27 @@
         "coordinates": [
           -97.157726,
           32.832352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4f8fef0-4b2b-5c23-8947-3e56a53a777c",
+        "address": "1226 Sequoia Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1911,
+        "listed_at": "2026-10-20T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.839012,
+          32.613217
         ]
       }
     },
