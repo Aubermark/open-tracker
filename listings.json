@@ -655,6 +655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "017a8a2a-0a9e-50bf-a080-67ac05a018da",
+        "address": "4782 Witches Hollow Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1564,
+        "listed_at": "2026-10-20T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.741576,
+          38.766624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0185739e-a965-537b-9dc0-c1b827a13f32",
         "address": "1113-Mc-Clellan-Ln-Nolensville-TN-37135",
         "beds": 4,
