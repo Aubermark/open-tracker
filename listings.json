@@ -56872,6 +56872,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ac6fc7cd-376a-5089-8f7b-0549ff8b4055",
+        "address": "730 Ivy Glen Ct",
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4074,
+        "listed_at": "2026-10-20T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.829782,
+          33.243348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac78238b-406c-5720-9fce-8cedaeab5577",
         "address": "2024 Montreat Pkwy",
         "beds": 3,
@@ -75031,6 +75052,27 @@
         "coordinates": [
           -95.165492,
           29.955352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df3be3bb-366a-5877-b4d7-f2e267a5afa1",
+        "address": "4805 Michael Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1609,
+        "listed_at": "2026-10-20T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.42996,
+          35.462607
         ]
       }
     },
