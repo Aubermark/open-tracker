@@ -1159,6 +1159,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0286c460-cc53-51e8-b50a-113722985a2d",
+        "address": "8224 Hunley Ridge Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1861,
+        "listed_at": "2026-10-20T12:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.626447,
+          35.138332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "029d943a-7fde-4826-ab4a-913dfcf3682b",
         "address": "17645-W-Hale-Bopp-Dr-Goodyear-AZ-85338",
         "beds": 6,
