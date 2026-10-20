@@ -9286,27 +9286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1b8b0dd0-5228-5c0f-8775-11dd525c3bd2",
-        "address": "2904-Lake-Vista-Dr-Wylie-TX-75098",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2750,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "147",
-        "current_price": 343000,
-        "price_label": "$343K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.515247,
-          32.980075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1b9c44fe-c9cd-5927-991b-df0857a2e96f",
         "address": "38034-N-Hudson-Trl-Anthem-AZ-85086-166269",
         "beds": 5,
@@ -41164,27 +41143,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7cfbc013-4789-5056-b430-3407b02f323e",
-        "address": "5704-Yanni-Ct-Avon-NY-14414",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1887,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "74",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.702326,
-          42.900138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7d02d6fc-c523-51bd-b682-390e804e91ee",
         "address": "107-S-Creek-Dr-Bellville-TX-77418",
         "beds": 4,
@@ -45715,6 +45673,27 @@
         "coordinates": [
           -78.997683,
           35.941365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8b553d46-6a86-591f-a2eb-657848dd695a",
+        "address": "4532 Black Partridge Ln",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2040,
+        "listed_at": "2026-10-20T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.103688,
+          41.801157
         ]
       }
     },
@@ -69004,6 +68983,27 @@
         "coordinates": [
           -95.833476,
           29.70147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce6eeb4e-ee9d-44ab-ae99-843df26e9a92",
+        "address": "9831 Mystic Sun Ct",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3283,
+        "listed_at": "2026-10-20T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 438000,
+        "price_label": "$438K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.864097,
+          39.931859
         ]
       }
     },
