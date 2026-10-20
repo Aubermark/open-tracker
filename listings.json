@@ -49270,6 +49270,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95d9a9cc-db39-5c60-a3fe-3ac7019d27ee",
+        "address": "11950-Lee-Ave-Adelanto-CA-92301",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1124,
+        "listed_at": "2026-10-20T19:20:05.000Z",
+        "days_on_market": "183",
+        "current_price": 309000,
+        "price_label": "$309K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.404137,
+          34.583176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9604dc7e-efbd-5bd7-8614-7f64cb267faa",
         "address": "10209-Broadway-St-Carmel-IN-46280",
         "beds": 3,
@@ -50902,6 +50923,27 @@
         "coordinates": [
           -94.458152,
           39.052003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9af7bb27-93db-5829-bea3-8ef7c2eb58f1",
+        "address": "1005 Eastgate Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2212,
+        "listed_at": "2026-10-20T19:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.863807,
+          40.661805
         ]
       }
     },
@@ -57580,6 +57622,27 @@
         "coordinates": [
           -95.977584,
           36.117668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae3f837f-b0cd-5ad7-9d7e-568135f65988",
+        "address": "1242-Via-Candelas-Oceanside-CA-92056",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1771,
+        "listed_at": "2026-10-20T19:20:05.000Z",
+        "days_on_market": "68",
+        "current_price": 861000,
+        "price_label": "$861K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29052,
+          33.217364
         ]
       }
     },
@@ -79903,27 +79966,6 @@
         "coordinates": [
           -80.224214,
           32.98221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "edda8d64-369b-54fc-86b6-dd1952739056",
-        "address": "4811-Roslyn-Rd-Downers-Grove-IL-60515",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1148,
-        "listed_at": "2026-10-01T19:50:04.000Z",
-        "days_on_market": "90",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.986559,
-          41.800233
         ]
       }
     },
