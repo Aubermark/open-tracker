@@ -83521,6 +83521,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f96d4bb8-df45-5db2-ae3d-52a053c4395b",
+        "address": "12424 Belcroft Dr",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3892,
+        "listed_at": "2026-10-20T06:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.302746,
+          27.810455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f978a2fe-6ca9-5650-bcf2-7115ab09b7f7",
         "address": "1823-W-22nd-Ave-Apache-Junction-AZ-85120",
         "beds": 3,
