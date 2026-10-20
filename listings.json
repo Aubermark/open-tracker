@@ -75373,6 +75373,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "df737492-1633-50e9-9cfb-0ee67f2c472d",
+        "address": "3843 Globe Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1294,
+        "listed_at": "2026-10-20T14:30:05.000Z",
+        "days_on_market": "4",
+        "current_price": 144000,
+        "price_label": "$144K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.140763,
+          41.434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "df8272e3-17ed-5d1a-b720-a8d07d5f1d3f",
         "address": "4407-W-Dale-Ave-Tampa-FL-33609",
         "beds": 5,
