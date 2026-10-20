@@ -50635,6 +50635,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99fb2aa7-adab-5841-ba61-0ef3786faccf",
+        "address": "7023 Branch Fork Rd",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2496,
+        "listed_at": "2026-10-20T13:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.667653,
+          35.246715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9a394f6d-441c-587f-bb45-49edc571054b",
         "address": "4284-Nc-56-Hwy-E-Louisburg-NC-27549",
         "beds": 3,
@@ -66883,6 +66904,27 @@
         "coordinates": [
           -80.511849,
           33.993362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c84b5b7b-70e6-57a0-a8a2-7aa2cf9f6658",
+        "address": "9 Radium Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1655,
+        "listed_at": "2026-10-20T13:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22719,
+          29.515231
         ]
       }
     },
