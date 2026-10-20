@@ -64306,6 +64306,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1358844-fa47-550b-ac97-786dc8b1942f",
+        "address": "26339 Riley Glen Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1900,
+        "listed_at": "2026-10-20T07:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.833369,
+          29.689452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c146bea7-0242-5cf5-97cb-1bad742b502f",
         "address": "3450-Sierra-View-Ln-Sacramento-CA-95821",
         "beds": 3,
