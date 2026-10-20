@@ -6283,6 +6283,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1203a48e-ee0b-5b4d-b80c-a24b847af12a",
+        "address": "2006 Overhill Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1634,
+        "listed_at": "2026-10-20T06:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.589364,
+          35.025694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "120f545c-0054-5bed-ac39-5a0b0a94d241",
         "address": "83-Eagle-Rock-Pl-Clayton-NC-27520",
         "beds": 3,
@@ -74317,6 +74338,27 @@
         "coordinates": [
           -118.552048,
           34.472864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd189f7d-5ede-51d1-b489-acf0f6c60bca",
+        "address": "2520 Meadowgate Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1972,
+        "listed_at": "2026-10-20T06:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.950684,
+          37.719127
         ]
       }
     },
