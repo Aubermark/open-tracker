@@ -76696,6 +76696,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e44a287b-61af-50de-9825-ced748de10f8",
+        "address": "2322 Cooper Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1381,
+        "listed_at": "2026-10-20T17:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.737341,
+          43.770024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e450ea4f-73b6-5bb2-9f84-2d46d60769c2",
         "address": "6372 Spring Cove Dr",
         "beds": 4,
