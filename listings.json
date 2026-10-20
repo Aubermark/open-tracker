@@ -214,6 +214,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "008dcc2c-bf32-5479-8029-a1a235cdad8a",
+        "address": "348 Haldale Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1799,
+        "listed_at": "2026-10-20T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 441000,
+        "price_label": "$441K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.152767,
+          39.989117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0092ebc5-1e44-58a2-8748-628ee4113a57",
         "address": "7520-Elverta-Rail-Way-Rio-Linda-CA-95673",
         "beds": 3,
