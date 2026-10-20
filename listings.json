@@ -37804,6 +37804,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71bedc33-0335-590a-8fe6-73098380df54",
+        "address": "437 Shady Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1248,
+        "listed_at": "2026-10-20T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.664562,
+          34.925995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71ed2bbb-a3bf-589f-8713-63131a13e42e",
         "address": "213-Carl-Parker-Rd-Hampton-GA-30228",
         "beds": 3,
@@ -52099,6 +52120,27 @@
         "coordinates": [
           -104.746669,
           39.509889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e8d67d6-4356-5bcb-a9db-3f60e988976d",
+        "address": "6906-King-George-Pl-Corpus-Christi-TX-78414",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2174,
+        "listed_at": "2026-10-20T15:40:05.000Z",
+        "days_on_market": "174",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.379059,
+          27.643702
         ]
       }
     },
@@ -75304,27 +75346,6 @@
         "coordinates": [
           -80.058554,
           26.537517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "df737492-1633-50e9-9cfb-0ee67f2c472d",
-        "address": "3843 Globe Ave",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1294,
-        "listed_at": "2026-10-20T14:30:05.000Z",
-        "days_on_market": "4",
-        "current_price": 144000,
-        "price_label": "$144K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.140763,
-          41.434293
         ]
       }
     },
