@@ -865,6 +865,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01de67eb-ae5c-50c3-b663-4430e25379a6",
+        "address": "14500 Las Palmas Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1459,
+        "listed_at": "2026-10-20T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.843038,
+          35.411895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "01e740b9-8fd8-52bb-a4d4-59b246d65b00",
         "address": "212-Timberlane-Dr-Belmont-NC-28012",
         "beds": 3,
@@ -23335,6 +23356,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44f0d9a8-1788-5592-b33e-907998c4a6f4",
+        "address": "732 W Front St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2060,
+        "listed_at": "2026-10-20T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.898658,
+          35.779387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "44fd822f-63c6-5c8d-9376-5194c420fdc6",
         "address": "1241-Pine-Acre-Dr-Sugar-Hill-GA-30518",
         "beds": 4,
@@ -26479,27 +26521,6 @@
         "coordinates": [
           -77.319551,
           35.573345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4ecc2e70-511d-5d75-83cd-6b99eb516471",
-        "address": "1418 Shoveller Ave",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1696,
-        "listed_at": "2026-10-15T16:30:03.000Z",
-        "days_on_market": "5",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.039545,
-          36.880402
         ]
       }
     },
@@ -53065,27 +53086,6 @@
         "coordinates": [
           -84.162802,
           34.14135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a17d559d-22be-56d3-be87-c1af76ab0f79",
-        "address": "2405-Waterloo-Ln-Mesquite-TX-75181",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2632,
-        "listed_at": "2026-09-17T17:00:04.000Z",
-        "days_on_market": "55",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.553497,
-          32.735824
         ]
       }
     },
