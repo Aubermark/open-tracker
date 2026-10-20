@@ -4645,6 +4645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
+        "address": "829-E-4th-St-Englewood-FL-34223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1398,
+        "listed_at": "2026-10-20T20:00:06.000Z",
+        "days_on_market": "183",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.334724,
+          26.942348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
         "address": "5908 Wateree Dr",
         "beds": 3,
@@ -30637,6 +30658,27 @@
         "coordinates": [
           -84.330936,
           33.768172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5b4841fc-7637-5f67-925c-f3b621667c36",
+        "address": "1729 N Highway 17",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1906,
+        "listed_at": "2026-10-20T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.836631,
+          32.824067
         ]
       }
     },
