@@ -8341,27 +8341,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "183742d0-e56a-550e-9b92-fcdbc3b8dd56",
-        "address": "6403-83rd-Ct-N-Brooklyn-Park-MN-55445",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1187,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "28",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.363408,
-          45.105565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "185157b1-4848-5acf-85e7-a546118b1eda",
         "address": "4750-Backenberry-Dr-Friendswood-TX-77546",
         "beds": 3,
@@ -10960,6 +10939,27 @@
         "coordinates": [
           -83.521333,
           32.895583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "214f16b2-053e-5bad-a857-60c8adde4829",
+        "address": "6951-Cutting-Crk-San-Antonio-TX-78244",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2675,
+        "listed_at": "2026-10-20T18:50:05.000Z",
+        "days_on_market": "123",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.351815,
+          29.488679
         ]
       }
     },
@@ -49816,6 +49816,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97ddae82-4a6f-52e2-a208-a600fc7ad7cd",
+        "address": "16717 SE 19th St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2890,
+        "listed_at": "2026-10-20T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1500000,
+        "price_label": "$1.500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.116051,
+          47.5933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "97ea47d5-bdc2-433c-9066-29bd95ad47df",
         "address": "113 Meadowbrook Dr",
         "beds": 4,
@@ -62914,27 +62935,6 @@
         "coordinates": [
           -81.854674,
           35.119601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bd9fd784-6609-5d4d-b397-c7467dd48f64",
-        "address": "62-Cable-Hollow-Way-Upper-Marlboro-MD-20774",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 912,
-        "listed_at": "2026-09-10T14:50:03.000Z",
-        "days_on_market": "40",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.832449,
-          38.894456
         ]
       }
     },
