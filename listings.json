@@ -14767,6 +14767,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c6f3740-033b-58d1-9ef9-803956073c41",
+        "address": "407-Lamesa-Dr-Raleigh-NC-27603",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1433,
+        "listed_at": "2026-10-20T14:20:05.000Z",
+        "days_on_market": "88",
+        "current_price": 339000,
+        "price_label": "$339K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645884,
+          35.715557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c720979-8434-5e39-bc0d-7922ae89bfd5",
         "address": "5363-Reber-Pl-Saint-Louis-MO-63139",
         "beds": 5,
@@ -31666,27 +31687,6 @@
         "coordinates": [
           -122.865345,
           45.511502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5e071e8b-1377-5d23-aa97-be60c7c11005",
-        "address": "1229-Kirby-St-Ne-Albuquerque-NM-87112",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1776,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "224",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.51317,
-          35.093418
         ]
       }
     },
@@ -57796,6 +57796,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aeafbc71-4e86-5662-908a-d5623c6f80d2",
+        "address": "4028-Catalpa-Ave-Knoxville-TN-37914",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1530,
+        "listed_at": "2026-10-20T14:20:05.000Z",
+        "days_on_market": ">240",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86776,
+          35.99909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aeb2177a-d40c-510a-9ba8-15879b7c4eec",
         "address": "4204 Camden Woods Ct",
         "beds": 3,
@@ -81520,27 +81541,6 @@
         "coordinates": [
           -86.128733,
           35.629071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f2cefea6-5a2c-5096-881f-a31cf64a8da3",
-        "address": "3415-Kaiser-Cir-St-Michael-MN-55376",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2559,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "19",
-        "current_price": 431000,
-        "price_label": "$431K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.677268,
-          45.201353
         ]
       }
     },
