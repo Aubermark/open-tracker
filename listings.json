@@ -5191,6 +5191,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e7dfcb9-0697-5f11-b694-ead1175a7f7a",
+        "address": "502 N Elm St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2557,
+        "listed_at": "2026-10-20T11:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.368447,
+          34.991117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
         "address": "4213-Mallard-Dr-Batavia-OH-45103",
         "beds": 3,
