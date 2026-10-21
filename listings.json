@@ -23356,6 +23356,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "444637fc-1c88-58ff-880f-03c20ac0285a",
+        "address": "2656 Trillium Cv",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1428,
+        "listed_at": "2026-10-21T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.180658,
+          41.227497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "444e1a80-6c0f-5744-84d3-b8e867d52746",
         "address": "1823-Lori-Ln-W-Lakeland-FL-33801",
         "beds": 3,
