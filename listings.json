@@ -33352,6 +33352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61e54964-85bd-54e6-a60a-1767c6c36df4",
+        "address": "31908 Del Cielo Este",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1653,
+        "listed_at": "2026-10-21T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 552000,
+        "price_label": "$552K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.212409,
+          33.293075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61f431c7-2857-53a0-8da5-8ba3dc1744ae",
         "address": "1842 Plantation Creek Rd",
         "beds": 5,
@@ -83956,6 +83977,27 @@
         "coordinates": [
           -80.493248,
           27.63213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f7dc4394-6d20-565c-821f-e8ecc8a010f5",
+        "address": "16208-Plow-Ave-Caldwell-ID-83607",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2758,
+        "listed_at": "2026-10-21T21:30:06.000Z",
+        "days_on_market": "68",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.649877,
+          43.607619
         ]
       }
     },
