@@ -8110,6 +8110,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16d003b7-2809-5b29-bd8d-472f067ff844",
+        "address": "6008-White-Chapel-Way-Greensboro-NC-27405",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1231,
+        "listed_at": "2026-10-21T20:50:05.000Z",
+        "days_on_market": "34",
+        "current_price": 236000,
+        "price_label": "$236K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.780728,
+          36.136015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16d68e71-a259-5e70-80f9-53d1261c9f5b",
         "address": "2162-Chestnut-Pl-Lithia-Springs-GA-30122",
         "beds": 3,
@@ -18646,27 +18667,6 @@
         "coordinates": [
           -78.914992,
           33.754493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "384e6335-9e87-5c2b-aa5d-0a468dac7bb1",
-        "address": "2304 Sabroso St",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1218,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "15",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.018419,
-          36.200642
         ]
       }
     },
