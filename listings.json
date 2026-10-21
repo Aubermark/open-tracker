@@ -15670,27 +15670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2ed2775a-9ed7-5e15-b29f-a8387936a9b9",
-        "address": "438-N-Ash-Mesa-AZ-85201",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1793,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "161",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.866919,
-          33.423192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2eda3b82-d744-56dc-a1a2-4956ca5c4a14",
         "address": "9537-Clayton-Ct-Thornton-CO-80229",
         "beds": 3,
@@ -81940,6 +81919,27 @@
         "coordinates": [
           -96.96573,
           33.242163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f189990e-63dc-5c67-8188-875f05bfda54",
+        "address": "1945-E-Mia-Ln-Gilbert-AZ-85298",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 3268,
+        "listed_at": "2026-10-21T23:50:05.000Z",
+        "days_on_market": "211",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.748141,
+          33.258092
         ]
       }
     },
