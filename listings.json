@@ -31357,6 +31357,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c77a245-e9c4-5283-81c7-7e1bb41f626a",
+        "address": "12795 79th Ct N",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3599,
+        "listed_at": "2026-10-21T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1050000,
+        "price_label": "$1.050M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.241575,
+          26.794376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c7ed9d5-296a-586d-b4f9-619a90e5346f",
         "address": "502-Live-Oaks-Ct-Fort-Mill-SC-29715",
         "beds": 4,
@@ -48808,6 +48829,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "93d121b7-94a9-5a12-9323-8afd137118f3",
+        "address": "5244 Dayan Dr",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 3391,
+        "listed_at": "2026-10-21T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.850041,
+          35.324955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "93d6a106-9fef-5429-a578-3c03ea367cbf",
         "address": "6295-S-Crane-Dr-Tucson-AZ-85757",
         "beds": 5,
@@ -52204,27 +52246,6 @@
         "coordinates": [
           -96.649094,
           32.867178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9dbcfe09-ce0f-5eba-98f5-51003067a6fc",
-        "address": "41219-Tava-Ln-Hemet-CA-92544",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1792,
-        "listed_at": "2026-09-29T06:04:49.000Z",
-        "days_on_market": "23",
-        "current_price": 473000,
-        "price_label": "$473K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.941934,
-          33.738688
         ]
       }
     },
@@ -59239,27 +59260,6 @@
         "coordinates": [
           -96.696819,
           33.162786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b1281cc3-c8c4-5509-983d-97c88319427a",
-        "address": "4636-Pine-Acre-Cir-Sugar-Hill-GA-30518",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1712,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "85",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.032656,
-          34.098274
         ]
       }
     },
