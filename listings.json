@@ -28207,6 +28207,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "529fd9f9-2ac2-5556-a939-08ceadf0855b",
+        "address": "4041-Browne-Ct-Conley-GA-30288",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1444,
+        "listed_at": "2026-10-21T17:10:05.000Z",
+        "days_on_market": "225",
+        "current_price": 172000,
+        "price_label": "$172K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352569,
+          33.645131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "52a79a19-cb46-5899-b240-80f8b5f3f9ea",
         "address": "1137 Harrison Crossroad Loop",
         "beds": 3,
@@ -70558,6 +70579,27 @@
         "coordinates": [
           -93.691554,
           32.416364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0a8e9e1-8a9c-506a-956a-35a0f7b60827",
+        "address": "11810 White Water Bay Dr",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2395,
+        "listed_at": "2026-10-21T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.404262,
+          29.555968
         ]
       }
     },
