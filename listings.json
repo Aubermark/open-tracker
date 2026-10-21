@@ -68947,6 +68947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ccc45e06-cdf1-563f-a08a-b2fe52cceca6",
+        "address": "4481-Forest-Trl-Cincinnati-OH-45244",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-10-21T15:30:05.000Z",
+        "days_on_market": "71",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.294311,
+          39.100141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ccc59cd6-3e4f-5e04-985d-a91ac461068f",
         "address": "745-Mount-Massive-St-Berthoud-CO-80513",
         "beds": 5,
