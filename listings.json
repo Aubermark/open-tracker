@@ -47590,27 +47590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9039f7a9-0c80-54ff-9841-5191dc99830c",
-        "address": "3648-Aja-Koren-Pl-El-Paso-TX-79938",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2214,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "89",
-        "current_price": 257000,
-        "price_label": "$257K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.255023,
-          31.797443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9053136f-6aba-5f3f-8086-06e5f20122a0",
         "address": "3739-Tranquility-Trl-Castle-Rock-CO-80109",
         "beds": 3,
@@ -71692,6 +71671,27 @@
         "coordinates": [
           -76.963685,
           38.878137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4307e2c-cf0f-598b-9b1d-af96b837c56e",
+        "address": "319 E Chippewa Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 816,
+        "listed_at": "2026-10-21T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.246124,
+          41.635467
         ]
       }
     },
