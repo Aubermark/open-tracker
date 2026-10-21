@@ -8530,6 +8530,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "183742d0-e56a-550e-9b92-fcdbc3b8dd56",
+        "address": "6403-83rd-Ct-N-Brooklyn-Park-MN-55445",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1187,
+        "listed_at": "2026-10-21T21:00:05.000Z",
+        "days_on_market": "29",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.363408,
+          45.105565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "185157b1-4848-5acf-85e7-a546118b1eda",
         "address": "4750-Backenberry-Dr-Friendswood-TX-77546",
         "beds": 3,
@@ -12598,27 +12619,6 @@
         "coordinates": [
           -106.573901,
           35.067143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "25cbeb45-58c7-5138-abcc-4bf23fd7fa9e",
-        "address": "17475 SW Eirwen St",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1425,
-        "listed_at": "2026-10-08T16:20:03.000Z",
-        "days_on_market": "13",
-        "current_price": 428000,
-        "price_label": "$428K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.857728,
-          45.497686
         ]
       }
     },
@@ -48976,27 +48976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "94579bd9-80f9-5624-a3f0-3a67dceb0e2f",
-        "address": "6218-Kingswood-Dr-Arlington-TX-76001",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2510,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "162",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.153082,
-          32.643706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "94606ec3-234b-52be-a5d8-7d93caddb64c",
         "address": "102-Carmel-Ct-Cary-NC-27511",
         "beds": 4,
@@ -56047,27 +56026,6 @@
         "coordinates": [
           -86.820318,
           34.744386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a7cd5a62-312e-543e-baa5-11258542c8e6",
-        "address": "3561-Rain-Forest-Dr-W-Jacksonville-FL-32277",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1188,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "57",
-        "current_price": 176000,
-        "price_label": "$176K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.573337,
-          30.364545
         ]
       }
     },
