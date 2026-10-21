@@ -51958,6 +51958,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9d1f3a86-32f1-5257-915b-34e25be94c0f",
+        "address": "1308 S State St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 754,
+        "listed_at": "2026-10-21T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62504,
+          35.762949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9d3b9b18-05f6-5030-8f4a-00532d294287",
         "address": "4002-S-Lazy-Palm-Dr-Tucson-AZ-85730",
         "beds": 3,
@@ -73105,27 +73126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d6518135-f8b6-5bb2-8041-9672eb0a26b9",
-        "address": "908 Heath Creek Dr",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3948,
-        "listed_at": "2026-10-09T08:20:03.000Z",
-        "days_on_market": "13",
-        "current_price": 480000,
-        "price_label": "$480K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.878935,
-          32.595017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
@@ -74695,27 +74695,6 @@
         "coordinates": [
           -118.458662,
           33.998383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dada7603-f60e-58e9-810c-a361a132ebe2",
-        "address": "453-Highlands-Ct-Augusta-GA-30907",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2179,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "85",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.066516,
-          33.531576
         ]
       }
     },
