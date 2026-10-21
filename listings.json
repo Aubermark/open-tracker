@@ -26464,6 +26464,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4dbfec80-a2b6-555b-8961-d6e462cc0e81",
+        "address": "8857 Lakeridge Ter",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2410,
+        "listed_at": "2026-10-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.610298,
+          33.762154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4dc8471e-2419-5ed8-bfb9-ae5f7c854702",
         "address": "429-Old-Speedway-Dr-Nw-Concord-NC-28027",
         "beds": 3,
@@ -53491,27 +53512,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a1a8471e-aeb1-57f7-8890-b4ce2e2c5ff7",
-        "address": "541-E-Main-St-Jamestown-IN-46147",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1993,
-        "listed_at": "2026-10-13T15:00:05.000Z",
-        "days_on_market": "62",
-        "current_price": 277000,
-        "price_label": "$277K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.622858,
-          39.923868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a1b1a56f-ce99-5392-bb4b-3b23a4001562",
         "address": "1515 Cherokee St",
         "beds": 4,
@@ -64138,27 +64138,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bf3bcaf1-f9e3-51cb-9e31-adb135cb279f",
-        "address": "215-W-Gano-Chance-Dr-Centralia-MO-65240",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1395,
-        "listed_at": "2026-10-16T17:10:05.000Z",
-        "days_on_market": "71",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.141719,
-          39.197414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bf3bcb4c-0598-5c79-8d8f-71c326a630fe",
         "address": "7508-Free-Ct-Charlotte-NC-28216",
         "beds": 3,
@@ -65125,6 +65104,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c1771733-06e2-595b-90f4-52d7d3cdebb3",
+        "address": "314-Colonial-Dr-Exton-PA-19341",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1708,
+        "listed_at": "2026-10-21T22:20:05.000Z",
+        "days_on_market": "41",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643483,
+          40.045306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c17947ee-0d80-5b1f-a7d5-b321823223f1",
         "address": "11327-Mounts-Run-Dr-Dallas-TX-75218",
         "beds": 5,
@@ -65938,6 +65938,27 @@
         "coordinates": [
           -78.279493,
           35.849712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3ca148f-8ebe-5e39-9438-b1530f909585",
+        "address": "1191 Cutler Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1056,
+        "listed_at": "2026-10-21T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.113586,
+          39.600048
         ]
       }
     },
