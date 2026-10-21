@@ -2818,6 +2818,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07be5eb2-0ba3-5d5a-838c-0af7545ce3e0",
+        "address": "695 Powell St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2082,
+        "listed_at": "2026-10-21T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.982038,
+          34.688567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07c2b001-b951-5039-b0ec-52da6decb16a",
         "address": "1886-Greenwood-Rd-Chattanooga-TN-37406",
         "beds": 3,
@@ -21634,6 +21655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fd6ff01-b84c-5aab-9da7-73bb625bfd7c",
+        "address": "2684-Piedmont-Oak-Dr-Marietta-GA-30066",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1860,
+        "listed_at": "2026-10-21T20:00:05.000Z",
+        "days_on_market": "33",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.504994,
+          34.014261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fdaa337-8894-57c2-86bb-6c9ffbd074c3",
         "address": "215-Laurel-Ln-Hemet-CA-92544",
         "beds": 3,
@@ -33373,27 +33415,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "623ad5a4-7754-53de-aa32-862e5df7209f",
-        "address": "3319-Newbliss-Cir-Ormond-Beach-FL-32174",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1957,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "139",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.135083,
-          29.387826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "624cf541-7c9e-5bb8-9414-9d21ceb34340",
         "address": "12212 Ashton Woods Ln",
         "beds": 5,
@@ -36076,27 +36097,6 @@
         "coordinates": [
           -81.264196,
           33.960914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6aa2f5f3-76ec-55a4-bcb4-02fca085fb41",
-        "address": "13706-N-144th-Dr-Surprise-AZ-85379",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2066,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "57",
-        "current_price": 426000,
-        "price_label": "$426K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.371139,
-          33.608444
         ]
       }
     },
@@ -80491,27 +80491,6 @@
         "coordinates": [
           -93.93449,
           36.90648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ecd7f5f4-271e-5d76-816d-97e6f2100168",
-        "address": "1308-E-12th-St-Casa-Grande-AZ-85122",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2512,
-        "listed_at": "2026-10-08T06:13:19.000Z",
-        "days_on_market": "149",
-        "current_price": 319000,
-        "price_label": "$319K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.730651,
-          32.886589
         ]
       }
     },
