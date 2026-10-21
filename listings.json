@@ -65209,6 +65209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c25c8e99-7bf4-53d1-b31d-de003b289097",
+        "address": "1825 NE 26th Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1520,
+        "listed_at": "2026-10-21T11:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 836000,
+        "price_label": "$836K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.122067,
+          26.160645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c25e6574-9f57-5246-a53d-ce4320d6f2ba",
         "address": "504-Ledyard-Ct-Wake-Forest-NC-27587",
         "beds": 4,
