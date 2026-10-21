@@ -75478,6 +75478,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "defae537-c205-5f6f-9603-f8a3a8b0a052",
+        "address": "1234 Catherwood Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1356,
+        "listed_at": "2026-10-21T07:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.230973,
+          41.630492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "df00bf2a-84c1-5c13-ac4f-859b987997c4",
         "address": "6704 Pony Express Trl",
         "beds": 3,
