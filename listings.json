@@ -60946,6 +60946,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b69f9655-61bc-5dc1-8caa-429f59269938",
+        "address": "4026 NW 10th Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1436,
+        "listed_at": "2026-10-21T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.203845,
+          26.137623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b6a8a257-f16c-53f6-a715-2f9d9709b615",
         "address": "9232-Ne-139th-St-Kirkland-WA-98034",
         "beds": 4,
