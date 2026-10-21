@@ -13066,6 +13066,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2771d23d-446f-5a73-9687-3a719d861676",
+        "address": "4305-Curlew-Ln-Garland-TX-75043",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3421,
+        "listed_at": "2026-10-21T16:00:05.000Z",
+        "days_on_market": "86",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.58983,
+          32.872138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27798fc7-3331-5922-af84-5446c4bd168d",
         "address": "1110 N Las Posas Ct",
         "beds": 3,
