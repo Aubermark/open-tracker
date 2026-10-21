@@ -33352,6 +33352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62cd9b94-1a7d-5b2c-b76f-b495187423c7",
+        "address": "3102 Knolewater Ct",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1649,
+        "listed_at": "2026-10-21T14:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 411000,
+        "price_label": "$411K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.902905,
+          38.595921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "62d3f7d7-8577-5e5d-92dd-1ae6477d908f",
         "address": "2011-Allyson-Dr-Heartland-TX-75126",
         "beds": 3,
@@ -74968,6 +74989,27 @@
         "coordinates": [
           -86.593431,
           36.208289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dcd7c5fd-0fb1-5346-9c20-f3cd84d65d54",
+        "address": "96533 Commodore Point Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1408,
+        "listed_at": "2026-10-21T14:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540748,
+          30.636216
         ]
       }
     },
