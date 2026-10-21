@@ -36817,6 +36817,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6cac76df-c684-5348-b45a-5b388eb3a9ab",
+        "address": "4516 W Lake Mead Blvd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1081,
+        "listed_at": "2026-10-21T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.202878,
+          36.197155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cd35340-9f1c-5f55-804d-afbe9e9a36e5",
         "address": "3176-Hagerty-Dr-Charleston-SC-29414",
         "beds": 4,
@@ -46225,6 +46246,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8ba08963-82f1-59c0-8015-a37345db7b2f",
+        "address": "6103 Horse Mill Pl",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3354,
+        "listed_at": "2026-10-21T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49251,
+          27.569252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8ba29488-776a-528f-8d28-e7d4e8f728f1",
         "address": "4815-Se-99th-Ave-Portland-OR-97266",
         "beds": 3,
@@ -52351,6 +52393,27 @@
         "coordinates": [
           -81.713747,
           41.434042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9e1091be-188f-5228-8cc8-860574f9f6a3",
+        "address": "6706 Falling Quail",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2105,
+        "listed_at": "2026-10-21T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.646192,
+          29.499577
         ]
       }
     },
@@ -65434,27 +65497,6 @@
         "coordinates": [
           -95.270687,
           38.940987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c246bbc6-4dd8-513e-8bf8-7b153f71c6de",
-        "address": "188-Forest-Walk-Way-Mooresville-NC-28115",
-        "beds": 6,
-        "baths": 3,
-        "sqft": 3318,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "68",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.776498,
-          35.608246
         ]
       }
     },
