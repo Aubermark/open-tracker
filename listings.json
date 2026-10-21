@@ -1537,6 +1537,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "033f46e4-e5db-5472-a942-a444e2ac295d",
+        "address": "724 Barkley Cir",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1806,
+        "listed_at": "2026-10-21T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.820244,
+          33.184652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0348ead0-e102-534a-b7fb-25b16a6b77b3",
         "address": "717 Silver Fox",
         "beds": 4,
