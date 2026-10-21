@@ -25519,6 +25519,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b0e27b3-fa58-56ab-b183-1c3115ea961e",
+        "address": "308-W-Winterberry-Trl-White-House-TN-37188",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2192,
+        "listed_at": "2026-10-21T23:30:05.000Z",
+        "days_on_market": "41",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.687525,
+          36.488499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b3ffb59-d30a-5969-b97e-ce9d715526cd",
         "address": "31 Berneri Dr",
         "beds": 3,
@@ -52792,6 +52813,27 @@
         "coordinates": [
           -94.676038,
           38.867016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f99f346-6cfc-5a69-a8ad-3a14e7229a1e",
+        "address": "403-Buckingham-Blvd-Gallatin-TN-37066",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1971,
+        "listed_at": "2026-10-21T23:30:05.000Z",
+        "days_on_market": ">241",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.496792,
+          36.398781
         ]
       }
     },
