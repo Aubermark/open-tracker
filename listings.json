@@ -47947,6 +47947,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "913a2961-0fae-5978-b61c-ffbc79f9178f",
+        "address": "9886 SE 38th Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1001,
+        "listed_at": "2026-10-21T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.623264,
+          45.451672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "914e4e03-5424-579e-a9e7-ed7c85121aed",
         "address": "4720-Topsail-Ct-Charlotte-NC-28212",
         "beds": 3,
