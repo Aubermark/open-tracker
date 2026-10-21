@@ -62353,6 +62353,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9d4e8ec-9491-5bb8-ae1a-fba8db7cf0d2",
+        "address": "840-Highland-Crest-Dr-Nashville-TN-37205",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3471,
+        "listed_at": "2026-10-21T16:30:05.000Z",
+        "days_on_market": "34",
+        "current_price": 805000,
+        "price_label": "$805K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.892407,
+          36.082245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9e76dc3-66f6-5a97-a7c4-9d83a2398cb7",
         "address": "2528-N-Comiskey-Dr-Florence-AZ-85132",
         "beds": 4,
@@ -77152,6 +77173,27 @@
         "coordinates": [
           -84.478913,
           34.300954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e38d2185-ed06-5013-839b-a4573f6ef503",
+        "address": "4921 Yorktown Rd",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1400,
+        "listed_at": "2026-10-21T16:30:05.000Z",
+        "days_on_market": "12",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70729,
+          36.062908
         ]
       }
     },
