@@ -4477,27 +4477,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0c1e0455-dbed-5d56-8cb7-7291ae4b00ac",
-        "address": "408-Walker-St-Roxboro-NC-27573",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1274,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "44",
-        "current_price": 115000,
-        "price_label": "$115K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.984364,
-          36.40263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0c2dfd61-d2f1-5051-bdcf-59b2063e53d2",
         "address": "900-Treyburn-Run-Alpharetta-GA-30004",
         "beds": 6,
@@ -45700,27 +45679,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "89ede8c9-a3bd-56e5-9c4d-e6cef740ba85",
-        "address": "250-S-Central-St-Atlanta-IN-46031",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1782,
-        "listed_at": "2026-09-22T06:40:03.000Z",
-        "days_on_market": "30",
-        "current_price": 115000,
-        "price_label": "$115K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.022686,
-          40.213776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8a055d5b-340e-578f-a521-b4471ee7e57e",
         "address": "16627-Carse-Ave-Harvey-IL-60426",
         "beds": 3,
@@ -84355,6 +84313,27 @@
         "coordinates": [
           -78.870653,
           35.627188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8d34181-4491-5dc3-9218-0f080e18d8a7",
+        "address": "96 Ashtonbrook Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2116,
+        "listed_at": "2026-10-21T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.116769,
+          33.563112
         ]
       }
     },
