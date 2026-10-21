@@ -16027,6 +16027,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "302ce490-f96b-53fc-84da-38a737cac687",
+        "address": "1572 Deerfield Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1817,
+        "listed_at": "2026-10-21T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 322000,
+        "price_label": "$322K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.228825,
+          28.907207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3034c4c8-dc9d-529e-b752-57e0900da237",
         "address": "2703 Fern Willow Ct",
         "beds": 4,
@@ -18961,6 +18982,27 @@
         "coordinates": [
           -96.594212,
           32.940415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39492eb5-22b8-5d5d-936d-8b9c0b24a90d",
+        "address": "14337 Saltby Pl",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2075,
+        "listed_at": "2026-10-21T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.488319,
+          28.441933
         ]
       }
     },
