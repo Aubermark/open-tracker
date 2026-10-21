@@ -7501,6 +7501,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "150b6f83-24a2-5045-b500-b318fa20eab0",
+        "address": "3 Emerald Trail Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-10-21T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.004503,
+          29.081026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "151580ee-c68f-5ea2-a552-a8154e6c7d83",
         "address": "2308-E-69th-St-Indianapolis-IN-46220",
         "beds": 2,
@@ -23224,6 +23245,27 @@
         "coordinates": [
           -82.532222,
           35.525555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "44344a92-decd-5e92-9378-c0c9f8790836",
+        "address": "8801 SE 89th St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 912,
+        "listed_at": "2026-10-21T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 138000,
+        "price_label": "$138K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.004457,
+          29.09144
         ]
       }
     },
