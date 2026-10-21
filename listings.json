@@ -991,27 +991,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "021fe4d5-4a4c-517b-ae93-a5555edb68a0",
-        "address": "3192 Wild Dunes Ct",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1212,
-        "listed_at": "2026-10-17T18:40:06.000Z",
-        "days_on_market": "15",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.794808,
-          39.919721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "022301b9-468a-538b-83c1-fd64791bd84a",
         "address": "704-Morningside-Dr-Mount-Holly-NC-28120-9168436",
         "beds": 2,
@@ -5332,6 +5311,27 @@
         "coordinates": [
           -80.368447,
           34.991117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0e8c5611-0d4f-5a26-8435-a1177489fefb",
+        "address": "2059 N Eureka Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-10-21T22:00:05.000Z",
+        "days_on_market": "12",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.389269,
+          43.623472
         ]
       }
     },
@@ -49432,27 +49432,6 @@
         "coordinates": [
           -75.721127,
           39.601986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9554297a-635f-5787-be49-6019da2ca64c",
-        "address": "106-Old-Georgia-Rd-Pelzer-SC-29669",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2072,
-        "listed_at": "2026-10-11T15:50:04.000Z",
-        "days_on_market": "74",
-        "current_price": 260000,
-        "price_label": "$260K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.449674,
-          34.642869
         ]
       }
     },
