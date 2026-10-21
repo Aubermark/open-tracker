@@ -31252,27 +31252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5c4a2ff5-4ccb-5189-95d0-fbc585ceab12",
-        "address": "1100 Timber Ridge Rd",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1918,
-        "listed_at": "2026-10-18T08:03:19.000Z",
-        "days_on_market": "4",
-        "current_price": 393000,
-        "price_label": "$393K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.506072,
-          33.921978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5c4c3fb5-896d-532e-8cc0-520e52944655",
         "address": "6232-Wittenham-Way-Orangevale-CA-95662",
         "beds": 4,
@@ -44734,6 +44713,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8690cde7-ea3f-5232-a15e-169caf894425",
+        "address": "10133 Cumberland Pointe Blvd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1907,
+        "listed_at": "2026-10-21T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.988067,
+          40.01486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8696abf5-de1a-5886-83d9-4410c9ea4897",
         "address": "3903 Kenn Ct",
         "beds": 4,
@@ -50503,27 +50503,6 @@
         "coordinates": [
           -83.925581,
           34.039134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "983f4379-22f6-5740-a31f-2db13a19a08d",
-        "address": "37601 Ficus Ct",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2333,
-        "listed_at": "2026-10-16T06:53:09.000Z",
-        "days_on_market": "6",
-        "current_price": 575000,
-        "price_label": "$575K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.175432,
-          34.565404
         ]
       }
     },
