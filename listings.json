@@ -63109,6 +63109,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bd2ed5d8-5751-50bf-8b9e-5ca39a47eaaf",
+        "address": "162 Ashby St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2366,
+        "listed_at": "2026-10-21T06:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.763815,
+          33.121551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bd4058b4-8520-55b8-aa2d-891aab7f1257",
         "address": "16148 W Glenrosa Ave",
         "beds": 4,
