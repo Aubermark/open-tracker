@@ -21802,6 +21802,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "402baffe-fb98-548e-a50b-7fb2730e3f8c",
+        "address": "11239-Twin-Spires-Dr-Flint-TX-75762",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1532,
+        "listed_at": "2026-10-21T20:30:05.000Z",
+        "days_on_market": "65",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35728,
+          32.194908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4032c5f6-a349-56cd-9753-bb4cfdbf81dc",
         "address": "2040-S-Longmore-Unit-39-Mesa-AZ-85202",
         "beds": 3,
