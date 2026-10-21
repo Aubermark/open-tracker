@@ -8131,6 +8131,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16fc3d3a-2e7e-5eb1-a023-30b808e79077",
+        "address": "725-Lawson-Dr-Westerville-OH-43081",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1484,
+        "listed_at": "2026-10-21T13:20:06.000Z",
+        "days_on_market": "61",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97977,
+          40.126587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "170edfc8-7e95-5803-8300-c76d5127fc27",
         "address": "816-Hilltop-Ln-Mount-Jackson-VA-22842",
         "beds": 2,
