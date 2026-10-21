@@ -63802,6 +63802,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
+        "address": "5708-Maxfli-Dr-Schertz-TX-78108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-10-21T11:50:06.000Z",
+        "days_on_market": "195",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.221246,
+          29.619438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bf018758-265c-5ec7-aba0-94e82a278ec4",
         "address": "3692-Armstrong-Rd-Springfield-TN-37172",
         "beds": 3,
@@ -71860,6 +71881,27 @@
         "coordinates": [
           -86.11316,
           39.735041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4a9c549-2010-5893-860c-886ad2312e9b",
+        "address": "20646-Wahl-Ln-Garden-Ridge-TX-78266",
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 4920,
+        "listed_at": "2026-10-21T11:50:06.000Z",
+        "days_on_market": "148",
+        "current_price": 872000,
+        "price_label": "$872K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.293573,
+          29.63387
         ]
       }
     },
