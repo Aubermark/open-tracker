@@ -31357,6 +31357,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c73a644-0a0c-511e-91f2-112514f02dab",
+        "address": "11605-Harold-Dr-Cleveland-OH-44130",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1611,
+        "listed_at": "2026-10-21T19:00:05.000Z",
+        "days_on_market": "138",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.769259,
+          41.361872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c7ed9d5-296a-586d-b4f9-619a90e5346f",
         "address": "502-Live-Oaks-Ct-Fort-Mill-SC-29715",
         "beds": 4,
@@ -45862,6 +45883,27 @@
         "coordinates": [
           -82.456935,
           28.16876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8ac659c7-bf27-5478-bead-0c12ae48ce81",
+        "address": "4513 Pintail Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1477,
+        "listed_at": "2026-10-21T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.490535,
+          35.848318
         ]
       }
     },
