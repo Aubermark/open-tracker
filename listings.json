@@ -71929,27 +71929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d451bcc4-8bc1-5ce3-b545-d271a74f15c5",
-        "address": "68-Arbor-Trce-Charleston-SC-29414",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1506,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "93",
-        "current_price": 399000,
-        "price_label": "$399K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.07688,
-          32.844375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d4647bee-37da-5641-bc46-9997a7c7394b",
         "address": "1901-20th-Ave-N-Saint-Petersburg-FL-33713",
         "beds": 2,
@@ -84859,6 +84838,27 @@
         "coordinates": [
           -81.113335,
           33.972949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa328db3-c895-54c7-b24b-1c5a2264194a",
+        "address": "3110 SE 18th Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 815,
+        "listed_at": "2026-10-22T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 435000,
+        "price_label": "$435K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.647484,
+          45.500441
         ]
       }
     },
