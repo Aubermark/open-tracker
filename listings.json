@@ -45259,6 +45259,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88adce42-d52a-57a3-ad79-289d488babef",
+        "address": "5640 Boulder Crest St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2744,
+        "listed_at": "2026-10-22T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 413000,
+        "price_label": "$413K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.073024,
+          40.071172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "88b0a21e-89b2-5926-94fe-777befcc4895",
         "address": "2211-Dana-Dr-Flower-Mound-TX-75028",
         "beds": 4,
