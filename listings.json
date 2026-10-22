@@ -48178,6 +48178,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9195247a-dd3c-51f9-abad-730950216e89",
+        "address": "1405-Luke-Ln-Norman-OK-73072",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1855,
+        "listed_at": "2026-10-22T17:10:04.000Z",
+        "days_on_market": "106",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.420984,
+          35.173905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91a54091-f030-5290-8981-254f6f38cb14",
         "address": "808-Griffin-St-Mc-Kinney-TX-75069",
         "beds": 3,
