@@ -8719,6 +8719,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "189a93f7-3b66-5e25-96a6-89da093c07aa",
+        "address": "1601 Helen St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 888,
+        "listed_at": "2026-10-22T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.313903,
+          42.298735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "189d5cad-630d-5991-a36b-5a139431bbd1",
         "address": "2219-Arrington-St-Durham-NC-27707",
         "beds": 3,
@@ -59827,27 +59848,6 @@
         "coordinates": [
           -95.423823,
           30.068031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b32de766-8a8e-5b48-ba1b-9f6925b82a10",
-        "address": "303-Bradford-Ln-Columbia-SC-29223",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1500,
-        "listed_at": "2026-08-27T18:30:05.000Z",
-        "days_on_market": "105",
-        "current_price": 238000,
-        "price_label": "$238K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.885271,
-          34.125421
         ]
       }
     },
