@@ -39505,6 +39505,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "770c375f-1f46-5bbf-aac1-799067bbe62c",
+        "address": "113 N Lake Rd",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1331,
+        "listed_at": "2026-10-22T07:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.177044,
+          40.650462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7737000b-3005-53b8-a905-d9128c993c3a",
         "address": "1119 Ridenour Ct NW",
         "beds": 4,
