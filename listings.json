@@ -2272,6 +2272,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "069b1d28-328e-53fb-8a1f-e37a2c134171",
+        "address": "4203 Old Cahaba Pkwy",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2088,
+        "listed_at": "2026-10-22T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.882096,
+          33.275197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "069d278c-c468-5eb2-a3a4-d6ad949ef43b",
         "address": "110-N-Delaware-Blvd-Apt-10-C-Jupiter-FL-33458",
         "beds": 2,
@@ -32653,6 +32674,27 @@
         "coordinates": [
           -80.997511,
           34.033695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6034ad97-550e-5b10-bb2f-60f6fc2e6bc3",
+        "address": "4273 NE 29th Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1670,
+        "listed_at": "2026-10-22T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.076903,
+          29.216418
         ]
       }
     },
