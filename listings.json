@@ -65860,6 +65860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c43db27e-398c-5545-9c25-5c2534cbe88e",
+        "address": "2322 Ruckert Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1092,
+        "listed_at": "2026-10-22T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.402282,
+          38.700187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c4437e0f-9818-5332-b4f6-1403396f5500",
         "address": "781-W-Flintlock-Way-Chandler-AZ-85286",
         "beds": 4,
