@@ -20227,6 +20227,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c639db0-ffda-56b3-b628-916850df940f",
+        "address": "750 Celtic Crossing Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2155,
+        "listed_at": "2026-10-22T16:50:05.000Z",
+        "days_on_market": "13",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04181,
+          35.986896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c656f29-a80f-5415-bcf4-3cb939352f5e",
         "address": "6728-Collisi-Pl-Brownsburg-IN-46112",
         "beds": 5,
@@ -21523,6 +21544,27 @@
         "coordinates": [
           -122.343244,
           47.690788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3fcc00a5-045e-5b42-9bdf-407e612f7847",
+        "address": "1341 N Clark St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1512,
+        "listed_at": "2026-10-22T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 436000,
+        "price_label": "$436K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.055269,
+          45.522445
         ]
       }
     },
