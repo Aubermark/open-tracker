@@ -54184,6 +54184,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a3498b20-a094-5100-b5a6-4826bf7b2f30",
+        "address": "220-Grand-Meadow-Dr-Fort-Worth-TX-76108",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1856,
+        "listed_at": "2026-10-22T18:30:05.000Z",
+        "days_on_market": "62",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.495634,
+          32.756889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a35fc5dd-9faa-5a55-9ed4-22a30a63593e",
         "address": "1728-Jacona-Trl-Fort-Worth-TX-76131",
         "beds": 3,
@@ -81583,27 +81604,6 @@
         "coordinates": [
           -77.002445,
           38.989675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f0774c59-93fd-5076-b044-80ccf42474e7",
-        "address": "23615-Stargazer-Pt-Spring-TX-77373",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1851,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "55",
-        "current_price": 247000,
-        "price_label": "$247K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.402251,
-          30.049327
         ]
       }
     },
