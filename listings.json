@@ -50341,6 +50341,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "983f4379-22f6-5740-a31f-2db13a19a08d",
+        "address": "37601 Ficus Ct",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2333,
+        "listed_at": "2026-10-22T16:40:05.000Z",
+        "days_on_market": "7",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175432,
+          34.565404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "985d44d5-bdf1-592d-93ee-f6611da004d2",
         "address": "6616-Amanda-Cir-Fayetteville-NC-28304",
         "beds": 4,
@@ -57727,27 +57748,6 @@
         "coordinates": [
           -84.375155,
           39.441311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ae069355-044b-51b3-bc1d-fad835e116bc",
-        "address": "10116-Chesney-Dr-Spotsylvania-VA-22553",
-        "beds": 6,
-        "baths": 3,
-        "sqft": 2700,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "34",
-        "current_price": 480000,
-        "price_label": "$480K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.542034,
-          38.237274
         ]
       }
     },
