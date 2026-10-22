@@ -9454,27 +9454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1a89f84d-c594-5874-a344-be665f1a01ee",
-        "address": "235 Hillside Oak Ln",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3546,
-        "listed_at": "2026-10-16T07:30:04.000Z",
-        "days_on_market": "7",
-        "current_price": 358000,
-        "price_label": "$358K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.923481,
-          33.593862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1abb004b-94ea-5e3b-8fb8-2e4a6c05eb3e",
         "address": "1305-Aubry-Dr-Moncks-Corner-SC-29461",
         "beds": 3,
@@ -21928,6 +21907,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "404d80e6-3e4e-5884-a166-59b5bead253f",
+        "address": "1105 Old Loganville Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1671,
+        "listed_at": "2026-10-22T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.944959,
+          33.834617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "404de755-e877-5fd4-a2b3-9a8e4c949f7e",
         "address": "3950-Skyland-Blvd-E-Tuscaloosa-AL-35405",
         "beds": 3,
@@ -34060,27 +34060,6 @@
         "coordinates": [
           -80.680146,
           35.117842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "640c4eb9-1ea1-5bae-a49f-5932301757d7",
-        "address": "5706-W-T-Ryan-Ln-Laveen-AZ-85339",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2260,
-        "listed_at": "2026-09-23T18:50:03.000Z",
-        "days_on_market": "29",
-        "current_price": 441000,
-        "price_label": "$441K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.180415,
-          33.390044
         ]
       }
     },
@@ -79672,6 +79651,27 @@
         "coordinates": [
           -84.193753,
           34.104277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb0188b0-851b-5ac7-8015-6ccef69ec1d8",
+        "address": "2916-Woodslope-Dr-Raleigh-NC-27610",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2338,
+        "listed_at": "2026-10-22T21:30:05.000Z",
+        "days_on_market": "45",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.521943,
+          35.727506
         ]
       }
     },
