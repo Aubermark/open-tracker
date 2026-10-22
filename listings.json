@@ -33352,6 +33352,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "623ad5a4-7754-53de-aa32-862e5df7209f",
+        "address": "3319-Newbliss-Cir-Ormond-Beach-FL-32174",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1957,
+        "listed_at": "2026-10-22T19:20:06.000Z",
+        "days_on_market": "140",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.135083,
+          29.387826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "624cf541-7c9e-5bb8-9414-9d21ceb34340",
         "address": "12212 Ashton Woods Ln",
         "beds": 5,
