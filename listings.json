@@ -46225,6 +46225,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bc7149c-8f2b-5e0b-a590-5bd8389e0171",
+        "address": "714-Bolling-Ln-Houston-TX-77076",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1800,
+        "listed_at": "2026-10-22T17:40:05.000Z",
+        "days_on_market": "63",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388544,
+          29.846995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bc9e813-85b3-535c-974d-8684485f5343",
         "address": "432 Southgate Dr",
         "beds": 3,
