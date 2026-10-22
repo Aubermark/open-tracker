@@ -33100,27 +33100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6160fb59-d41e-5359-b7b4-a27f80d913bb",
-        "address": "5148-Roxborough-Dr-Hermitage-TN-37076",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2243,
-        "listed_at": "2026-08-13T05:38:23.000Z",
-        "days_on_market": "210",
-        "current_price": 422000,
-        "price_label": "$422K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.582003,
-          36.168233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "61734649-6332-5cce-bf5e-2301cd618520",
         "address": "4320-Southvale-Dr-Decatur-GA-30034",
         "beds": 3,
@@ -43195,6 +43174,27 @@
         "coordinates": [
           -120.281004,
           47.419927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "825381e8-285f-5074-92bd-8fc8c3fc3ce4",
+        "address": "2205-Adair-Dr-Knoxville-TN-37918",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1506,
+        "listed_at": "2026-10-22T15:50:05.000Z",
+        "days_on_market": "92",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.935696,
+          36.020882
         ]
       }
     },
