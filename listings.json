@@ -319,6 +319,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00bf6948-d420-5b59-a963-a21ce70ba7fe",
+        "address": "6526 Engle Rd",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1478,
+        "listed_at": "2026-10-22T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824083,
+          41.390269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00c01b9c-b07f-52f4-952f-6d7dfbcf63f0",
         "address": "13638-Evelane-Dr-Hudson-FL-34667",
         "beds": 3,
@@ -75367,27 +75388,6 @@
         "coordinates": [
           -79.945042,
           35.973463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "de52350a-c6be-5649-8e39-d0b55a33bbf3",
-        "address": "645 10th Pl",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1125,
-        "listed_at": "2026-10-16T06:53:10.000Z",
-        "days_on_market": "7",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.698257,
-          27.996166
         ]
       }
     },
