@@ -14242,6 +14242,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ade97a5-116c-59b6-ac54-b1b6aef577f5",
+        "address": "643 Akins Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1214,
+        "listed_at": "2026-10-22T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.396772,
+          34.754226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ae4dfc2-7b71-553b-864c-f2931627db5a",
         "address": "90-Ascott-Trce-Covington-GA-30016",
         "beds": 4,
@@ -44167,27 +44188,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "859620bd-f376-56cb-9606-39bc94c98643",
-        "address": "897 Stone Gate Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1750,
-        "listed_at": "2026-10-13T15:50:03.000Z",
-        "days_on_market": "9",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.591394,
-          38.154161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "85a230fe-5a86-501a-85d5-dccca62aee1a",
         "address": "956-Meda-Ave-Lancaster-OH-43130",
         "beds": 2,
@@ -47164,6 +47164,27 @@
         "coordinates": [
           -83.278656,
           42.365598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8e50906b-857c-5433-ae5a-2690676d7491",
+        "address": "5621 E Fort Lowell Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2013,
+        "listed_at": "2026-10-22T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 595000,
+        "price_label": "$595K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.872761,
+          32.261804
         ]
       }
     },
@@ -86266,27 +86287,6 @@
         "coordinates": [
           -83.187123,
           42.471972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ff7fbcce-9dcb-5367-8676-c0d8080d8c3f",
-        "address": "6-Newport-Ln-Willingboro-NJ-08046",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1595,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "143",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.861215,
-          40.033804
         ]
       }
     },
