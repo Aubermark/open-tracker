@@ -5548,6 +5548,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0f9e3f1b-6c9c-5369-abb7-7e25a582eb66",
+        "address": "1375-Nw-South-Hicks-Cir-Conyers-GA-30012",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1300,
+        "listed_at": "2026-10-22T14:40:05.000Z",
+        "days_on_market": "100",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.017176,
+          33.680104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fb7c20d-a141-57ed-aff4-4e4b4754fd65",
         "address": "2039-Slippery-Rock-Cir-Sevierville-TN-37862",
         "beds": 3,
