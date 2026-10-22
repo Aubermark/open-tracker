@@ -34843,6 +34843,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66993a85-f952-5114-af16-96d0a51c0571",
+        "address": "3168 Mavisbank Cir",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2470,
+        "listed_at": "2026-10-22T21:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.925089,
+          35.713346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "669c5db7-66dd-5523-91f5-e593326278c4",
         "address": "210-Pinewood-Ln-Stockbridge-GA-30281",
         "beds": 3,
