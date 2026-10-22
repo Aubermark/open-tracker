@@ -5002,6 +5002,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d9fdce2-9b72-5082-a360-6b0d268a2a90",
+        "address": "532 Savannah Preserve Loop",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2092,
+        "listed_at": "2026-10-22T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.625544,
+          28.151518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dc1f109-5c20-58d2-840e-8814b13d8d18",
         "address": "4334 Highway 20 SE",
         "beds": 3,
