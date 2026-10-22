@@ -1264,6 +1264,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02a79cfb-00d5-5e40-b70e-c2c4a307cf67",
+        "address": "453 Carruthers Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1786,
+        "listed_at": "2026-10-22T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.446231,
+          41.089096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02beb63f-90b2-59ea-98df-7b38c57b6b32",
         "address": "2432-Sunflower-Dr-Evans-GA-30809",
         "beds": 5,
@@ -14131,6 +14152,27 @@
         "coordinates": [
           -89.886088,
           38.728731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2ac3c876-367e-57c8-a059-4469e06c5f7c",
+        "address": "920-S-Palmetto-Ave-Apt-9-Ontario-CA-91762",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 686,
+        "listed_at": "2026-10-22T15:00:05.000Z",
+        "days_on_market": "166",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.668049,
+          34.053731
         ]
       }
     },
@@ -27655,6 +27697,27 @@
         "coordinates": [
           -86.928416,
           33.468056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "51e42349-6494-5f0f-852e-30a8751be251",
+        "address": "7-Bunker-Rd-Rotonda-West-FL-33947",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2214,
+        "listed_at": "2026-10-22T15:00:05.000Z",
+        "days_on_market": "35",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.294805,
+          26.894776
         ]
       }
     },
