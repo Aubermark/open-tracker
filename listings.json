@@ -25372,6 +25372,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "49c38e99-9268-59a3-a079-430078ca4c34",
+        "address": "230 Phillips St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2450,
+        "listed_at": "2026-10-23T12:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 278000,
+        "price_label": "$278K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.550298,
+          30.56523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "49eccba7-4eba-571d-a5e7-0704c4d7eab2",
         "address": "7116-Tina-Dr-Indianapolis-IN-46214",
         "beds": 4,
