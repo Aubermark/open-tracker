@@ -39841,6 +39841,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75d8ce68-5728-5488-b45d-615e4ad3f30f",
+        "address": "1315 Saturn Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 808,
+        "listed_at": "2026-10-23T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.699213,
+          36.119748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75ecd7e1-5e2d-5235-9f4d-bcb6900ea434",
         "address": "1959-Wood-Shadows-Dr-Missouri-City-TX-77489",
         "beds": 2,
@@ -86497,6 +86518,27 @@
         "coordinates": [
           -98.209896,
           29.738944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb483edb-b036-5f37-9d5f-f1b25241d311",
+        "address": "516 Founders Creek Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2011,
+        "listed_at": "2026-10-23T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.149204,
+          36.286302
         ]
       }
     },
