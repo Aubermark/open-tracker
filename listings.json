@@ -5044,6 +5044,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0d7bfa81-18d8-5e77-90c2-4993ffb7f866",
+        "address": "5 Gilmore Farm Rd",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 2325,
+        "listed_at": "2026-10-23T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.625962,
+          42.236108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0d86f52e-f9f2-5b60-b375-26c164294424",
         "address": "4570-Old-Cowan-Rd-Acworth-GA-30101",
         "beds": 2,
@@ -13186,27 +13207,6 @@
         "coordinates": [
           -78.794692,
           35.774027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "273d7047-34c4-5353-b139-1402ce32ea96",
-        "address": "4307-Greenwood-Dr-Portsmouth-VA-23701",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1746,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "95",
-        "current_price": 275000,
-        "price_label": "$275K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.367585,
-          36.800063
         ]
       }
     },
@@ -78643,6 +78643,27 @@
         "coordinates": [
           -86.490745,
           35.785467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4de2d75-fb0a-5ed4-b512-06124f9dec9f",
+        "address": "1121 5th St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1032,
+        "listed_at": "2026-10-23T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 448000,
+        "price_label": "$448K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.235586,
+          38.08073
         ]
       }
     },
