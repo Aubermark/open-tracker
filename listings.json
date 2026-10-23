@@ -15586,6 +15586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d77ee0b-2bb8-5130-9523-679036620d40",
+        "address": "705 Keystone Park Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1688,
+        "listed_at": "2026-10-23T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 272000,
+        "price_label": "$272K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.853885,
+          35.870904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d8d2288-43ae-59f9-8ce9-1fb52b38c8bb",
         "address": "13-Trinity-Three-Ct-Irmo-SC-29063",
         "beds": 3,
@@ -24148,6 +24169,27 @@
         "coordinates": [
           -86.082822,
           39.49645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "456136e3-22a3-543e-8408-dc89e30d4896",
+        "address": "7006 Wandering Creek Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1408,
+        "listed_at": "2026-10-23T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 289000,
+        "price_label": "$289K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.911021,
+          35.302461
         ]
       }
     },
