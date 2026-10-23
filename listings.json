@@ -130,27 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "007c53b5-d1e3-5839-a32f-d900cf88f70b",
-        "address": "8965 Grampian Dr N",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1263,
-        "listed_at": "2026-10-16T19:50:03.000Z",
-        "days_on_market": "7",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.561044,
-          30.298568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0084be4e-236a-5bc2-bc0e-e8891286e097",
         "address": "275-Forrest-Ave-Fayetteville-GA-30214",
         "beds": 4,
@@ -2644,6 +2623,27 @@
         "coordinates": [
           -83.972728,
           34.07481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "072f90b1-a673-5288-8d04-919a6d9e2099",
+        "address": "11920-Hassop-Ln-Burleson-TX-76028",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2058,
+        "listed_at": "2026-10-23T22:00:06.000Z",
+        "days_on_market": "84",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.291391,
+          32.583267
         ]
       }
     },
@@ -69424,27 +69424,6 @@
         "coordinates": [
           -84.385723,
           33.735782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cb282b8f-a05f-5181-8a20-62fb7edb2913",
-        "address": "5015 E Desert Forest Trl",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1944,
-        "listed_at": "2026-10-16T20:00:03.000Z",
-        "days_on_market": "7",
-        "current_price": 482000,
-        "price_label": "$482K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.972649,
-          33.781765
         ]
       }
     },
