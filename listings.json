@@ -2209,6 +2209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05fcecaf-c68f-50c9-bd93-ec9defea16b7",
+        "address": "6814 Corybus St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2108,
+        "listed_at": "2026-10-23T12:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 720000,
+        "price_label": "$720K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.656225,
+          34.021675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "062124e2-4406-50c4-a83c-e82db02e07fd",
         "address": "11569-Viking-Ave-Porter-Ranch-CA-91326",
         "beds": 3,
