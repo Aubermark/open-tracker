@@ -4666,6 +4666,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0c5885ba-a640-5dd0-9352-2961294baa67",
+        "address": "7515 Vienna Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1365,
+        "listed_at": "2026-10-23T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6904,
+          28.292577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0c7f4f2a-58da-593f-80b6-8f4310dcf8f4",
         "address": "3075-E-Long-Cir-S-Centennial-CO-80122",
         "beds": 4,
@@ -5773,27 +5794,6 @@
         "coordinates": [
           -86.486393,
           33.601616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0ffeef14-3681-580e-806d-f66e64cf80e7",
-        "address": "1421-Prairie-Lake-Ct-Carrollton-TX-75010",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2704,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "57",
-        "current_price": 613000,
-        "price_label": "$613K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.886651,
-          33.052519
         ]
       }
     },
