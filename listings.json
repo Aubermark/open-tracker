@@ -676,6 +676,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "017863e8-3b00-57e1-b70f-7134ebe49cb1",
+        "address": "515 High St",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1810,
+        "listed_at": "2026-10-23T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.024228,
+          38.555905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "017a8a2a-0a9e-50bf-a080-67ac05a018da",
         "address": "4782 Witches Hollow Ln",
         "beds": 3,
@@ -84166,27 +84187,6 @@
         "coordinates": [
           -97.162618,
           32.722925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f484cc55-bfa4-5506-a575-6b8a6ddcbd56",
-        "address": "10273-Olathe-St-Commerce-City-CO-80022",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1506,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "29",
-        "current_price": 475000,
-        "price_label": "$475K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.792796,
-          39.882405
         ]
       }
     },
