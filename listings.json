@@ -14452,6 +14452,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b1e91e0-e54b-514a-bbc3-9db05dcce11a",
+        "address": "2043 Pinecrest Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1188,
+        "listed_at": "2026-10-23T06:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.704625,
+          36.04647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b25b2ef-f4b8-5e7c-86a7-e2ae0c18ee20",
         "address": "2648-Hunt-St-New-Braunfels-TX-78130",
         "beds": 4,
@@ -37825,6 +37846,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7096d3ad-0e2a-52c4-8415-807dc5cd98d2",
+        "address": "2319 Forrest Fields Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1232,
+        "listed_at": "2026-10-23T06:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.697281,
+          35.609777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7097ff55-46e0-52d2-8fd2-1793aa3429bf",
         "address": "8006-Scarlet-Tanager-Dr-Humble-TX-77396",
         "beds": 4,
@@ -58462,6 +58504,27 @@
         "coordinates": [
           -78.709546,
           35.850339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aeb86741-268b-57f4-9cc8-02ce2594929a",
+        "address": "142 Generals Way Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2020,
+        "listed_at": "2026-10-23T06:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 671000,
+        "price_label": "$671K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.855293,
+          35.897736
         ]
       }
     },
