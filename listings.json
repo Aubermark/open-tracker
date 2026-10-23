@@ -31210,6 +31210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b7cfa97-246f-5b72-9ffc-f7b4180211ad",
+        "address": "16069 Augusta Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1883,
+        "listed_at": "2026-10-23T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.715292,
+          33.961292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b8ffddb-5691-5ad3-865d-0f63a456a3d5",
         "address": "3515-S-Adelle-Mesa-AZ-85212",
         "beds": 3,
@@ -83515,27 +83536,6 @@
         "coordinates": [
           -81.442512,
           41.402807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f393088c-6ac9-526d-accd-e63ce77027b4",
-        "address": "600 S Dobson Terrace",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 989,
-        "listed_at": "2026-10-14T18:10:04.000Z",
-        "days_on_market": "9",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.875311,
-          33.403172
         ]
       }
     },
