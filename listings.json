@@ -43852,6 +43852,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "82b6fe1b-d24f-5df3-979c-a1dd2f419755",
+        "address": "124 Lonesome Dove Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2742,
+        "listed_at": "2026-10-23T14:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 307000,
+        "price_label": "$307K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.446853,
+          32.75099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "82c73e14-05f0-57b3-b87b-9e70977c98f2",
         "address": "1623-W-Pleasant-Dr-Midlothian-TX-76065",
         "beds": 4,
@@ -69892,6 +69913,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd1d7b1e-e63a-57d7-bc94-03c8bab8bb52",
+        "address": "5 Brookfield Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2568,
+        "listed_at": "2026-10-23T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.230589,
+          39.564903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd26cef5-1242-5d27-8f50-47cc7f96e1eb",
         "address": "515-Teresa-Ln-Canton-GA-30115",
         "beds": 4,
@@ -70789,6 +70831,27 @@
         "coordinates": [
           -111.637566,
           33.47405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cfe4d3c6-ab13-5973-a478-843e528f030b",
+        "address": "1202-Hillside-Blvd-Wilmington-DE-19803",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2138,
+        "listed_at": "2026-10-23T14:40:05.000Z",
+        "days_on_market": "80",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509877,
+          39.786985
         ]
       }
     },
@@ -79630,27 +79693,6 @@
         "coordinates": [
           -112.081205,
           33.517143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e888f58c-91b3-5fad-bb44-68a620823bf9",
-        "address": "5816-Nw-83rd-St-Oklahoma-City-OK-73132",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2292,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": ">243",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.619766,
-          35.555625
         ]
       }
     },
