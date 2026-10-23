@@ -53596,6 +53596,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a0188a66-67e8-583b-b661-9c6161ff4aad",
+        "address": "12525-Panthersville-Dr-Charlotte-NC-28269",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1342,
+        "listed_at": "2026-10-23T17:20:04.000Z",
+        "days_on_market": "196",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.784655,
+          35.361863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a019753f-8b92-52b0-8586-e32ddfa69895",
         "address": "1331-E-Elton-Ave-Mesa-AZ-85204",
         "beds": 3,
