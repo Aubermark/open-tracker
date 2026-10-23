@@ -26590,6 +26590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4cc579e5-6695-5185-b2b6-fc30d6da042e",
+        "address": "387 Apple Blossom Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1386,
+        "listed_at": "2026-10-23T20:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.539245,
+          32.814072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4cd10793-caf9-5948-9f36-69beeac5d4c4",
         "address": "1610-Perma-Dr-Ne-Rio-Rancho-NM-87144",
         "beds": 3,
