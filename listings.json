@@ -12121,6 +12121,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2354a673-d18c-5c49-a79d-b197e5d26af4",
+        "address": "3007 Fairhill Rd",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1947,
+        "listed_at": "2026-10-23T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 880000,
+        "price_label": "$880K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.244329,
+          38.868839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "235cbddf-38d6-58d1-bcbe-7f383f4006fd",
         "address": "16539-Grapperhall-Dr-Huntersville-NC-28078",
         "beds": 4,
@@ -65140,27 +65161,6 @@
         "coordinates": [
           -81.284907,
           28.25048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0769737-ba27-5af8-bba2-28b681d68ccd",
-        "address": "6114-Cedar-Ridge-Rd-Columbia-SC-29206",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2684,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "197",
-        "current_price": 389000,
-        "price_label": "$389K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.945779,
-          34.035899
         ]
       }
     },
