@@ -77599,6 +77599,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e34b0819-82b0-5022-ac47-89371d9bc912",
+        "address": "6424 N Beechwood Ave",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2000,
+        "listed_at": "2026-10-23T13:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.345781,
+          34.197846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e3620d02-9981-5f98-9713-66be60034a9f",
         "address": "885-W-7th-Avenue-Dr-Broomfield-CO-80020",
         "beds": 4,
