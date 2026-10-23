@@ -18232,6 +18232,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "358165ea-4fed-5fde-8280-afd1e29a5767",
+        "address": "5501 Midsummer Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1436,
+        "listed_at": "2026-10-23T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0636,
+          35.416851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3589d409-dad8-57ba-be90-f0690c9ee5e1",
         "address": "100-Trenton-Ln-Hendersonville-TN-37075",
         "beds": 3,
@@ -52105,6 +52126,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9adf4289-e98e-58e5-9a49-04289455b63c",
+        "address": "10336 Karen Ave NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1866,
+        "listed_at": "2026-10-23T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 395000,
+        "price_label": "$395K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.524849,
+          35.128645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9af7bb27-93db-5829-bea3-8ef7c2eb58f1",
         "address": "1005 Eastgate Rd",
         "beds": 3,
@@ -53863,6 +53905,27 @@
         "coordinates": [
           -111.802193,
           33.405596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a02e207a-1793-581f-a7df-0d96bdfae083",
+        "address": "1645 Ranier Cir",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3422,
+        "listed_at": "2026-10-23T20:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.509505,
+          44.997181
         ]
       }
     },
@@ -58567,27 +58630,6 @@
         "coordinates": [
           -77.410447,
           37.301781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ad8bd867-17a6-5ae7-a5f2-995c699a0e15",
-        "address": "1044-Laramie-Ct-Murfreesboro-TN-37128",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2678,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "101",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.438107,
-          35.743583
         ]
       }
     },
@@ -84838,6 +84880,27 @@
         "coordinates": [
           -121.858984,
           37.713843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6a5b1f2-ab22-5895-a081-67c0998f87e8",
+        "address": "301 Chaplins Mill Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1288,
+        "listed_at": "2026-10-23T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.664507,
+          43.966565
         ]
       }
     },
