@@ -50845,6 +50845,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9817e5be-e708-55db-929c-786218f36d51",
+        "address": "1742 E Mayland St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1348,
+        "listed_at": "2026-10-23T11:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160215,
+          40.063479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "983825a2-5e5c-5be1-b2d9-b552aa7e76d5",
         "address": "1639-Mapmaker-Dr-Dacula-GA-30019",
         "beds": 5,
