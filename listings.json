@@ -1285,27 +1285,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "02a79cfb-00d5-5e40-b70e-c2c4a307cf67",
-        "address": "453 Carruthers Rd",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1786,
-        "listed_at": "2026-10-22T15:00:03.000Z",
-        "days_on_market": "1",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.446231,
-          41.089096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "02beb63f-90b2-59ea-98df-7b38c57b6b32",
         "address": "2432-Sunflower-Dr-Evans-GA-30809",
         "beds": 5,
@@ -14089,27 +14068,6 @@
         "coordinates": [
           -83.245269,
           42.775857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "29bea9d5-8391-5a89-9c51-a310286bd1c2",
-        "address": "191-Mount-Pleasant-Church-Rd-Gordon-GA-31031",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1296,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "57",
-        "current_price": 192000,
-        "price_label": "$192K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.250969,
-          32.991263
         ]
       }
     },
@@ -72832,6 +72790,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d3837a8a-a21b-59b9-a447-866f18949a22",
+        "address": "144-Dandy-Jim-Dr-Cripple-Creek-CO-80813",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2976,
+        "listed_at": "2026-10-23T21:30:06.000Z",
+        "days_on_market": "37",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.207485,
+          38.799387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d3c6b391-d95c-5042-bf28-baccd3022ae1",
         "address": "593-Columbia-St-Johnstown-CO-80534",
         "beds": 4,
@@ -75220,27 +75199,6 @@
         "coordinates": [
           -82.816608,
           39.849203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d9b506f5-007b-5dec-ab8e-c867c950dad1",
-        "address": "7957-Jacques-Dr-Jacksonville-FL-32210",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1158,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "121",
-        "current_price": 226000,
-        "price_label": "$226K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.780275,
-          30.273093
         ]
       }
     },
