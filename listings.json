@@ -37237,27 +37237,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6c2d637a-3fa2-5880-989f-bb2606dd4167",
-        "address": "7904 Saddlehorn Ct",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1279,
-        "listed_at": "2026-10-17T07:00:03.000Z",
-        "days_on_market": "7",
-        "current_price": 367000,
-        "price_label": "$367K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.526071,
-          38.784696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6c42cf69-ef47-4f35-976b-fadae71eb066",
         "address": "4373-River-Beacon-Blvd-Davenport-FL-33837",
         "beds": 6,
@@ -37882,6 +37861,27 @@
         "coordinates": [
           -78.19988,
           35.952748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6eddd550-c87d-526a-a5e4-1cba22781460",
+        "address": "2204 SE 134th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1553,
+        "listed_at": "2026-10-23T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53515,
+          45.605184
         ]
       }
     },
@@ -58735,6 +58735,27 @@
         "coordinates": [
           -84.375155,
           39.441311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae069355-044b-51b3-bc1d-fad835e116bc",
+        "address": "10116-Chesney-Dr-Spotsylvania-VA-22553",
+        "beds": 6,
+        "baths": 3,
+        "sqft": 2700,
+        "listed_at": "2026-10-23T21:10:05.000Z",
+        "days_on_market": "35",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.542034,
+          38.237274
         ]
       }
     },
