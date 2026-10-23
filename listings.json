@@ -23461,6 +23461,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43b9afe6-d4a5-5f09-b2ea-212ddaed93b4",
+        "address": "2282 S Bingham Pl",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2810,
+        "listed_at": "2026-10-23T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.890632,
+          39.752719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43c0e91b-920b-5255-a812-3e8d0ac0ae43",
         "address": "3325-W-Dunbar-Dr-Phoenix-AZ-85041",
         "beds": 5,
@@ -84208,6 +84229,27 @@
         "coordinates": [
           -97.138243,
           27.894668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f5935a0d-735f-5386-9363-c89efa328472",
+        "address": "7934-Round-Rock-Dr-Houston-TX-77049",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1986,
+        "listed_at": "2026-10-23T18:10:05.000Z",
+        "days_on_market": "109",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.173632,
+          29.839734
         ]
       }
     },
