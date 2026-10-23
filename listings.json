@@ -79321,6 +79321,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e7c86666-91b3-5499-bd45-39837a79cdfa",
+        "address": "120 Young Deer Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3284,
+        "listed_at": "2026-10-23T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.901495,
+          34.528184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e7cd5e2c-b858-5d87-acb4-c60789fa40d4",
         "address": "2506-Marixa-Dr-Statham-GA-30666",
         "beds": 3,
