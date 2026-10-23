@@ -31294,6 +31294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5b99a2c2-a680-5f68-be64-deb180ce9fcd",
+        "address": "137 5th St N",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1507,
+        "listed_at": "2026-10-23T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.781797,
+          45.016801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b9f54af-df6b-592c-912e-4f0cdf17bf9e",
         "address": "1337-Farm-Pond-Trl-Durham-NC-27703",
         "beds": 4,
@@ -39016,6 +39037,27 @@
         "coordinates": [
           -96.501373,
           33.076866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "746c9554-43b0-5c40-88ef-4440ef601a8e",
+        "address": "308 Marlin Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1700,
+        "listed_at": "2026-10-23T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 406000,
+        "price_label": "$406K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.659759,
+          36.438839
         ]
       }
     },
@@ -56530,27 +56572,6 @@
         "coordinates": [
           -87.963178,
           41.510445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a7e1d6b5-ebbc-5f24-9d12-ef96d9f94dab",
-        "address": "1653-Mc-Guinness-Ave-Streetsboro-OH-44241",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3662,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "43",
-        "current_price": 427000,
-        "price_label": "$427K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.333646,
-          41.230958
         ]
       }
     },
@@ -80785,6 +80806,27 @@
         "coordinates": [
           -115.094818,
           36.193122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec09e1c8-b973-5aa2-8ddb-dcdaaa7a7438",
+        "address": "42528-W-Somerset-Dr-Maricopa-AZ-85138",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2993,
+        "listed_at": "2026-10-23T16:40:06.000Z",
+        "days_on_market": "21",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.024582,
+          33.054527
         ]
       }
     },
