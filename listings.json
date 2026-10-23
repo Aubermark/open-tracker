@@ -71194,6 +71194,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0937fcd-7335-5165-82c2-19137d252463",
+        "address": "4637 E Culver St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1695,
+        "listed_at": "2026-10-23T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.980082,
+          33.461622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0a174e2-89b6-5107-b7ad-4cbfc1386415",
         "address": "729-E-Ivy-Valley-Dr-Fuquay-Varina-NC-27526",
         "beds": 3,
