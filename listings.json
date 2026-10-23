@@ -82366,6 +82366,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ef594bcd-d58b-5ec4-8b97-fec1431a9c4e",
+        "address": "6034 Nails Creek Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1376,
+        "listed_at": "2026-10-23T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.812011,
+          35.84935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ef5d2ea4-a7a2-5e81-aa3b-34bf99ea298f",
         "address": "227-Park-Place-Ct-Avon-IN-46123",
         "beds": 3,
