@@ -52924,6 +52924,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e30d61c-dbcd-58f4-820d-50983aad68b0",
+        "address": "16205 Glorious Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2718,
+        "listed_at": "2026-10-23T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.655596,
+          30.457359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e3286e4-27b7-4cd0-b0d9-da1a7d1bb925",
         "address": "6813-Cove-Creek-Ct-Moseley-VA-23120",
         "beds": 4,
