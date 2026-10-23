@@ -41647,6 +41647,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c3f1a3a-e286-529b-ac7c-8d5b82f7a800",
+        "address": "3907 Prosperity Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2829,
+        "listed_at": "2026-10-23T14:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.245417,
+          38.840182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c7c9c6d-29f1-5908-9253-ee22e70a0ce1",
         "address": "4224-Harbor-View-Dr-Jacksonville-FL-32208",
         "beds": 3,
