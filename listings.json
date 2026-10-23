@@ -32134,6 +32134,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5db97b78-177f-531a-8f77-4341df3c4bf7",
+        "address": "5349-S-Greenway-Dr-Tucson-AZ-85706",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1058,
+        "listed_at": "2026-10-23T17:30:06.000Z",
+        "days_on_market": "30",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.940893,
+          32.154845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dc6049e-a5f4-5a51-b0db-c5e9a372ee3a",
         "address": "13020 Moorcroft Ln",
         "beds": 3,
@@ -58189,6 +58210,27 @@
         "coordinates": [
           -84.00526,
           33.786484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ad369b44-ca12-517f-a303-78da268bc67e",
+        "address": "401 Terrell St",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 5171,
+        "listed_at": "2026-10-23T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.630925,
+          32.607031
         ]
       }
     },
@@ -87022,6 +87064,27 @@
         "coordinates": [
           -84.332663,
           33.718948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff340735-47bb-5f04-a03d-779866e0cc1d",
+        "address": "724 Winterside Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1806,
+        "listed_at": "2026-10-23T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.431061,
+          27.742809
         ]
       }
     },
