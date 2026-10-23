@@ -18589,6 +18589,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3690c20b-9b40-5ad2-aa99-19e602d07eea",
+        "address": "7328-Toccoa-Cir-Union-City-GA-30291",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2774,
+        "listed_at": "2026-10-23T22:30:06.000Z",
+        "days_on_market": "72",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53255,
+          33.548169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3696c1f9-c8c7-494e-9d45-328b498d1bf0",
         "address": "115 Lemon Ln",
         "beds": 3,
@@ -76276,27 +76297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "dd164c7f-5fc2-55d0-bb3d-1df3a62236a1",
-        "address": "29202-Cowboy-Ct-Valencia-CA-91354",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1934,
-        "listed_at": "2026-10-08T16:20:05.000Z",
-        "days_on_market": "140",
-        "current_price": 689000,
-        "price_label": "$689K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.552048,
-          34.472864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "dd189f7d-5ede-51d1-b489-acf0f6c60bca",
         "address": "2520 Meadowgate Dr",
         "beds": 3,
@@ -78838,27 +78838,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e4d77c37-060e-47b9-8252-38f38537ba19",
-        "address": "5815-Shoreline-Dr-Rockvale-TN-37153",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2282,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "74",
-        "current_price": 448000,
-        "price_label": "$448K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.490745,
-          35.785467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e4de2d75-fb0a-5ed4-b512-06124f9dec9f",
         "address": "1121 5th St",
         "beds": 3,
@@ -80953,27 +80932,6 @@
         "coordinates": [
           -84.202108,
           33.596343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "eb1f59c5-d61c-51a6-bb0d-ad0cd4fd477c",
-        "address": "617-Birchbark-Trl-Saint-Augustine-FL-32092-18176103",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1982,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "137",
-        "current_price": 348000,
-        "price_label": "$348K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.528319,
-          29.96151
         ]
       }
     },
