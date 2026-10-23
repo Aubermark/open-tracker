@@ -87360,6 +87360,27 @@
           31.064064
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ffffa654-221e-567d-97a7-106b24d8c08a",
+        "address": "403 Samuel St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1430,
+        "listed_at": "2026-10-23T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.661244,
+          29.402919
+        ]
+      }
     }
   ]
 }
