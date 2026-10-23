@@ -7480,6 +7480,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "14a911f1-88c0-548d-8461-643d86e16cf1",
+        "address": "16722 S 181st Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1362,
+        "listed_at": "2026-10-23T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.440811,
+          33.294936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "14abc2cd-2cba-584b-943e-097d88903b87",
         "address": "2017-Yorktowne-Dr-La-Place-LA-70068",
         "beds": 4,
@@ -13669,6 +13690,27 @@
         "coordinates": [
           -84.719929,
           33.37575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "28cade25-e06d-59d1-97ca-3bf944b304e1",
+        "address": "1131 E Virginia Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1368,
+        "listed_at": "2026-10-23T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.057795,
+          33.476452
         ]
       }
     },
@@ -38848,6 +38890,27 @@
         "coordinates": [
           -86.681244,
           33.426504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "73c1d314-e38b-5be3-99d5-83e08d2b35f6",
+        "address": "24601 Stephen Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1861,
+        "listed_at": "2026-10-23T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.511785,
+          41.599705
         ]
       }
     },
@@ -72070,6 +72133,27 @@
         "coordinates": [
           -112.089701,
           33.665371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d25b0c9a-8837-47dd-b47a-c38c615bcac5",
+        "address": "1443-General-Custer-Ave-Daytona-Beach-FL-32124",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1425,
+        "listed_at": "2026-10-23T18:00:05.000Z",
+        "days_on_market": "106",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137035,
+          29.133918
         ]
       }
     },
