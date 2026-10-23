@@ -1012,6 +1012,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0225b9c8-c587-4116-a355-5ae14f31fa9f",
+        "address": "117 Amberfield Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1784,
+        "listed_at": "2026-10-23T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 493000,
+        "price_label": "$493K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.111557,
+          39.165874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0226cac2-6092-505d-a374-9a7783c8eb86",
         "address": "845-Se-8th-St-Gresham-OR-97080",
         "beds": 3,
