@@ -16111,6 +16111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ee08d63-57fa-580e-a8eb-3da29939e5db",
+        "address": "1041 Topaz Ln",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2270,
+        "listed_at": "2026-10-23T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.657514,
+          33.777239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ef9a83a-09f8-5a16-8266-c1e99cae23bc",
         "address": "160-Aden-Dr-Strasburg-VA-22657",
         "beds": 4,
@@ -32764,27 +32785,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ebe6a60-a889-5fca-9568-9d8cea882185",
-        "address": "293 Hastings Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1004,
-        "listed_at": "2026-10-06T05:45:28.000Z",
-        "days_on_market": "18",
-        "current_price": 297000,
-        "price_label": "$297K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.077114,
-          33.039249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ebf7194-8308-5bfd-b683-a3f56d330b0b",
         "address": "265-Mc-Donald-Rd-Winchester-VA-22602",
         "beds": 3,
@@ -47248,27 +47248,6 @@
         "coordinates": [
           -115.100789,
           35.93821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8c6d139d-790b-545a-afc4-b7b3c79fb1f4",
-        "address": "8273-W-Plymouth-Pl-Littleton-CO-80128",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2301,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "74",
-        "current_price": 565000,
-        "price_label": "$565K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.090511,
-          39.591503
         ]
       }
     },
@@ -72112,27 +72091,6 @@
         "coordinates": [
           -96.958606,
           33.229678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d1da55b2-d2a7-59a4-9d25-cf62e5a9f4d1",
-        "address": "4982-Penny-Ln-North-Olmsted-OH-44070",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2153,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "39",
-        "current_price": 278000,
-        "price_label": "$278K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.891672,
-          41.417189
         ]
       }
     },
