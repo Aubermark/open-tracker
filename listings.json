@@ -21046,6 +21046,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3dce93d4-3511-5273-b747-3d19b99b2b50",
+        "address": "30447 Iverson Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2039,
+        "listed_at": "2026-10-23T15:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31238,
+          28.177094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3dd62f49-e722-5033-81c7-772ea74e6749",
         "address": "681 John Ward Rd SW",
         "beds": 3,
@@ -78118,6 +78139,27 @@
         "coordinates": [
           -87.028009,
           35.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4200580-a990-594b-ae17-61743dd217ba",
+        "address": "11615-W-68th-St-Shawnee-KS-66203",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 744,
+        "listed_at": "2026-10-23T15:50:06.000Z",
+        "days_on_market": "99",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.720915,
+          39.006874
         ]
       }
     },
