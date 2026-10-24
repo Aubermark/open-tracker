@@ -54709,6 +54709,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a2160fc1-8d4e-5da1-90f1-5be42d197254",
+        "address": "31585 Chamise Ln",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2908,
+        "listed_at": "2026-10-24T08:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 730000,
+        "price_label": "$730K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.108163,
+          33.573748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a2356227-3783-5ed6-b57b-d1a022adfd58",
         "address": "509-Drake-Ave-Nashville-TN-37211",
         "beds": 2,
