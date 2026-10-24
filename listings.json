@@ -16678,6 +16678,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30ba298d-10e4-54aa-8736-364f89b638d7",
+        "address": "37335 W Cannataro Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2804,
+        "listed_at": "2026-10-24T10:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.968574,
+          33.039467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30c62039-f451-57ea-b3a7-fe9b533a219d",
         "address": "239 Spring Creek Dr",
         "beds": 3,
