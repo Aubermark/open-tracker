@@ -907,6 +907,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01ee3146-64e4-54cd-86d6-a5057a9b2846",
+        "address": "4727-Elkan-Ave-Macon-GA-31206",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1048,
+        "listed_at": "2026-10-24T17:50:05.000Z",
+        "days_on_market": "32",
+        "current_price": 131000,
+        "price_label": "$131K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.702245,
+          32.774457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "020b895f-f184-5bb4-903d-156353ea481b",
         "address": "3903-Le-Fever-Dr-Unit-C-Fort-Collins-CO-80528",
         "beds": 2,
@@ -51847,27 +51868,6 @@
         "coordinates": [
           -78.158425,
           36.094747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9a4cfd56-598f-505e-9992-fbd9cb00eee6",
-        "address": "2062 Dalton Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1744,
-        "listed_at": "2026-10-08T09:20:04.000Z",
-        "days_on_market": "17",
-        "current_price": 301000,
-        "price_label": "$301K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.248414,
-          28.922405
         ]
       }
     },
