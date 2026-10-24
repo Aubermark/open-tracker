@@ -22810,6 +22810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "413ac3e9-f406-5f1b-a47d-bf7bd232b699",
+        "address": "2186-Ingram-Rd-Duluth-GA-30096-18448780",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2202,
+        "listed_at": "2026-10-24T14:00:05.000Z",
+        "days_on_market": "33",
+        "current_price": 443000,
+        "price_label": "$443K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17112,
+          33.94502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4141a574-657b-46c1-bf11-c01f153198d5",
         "address": "1303-Red-Lake-Way-Lincoln-CA-95648",
         "beds": 2,
@@ -81793,27 +81814,6 @@
         "coordinates": [
           -105.061538,
           39.02466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ed5590b6-9474-5272-bc68-76bfe5d548ff",
-        "address": "2517 Nokomis Ave",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 1635,
-        "listed_at": "2026-10-16T19:40:03.000Z",
-        "days_on_market": "8",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.008394,
-          44.978689
         ]
       }
     },
