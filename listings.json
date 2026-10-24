@@ -57880,6 +57880,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ababc45e-ac05-5136-b1c0-5e5e85cd912c",
+        "address": "4246-E-Tyson-St-Gilbert-AZ-85295",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1601,
+        "listed_at": "2026-10-24T20:40:05.000Z",
+        "days_on_market": "179",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6985,
+          33.311437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "abac9235-29fa-51e9-a75a-ab5e59db9bfb",
         "address": "2357-Bastean-Rd-Wentzville-MO-63385",
         "beds": 4,
