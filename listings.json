@@ -1516,6 +1516,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "032bf373-e077-5060-8f19-68a6abfe1fda",
+        "address": "186 S Preston St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1351,
+        "listed_at": "2026-10-24T10:50:02.000Z",
+        "days_on_market": "0",
+        "current_price": 241000,
+        "price_label": "$241K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.222542,
+          32.40549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03379faf-33f6-5ffa-a976-8291d9e3aa42",
         "address": "6711-Rowell-Ct-Missouri-City-TX-77489",
         "beds": 3,
