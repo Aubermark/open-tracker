@@ -54310,6 +54310,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1e2cf12-83fe-5238-b09f-548ed19e8e08",
+        "address": "314-Carola-Ln-Lexington-SC-29072",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2060,
+        "listed_at": "2026-10-25T15:40:05.000Z",
+        "days_on_market": "170",
+        "current_price": 364000,
+        "price_label": "$364K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2082,
+          33.984878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1e42e36-de84-545a-9a22-83d0bc3febc7",
         "address": "20523-Freedom-River-Dr-Humble-TX-77338",
         "beds": 3,
