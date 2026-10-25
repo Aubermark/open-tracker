@@ -34528,6 +34528,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "646146ac-a780-5f55-973b-585d28124082",
+        "address": "2623 Lynnhaven Ter",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2136,
+        "listed_at": "2026-10-25T18:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63966,
+          30.178156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64b363f7-c66e-574b-bdc3-8be9ac2f2bab",
         "address": "1037 Yorkshire Dr",
         "beds": 4,
