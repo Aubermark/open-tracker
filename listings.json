@@ -44986,6 +44986,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85bf93e7-2134-5c11-b89e-dfc3bdd12f0f",
+        "address": "21-Glenhawk-Loop-Irmo-SC-29063",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1497,
+        "listed_at": "2026-10-25T15:30:05.000Z",
+        "days_on_market": "58",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.223213,
+          34.148097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85d17108-1a11-56ef-99b2-61bfab52eb10",
         "address": "42318 Broadwalk Ave",
         "beds": 3,
