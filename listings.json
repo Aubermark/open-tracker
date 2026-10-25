@@ -27052,27 +27052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4dd3de61-e8b9-56d3-9ab3-28fcab4ec429",
-        "address": "3803-60th-St-W-Bradenton-FL-34209",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 937,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "47",
-        "current_price": 155000,
-        "price_label": "$155K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.621426,
-          27.467482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4de3d061-197d-56ae-87a6-3ccb1dcd8483",
         "address": "23764 W Hilton Street",
         "beds": 4,
@@ -52288,6 +52267,27 @@
         "coordinates": [
           -111.515536,
           33.138706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9ccb2e5e-17f0-5d8c-802c-1ebde51d1942",
+        "address": "154 SE Soneto Ct",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1407,
+        "listed_at": "2026-10-25T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.347249,
+          27.311866
         ]
       }
     },
