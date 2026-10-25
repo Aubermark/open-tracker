@@ -29698,6 +29698,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5561aae2-0502-5bce-ac13-9b0b83df027d",
+        "address": "808-Lowery-St-Shelby-NC-28152",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1089,
+        "listed_at": "2026-10-25T14:30:05.000Z",
+        "days_on_market": "75",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.555236,
+          35.279409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "556525de-1a89-5f42-8bdd-a4dad776140f",
         "address": "3009-Harbor-Ave-Sw-Seattle-WA-98126",
         "beds": 3,
