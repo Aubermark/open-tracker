@@ -11323,6 +11323,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21063b6f-6a8a-5096-be96-241fe5e61c2c",
+        "address": "10917-Worthington-Ln-Prospect-KY-40059",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3962,
+        "listed_at": "2026-10-25T16:00:05.000Z",
+        "days_on_market": "90",
+        "current_price": 695000,
+        "price_label": "$695K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.551671,
+          38.340077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "212e184c-ea1b-5c4b-829d-1060d1a7ba51",
         "address": "1309 Legend Rd",
         "beds": 3,
@@ -34213,6 +34234,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "631c7cb9-2e4e-5343-b000-d19673f08a5d",
+        "address": "1004-Vesper-Ln-Fayetteville-NC-28311",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1489,
+        "listed_at": "2026-10-25T16:00:05.000Z",
+        "days_on_market": ">245",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.906165,
+          35.108586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "631e2824-7ff1-512a-bda0-68d13edb13cf",
         "address": "4011-Hunnington-Dr-Conroe-TX-77303",
         "beds": 3,
@@ -34900,27 +34942,6 @@
         "coordinates": [
           -86.67751,
           33.659407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "658c0180-2282-5342-a99e-9873afdbd51f",
-        "address": "610-Executive-Blvd-Delaware-OH-43015",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1679,
-        "listed_at": "2026-10-13T18:20:05.000Z",
-        "days_on_market": "191",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.08215,
-          40.316831
         ]
       }
     },
