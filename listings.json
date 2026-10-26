@@ -5968,27 +5968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "104e425f-edb0-5e8d-a849-51892860916f",
-        "address": "13838 Fairway Island Dr",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1288,
-        "listed_at": "2026-10-13T06:13:50.000Z",
-        "days_on_market": "14",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.407824,
-          28.363208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "10712c8f-1e6b-583d-8278-a3480a68b53b",
         "address": "391-Harvard-Rd-Venice-FL-34293",
         "beds": 3,
@@ -37174,6 +37153,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ce1d92d-72bc-5b9b-999e-e3059cf20c04",
+        "address": "2138 Reeves Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1290,
+        "listed_at": "2026-10-26T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 231000,
+        "price_label": "$231K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7602,
+          34.674315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6cec8008-2423-5a96-95c3-2e961eef6393",
         "address": "1695-Abell-St-Saint-Paul-MN-55117",
         "beds": 4,
@@ -68122,27 +68122,6 @@
         "coordinates": [
           -81.22719,
           29.515231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c861c630-b328-5aa8-8a68-6380a392dc4c",
-        "address": "12919-Prestwick-Dr-Riverview-FL-33579",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1981,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "95",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.311684,
-          27.797806
         ]
       }
     },
