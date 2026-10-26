@@ -18757,6 +18757,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3753d2b5-9b3d-5f93-a428-12349d9a148d",
+        "address": "755 Commerce Rd",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 877,
+        "listed_at": "2026-10-26T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.564965,
+          34.125907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "37695154-d830-5b1e-9b45-04f7e44f766c",
         "address": "424 Cypress Hill Dr",
         "beds": 4,
