@@ -55528,6 +55528,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a5c30574-c7d9-5636-a677-64821783005b",
+        "address": "3753 Big Walnut Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1752,
+        "listed_at": "2026-10-26T13:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.897216,
+          39.892784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a5cb8919-8d5b-575e-9a50-314421c1f7b7",
         "address": "3940-Victory-Ct-Midlothian-TX-76065",
         "beds": 3,
