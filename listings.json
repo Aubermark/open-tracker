@@ -16090,6 +16090,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2eb2067a-3602-5ada-a0f0-152aeb27d38f",
+        "address": "11422-E-Dartmouth-St-Mesa-AZ-85207",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2569,
+        "listed_at": "2026-10-26T17:40:06.000Z",
+        "days_on_market": "109",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.584068,
+          33.428211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2eda3b82-d744-56dc-a1a2-4956ca5c4a14",
         "address": "9537-Clayton-Ct-Thornton-CO-80229",
         "beds": 3,
@@ -27703,27 +27724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4fe6d37a-7156-5a7d-bbd5-a7609658d2e4",
-        "address": "466-Leland-Dr-Deltona-FL-32725",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1605,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "66",
-        "current_price": 283000,
-        "price_label": "$283K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.254545,
-          28.874706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4fecbe01-23ee-5039-8bd4-5d2944c6e432",
         "address": "809-Mary-St-Waycross-GA-31503",
         "beds": 3,
@@ -34816,27 +34816,6 @@
         "coordinates": [
           -80.731008,
           35.22838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6574d3cc-748d-5939-8816-6dc7f18b0a1a",
-        "address": "176-Waverly-Dr-Alhambra-CA-91801",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-09-23T21:30:04.000Z",
-        "days_on_market": "122",
-        "current_price": 999000,
-        "price_label": "$999K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.156695,
-          34.091691
         ]
       }
     },
@@ -42271,27 +42250,6 @@
         "coordinates": [
           -117.987069,
           33.87385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7e063bb8-86a9-543b-a836-61e014028cd7",
-        "address": "608 Saddle Rider Ct",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1542,
-        "listed_at": "2026-10-23T22:10:03.000Z",
-        "days_on_market": "3",
-        "current_price": 405000,
-        "price_label": "$405K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.012266,
-          36.077877
         ]
       }
     },
