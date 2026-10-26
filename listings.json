@@ -57649,6 +57649,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ac12ff53-71f8-53a7-a52e-34273d24ee43",
+        "address": "3419-Queen-Ave-N-Minneapolis-MN-55412",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1138,
+        "listed_at": "2026-10-26T14:50:05.000Z",
+        "days_on_market": "33",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.309897,
+          45.017474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac239696-ea16-5070-a6de-4fa61d953673",
         "address": "13927 Singleleaf Ln",
         "beds": 3,
@@ -64846,6 +64867,27 @@
         "coordinates": [
           -111.032747,
           32.33405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c00ea340-1ef9-5d2e-9aa7-9dda97c00af1",
+        "address": "1102 Tobacco Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1200,
+        "listed_at": "2026-10-26T14:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.40799,
+          36.632498
         ]
       }
     },
