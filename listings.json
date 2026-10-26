@@ -13591,6 +13591,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28895c3a-0312-5ec6-a914-5e82e9a292aa",
+        "address": "601-Community-Dr-Waycross-GA-31501",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1564,
+        "listed_at": "2026-10-26T05:52:01.000Z",
+        "days_on_market": "143",
+        "current_price": 161000,
+        "price_label": "$161K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33837,
+          31.235035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "288a76cd-ca1d-544a-9523-bbec858de4c3",
         "address": "841-E-Gary-Ln-Phoenix-AZ-85042",
         "beds": 3,
@@ -30223,27 +30244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "57a20a7f-01d2-5c26-a5c2-a2c8124f66a2",
-        "address": "1401-60th-St-W-Rosamond-CA-93560",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2757,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "73",
-        "current_price": 512000,
-        "price_label": "$512K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.239028,
-          34.843443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "57add268-0c9d-5031-8525-5dd97e6074ba",
         "address": "317-Wren-Dr-Big-Bear-Lake-CA-92315",
         "beds": 3,
@@ -38575,27 +38575,6 @@
         "coordinates": [
           -83.0127,
           40.132401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "72eea9d3-3b1f-5286-9022-6e022274c4fe",
-        "address": "4510-Sw-244th-St-Vashon-WA-98070",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2687,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "93",
-        "current_price": 823000,
-        "price_label": "$823K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.387879,
-          47.386218
         ]
       }
     },
@@ -51343,6 +51322,27 @@
         "coordinates": [
           -78.158425,
           36.094747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a3c14e3-7ecc-568f-ba32-f2c10cdf46fc",
+        "address": "2160 De Las Flores Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2064,
+        "listed_at": "2026-10-26T05:51:59.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.832456,
+          27.874135
         ]
       }
     },
@@ -68779,27 +68779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cad49e2c-0da4-5e9b-b4e7-2dde82cd1391",
-        "address": "13442-N-177th-Dr-Surprise-AZ-85388",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2104,
-        "listed_at": "2026-09-17T06:29:09.000Z",
-        "days_on_market": "108",
-        "current_price": 456000,
-        "price_label": "$456K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.440506,
-          33.60635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cad75771-ad02-5afc-9fec-076e18adf473",
         "address": "4211-Honeycomb-St-San-Antonio-TX-78230",
         "beds": 4,
@@ -84523,27 +84502,6 @@
         "coordinates": [
           -80.493248,
           27.63213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f7dc4394-6d20-565c-821f-e8ecc8a010f5",
-        "address": "16208-Plow-Ave-Caldwell-ID-83607",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2758,
-        "listed_at": "2026-10-21T21:30:06.000Z",
-        "days_on_market": "72",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.649877,
-          43.607619
         ]
       }
     },
