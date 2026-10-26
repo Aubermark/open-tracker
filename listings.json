@@ -3910,6 +3910,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a2d0982-d7e1-5491-a15c-e1282a6a8343",
+        "address": "1142 Grenshaw Dr",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2124,
+        "listed_at": "2026-10-26T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.830067,
+          35.831534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a3c2986-f5c3-5e0d-94c4-c4c68873d1d1",
         "address": "5308 Finbrooke Dr",
         "beds": 3,
@@ -53890,6 +53911,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a10adf4d-4482-4eb1-b7b9-25d0e8343c3d",
+        "address": "9426 Lamine Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2207,
+        "listed_at": "2026-10-26T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.443878,
+          27.599833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a134b6a7-ba05-56dc-bb5d-ede824935f19",
         "address": "255-Deer-Crossing-Rd-Saint-Augustine-FL-32086",
         "beds": 4,
@@ -74296,27 +74338,6 @@
         "coordinates": [
           -87.437632,
           36.559104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d80d13d2-45a9-5283-a32e-d67ce0820273",
-        "address": "2575-Grand-Lakeside-Dr-Palm-Harbor-FL-34684",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3153,
-        "listed_at": "2026-09-10T06:10:28.000Z",
-        "days_on_market": "95",
-        "current_price": 815000,
-        "price_label": "$815K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.737335,
-          28.118753
         ]
       }
     },
