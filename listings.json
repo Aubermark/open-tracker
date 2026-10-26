@@ -14914,27 +14914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2bb50954-9b55-5cc2-9fab-d9c11fd6e37d",
-        "address": "6833 Sarah Jane Ln",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1784,
-        "listed_at": "2026-10-18T08:03:19.000Z",
-        "days_on_market": "9",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.4449,
-          33.568825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2bb94a78-e7a3-56db-8723-908eadbd6764",
         "address": "277-Apache-Dr-Effort-PA-18330",
         "beds": 4,
@@ -33871,6 +33850,27 @@
         "coordinates": [
           -78.552541,
           35.962449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "625f22df-0d65-5709-987a-661beba3cb8e",
+        "address": "2328 Whitney Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1274,
+        "listed_at": "2026-10-26T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.901991,
+          31.099636
         ]
       }
     },
