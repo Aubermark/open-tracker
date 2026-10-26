@@ -37153,6 +37153,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c43cf5c-0fd4-57c1-9492-99c26506a943",
+        "address": "11918-Sonora-Springs-Dr-Tomball-TX-77375",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2578,
+        "listed_at": "2026-10-26T18:50:06.000Z",
+        "days_on_market": "189",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.597778,
+          30.043256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c6456eb-caf8-5f08-a28a-61f5a38a3100",
         "address": "7776 Somerset Ln",
         "beds": 3,
@@ -75877,6 +75898,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dc0b7d1f-adc5-5b81-b16a-b1340988e1e2",
+        "address": "3201 Turnbuckle Cir",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1893,
+        "listed_at": "2026-10-26T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 625000,
+        "price_label": "$625K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.474309,
+          38.407538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dc0d66ad-6135-57da-8d41-38f529e217cf",
         "address": "101-Picadilly-Loop-Summerville-SC-29483",
         "beds": 5,
@@ -78517,6 +78559,27 @@
         "coordinates": [
           -96.979904,
           32.965112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4612c9a-ba3b-519c-9789-4006afce4c7d",
+        "address": "2027 Pinecrest Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-10-26T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.705208,
+          36.046225
         ]
       }
     },
