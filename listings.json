@@ -35578,27 +35578,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "67d9b1ea-6780-5145-a38d-d8fd678c5b6a",
-        "address": "1035 Sassafras Ln",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1400,
-        "listed_at": "2026-10-23T06:40:05.000Z",
-        "days_on_market": "4",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.693861,
-          36.409172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67e17c6e-4c45-5444-b645-3d74d3a4ec64",
         "address": "2696-S-Arbor-Dr-Marietta-GA-30066",
         "beds": 5,
@@ -70411,6 +70390,27 @@
         "coordinates": [
           -117.091426,
           33.002051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cf3b70e5-6ce1-5702-9423-a7ec7d5f6679",
+        "address": "101-Craig-St-Stanley-NC-28164",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 864,
+        "listed_at": "2026-10-26T15:00:05.000Z",
+        "days_on_market": "28",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.087861,
+          35.363618
         ]
       }
     },
