@@ -4834,6 +4834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
+        "address": "829-E-4th-St-Englewood-FL-34223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1398,
+        "listed_at": "2026-10-26T15:30:05.000Z",
+        "days_on_market": "189",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.334724,
+          26.942348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
         "address": "5908 Wateree Dr",
         "beds": 3,
@@ -79420,6 +79441,27 @@
         "coordinates": [
           -81.495236,
           29.920923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e822420f-712b-509b-ac63-d943204d3261",
+        "address": "679 Flag Cir",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1955,
+        "listed_at": "2026-10-26T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.856491,
+          33.369247
         ]
       }
     },
