@@ -39841,6 +39841,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76c92f25-7538-54d3-94bd-9f0539974765",
+        "address": "4745 Zuni St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 750,
+        "listed_at": "2026-10-26T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.016162,
+          39.782967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76cace90-798c-5702-a242-5256c346ef5d",
         "address": "2208-Mc-Connell-Ave-Joplin-MO-64804",
         "beds": 3,
@@ -48886,6 +48907,27 @@
         "coordinates": [
           -112.055885,
           33.041971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9271781d-849f-5cc9-a17a-c6780df30e3b",
+        "address": "316 E Walnut St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1542,
+        "listed_at": "2026-10-26T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49469,
+          27.59359
         ]
       }
     },
@@ -65938,6 +65980,27 @@
         "coordinates": [
           -121.480397,
           37.689753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1ce0e66-069a-5482-9ba8-15f25587e985",
+        "address": "8402 Moulton Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2136,
+        "listed_at": "2026-10-26T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 291000,
+        "price_label": "$291K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.675975,
+          28.298764
         ]
       }
     },
