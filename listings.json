@@ -1621,6 +1621,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0383649f-e318-5ca0-aa75-bec2f65fea64",
+        "address": "374 Cliffview Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2637,
+        "listed_at": "2026-10-26T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.564358,
+          35.618823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "038b9fe7-97b2-5ac4-8cdc-d0bd87c7cf86",
         "address": "4-Shirley-Caesar-Ct-Durham-NC-27701",
         "beds": 3,
@@ -57685,6 +57706,27 @@
         "coordinates": [
           -84.254276,
           33.530957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "abe99ae0-d122-51dd-b7f3-b8216afa9884",
+        "address": "705-5th-St-Wildwood-FL-34785",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1261,
+        "listed_at": "2026-10-26T16:50:06.000Z",
+        "days_on_market": "48",
+        "current_price": 222000,
+        "price_label": "$222K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.045204,
+          28.870439
         ]
       }
     },
