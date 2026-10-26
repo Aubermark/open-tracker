@@ -68275,6 +68275,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c932c9db-070c-5a53-b694-7c20c0168364",
+        "address": "15515 Hollow Cypress Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2220,
+        "listed_at": "2026-10-26T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.165022,
+          29.822061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c93af2b2-2fcc-5e54-bb20-2e827912b611",
         "address": "6315 Welles Fawn Cir",
         "beds": 4,
@@ -72496,27 +72517,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d42d3ea0-3390-5287-86b9-9b65900f6bf2",
-        "address": "3023-K-St-Se-Washington-DC-20019",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2328,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "195",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.963685,
-          38.878137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d4307e2c-cf0f-598b-9b1d-af96b837c56e",
         "address": "319 E Chippewa Ave",
         "beds": 3,
@@ -74821,6 +74821,27 @@
         "coordinates": [
           -87.395729,
           36.664966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9ddcc81-99d1-5b1f-a8d1-a13166858ef0",
+        "address": "14414 Darrah Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3068,
+        "listed_at": "2026-10-26T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.443881,
+          29.992403
         ]
       }
     },
@@ -80155,6 +80176,27 @@
         "coordinates": [
           -97.180999,
           32.991856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea48cdab-016d-5c09-b7de-09afc17d519c",
+        "address": "310 S Jensen Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2147,
+        "listed_at": "2026-10-26T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.342698,
+          29.765028
         ]
       }
     },
