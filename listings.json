@@ -26023,6 +26023,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4ae1d406-2671-525b-84f8-268e6027efe0",
+        "address": "1038-Highland-Crest-Cir-Lake-Wales-FL-33853",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1863,
+        "listed_at": "2026-10-26T16:10:05.000Z",
+        "days_on_market": "89",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.572821,
+          27.915702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4af0184b-d64f-58d1-9604-a97dea077c5c",
         "address": "5005 Strickland Ave",
         "beds": 3,
@@ -26059,6 +26080,27 @@
         "coordinates": [
           -86.687525,
           36.488499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4b2e4df0-c111-4bd1-a47f-0f8ec0495902",
+        "address": "8103-N-18th-St-Tampa-FL-33604",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 872,
+        "listed_at": "2026-10-26T16:10:05.000Z",
+        "days_on_market": "61",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.439007,
+          28.021769
         ]
       }
     },
