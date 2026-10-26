@@ -2209,6 +2209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05afd9f2-d747-5767-98eb-c1dc20b8c16e",
+        "address": "115 Purple Sage Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1654,
+        "listed_at": "2026-10-26T14:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.726451,
+          30.700999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05b1e55b-6a76-5b4f-9104-c2b3d169ed90",
         "address": "1509 Jefferson St",
         "beds": 3,
@@ -37399,27 +37420,6 @@
         "coordinates": [
           -105.045565,
           39.705589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6e2d6cd9-9de8-527f-bacb-19bb57f0f905",
-        "address": "820-Lilly-Ln-Cincinnati-OH-45245",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1090,
-        "listed_at": "2026-09-08T13:00:03.000Z",
-        "days_on_market": "125",
-        "current_price": 213000,
-        "price_label": "$213K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.279514,
-          39.063611
         ]
       }
     },
