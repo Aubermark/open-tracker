@@ -64579,6 +64579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "be95c168-fda1-5bd6-a1cd-02b7dfeb6071",
+        "address": "133 Whispering Pines Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1083,
+        "listed_at": "2026-10-26T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45077,
+          36.416138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "be982127-04e1-5bfb-b778-558405b0e29a",
         "address": "834-Central-Park-Ave-Greensboro-NC-27407",
         "beds": 3,
@@ -68584,6 +68605,27 @@
         "coordinates": [
           -94.896991,
           32.199565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c95ec5d0-7042-5a4b-87d5-65a2302b09d5",
+        "address": "12613 Winget Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2357,
+        "listed_at": "2026-10-26T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.996625,
+          35.125036
         ]
       }
     },
