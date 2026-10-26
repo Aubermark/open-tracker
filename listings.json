@@ -11806,6 +11806,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2260e031-cd3f-522d-902e-532d8339cafb",
+        "address": "1000 Madison St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 884,
+        "listed_at": "2026-10-26T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.343868,
+          38.962816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2267c4c2-a686-5018-86af-9be8d96529e2",
         "address": "3691-Lavilla-Dr-Powder-Springs-GA-30127",
         "beds": 3,
@@ -19234,6 +19255,27 @@
         "coordinates": [
           -90.57157,
           38.406458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "38a1bea6-2b41-5473-b25a-ef709e44e0a0",
+        "address": "11238 Shivering Owl Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3122,
+        "listed_at": "2026-10-26T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 531000,
+        "price_label": "$531K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.537903,
+          28.63798
         ]
       }
     },
@@ -37840,6 +37882,27 @@
         "coordinates": [
           -97.213197,
           33.000916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6ff20221-f6e3-5a4c-843a-eb803722874a",
+        "address": "14-Norwood-St-Ne-Rome-GA-30161",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1515,
+        "listed_at": "2026-10-26T18:30:06.000Z",
+        "days_on_market": "59",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.15797,
+          34.285874
         ]
       }
     },
