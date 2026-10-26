@@ -53449,6 +53449,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9f472bc9-6e94-5655-8f7b-fc6f287a7bf7",
+        "address": "683 W Calle Capotasto",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1800,
+        "listed_at": "2026-10-26T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.980025,
+          31.999699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9f5d7d25-4259-5b54-a8f0-84ea96c14623",
         "address": "2462 W Bluestem Dr",
         "beds": 5,
