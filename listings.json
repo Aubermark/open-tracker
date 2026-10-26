@@ -50677,6 +50677,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97f64b23-e593-5258-ae09-380bc3b513dd",
+        "address": "638 Maple Oak Cir",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1616,
+        "listed_at": "2026-10-26T09:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 271000,
+        "price_label": "$271K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.368334,
+          28.652353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "97fbd46b-da55-5572-947a-b11f906a078d",
         "address": "3027-Krogen-Ct-Creedmoor-NC-27522",
         "beds": 4,
