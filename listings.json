@@ -31567,27 +31567,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ba29817-ac0a-562c-bde9-fd013a025317",
-        "address": "1327-Towne-Harbor-Trl-Woodstock-GA-30189",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1265,
-        "listed_at": "2026-10-26T20:50:05.000Z",
-        "days_on_market": "189",
-        "current_price": 370000,
-        "price_label": "$370K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.594518,
-          34.162309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5baebde7-9d0b-5286-bb2b-e68d5a61e9b7",
         "address": "313-Lafayette-Rd-Clarksville-TN-37042",
         "beds": 3,
@@ -38638,6 +38617,27 @@
         "coordinates": [
           -84.289054,
           34.222341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "72467876-92e1-5cfa-a328-181f8a75aae9",
+        "address": "157-Alpine-Rd-Summerville-SC-29485",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1707,
+        "listed_at": "2026-10-26T21:30:05.000Z",
+        "days_on_market": "49",
+        "current_price": 369000,
+        "price_label": "$369K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.144889,
+          32.996471
         ]
       }
     },
@@ -85342,27 +85342,6 @@
         "coordinates": [
           -84.570153,
           33.544067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8594401-2957-51d3-92ad-1d58e6edec05",
-        "address": "16519-Eaglewood-Shadows-Dr-Sugar-Land-TX-77498",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2538,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "111",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.670674,
-          29.675443
         ]
       }
     },
