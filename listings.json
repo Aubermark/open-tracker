@@ -28522,6 +28522,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52677683-faea-59ca-a55f-897cae199e01",
+        "address": "2-Cinderella-Ln-Nw-Unit-A-Fort-Walton-Beach-FL-32547",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1240,
+        "listed_at": "2026-10-26T13:30:05.000Z",
+        "days_on_market": "26",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.623458,
+          30.4533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "526e6b3b-1aa4-5986-b9d4-55b0fa9e5616",
         "address": "1311-Brucemont-Dr-Garner-NC-27529-18396054",
         "beds": 3,
@@ -62872,6 +62893,27 @@
         "coordinates": [
           -83.265191,
           42.250998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9f12bd9-872f-5023-b3aa-ca6db67053d2",
+        "address": "3537 Essence St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3244,
+        "listed_at": "2026-10-26T13:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.193326,
+          31.799671
         ]
       }
     },
