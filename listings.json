@@ -13444,6 +13444,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27f1e349-bdd1-5657-adef-34590e0114de",
+        "address": "3305 Winchester Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-10-26T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.794952,
+          36.019232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27f3fb00-10c2-52eb-8c12-295496b0b934",
         "address": "612-Turmeric-Ln-Durham-NC-27713",
         "beds": 3,
@@ -18762,10 +18783,10 @@
         "beds": 3,
         "baths": 1,
         "sqft": 877,
-        "listed_at": "2026-10-26T20:40:04.000Z",
+        "listed_at": "2026-10-26T21:20:03.000Z",
         "days_on_market": "0",
-        "current_price": 185000,
-        "price_label": "$185K"
+        "current_price": 165000,
+        "price_label": "$165K"
       },
       "geometry": {
         "type": "Point",
@@ -61156,27 +61177,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b4cff418-cf98-5a18-b04d-8af1e3cdde6b",
-        "address": "841-Chalmet-Ln-Jacksonville-FL-32218",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2500,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "137",
-        "current_price": 296000,
-        "price_label": "$296K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.658791,
-          30.447158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b50b7325-bd18-56b8-8147-dc95bee79c48",
         "address": "3978-Shasta-Cir-Clover-SC-29710",
         "beds": 3,
@@ -62011,27 +62011,6 @@
         "coordinates": [
           -84.020312,
           33.542182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b6b0e66b-f337-518a-a1ed-d16e364ef4ac",
-        "address": "4220-Iris-Pearl-Ave-North-Las-Vegas-NV-89031",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2963,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "143",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.19718,
-          36.263245
         ]
       }
     },
@@ -85594,27 +85573,6 @@
         "coordinates": [
           -80.003029,
           32.929068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f9231a17-0116-5fe7-b0a6-14a25c73bd1a",
-        "address": "4617-S-108th-Ave-Tolleson-AZ-85353",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3263,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "31",
-        "current_price": 459000,
-        "price_label": "$459K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.292062,
-          33.40365
         ]
       }
     },
