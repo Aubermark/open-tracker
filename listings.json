@@ -85453,6 +85453,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fa59953a-9cb5-53ae-a58c-d9ee063a6a39",
+        "address": "918-Blackthorn-Dr-Apopka-FL-32703",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3039,
+        "listed_at": "2026-10-26T10:20:06.000Z",
+        "days_on_market": "83",
+        "current_price": 572000,
+        "price_label": "$572K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.529923,
+          28.604525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa6a1bdf-76a3-4cb7-8601-f7d9297d977f",
         "address": "290-Marston-Rd-Livingston-TX-77351",
         "beds": 3,
