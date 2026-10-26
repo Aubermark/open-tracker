@@ -13045,27 +13045,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "26940f68-9207-571e-bdd4-36f580cd9944",
-        "address": "101-Maple-Hill-Ct-Winston-Salem-NC-27106",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1672,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "112",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.309479,
-          36.128948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "269445c7-d16e-55f3-8599-187accd49dd5",
         "address": "4800-Leonard-Ave-Henrico-VA-23231-18498952",
         "beds": 3,
@@ -23203,6 +23182,27 @@
         "coordinates": [
           -97.604751,
           30.802903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "424bcb15-a0ad-5595-9779-e40495e20a21",
+        "address": "2521 Gold Valley Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1258,
+        "listed_at": "2026-10-26T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.344596,
+          35.865433
         ]
       }
     },
@@ -46639,27 +46639,6 @@
         "coordinates": [
           -96.651474,
           33.614098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8b96e79a-3a73-53c3-b6e6-e3d794b14747",
-        "address": "3423-Anita-Glen-Dr-Greensboro-NC-27405",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2800,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "129",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.723092,
-          36.128591
         ]
       }
     },
