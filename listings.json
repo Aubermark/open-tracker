@@ -12541,27 +12541,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "246e1115-327a-51ff-9e55-542910fad9fe",
-        "address": "468-Carolina-Hickory-St-Loris-SC-29569",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1260,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "96",
-        "current_price": 226000,
-        "price_label": "$226K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.936367,
-          34.033096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2473b820-3385-5e47-9368-6869a36921ea",
         "address": "1437-Silver-Creek-Rd-Lewisburg-TN-37091",
         "beds": 3,
@@ -12619,27 +12598,6 @@
         "coordinates": [
           -87.884767,
           30.643954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "24bf6ccc-9625-5027-87fd-3f20dba42ed4",
-        "address": "8271-N-112th-Ave-Peoria-AZ-85345",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1644,
-        "listed_at": "2026-10-15T22:30:05.000Z",
-        "days_on_market": "138",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.300288,
-          33.55721
         ]
       }
     },
@@ -64069,6 +64027,27 @@
         "coordinates": [
           -95.526902,
           30.080463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bcb228ab-c2a7-5c15-8656-cd341bda5b52",
+        "address": "2043 Gerrard Ave",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 2201,
+        "listed_at": "2026-10-26T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.249149,
+          39.794081
         ]
       }
     },
