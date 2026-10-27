@@ -75814,6 +75814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dada7603-f60e-58e9-810c-a361a132ebe2",
+        "address": "453-Highlands-Ct-Augusta-GA-30907",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2179,
+        "listed_at": "2026-10-27T11:10:05.000Z",
+        "days_on_market": "91",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.066516,
+          33.531576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dada9eb3-7497-56be-8574-ed5b86802d97",
         "address": "5006-Elizabeth-Rd-Charlotte-NC-28269",
         "beds": 3,
