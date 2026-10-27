@@ -25,27 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "005420bd-a7b6-5f6c-a801-c43393c2dc27",
-        "address": "642-Lancer-Ct-Nw-Concord-NC-28027",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1318,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "97",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.631497,
-          35.405486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0062a651-4307-5841-9c70-8f83c3659876",
         "address": "98-Grimes-Dr-Martinsburg-WV-25403",
         "beds": 3,
@@ -36460,6 +36439,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a20d1b1-0345-5b0b-98de-bd8378a8d328",
+        "address": "4300 Peeksville Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1916,
+        "listed_at": "2026-10-27T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.002872,
+          33.396978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a4199d4-c263-5713-a45e-46c69ef17261",
         "address": "5067-Redan-Rd-Stone-Mountain-GA-30088",
         "beds": 3,
@@ -53359,27 +53359,6 @@
         "coordinates": [
           -97.379059,
           27.643702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9e9f4e8f-d344-53dc-805a-c9c2a75fc5d5",
-        "address": "34050-Se-Sturgeon-St-Scappoose-OR-97056",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2968,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "61",
-        "current_price": 514000,
-        "price_label": "$514K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.866639,
-          45.753714
         ]
       }
     },
