@@ -4834,6 +4834,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
+        "address": "829-E-4th-St-Englewood-FL-34223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1398,
+        "listed_at": "2026-10-27T19:30:05.000Z",
+        "days_on_market": "190",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.334724,
+          26.942348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
         "address": "5908 Wateree Dr",
         "beds": 3,
@@ -26275,27 +26296,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4b0e27b3-fa58-56ab-b183-1c3115ea961e",
-        "address": "308-W-Winterberry-Trl-White-House-TN-37188",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2192,
-        "listed_at": "2026-10-21T23:30:05.000Z",
-        "days_on_market": "47",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.687525,
-          36.488499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4b2e4df0-c111-4bd1-a47f-0f8ec0495902",
         "address": "8103-N-18th-St-Tampa-FL-33604",
         "beds": 3,
@@ -34480,6 +34480,27 @@
         "coordinates": [
           -95.683003,
           29.894361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "638f3355-bb44-5096-a4c6-4426bcc85a9a",
+        "address": "1825 N Miro St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1324,
+        "listed_at": "2026-10-27T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.066442,
+          29.979516
         ]
       }
     },
