@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "195f0c98-876b-5d5e-9f2e-1817c25b495f",
+        "address": "6536 Emerald Crossing Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1616,
+        "listed_at": "2026-10-27T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274305,
+          39.674001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1960a4fb-08c7-59b5-9aa4-fbd4115de2b6",
         "address": "5634-Tulip-Grove-Dr-Memphis-TN-38135",
         "beds": 3,
@@ -28852,27 +28873,6 @@
         "coordinates": [
           -86.164826,
           39.829647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "530e049f-629d-5288-a43c-86a550a8a349",
-        "address": "2321-Willow-Shade-Ln-Loganville-GA-30052",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2427,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "112",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.979322,
-          33.823115
         ]
       }
     },
