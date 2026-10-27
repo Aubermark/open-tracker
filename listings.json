@@ -9181,6 +9181,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "194ea752-b85e-52b3-b48c-c3e604c12c8b",
+        "address": "2846 Plato Pl",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1043,
+        "listed_at": "2026-10-27T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.465021,
+          38.135022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1950092c-afac-5725-b371-2824a4fe44a4",
         "address": "706-Crescent-Dr-Cherryville-NC-28021",
         "beds": 4,
@@ -46393,6 +46414,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8a5fe0f5-4311-5cc2-a971-ea2d6f2e5396",
+        "address": "3205 W Rogers Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1116,
+        "listed_at": "2026-10-27T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.496631,
+          27.886685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8a71b1d0-2955-5f89-a703-f680fe0f8362",
         "address": "3511-E-Baseline-Rd-Unit-1125-Phoenix-AZ-85042",
         "beds": 2,
@@ -50881,6 +50923,27 @@
         "coordinates": [
           -80.758126,
           35.389334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "97a764b0-dd94-5542-adca-92078805ded1",
+        "address": "3140 Earnhardt Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-10-27T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.469055,
+          35.547603
         ]
       }
     },
