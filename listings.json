@@ -26317,6 +26317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b701692-7e38-599d-9f0b-600ce477a870",
+        "address": "1408 Brooksland Pl",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3639,
+        "listed_at": "2026-10-27T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 675000,
+        "price_label": "$675K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.666656,
+          34.966178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b9a535e-2fa0-5860-a0ed-25cd602b16af",
         "address": "15803 Dunmoor Dr",
         "beds": 3,
