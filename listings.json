@@ -20689,6 +20689,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3bf2fb09-4311-5ef0-b371-4f7caac12866",
+        "address": "75 S Kingston St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-10-27T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.826465,
+          33.302109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c005c22-929f-5ad1-88f4-c88fbf30cf11",
         "address": "34390 Orchid Pkwy",
         "beds": 3,
