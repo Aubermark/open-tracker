@@ -16300,6 +16300,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f220092-f312-516d-92be-d13a64a0fad2",
+        "address": "190 Lealer Lyons Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-10-27T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 130000,
+        "price_label": "$130K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.726389,
+          34.331408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f25fc4c-4746-4181-899c-994658cffc40",
         "address": "681-Davenport-Dr-Waxahachie-TX-75167",
         "beds": 5,
