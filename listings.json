@@ -6325,27 +6325,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "115e2e99-cd9e-5085-acad-d61a26ebd301",
-        "address": "5578-E-Eugenia-Ave-Fresno-CA-93727",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1773,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "42",
-        "current_price": 414000,
-        "price_label": "$414K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.701493,
-          36.713367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1166aaf3-3dc8-5ecd-b99e-bbf7386a614f",
         "address": "9-Bluff-Ridge-Ct-Greenville-SC-29617",
         "beds": 4,
@@ -74443,6 +74422,27 @@
         "coordinates": [
           -116.921988,
           33.756202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d6adb4e8-d674-543f-865e-3013365e9391",
+        "address": "5018 Graford Pl",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1971,
+        "listed_at": "2026-10-27T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.403011,
+          27.675003
         ]
       }
     },
