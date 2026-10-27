@@ -1810,27 +1810,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "040334b1-8434-571c-a5c1-8f1b6fddc64c",
-        "address": "8809-10th-St-Lubbock-TX-79416",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1755,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "70",
-        "current_price": 206000,
-        "price_label": "$206K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.01125,
-          33.586867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "04113c83-8744-50fc-82dc-269dd89aa08c",
         "address": "1002-Catalpa-St-Pueblo-CO-81001",
         "beds": 2,
@@ -29692,6 +29671,27 @@
         "coordinates": [
           -86.854109,
           33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "54f55cc1-989a-5eab-adbf-a86c78be43fe",
+        "address": "411-Roy-Eaker-Rd-Cherryville-NC-28021",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1595,
+        "listed_at": "2026-10-27T14:40:05.000Z",
+        "days_on_market": "88",
+        "current_price": 262000,
+        "price_label": "$262K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.358802,
+          35.39716
         ]
       }
     },
