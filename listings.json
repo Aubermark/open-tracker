@@ -45238,6 +45238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85ffce06-5115-5d3b-b4e6-17447e2eac1d",
+        "address": "1135 Canyon View Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1496,
+        "listed_at": "2026-10-27T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.574385,
+          41.31179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "861d7824-9101-5391-849f-65eda4c15acc",
         "address": "6435-E-Calle-Castor-Tucson-AZ-85710",
         "beds": 3,
