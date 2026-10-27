@@ -12457,27 +12457,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "23ea10a0-eedc-50fa-ba4a-7af9f5353743",
-        "address": "1653-E-Kellogg-Cir-Douglasville-GA-30134",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1426,
-        "listed_at": "2026-08-30T18:20:04.000Z",
-        "days_on_market": "70",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.721801,
-          33.760764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "23f77e66-3b25-517b-a0dd-683592bce003",
         "address": "17641-W-Valentine-St-Surprise-AZ-85388",
         "beds": 5,
@@ -64930,6 +64909,27 @@
         "coordinates": [
           -79.896985,
           36.04737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "be9c85a4-e76c-526a-9c98-b8c66700b5ed",
+        "address": "223 W Ellendale Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "listed_at": "2026-10-27T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.316447,
+          44.92871
         ]
       }
     },
