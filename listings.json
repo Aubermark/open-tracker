@@ -2041,6 +2041,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "053a44b4-40b0-5fc4-a760-e8bc5bd013d6",
+        "address": "5805 89th St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1853,
+        "listed_at": "2026-10-27T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.940433,
+          33.512294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05475968-db51-5f6f-ada7-55d8501ef136",
         "address": "5151 Parsley Dr",
         "beds": 2,
@@ -60709,6 +60730,27 @@
         "coordinates": [
           -96.653459,
           32.994643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b2c7edbc-89cd-53ea-bc48-9e77548552ff",
+        "address": "3608 38th St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2251,
+        "listed_at": "2026-10-27T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.893044,
+          33.559968
         ]
       }
     },
