@@ -17077,6 +17077,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "31ca3853-d8b1-5c21-9ea1-97489158599d",
+        "address": "1973 E Lipizzan Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2282,
+        "listed_at": "2026-10-27T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.544555,
+          33.244522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "31ef42c7-accc-5977-b4ca-ba10f62febfc",
         "address": "27348-N-90th-Ln-Peoria-AZ-85383",
         "beds": 4,
@@ -56725,6 +56746,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a7a59701-c081-51d9-af9f-304282876cdf",
+        "address": "288 Hosack St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1753,
+        "listed_at": "2026-10-27T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.987576,
+          39.92281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a7ccc41a-17af-4831-8d89-14adac7770ad",
         "address": "12898-Golden-Hay-Cir-Nw-Madison-AL-35756",
         "beds": 3,
@@ -65518,6 +65560,27 @@
         "coordinates": [
           -79.78209,
           36.146883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c09006ae-e78c-585a-9c8f-dd84424c58d9",
+        "address": "8067 S Old Canyon Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-10-27T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.792788,
+          32.105056
         ]
       }
     },
