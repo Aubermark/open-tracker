@@ -12940,6 +12940,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "266a073d-d18c-5fb6-ba79-017aafbfe36b",
+        "address": "93-Black-River-Rd-Myrtle-Beach-SC-29588",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1612,
+        "listed_at": "2026-10-27T18:40:05.000Z",
+        "days_on_market": "113",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.018261,
+          33.619572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "266b01f9-45d2-4d79-baeb-7eea955fb908",
         "address": "1950-E-474-Pryor-OK-74361",
         "beds": 3,
@@ -46366,6 +46387,27 @@
         "coordinates": [
           -97.214383,
           33.015044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a274184-0e4d-50d8-90a8-cee61537848f",
+        "address": "207 La Mae Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "listed_at": "2026-10-27T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.140062,
+          37.757631
         ]
       }
     },
