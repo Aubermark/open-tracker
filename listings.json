@@ -58972,6 +58972,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae891d92-22ec-5d8b-adf1-b250749ebd7c",
+        "address": "8763-Autumn-Oaks-Dr-Rockford-MN-55373",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3122,
+        "listed_at": "2026-10-27T13:20:05.000Z",
+        "days_on_market": "67",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.752829,
+          45.083458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae89adc2-279c-59e8-8c7a-67edff948d5f",
         "address": "20509-W-Valley-View-Dr-Buckeye-AZ-85396",
         "beds": 5,
