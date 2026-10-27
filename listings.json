@@ -10819,6 +10819,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1f3e9b6a-3912-499b-8eee-9dccf1d03d22",
+        "address": "3344 Beeler Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1760,
+        "listed_at": "2026-10-27T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.890049,
+          35.220253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1f497f03-3ac0-5cc1-9da0-396a513f2504",
         "address": "19745-E-Raven-Dr-Queen-Creek-AZ-85142",
         "beds": 4,
@@ -46750,27 +46771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8b553d46-6a86-591f-a2eb-657848dd695a",
-        "address": "4532 Black Partridge Ln",
-        "beds": 5,
-        "baths": 2,
-        "sqft": 2040,
-        "listed_at": "2026-10-20T19:50:04.000Z",
-        "days_on_market": "7",
-        "current_price": 430000,
-        "price_label": "$430K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.103688,
-          41.801157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8b627dfe-ccbb-58f5-878f-15a64b4431e3",
         "address": "216-Lieck-Cv-Cibolo-TX-78108",
         "beds": 3,
@@ -59329,27 +59329,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "af472814-9748-5431-ac15-0c52b6bffcc1",
-        "address": "520-Woodlyn-Dr-Aurora-IL-60505",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1542,
-        "listed_at": "2026-09-29T17:20:04.000Z",
-        "days_on_market": "97",
-        "current_price": 355000,
-        "price_label": "$355K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.303326,
-          41.796061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "af5b6ab0-c7af-5ca3-a919-ec56e018c99e",
         "address": "1407-Rose-Ave-Killeen-TX-76543",
         "beds": 3,
@@ -66358,6 +66337,27 @@
         "coordinates": [
           -112.030813,
           33.587495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c201f48a-0907-56d5-8660-89c98c260f8a",
+        "address": "4509 NE Ridgeline Cir",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4698,
+        "listed_at": "2026-10-27T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.344154,
+          38.992986
         ]
       }
     },
