@@ -57691,6 +57691,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa86ae83-8042-5c15-abb1-43884f744efa",
+        "address": "112 Riverview Ct",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 875,
+        "listed_at": "2026-10-27T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.056671,
+          34.020362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa9d7352-4031-5870-b232-83c7352803fd",
         "address": "1600 Charnita Ct",
         "beds": 5,
