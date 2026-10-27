@@ -40954,27 +40954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "79b649de-d843-5255-8f2f-3f7ad4fca830",
-        "address": "208-Touchstone-Pl-West-Sacramento-CA-95691",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1206,
-        "listed_at": "2026-10-26T15:50:05.000Z",
-        "days_on_market": "102",
-        "current_price": 309000,
-        "price_label": "$309K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.539685,
-          38.550871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "79e18705-55cf-5225-835a-3700c8203761",
         "address": "8215 Foxdale Dr",
         "beds": 5,
@@ -86875,6 +86854,27 @@
         "coordinates": [
           -81.535805,
           41.588258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fc70946c-2104-5cfa-af1c-572bcbec538a",
+        "address": "202 Andrea Lynne Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3995,
+        "listed_at": "2026-10-27T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.885478,
+          38.784605
         ]
       }
     },
