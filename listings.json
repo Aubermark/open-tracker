@@ -3574,27 +3574,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "095a93d2-b36f-5159-8f99-e264998eb95d",
-        "address": "6623 Eva Pl",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1285,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "16",
-        "current_price": 607000,
-        "price_label": "$607K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.420742,
-          33.952807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0962f375-1fad-58b3-8807-d71c33d7b520",
         "address": "4198-George-Ave-Olivehurst-CA-95961",
         "beds": 3,
@@ -52357,27 +52336,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9c33167f-d261-5da5-8f94-7cfd4a2b7a30",
-        "address": "199 Kutz Rd",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3573,
-        "listed_at": "2026-10-16T06:53:10.000Z",
-        "days_on_market": "12",
-        "current_price": 567000,
-        "price_label": "$567K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.778306,
-          40.46047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9c424d79-21c5-517e-8711-f4ec8df789be",
         "address": "219 Honeysuckle Ln",
         "beds": 3,
@@ -57622,6 +57580,27 @@
         "coordinates": [
           -80.601926,
           34.978061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aa311b0c-b3b2-5924-8103-577339941ab8",
+        "address": "329 Glen Echo Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-10-27T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77558,
+          35.73127
         ]
       }
     },
