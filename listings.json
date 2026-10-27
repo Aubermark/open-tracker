@@ -36565,6 +36565,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a9931e7-79a7-5bcf-9a3c-4943be995883",
+        "address": "3352-W-Aksarben-Ave-Littleton-CO-80123",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2206,
+        "listed_at": "2026-10-27T18:10:05.000Z",
+        "days_on_market": "70",
+        "current_price": 594000,
+        "price_label": "$594K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.032582,
+          39.61921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a9ccfdf-6841-5b3c-a3be-713e6093c9cb",
         "address": "117-Cotton-Cordell-Rd-Lexington-SC-29072",
         "beds": 3,
