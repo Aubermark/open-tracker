@@ -51433,6 +51433,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "98d3d1b4-6665-5cb5-ad59-41a6309abedd",
+        "address": "6023 Timber Oaks Rdg",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2269,
+        "listed_at": "2026-10-27T08:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 311000,
+        "price_label": "$311K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.178533,
+          30.002388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "98d74d12-7f27-5ce0-b3cc-cf376c3beac0",
         "address": "5908-Bookbinders-Ln-Charlotte-NC-28270",
         "beds": 3,
