@@ -11554,27 +11554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "219afcab-6f08-4302-93ff-d453a1c150fa",
-        "address": "5017-Cozy-Ct-Springfield-MO-65802",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1557,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "49",
-        "current_price": 276000,
-        "price_label": "$276K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.384053,
-          37.192232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "219f7086-38b0-53dd-91a1-efd63949a964",
         "address": "10103-Meredith-Ave-Silver-Spring-MD-20910",
         "beds": 3,
@@ -13291,6 +13270,27 @@
         "coordinates": [
           -96.886117,
           32.538446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "272241e9-b290-5c0b-baf0-57edbf32e87f",
+        "address": "27 Cragmere Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2225,
+        "listed_at": "2026-10-27T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.490227,
+          39.768784
         ]
       }
     },
@@ -37006,27 +37006,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6bd1eafe-9e61-583f-8a3b-f3977e8e00fa",
-        "address": "1126 5th St NW",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1028,
-        "listed_at": "2026-10-22T18:20:03.000Z",
-        "days_on_market": "21",
-        "current_price": 519000,
-        "price_label": "$519K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.019228,
-          38.905144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6bdaf065-5a1b-5291-b330-f186aa16fe57",
         "address": "2120 Lazy Brook Trl",
         "beds": 3,
@@ -60421,6 +60400,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1e12a4e-0fb4-55ce-bf90-b09eae1fc33c",
+        "address": "13227 Stairock St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1920,
+        "listed_at": "2026-10-27T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.523853,
+          29.565386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1f7e5aa-4d24-5ce4-8f48-b4aa4f461112",
         "address": "6436-Kathy-Dr-High-Ridge-MO-63049",
         "beds": 4,
@@ -73603,6 +73603,27 @@
         "coordinates": [
           -98.293573,
           29.63387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d4ae7d80-65c1-5be2-bc87-26ec3c5af3a3",
+        "address": "1284 Admirals Dr",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 831,
+        "listed_at": "2026-10-27T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.617409,
+          48.163457
         ]
       }
     },
