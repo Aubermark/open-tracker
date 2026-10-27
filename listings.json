@@ -68590,6 +68590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c78fcfdb-cb3c-57bb-b8b9-e93d5684ffe3",
+        "address": "9410 Woodland Tree Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2373,
+        "listed_at": "2026-10-27T23:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 485000,
+        "price_label": "$485K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.219104,
+          34.334321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c7c2642e-0d89-53db-a5a9-9c62bfa0b332",
         "address": "3326 Briaroaks Dr",
         "beds": 2,
