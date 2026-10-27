@@ -50047,6 +50047,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95384906-07ef-5c37-a889-0b315be2027b",
+        "address": "5140 Kedron Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1692,
+        "listed_at": "2026-10-27T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83471,
+          35.66554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "953c0b50-d433-5df1-af5a-dbce436c1eba",
         "address": "6702-S-Ivy-Way-Apt-A7-Centennial-CO-80112",
         "beds": 2,
@@ -84313,6 +84334,27 @@
         "coordinates": [
           -85.942369,
           39.89897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f46db596-2f76-53da-94e4-9efce91e88b9",
+        "address": "2753-Winterbrook-Dr-Florence-SC-29505",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-10-27T15:30:05.000Z",
+        "days_on_market": "26",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.777074,
+          34.14262
         ]
       }
     },
