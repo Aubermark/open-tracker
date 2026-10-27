@@ -30265,6 +30265,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56d5d7e4-aca7-574a-afe9-d6109d380be7",
+        "address": "1301-Cinnamon-Pl-Galloway-OH-43119",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1608,
+        "listed_at": "2026-10-27T20:50:05.000Z",
+        "days_on_market": "172",
+        "current_price": 299000,
+        "price_label": "$299K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.147171,
+          39.92657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56e5cc60-ffe5-5f13-9611-59951655fbc9",
         "address": "205-N-Centurion-Ln-Mount-Holly-NC-28120",
         "beds": 4,
@@ -34333,27 +34354,6 @@
         "coordinates": [
           -95.434753,
           30.343275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6324c62b-fe5c-576e-9de2-2acc7f200bd4",
-        "address": "1201 E Pitkin St",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2607,
-        "listed_at": "2026-10-26T19:30:04.000Z",
-        "days_on_market": "1",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.05753,
-          40.570095
         ]
       }
     },
@@ -61723,27 +61723,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b599e89b-7365-5bb1-8384-a3f25269d77a",
-        "address": "316-Lithia-Ave-Saint-Louis-MO-63119",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "47",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.362379,
-          38.604002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b59b426f-1f2e-5c36-bec2-2b37ea4f66e0",
         "address": "3010-Hatton-St-Sarasota-FL-34237",
         "beds": 3,
@@ -85279,6 +85258,27 @@
         "coordinates": [
           -84.320782,
           37.638308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f6dacc16-023f-560b-a199-7a24c48bbbd3",
+        "address": "2221 W Altadena Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 980,
+        "listed_at": "2026-10-27T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.106433,
+          33.591895
         ]
       }
     },
