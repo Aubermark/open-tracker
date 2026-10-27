@@ -2965,27 +2965,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "07c2b001-b951-5039-b0ec-52da6decb16a",
-        "address": "1886-Greenwood-Rd-Chattanooga-TN-37406",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1040,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "81",
-        "current_price": 172000,
-        "price_label": "$172K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.241735,
-          35.057327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "07cc92c7-0ca7-57c3-8145-92f90ab0e09b",
         "address": "1012-Crown-Corners-Dr-Mc-Donough-GA-30253",
         "beds": 4,
@@ -14257,6 +14236,27 @@
         "coordinates": [
           -84.004003,
           34.457889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2a263aa3-b6e4-50d7-a7ea-71ecbeea83e1",
+        "address": "11968 Warbler Way",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 994,
+        "listed_at": "2026-10-27T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.20557,
+          39.231907
         ]
       }
     },
