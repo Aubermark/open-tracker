@@ -2209,6 +2209,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05a816ae-8769-57fe-8b3b-457efa3a0749",
+        "address": "6679 Arthur St NE",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1159,
+        "listed_at": "2026-10-28T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.232487,
+          45.089197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05af820d-ace9-5e02-9b36-5084e614d062",
         "address": "2361-Ne-21st-Ave-Jensen-Beach-FL-34957",
         "beds": 4,
@@ -6130,6 +6151,27 @@
         "coordinates": [
           -97.432278,
           31.117692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "10a5ff8a-91dc-53de-8748-970e9afc69b5",
+        "address": "267 Nobles Pond Xing",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1825,
+        "listed_at": "2026-10-28T16:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.580864,
+          39.204832
         ]
       }
     },
