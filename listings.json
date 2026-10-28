@@ -340,6 +340,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00d45423-ea7f-54b1-93af-e009b32f4b39",
+        "address": "5653 N Viceroy Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1073,
+        "listed_at": "2026-10-28T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 706000,
+        "price_label": "$706K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.891029,
+          34.115856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00ddbafc-8ee8-58e2-aed6-04a9b7211649",
         "address": "32847-Redwood-Blvd-Avon-Lake-OH-44012",
         "beds": 3,
