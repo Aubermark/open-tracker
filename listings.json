@@ -21550,6 +21550,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e055fa9-d5c0-5c03-bf65-d6f9485ea89e",
+        "address": "2713 Ranger Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2848,
+        "listed_at": "2026-10-28T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.906722,
+          33.252834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e1f6fd5-8a01-5bee-9274-fc60aa927e3a",
         "address": "1010-Blue-Ridge-Pkwy-Goodlettsville-TN-37072",
         "beds": 3,
