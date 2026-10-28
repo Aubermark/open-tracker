@@ -12436,6 +12436,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23c2a84d-c672-5645-bbd5-5267914a65fa",
+        "address": "591-Curry-Springs-Pl-Hamilton-VA-20158",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1458,
+        "listed_at": "2026-10-28T18:20:05.000Z",
+        "days_on_market": "48",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.669155,
+          39.132208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "23cd423c-a8ec-5bf0-8eca-7c222226a585",
         "address": "13480-Uinta-St-Thornton-CO-80602",
         "beds": 6,
@@ -23440,27 +23461,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "424bcb15-a0ad-5595-9779-e40495e20a21",
-        "address": "2521 Gold Valley Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1258,
-        "listed_at": "2026-10-26T18:40:04.000Z",
-        "days_on_market": "2",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.344596,
-          35.865433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "42510d88-31cc-5c14-b931-9fb5b4d91e4d",
         "address": "10215-N-36th-Ave-Phoenix-AZ-85051-17893801",
         "beds": 3,
@@ -30580,6 +30580,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "575b3cea-5ca4-5cd2-8561-c7f413e83560",
+        "address": "1 Morning Beach Dr",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 982,
+        "listed_at": "2026-10-28T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320577,
+          48.715952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5765553b-8009-520e-b318-bd678fb4420c",
         "address": "150-Wappoo-Trace-Ln-Summerville-SC-29486",
         "beds": 4,
@@ -31078,27 +31099,6 @@
         "coordinates": [
           -95.887239,
           30.089477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "58ee4f33-c6f8-5626-bfe7-9a6aa12094de",
-        "address": "148-Via-Montisi-Santee-CA-92071",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1239,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "79",
-        "current_price": 579000,
-        "price_label": "$579K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.024791,
-          32.83764
         ]
       }
     },
@@ -45694,6 +45694,27 @@
         "coordinates": [
           -106.441017,
           31.94199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8678431e-56fd-50f6-bd3f-24bf27f38328",
+        "address": "142-Snow-Owl-Holw-Buda-TX-78610",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2731,
+        "listed_at": "2026-10-28T18:20:05.000Z",
+        "days_on_market": "110",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.841622,
+          30.054253
         ]
       }
     },
