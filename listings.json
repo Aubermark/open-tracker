@@ -17182,6 +17182,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "320ab7dc-4b20-545a-ae4c-d06baad1cc9a",
+        "address": "6321 Roe St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1462,
+        "listed_at": "2026-10-28T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387694,
+          39.155096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "321062e6-5b3a-57f8-b01a-1d726ce3b0ca",
         "address": "2600-Wedgedale-Ave-Durham-NC-27703",
         "beds": 3,
