@@ -12373,6 +12373,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "239058b1-1dc0-58a9-954a-d57eea1bcb11",
+        "address": "16316 Walden Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 2140,
+        "listed_at": "2026-10-28T16:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.566351,
+          41.45487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "239eb6cf-8a73-58a1-9ca5-dcb424a5b9c5",
         "address": "124-Crescent-St-Georgetown-TX-78626",
         "beds": 3,
@@ -45232,27 +45253,6 @@
         "coordinates": [
           -80.033191,
           35.869787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85a29709-1b72-59b7-808a-ae0d54a08eea",
-        "address": "6-White-Fang-Dr-Glen-Carbon-IL-62034",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3970,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "48",
-        "current_price": 509000,
-        "price_label": "$509K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.976585,
-          38.77144
         ]
       }
     },
@@ -84817,27 +84817,6 @@
         "coordinates": [
           -112.345093,
           33.715884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f4193037-fdd5-5325-9f6c-b15471d2ad5c",
-        "address": "7715-4th-St-Wellington-CO-80549",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1517,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "76",
-        "current_price": 399000,
-        "price_label": "$399K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.003671,
-          40.697323
         ]
       }
     },
