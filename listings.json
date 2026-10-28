@@ -22810,6 +22810,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40a4b163-a118-5f8f-b02a-ff7af20f9d31",
+        "address": "1541 E 254th St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1808,
+        "listed_at": "2026-10-28T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 174000,
+        "price_label": "$174K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.506652,
+          41.586217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40b257da-18b4-49fa-8ea4-57a725cbca59",
         "address": "580 Pointe Of Oaks Rd",
         "beds": 4,
@@ -34990,6 +35011,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64d2301f-b3a9-5714-86c1-c0f34449b727",
+        "address": "9911 Max Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2185,
+        "listed_at": "2026-10-28T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.793988,
+          33.110955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64d3caaf-239b-550d-879f-6106fbbf0b92",
         "address": "3802-Claude-Brewer-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -37798,6 +37840,27 @@
         "coordinates": [
           -81.296066,
           28.250921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6da7273f-0516-5b85-864a-34d47fb0b94b",
+        "address": "178 Fitzgerald St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2437,
+        "listed_at": "2026-10-28T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 447000,
+        "price_label": "$447K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.088925,
+          39.354324
         ]
       }
     },
@@ -50167,6 +50230,27 @@
         "coordinates": [
           -80.167696,
           26.295606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "94bfa03a-f840-5602-a42c-5eb274355bb3",
+        "address": "6337-Pontoon-St-Fort-Worth-TX-76179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1685,
+        "listed_at": "2026-10-28T16:50:06.000Z",
+        "days_on_market": "93",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.421667,
+          32.861434
         ]
       }
     },
