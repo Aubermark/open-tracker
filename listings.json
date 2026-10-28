@@ -32890,27 +32890,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5e81a846-e91e-5d4c-904d-b14c04aa55a7",
-        "address": "7768-Syracuse-Dr-Clermont-FL-34714",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2177,
-        "listed_at": "2026-10-22T06:26:05.000Z",
-        "days_on_market": "183",
-        "current_price": 422000,
-        "price_label": "$422K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.716673,
-          28.460919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5e853466-b65f-5fec-b180-b06b8b536cb6",
         "address": "8269 Clipper Dr",
         "beds": 4,
@@ -53758,6 +53737,27 @@
         "coordinates": [
           -97.579365,
           30.257197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9f436992-1b03-5e8a-971c-b5cefc12fae9",
+        "address": "1324 Hubbard St",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3315,
+        "listed_at": "2026-10-28T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.653297,
+          30.339583
         ]
       }
     },
