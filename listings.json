@@ -19807,6 +19807,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39b35643-e74a-53f1-9a6c-65aa3c410f37",
+        "address": "1454 Milford Ct S",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1998,
+        "listed_at": "2026-10-28T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.595563,
+          33.878923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39ba6a9f-faa9-5041-82e2-1351603b7642",
         "address": "335-Hunters-Gln-Fayetteville-GA-30215",
         "beds": 3,
@@ -24736,27 +24757,6 @@
         "coordinates": [
           -82.983802,
           40.129062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
-        "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2160,
-        "listed_at": "2026-10-06T14:40:05.000Z",
-        "days_on_market": "187",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.326256,
-          34.658557
         ]
       }
     },
@@ -46282,6 +46282,27 @@
         "coordinates": [
           -89.820911,
           34.957637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
+        "address": "225-Ash-Cir-Trussville-AL-35173",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1710,
+        "listed_at": "2026-10-28T18:00:05.000Z",
+        "days_on_market": "245",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59042,
+          33.619648
         ]
       }
     },
