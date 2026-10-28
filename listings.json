@@ -11029,27 +11029,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1fef9517-ae4a-5813-8d2d-6a6fc300a5af",
-        "address": "706-Flanders-Ave-Daytona-Beach-FL-32114",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 807,
-        "listed_at": "2026-08-27T05:57:16.000Z",
-        "days_on_market": "81",
-        "current_price": 161000,
-        "price_label": "$161K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.033415,
-          29.222341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1ff600a8-16af-5491-b6ad-4fb41f714d9d",
         "address": "2455 Millwater Xing",
         "beds": 6,
@@ -33766,6 +33745,27 @@
         "coordinates": [
           -80.645959,
           35.026929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6157fe3f-b200-4182-867e-86fdcb5ec7f0",
+        "address": "125-High-Valley-Dr-Liberty-Hill-TX-78642",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2107,
+        "listed_at": "2026-10-28T16:20:06.000Z",
+        "days_on_market": "90",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.903536,
+          30.707293
         ]
       }
     },
