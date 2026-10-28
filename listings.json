@@ -62584,27 +62584,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b72290dd-0f7e-5b7a-89ba-f5cb181dddfe",
-        "address": "915-Kenham-Pl-Lenoir-NC-28645",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1264,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "90",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.536832,
-          35.883752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b72dd2c4-5fd2-5a2c-a758-34d4270b1f43",
         "address": "5795-Stewart-Mill-Rd-Douglasville-GA-30135",
         "beds": 3,
@@ -69802,6 +69781,27 @@
         "coordinates": [
           -84.127946,
           36.031155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ca8c9e24-d99b-5493-9888-0f6f8e43d13b",
+        "address": "2859-Savannah-Walk-Ln-Suwanee-GA-30024",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2828,
+        "listed_at": "2026-10-28T15:10:07.000Z",
+        "days_on_market": ">248",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.078493,
+          34.008396
         ]
       }
     },
