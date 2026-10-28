@@ -18421,6 +18421,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3542fb3e-1b94-5a8a-84f0-18d7a1b4a282",
+        "address": "3104 Marlowe Rd N",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1270,
+        "listed_at": "2026-10-28T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.916152,
+          35.77825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "355d89c5-42ef-44c6-9f80-f8c142d6f2d8",
         "address": "1704-102nd-Ave-Greeley-CO-80634",
         "beds": 3,
