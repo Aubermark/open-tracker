@@ -50173,27 +50173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "94e44bf8-1b2d-587f-8d5e-dc7f2a900d26",
-        "address": "23679-Hillside-Dr-Crestline-CA-92325",
-        "beds": 1,
-        "baths": 2,
-        "sqft": 504,
-        "listed_at": "2026-10-08T06:13:19.000Z",
-        "days_on_market": "48",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.286932,
-          34.244257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "94ecb915-6b38-507f-aa5e-4ab124e5a199",
         "address": "661-Main-St-Millis-MA-02054",
         "beds": 3,
@@ -71194,27 +71173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cec1e625-7513-5785-a642-2888cbbfe854",
-        "address": "576-Sunray-Dr-Clayton-NC-27520",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1212,
-        "listed_at": "2026-09-16T11:20:04.000Z",
-        "days_on_market": "92",
-        "current_price": 283000,
-        "price_label": "$283K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.408505,
-          35.562267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cecc94a4-da53-5781-ac95-66e8a8837cab",
         "address": "1715 Old Hollow Rd",
         "beds": 2,
@@ -71461,6 +71419,27 @@
         "coordinates": [
           -81.087861,
           35.363618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cf4510aa-96e8-51e6-9852-33314ce8bf4d",
+        "address": "4319 S Lenox St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1414,
+        "listed_at": "2026-10-28T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898695,
+          42.965986
         ]
       }
     },
