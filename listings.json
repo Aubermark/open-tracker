@@ -52651,6 +52651,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9c27ab3a-62de-5a64-8fe3-a620ee95a455",
+        "address": "8212-Boulder-River-Trl-Mc-Kinney-TX-75070",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3218,
+        "listed_at": "2026-10-28T17:40:07.000Z",
+        "days_on_market": "216",
+        "current_price": 465000,
+        "price_label": "$465K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.723033,
+          33.162503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9c327249-7a56-56ef-934a-be8d5f477d97",
         "address": "813 Clouded Valley Ave",
         "beds": 4,
