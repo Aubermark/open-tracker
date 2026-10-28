@@ -35662,6 +35662,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "66918e4d-2c30-5e56-98e2-4dd61c1dfd66",
+        "address": "120 Lenape Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2777,
+        "listed_at": "2026-10-28T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 555000,
+        "price_label": "$555K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020881,
+          39.950412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "66993a85-f952-5114-af16-96d0a51c0571",
         "address": "3168 Mavisbank Cir",
         "beds": 3,
@@ -40450,6 +40471,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "770aa645-1b31-5bb0-8a0f-8e60be19c048",
+        "address": "4876-Grassy-Knoll-Dr-Tavares-FL-32778",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2887,
+        "listed_at": "2026-10-28T19:30:05.000Z",
+        "days_on_market": "139",
+        "current_price": 339000,
+        "price_label": "$339K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.765924,
+          28.754423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "770c375f-1f46-5bbf-aac1-799067bbe62c",
         "address": "113 N Lake Rd",
         "beds": 4,
@@ -44608,27 +44650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "834a2bc7-62a9-5c21-a8ba-49638b4a0d2c",
-        "address": "90-Anthony-St-Pittsboro-NC-27312",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 960,
-        "listed_at": "2026-10-13T15:50:05.000Z",
-        "days_on_market": "75",
-        "current_price": 193000,
-        "price_label": "$193K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.174861,
-          35.709533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8364285a-bbb8-5c7a-8d9b-2406702ab7dd",
         "address": "440-First-Turn-Ct-Sw-Concord-NC-28025",
         "beds": 3,
@@ -47038,6 +47059,27 @@
         "coordinates": [
           -95.823385,
           29.691326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8af6aeb0-ff57-567c-8f54-9ad163a3508d",
+        "address": "220-Chestnut-Ct-Kingsland-GA-31548",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1520,
+        "listed_at": "2026-10-28T19:30:05.000Z",
+        "days_on_market": "70",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.647696,
+          30.797114
         ]
       }
     },
