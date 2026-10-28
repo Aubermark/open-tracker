@@ -32302,6 +32302,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c8acf42-8c0c-5ce9-b476-0f5542ae7af0",
+        "address": "923 W Kimball Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1959,
+        "listed_at": "2026-10-28T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.301005,
+          36.296652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c8f4aa5-3d79-5c4e-8760-bd453340329a",
         "address": "1609-Richland-Dr-Charlotte-NC-28205",
         "beds": 4,
@@ -67177,27 +67198,6 @@
         "coordinates": [
           -82.495487,
           42.722662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3458d64-309b-50d0-93e9-e76504922cf6",
-        "address": "6420-Torrence-Trace-Dr-Huntersville-NC-28078",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2831,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "114",
-        "current_price": 476000,
-        "price_label": "$476K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.925228,
-          35.415523
         ]
       }
     },
