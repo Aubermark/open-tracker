@@ -14179,6 +14179,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29b16a58-9a02-561f-a765-a4bfe881102d",
+        "address": "6831 Wilson St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1020,
+        "listed_at": "2026-10-28T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 165000,
+        "price_label": "$165K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.909794,
+          40.354899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29c0828d-5165-581a-b057-83091a753c3d",
         "address": "1340-Ottawa-Ave-Jacksonville-FL-32210",
         "beds": 3,
@@ -37042,6 +37063,27 @@
         "coordinates": [
           -97.210011,
           32.661838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6b2fe8d9-69db-5ab4-ad79-c66230578526",
+        "address": "140 Huntcliff Pt",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3883,
+        "listed_at": "2026-10-28T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 875000,
+        "price_label": "$875K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.372843,
+          33.997656
         ]
       }
     },
@@ -70180,6 +70222,27 @@
         "coordinates": [
           -105.01287,
           40.040232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb8155c6-c4ba-5600-a05c-7cedcc3aa3b9",
+        "address": "119 S Church St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 959,
+        "listed_at": "2026-10-28T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 110000,
+        "price_label": "$110K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60876,
+          33.921982
         ]
       }
     },
