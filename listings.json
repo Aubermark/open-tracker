@@ -58132,6 +58132,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa668f38-0901-54c1-aae2-ef43f3ba3c39",
+        "address": "1105 Bush St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1405,
+        "listed_at": "2026-10-28T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.525139,
+          44.559831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa8628dc-4ca1-522c-b6ea-e866555ea7f1",
         "address": "929-Carol-St-Fort-Morgan-CO-80701",
         "beds": 4,
