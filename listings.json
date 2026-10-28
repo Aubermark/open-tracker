@@ -1768,6 +1768,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03fda556-2152-5007-8192-af648bfd9ff1",
+        "address": "804 F St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1104,
+        "listed_at": "2026-10-28T13:50:06.000Z",
+        "days_on_market": "16",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.027958,
+          39.406074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03fe5f4a-bd6f-5378-a096-831a2514cf75",
         "address": "8052-Brockman-Ln-Nashville-TN-37211",
         "beds": 4,
@@ -43285,27 +43306,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7f7e90d3-8b37-5aeb-9bc0-714dc9c657d1",
-        "address": "34-Ramsgate-Dr-Clayton-NC-27520",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1863,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "30",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.495594,
-          35.562107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7f82b71a-67e1-552c-92e7-c9a9473edae8",
         "address": "932-Lincoln-Dr-Circleville-OH-43113",
         "beds": 3,
@@ -77236,6 +77236,27 @@
         "coordinates": [
           -79.945042,
           35.973463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de52350a-c6be-5649-8e39-d0b55a33bbf3",
+        "address": "645 10th Pl",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1125,
+        "listed_at": "2026-10-28T13:50:06.000Z",
+        "days_on_market": "13",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.698257,
+          27.996166
         ]
       }
     },
