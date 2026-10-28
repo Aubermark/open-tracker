@@ -42844,6 +42844,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e7a519b-1c6c-5b07-8476-8fde30ae0e06",
+        "address": "7910 Willoughby Ct",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 1897,
+        "listed_at": "2026-10-28T00:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 511000,
+        "price_label": "$511K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.230644,
+          34.10143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e7b4cf6-17ed-435f-92c0-1dca06ba9ae0",
         "address": "5829-Texas-Spur-Seguin-TX-78155",
         "beds": 3,
