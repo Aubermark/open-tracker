@@ -43852,6 +43852,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "80e1fc2d-400b-52b5-9297-c7c544877baf",
+        "address": "1608 Bishop Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1738,
+        "listed_at": "2026-10-28T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.052505,
+          35.253974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "80e6f4e4-8b53-5a7f-8e29-b4fec8978ef6",
         "address": "12309 Indian Mound Dr",
         "beds": 4,
