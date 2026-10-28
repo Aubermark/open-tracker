@@ -59308,6 +59308,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ae775d65-57c1-5c8d-9b7f-24a101591a7a",
+        "address": "16759 Shingle Oak Dr",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1826,
+        "listed_at": "2026-10-28T11:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.299889,
+          38.588719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ae891d92-22ec-5d8b-adf1-b250749ebd7c",
         "address": "8763-Autumn-Oaks-Dr-Rockford-MN-55373",
         "beds": 5,
