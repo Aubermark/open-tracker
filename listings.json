@@ -65881,6 +65881,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c03db8d5-5f4c-5103-b930-38a74d6884f4",
+        "address": "712 Haven Peak Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1771,
+        "listed_at": "2026-10-28T11:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.485384,
+          35.999879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c0439ff3-7bf8-5851-9716-0c11cfe85bae",
         "address": "203-Scotland-Dr-Dallas-GA-30132",
         "beds": 3,
