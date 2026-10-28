@@ -75919,6 +75919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d9b506f5-007b-5dec-ab8e-c867c950dad1",
+        "address": "7957-Jacques-Dr-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1158,
+        "listed_at": "2026-10-28T14:40:05.000Z",
+        "days_on_market": "126",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.780275,
+          30.273093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9c5d1d1-0ce5-5323-8d6e-2f3a2c58e1b1",
         "address": "2406-Manchester-Dr-Carrollton-TX-75006",
         "beds": 5,
