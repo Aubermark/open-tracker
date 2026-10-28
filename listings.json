@@ -4897,27 +4897,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
-        "address": "829-E-4th-St-Englewood-FL-34223",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1398,
-        "listed_at": "2026-10-27T19:30:05.000Z",
-        "days_on_market": "191",
-        "current_price": 230000,
-        "price_label": "$230K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.334724,
-          26.942348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
         "address": "5908 Wateree Dr",
         "beds": 3,
@@ -27109,6 +27088,27 @@
         "coordinates": [
           -80.777932,
           35.126706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4d4d8993-8123-5c08-a6ea-4a2dfd01cca7",
+        "address": "5609-Executive-Dr-New-Port-Richey-FL-34652",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2692,
+        "listed_at": "2026-10-28T18:40:07.000Z",
+        "days_on_market": "196",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.716786,
+          28.240624
         ]
       }
     },
