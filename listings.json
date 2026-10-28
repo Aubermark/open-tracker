@@ -9202,6 +9202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "194d0091-a86f-5bfe-b2f9-0dd786d05d00",
+        "address": "11350 Stone Trail Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1597,
+        "listed_at": "2026-10-28T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.688731,
+          35.302653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "194ea752-b85e-52b3-b48c-c3e604c12c8b",
         "address": "2846 Plato Pl",
         "beds": 3,
