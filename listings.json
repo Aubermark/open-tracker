@@ -81568,6 +81568,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eaa39303-261b-513e-82e6-9574d3b67efd",
+        "address": "8496-Glenview-St-Douglasville-GA-30134",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3050,
+        "listed_at": "2026-10-28T14:00:05.000Z",
+        "days_on_market": "142",
+        "current_price": 342000,
+        "price_label": "$342K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76194,
+          33.752035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eab2d6f2-e444-5a3c-bf93-4694a4f2ae5a",
         "address": "901-Lauren-Kay-Ct-Lawrenceville-GA-30046",
         "beds": 4,
