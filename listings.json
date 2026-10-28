@@ -74806,27 +74806,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d641d0ce-5d49-5950-93f9-4fc261db6803",
-        "address": "4519-S-Ridgewalk-Dr-Houston-TX-77053",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2058,
-        "listed_at": "2026-09-16T22:00:03.000Z",
-        "days_on_market": "72",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.452576,
-          29.581477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
@@ -85216,6 +85195,27 @@
         "coordinates": [
           -81.485479,
           30.124904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4cf5ee3-8e1c-5103-8ff0-fa7fa7198946",
+        "address": "13759 Clear Valley Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1926,
+        "listed_at": "2026-10-28T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.363103,
+          34.496535
         ]
       }
     },
