@@ -18316,6 +18316,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "34e0b447-19a3-5ff2-8642-15fb8a56a16d",
+        "address": "4533 Kessler Lane East Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1676,
+        "listed_at": "2026-10-28T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.092105,
+          39.862571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "34e358e2-d6b1-43fe-b380-11348f0b5d29",
         "address": "6713-Newbridge-Cv-Bessemer-AL-35022",
         "beds": 4,
