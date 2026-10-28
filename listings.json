@@ -9454,27 +9454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "19c56e1c-29ee-57f0-a750-0dead99b9fae",
-        "address": "3662-Brownley-Dr-Macon-GA-31206",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1359,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "69",
-        "current_price": 138000,
-        "price_label": "$138K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.702138,
-          32.803051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "19cf6d37-77bd-5e7b-bdfb-fe80f4adb26e",
         "address": "127-Jason-Dr-Red-Oak-TX-75154-18361941",
         "beds": 3,
@@ -21460,6 +21439,27 @@
         "coordinates": [
           -84.388732,
           33.484598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3d3b6661-c090-5411-a895-f99a52417c82",
+        "address": "2825 Lochbroom Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1928,
+        "listed_at": "2026-10-28T22:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 508000,
+        "price_label": "$508K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.109969,
+          35.934302
         ]
       }
     },
