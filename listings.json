@@ -40093,6 +40093,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75ff2cf4-8875-5c4b-9a66-eb8b4f121acf",
+        "address": "10525 Carmel Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1824,
+        "listed_at": "2026-10-28T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.078836,
+          30.543243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7610bf49-a8b6-55b0-9681-cfab4a4eaa7c",
         "address": "11715-Dunhill-Place-Dr-Alpharetta-GA-30005",
         "beds": 5,
@@ -87778,27 +87799,6 @@
         "coordinates": [
           -83.901315,
           34.150885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fd0bdb0f-9f30-59a8-bd32-f70e34e93e41",
-        "address": "748-Wylie-St-Crowley-TX-76036",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1815,
-        "listed_at": "2026-09-10T06:10:27.000Z",
-        "days_on_market": "90",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.339651,
-          32.588011
         ]
       }
     },
