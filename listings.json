@@ -44776,6 +44776,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "841a512c-dec2-57a8-97df-3d7d8a2e03f1",
+        "address": "8251-S-Evening-Dr-Pendleton-IN-46064",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3126,
+        "listed_at": "2026-10-28T00:00:05.000Z",
+        "days_on_market": "243",
+        "current_price": 323000,
+        "price_label": "$323K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.855926,
+          39.983962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8434c397-a350-5358-8e25-81d51f84892b",
         "address": "18803-Luminescent-Ln-Spring-TX-77379",
         "beds": 3,
@@ -85174,6 +85195,27 @@
         "coordinates": [
           -87.688067,
           41.475687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f594c6c5-cc06-5aee-9dd9-24d5ad4d1fa6",
+        "address": "1310 Otter Creek Rd",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 3965,
+        "listed_at": "2026-10-28T00:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1700000,
+        "price_label": "$1.700M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.817075,
+          36.067356
         ]
       }
     },
