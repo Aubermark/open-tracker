@@ -1264,6 +1264,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02bcefaa-387c-5121-9ebc-b0d736988a14",
+        "address": "304 Helen St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1499,
+        "listed_at": "2026-10-28T14:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.090132,
+          30.360059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "02beb63f-90b2-59ea-98df-7b38c57b6b32",
         "address": "2432-Sunflower-Dr-Evans-GA-30809",
         "beds": 5,
@@ -2749,6 +2770,27 @@
         "coordinates": [
           -80.651721,
           35.242326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "07514e6c-4a77-55f2-9ac6-b8ba322405c4",
+        "address": "16712 Shipshaw River Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1871,
+        "listed_at": "2026-10-28T14:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.825746,
+          30.550539
         ]
       }
     },
@@ -46870,27 +46912,6 @@
         "coordinates": [
           -95.823385,
           29.691326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8af396ea-6f8d-5c90-a53c-a4a718981c6f",
-        "address": "345-Peaceful-Meadows-Dr-Ne-Rio-Rancho-NM-87144",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1458,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "110",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.728832,
-          35.320114
         ]
       }
     },
