@@ -51034,6 +51034,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "964279fa-86a0-5a7c-b06d-0d5b0aa1fbf3",
+        "address": "207 Mayflower Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1402,
+        "listed_at": "2026-10-29T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 342000,
+        "price_label": "$342K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.490932,
+          34.113686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "96444d7b-c905-540c-8861-32b814df25f9",
         "address": "5002 Hectare Ln",
         "beds": 3,
@@ -68059,27 +68080,6 @@
         "coordinates": [
           -89.722545,
           35.194017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c4b6a106-99fa-5d28-963a-29eaa81541d8",
-        "address": "404-Vincent-St-Cedar-Hill-TX-75104",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1724,
-        "listed_at": "2026-09-30T05:47:03.000Z",
-        "days_on_market": "30",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.939336,
-          32.583907
         ]
       }
     },
