@@ -63865,6 +63865,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9aa7d5f-0a8d-5faf-aa0d-8ccd74764500",
+        "address": "413 Orchid Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2084,
+        "listed_at": "2026-10-29T15:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.867157,
+          35.888533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9b4e13a-0017-5809-81c1-e3e1e2318ead",
         "address": "28539-N-Moonstone-Way-San-Tan-Valley-AZ-85143",
         "beds": 5,
