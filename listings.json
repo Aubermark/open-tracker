@@ -65713,6 +65713,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bf22a10d-39b7-51e3-9f45-58a6763dc1e7",
+        "address": "1311 15th Ave S",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2268,
+        "listed_at": "2026-10-29T15:10:05.000Z",
+        "days_on_market": "10",
+        "current_price": 238000,
+        "price_label": "$238K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.168878,
+          45.545432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bf2b0648-624d-5c01-9075-f9d619dc0e22",
         "address": "104 Hearthstone Dr",
         "beds": 3,
