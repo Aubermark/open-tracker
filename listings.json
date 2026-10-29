@@ -39589,6 +39589,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7416c87a-7a37-517c-9f8f-ca455b318d2b",
+        "address": "201-Sw-137th-Ter-Oklahoma-City-OK-73170",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2591,
+        "listed_at": "2026-10-29T19:20:07.000Z",
+        "days_on_market": "94",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.515272,
+          35.331792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "74351546-4da3-5ba0-81d5-0ae245cc2d78",
         "address": "26335-Shady-Acres-San-Antonio-TX-78260",
         "beds": 4,
@@ -83185,6 +83206,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee223009-78a0-5289-b6a2-e51090cf26a7",
+        "address": "4014 Birchwood Pl",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1750,
+        "listed_at": "2026-10-29T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.292348,
+          38.540694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ee35f963-0243-5c66-b147-8fe194bc7937",
         "address": "10510-E-Palladium-Dr-Mesa-AZ-85212",
         "beds": 4,
@@ -83347,6 +83389,27 @@
         "coordinates": [
           -80.814679,
           35.378738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ee9d6dd0-bf05-556f-b38f-6c9a42113b12",
+        "address": "4101-Tower-Ln-Crowley-TX-76036",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1532,
+        "listed_at": "2026-10-29T19:20:07.000Z",
+        "days_on_market": "51",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.382004,
+          32.564902
         ]
       }
     },
