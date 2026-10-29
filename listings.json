@@ -928,6 +928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01fff844-edf1-5ed9-9b15-4571ed38134c",
+        "address": "6816-58th-St-Ne-Marysville-WA-98270",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2331,
+        "listed_at": "2026-10-29T17:20:05.000Z",
+        "days_on_market": "62",
+        "current_price": 684000,
+        "price_label": "$684K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.138678,
+          48.047601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "020e318d-ba1e-55d6-bbe9-ded71d55e864",
         "address": "4322-Sunny-Creek-Pl-Kissimmee-FL-34746",
         "beds": 3,
@@ -10498,6 +10519,27 @@
         "coordinates": [
           -84.661097,
           33.925295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1e24bc64-0418-5a12-9239-a6ea3a3664fe",
+        "address": "1747-Palermo-Dr-Riverside-CA-92507",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2012,
+        "listed_at": "2026-10-29T17:20:05.000Z",
+        "days_on_market": "62",
+        "current_price": 592000,
+        "price_label": "$592K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.352832,
+          33.995614
         ]
       }
     },
@@ -59176,6 +59218,27 @@
         "coordinates": [
           -84.00526,
           33.786484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ad3206e4-588d-52b4-9c70-83d2bdf0ea05",
+        "address": "9605-Nw-81st-St-Tamarac-FL-33321",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1654,
+        "listed_at": "2026-10-29T17:20:05.000Z",
+        "days_on_market": "150",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.280881,
+          26.225488
         ]
       }
     },
