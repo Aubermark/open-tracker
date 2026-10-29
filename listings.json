@@ -70753,6 +70753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cbdde487-e5a0-5545-911e-b72adf7b5bbf",
+        "address": "2539 Buffat Mill Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1597,
+        "listed_at": "2026-10-29T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.909002,
+          36.00316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cbf0b9c7-95b2-548a-ab9f-cf8d72651780",
         "address": "100-Cramer-Pl-Martinsville-IN-46151",
         "beds": 4,
