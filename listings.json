@@ -10546,6 +10546,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e411da9-eac1-59b2-a9fd-80e83a69eff7",
+        "address": "3725 School Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1824,
+        "listed_at": "2026-10-29T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.402464,
+          41.339558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e4f15f0-1d5b-5285-be11-912cf06f002b",
         "address": "1108-Herrin-Ave-Charlotte-NC-28205",
         "beds": 3,
@@ -47674,6 +47695,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c156e21-62ba-5be9-b208-e34772924aa5",
+        "address": "14114 W Pine Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1692,
+        "listed_at": "2026-10-29T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4407,
+          34.201427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c237017-9b54-58d2-9ec8-8cd92c098007",
         "address": "1346-Harrop-St-Ogden-UT-84404",
         "beds": 3,
@@ -76648,27 +76690,6 @@
         "coordinates": [
           -84.146553,
           34.106971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "da095cf4-f34f-587c-8e14-dec49dd64872",
-        "address": "5327 Lake Gardens Dr",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2004,
-        "listed_at": "2026-10-13T06:13:49.000Z",
-        "days_on_market": "17",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.022948,
-          32.644132
         ]
       }
     },
