@@ -12541,6 +12541,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23fab219-3749-5e3a-bea3-fa1e10d46e51",
+        "address": "806-Ruswood-Rd-Winder-GA-30680",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1492,
+        "listed_at": "2026-10-29T13:30:05.000Z",
+        "days_on_market": "51",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.785166,
+          34.030697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "242212d5-852c-56a7-94e4-6459bcb09df5",
         "address": "13561-Glacier-Cir-Hesperia-CA-92345",
         "beds": 3,
@@ -13522,6 +13543,27 @@
         "coordinates": [
           -117.205521,
           33.554826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "27e9d21a-80cb-541c-b0b1-2c282858d67e",
+        "address": "2431-Rabbit-Farm-Cir-Loganville-GA-30052",
+        "beds": 7,
+        "baths": 5.5,
+        "sqft": 7182,
+        "listed_at": "2026-10-29T13:30:05.000Z",
+        "days_on_market": "64",
+        "current_price": 1331000,
+        "price_label": "$1.331M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.894405,
+          33.774275
         ]
       }
     },
@@ -27130,27 +27172,6 @@
         "coordinates": [
           -80.777932,
           35.126706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4d4d8993-8123-5c08-a6ea-4a2dfd01cca7",
-        "address": "5609-Executive-Dr-New-Port-Richey-FL-34652",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2692,
-        "listed_at": "2026-10-28T18:40:07.000Z",
-        "days_on_market": "197",
-        "current_price": 570000,
-        "price_label": "$570K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.716786,
-          28.240624
         ]
       }
     },
