@@ -1831,6 +1831,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0408641e-810f-5d88-b1f1-bab7b85cc5c3",
+        "address": "5146 Morgan Taylor Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1858,
+        "listed_at": "2026-10-29T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 388000,
+        "price_label": "$388K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.470865,
+          35.908949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "04113c83-8744-50fc-82dc-269dd89aa08c",
         "address": "1002-Catalpa-St-Pueblo-CO-81001",
         "beds": 2,
