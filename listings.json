@@ -16594,6 +16594,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ff30c87-2db5-59e8-955d-6aa705b72159",
+        "address": "1025 Seine Dr",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2751,
+        "listed_at": "2026-10-29T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.760752,
+          38.786146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ffb24cd-6ff8-4023-9b02-5103dd6bb48b",
         "address": "33412-Sw-Callahan-Rd-Scappoose-OR-97056",
         "beds": 3,
@@ -23959,6 +23980,27 @@
         "coordinates": [
           -117.350116,
           33.976529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "439b8b0a-7a0d-5bde-bbb7-5293fb239206",
+        "address": "7266 Lupton Cir",
+        "beds": 4,
+        "baths": 6.5,
+        "sqft": 6266,
+        "listed_at": "2026-10-29T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 2500000,
+        "price_label": "$2.500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.780691,
+          32.876786
         ]
       }
     },
@@ -47653,6 +47695,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8c59e002-3b93-5734-bf79-aba8e7f5ec41",
+        "address": "20-Lordvale-Blvd-North-Grafton-MA-01536",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1631,
+        "listed_at": "2026-10-29T19:00:06.000Z",
+        "days_on_market": "177",
+        "current_price": 376000,
+        "price_label": "$376K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.728474,
+          42.221244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8c79fe72-6ee4-5119-907c-f23e5ab2859b",
         "address": "1122 Tobacco Rd",
         "beds": 3,
@@ -56383,6 +56446,27 @@
         "coordinates": [
           -80.871915,
           35.012133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a55fe87e-81e3-505f-806a-156351acda86",
+        "address": "1342 N Indigo Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3433,
+        "listed_at": "2026-10-29T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.040488,
+          32.239545
         ]
       }
     },
