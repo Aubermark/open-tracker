@@ -37594,6 +37594,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c482c1f-9f2f-5759-8353-79859eccd665",
+        "address": "1021-Dekleva-Dr-Apopka-FL-32712",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1953,
+        "listed_at": "2026-10-29T18:40:07.000Z",
+        "days_on_market": "200",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.555872,
+          28.6986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c6456eb-caf8-5f08-a28a-61f5a38a3100",
         "address": "7776 Somerset Ln",
         "beds": 3,
@@ -43453,6 +43474,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f7c96c9-4004-5c62-84c8-430cd1f07358",
+        "address": "5569-S-3400-W-Roy-UT-84067",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2231,
+        "listed_at": "2026-10-29T18:40:07.000Z",
+        "days_on_market": "72",
+        "current_price": 456000,
+        "price_label": "$456K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.061641,
+          41.162262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f82b71a-67e1-552c-92e7-c9a9473edae8",
         "address": "932-Lincoln-Dr-Circleville-OH-43113",
         "beds": 3,
@@ -49306,27 +49348,6 @@
         "coordinates": [
           -80.741542,
           35.218462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9157b05a-40f2-5645-8db8-723d66bb2172",
-        "address": "284-Siloam-Church-Rd-Dahlonega-GA-30533",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2847,
-        "listed_at": "2026-10-23T13:40:05.000Z",
-        "days_on_market": "173",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.038068,
-          34.526994
         ]
       }
     },
@@ -69907,27 +69928,6 @@
         "coordinates": [
           -81.213348,
           28.688787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c9ab1f05-5a94-57ce-804c-1e0cf7887a8c",
-        "address": "1502-W-Meadowview-Rd-Greensboro-NC-27403",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1201,
-        "listed_at": "2026-09-29T06:04:49.000Z",
-        "days_on_market": "31",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.822824,
-          36.039938
         ]
       }
     },
