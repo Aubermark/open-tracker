@@ -8992,6 +8992,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18d1d180-0038-497e-8c53-b6c15e7e6f6e",
+        "address": "11915 Fiddlers Roof Ln",
+        "beds": 3,
+        "baths": 4,
+        "sqft": 2656,
+        "listed_at": "2026-10-29T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 562000,
+        "price_label": "$562K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.813872,
+          35.049475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18e7d97f-b467-56c2-adbb-558d4afdb8d2",
         "address": "3713-Ripley-St-Sacramento-CA-95838-18268625",
         "beds": 3,
@@ -35299,27 +35320,6 @@
         "coordinates": [
           -96.389687,
           32.941894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "658870d6-62c6-5ec2-a2e8-2f05363d7412",
-        "address": "2813-Wood-Dr-Ne-Center-Point-AL-35215",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1899,
-        "listed_at": "2026-10-09T14:40:04.000Z",
-        "days_on_market": "199",
-        "current_price": 188000,
-        "price_label": "$188K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.67751,
-          33.659407
         ]
       }
     },
@@ -67975,6 +67975,27 @@
         "coordinates": [
           -87.660827,
           41.492261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c48a1b7f-266a-5f60-9049-6d26cf3d8410",
+        "address": "4256 Cranton Ct NE",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2091,
+        "listed_at": "2026-10-29T23:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.319111,
+          33.919678
         ]
       }
     },
