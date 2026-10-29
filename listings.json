@@ -11680,6 +11680,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "21d18ce9-b19c-5ff1-bf05-893f4a59fff0",
+        "address": "1876 Camellia Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-10-29T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.313344,
+          33.728891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "21e5a5e5-5910-5172-a984-5af31ea2bc91",
         "address": "6113-Rock-Dove-Cir-Colleyville-TX-76034",
         "beds": 3,
@@ -22930,6 +22951,27 @@
         "coordinates": [
           -81.506652,
           41.586217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40b140e2-951e-547b-84ce-de8163286ae1",
+        "address": "4762 Jamerson Creek Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1598,
+        "listed_at": "2026-10-29T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.509608,
+          34.066713
         ]
       }
     },
@@ -77068,6 +77110,27 @@
         "coordinates": [
           -90.477545,
           30.05834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db664be4-04bb-5848-9f23-b4fcc93ac792",
+        "address": "199 Chamberlain Hwy",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1638,
+        "listed_at": "2026-10-29T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.815567,
+          41.545292
         ]
       }
     },
