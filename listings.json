@@ -69997,6 +69997,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca75aa1b-060d-54fa-a018-e91e755d70cc",
+        "address": "7321 Pinecastle Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1992,
+        "listed_at": "2026-10-29T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.197179,
+          38.893859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca7dfa0a-3d8e-5d5a-993a-732118c42659",
         "address": "141-Meadowview-Ln-Powell-TN-37849",
         "beds": 3,
