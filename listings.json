@@ -10357,6 +10357,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1dd3fbc5-02ba-5374-a81a-fc79c928eeaf",
+        "address": "5064-Greystone-Way-Hoover-AL-35242",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 6030,
+        "listed_at": "2026-10-29T17:30:06.000Z",
+        "days_on_market": "125",
+        "current_price": 1164000,
+        "price_label": "$1.164M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.646529,
+          33.429289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1ded1621-8cde-50f8-b97b-10e8dcdc39d3",
         "address": "409 Berwick Ave",
         "beds": 4,
