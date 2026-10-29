@@ -8509,6 +8509,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
+        "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1916,
+        "listed_at": "2026-10-29T15:50:07.000Z",
+        "days_on_market": "170",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.790383,
+          35.212193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "178a4933-0bf7-509b-8b9c-ebf24eb7861e",
         "address": "116 S Clinton Ave",
         "beds": 4,
@@ -61801,6 +61822,27 @@
         "coordinates": [
           -84.279414,
           39.154034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b47fd753-bb3f-516e-9ff5-be90830fbae0",
+        "address": "3622-Lantern-Crest-Cv-Scottdale-GA-30079",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1596,
+        "listed_at": "2026-10-29T15:50:07.000Z",
+        "days_on_market": "34",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.249198,
+          33.789891
         ]
       }
     },
