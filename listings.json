@@ -33100,6 +33100,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5eea90eb-18b3-549d-af74-cf39029fbd29",
+        "address": "316 Mulberry Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1460,
+        "listed_at": "2026-10-29T14:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.396175,
+          33.896825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5eee9b39-b19f-5907-80b6-d9f8d40aaea5",
         "address": "1910-Tawakani-Ln-Little-Elm-TX-75068",
         "beds": 3,
