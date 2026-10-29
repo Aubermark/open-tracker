@@ -35368,6 +35368,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "658cb81e-add5-5429-86bd-9d2243a68d8d",
+        "address": "4415 W Paseo Way",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3706,
+        "listed_at": "2026-10-29T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.155032,
+          33.361458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65a13a7e-66e3-5e11-b5a1-77e71e81cbce",
         "address": "1219-Franklin-St-Taylorsville-IN-47280",
         "beds": 2,
