@@ -13990,27 +13990,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "28d3e89d-e361-526c-8c64-60dd652574fc",
-        "address": "2341-Mountain-Sky-Dr-Fort-Lupton-CO-80621",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1781,
-        "listed_at": "2026-10-23T14:00:04.000Z",
-        "days_on_market": "80",
-        "current_price": 436000,
-        "price_label": "$436K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.78514,
-          40.076246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "28ef9b5a-9e51-5252-a3ec-48456fc64c02",
         "address": "245-Steeple-Point-Dr-Roswell-GA-30076",
         "beds": 7,
@@ -45553,6 +45532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85bc4ff8-0e21-571f-ad52-9687ef2a3c55",
+        "address": "4695 Wayne Blvd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1433,
+        "listed_at": "2026-10-29T20:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.194998,
+          39.504941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85bf93e7-2134-5c11-b89e-dfc3bdd12f0f",
         "address": "21-Glenhawk-Loop-Irmo-SC-29063",
         "beds": 3,
@@ -75388,6 +75388,27 @@
         "coordinates": [
           -78.916142,
           35.905571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d6dd98c3-18eb-58f4-ad3f-8aa81751e9c4",
+        "address": "105 E Hawk Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2565,
+        "listed_at": "2026-10-29T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.208752,
+          26.255763
         ]
       }
     },
