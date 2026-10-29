@@ -40135,27 +40135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "75d8ce68-5728-5488-b45d-615e4ad3f30f",
-        "address": "1315 Saturn Dr",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 808,
-        "listed_at": "2026-10-23T20:30:04.000Z",
-        "days_on_market": "6",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.699213,
-          36.119748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "75e74463-1c88-523a-ad61-5816d0cea73b",
         "address": "5418 142nd Ave NW",
         "beds": 3,
@@ -67435,6 +67414,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c2652efe-d899-57d8-bd56-09512935d9db",
+        "address": "421-N-3rd-St-Jacksboro-TX-76458",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1478,
+        "listed_at": "2026-10-29T22:40:05.000Z",
+        "days_on_market": "125",
+        "current_price": 125000,
+        "price_label": "$125K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.167531,
+          33.222495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c2732eea-ae33-5a50-9cd8-293d59e38d66",
         "address": "3501 W Forest Park Ave",
         "beds": 3,
@@ -83851,6 +83851,27 @@
         "coordinates": [
           -80.96034,
           33.984634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef733aa5-03fe-5768-b1cb-c23fef1e3811",
+        "address": "4902 Sparrow",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1206,
+        "listed_at": "2026-10-29T22:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.394118,
+          29.570709
         ]
       }
     },
