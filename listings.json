@@ -22600,27 +22600,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3fe185fd-d49d-54a6-a7de-2b32c0118401",
-        "address": "4410-E-La-Cienega-St-Tucson-AZ-85712",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1999,
-        "listed_at": "2026-09-25T18:40:04.000Z",
-        "days_on_market": "48",
-        "current_price": 385000,
-        "price_label": "$385K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.897985,
-          32.26203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3feca892-9406-51a4-93ae-671bebdeffe5",
         "address": "13-Stanford-Ridge-Ct-Irmo-SC-29063",
         "beds": 3,
@@ -33346,6 +33325,27 @@
         "coordinates": [
           -80.853744,
           35.127681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5f97b36c-68bf-58c0-bbbe-bf68a4accb64",
+        "address": "6234-Simien-Rd-Indianapolis-IN-46237",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3236,
+        "listed_at": "2026-10-29T18:10:06.000Z",
+        "days_on_market": "38",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.076999,
+          39.676816
         ]
       }
     },
