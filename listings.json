@@ -28858,6 +28858,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "52394e37-b875-5b1e-9a46-afa5063f2325",
+        "address": "107 Inwood Ln",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1421,
+        "listed_at": "2026-10-29T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.409751,
+          35.274133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "523a1ef2-19d0-5f07-913a-84a163f7ec96",
         "address": "1469 6th St",
         "beds": 4,
@@ -68044,6 +68065,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c434072a-5cab-5fb0-b2cf-5251fd867b20",
+        "address": "11819 Amblewood Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1829,
+        "listed_at": "2026-10-29T21:10:05.000Z",
+        "days_on_market": "17",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.586992,
+          29.653593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c4437e0f-9818-5332-b4f6-1403396f5500",
         "address": "781-W-Flintlock-Way-Chandler-AZ-85286",
         "beds": 4,
@@ -83830,6 +83872,27 @@
         "coordinates": [
           -78.511574,
           36.011181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef4cf43c-2b95-5079-b28d-99b5f9537f60",
+        "address": "9274 Sedalia St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1738,
+        "listed_at": "2026-10-29T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 472000,
+        "price_label": "$472K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.781744,
+          39.865361
         ]
       }
     },
