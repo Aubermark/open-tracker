@@ -40135,6 +40135,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75e74463-1c88-523a-ad61-5816d0cea73b",
+        "address": "5418 142nd Ave NW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-10-29T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.404718,
+          45.227966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "75ecd7e1-5e2d-5235-9f4d-bcb6900ea434",
         "address": "1959-Wood-Shadows-Dr-Missouri-City-TX-77489",
         "beds": 2,
@@ -59155,27 +59176,6 @@
         "coordinates": [
           -85.988017,
           39.996346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "acaa64d2-5886-52d2-9ed9-d62e8f981bc9",
-        "address": "2790 Azelda St",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1332,
-        "listed_at": "2026-10-16T15:00:03.000Z",
-        "days_on_market": "13",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.987033,
-          40.022137
         ]
       }
     },
@@ -88891,27 +88891,6 @@
         "coordinates": [
           -81.203237,
           34.100138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ff0174d7-e0f2-5caa-8a80-2b6aa3f84480",
-        "address": "4412 Cedar Valley Dr",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3152,
-        "listed_at": "2026-10-09T19:10:04.000Z",
-        "days_on_market": "20",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.778198,
-          33.076634
         ]
       }
     },
