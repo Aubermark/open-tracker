@@ -508,27 +508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0128a47e-a965-584f-97c4-e2293c243d53",
-        "address": "23866-W-Ripple-Rd-Buckeye-AZ-85326",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1567,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "94",
-        "current_price": 336000,
-        "price_label": "$336K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.563987,
-          33.42414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "012b01f5-eed2-5fdf-8fc3-bbfed8fa869d",
         "address": "1301-Graham-Cir-Erie-CO-80516",
         "beds": 6,
@@ -10687,6 +10666,27 @@
         "coordinates": [
           -123.181601,
           45.231614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1ea85242-e696-5209-bdff-ed5c5e48cb18",
+        "address": "141-Chessher-Ct-Crestview-FL-32539",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1682,
+        "listed_at": "2026-10-29T18:20:06.000Z",
+        "days_on_market": "69",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.556572,
+          30.766727
         ]
       }
     },
@@ -53422,6 +53422,27 @@
         "coordinates": [
           -81.52252,
           35.28572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9d80aa0e-6f9e-51b5-b6d8-b447603ed633",
+        "address": "6450 E Coal Bluff Ct",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2792,
+        "listed_at": "2026-10-29T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.308157,
+          39.627425
         ]
       }
     },
