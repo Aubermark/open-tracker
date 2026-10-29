@@ -63025,6 +63025,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b76eadb3-3c4f-5150-95eb-620762fcf93e",
+        "address": "7304-Milestone-Dr-Apollo-Beach-FL-33572",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2160,
+        "listed_at": "2026-10-29T15:00:05.000Z",
+        "days_on_market": "94",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.373908,
+          27.776444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b77e058e-3b08-57d1-90fa-b39739136fa3",
         "address": "3888-Courtland-Cir-Thomasville-NC-27360",
         "beds": 3,
