@@ -50005,6 +50005,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "93ed47d9-8430-5fca-b729-34899c4dcdf6",
+        "address": "2001 Gable Way Ln",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2657,
+        "listed_at": "2026-10-29T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 516000,
+        "price_label": "$516K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.70048,
+          35.073377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "93eed1bc-c5ae-57af-bf27-c0a048d39764",
         "address": "3016-Heather-Ridge-Dr-Henrico-VA-23231",
         "beds": 5,
