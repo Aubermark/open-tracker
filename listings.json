@@ -64579,6 +64579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bad62ce8-b54e-5ef7-94cc-2e6285ca3408",
+        "address": "21886-Pinewilde-Ct-Porter-TX-77365",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1587,
+        "listed_at": "2026-10-30T16:20:06.000Z",
+        "days_on_market": "63",
+        "current_price": 219000,
+        "price_label": "$219K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.295723,
+          30.13217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "baed925f-7c9b-5cac-9515-ad66d448aa67",
         "address": "3730-Dedrick-Ct-New-Port-Richey-FL-34655",
         "beds": 2,
@@ -70852,6 +70873,27 @@
         "coordinates": [
           -86.816665,
           35.978374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cba9138f-d2eb-543d-8af9-892513255cf8",
+        "address": "5201 Eagle Island Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1592,
+        "listed_at": "2026-10-30T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.419344,
+          28.232235
         ]
       }
     },
