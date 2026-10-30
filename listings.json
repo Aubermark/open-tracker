@@ -39736,6 +39736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7306b1ad-2fd1-5644-8911-f5d1ab5b8b6b",
+        "address": "103 Ronele Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3746,
+        "listed_at": "2026-10-30T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.286796,
+          27.900406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "730f1372-92da-5385-b017-d04169a82a6d",
         "address": "35620-92nd-Avenue-Ct-S-Mc-Kenna-WA-98558",
         "beds": 3,
