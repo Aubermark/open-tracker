@@ -23671,6 +23671,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "420ae08c-b812-548c-a2d6-ceada0ce715a",
+        "address": "3581 Adelaide Xing",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2278,
+        "listed_at": "2026-10-30T21:07:41.000Z",
+        "days_on_market": "0",
+        "current_price": 607000,
+        "price_label": "$607K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324388,
+          33.896384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4219d7b1-e804-5852-bfb5-08c929fa91a1",
         "address": "123-Filigree-Way-Durham-NC-27713",
         "beds": 5,
