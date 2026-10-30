@@ -4897,6 +4897,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0cefdfc4-0489-5cd1-95fc-851a90a4191c",
+        "address": "829-E-4th-St-Englewood-FL-34223",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1398,
+        "listed_at": "2026-10-30T14:20:05.000Z",
+        "days_on_market": "193",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.334724,
+          26.942348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0cf257e2-93ba-56bb-a38b-c83c0d82a9bb",
         "address": "5908 Wateree Dr",
         "beds": 3,
@@ -34900,6 +34921,27 @@
         "coordinates": [
           -90.066442,
           29.979516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "639d4c8f-a5d8-5859-8842-6de3e7f9b1ee",
+        "address": "415 Russell St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1147,
+        "listed_at": "2026-10-30T14:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.461106,
+          32.764735
         ]
       }
     },
@@ -66841,27 +66883,6 @@
         "coordinates": [
           -81.24774,
           28.56025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c116afb3-b898-58a9-a470-00b0121aefe8",
-        "address": "2215-Angela-Dr-Sw-Lilburn-GA-30047",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3051,
-        "listed_at": "2026-10-23T13:40:05.000Z",
-        "days_on_market": "32",
-        "current_price": 389000,
-        "price_label": "$389K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.093154,
-          33.825349
         ]
       }
     },
