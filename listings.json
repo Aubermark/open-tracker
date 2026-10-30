@@ -80875,6 +80875,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e71160a9-7099-5a92-bbf7-eb07a633a1b6",
+        "address": "110 Goshawk Walk",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2313,
+        "listed_at": "2026-10-30T00:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.833074,
+          33.561208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e7242ac4-bdad-5690-b553-8efc7597bd79",
         "address": "8 Big Bluff Pl",
         "beds": 3,
