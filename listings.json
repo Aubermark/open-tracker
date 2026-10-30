@@ -21487,27 +21487,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3d338008-ff1e-5455-ab68-ab33c26ded24",
-        "address": "85-Pulaski-Pl-Jonesboro-GA-30238",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2596,
-        "listed_at": "2026-10-05T15:20:05.000Z",
-        "days_on_market": "108",
-        "current_price": 343000,
-        "price_label": "$343K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.388732,
-          33.484598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3d3b6661-c090-5411-a895-f99a52417c82",
         "address": "2825 Lochbroom Way",
         "beds": 3,
@@ -22090,6 +22069,27 @@
         "coordinates": [
           -84.479536,
           34.099824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3ed2e259-e8ca-5b85-a221-be5d6dd3f2a8",
+        "address": "8337 Shoregate Ln",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4023,
+        "listed_at": "2026-10-30T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 615000,
+        "price_label": "$615K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.967625,
+          36.092291
         ]
       }
     },
@@ -86203,6 +86203,27 @@
         "coordinates": [
           -77.557141,
           38.265629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f62c2805-5e03-55f0-ba0a-f34f27faf100",
+        "address": "7030 Spotted Deer Pl",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1120,
+        "listed_at": "2026-10-30T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.348867,
+          27.872529
         ]
       }
     },
