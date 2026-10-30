@@ -87385,6 +87385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f94aa511-055c-5062-bb81-4154fd6901cd",
+        "address": "16315 Swan View Cir",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-10-30T19:20:05.000Z",
+        "days_on_market": "18",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.545906,
+          28.185237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f958fd3d-ddfc-4c00-be43-ebae6de4a18c",
         "address": "331-Collier-Rd-Mount-Juliet-TN-37122",
         "beds": 4,
