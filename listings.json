@@ -77158,6 +77158,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "db6811d4-6093-52f9-aeca-62c13d6b6faf",
+        "address": "1707-Aster-Dr-Columbia-TN-38401",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2335,
+        "listed_at": "2026-10-30T13:00:05.000Z",
+        "days_on_market": "116",
+        "current_price": 494000,
+        "price_label": "$494K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.065061,
+          35.594174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "db6f9d71-54d3-5f4e-9732-52192c82edcf",
         "address": "2228 Silverthorn Ln",
         "beds": 4,
