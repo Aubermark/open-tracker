@@ -54142,6 +54142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9ee31861-5702-53a4-ac6c-7df08ff33980",
+        "address": "19819 Edensborough Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1588,
+        "listed_at": "2026-10-30T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.716135,
+          29.815199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9eedfc7c-09f8-5cdf-bc70-ad6d8205b8c9",
         "address": "5225 Boyd Dr",
         "beds": 3,
