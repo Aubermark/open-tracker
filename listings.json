@@ -21739,6 +21739,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3de15a63-15d3-550c-adad-0c0f4b3bdc65",
+        "address": "10809 Northgate Trail Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1675,
+        "listed_at": "2026-10-30T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651035,
+          35.25323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e055fa9-d5c0-5c03-bf65-d6f9485ea89e",
         "address": "2713 Ranger Ln",
         "beds": 3,
@@ -35215,6 +35236,27 @@
         "coordinates": [
           -83.895332,
           33.822033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "64f3088f-5db2-58bc-ac17-6ae93e3c1080",
+        "address": "4209 Ambrose Ave NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1593,
+        "listed_at": "2026-10-30T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.627428,
+          43.040286
         ]
       }
     },
