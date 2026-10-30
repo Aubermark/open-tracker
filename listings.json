@@ -9286,6 +9286,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19171303-0483-54b0-98d8-59aab4100ac9",
+        "address": "6940 Peak Way",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2657,
+        "listed_at": "2026-10-30T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 746000,
+        "price_label": "$746K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.17137,
+          38.735525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "191bb7e8-c76a-5584-b15b-951ae3aff8d7",
         "address": "12846-W-Rosewood-Dr-El-Mirage-AZ-85335",
         "beds": 3,
@@ -14194,6 +14215,27 @@
         "coordinates": [
           -83.207072,
           42.41482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "28df5fff-6ce8-5cc2-a868-e1f56829ae67",
+        "address": "8 Saint Marks Ct",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3275,
+        "listed_at": "2026-10-30T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 591000,
+        "price_label": "$591K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.484942,
+          38.471367
         ]
       }
     },
@@ -25687,27 +25729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "48361311-d0cb-5501-93ac-02b1de886181",
-        "address": "12129-E-Exposition-Dr-Aurora-CO-80012",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1991,
-        "listed_at": "2026-10-23T13:50:04.000Z",
-        "days_on_market": "38",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.846647,
-          39.704277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4847edd1-d315-51dd-8998-4fb9e893be4d",
         "address": "28-11th-St-Greer-SC-29651",
         "beds": 3,
@@ -33220,6 +33241,27 @@
         "coordinates": [
           -85.105018,
           35.036392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e8cc446-d7f8-581e-b027-1afc23e97b94",
+        "address": "1791 W 131st Ct",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1364,
+        "listed_at": "2026-10-30T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 417000,
+        "price_label": "$417K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.008532,
+          39.93654
         ]
       }
     },
@@ -87337,27 +87379,6 @@
         "coordinates": [
           -84.036949,
           33.104207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f94d7d2b-e9b5-5a1c-8734-0a387c3ad04a",
-        "address": "5191-Quintilis-St-Spring-Hill-FL-34608",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2142,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "121",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.53214,
-          28.505585
         ]
       }
     },
