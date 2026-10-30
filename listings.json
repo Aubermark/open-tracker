@@ -88645,6 +88645,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fccd8d60-7c73-5ea9-a75c-6d0c8c5cc310",
+        "address": "3235 Park Overlook Dr",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3290,
+        "listed_at": "2026-10-30T21:13:29.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.134029,
+          45.038914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fcd43e82-21dd-5f7a-8361-52fe26df242d",
         "address": "476 S 1500 E",
         "beds": 6,
