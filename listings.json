@@ -17413,27 +17413,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "317c1fe5-f657-5f7d-b6eb-aa749cb71306",
-        "address": "111-Tyler-Ct-Gallatin-TN-37066",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1156,
-        "listed_at": "2026-09-17T06:29:11.000Z",
-        "days_on_market": "66",
-        "current_price": 325000,
-        "price_label": "$325K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.464962,
-          36.369832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3189587d-4d95-505b-a99b-b545da1dcffa",
         "address": "27-Russman-Ln-Palm-Coast-FL-32164",
         "beds": 4,
@@ -78271,27 +78250,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "de3d7e24-1b05-5170-b707-6481fd84c951",
-        "address": "800-Edinburgh-Dr-Jamestown-NC-27282",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2220,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "100",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.945042,
-          35.973463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "de52350a-c6be-5649-8e39-d0b55a33bbf3",
         "address": "645 10th Pl",
         "beds": 3,
@@ -81541,6 +81499,27 @@
         "coordinates": [
           -78.882904,
           35.991228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e7a143f4-e367-589f-b0ff-0dab2a31139f",
+        "address": "193 Brackin Trce",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2787,
+        "listed_at": "2026-10-30T22:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 452000,
+        "price_label": "$452K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.950681,
+          33.910133
         ]
       }
     },
