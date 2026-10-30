@@ -51895,6 +51895,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "97c6069c-a9e4-5530-ad7e-21841dd5b22a",
+        "address": "52 Main St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1858,
+        "listed_at": "2026-10-30T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.456643,
+          34.706213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "97c99a80-23dd-5dce-910c-ba2389c263c3",
         "address": "4058-Leontria-Ave-Columbus-OH-43219",
         "beds": 4,
@@ -55753,6 +55774,27 @@
         "coordinates": [
           -104.82755,
           40.21508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a2786516-b9eb-5c79-bab4-1c204cdc88ef",
+        "address": "35881-W-Catalan-St-Maricopa-AZ-85138",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 3900,
+        "listed_at": "2026-10-30T19:30:05.000Z",
+        "days_on_market": "31",
+        "current_price": 401000,
+        "price_label": "$401K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.952951,
+          33.052974
         ]
       }
     },
