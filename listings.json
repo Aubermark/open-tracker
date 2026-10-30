@@ -8446,6 +8446,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17533edb-2b5d-59ed-b199-a94027220579",
+        "address": "1100 Lonsdale Blvd E",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4019,
+        "listed_at": "2026-10-30T11:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1075000,
+        "price_label": "$1.075M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.282991,
+          44.471072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "175b8320-360b-56ac-8d04-c2b6ba89bc9b",
         "address": "313 Hannah Pl",
         "beds": 4,
