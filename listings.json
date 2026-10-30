@@ -65419,6 +65419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc812fae-12dd-5079-b607-00b8a4149d45",
+        "address": "20423 N 149th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1766,
+        "listed_at": "2026-10-30T23:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.38161,
+          33.670595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc83fb17-deb7-5187-b40e-80474785e425",
         "address": "1305-Rocky-Ridge-Trl-Harker-Heights-TX-76548",
         "beds": 5,
