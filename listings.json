@@ -8614,6 +8614,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "175f6b55-b5c7-539c-a5ab-c97519a4e04e",
+        "address": "78 Mauser Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2258,
+        "listed_at": "2026-10-30T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74589,
+          34.206818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1781668d-d438-5ce9-91cc-f080faa269d0",
         "address": "1322-Carolyn-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -30832,6 +30853,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56e53c87-413e-5924-890a-b2a3e9db3487",
+        "address": "11339-E-Glowing-Sunset-Dr-Tucson-AZ-85747",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1800,
+        "listed_at": "2026-10-30T21:50:05.000Z",
+        "days_on_market": "102",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.750951,
+          32.08509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56e5cc60-ffe5-5f13-9611-59951655fbc9",
         "address": "205-N-Centurion-Ln-Mount-Holly-NC-28120",
         "beds": 4,
@@ -35005,6 +35047,27 @@
         "coordinates": [
           -95.434753,
           30.343275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6324c62b-fe5c-576e-9de2-2acc7f200bd4",
+        "address": "1201 E Pitkin St",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2607,
+        "listed_at": "2026-10-30T21:50:05.000Z",
+        "days_on_market": "4",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05753,
+          40.570095
         ]
       }
     },
@@ -47437,6 +47500,27 @@
         "coordinates": [
           -82.456935,
           28.16876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8a96ab19-e8ed-590c-a92d-0853fdd91f87",
+        "address": "945 Brandon Ridge Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3330,
+        "listed_at": "2026-10-30T21:50:05.000Z",
+        "days_on_market": "15",
+        "current_price": 785000,
+        "price_label": "$785K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352886,
+          34.037921
         ]
       }
     },
