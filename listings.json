@@ -7585,6 +7585,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "145ba736-6593-5fe4-8c3a-89f2aea06b51",
+        "address": "30177 N Sunray Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1437,
+        "listed_at": "2026-10-30T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.565379,
+          33.153716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1475108f-389f-58de-addb-a8aa275a755e",
         "address": "1618-Hillside-Dr-Waxahachie-TX-75165",
         "beds": 3,
@@ -27157,27 +27178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4c7bee50-cd04-52d7-baba-0bbfd9f839e5",
-        "address": "4050-Paloverde-Dr-Nw-Kennesaw-GA-30144",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2124,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "43",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.620202,
-          34.046934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4c7d46bb-cbc0-5d9c-be6f-8b32496bbf3c",
         "address": "544 Palimino Pass",
         "beds": 4,
@@ -30343,6 +30343,27 @@
         "coordinates": [
           -77.178181,
           39.185033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5592ed53-8397-5449-a51e-3a0b51b5ff90",
+        "address": "60 Corn Crib Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1225,
+        "listed_at": "2026-10-30T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.821932,
+          33.341037
         ]
       }
     },
