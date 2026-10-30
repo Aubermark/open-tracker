@@ -22999,6 +22999,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40b62ea7-9e30-5be4-8b14-0f67849e8bd8",
+        "address": "8623 Plum Lake Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2082,
+        "listed_at": "2026-10-30T13:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 307000,
+        "price_label": "$307K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.649693,
+          29.903356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40c839f1-8bb2-5fa8-ad69-7291d33781aa",
         "address": "364-Homestead-St-Detroit-Lakes-MN-56501",
         "beds": 4,
@@ -47101,27 +47122,6 @@
         "coordinates": [
           -96.795847,
           33.321744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8ac845fe-9c3a-5c5f-b186-583cc83d6000",
-        "address": "13804-Long-Shadow-Dr-Manor-TX-78653",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2085,
-        "listed_at": "2026-10-10T15:20:04.000Z",
-        "days_on_market": "73",
-        "current_price": 321000,
-        "price_label": "$321K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.542684,
-          30.357317
         ]
       }
     },
