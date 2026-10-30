@@ -26506,6 +26506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4b5a43e1-5358-5bc0-8b36-c240b210d084",
+        "address": "6941-Laura-Hts-Schertz-TX-78154",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3443,
+        "listed_at": "2026-10-30T02:00:05.000Z",
+        "days_on_market": "204",
+        "current_price": 517000,
+        "price_label": "$517K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.264409,
+          29.490633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4b701692-7e38-599d-9f0b-600ce477a870",
         "address": "1408 Brooksland Pl",
         "beds": 5,
