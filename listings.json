@@ -16699,6 +16699,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f3ac219-3e06-5843-b2bf-5062dfd212e9",
+        "address": "4942 Alpine Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1554,
+        "listed_at": "2026-10-30T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.843588,
+          33.68634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f4b5428-7ca3-5da7-8ffa-8998b0eeb2bb",
         "address": "511-Manigault-St-Winnsboro-SC-29180",
         "beds": 3,
@@ -32170,6 +32191,27 @@
         "coordinates": [
           -78.775358,
           35.924228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5bb190e1-2cfe-5567-8fdf-5b747082e9d6",
+        "address": "120-Longbranch-Rd-Winter-Park-FL-32792",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3284,
+        "listed_at": "2026-10-30T20:30:06.000Z",
+        "days_on_market": "74",
+        "current_price": 860000,
+        "price_label": "$860K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.308048,
+          28.631883
         ]
       }
     },
