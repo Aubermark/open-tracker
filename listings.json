@@ -62542,6 +62542,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b5d3f17f-f8a6-5652-8424-0267433b8111",
+        "address": "8421 Cypress Lake Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1768,
+        "listed_at": "2026-10-30T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.500025,
+          27.389902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b5d49dd8-e0a5-5449-a8cb-4af5dab18215",
         "address": "141 Westongate Way",
         "beds": 5,
