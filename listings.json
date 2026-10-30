@@ -16279,6 +16279,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2eb1d2c8-3059-54b0-9d7c-6c0c12c38bfe",
+        "address": "1713 Hillside Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1012,
+        "listed_at": "2026-10-30T08:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.440303,
+          28.009188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2eb2067a-3602-5ada-a0f0-152aeb27d38f",
         "address": "11422-E-Dartmouth-St-Mesa-AZ-85207",
         "beds": 4,
