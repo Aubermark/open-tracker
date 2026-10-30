@@ -6514,6 +6514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "115e2e99-cd9e-5085-acad-d61a26ebd301",
+        "address": "5578-E-Eugenia-Ave-Fresno-CA-93727",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1773,
+        "listed_at": "2026-10-30T22:00:05.000Z",
+        "days_on_market": "45",
+        "current_price": 414000,
+        "price_label": "$414K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.701493,
+          36.713367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1166aaf3-3dc8-5ecd-b99e-bbf7386a614f",
         "address": "9-Bluff-Ridge-Ct-Greenville-SC-29617",
         "beds": 4,
@@ -15811,6 +15832,27 @@
         "coordinates": [
           -94.774019,
           38.869496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2cbef97a-6475-5f90-99a0-e40dd40285e2",
+        "address": "1860 Oak Tree Holw",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2432,
+        "listed_at": "2026-10-30T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 636000,
+        "price_label": "$636K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.206737,
+          34.073009
         ]
       }
     },
