@@ -20668,6 +20668,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b356f2f-2ce1-5ccb-baa1-7a0d93183132",
+        "address": "1973 Monaco Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1711,
+        "listed_at": "2026-10-30T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.931541,
+          32.420501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b4cf40e-f5b1-5f61-9aca-5059ed5496ac",
         "address": "11570-Caminito-La-Bar-Unit-105-San-Diego-CA-92126",
         "beds": 2,
@@ -81499,27 +81520,6 @@
         "coordinates": [
           -95.311222,
           30.022852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e8787a68-83c6-5fb5-a8c7-75a1d9f499a6",
-        "address": "2197 Hidden Creek Dr",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2016,
-        "listed_at": "2026-10-20T06:06:25.000Z",
-        "days_on_market": "11",
-        "current_price": 273000,
-        "price_label": "$273K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.186773,
-          33.724136
         ]
       }
     },
