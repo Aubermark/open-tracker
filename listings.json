@@ -16048,6 +16048,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d3d958f-57bc-5b5e-bcce-134c9f08aa9a",
+        "address": "3563 Huntertown Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2192,
+        "listed_at": "2026-10-30T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.908934,
+          40.602842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d8aabf9-25e5-5cd9-acf1-520530ab9de0",
         "address": "5120-Ne-139th-Loop-Vancouver-WA-98682",
         "beds": 3,
