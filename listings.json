@@ -3637,6 +3637,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "095c0e1d-7765-5d89-be26-4ddc71b6568f",
+        "address": "1344 Cayton Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2830,
+        "listed_at": "2026-10-30T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.673594,
+          38.995117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0962f375-1fad-58b3-8807-d71c33d7b520",
         "address": "4198-George-Ave-Olivehurst-CA-95961",
         "beds": 3,
@@ -57859,27 +57880,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a7a59701-c081-51d9-af9f-304282876cdf",
-        "address": "288 Hosack St",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1753,
-        "listed_at": "2026-10-27T17:50:04.000Z",
-        "days_on_market": "3",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.987576,
-          39.92281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a7ccc41a-17af-4831-8d89-14adac7770ad",
         "address": "12898-Golden-Hay-Cir-Nw-Madison-AL-35756",
         "beds": 3,
@@ -61612,27 +61612,6 @@
         "coordinates": [
           -98.790128,
           29.424413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b295ddfa-ebe8-500e-a550-66d2ee2f06bb",
-        "address": "814-Becks-Gap-Rd-Augusta-WV-26704",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1822,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "50",
-        "current_price": 328000,
-        "price_label": "$328K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.512622,
-          39.269093
         ]
       }
     },
