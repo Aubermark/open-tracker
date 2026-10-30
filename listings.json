@@ -19303,6 +19303,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37ba6da8-2e48-5735-8ff5-0734296711d6",
+        "address": "205 S Tampania Ave",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1868,
+        "listed_at": "2026-10-30T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 705000,
+        "price_label": "$705K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.486296,
+          27.942694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "37d431f7-da17-59de-96b4-feb46fccfdbe",
         "address": "3223 Berkley Pointe Dr",
         "beds": 3,
