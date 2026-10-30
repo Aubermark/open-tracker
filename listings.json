@@ -70501,6 +70501,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cac932a8-23c7-5472-9d9c-2a42cc557b6b",
+        "address": "8619 Foxridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1458,
+        "listed_at": "2026-10-30T08:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 314000,
+        "price_label": "$314K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.858202,
+          33.684464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cad75771-ad02-5afc-9fec-076e18adf473",
         "address": "4211-Honeycomb-St-San-Antonio-TX-78230",
         "beds": 4,
