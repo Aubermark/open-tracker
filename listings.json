@@ -9160,6 +9160,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "18f9db34-00e1-5936-8b5a-03c8738199a1",
+        "address": "4211 Hargrove Marable Rd",
+        "beds": 6,
+        "baths": 4,
+        "sqft": 5759,
+        "listed_at": "2026-10-30T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.559021,
+          36.423603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18fd65bb-3eb1-51f2-8b10-4b75d1e940e9",
         "address": "1207-Toledo-Bend-Dr-Princeton-TX-75407",
         "beds": 5,
@@ -19024,6 +19045,27 @@
         "coordinates": [
           -79.732473,
           36.133317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "36c44b7e-f73e-5553-8bcf-7003c3a7aeec",
+        "address": "7294 Mahogany Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1222,
+        "listed_at": "2026-10-30T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 312000,
+        "price_label": "$312K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.879609,
+          38.901617
         ]
       }
     },
@@ -89122,6 +89164,27 @@
         "coordinates": [
           -82.431061,
           27.742809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ff37daad-7a5b-5537-af40-2547b1411234",
+        "address": "134 Treasure St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1280,
+        "listed_at": "2026-10-30T17:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.058804,
+          28.068827
         ]
       }
     },
