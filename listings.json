@@ -46204,6 +46204,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "87b66c01-7bb9-57d5-83c9-e7783e63158d",
+        "address": "1526 SE 31st Ct",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1166,
+        "listed_at": "2026-10-30T00:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.455987,
+          25.440753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "87d365fe-d99a-4d2e-a223-410c37a10167",
         "address": "9694-Brackenfield-Ln-0-Frisco-TX-75035",
         "beds": 4,
@@ -55984,6 +56005,27 @@
         "coordinates": [
           -93.487571,
           45.242581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a3eeb8c3-a497-5fa4-832e-6e2bfcf489ee",
+        "address": "5233 Dreamgarden Loop",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1427,
+        "listed_at": "2026-10-30T00:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.358158,
+          38.770872
         ]
       }
     },
