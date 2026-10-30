@@ -24028,6 +24028,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "42cd6fe7-8432-5977-8ae6-c2e90a113f65",
+        "address": "3105 Passour Ridge Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1352,
+        "listed_at": "2026-10-30T23:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.789373,
+          35.314061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "42e0bfca-e744-54ba-a6a3-74d650dad3d7",
         "address": "10648-Secret-Garden-Ln-Charlotte-NC-28214",
         "beds": 3,
