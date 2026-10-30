@@ -13108,6 +13108,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25172efe-1daa-564e-9f51-c4d2fa7d6c73",
+        "address": "135 Willowood Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1361,
+        "listed_at": "2026-10-30T20:49:03.000Z",
+        "days_on_market": "0",
+        "current_price": 212000,
+        "price_label": "$212K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.015457,
+          35.003491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25198c2e-41ba-551b-b4ed-4d9816c1dd82",
         "address": "2243-Mintew-Cir-Lincolnton-NC-28092",
         "beds": 3,
