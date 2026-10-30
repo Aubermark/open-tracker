@@ -4057,6 +4057,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a67051a-b9f2-5fe8-aa82-5905ef8689a5",
+        "address": "13234 Center Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 891,
+        "listed_at": "2026-10-30T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.773429,
+          27.893047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a6b6c89-f727-509a-bc46-9bceb0d37de8",
         "address": "16-Erin-Ln-Tijeras-NM-87059",
         "beds": 3,
@@ -5185,6 +5206,27 @@
         "coordinates": [
           -83.982799,
           36.053152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0d93bdc1-6979-53d6-952c-ef338adffd1f",
+        "address": "5654-Tower-Rd-Riverside-CA-92506",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1652,
+        "listed_at": "2026-10-30T17:30:05.000Z",
+        "days_on_market": "210",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.401825,
+          33.967066
         ]
       }
     },
@@ -22468,27 +22510,6 @@
         "coordinates": [
           -98.303415,
           29.501405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3f8b2071-ed83-5838-8766-000bf9119857",
-        "address": "55-Fieldpoint-Rd-Heath-OH-43056",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1878,
-        "listed_at": "2026-09-29T20:40:03.000Z",
-        "days_on_market": "31",
-        "current_price": 252000,
-        "price_label": "$252K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.441146,
-          40.039095
         ]
       }
     },
@@ -44434,6 +44455,27 @@
         "coordinates": [
           -96.765163,
           32.522778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "82521db7-cf0f-5107-8e3b-804f971e3ba0",
+        "address": "7018 Rumple Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1072,
+        "listed_at": "2026-10-30T17:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.785912,
+          35.303591
         ]
       }
     },
@@ -75892,27 +75934,6 @@
         "coordinates": [
           -121.55306,
           37.776496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d82333ff-c1d9-5110-b409-73bd9d9da9b0",
-        "address": "1062-Rita-Dr-Greenwood-IN-46143",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1554,
-        "listed_at": "2026-09-03T05:50:14.000Z",
-        "days_on_market": "219",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.166433,
-          39.602396
         ]
       }
     },
