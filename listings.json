@@ -12226,6 +12226,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2319e9d9-547e-587f-b05d-d68e668ea5e1",
+        "address": "302 Bonnes Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2270,
+        "listed_at": "2026-10-30T00:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 327000,
+        "price_label": "$327K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.562305,
+          33.785667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "232f040c-e13a-5782-bb42-41fc4a2a97b3",
         "address": "1336-Nadine-Dr-Deltona-FL-32738",
         "beds": 3,
