@@ -30580,6 +30580,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56466733-68f8-5a92-9e5b-3bea35c933ed",
+        "address": "5119 Anacacho St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1256,
+        "listed_at": "2026-10-30T18:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 190000,
+        "price_label": "$190K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.390758,
+          29.57046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5650edad-df56-5b22-971c-18d1e7aff680",
         "address": "7736-Woodlawn-Ave-Pasadena-MD-21122",
         "beds": 4,
