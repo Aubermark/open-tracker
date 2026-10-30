@@ -38770,6 +38770,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7132ea25-9e5f-5184-a08b-d8d5b7806f11",
+        "address": "7360 Aquene Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1251,
+        "listed_at": "2026-10-30T01:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.719093,
+          39.623121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71465715-60de-5eb6-9dfa-540b53c1dd2c",
         "address": "104-Arbuckle-Ln-Cary-NC-27511",
         "beds": 3,
@@ -80932,6 +80953,27 @@
         "coordinates": [
           -78.889692,
           36.076018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e7250aa6-b882-5fc9-bdbe-004b1f5bc245",
+        "address": "7121 Ravenwood Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1412,
+        "listed_at": "2026-10-30T01:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 213000,
+        "price_label": "$213K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.117148,
+          33.631747
         ]
       }
     },
