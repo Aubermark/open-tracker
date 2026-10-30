@@ -12688,6 +12688,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "243dedf3-095b-58db-92cc-c2df2de71081",
+        "address": "11211 Carstairs Dr",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 4404,
+        "listed_at": "2026-10-30T09:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 685000,
+        "price_label": "$685K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.587324,
+          29.992763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2461b3cf-0a7d-5b84-89db-71cd7f7fb7a4",
         "address": "5829-E-Preakness-Dr-San-Tan-Valley-AZ-85140",
         "beds": 3,
