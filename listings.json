@@ -24868,6 +24868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45285adb-c0fd-5799-a342-242576a19b5c",
+        "address": "4025 Village Crossing Cir",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3121,
+        "listed_at": "2026-10-30T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29966,
+          33.640751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "452a39e6-4ac4-59c3-9871-39a8a040937b",
         "address": "2768-Galatian-Pl-Orlando-FL-32817",
         "beds": 3,
