@@ -6598,6 +6598,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "119bfc43-29bb-5ed4-aa81-63b00b64a634",
+        "address": "1890 Cambridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1352,
+        "listed_at": "2026-10-30T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25245,
+          42.126661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11a40e7a-f65f-53a4-b0db-5d562d0a190c",
         "address": "1138-Wyndemere-Cir-Longmont-CO-80504",
         "beds": 4,
@@ -31561,6 +31582,27 @@
         "coordinates": [
           -93.288746,
           45.092482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "59af37b7-d030-5bc5-b07c-7999937cf5cf",
+        "address": "7403 Springbank Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1591,
+        "listed_at": "2026-10-30T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.956253,
+          34.074647
         ]
       }
     },
@@ -80176,6 +80218,27 @@
         "coordinates": [
           -86.705208,
           36.046225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e46d6a58-a3ba-5fae-9e9c-51aacac05fc2",
+        "address": "1337 River Bank Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1807,
+        "listed_at": "2026-10-30T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.657753,
+          35.076471
         ]
       }
     },
