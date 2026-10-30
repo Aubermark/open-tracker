@@ -29614,6 +29614,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "542a02d5-e696-570f-9b25-83ed2b4c2b02",
+        "address": "2815-Midpines-Dr-Winston-Salem-NC-27127",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1466,
+        "listed_at": "2026-10-30T10:10:05.000Z",
+        "days_on_market": "182",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.276865,
+          36.02642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "542f4155-b01b-5cce-ac4d-707fedc06d88",
         "address": "2530 Logan Caroline Ln",
         "beds": 5,
