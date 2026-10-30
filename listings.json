@@ -34360,6 +34360,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "61dbc4a8-01fa-4a4c-a571-4038dc0b1a99",
+        "address": "3594 Credere Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1809,
+        "listed_at": "2026-10-30T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 411000,
+        "price_label": "$411K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.145379,
+          35.943693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "61e54964-85bd-54e6-a60a-1767c6c36df4",
         "address": "31908 Del Cielo Este",
         "beds": 3,
@@ -78349,27 +78370,6 @@
         "coordinates": [
           -81.284471,
           28.797731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dee39eb8-053b-575c-8cb1-5b3b0cd0aa40",
-        "address": "11309-E-Sable-Ave-Mesa-AZ-85212",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2013,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "101",
-        "current_price": 450000,
-        "price_label": "$450K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.589014,
-          33.321376
         ]
       }
     },
