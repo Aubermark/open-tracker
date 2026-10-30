@@ -13171,6 +13171,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25ce39c8-cb8e-5335-9c74-0f5731e1fbf6",
+        "address": "539 Romford Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1662,
+        "listed_at": "2026-10-30T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 191000,
+        "price_label": "$191K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.037029,
+          34.059286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
         "address": "316-Vincent-St-Alabaster-AL-35007",
         "beds": 4,
@@ -31225,27 +31246,6 @@
         "coordinates": [
           -96.564525,
           32.843692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "583c142d-4741-5b7e-9ceb-73bfa1ab68ab",
-        "address": "2901-Acton-School-Rd-Granbury-TX-76049",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1458,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "95",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.703793,
-          32.442989
         ]
       }
     },
@@ -63271,6 +63271,27 @@
         "coordinates": [
           -77.570951,
           39.658082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b71c8207-a781-5175-a132-958d8ca5f168",
+        "address": "4022 Cody Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1136,
+        "listed_at": "2026-10-30T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 207000,
+        "price_label": "$207K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.550576,
+          36.027899
         ]
       }
     },
