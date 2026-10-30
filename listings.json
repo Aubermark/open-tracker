@@ -5275,6 +5275,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
+        "address": "1623-12th-St-Saint-Cloud-FL-34769",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1558,
+        "listed_at": "2026-10-30T18:40:06.000Z",
+        "days_on_market": "227",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.287872,
+          28.246829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dea7cb2-bbe0-5e77-880d-148f1c240ffe",
         "address": "6516 Stoney Creek Dr",
         "beds": 4,
@@ -41374,6 +41395,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "78308101-ce6f-5115-bde0-645a463ffc57",
+        "address": "2719 Peavey St",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1761,
+        "listed_at": "2026-10-30T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.455817,
+          42.93962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "783c35c7-0b95-5332-949a-4f3455d277eb",
         "address": "142-Canterbury-Xing-Fort-Mill-SC-29708",
         "beds": 4,
@@ -52057,27 +52099,6 @@
         "coordinates": [
           -117.670134,
           34.053339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9816f940-4842-5c9a-bd68-8427032cae58",
-        "address": "3164-Gingerwood-Ln-Lancaster-CA-93536",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2089,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "129",
-        "current_price": 467000,
-        "price_label": "$467K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.187695,
-          34.662168
         ]
       }
     },
