@@ -76465,6 +76465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d9a0e5dc-09b0-4871-911d-24c4c6f48a14",
+        "address": "7534 33rd Pl",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1021,
+        "listed_at": "2026-10-30T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 175000,
+        "price_label": "$175K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.985546,
+          33.563988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d9a0e762-2354-4e8b-a099-9a2439e08315",
         "address": "174-Pecan-St-Danielsville-GA-30633",
         "beds": 4,
