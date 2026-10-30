@@ -9412,27 +9412,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "19a2f95c-4d99-5c57-afeb-4c26ce0622a0",
-        "address": "7641-Germander-Ln-Indianapolis-IN-46237",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2158,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "72",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.085873,
-          39.655609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "19b37e7b-c7cd-58d6-a82d-00643f60f0f6",
         "address": "100-W-Pleasantview-Dr-Hurst-TX-76054",
         "beds": 4,
@@ -26500,6 +26479,27 @@
         "coordinates": [
           -98.264409,
           29.490633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4b6bbd12-fded-5763-9a4a-1aed91316dd0",
+        "address": "12522 Meadowglen Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2881,
+        "listed_at": "2026-10-30T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.596715,
+          29.648132
         ]
       }
     },
@@ -64054,6 +64054,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9ab95c6-82f8-5d2d-b86a-d70885d8409c",
+        "address": "17996 W Raymond St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2111,
+        "listed_at": "2026-10-30T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 408000,
+        "price_label": "$408K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.446247,
+          33.413572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9b4e13a-0017-5809-81c1-e3e1e2318ead",
         "address": "28539-N-Moonstone-Way-San-Tan-Valley-AZ-85143",
         "beds": 5,
@@ -82654,6 +82675,27 @@
         "coordinates": [
           -117.004869,
           33.716504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec4e946c-6a4a-5ed3-97b2-73017189f935",
+        "address": "3141 Ferngrove Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2070,
+        "listed_at": "2026-10-30T07:30:02.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.774825,
+          37.987812
         ]
       }
     },
