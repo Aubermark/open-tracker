@@ -77494,6 +77494,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "da0ce7a3-5c10-57b3-9132-a1b2b24682cf",
+        "address": "9651 Hartsdale Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2549,
+        "listed_at": "2026-10-31T13:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.382206,
+          38.549161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "da30b347-7d46-4809-81c1-92689c3b3a78",
         "address": "490-E-22nd-St-Kannapolis-NC-28083",
         "beds": 3,
