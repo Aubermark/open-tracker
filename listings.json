@@ -29761,6 +29761,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "53cb32e9-d4f6-5944-a18d-fa0f06b716db",
+        "address": "1417 Santa Cruz St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1824,
+        "listed_at": "2026-10-31T09:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 541000,
+        "price_label": "$541K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.476174,
+          35.997835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "53d706f1-f546-5bac-b7a9-414f02165b8f",
         "address": "9334-Arbor-Creek-Dr-Charlotte-NC-28269",
         "beds": 4,
