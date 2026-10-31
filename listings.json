@@ -4057,6 +4057,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a69bbc8-dea2-5cb2-85b6-28e235afef07",
+        "address": "6199 Bay Brook Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2054,
+        "listed_at": "2026-10-31T00:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.830876,
+          39.876076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a6b6c89-f727-509a-bc46-9bceb0d37de8",
         "address": "16-Erin-Ln-Tijeras-NM-87059",
         "beds": 3,
