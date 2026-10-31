@@ -4456,27 +4456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0b8b86d3-5086-5ad5-b33c-00d14d17fc40",
-        "address": "2090 Audubon Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1416,
-        "listed_at": "2026-10-14T06:12:15.000Z",
-        "days_on_market": "17",
-        "current_price": 341000,
-        "price_label": "$341K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.072534,
-          34.94569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0ba112f3-0327-51ad-8866-ec603a7584a6",
         "address": "10060-New-California-Dr-Plain-City-OH-43064",
         "beds": 5,
@@ -76381,6 +76360,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d86c24f9-098a-50be-9c62-9429f8fdc022",
+        "address": "118 Wingate Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1377,
+        "listed_at": "2026-10-31T00:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.021639,
+          38.971721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d86c5085-9491-5cf9-a479-ee31bb8a579a",
         "address": "5416-Forest-Acres-Dr-Nashville-TN-37220",
         "beds": 4,
@@ -77950,6 +77950,27 @@
         "coordinates": [
           -81.540748,
           30.636216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dd048870-fb93-542d-9c66-a528423fc556",
+        "address": "8515 Patsy St",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 860,
+        "listed_at": "2026-10-31T00:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.580324,
+          28.004934
         ]
       }
     },
