@@ -85768,6 +85768,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f2407c52-3d12-5811-842a-b590f8d523ea",
+        "address": "951 N Walnut St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-10-31T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.823604,
+          38.895098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f24965b6-40c5-51c6-8364-d666662b3be8",
         "address": "1733-Avenida-Cafe-Camarillo-CA-93012",
         "beds": 5,
