@@ -58552,6 +58552,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a907ce9b-96ca-5de5-8098-536381e75783",
+        "address": "3908 Diablo Trail Pl NW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1278,
+        "listed_at": "2026-10-31T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 319000,
+        "price_label": "$319K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.663984,
+          35.200524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a91b8905-4300-5540-9134-771977849927",
         "address": "11121-Herrick-Ave-Kansas-City-MO-64134",
         "beds": 4,
