@@ -2738,19 +2738,17 @@
 
 
 .app-shell { width: 100%; min-width: 0; }
+ 
 
-/* Map Explorer: con position:absolute tapaba "Tracking since" en escritorio
-   y tablet, y los shortcuts en movil. Pasa a ser un elemento mas de la barra.
-   Requiere añadir class="map-explorer-link" a su <div> contenedor. */
 .map-explorer-link { position: static !important; }
-
+ 
 /* Lo mismo para el resto de contenedores */
 .chart-box,
 .card,
 .card-wide,
 .card-wide-ranges,
 .q2-section { min-width: 0; }
-
+ 
 /* Tablas anchas: scroll horizontal DENTRO de su tarjeta, nunca de la pagina.
    .table-scroll sirve para envolver cualquier tabla nueva. */
 .table-scroll,
@@ -2759,7 +2757,7 @@
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
-
+ 
 /* Pantallas tactiles (movil y tablet): objetivos de al menos 24-28px
    (WCAG 2.5.8). Los badges median 17-19px de alto. */
 @media (pointer: coarse) {
@@ -2775,22 +2773,22 @@
   .rot-gap-mark { top: 14px; }
   .rot-play { width: 32px; height: 32px; }
 }
-
-
+ 
+ 
 /* ─────────────── TABLET / MOVIL ≤ 768px ─────────────── */
 @media (max-width: 768px) {
-
+ 
   /* Menos padding lateral = mas ancho util para los charts */
   .chart-box { padding: 14px 10px; border-radius: 10px; }
   .card-wide { padding: 14px 10px; }
   .card-wide-ranges { padding: 14px 10px; }
   .card-header { flex-wrap: wrap; gap: 8px; }
-
+ 
   /* Red de seguridad para tablas que no esten envueltas en .table-scroll */
   .card-wide { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-
+ 
   .map-explorer-link { align-self: flex-start; }
-
+ 
   /* Alturas de charts */
   #acqListingsChart,
   #newRemovedChart,
@@ -2798,10 +2796,10 @@
   #cohortAvgChart { height: 300px !important; }
   #rotationPyramidChart { height: 320px !important; }
   #acqListingsChart { margin-top: 10px; }
-
+ 
   /* El inline min-height:350px del weekly ganaba al height del media query */
   #weeklyChart { min-height: 0 !important; height: 300px !important; }
-
+ 
   /* Toggle Absolute/Indexed del chart de cohortes: de flotante a fila propia,
      asi no tapa la leyenda */
   #cohortAvgToggle {
@@ -2817,13 +2815,13 @@
     flex-wrap: wrap;
     gap: 4px 10px !important;
   }
-
+ 
   /* Pyramid */
   .rot-toolbar { flex-direction: column; align-items: stretch; margin: 10px 0 4px; }
   .rot-badges { justify-content: flex-start; }
   .rot-date { font-size: 15px; }
   .rot-slider { gap: 10px; }
-
+ 
   /* Tabla de rangos (7 columnas fijas: hay que comprimir) */
   #table-sold-ranges th { font-size: 9px; letter-spacing: 0; padding: 6px 2px; }
   #table-sold-ranges td { padding: 6px 2px; }
@@ -2832,43 +2830,43 @@
   .ranges-row-pct .ranges-pct { font-size: 10px; padding-bottom: 6px; }
   .ranges-bar-cell { padding: 0 4px 8px; }
   .ranges-row-label { font-size: 8px; padding: 2px 4px; letter-spacing: 0; }
-
+ 
   /* Chip "Board Appointment": mas compacto para no ensanchar la tabla */
   .featured-chip { font-size: 9px; letter-spacing: 0.05em; padding: 1px 6px; }
-
+ 
   /* Tweets: estaba pegado a los bordes de la pantalla */
   .tweet-container { margin: 20px 10px 32px; padding: 14px 8px; }
 }
-
-
+ 
+ 
 /* ─────────────── MOVIL ≤ 480px ─────────────── */
 @media (max-width: 480px) {
-
+ 
   .chart-box { padding: 12px 8px; }
   .card-wide,
   .card-wide-ranges { padding: 12px 8px; }
-
+ 
   #acqListingsChart,
   #newRemovedChart,
   #cohortChart,
   #cohortAvgChart,
   #rotationPyramidChart { height: 280px !important; }
-
+ 
   /* Sustituye el 220px anterior: con 3 ejes Y quedaba ilegible */
   #weeklyChart { height: 260px !important; }
-
+ 
   /* 5 botones de IA en una fila: a 54px + gap 12px desbordaban en 360px */
   .ai-links { gap: 8px; }
   .ai-button { width: 46px; height: 46px; padding: 10px; }
   .ai-icon,
   .ai-icon-claude { width: 26px; height: 26px; }
-
+ 
   .rot-badge { font-size: 9px; padding: 3px 8px; letter-spacing: 0.06em; }
 }
-
-
+ 
+ 
 /* ════════════════════════════════════════════
-   (ChartShare)
+   COMPARTIR CHARTS (ChartShare)
 ════════════════════════════════════════════ */
 .cs-toolbar {
   display: flex;
@@ -2895,7 +2893,7 @@
 }
 .cs-btn:hover { color: #4FC3F7; border-color: rgba(79, 195, 247, 0.6); background: rgba(79, 195, 247, 0.08); }
 .cs-btn:focus-visible { outline: 2px solid #4FC3F7; outline-offset: 2px; }
-
+ 
 /* Estado del punto fijado: pista cuando no hay ninguno, chip cuando lo hay */
 .cs-chip {
   display: inline-flex;
@@ -2913,7 +2911,7 @@
 .cs-chip-dot { width: 7px; height: 7px; border-radius: 50%; background: #3f4854; flex-shrink: 0; }
 .cs-chip-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .cs-chip-clear { display: none; }
-
+ 
 .cs-chip.is-pinned {
   padding-right: 4px;
   color: #cfe9f7;
@@ -2929,10 +2927,16 @@
   font-size: 16px; line-height: 1; cursor: pointer;
 }
 .cs-chip.is-pinned .cs-chip-clear:hover { color: #fff; background: rgba(255, 255, 255, 0.08); }
-
+ 
+/* En pantallas solo tactiles no hay fijado: el tooltip abierto ya es lo que
+   se captura, asi que la pista/chip sobra */
+@media (hover: none) {
+  .cs-chip { display: none !important; }
+}
+ 
 /* Chart con punto fijado: el cursor indica que un clic lo suelta */
 .cs-locked canvas { cursor: pointer; }
-
+ 
 .cs-toast {
   position: fixed;
   left: 50%;
@@ -2953,12 +2957,11 @@
 }
 .cs-toast.show { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
 .cs-toast a { color: #4FC3F7; font-weight: 700; }
-
+ 
 @media (max-width: 480px) {
   /* En movil, solo iconos para que quepan en una fila */
   .cs-btn span { display: none; }
   .cs-btn { width: 36px; padding: 0; justify-content: center; }
-  .cs-chip { height: 30px; flex-basis: 100%; }
 }
 @media (pointer: coarse) {
   .cs-btn { height: 32px; }
@@ -3041,7 +3044,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">31/10/2026, 18:30 (CET)</span>
+                <span class="hero-meta-value">31/10/2026, 18:40 (CET)</span>
               </div>
           </div>
         </section>
@@ -5382,6 +5385,11 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
 <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
 
 
+
+
+
+
+
 <script>
   // ════════════════════════════════════════════
   // ChartUX
@@ -5478,6 +5486,9 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       // Tocar fuera del chart cierra el tooltip
       document.addEventListener('touchstart', function (e) {
         if (chartDom.contains(e.target)) return;
+        // La barra de compartir del chart no cierra su tooltip (se captura)
+        var bar = document.querySelector('.cs-toolbar[data-chart="' + chartDom.id + '"]');
+        if (bar && bar.contains(e.target)) return;
         touching = false;
         chartDom.dispatchEvent(new MouseEvent('mouseleave'));
         // Para ECharts: un 'mousemove' fuera del area de datos oculta su tooltip
@@ -5549,6 +5560,9 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       cohortAvgChart:       { legendDom: '#cohortColorKey' }
     };
 
+    // Tablas con barra de compartir (se enganchan solas al cargar)
+    var TABLES = ['#table-sold-ranges'];
+
     var registry = {};
     var simulating = false;
 
@@ -5567,7 +5581,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     }
 
     function container(chartDom) {
-      return chartDom.closest('.chart-box, .card-wide, .card') || chartDom.parentElement;
+      return chartDom.closest('.chart-box, .card-wide, .card-wide-ranges, .card') || chartDom.parentElement;
     }
 
     function chartTitle(chartDom) {
@@ -5674,11 +5688,12 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       return rows;
     }
 
-    // ── Punto fijado ────────────────────────────────────────
-    // Clic (o toque) sobre el area de datos: el tooltip se queda fijo en ese
-    // punto y deja de seguir al cursor. Otro clic lo suelta.
-    // En tactil no hay cursor que seguir: tocar otro punto mueve el fijado y
-    // tocar el mismo punto lo suelta.
+    // ── Punto que entra en la captura ───────────────────────
+    // Raton: el tooltip sigue al cursor; un clic en el area de datos lo deja
+    // fijo en ese punto y otro clic lo suelta.
+    // Tactil: no hace falta fijar nada. El tooltip ya se queda abierto tras
+    // tocar, asi que el punto tocado es el que entra en la captura. Tocar
+    // fuera del chart lo cierra; tocar su barra de compartir no.
 
     function isNative(entry) {
       var t = entry.chart.getOption().tooltip;
@@ -5737,68 +5752,90 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       var chart = entry.chart;
       var lastTouch = 0;
 
-      // Con el punto fijado, el chart no recibe movimientos ni salidas del
-      // cursor: el tooltip se queda donde esta. Va en captura sobre el
-      // contenedor, asi que tambien frena a ECharts (pyramid).
+      // Con el punto fijado (solo raton), el chart no recibe movimientos ni
+      // salidas del cursor: el tooltip se queda donde esta. Va en captura
+      // sobre el contenedor, asi que tambien frena a ECharts (pyramid).
       ['mousemove', 'mouseleave', 'mouseout', 'pointermove', 'pointerleave', 'pointerout'].forEach(function (type) {
         dom.addEventListener(type, function (e) {
           if (entry.pin && !simulating) e.stopImmediatePropagation();
         }, true);
       });
 
-      dom.addEventListener('touchstart', function () { lastTouch = Date.now(); }, { capture: true, passive: true });
+      // Tactil: recordar el ultimo punto tocado dentro del area de datos
+      dom.addEventListener('touchstart', function (e) {
+        lastTouch = Date.now();
+        var t = e.touches && e.touches[0];
+        if (!t) return;
+        var rect = dom.getBoundingClientRect();
+        var x = t.clientX - rect.left;
+        var y = t.clientY - rect.top;
+        if (chart.containPixel({ gridIndex: 0 }, [x, y])) entry.tap = { x: x, y: y };
+      }, { capture: true, passive: true });
 
-      // Tactil: tocar fuera del chart suelta el punto y cierra el tooltip,
-      // excepto si se toca la propia barra de compartir (para capturarlo)
+      // Tras el toque, el navegador emite su propio mousemove, que es el que
+      // usa el chart para dibujar el tooltip: se toma esa posicion exacta
+      // (en ejes continuos 1px ya cambia el valor mostrado)
+      dom.addEventListener('mousemove', function (e) {
+        if (simulating || entry.pin || Date.now() - lastTouch > 800) return;
+        var rect = dom.getBoundingClientRect();
+        var x = e.clientX - rect.left;
+        var y = e.clientY - rect.top;
+        if (chart.containPixel({ gridIndex: 0 }, [x, y])) entry.tap = { x: x, y: y };
+      }, true);
+
+      // Tocar fuera del chart (y fuera de su barra) olvida el punto tocado
       document.addEventListener('touchstart', function (e) {
-        if (!entry.pin) return;
         var t = e.target;
         if (dom.contains(t) || (entry.bar && entry.bar.contains(t))) return;
-        unlock(entry);
+        entry.tap = null;
       }, { capture: true, passive: true });
 
       dom.addEventListener('click', function (e) {
+        // Los toques no fijan: en tactil el tooltip ya se mantiene solo
+        if (Date.now() - lastTouch < 800) return;
         var rect = dom.getBoundingClientRect();
         var x = e.clientX - rect.left;
         var y = e.clientY - rect.top;
         // Solo el area de datos: los clics en la leyenda siguen ocultando series
         if (!chart.containPixel({ gridIndex: 0 }, [x, y])) return;
-        var touch = Date.now() - lastTouch < 800;
-
-        if (!entry.pin) { lockAt(entry, x, y); return; }
-        if (touch) {
-          var near = Math.abs(x - entry.pin.x) < 24 && Math.abs(y - entry.pin.y) < 40;
-          if (near) unlock(entry, x, y);
-          else lockAt(entry, x, y);
-          return;
-        }
-        unlock(entry, x, y);
+        if (entry.pin) unlock(entry, x, y);
+        else lockAt(entry, x, y);
       }, true);
 
       // Si el chart se redibuja (p. ej. el slider de la piramide), el tooltip
-      // fijado se vuelve a mostrar con los datos nuevos
+      // del punto activo se vuelve a mostrar con los datos nuevos
       var origSetOption = chart.setOption;
       chart.setOption = function () {
         var r = origSetOption.apply(chart, arguments);
-        if (entry.pin) {
-          var p = entry.pin;
+        var p = activePoint(entry);
+        if (p) {
           setTimeout(function () {
-            if (entry.pin !== p) return;
+            if (activePoint(entry) !== p) return;
             showAt(entry, p.x, p.y);
-            p.label = tooltipLabel(entry) || p.label;
-            renderChip(entry);
+            if (p === entry.pin) { p.label = tooltipLabel(entry) || p.label; renderChip(entry); }
           }, 0);
         }
         return r;
       };
     }
 
-    // Lee el tooltip en el punto fijado (siempre al dia)
+    // Punto que se capturara: el fijado con raton o, en tactil, el ultimo
+    // tocado mientras su tooltip siga abierto
+    function activePoint(entry) {
+      if (entry.pin) return entry.pin;
+      if (entry.tap && findTooltip(entry.dom, true)) return entry.tap;
+      return null;
+    }
+
+    // Lee el tooltip en el punto activo (siempre al dia)
     function readPinnedTooltip(entry) {
-      if (!entry.pin) return null;
-      showAt(entry, entry.pin.x, entry.pin.y);
+      var p = activePoint(entry);
+      if (!p) return null;
+      showAt(entry, p.x, p.y);
       var tip = findTooltip(entry.dom, true);
-      return tip ? readRows(tip) : null;
+      if (!tip) return null;
+      p.label = lines(tip.innerText)[0] || p.label;
+      return readRows(tip);
     }
 
     // ── Exportacion ─────────────────────────────────────────
@@ -5980,6 +6017,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
 
     // Genera el PNG del chart. Devuelve una Promise<Blob>.
     function render(entry) {
+      if (entry.kind === 'table') return renderTable(entry);
       var S = SETTINGS;
       var live = entry.chart;
       var id = entry.dom.id;
@@ -5998,7 +6036,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
         off = echarts.init(holder, null, { renderer: 'canvas', devicePixelRatio: S.scale, width: S.width, height: S.chartHeight });
         off.setOption(exportOption(live.getOption()));
         url = off.getDataURL({ type: 'png', pixelRatio: S.scale, backgroundColor: S.bg });
-        marks = pointMarks(live, off, entry.pin && rows ? entry.pin : null);
+        marks = pointMarks(live, off, rows ? activePoint(entry) : null);
       } finally {
         if (window.ChartUX) ChartUX.forceDesktop = false;
         if (off) off.dispose();
@@ -6140,7 +6178,8 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     function shareText(entry) {
       var parts = [chartTitle(entry.dom)];
       var sub = chartSubtitle(entry.dom.id);
-      if (entry.pin && entry.pin.label) parts.push(entry.pin.label);
+      var p = activePoint(entry);
+      if (p && p.label) parts.push(p.label);
       else if (sub) parts.push(sub);
       return parts.filter(Boolean).join(' · ') + ' ' + SETTINGS.cashtag;
     }
@@ -6245,25 +6284,35 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       return b;
     }
 
+    // El chip solo existe con raton: en tactil el tooltip visible ya indica
+    // que punto entra en la captura
     function renderChip(entry) {
       var chip = entry.chip;
       var label = chip.querySelector('.cs-chip-label');
-      var touch = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
       if (!entry.pin) {
         chip.classList.remove('is-pinned');
-        label.textContent = touch ? 'Tap a point to pin it' : 'Click a point to pin it';
+        label.textContent = 'Click a point to pin it';
         chip.title = 'Pinned points appear in the image';
         return;
       }
       chip.classList.add('is-pinned');
       label.textContent = 'Pinned: ' + (entry.pin.label || 'selected point');
-      chip.title = touch ? 'Tap the same point again to release' : 'Click the chart again to release';
+      chip.title = 'Click the chart again to release';
     }
 
     function buildToolbar(entry) {
       var bar = document.createElement('div');
       bar.className = 'cs-toolbar';
       bar.setAttribute('data-chart', entry.dom.id);
+
+      if (entry.kind === 'table') {
+        bar.classList.add('cs-toolbar-table');
+        bar.appendChild(button('copy', 'Copy', function () { onCopy(entry); }));
+        bar.appendChild(button('x', 'Post', function () { onX(entry); }));
+        entry.bar = bar;
+        entry.dom.insertAdjacentElement('afterend', bar);
+        return;
+      }
 
       var chip = document.createElement('span');
       chip.className = 'cs-chip';
@@ -6285,6 +6334,203 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       entry.dom.insertAdjacentElement('afterend', bar);
     }
 
+    // ── Tablas ──────────────────────────────────────────────
+    // La tabla de rangos no es un chart: se lee del DOM (cabeceras, cifras,
+    // porcentajes y barras) y se redibuja en la imagen con el mismo estilo.
+
+    // Primer color rgb()/rgba() de un valor CSS (degradados incluidos)
+    function firstColor(css) {
+      var i = String(css || '').indexOf('rgb');
+      if (i === -1) return null;
+      var j = css.indexOf(')', i);
+      return j === -1 ? null : css.slice(i, j + 1);
+    }
+
+    function parseRangesTable(table) {
+      var heads = Array.prototype.map.call(table.querySelectorAll('thead th'), function (th) {
+        return { text: clean(th.innerText), color: getComputedStyle(th).color };
+      }).slice(1);
+      var sections = [];
+      var cur = null;
+      Array.prototype.forEach.call(table.querySelectorAll('tbody tr'), function (tr) {
+        var cells = Array.prototype.slice.call(tr.children).slice(1);
+        var label = tr.querySelector('.ranges-row-label');
+        if (label) {
+          var ls = getComputedStyle(label);
+          cur = {
+            label: clean(label.innerText),
+            color: ls.color,
+            bg: ls.backgroundColor,
+            counts: cells.map(function (td) { return { text: clean(td.innerText), color: getComputedStyle(td).color, opacity: getComputedStyle(td).opacity }; }),
+            pcts: [],
+            bars: []
+          };
+          sections.push(cur);
+          return;
+        }
+        if (!cur) return;
+        if (tr.querySelector('.ranges-bar-fill')) {
+          cur.bars = cells.map(function (td) {
+            var f = td.querySelector('.ranges-bar-fill');
+            if (!f) return null;
+            var w = parseFloat(f.style.width) || 0;
+            var fs = getComputedStyle(f);
+            return { w: w, color: firstColor(fs.backgroundImage) || fs.backgroundColor };
+          });
+        } else {
+          cur.pcts = cells.map(function (td) { return clean(td.innerText); });
+        }
+      });
+      return { heads: heads, sections: sections };
+    }
+
+    function drawFooter(ctx, W, H, footH) {
+      var S = SETTINGS;
+      var M = 32;
+      ctx.strokeStyle = 'rgba(148,163,184,0.2)';
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(M, H - footH + 8); ctx.lineTo(W - M, H - footH + 8); ctx.stroke();
+      ctx.textBaseline = 'middle';
+      ctx.font = font(700, 15);
+      ctx.fillStyle = S.accent;
+      ctx.fillText(S.siteName, M, H - footH / 2 + 4);
+      var nameW = ctx.measureText(S.siteName).width;
+      ctx.font = font(400, 14);
+      ctx.fillStyle = S.muted;
+      ctx.fillText('  ' + location.host + location.pathname.replace(/index.html$/, ''), M + nameW, H - footH / 2 + 4);
+      var upd = lastUpdate();
+      if (upd) {
+        var t = 'Data as of ' + upd;
+        ctx.fillText(t, W - M - ctx.measureText(t).width, H - footH / 2 + 4);
+      }
+    }
+
+    function renderTable(entry) {
+      var S = SETTINGS;
+      var W = S.width;
+      var M = 32;
+      var data = parseRangesTable(entry.dom);
+      var title = chartTitle(entry.dom);
+      var subEl = container(entry.dom).querySelector('.card-subtitle');
+      var subtitle = subEl && subEl.firstChild ? clean(subEl.firstChild.textContent) : '';
+
+      var labelW = 150;
+      var n = data.heads.length;
+      var colW = (W - M * 2 - labelW) / n;
+      var headH = 36 + 38 + (subtitle ? 28 : 0) + 20;
+      var theadH = 44;
+      var secH = 128;
+      var footH = 56;
+      var H = headH + theadH + data.sections.length * secH + 24 + footH;
+
+      var canvas = document.createElement('canvas');
+      canvas.width = W * S.scale;
+      canvas.height = H * S.scale;
+      var ctx = canvas.getContext('2d');
+      ctx.scale(S.scale, S.scale);
+
+      ctx.fillStyle = S.bg;
+      ctx.fillRect(0, 0, W, H);
+      ctx.fillStyle = S.accent;
+      ctx.fillRect(0, 0, W, 4);
+
+      var y = 36;
+      ctx.textBaseline = 'top';
+      ctx.fillStyle = S.text;
+      ctx.font = font(700, 26);
+      ctx.fillText(fit(ctx, title, W - M * 2), M, y);
+      y += 38;
+      if (subtitle) {
+        ctx.fillStyle = S.muted;
+        ctx.font = font(500, 16);
+        ctx.fillText(fit(ctx, subtitle, W - M * 2), M, y);
+      }
+      y = headH;
+
+      function colX(i) { return M + labelW + i * colW; }
+
+      // Separadores verticales entre rangos (como en la web)
+      ctx.strokeStyle = 'rgba(148,163,184,0.14)';
+      ctx.lineWidth = 2;
+      for (var c = 1; c < n; c++) {
+        ctx.beginPath();
+        ctx.moveTo(colX(c), y + 6);
+        ctx.lineTo(colX(c), y + theadH + data.sections.length * secH - 10);
+        ctx.stroke();
+      }
+
+      // Cabecera de columnas
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.font = font(700, 15);
+      data.heads.forEach(function (h, i) {
+        ctx.fillStyle = h.color || S.muted;
+        ctx.fillText(fit(ctx, h.text, colW - 12), colX(i) + colW / 2, y + theadH / 2);
+      });
+      ctx.strokeStyle = 'rgba(148,163,184,0.2)';
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(M, y + theadH); ctx.lineTo(W - M, y + theadH); ctx.stroke();
+      y += theadH;
+
+      data.sections.forEach(function (sec, si) {
+        var top = y + si * secH;
+        if (si > 0) {
+          ctx.strokeStyle = 'rgba(148,163,184,0.2)';
+          ctx.lineWidth = 2;
+          ctx.beginPath(); ctx.moveTo(M, top); ctx.lineTo(W - M, top); ctx.stroke();
+        }
+
+        // Etiqueta de la seccion (P.SOLD / ACTIVE)
+        ctx.textAlign = 'left';
+        ctx.font = font(700, 14);
+        var lw = ctx.measureText(sec.label).width + 20;
+        ctx.fillStyle = sec.bg || 'rgba(255,255,255,0.06)';
+        roundRect(ctx, M, top + 22, lw, 28, 5);
+        ctx.fill();
+        ctx.fillStyle = sec.color;
+        ctx.fillText(sec.label, M + 10, top + 36);
+
+        ctx.textAlign = 'center';
+        sec.counts.forEach(function (cell, i) {
+          ctx.globalAlpha = parseFloat(cell.opacity) || 1;
+          ctx.fillStyle = cell.color || S.text;
+          ctx.font = font(700, 28);
+          ctx.fillText(cell.text, colX(i) + colW / 2, top + 36);
+          ctx.globalAlpha = 1;
+        });
+        ctx.font = font(500, 15);
+        ctx.fillStyle = S.muted;
+        sec.pcts.forEach(function (t, i) {
+          if (t) ctx.fillText(t, colX(i) + colW / 2, top + 72);
+        });
+        sec.bars.forEach(function (b, i) {
+          if (!b) return;
+          var bx = colX(i) + 14;
+          var bw = colW - 28;
+          ctx.fillStyle = 'rgba(148,163,184,0.12)';
+          roundRect(ctx, bx, top + 96, bw, 5, 2.5);
+          ctx.fill();
+          ctx.fillStyle = b.color || sec.color;
+          roundRect(ctx, bx, top + 96, Math.max(5, bw * b.w / 100), 5, 2.5);
+          ctx.fill();
+        });
+      });
+      ctx.textAlign = 'left';
+
+      drawFooter(ctx, W, H, footH);
+
+      return new Promise(function (res, rej) {
+        canvas.toBlob(function (b) { b ? res(b) : rej(new Error('No se pudo generar la imagen')); }, 'image/png');
+      });
+    }
+
+    function attachTable(table) {
+      if (!table || !table.id || registry[table.id]) return;
+      var entry = { kind: 'table', chart: null, dom: table, pin: null };
+      registry[table.id] = entry;
+      buildToolbar(entry);
+    }
+
     // ── API publica ─────────────────────────────────────────
 
     function attach(chart, chartDom) {
@@ -6296,8 +6542,15 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
       renderChip(entry);
     }
 
+    function attachTables() {
+      TABLES.forEach(function (sel) { attachTable(document.querySelector(sel)); });
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', attachTables);
+    else attachTables();
+
     return {
       attach: attach,
+      attachTable: attachTable,
       settings: SETTINGS,
       config: CONFIG,
       // Para tests y depuracion
