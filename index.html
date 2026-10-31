@@ -2735,6 +2735,133 @@
 
 
 
+
+
+.app-shell { width: 100%; min-width: 0; }
+ 
+.map-explorer-link { position: static !important; }
+ 
+.chart-box,
+.card,
+.card-wide,
+.card-wide-ranges,
+.q2-section { min-width: 0; }
+ 
+.table-scroll,
+.all-wrapper-sold,
+.jobs-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+ 
+/* Pantallas tactiles (movil y tablet): objetivos de al menos 24-28px
+   (WCAG 2.5.8). Los badges median 17-19px de alto. */
+@media (pointer: coarse) {
+  .rot-badge,
+  .cohort-mode-badge {
+    display: inline-flex;
+    align-items: center;
+    min-height: 28px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .rot-track input[type="range"] { height: 28px; }
+  .rot-gap-mark { top: 14px; }
+  .rot-play { width: 32px; height: 32px; }
+}
+ 
+ 
+/* ─────────────── TABLET / MOVIL ≤ 768px ─────────────── */
+@media (max-width: 768px) {
+ 
+  /* Menos padding lateral = mas ancho util para los charts */
+  .chart-box { padding: 14px 10px; border-radius: 10px; }
+  .card-wide { padding: 14px 10px; }
+  .card-wide-ranges { padding: 14px 10px; }
+  .card-header { flex-wrap: wrap; gap: 8px; }
+ 
+  /* Red de seguridad para tablas que no esten envueltas en .table-scroll */
+  .card-wide { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+ 
+  .map-explorer-link { align-self: flex-start; }
+ 
+  /* Alturas de charts */
+  #acqListingsChart,
+  #newRemovedChart,
+  #cohortChart { height: 320px !important; }
+  #cohortAvgChart { height: 300px !important; }
+  #rotationPyramidChart { height: 320px !important; }
+  #acqListingsChart { margin-top: 10px; }
+ 
+  /* El inline min-height:350px del weekly ganaba al height del media query */
+  #weeklyChart { min-height: 0 !important; height: 300px !important; }
+ 
+  /* Toggle Absolute/Indexed del chart de cohortes: de flotante a fila propia,
+     asi no tapa la leyenda */
+  #cohortAvgToggle {
+    position: static !important;
+    flex-direction: row !important;
+    justify-content: space-between;
+    align-items: center !important;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
+  #cohortColorKey {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    gap: 4px 10px !important;
+  }
+ 
+  /* Pyramid */
+  .rot-toolbar { flex-direction: column; align-items: stretch; margin: 10px 0 4px; }
+  .rot-badges { justify-content: flex-start; }
+  .rot-date { font-size: 15px; }
+  .rot-slider { gap: 10px; }
+ 
+  /* Tabla de rangos (7 columnas fijas: hay que comprimir) */
+  #table-sold-ranges th { font-size: 9px; letter-spacing: 0; padding: 6px 2px; }
+  #table-sold-ranges td { padding: 6px 2px; }
+  .ranges-row-count .ranges-count,
+  .ranges-row-count .pretracking-cell { font-size: 13px; padding-top: 10px; }
+  .ranges-row-pct .ranges-pct { font-size: 10px; padding-bottom: 6px; }
+  .ranges-bar-cell { padding: 0 4px 8px; }
+  .ranges-row-label { font-size: 8px; padding: 2px 4px; letter-spacing: 0; }
+ 
+  /* Chip "Board Appointment": mas compacto para no ensanchar la tabla */
+  .featured-chip { font-size: 9px; letter-spacing: 0.05em; padding: 1px 6px; }
+ 
+  /* Tweets: estaba pegado a los bordes de la pantalla */
+  .tweet-container { margin: 20px 10px 32px; padding: 14px 8px; }
+}
+ 
+ 
+/* ─────────────── MOVIL ≤ 480px ─────────────── */
+@media (max-width: 480px) {
+ 
+  .chart-box { padding: 12px 8px; }
+  .card-wide,
+  .card-wide-ranges { padding: 12px 8px; }
+ 
+  #acqListingsChart,
+  #newRemovedChart,
+  #cohortChart,
+  #cohortAvgChart,
+  #rotationPyramidChart { height: 280px !important; }
+ 
+  /* Sustituye el 220px anterior: con 3 ejes Y quedaba ilegible */
+  #weeklyChart { height: 260px !important; }
+ 
+  /* 5 botones de IA en una fila: a 54px + gap 12px desbordaban en 360px */
+  .ai-links { gap: 8px; }
+  .ai-button { width: 46px; height: 46px; padding: 10px; }
+  .ai-icon,
+  .ai-icon-claude { width: 26px; height: 26px; }
+ 
+  .rot-badge { font-size: 9px; padding: 3px 8px; letter-spacing: 0.06em; }
+}
+
+
+
     </style>
   </head>
 
@@ -2807,7 +2934,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">31/10/2026, 16:00 (CET)</span>
+                <span class="hero-meta-value">31/10/2026, 16:04 (CET)</span>
               </div>
           </div>
         </section>
@@ -5158,6 +5285,136 @@ I continue buying and have never sold a share.
 
 
 <script>
+  // ════════════════════════════════════════════
+  // ChartUX — utilities
+  // ════════════════════════════════════════════
+  var ChartUX = (function () {
+    var MOBILE_BP = 768;
+
+    function isMobile() {
+      return window.innerWidth <= MOBILE_BP;
+    }
+
+    // Valor segun ancho, evaluado al inicializar el chart
+    function pick(desktop, mobile) {
+      return isMobile() ? mobile : desktop;
+    }
+
+    // Coloca un tooltip custom SIEMPRE dentro del chart.
+    // Escritorio: a la derecha del cursor (o a la izquierda si no cabe).
+    // Movil: ancho limitado, texto con salto de linea, centrado y por
+    // encima del dedo para que no lo tape.
+    function placeTip(tipEl, chartDom, x, y, minTop) {
+      var W = chartDom.clientWidth;
+      var H = chartDom.clientHeight;
+      var pad = 6;
+      minTop = minTop || 0;
+
+      if (isMobile()) {
+        tipEl.style.whiteSpace = 'normal';
+        tipEl.style.maxWidth = (W - pad * 2) + 'px';
+        tipEl.style.fontSize = '11px';
+        tipEl.style.padding = '8px';
+      } else {
+        tipEl.style.whiteSpace = 'nowrap';
+        tipEl.style.maxWidth = '';
+      }
+
+      var tw = tipEl.offsetWidth;
+      var th = tipEl.offsetHeight;
+      var left, top;
+
+      if (isMobile()) {
+        left = x - tw / 2;
+        top = y - th - 24;
+        if (top < minTop) top = y + 24;
+      } else {
+        left = x + 15;
+        if (left + tw > W - 10) left = x - tw - 15;
+        top = y - 10;
+      }
+
+      left = Math.max(pad, Math.min(left, W - tw - pad));
+      top = Math.max(minTop, Math.min(top, H - th - pad));
+
+      tipEl.style.left = left + 'px';
+      tipEl.style.top = top + 'px';
+    }
+
+    // Touch: reenvia el dedo como 'mousemove' al chart, asi la logica de
+    // crosshair/tooltip que ya existe funciona igual en movil.
+    // pan-y: el scroll vertical sigue siendo del navegador; el arrastre
+    // horizontal mueve el crosshair.
+    //
+    // Tras un toque, el navegador emite un 'mouseleave' propio que cerraba el
+    // tooltip al instante. En tactil se ignora ese mouseleave nativo: el
+    // tooltip solo se cierra al tocar fuera del chart.
+    // Sirve igual para los tooltips nativos de ECharts (pyramid), porque el
+    // filtro va en fase de captura sobre el contenedor.
+    function enableTouch(chartDom) {
+      chartDom.style.touchAction = 'pan-y';
+      var touching = false;
+
+      function forward(e) {
+        var t = e.touches && e.touches[0];
+        if (!t) return;
+        touching = true;
+        chartDom.dispatchEvent(new MouseEvent('mousemove', {
+          clientX: t.clientX,
+          clientY: t.clientY
+        }));
+      }
+
+      chartDom.addEventListener('touchstart', forward, { passive: true });
+      chartDom.addEventListener('touchmove', forward, { passive: true });
+
+      ['mouseleave', 'mouseout'].forEach(function (type) {
+        chartDom.addEventListener(type, function (e) {
+          if (touching && e.isTrusted) e.stopImmediatePropagation();
+        }, true);
+      });
+
+      // Tocar fuera del chart cierra el tooltip
+      document.addEventListener('touchstart', function (e) {
+        if (chartDom.contains(e.target)) return;
+        touching = false;
+        chartDom.dispatchEvent(new MouseEvent('mouseleave'));
+        // Para ECharts: un 'mousemove' fuera del area de datos oculta su tooltip
+        var inner = chartDom.firstElementChild;
+        if (inner) inner.dispatchEvent(new MouseEvent('mouseout', { relatedTarget: document.body }));
+      }, { passive: true });
+    }
+
+    // Resize con debounce, incluido el giro de pantalla
+    function autoResize(chart) {
+      var t = null;
+      function go() {
+        clearTimeout(t);
+        t = setTimeout(function () { chart.resize(); }, 120);
+      }
+      window.addEventListener('resize', go);
+      window.addEventListener('orientationchange', go);
+    }
+
+    // Leyenda: en movil una sola linea con scroll en vez de partirse en
+    // dos y montarse sobre el grid
+    function legendType() {
+      return isMobile() ? 'scroll' : 'plain';
+    }
+
+    return {
+      isMobile: isMobile,
+      pick: pick,
+      placeTip: placeTip,
+      enableTouch: enableTouch,
+      autoResize: autoResize,
+      legendType: legendType
+    };
+  })();
+</script>
+
+
+<script>
   const cohortAvgData = [{"list_week":202644,"week_start":"2026-10-25T23:00:00.000Z","week_end":"2026-10-30T23:00:00.000Z","listed":309,"active_listings":null,"inventory_listings":null,"listed_avg4w":"336","pct_sold_7d":null,"pct_sold_30d":null,"pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"2.6","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":null,"weekly_sold_pct":null,"age_min_days":0,"age_max_days":5,"in_avg":1,"data_quality":"OK"},{"list_week":202643,"week_start":"2026-10-18T22:00:00.000Z","week_end":"2026-10-24T22:00:00.000Z","listed":315,"active_listings":4154,"inventory_listings":"4410","listed_avg4w":"337","pct_sold_7d":null,"pct_sold_30d":null,"pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"10.2","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"256","weekly_sold_pct":"5.80","age_min_days":6,"age_max_days":12,"in_avg":1,"data_quality":"OK"},{"list_week":202642,"week_start":"2026-10-11T22:00:00.000Z","week_end":"2026-10-17T22:00:00.000Z","listed":366,"active_listings":4035,"inventory_listings":"4282","listed_avg4w":"322","pct_sold_7d":"4.6","pct_sold_30d":null,"pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"12.8","avg8_7d":"6.2","avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":"7.8","avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"247","weekly_sold_pct":"5.77","age_min_days":13,"age_max_days":19,"in_avg":1,"data_quality":"OK"},{"list_week":202641,"week_start":"2026-10-04T22:00:00.000Z","week_end":"2026-10-10T22:00:00.000Z","listed":353,"active_listings":3853,"inventory_listings":"4038","listed_avg4w":"319","pct_sold_7d":"4.8","pct_sold_30d":null,"pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"17.8","avg8_7d":"6.7","avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":"8.0","avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"185","weekly_sold_pct":"4.58","age_min_days":20,"age_max_days":26,"in_avg":1,"data_quality":"OK"},{"list_week":202640,"week_start":"2026-09-27T22:00:00.000Z","week_end":"2026-10-03T22:00:00.000Z","listed":313,"active_listings":3643,"inventory_listings":"3845","listed_avg4w":"356","pct_sold_7d":"6.4","pct_sold_30d":null,"pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"19.2","avg8_7d":"7.3","avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":"8.1","avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"202","weekly_sold_pct":"5.25","age_min_days":27,"age_max_days":33,"in_avg":1,"data_quality":"OK"},{"list_week":202639,"week_start":"2026-09-20T22:00:00.000Z","week_end":"2026-09-26T22:00:00.000Z","listed":254,"active_listings":3543,"inventory_listings":"3783","listed_avg4w":"279","pct_sold_7d":"9.4","pct_sold_30d":"21.3","pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"27.2","avg8_7d":"7.6","avg8_30d":"21.9","avg8_60d":null,"avg8_90d":null,"avgcum_7d":"8.2","avgcum_30d":"23.3","avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":"-0.6","dev60_vs_avg8":null,"sold_that_week":"240","weekly_sold_pct":"6.34","age_min_days":34,"age_max_days":40,"in_avg":1,"data_quality":"OK"},{"list_week":202638,"week_start":"2026-09-13T22:00:00.000Z","week_end":"2026-09-19T22:00:00.000Z","listed":354,"active_listings":3522,"inventory_listings":"3733","listed_avg4w":"302","pct_sold_7d":"6.2","pct_sold_30d":"19.5","pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"25.4","avg8_7d":"7.5","avg8_30d":"22.1","avg8_60d":null,"avg8_90d":null,"avgcum_7d":"8.2","avgcum_30d":"23.4","avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":"-2.6","dev60_vs_avg8":null,"sold_that_week":"211","weekly_sold_pct":"5.65","age_min_days":41,"age_max_days":47,"in_avg":1,"data_quality":"OK"},{"list_week":202637,"week_start":"2026-09-06T22:00:00.000Z","week_end":"2026-09-11T22:00:00.000Z","listed":501,"active_listings":3364,"inventory_listings":"3556","listed_avg4w":"317","pct_sold_7d":"6.6","pct_sold_30d":"19.0","pct_sold_60d":null,"pct_sold_90d":null,"pct_sold_to_date":"31.3","avg8_7d":"7.6","avg8_30d":"22.0","avg8_60d":null,"avg8_90d":null,"avgcum_7d":"8.3","avgcum_30d":"23.6","avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":"-3.0","dev60_vs_avg8":null,"sold_that_week":"192","weekly_sold_pct":"5.40","age_min_days":49,"age_max_days":54,"in_avg":1,"data_quality":"POST_GAP"},{"list_week":202636,"week_start":"2026-08-31T22:00:00.000Z","week_end":"2026-08-31T22:00:00.000Z","listed":5,"active_listings":3071,"inventory_listings":"3274","listed_avg4w":"270","pct_sold_7d":"20.0","pct_sold_30d":"40.0","pct_sold_60d":"40.0","pct_sold_90d":null,"pct_sold_to_date":"40.0","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"203","weekly_sold_pct":"6.20","age_min_days":60,"age_max_days":60,"in_avg":0,"data_quality":"CHECK_LOW"},{"list_week":202635,"week_start":"2026-08-23T22:00:00.000Z","week_end":"2026-08-29T22:00:00.000Z","listed":348,"active_listings":3271,"inventory_listings":"3497","listed_avg4w":"356","pct_sold_7d":"6.0","pct_sold_30d":"21.3","pct_sold_60d":"37.1","pct_sold_90d":null,"pct_sold_to_date":"39.4","avg8_7d":"7.9","avg8_30d":"22.7","avg8_60d":"38.2","avg8_90d":null,"avgcum_7d":"8.4","avgcum_30d":"24.0","avgcum_60d":"40.0","avgcum_90d":null,"dev30_vs_avg8":"-1.4","dev60_vs_avg8":"-1.1","sold_that_week":"226","weekly_sold_pct":"6.46","age_min_days":62,"age_max_days":68,"in_avg":1,"data_quality":"OK"},{"list_week":202634,"week_start":"2026-08-16T22:00:00.000Z","week_end":"2026-08-21T22:00:00.000Z","listed":414,"active_listings":3113,"inventory_listings":"3350","listed_avg4w":"344","pct_sold_7d":"6.5","pct_sold_30d":"18.4","pct_sold_60d":"34.5","pct_sold_90d":null,"pct_sold_to_date":"41.1","avg8_7d":"7.8","avg8_30d":"23.0","avg8_60d":"38.4","avg8_90d":null,"avgcum_7d":"8.6","avgcum_30d":"24.2","avgcum_60d":"40.2","avgcum_90d":null,"dev30_vs_avg8":"-4.6","dev60_vs_avg8":"-3.9","sold_that_week":"237","weekly_sold_pct":"7.07","age_min_days":70,"age_max_days":75,"in_avg":1,"data_quality":"OK"},{"list_week":202633,"week_start":"2026-08-09T22:00:00.000Z","week_end":"2026-08-15T22:00:00.000Z","listed":313,"active_listings":2966,"inventory_listings":"3130","listed_avg4w":"321","pct_sold_7d":"8.9","pct_sold_30d":"26.8","pct_sold_60d":"38.3","pct_sold_90d":null,"pct_sold_to_date":"45.7","avg8_7d":"8.0","avg8_30d":"23.9","avg8_60d":"39.3","avg8_90d":null,"avgcum_7d":"8.7","avgcum_30d":"24.7","avgcum_60d":"40.7","avgcum_90d":null,"dev30_vs_avg8":"2.9","dev60_vs_avg8":"-0.9","sold_that_week":"164","weekly_sold_pct":"5.24","age_min_days":76,"age_max_days":82,"in_avg":1,"data_quality":"OK"},{"list_week":202632,"week_start":"2026-08-02T22:00:00.000Z","week_end":"2026-08-08T22:00:00.000Z","listed":347,"active_listings":2855,"inventory_listings":"3041","listed_avg4w":"315","pct_sold_7d":"9.2","pct_sold_30d":"26.8","pct_sold_60d":"40.6","pct_sold_90d":null,"pct_sold_to_date":"52.2","avg8_7d":"7.8","avg8_30d":"23.1","avg8_60d":"39.2","avg8_90d":null,"avgcum_7d":"8.7","avgcum_30d":"24.5","avgcum_60d":"40.8","avgcum_90d":null,"dev30_vs_avg8":"3.8","dev60_vs_avg8":"1.4","sold_that_week":"186","weekly_sold_pct":"6.12","age_min_days":83,"age_max_days":89,"in_avg":1,"data_quality":"OK"},{"list_week":202631,"week_start":"2026-07-26T22:00:00.000Z","week_end":"2026-07-31T22:00:00.000Z","listed":302,"active_listings":2714,"inventory_listings":"2919","listed_avg4w":"331","pct_sold_7d":"9.6","pct_sold_30d":"24.8","pct_sold_60d":"40.4","pct_sold_90d":"53.0","pct_sold_to_date":"56.0","avg8_7d":"7.8","avg8_30d":"22.6","avg8_60d":"39.3","avg8_90d":"53.7","avgcum_7d":"8.7","avgcum_30d":"24.3","avgcum_60d":"40.8","avgcum_90d":"55.5","dev30_vs_avg8":"2.2","dev60_vs_avg8":"1.1","sold_that_week":"205","weekly_sold_pct":"7.02","age_min_days":91,"age_max_days":96,"in_avg":1,"data_quality":"OK"},{"list_week":202630,"week_start":"2026-07-19T22:00:00.000Z","week_end":"2026-07-25T22:00:00.000Z","listed":320,"active_listings":2609,"inventory_listings":"2776","listed_avg4w":"258","pct_sold_7d":"7.5","pct_sold_30d":"23.1","pct_sold_60d":"40.0","pct_sold_90d":"54.1","pct_sold_to_date":"60.3","avg8_7d":"8.0","avg8_30d":"23.2","avg8_60d":"39.7","avg8_90d":"54.3","avgcum_7d":"8.6","avgcum_30d":"24.3","avgcum_60d":"40.9","avgcum_90d":"55.7","dev30_vs_avg8":"-0.1","dev60_vs_avg8":"0.3","sold_that_week":"167","weekly_sold_pct":"6.02","age_min_days":97,"age_max_days":103,"in_avg":1,"data_quality":"OK"},{"list_week":202629,"week_start":"2026-07-12T22:00:00.000Z","week_end":"2026-07-18T22:00:00.000Z","listed":291,"active_listings":2471,"inventory_listings":"2657","listed_avg4w":"267","pct_sold_7d":"7.2","pct_sold_30d":"17.9","pct_sold_60d":"37.1","pct_sold_90d":"54.6","pct_sold_to_date":"59.5","avg8_7d":"8.2","avg8_30d":"23.5","avg8_60d":"40.0","avg8_90d":"54.6","avgcum_7d":"8.7","avgcum_30d":"24.4","avgcum_60d":"41.0","avgcum_90d":"55.9","dev30_vs_avg8":"-5.7","dev60_vs_avg8":"-2.9","sold_that_week":"186","weekly_sold_pct":"7.00","age_min_days":104,"age_max_days":110,"in_avg":1,"data_quality":"OK"},{"list_week":202628,"week_start":"2026-07-05T22:00:00.000Z","week_end":"2026-07-10T22:00:00.000Z","listed":409,"active_listings":2368,"inventory_listings":"2518","listed_avg4w":"226","pct_sold_7d":"8.3","pct_sold_30d":"23.2","pct_sold_60d":"38.1","pct_sold_90d":"54.0","pct_sold_to_date":"63.6","avg8_7d":"8.7","avg8_30d":"24.5","avg8_60d":"40.7","avg8_90d":"54.8","avgcum_7d":"8.9","avgcum_30d":"25.0","avgcum_60d":"41.3","avgcum_90d":"56.0","dev30_vs_avg8":"-1.2","dev60_vs_avg8":"-2.5","sold_that_week":"150","weekly_sold_pct":"5.96","age_min_days":112,"age_max_days":117,"in_avg":1,"data_quality":"POST_GAP"},{"list_week":202627,"week_start":"2026-06-28T22:00:00.000Z","week_end":"2026-07-03T22:00:00.000Z","listed":11,"active_listings":2114,"inventory_listings":"2258","listed_avg4w":"179","pct_sold_7d":"9.1","pct_sold_30d":"18.2","pct_sold_60d":"36.4","pct_sold_90d":"54.5","pct_sold_to_date":"72.7","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"144","weekly_sold_pct":"6.38","age_min_days":119,"age_max_days":124,"in_avg":0,"data_quality":"CHECK_LOW"},{"list_week":202626,"week_start":"2026-06-21T22:00:00.000Z","week_end":"2026-06-27T22:00:00.000Z","listed":355,"active_listings":2261,"inventory_listings":"2411","listed_avg4w":"247","pct_sold_7d":"5.4","pct_sold_30d":"23.4","pct_sold_60d":"39.2","pct_sold_90d":"51.3","pct_sold_to_date":"71.0","avg8_7d":"8.9","avg8_30d":"24.6","avg8_60d":"40.5","avg8_90d":"54.8","avgcum_7d":"8.9","avgcum_30d":"25.2","avgcum_60d":"41.7","avgcum_90d":"56.2","dev30_vs_avg8":"-1.2","dev60_vs_avg8":"-1.3","sold_that_week":"150","weekly_sold_pct":"6.22","age_min_days":125,"age_max_days":131,"in_avg":1,"data_quality":"POST_GAP"},{"list_week":202625,"week_start":"2026-06-14T22:00:00.000Z","week_end":"2026-06-19T22:00:00.000Z","listed":127,"active_listings":2057,"inventory_listings":"2200","listed_avg4w":"231","pct_sold_7d":"7.9","pct_sold_30d":"26.0","pct_sold_60d":"42.5","pct_sold_90d":"55.1","pct_sold_to_date":"68.5","avg8_7d":"9.5","avg8_30d":"24.7","avg8_60d":"40.7","avg8_90d":"55.4","avgcum_7d":"9.4","avgcum_30d":"25.4","avgcum_60d":"42.0","avgcum_90d":"56.9","dev30_vs_avg8":"1.3","dev60_vs_avg8":"1.8","sold_that_week":"143","weekly_sold_pct":"6.50","age_min_days":133,"age_max_days":138,"in_avg":1,"data_quality":"CHECK_LOW"},{"list_week":202624,"week_start":"2026-06-07T22:00:00.000Z","week_end":"2026-06-12T22:00:00.000Z","listed":222,"active_listings":2063,"inventory_listings":"2188","listed_avg4w":"228","pct_sold_7d":"7.7","pct_sold_30d":"18.9","pct_sold_60d":"37.4","pct_sold_90d":"51.8","pct_sold_to_date":"68.0","avg8_7d":"9.6","avg8_30d":"25.3","avg8_60d":"41.2","avg8_90d":"56.0","avgcum_7d":"9.5","avgcum_30d":"25.4","avgcum_60d":"42.0","avgcum_90d":"57.0","dev30_vs_avg8":"-6.4","dev60_vs_avg8":"-3.8","sold_that_week":"125","weekly_sold_pct":"5.71","age_min_days":140,"age_max_days":145,"in_avg":1,"data_quality":"OK"},{"list_week":202623,"week_start":"2026-05-31T22:00:00.000Z","week_end":"2026-06-06T22:00:00.000Z","listed":282,"active_listings":1974,"inventory_listings":"2148","listed_avg4w":"239","pct_sold_7d":"9.6","pct_sold_30d":"24.1","pct_sold_60d":"41.5","pct_sold_90d":"56.7","pct_sold_to_date":"76.6","avg8_7d":"9.7","avg8_30d":"25.7","avg8_60d":"41.3","avg8_90d":"56.8","avgcum_7d":"9.6","avgcum_30d":"26.0","avgcum_60d":"42.5","avgcum_90d":"57.5","dev30_vs_avg8":"-1.6","dev60_vs_avg8":"0.2","sold_that_week":"174","weekly_sold_pct":"8.10","age_min_days":146,"age_max_days":152,"in_avg":1,"data_quality":"OK"},{"list_week":202622,"week_start":"2026-05-25T22:00:00.000Z","week_end":"2026-05-30T22:00:00.000Z","listed":294,"active_listings":1895,"inventory_listings":"2027","listed_avg4w":"227","pct_sold_7d":"11.2","pct_sold_30d":"29.6","pct_sold_60d":"43.2","pct_sold_90d":"57.5","pct_sold_to_date":"77.9","avg8_7d":"10.0","avg8_30d":"26.2","avg8_60d":"41.7","avg8_90d":"57.1","avgcum_7d":"9.7","avgcum_30d":"26.3","avgcum_60d":"42.6","avgcum_90d":"57.6","dev30_vs_avg8":"3.4","dev60_vs_avg8":"1.5","sold_that_week":"132","weekly_sold_pct":"6.51","age_min_days":153,"age_max_days":158,"in_avg":1,"data_quality":"POST_GAP"},{"list_week":202621,"week_start":"2026-05-17T22:00:00.000Z","week_end":"2026-05-22T22:00:00.000Z","listed":114,"active_listings":1733,"inventory_listings":"1865","listed_avg4w":"202","pct_sold_7d":"9.6","pct_sold_30d":"28.9","pct_sold_60d":"47.4","pct_sold_90d":"58.8","pct_sold_to_date":"74.6","avg8_7d":"9.5","avg8_30d":"25.3","avg8_60d":"41.7","avg8_90d":"57.2","avgcum_7d":"9.4","avgcum_30d":"25.7","avgcum_60d":"42.5","avgcum_90d":"57.6","dev30_vs_avg8":"3.6","dev60_vs_avg8":"5.7","sold_that_week":"132","weekly_sold_pct":"7.08","age_min_days":161,"age_max_days":166,"in_avg":1,"data_quality":"CHECK_LOW"},{"list_week":202620,"week_start":"2026-05-10T22:00:00.000Z","week_end":"2026-05-15T22:00:00.000Z","listed":265,"active_listings":1764,"inventory_listings":"1904","listed_avg4w":"227","pct_sold_7d":"10.6","pct_sold_30d":"24.5","pct_sold_60d":"41.9","pct_sold_90d":"56.6","pct_sold_to_date":"81.9","avg8_7d":"9.4","avg8_30d":"25.5","avg8_60d":"42.1","avg8_90d":"57.5","avgcum_7d":"9.4","avgcum_30d":"25.5","avgcum_60d":"42.1","avgcum_90d":"57.5","dev30_vs_avg8":"-1.0","dev60_vs_avg8":"-0.3","sold_that_week":"140","weekly_sold_pct":"7.35","age_min_days":168,"age_max_days":173,"in_avg":1,"data_quality":"OK"},{"list_week":202619,"week_start":"2026-05-03T22:00:00.000Z","week_end":"2026-05-09T22:00:00.000Z","listed":233,"active_listings":1632,"inventory_listings":"1804","listed_avg4w":"211","pct_sold_7d":"9.9","pct_sold_30d":"23.2","pct_sold_60d":"34.8","pct_sold_90d":"53.2","pct_sold_to_date":"80.7","avg8_7d":"9.2","avg8_30d":"25.7","avg8_60d":"42.2","avg8_90d":"57.7","avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"172","weekly_sold_pct":"9.53","age_min_days":174,"age_max_days":180,"in_avg":1,"data_quality":"OK"},{"list_week":202618,"week_start":"2026-04-26T22:00:00.000Z","week_end":"2026-05-02T22:00:00.000Z","listed":195,"active_listings":1580,"inventory_listings":"1718","listed_avg4w":"195","pct_sold_7d":"7.7","pct_sold_30d":"23.1","pct_sold_60d":"40.0","pct_sold_90d":"53.3","pct_sold_to_date":"84.1","avg8_7d":"9.0","avg8_30d":"26.2","avg8_60d":"43.7","avg8_90d":"58.6","avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"138","weekly_sold_pct":"8.03","age_min_days":181,"age_max_days":187,"in_avg":1,"data_quality":"OK"},{"list_week":202617,"week_start":"2026-04-19T22:00:00.000Z","week_end":"2026-04-25T22:00:00.000Z","listed":214,"active_listings":1535,"inventory_listings":"1698","listed_avg4w":"195","pct_sold_7d":"9.3","pct_sold_30d":"30.8","pct_sold_60d":"46.3","pct_sold_90d":"60.7","pct_sold_to_date":"83.2","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"163","weekly_sold_pct":"9.60","age_min_days":188,"age_max_days":194,"in_avg":1,"data_quality":"OK"},{"list_week":202616,"week_start":"2026-04-12T22:00:00.000Z","week_end":"2026-04-18T22:00:00.000Z","listed":201,"active_listings":1497,"inventory_listings":"1638","listed_avg4w":"184","pct_sold_7d":"8.5","pct_sold_30d":"21.9","pct_sold_60d":"37.8","pct_sold_90d":"58.2","pct_sold_to_date":"87.1","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"141","weekly_sold_pct":"8.61","age_min_days":195,"age_max_days":201,"in_avg":1,"data_quality":"OK"},{"list_week":202615,"week_start":"2026-04-05T22:00:00.000Z","week_end":"2026-04-11T22:00:00.000Z","listed":171,"active_listings":1427,"inventory_listings":"1563","listed_avg4w":"178","pct_sold_7d":"12.9","pct_sold_30d":"28.1","pct_sold_60d":"45.6","pct_sold_90d":"59.6","pct_sold_to_date":"86.0","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"136","weekly_sold_pct":"8.70","age_min_days":202,"age_max_days":208,"in_avg":1,"data_quality":"OK"},{"list_week":202614,"week_start":"2026-03-29T22:00:00.000Z","week_end":"2026-04-04T22:00:00.000Z","listed":194,"active_listings":1396,"inventory_listings":"1518","listed_avg4w":"182","pct_sold_7d":"7.2","pct_sold_30d":"24.2","pct_sold_60d":"43.8","pct_sold_90d":"58.2","pct_sold_to_date":"87.1","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"122","weekly_sold_pct":"8.04","age_min_days":209,"age_max_days":215,"in_avg":1,"data_quality":"OK"},{"list_week":202613,"week_start":"2026-03-22T23:00:00.000Z","week_end":"2026-03-28T23:00:00.000Z","listed":169,"active_listings":1323,"inventory_listings":"1493","listed_avg4w":"169","pct_sold_7d":"8.9","pct_sold_30d":"29.6","pct_sold_60d":"49.7","pct_sold_90d":"61.5","pct_sold_to_date":"86.4","avg8_7d":null,"avg8_30d":null,"avg8_60d":null,"avg8_90d":null,"avgcum_7d":null,"avgcum_30d":null,"avgcum_60d":null,"avgcum_90d":null,"dev30_vs_avg8":null,"dev60_vs_avg8":null,"sold_that_week":"170","weekly_sold_pct":"11.39","age_min_days":216,"age_max_days":222,"in_avg":1,"data_quality":"OK"}];
  
   // Domingo natural de la semana, igual que en la tabla, para que las etiquetas cuadren.
@@ -5351,6 +5608,10 @@ I continue buying and have never sold a share.
       tooltip: { show: false },
  
       legend: {
+        type: ChartUX.legendType(),
+        pageIconColor: '#4FC3F7',
+        pageIconInactiveColor: '#3f4854',
+        pageTextStyle: { color: '#aaa' },
         data: [
           { name: LEGEND_AVG, icon: 'line',
             lineStyle: { color: '#cfd8dc', width: 2 },
@@ -5423,6 +5684,8 @@ I continue buying and have never sold a share.
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.78);border:1px solid #4FC3F7;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
+    ChartUX.enableTouch(chartDom);
+    ChartUX.autoResize(chart);
  
     function hideCrosshair() {
       lineEl.style.display = 'none';
@@ -5433,7 +5696,7 @@ I continue buying and have never sold a share.
       if (labelsOpt.length < 2) return 30;
       const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
       const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
-      return Math.abs(px1 - px0) / 2;
+      return Math.max(Math.abs(px1 - px0) / 2, ChartUX.pick(8, 14));
     }
  
     function fmt(v) {
@@ -5515,19 +5778,7 @@ I continue buying and have never sold a share.
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
  
-      let tipX = mouseX + 15;
-      let tipY = mouseY - 10;
-      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) {
-        tipX = mouseX - tipEl.offsetWidth - 15;
-      }
-      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) {
-        tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
-      }
-      // Nunca invadir la franja de la leyenda
-      if (tipY < COHORT_GRID_TOP) tipY = COHORT_GRID_TOP;
- 
-      tipEl.style.left = tipX + 'px';
-      tipEl.style.top = tipY + 'px';
+      ChartUX.placeTip(tipEl, chartDom, mouseX, mouseY, COHORT_GRID_TOP);
     });
  
     chartDom.addEventListener('mouseleave', hideCrosshair);
@@ -5602,6 +5853,10 @@ I continue buying and have never sold a share.
       tooltip: { show: false },
 
       legend: {
+        type: ChartUX.legendType(),
+        pageIconColor: '#4FC3F7',
+        pageIconInactiveColor: '#3f4854',
+        pageTextStyle: { color: '#aaa' },
         data: ['P. Sold', 'Active Listings', 'Rotation %', 'Before Relistings'],
         textStyle: { color: '#cfd8dc', fontSize: 11 },
         top: 0,
@@ -5638,6 +5893,10 @@ I continue buying and have never sold a share.
         {
           type: 'value',
           show: false,
+          axisLabel: { show: false },
+          axisLine: { show: false },
+          axisTick: { show: false },
+          splitLine: { show: false },
           max: secondaryMax,
           min: secondaryMin
         },
@@ -5730,12 +5989,14 @@ I continue buying and have never sold a share.
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.75);border:1px solid ' + lineColor + ';border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
+    ChartUX.enableTouch(chartDom);
+    ChartUX.autoResize(chart);
 
     function getSnapPx() {
       if (labelsOpt.length < 2) return 30;
       const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
       const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
-      return Math.abs(px1 - px0) / 2;
+      return Math.max(Math.abs(px1 - px0) / 2, ChartUX.pick(8, 14));
     }
 
     chartDom.addEventListener('mousemove', function(e) {
@@ -5787,16 +6048,7 @@ I continue buying and have never sold a share.
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
 
-      let tipX = mouseX + 15;
-      let tipY = mouseY - 10;
-      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) {
-        tipX = mouseX - tipEl.offsetWidth - 15;
-      }
-      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) {
-        tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
-      }
-      tipEl.style.left = tipX + 'px';
-      tipEl.style.top = tipY + 'px';
+      ChartUX.placeTip(tipEl, chartDom, mouseX, mouseY, 36);
     });
 
     chartDom.addEventListener('mouseleave', function() {
@@ -5853,6 +6105,10 @@ I continue buying and have never sold a share.
       tooltip: { show: false },
 
       legend: {
+        type: ChartUX.legendType(),
+        pageIconColor: '#4FC3F7',
+        pageIconInactiveColor: '#3f4854',
+        pageTextStyle: { color: '#aaa' },
         data: ['Contracts acquired', 'New listings', 'New listings (6w avg)'],
         top: 0,
         textStyle: { color: '#cfd8dc', fontSize: 12 },
@@ -5998,12 +6254,14 @@ I continue buying and have never sold a share.
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.75);border:1px solid ' + colorContracts + ';border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
+    ChartUX.enableTouch(chartDom);
+    ChartUX.autoResize(chart);
 
     function getSnapPx() {
       if (acqLabels.length < 2) return 30;
       const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
       const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
-      return Math.abs(px1 - px0) / 2;
+      return Math.max(Math.abs(px1 - px0) / 2, ChartUX.pick(8, 14));
     }
 
     chartDom.addEventListener('mousemove', function(e) {
@@ -6055,16 +6313,7 @@ I continue buying and have never sold a share.
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
 
-      let tipX = mouseX + 15;
-      let tipY = mouseY - 10;
-      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) {
-        tipX = mouseX - tipEl.offsetWidth - 15;
-      }
-      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) {
-        tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
-      }
-      tipEl.style.left = tipX + 'px';
-      tipEl.style.top = tipY + 'px';
+      ChartUX.placeTip(tipEl, chartDom, mouseX, mouseY, 36);
     });
 
     chartDom.addEventListener('mouseleave', function() {
@@ -6072,8 +6321,6 @@ I continue buying and have never sold a share.
       tipEl.style.display = 'none';
     });
 
-    const onResize = () => chart.resize();
-    window.addEventListener('resize', onResize);
   }
 
   const acqChartContainer = document.getElementById('acqListingsChart');
@@ -6160,7 +6407,7 @@ I continue buying and have never sold a share.
         itemStyle: { color: color, borderColor: '#fff', borderWidth: 1 },
         emphasis: { disabled: true },
         endLabel: {
-          show: true,
+          show: !ChartUX.isMobile(),
           formatter: label + ' · ' + size.toLocaleString(),
           color: color,
           fontSize: 10,
@@ -6177,6 +6424,10 @@ I continue buying and have never sold a share.
       tooltip: { show: false },
 
       legend: {
+        type: ChartUX.legendType(),
+        pageIconColor: '#4FC3F7',
+        pageIconInactiveColor: '#3f4854',
+        pageTextStyle: { color: '#aaa' },
         data: months.map(function(month) {
           const d = new Date(month + '-02');
           const label = d.toLocaleString('en-US', { month: 'short', year: '2-digit' });
@@ -6191,7 +6442,7 @@ I continue buying and have never sold a share.
 
       grid: {
         left: 6,
-        right: 100,
+        right: ChartUX.pick(100, 12),
         top: 36,
         bottom: 30,
         containLabel: true
@@ -6223,7 +6474,7 @@ I continue buying and have never sold a share.
           show: true,
           lineStyle: { color: 'rgba(255,255,255,0.18)', width: 1.2, type: 'dashed' }
         },
-        name: 'Avg Price Retention',
+        name: ChartUX.pick('Avg Price Retention', ''),
         nameLocation: 'middle',
         nameGap: 60,
         nameTextStyle: { color: '#9ca3af', fontSize: 11 }
@@ -6244,6 +6495,8 @@ I continue buying and have never sold a share.
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.80);border:1px solid #38bdf8;border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
+    ChartUX.enableTouch(chartDom);
+    ChartUX.autoResize(chart);
 
     chartDom.addEventListener('mousemove', function(e) {
       const rect = chartDom.getBoundingClientRect();
@@ -6320,12 +6573,7 @@ I continue buying and have never sold a share.
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
 
-      let tipX = mouseX + 15;
-      let tipY = mouseY - 10;
-      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) tipX = mouseX - tipEl.offsetWidth - 15;
-      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
-      tipEl.style.left = tipX + 'px';
-      tipEl.style.top = tipY + 'px';
+      ChartUX.placeTip(tipEl, chartDom, mouseX, mouseY, 36);
     });
 
     chartDom.addEventListener('mouseleave', function() {
@@ -6333,8 +6581,6 @@ I continue buying and have never sold a share.
       tipEl.style.display = 'none';
     });
 
-    const onResize = () => chart.resize();
-    window.addEventListener('resize', onResize);
   }
 
   const cohortChartContainer = document.getElementById('cohortChart');
@@ -6387,6 +6633,10 @@ I continue buying and have never sold a share.
       tooltip: { show: false },
 
       legend: {
+        type: ChartUX.legendType(),
+        pageIconColor: '#4FC3F7',
+        pageIconInactiveColor: '#3f4854',
+        pageTextStyle: { color: '#aaa' },
         data: ['New Listings', 'Delistings'],
         top: 0,
         textStyle: { color: '#cfd8dc', fontSize: 12 },
@@ -6478,12 +6728,14 @@ I continue buying and have never sold a share.
     const tipEl = document.createElement('div');
     tipEl.style.cssText = 'position:absolute;pointer-events:none;background:rgba(0,0,0,0.75);border:1px solid ' + colorNew + ';border-radius:4px;padding:10px;display:none;z-index:20;font-size:12px;color:#fff;white-space:nowrap;';
     chartDom.appendChild(tipEl);
+    ChartUX.enableTouch(chartDom);
+    ChartUX.autoResize(chart);
 
     function getSnapPx() {
       if (nrLabels.length < 2) return 30;
       const px0 = chart.convertToPixel({ xAxisIndex: 0 }, 0);
       const px1 = chart.convertToPixel({ xAxisIndex: 0 }, 1);
-      return Math.abs(px1 - px0) / 2;
+      return Math.max(Math.abs(px1 - px0) / 2, ChartUX.pick(8, 14));
     }
 
     chartDom.addEventListener('mousemove', function(e) {
@@ -6523,12 +6775,7 @@ I continue buying and have never sold a share.
       tipEl.innerHTML = html;
       tipEl.style.display = 'block';
 
-      let tipX = mouseX + 15;
-      let tipY = mouseY - 10;
-      if (tipX + tipEl.offsetWidth > chartDom.clientWidth - 10) tipX = mouseX - tipEl.offsetWidth - 15;
-      if (tipY + tipEl.offsetHeight > chartDom.clientHeight - 10) tipY = chartDom.clientHeight - tipEl.offsetHeight - 10;
-      tipEl.style.left = tipX + 'px';
-      tipEl.style.top = tipY + 'px';
+      ChartUX.placeTip(tipEl, chartDom, mouseX, mouseY, 36);
     });
 
     chartDom.addEventListener('mouseleave', function() {
@@ -6536,8 +6783,6 @@ I continue buying and have never sold a share.
       tipEl.style.display = 'none';
     });
 
-    const onResize = () => chart.resize();
-    window.addEventListener('resize', onResize);
   }
 
   const newRemovedChartContainer = document.getElementById('newRemovedChart');
@@ -6647,6 +6892,7 @@ I continue buying and have never sold a share.
 
     const chartDom = document.getElementById('rotationPyramidChart');
     const chart = echarts.init(chartDom, null, { renderer: 'canvas' });
+    ChartUX.enableTouch(chartDom);
 
     const slider = document.getElementById('rotSlider');
     const playBtn = document.getElementById('rotPlay');
@@ -6687,6 +6933,7 @@ I continue buying and have never sold a share.
           formatter: function (p) {
             const h = byDate[d].homes[p.dataIndex];
             const s = byDate[d].pct[p.dataIndex];
+            if (ChartUX.isMobile()) return mode === 'homes' ? rotInt(h) : s.toFixed(1) + '%';
             return mode === 'homes'
               ? rotInt(h) + '  (' + s.toFixed(1) + '%)'
               : s.toFixed(1) + '%  (' + rotInt(h) + ')';
@@ -6762,10 +7009,12 @@ I continue buying and have never sold a share.
       animationDurationUpdate: 220,
       animationEasingUpdate: 'cubicOut',
 
-      grid: { left: 6, right: 110, top: 10, bottom: 24, containLabel: true },
+      grid: { left: 6, right: ChartUX.pick(110, 60), top: 10, bottom: 24, containLabel: true },
 
       tooltip: {
         trigger: 'axis',
+        confine: true,
+        triggerOn: 'mousemove|click',
         axisPointer: { type: 'shadow', shadowStyle: { color: 'rgba(255,255,255,0.04)' } },
         backgroundColor: 'rgba(0,0,0,0.78)',
         borderColor: '#4FC3F7',
@@ -6815,7 +7064,7 @@ I continue buying and have never sold a share.
         data: buckets,
         axisLine: { lineStyle: { color: '#666' } },
         axisTick: { show: false },
-        axisLabel: { color: '#cfd8dc', fontSize: 12 }
+        axisLabel: { color: '#cfd8dc', fontSize: ChartUX.pick(12, 10) }
       },
 
       series: [mainSeries(dates[idx]), refSeries()]
@@ -6893,7 +7142,7 @@ I continue buying and have never sold a share.
       if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); toggleRef(); }
     });
 
-    window.addEventListener('resize', function () { chart.resize(); });
+    ChartUX.autoResize(chart);
 
     updateHeader();
   }
