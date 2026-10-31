@@ -16720,6 +16720,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f3d75f8-3512-5510-a4df-214556b7d70c",
+        "address": "122 E Houston St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1594,
+        "listed_at": "2026-10-31T02:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.447474,
+          29.53848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f4b5428-7ca3-5da7-8ffa-8998b0eeb2bb",
         "address": "511-Manigault-St-Winnsboro-SC-29180",
         "beds": 3,
