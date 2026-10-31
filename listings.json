@@ -87595,6 +87595,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f7e215e5-8e20-507e-8da9-194ae63ccdd0",
+        "address": "4003 Old Settlement Ct",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3424,
+        "listed_at": "2026-10-31T11:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 450000,
+        "price_label": "$450K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.567639,
+          29.575682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f7e38995-709b-5821-886c-0e92a8b798f3",
         "address": "807-Hilltop-Dr-Greeneville-TN-37745",
         "beds": 4,
