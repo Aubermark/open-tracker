@@ -51517,6 +51517,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "95de84b1-73e0-5648-a384-d34adf3a56e8",
+        "address": "14416 Saint Andrews Dr",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 1977,
+        "listed_at": "2026-10-31T08:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.518091,
+          38.862108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9604dc7e-efbd-5bd7-8614-7f64cb267faa",
         "address": "10209-Broadway-St-Carmel-IN-46280",
         "beds": 3,
