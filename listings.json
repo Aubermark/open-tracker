@@ -14074,6 +14074,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2891225d-07a2-41d6-a084-69908860e377",
+        "address": "9037 Palafox St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1766,
+        "listed_at": "2026-10-31T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.325251,
+          32.928119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "289b3d3d-4e7c-45b4-bf67-16df119e10d7",
         "address": "604-Stewart-Ct-Statesville-NC-28677",
         "beds": 2,
@@ -32674,6 +32695,27 @@
         "coordinates": [
           -80.783635,
           35.193281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5ca1ac12-e50e-51f9-b30f-f8f3a278427b",
+        "address": "3735 N 309th Ct",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1712,
+        "listed_at": "2026-10-31T01:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.717619,
+          33.48939
         ]
       }
     },
