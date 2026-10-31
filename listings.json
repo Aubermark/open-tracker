@@ -21109,27 +21109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3bd4e6ad-e309-507b-a615-24df59c1956d",
-        "address": "14292-Se-Meadows-Ln-Clackamas-OR-97015",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2382,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "177",
-        "current_price": 599000,
-        "price_label": "$599K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.546524,
-          45.419983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3bd95625-850b-5022-9ccd-6665a74eaf3d",
         "address": "51340-W-Iver-Rd-Aguila-AZ-85320",
         "beds": 3,
@@ -28789,6 +28768,27 @@
         "coordinates": [
           -80.154093,
           32.989326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5197cf5b-5d79-573a-9efe-3f84157415e0",
+        "address": "6036-N-72nd-Dr-Glendale-AZ-85303-15945752",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1168,
+        "listed_at": "2026-10-31T18:20:06.000Z",
+        "days_on_market": "80",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.214694,
+          33.525023
         ]
       }
     },
