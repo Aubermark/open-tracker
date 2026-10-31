@@ -2738,22 +2738,28 @@
 
 
 .app-shell { width: 100%; min-width: 0; }
- 
+
+/* Map Explorer: con position:absolute tapaba "Tracking since" en escritorio
+   y tablet, y los shortcuts en movil. Pasa a ser un elemento mas de la barra.
+   Requiere añadir class="map-explorer-link" a su <div> contenedor. */
 .map-explorer-link { position: static !important; }
- 
+
+/* Lo mismo para el resto de contenedores */
 .chart-box,
 .card,
 .card-wide,
 .card-wide-ranges,
 .q2-section { min-width: 0; }
- 
+
+/* Tablas anchas: scroll horizontal DENTRO de su tarjeta, nunca de la pagina.
+   .table-scroll sirve para envolver cualquier tabla nueva. */
 .table-scroll,
 .all-wrapper-sold,
 .jobs-table-wrapper {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
- 
+
 /* Pantallas tactiles (movil y tablet): objetivos de al menos 24-28px
    (WCAG 2.5.8). Los badges median 17-19px de alto. */
 @media (pointer: coarse) {
@@ -2769,22 +2775,22 @@
   .rot-gap-mark { top: 14px; }
   .rot-play { width: 32px; height: 32px; }
 }
- 
- 
+
+
 /* ─────────────── TABLET / MOVIL ≤ 768px ─────────────── */
 @media (max-width: 768px) {
- 
+
   /* Menos padding lateral = mas ancho util para los charts */
   .chart-box { padding: 14px 10px; border-radius: 10px; }
   .card-wide { padding: 14px 10px; }
   .card-wide-ranges { padding: 14px 10px; }
   .card-header { flex-wrap: wrap; gap: 8px; }
- 
+
   /* Red de seguridad para tablas que no esten envueltas en .table-scroll */
   .card-wide { overflow-x: auto; -webkit-overflow-scrolling: touch; }
- 
+
   .map-explorer-link { align-self: flex-start; }
- 
+
   /* Alturas de charts */
   #acqListingsChart,
   #newRemovedChart,
@@ -2792,10 +2798,10 @@
   #cohortAvgChart { height: 300px !important; }
   #rotationPyramidChart { height: 320px !important; }
   #acqListingsChart { margin-top: 10px; }
- 
+
   /* El inline min-height:350px del weekly ganaba al height del media query */
   #weeklyChart { min-height: 0 !important; height: 300px !important; }
- 
+
   /* Toggle Absolute/Indexed del chart de cohortes: de flotante a fila propia,
      asi no tapa la leyenda */
   #cohortAvgToggle {
@@ -2811,13 +2817,13 @@
     flex-wrap: wrap;
     gap: 4px 10px !important;
   }
- 
+
   /* Pyramid */
   .rot-toolbar { flex-direction: column; align-items: stretch; margin: 10px 0 4px; }
   .rot-badges { justify-content: flex-start; }
   .rot-date { font-size: 15px; }
   .rot-slider { gap: 10px; }
- 
+
   /* Tabla de rangos (7 columnas fijas: hay que comprimir) */
   #table-sold-ranges th { font-size: 9px; letter-spacing: 0; padding: 6px 2px; }
   #table-sold-ranges td { padding: 6px 2px; }
@@ -2826,39 +2832,140 @@
   .ranges-row-pct .ranges-pct { font-size: 10px; padding-bottom: 6px; }
   .ranges-bar-cell { padding: 0 4px 8px; }
   .ranges-row-label { font-size: 8px; padding: 2px 4px; letter-spacing: 0; }
- 
+
   /* Chip "Board Appointment": mas compacto para no ensanchar la tabla */
   .featured-chip { font-size: 9px; letter-spacing: 0.05em; padding: 1px 6px; }
- 
+
   /* Tweets: estaba pegado a los bordes de la pantalla */
   .tweet-container { margin: 20px 10px 32px; padding: 14px 8px; }
 }
- 
- 
+
+
 /* ─────────────── MOVIL ≤ 480px ─────────────── */
 @media (max-width: 480px) {
- 
+
   .chart-box { padding: 12px 8px; }
   .card-wide,
   .card-wide-ranges { padding: 12px 8px; }
- 
+
   #acqListingsChart,
   #newRemovedChart,
   #cohortChart,
   #cohortAvgChart,
   #rotationPyramidChart { height: 280px !important; }
- 
+
   /* Sustituye el 220px anterior: con 3 ejes Y quedaba ilegible */
   #weeklyChart { height: 260px !important; }
- 
+
   /* 5 botones de IA en una fila: a 54px + gap 12px desbordaban en 360px */
   .ai-links { gap: 8px; }
   .ai-button { width: 46px; height: 46px; padding: 10px; }
   .ai-icon,
   .ai-icon-claude { width: 26px; height: 26px; }
- 
+
   .rot-badge { font-size: 9px; padding: 3px 8px; letter-spacing: 0.06em; }
 }
+
+
+/* ════════════════════════════════════════════
+   (ChartShare)
+════════════════════════════════════════════ */
+.cs-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 6px 0 2px;
+}
+.cs-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px;
+  font: 600 11px system-ui, -apple-system, "Segoe UI", sans-serif;
+  letter-spacing: 0.04em;
+  color: #9fb3c8;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: color .12s, border-color .12s, background .12s;
+}
+.cs-btn:hover { color: #4FC3F7; border-color: rgba(79, 195, 247, 0.6); background: rgba(79, 195, 247, 0.08); }
+.cs-btn:focus-visible { outline: 2px solid #4FC3F7; outline-offset: 2px; }
+
+/* Estado del punto fijado: pista cuando no hay ninguno, chip cuando lo hay */
+.cs-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  height: 28px;
+  padding: 0 10px;
+  margin-right: auto;
+  font: 500 11px system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #6b7686;
+  border: 1px dashed transparent;
+  border-radius: 999px;
+}
+.cs-chip-dot { width: 7px; height: 7px; border-radius: 50%; background: #3f4854; flex-shrink: 0; }
+.cs-chip-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cs-chip-clear { display: none; }
+
+.cs-chip.is-pinned {
+  padding-right: 4px;
+  color: #cfe9f7;
+  background: rgba(79, 195, 247, 0.08);
+  border-color: rgba(79, 195, 247, 0.5);
+}
+.cs-chip.is-pinned .cs-chip-dot { background: #4FC3F7; box-shadow: 0 0 0 3px rgba(79, 195, 247, 0.2); }
+.cs-chip.is-pinned .cs-chip-clear {
+  display: inline-block;
+  width: 22px; height: 22px;
+  border: 0; border-radius: 50%;
+  background: transparent; color: #9fb3c8;
+  font-size: 16px; line-height: 1; cursor: pointer;
+}
+.cs-chip.is-pinned .cs-chip-clear:hover { color: #fff; background: rgba(255, 255, 255, 0.08); }
+
+/* Chart con punto fijado: el cursor indica que un clic lo suelta */
+.cs-locked canvas { cursor: pointer; }
+
+.cs-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translate(-50%, 20px);
+  max-width: calc(100vw - 32px);
+  padding: 10px 14px;
+  font: 500 13px system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #e5f6ff;
+  background: rgba(2, 6, 23, 0.95);
+  border: 1px solid rgba(79, 195, 247, 0.55);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s, transform .2s;
+  z-index: 10000;
+}
+.cs-toast.show { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+.cs-toast a { color: #4FC3F7; font-weight: 700; }
+
+@media (max-width: 480px) {
+  /* En movil, solo iconos para que quepan en una fila */
+  .cs-btn span { display: none; }
+  .cs-btn { width: 36px; padding: 0; justify-content: center; }
+  .cs-chip { height: 30px; flex-basis: 100%; }
+}
+@media (pointer: coarse) {
+  .cs-btn { height: 32px; }
+  .cs-chip.is-pinned .cs-chip-clear { width: 28px; height: 28px; }
+  .cs-chip { height: 32px; }
+}
+
 
 
 
@@ -2934,7 +3041,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">31/10/2026, 17:20 (CET)</span>
+                <span class="hero-meta-value">31/10/2026, 17:22 (CET)</span>
               </div>
           </div>
         </section>
@@ -5277,12 +5384,15 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
 
 <script>
   // ════════════════════════════════════════════
-  // ChartUX — utilities
+  // ChartUX
   // ════════════════════════════════════════════
   var ChartUX = (function () {
     var MOBILE_BP = 768;
 
+    // ChartShare activa forceDesktop mientras genera la imagen, para que
+    // los formatters que preguntan por el ancho dibujen la version completa
     function isMobile() {
+      if (window.ChartUX && window.ChartUX.forceDesktop) return false;
       return window.innerWidth <= MOBILE_BP;
     }
 
@@ -5394,12 +5504,816 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     }
 
     return {
+      forceDesktop: false,
       isMobile: isMobile,
       pick: pick,
       placeTip: placeTip,
       enableTouch: enableTouch,
       autoResize: autoResize,
       legendType: legendType
+    };
+  })();
+</script>
+
+<script>
+  // ════════════════════════════════════════════
+  // ChartShare — captura y comparte cualquier chart de la pagina.
+  // Pegar DESPUES de ChartUX y ANTES de los scripts de los charts.
+  //
+  // IMPORTANTE: este bloque vive dentro de la plantilla del servidor
+  // (template literal), asi que no usa template literals ni barras
+  // invertidas: una secuencia de escape se convertiria en un caracter real y
+  // romperia el JS generado. Los saltos se escriben con NL.
+  // ════════════════════════════════════════════
+  var ChartShare = (function () {
+    var NL = String.fromCharCode(10);
+    var NBSP = String.fromCharCode(160);
+
+    // Ajustes generales
+    var SETTINGS = {
+      siteName: 'Opendoor Data Explorer',
+      cashtag: '$OPEN',
+      width: 1200,          // ancho de la imagen exportada (px CSS)
+      chartHeight: 560,     // alto del chart dentro de la imagen
+      scale: 2,             // densidad de la imagen (2 = nitida en retina)
+      bg: '#0d1117',
+      text: '#f1f5f9',
+      muted: '#94a3b8',
+      accent: '#4FC3F7'
+    };
+
+    // Extras por chart: texto de subtitulo y leyendas que viven en el DOM
+    var CONFIG = {
+      weeklyChart:          { subtitle: ['#weeklyChangeBox'] },
+      rotationPyramidChart: { subtitle: ['#rotDate', '#rotTotal'] },
+      cohortAvgChart:       { legendDom: '#cohortColorKey' }
+    };
+
+    var registry = {};
+    var simulating = false;
+
+    // ── Utilidades ──────────────────────────────────────────
+
+    function clean(s) {
+      return String(s || '').split(NBSP).join(' ').replace(/ +/g, ' ').trim();
+    }
+
+    function lines(s) {
+      return String(s || '').split(NL).map(clean).filter(function (x) { return x.length; });
+    }
+
+    function isTransparent(c) {
+      return !c || c === 'transparent' || c === 'rgba(0, 0, 0, 0)';
+    }
+
+    function container(chartDom) {
+      return chartDom.closest('.chart-box, .card-wide, .card') || chartDom.parentElement;
+    }
+
+    function chartTitle(chartDom) {
+      var t = container(chartDom).querySelector('.card-title');
+      return t ? clean(t.innerText) : '';
+    }
+
+    function chartSubtitle(id) {
+      var cfg = CONFIG[id] || {};
+      return (cfg.subtitle || []).map(function (sel) {
+        var el = document.querySelector(sel);
+        return el ? clean(el.innerText) : '';
+      }).filter(Boolean).join('  ·  ');
+    }
+
+    function domLegend(id) {
+      var cfg = CONFIG[id] || {};
+      var root = cfg.legendDom && document.querySelector(cfg.legendDom);
+      if (!root) return [];
+      return Array.prototype.map.call(root.children, function (chip) {
+        var dot = chip.querySelector('span');
+        return { name: clean(chip.innerText), color: dot ? getComputedStyle(dot).backgroundColor : SETTINGS.accent };
+      });
+    }
+
+    function lastUpdate() {
+      var el = document.querySelector('.hero-meta-value');
+      return el ? clean(el.innerText) : '';
+    }
+
+    function shareUrl(id) {
+      return location.href.split('#')[0] + '#' + id;
+    }
+
+    // Tooltip visible dentro del chart (propio o nativo de ECharts)
+    function findTooltip(chartDom, mustBeVisible) {
+      var divs = chartDom.querySelectorAll('div');
+      for (var i = 0; i < divs.length; i++) {
+        var d = divs[i];
+        var cs = getComputedStyle(d);
+        if (cs.position !== 'absolute' || d.querySelector('canvas')) continue;
+        if (!clean(d.innerText) && !d.innerHTML) continue;
+        if (!mustBeVisible) { if (d.children.length) return d; continue; }
+        if (cs.display === 'none' || cs.visibility === 'hidden' || parseFloat(cs.opacity) === 0) continue;
+        var r = d.getBoundingClientRect();
+        if (r.width < 20 || r.height < 10 || !clean(d.innerText)) continue;
+        return d;
+      }
+      return null;
+    }
+
+    // Convierte el HTML del tooltip en filas estructuradas:
+    // [{ cells: [...], color, secondary }]
+    function readRows(tip) {
+      var rows = [];
+
+      function dotColor(el) {
+        var spans = el.querySelectorAll('span');
+        for (var i = 0; i < spans.length; i++) {
+          var cs = getComputedStyle(spans[i]);
+          var w = spans[i].getBoundingClientRect().width;
+          if (w > 0 && w <= 12 && !isTransparent(cs.backgroundColor)) return cs.backgroundColor;
+        }
+        // Filas tipo "● Nombre" con el punto coloreado por texto
+        for (var j = 0; j < spans.length; j++) {
+          if (clean(spans[j].innerText).charAt(0) === '●') return getComputedStyle(spans[j]).color;
+        }
+        return null;
+      }
+
+      function strip(s) { return clean(String(s).replace('●', '')); }
+
+      function push(el, cells) {
+        cells = cells.map(strip).filter(Boolean);
+        if (!cells.length) return;
+        var cs = getComputedStyle(el);
+        rows.push({
+          cells: cells,
+          color: dotColor(el),
+          secondary: parseFloat(cs.opacity) < 0.8 || parseFloat(cs.fontSize) <= 11,
+          strong: parseFloat(cs.fontWeight) >= 600 && parseFloat(cs.fontSize) >= 13
+        });
+      }
+
+      function isBlock(el) {
+        var d = getComputedStyle(el).display;
+        return d === 'block' || d === 'flex' || d === 'grid';
+      }
+
+      function visit(el) {
+        if (getComputedStyle(el).display === 'flex') {
+          push(el, Array.prototype.map.call(el.children, function (c) { return c.innerText; }));
+          return;
+        }
+        var blocks = Array.prototype.filter.call(el.children, isBlock);
+        if (!blocks.length) { push(el, [el.innerText]); return; }
+        Array.prototype.forEach.call(el.children, function (c) {
+          if (isBlock(c)) visit(c);
+        });
+      }
+
+      Array.prototype.forEach.call(tip.children, function (c) { visit(c); });
+      if (!rows.length) lines(tip.innerText).forEach(function (t) { rows.push({ cells: [t], color: null }); });
+      return rows;
+    }
+
+    // ── Punto fijado ────────────────────────────────────────
+    // Clic (o toque) sobre el area de datos: el tooltip se queda fijo en ese
+    // punto y deja de seguir al cursor. Otro clic lo suelta.
+    // En tactil no hay cursor que seguir: tocar otro punto mueve el fijado y
+    // tocar el mismo punto lo suelta.
+
+    function isNative(entry) {
+      var t = entry.chart.getOption().tooltip;
+      return !!(t && t[0] && t[0].show !== false);
+    }
+
+    // Muestra el tooltip del chart en (x, y), relativo al contenedor
+    function showAt(entry, x, y) {
+      var dom = entry.dom;
+      var rect = dom.getBoundingClientRect();
+      simulating = true;
+      try {
+        if (isNative(entry)) {
+          entry.chart.dispatchAction({ type: 'showTip', x: x, y: y });
+        } else {
+          dom.dispatchEvent(new MouseEvent('mousemove', { clientX: rect.left + x, clientY: rect.top + y }));
+        }
+      } finally {
+        simulating = false;
+      }
+    }
+
+    function hideTip(entry) {
+      simulating = true;
+      try {
+        if (isNative(entry)) entry.chart.dispatchAction({ type: 'hideTip' });
+        else entry.dom.dispatchEvent(new MouseEvent('mouseleave'));
+      } finally {
+        simulating = false;
+      }
+    }
+
+    function tooltipLabel(entry) {
+      var tip = findTooltip(entry.dom, true);
+      return tip ? (lines(tip.innerText)[0] || '') : '';
+    }
+
+    function lockAt(entry, x, y) {
+      showAt(entry, x, y);
+      entry.pin = { x: x, y: y, label: tooltipLabel(entry) };
+      entry.dom.classList.add('cs-locked');
+      renderChip(entry);
+    }
+
+    function unlock(entry, x, y) {
+      entry.pin = null;
+      entry.dom.classList.remove('cs-locked');
+      renderChip(entry);
+      // Vuelve a seguir al cursor desde donde esta ahora
+      if (typeof x === 'number') showAt(entry, x, y);
+      else hideTip(entry);
+    }
+
+    function setupLock(entry) {
+      var dom = entry.dom;
+      var chart = entry.chart;
+      var lastTouch = 0;
+
+      // Con el punto fijado, el chart no recibe movimientos ni salidas del
+      // cursor: el tooltip se queda donde esta. Va en captura sobre el
+      // contenedor, asi que tambien frena a ECharts (pyramid).
+      ['mousemove', 'mouseleave', 'mouseout', 'pointermove', 'pointerleave', 'pointerout'].forEach(function (type) {
+        dom.addEventListener(type, function (e) {
+          if (entry.pin && !simulating) e.stopImmediatePropagation();
+        }, true);
+      });
+
+      dom.addEventListener('touchstart', function () { lastTouch = Date.now(); }, { capture: true, passive: true });
+
+      // Tactil: tocar fuera del chart suelta el punto y cierra el tooltip,
+      // excepto si se toca la propia barra de compartir (para capturarlo)
+      document.addEventListener('touchstart', function (e) {
+        if (!entry.pin) return;
+        var t = e.target;
+        if (dom.contains(t) || (entry.bar && entry.bar.contains(t))) return;
+        unlock(entry);
+      }, { capture: true, passive: true });
+
+      dom.addEventListener('click', function (e) {
+        var rect = dom.getBoundingClientRect();
+        var x = e.clientX - rect.left;
+        var y = e.clientY - rect.top;
+        // Solo el area de datos: los clics en la leyenda siguen ocultando series
+        if (!chart.containPixel({ gridIndex: 0 }, [x, y])) return;
+        var touch = Date.now() - lastTouch < 800;
+
+        if (!entry.pin) { lockAt(entry, x, y); return; }
+        if (touch) {
+          var near = Math.abs(x - entry.pin.x) < 24 && Math.abs(y - entry.pin.y) < 40;
+          if (near) unlock(entry, x, y);
+          else lockAt(entry, x, y);
+          return;
+        }
+        unlock(entry, x, y);
+      }, true);
+
+      // Si el chart se redibuja (p. ej. el slider de la piramide), el tooltip
+      // fijado se vuelve a mostrar con los datos nuevos
+      var origSetOption = chart.setOption;
+      chart.setOption = function () {
+        var r = origSetOption.apply(chart, arguments);
+        if (entry.pin) {
+          var p = entry.pin;
+          setTimeout(function () {
+            if (entry.pin !== p) return;
+            showAt(entry, p.x, p.y);
+            p.label = tooltipLabel(entry) || p.label;
+            renderChip(entry);
+          }, 0);
+        }
+        return r;
+      };
+    }
+
+    // Lee el tooltip en el punto fijado (siempre al dia)
+    function readPinnedTooltip(entry) {
+      if (!entry.pin) return null;
+      showAt(entry, entry.pin.x, entry.pin.y);
+      var tip = findTooltip(entry.dom, true);
+      return tip ? readRows(tip) : null;
+    }
+
+    // ── Exportacion ─────────────────────────────────────────
+
+    // Opciones del chart en version "escritorio" para la imagen: la imagen
+    // siempre mide 1200px aunque se genere desde un movil
+    function exportOption(opt) {
+      var o = opt;
+      o.animation = false;
+      (o.legend || []).forEach(function (l) { l.type = 'plain'; });
+      (o.tooltip || []).forEach(function (t) { t.show = false; });
+      var needRight = 0;
+      (o.series || []).forEach(function (s) {
+        // Solo series que definen etiqueta final propia (en movil se ocultan)
+        if (s.endLabel && s.endLabel.formatter) { s.endLabel.show = true; needRight = Math.max(needRight, 100); }
+        if (s.type === 'bar' && s.label && s.label.show && s.label.position === 'right') needRight = Math.max(needRight, 110);
+      });
+      (o.grid || []).forEach(function (g) {
+        if (needRight && (typeof g.right !== 'number' || g.right < needRight)) g.right = needRight;
+      });
+      return o;
+    }
+
+    // Marca del punto seleccionado sobre el chart exportado
+    function pointMarks(live, off, pin) {
+      var marks = { lines: [], dots: [], bands: [] };
+      if (!pin) return marks;
+      var opt = off.getOption();
+      var xa = opt.xAxis && opt.xAxis[0];
+      var ya = opt.yAxis && opt.yAxis[0];
+      var grid = off.getModel().getComponent('grid').coordinateSystem.getRect();
+
+      if (ya && ya.type === 'category') {
+        var yi = Math.round(live.convertFromPixel({ yAxisIndex: 0 }, pin.y));
+        var c0 = off.convertToPixel({ yAxisIndex: 0 }, yi);
+        var step = Math.abs(off.convertToPixel({ yAxisIndex: 0 }, 1) - off.convertToPixel({ yAxisIndex: 0 }, 0));
+        marks.bands.push({ x: grid.x, y: c0 - step / 2, w: grid.width, h: step });
+        return marks;
+      }
+
+      if (!xa) return marks;
+      var xv = live.convertFromPixel({ xAxisIndex: 0 }, pin.x);
+      if (xa.type === 'category') {
+        var idx = Math.max(0, Math.min(xa.data.length - 1, Math.round(xv)));
+        marks.lines.push(off.convertToPixel({ xAxisIndex: 0 }, idx));
+        (opt.series || []).forEach(function (s, si) {
+          if (s.type !== 'line' || s.silent || !s.data) return;
+          var v = s.data[idx];
+          if (v && typeof v === 'object' && !Array.isArray(v)) v = v.value;
+          if (v === null || v === undefined || isNaN(v)) return;
+          var p = off.convertToPixel({ seriesIndex: si }, [idx, v]);
+          if (p) marks.dots.push({ x: p[0], y: p[1], color: (s.lineStyle && s.lineStyle.color) || SETTINGS.accent });
+        });
+      } else {
+        marks.lines.push(off.convertToPixel({ xAxisIndex: 0 }, xv));
+        (opt.series || []).forEach(function (s, si) {
+          if (s.type !== 'line' || !s.data || !s.data.length) return;
+          var best = null, dist = Infinity;
+          s.data.forEach(function (p) {
+            if (!Array.isArray(p)) return;
+            var d = Math.abs(p[0] - xv);
+            if (d < dist) { dist = d; best = p; }
+          });
+          var maxX = Math.max.apply(null, s.data.map(function (p) { return Array.isArray(p) ? p[0] : -Infinity; }));
+          if (!best || xv > maxX) return;
+          var px = off.convertToPixel({ seriesIndex: si }, best);
+          if (px) marks.dots.push({ x: px[0], y: px[1], color: (s.lineStyle && s.lineStyle.color) || SETTINGS.accent });
+        });
+      }
+      return marks;
+    }
+
+    function loadImage(src) {
+      return new Promise(function (res, rej) {
+        var img = new Image();
+        img.onload = function () { res(img); };
+        img.onerror = rej;
+        img.src = src;
+      });
+    }
+
+    function font(weight, size) {
+      return weight + ' ' + size + 'px system-ui, -apple-system, "Segoe UI", sans-serif';
+    }
+
+    function roundRect(ctx, x, y, w, h, r) {
+      ctx.beginPath();
+      ctx.moveTo(x + r, y);
+      ctx.arcTo(x + w, y, x + w, y + h, r);
+      ctx.arcTo(x + w, y + h, x, y + h, r);
+      ctx.arcTo(x, y + h, x, y, r);
+      ctx.arcTo(x, y, x + w, y, r);
+      ctx.closePath();
+    }
+
+    // Recorta un texto al ancho disponible
+    function fit(ctx, text, maxW) {
+      if (ctx.measureText(text).width <= maxW) return text;
+      while (text.length > 1 && ctx.measureText(text + '…').width > maxW) text = text.slice(0, -1);
+      return text + '…';
+    }
+
+    // Alto que ocupara el panel de datos del tooltip
+    function panelLayout(ctx, rows, innerW) {
+      var head = rows.length && rows[0].cells.length === 1 ? rows[0] : null;
+      var body = head ? rows.slice(1) : rows.slice();
+      var notes = body.filter(function (r) { return r.secondary && r.cells.length === 1 && !r.color; });
+      var data = body.filter(function (r) { return notes.indexOf(r) === -1; });
+      var table = data.some(function (r) { return r.cells.length > 2; });
+      // Filas simples en 2 columnas; tablas a una columna con celdas alineadas
+      var cols = table ? 1 : (data.length >= 3 ? 2 : 1);
+      var rowsPerCol = Math.ceil(data.length / cols);
+      var h = 24 + (head ? 38 : 0) + rowsPerCol * 30 + (notes.length ? 12 + notes.length * 22 : 0) + 20;
+      return { head: head, data: data, notes: notes, table: table, cols: cols, rowsPerCol: rowsPerCol, h: h };
+    }
+
+    function drawPanel(ctx, L, x, y, w) {
+      ctx.fillStyle = 'rgba(79,195,247,0.06)';
+      roundRect(ctx, x, y, w, L.h, 12);
+      ctx.fill();
+      ctx.strokeStyle = 'rgba(79,195,247,0.45)';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+
+      var cy = y + 24;
+      var pad = 24;
+      if (L.head) {
+        ctx.fillStyle = SETTINGS.text;
+        ctx.font = font(700, 20);
+        ctx.textBaseline = 'top';
+        ctx.fillText(fit(ctx, L.head.cells[0], w - pad * 2), x + pad, cy);
+        cy += 38;
+      }
+
+      // Anchos de columna para tablas (cohortChart)
+      var colW = [];
+      if (L.table) {
+        ctx.font = font(500, 16);
+        L.data.forEach(function (r) {
+          r.cells.forEach(function (c, i) { colW[i] = Math.max(colW[i] || 0, ctx.measureText(c).width + 36); });
+        });
+      }
+
+      var colWidth = (w - pad * 2) / L.cols;
+      L.data.forEach(function (r, i) {
+        var col = Math.floor(i / L.rowsPerCol);
+        var row = i % L.rowsPerCol;
+        var rx = x + pad + col * colWidth;
+        var ry = cy + row * 30;
+        var tx = rx;
+        if (r.color) {
+          ctx.fillStyle = r.color;
+          ctx.beginPath();
+          ctx.arc(rx + 6, ry + 10, 6, 0, Math.PI * 2);
+          ctx.fill();
+          tx = rx + 20;
+        }
+        ctx.textBaseline = 'top';
+        ctx.fillStyle = r.secondary ? SETTINGS.muted : SETTINGS.text;
+        ctx.font = font(r.strong ? 700 : 500, 16);
+        if (L.table) {
+          var cx = tx;
+          r.cells.forEach(function (c, ci) {
+            ctx.fillText(c, cx, ry);
+            cx += colW[ci];
+          });
+        } else {
+          ctx.fillText(fit(ctx, r.cells.join('  '), colWidth - (tx - rx) - 12), tx, ry);
+        }
+      });
+
+      var ny = cy + L.rowsPerCol * 30 + 12;
+      ctx.font = font(400, 13);
+      ctx.fillStyle = SETTINGS.muted;
+      L.notes.forEach(function (n, i) {
+        ctx.fillText(fit(ctx, n.cells[0], w - pad * 2), x + pad, ny + i * 22);
+      });
+    }
+
+    // Genera el PNG del chart. Devuelve una Promise<Blob>.
+    function render(entry) {
+      var S = SETTINGS;
+      var live = entry.chart;
+      var id = entry.dom.id;
+      var title = chartTitle(entry.dom);
+      var subtitle = chartSubtitle(id);
+      var legend = domLegend(id);
+      var rows = readPinnedTooltip(entry);
+
+      // Chart a tamano fijo fuera de pantalla, en modo escritorio
+      var holder = document.createElement('div');
+      holder.style.cssText = 'position:fixed;left:-10000px;top:0;width:' + S.width + 'px;height:' + S.chartHeight + 'px;';
+      document.body.appendChild(holder);
+      if (window.ChartUX) ChartUX.forceDesktop = true;
+      var off, url, marks;
+      try {
+        off = echarts.init(holder, null, { renderer: 'canvas', devicePixelRatio: S.scale, width: S.width, height: S.chartHeight });
+        off.setOption(exportOption(live.getOption()));
+        url = off.getDataURL({ type: 'png', pixelRatio: S.scale, backgroundColor: S.bg });
+        marks = pointMarks(live, off, entry.pin && rows ? entry.pin : null);
+      } finally {
+        if (window.ChartUX) ChartUX.forceDesktop = false;
+        if (off) off.dispose();
+        holder.remove();
+      }
+
+      return loadImage(url).then(function (img) {
+        var W = S.width;
+        var M = 32;
+        var canvas = document.createElement('canvas');
+        var ctx = canvas.getContext('2d');
+
+        // Medidas antes de dibujar
+        ctx.font = font(400, 16);
+        var L = rows && rows.length ? panelLayout(ctx, rows, W - M * 2) : null;
+        var headH = 36 + 30 + (subtitle ? 28 : 0) + (legend.length ? 30 : 0) + 12;
+        var footH = 56;
+        var H = headH + S.chartHeight + (L ? L.h + 20 : 0) + footH;
+
+        canvas.width = W * S.scale;
+        canvas.height = H * S.scale;
+        ctx.scale(S.scale, S.scale);
+
+        ctx.fillStyle = S.bg;
+        ctx.fillRect(0, 0, W, H);
+        ctx.fillStyle = S.accent;
+        ctx.fillRect(0, 0, W, 4);
+
+        // Cabecera
+        var y = 36;
+        ctx.textBaseline = 'top';
+        ctx.fillStyle = S.text;
+        ctx.font = font(700, 26);
+        ctx.fillText(fit(ctx, title, W - M * 2), M, y);
+        y += 38;
+        if (subtitle) {
+          ctx.fillStyle = S.muted;
+          ctx.font = font(500, 17);
+          ctx.fillText(fit(ctx, subtitle, W - M * 2), M, y);
+          y += 28;
+        }
+        if (legend.length) {
+          var lx = M;
+          ctx.font = font(500, 15);
+          legend.forEach(function (it) {
+            ctx.fillStyle = it.color;
+            ctx.beginPath(); ctx.arc(lx + 6, y + 9, 6, 0, Math.PI * 2); ctx.fill();
+            ctx.fillStyle = S.muted;
+            ctx.fillText(it.name, lx + 18, y + 1);
+            lx += 18 + ctx.measureText(it.name).width + 22;
+          });
+          y += 30;
+        }
+        y = headH;
+
+        // Chart
+        ctx.drawImage(img, 0, y, W, S.chartHeight);
+
+        // Punto seleccionado
+        ctx.save();
+        ctx.translate(0, y);
+        marks.bands.forEach(function (b) {
+          ctx.fillStyle = 'rgba(79,195,247,0.12)';
+          ctx.fillRect(b.x, b.y, b.w, b.h);
+          ctx.strokeStyle = 'rgba(79,195,247,0.8)';
+          ctx.lineWidth = 1.5;
+          ctx.strokeRect(b.x, b.y, b.w, b.h);
+        });
+        marks.lines.forEach(function (lx2) {
+          ctx.strokeStyle = 'rgba(255,255,255,0.55)';
+          ctx.setLineDash([6, 5]);
+          ctx.lineWidth = 1.5;
+          ctx.beginPath(); ctx.moveTo(lx2, 30); ctx.lineTo(lx2, S.chartHeight - 24); ctx.stroke();
+          ctx.setLineDash([]);
+        });
+        marks.dots.forEach(function (d) {
+          ctx.fillStyle = d.color;
+          ctx.strokeStyle = '#ffffff';
+          ctx.lineWidth = 2;
+          ctx.beginPath(); ctx.arc(d.x, d.y, 6, 0, Math.PI * 2); ctx.fill(); ctx.stroke();
+        });
+        ctx.restore();
+        y += S.chartHeight;
+
+        // Panel con los datos del tooltip, debajo del chart
+        if (L) {
+          y += 8;
+          drawPanel(ctx, L, M, y, W - M * 2);
+          y += L.h + 12;
+        }
+
+        // Pie
+        ctx.strokeStyle = 'rgba(148,163,184,0.2)';
+        ctx.lineWidth = 1;
+        ctx.beginPath(); ctx.moveTo(M, H - footH + 8); ctx.lineTo(W - M, H - footH + 8); ctx.stroke();
+        ctx.textBaseline = 'middle';
+        ctx.font = font(700, 15);
+        ctx.fillStyle = S.accent;
+        ctx.fillText(S.siteName, M, H - footH / 2 + 4);
+        var nameW = ctx.measureText(S.siteName).width;
+        ctx.font = font(400, 14);
+        ctx.fillStyle = S.muted;
+        ctx.fillText('  ' + location.host + location.pathname.replace(/index.html$/, ''), M + nameW, H - footH / 2 + 4);
+        var upd = lastUpdate();
+        if (upd) {
+          var t = 'Data as of ' + upd;
+          ctx.fillText(t, W - M - ctx.measureText(t).width, H - footH / 2 + 4);
+        }
+
+        return new Promise(function (res, rej) {
+          canvas.toBlob(function (b) { b ? res(b) : rej(new Error('No se pudo generar la imagen')); }, 'image/png');
+        });
+      });
+    }
+
+    // ── Acciones ────────────────────────────────────────────
+
+    function toast(html, ms) {
+      var el = document.getElementById('cs-toast');
+      if (!el) {
+        el = document.createElement('div');
+        el.id = 'cs-toast';
+        el.className = 'cs-toast';
+        el.setAttribute('role', 'status');
+        document.body.appendChild(el);
+      }
+      el.innerHTML = html;
+      el.classList.add('show');
+      clearTimeout(el._t);
+      el._t = setTimeout(function () { el.classList.remove('show'); }, ms || 3200);
+    }
+
+    function fileName(entry) {
+      var t = chartTitle(entry.dom).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      var d = new Date().toISOString().slice(0, 10);
+      return 'opendoor-' + (t || entry.dom.id) + '-' + d + '.png';
+    }
+
+    function shareText(entry) {
+      var parts = [chartTitle(entry.dom)];
+      var sub = chartSubtitle(entry.dom.id);
+      if (entry.pin && entry.pin.label) parts.push(entry.pin.label);
+      else if (sub) parts.push(sub);
+      return parts.filter(Boolean).join(' · ') + ' ' + SETTINGS.cashtag;
+    }
+
+    function canClipboardImage() {
+      return !!(navigator.clipboard && navigator.clipboard.write && window.ClipboardItem && window.isSecureContext);
+    }
+
+    function canShareFiles() {
+      try {
+        var f = new File([new Blob()], 'x.png', { type: 'image/png' });
+        return !!(navigator.canShare && navigator.canShare({ files: [f] }));
+      } catch (e) { return false; }
+    }
+
+    // El ClipboardItem se crea DENTRO del click con una Promise: Safari
+    // solo permite escribir en el portapapeles en el mismo gesto del usuario
+    function copyImage(entry) {
+      var p = render(entry);
+      return navigator.clipboard.write([new ClipboardItem({ 'image/png': p })]).then(function () { return p; });
+    }
+
+    function download(blob, name) {
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = name;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1500);
+    }
+
+    function nativeShare(entry, blob) {
+      var file = new File([blob], fileName(entry), { type: 'image/png' });
+      return navigator.share({ files: [file], text: shareText(entry), url: shareUrl(entry.dom.id) });
+    }
+
+    function onCopy(entry) {
+      if (!canClipboardImage()) {
+        render(entry).then(function (b) {
+          download(b, fileName(entry));
+          toast('This browser can’t copy images. Downloaded instead.');
+        });
+        return;
+      }
+      copyImage(entry).then(function () {
+        toast('Chart copied to clipboard');
+      }).catch(function () {
+        render(entry).then(function (b) { download(b, fileName(entry)); });
+        toast('Couldn’t copy. Downloaded instead.');
+      });
+    }
+
+    function onX(entry) {
+      var intent = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(shareText(entry))
+                 + '&url=' + encodeURIComponent(shareUrl(entry.dom.id));
+
+      // Movil: el menu nativo adjunta la imagen y X aparece en la lista
+      if (ChartUX.isMobile() && canShareFiles()) {
+        render(entry).then(function (b) { return nativeShare(entry, b); }).catch(function () {});
+        return;
+      }
+
+      // Escritorio: X no permite adjuntar imagenes por URL, asi que se copia
+      // la imagen y se abre el tweet con el texto para pegarla con Ctrl/Cmd+V
+      var openX = function (msg) {
+        // Sin 'noopener' en las features: con el, window.open devuelve null
+        // siempre y no se puede saber si el navegador bloqueo la ventana
+        var w = window.open(intent, '_blank');
+        if (w) { try { w.opener = null; } catch (e) {} }
+        else msg += ' <a href="' + intent + '" target="_blank" rel="noopener">Open X ↗</a>';
+        toast(msg, 6000);
+      };
+      if (!canClipboardImage()) {
+        render(entry).then(function (b) {
+          download(b, fileName(entry));
+          openX('Image downloaded. Attach it to your post.');
+        });
+        return;
+      }
+      copyImage(entry).then(function () {
+        openX('Image copied. Paste it into your post (Ctrl/Cmd+V).');
+      }).catch(function () {
+        openX('Couldn’t copy the image.');
+      });
+    }
+
+    function onShare(entry) {
+      render(entry).then(function (b) { return nativeShare(entry, b); }).catch(function () {});
+    }
+
+    function onDownload(entry) {
+      render(entry).then(function (b) { download(b, fileName(entry)); });
+    }
+
+    // ── Barra de botones ────────────────────────────────────
+
+    var ICONS = {
+      copy: '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5 15V5a2 2 0 0 1 2-2h8" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
+      x: '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M18.2 2.3h3.3l-7.2 8.2 8.5 11.2h-6.7l-5.2-6.8-6 6.8H1.6l7.7-8.8L1.2 2.3H8l4.7 6.2 5.5-6.2zm-1.2 17.4h1.8L7.1 4.2H5.1l11.9 15.5z"/></svg>',
+      share: '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+      download: '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+    };
+
+    function button(kind, label, onClick) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'cs-btn cs-btn-' + kind;
+      b.innerHTML = ICONS[kind] + '<span>' + label + '</span>';
+      b.setAttribute('aria-label', label);
+      b.addEventListener('click', onClick);
+      return b;
+    }
+
+    function renderChip(entry) {
+      var chip = entry.chip;
+      var label = chip.querySelector('.cs-chip-label');
+      var touch = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+      if (!entry.pin) {
+        chip.classList.remove('is-pinned');
+        label.textContent = touch ? 'Tap a point to pin it' : 'Click a point to pin it';
+        chip.title = 'Pinned points appear in the image';
+        return;
+      }
+      chip.classList.add('is-pinned');
+      label.textContent = 'Pinned: ' + (entry.pin.label || 'selected point');
+      chip.title = touch ? 'Tap the same point again to release' : 'Click the chart again to release';
+    }
+
+    function buildToolbar(entry) {
+      var bar = document.createElement('div');
+      bar.className = 'cs-toolbar';
+      bar.setAttribute('data-chart', entry.dom.id);
+
+      var chip = document.createElement('span');
+      chip.className = 'cs-chip';
+      chip.innerHTML = '<span class="cs-chip-dot"></span><span class="cs-chip-label"></span>';
+      var clear = document.createElement('button');
+      clear.type = 'button';
+      clear.className = 'cs-chip-clear';
+      clear.setAttribute('aria-label', 'Remove point from image');
+      clear.innerHTML = '&times;';
+      clear.addEventListener('click', function () { unlock(entry); });
+      chip.appendChild(clear);
+      entry.chip = chip;
+
+      bar.appendChild(chip);
+      bar.appendChild(button('copy', 'Copy', function () { onCopy(entry); }));
+      bar.appendChild(button('x', 'Post', function () { onX(entry); }));
+      if (navigator.share && canShareFiles()) bar.appendChild(button('share', 'Share', function () { onShare(entry); }));
+      bar.appendChild(button('download', 'PNG', function () { onDownload(entry); }));
+
+      entry.bar = bar;
+      entry.dom.insertAdjacentElement('afterend', bar);
+    }
+
+    // ── API publica ─────────────────────────────────────────
+
+    function attach(chart, chartDom) {
+      if (!chart || !chartDom || registry[chartDom.id]) return;
+      var entry = { chart: chart, dom: chartDom, pin: null };
+      registry[chartDom.id] = entry;
+      buildToolbar(entry);
+      setupLock(entry);
+      renderChip(entry);
+    }
+
+    return {
+      attach: attach,
+      settings: SETTINGS,
+      config: CONFIG,
+      // Para tests y depuracion
+      render: function (id) { return render(registry[id]); },
+      entry: function (id) { return registry[id]; }
     };
   })();
 </script>
@@ -5677,6 +6591,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     chartDom.appendChild(tipEl);
     ChartUX.enableTouch(chartDom);
     ChartUX.autoResize(chart);
+    ChartShare.attach(chart, chartDom);
  
     function hideCrosshair() {
       lineEl.style.display = 'none';
@@ -5982,6 +6897,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     chartDom.appendChild(tipEl);
     ChartUX.enableTouch(chartDom);
     ChartUX.autoResize(chart);
+    ChartShare.attach(chart, chartDom);
 
     function getSnapPx() {
       if (labelsOpt.length < 2) return 30;
@@ -6247,6 +7163,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     chartDom.appendChild(tipEl);
     ChartUX.enableTouch(chartDom);
     ChartUX.autoResize(chart);
+    ChartShare.attach(chart, chartDom);
 
     function getSnapPx() {
       if (acqLabels.length < 2) return 30;
@@ -6488,6 +7405,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     chartDom.appendChild(tipEl);
     ChartUX.enableTouch(chartDom);
     ChartUX.autoResize(chart);
+    ChartShare.attach(chart, chartDom);
 
     chartDom.addEventListener('mousemove', function(e) {
       const rect = chartDom.getBoundingClientRect();
@@ -6721,6 +7639,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     chartDom.appendChild(tipEl);
     ChartUX.enableTouch(chartDom);
     ChartUX.autoResize(chart);
+    ChartShare.attach(chart, chartDom);
 
     function getSnapPx() {
       if (nrLabels.length < 2) return 30;
@@ -6884,6 +7803,7 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
     const chartDom = document.getElementById('rotationPyramidChart');
     const chart = echarts.init(chartDom, null, { renderer: 'canvas' });
     ChartUX.enableTouch(chartDom);
+    ChartShare.attach(chart, chartDom);
 
     const slider = document.getElementById('rotSlider');
     const playBtn = document.getElementById('rotPlay');
@@ -7147,7 +8067,6 @@ Fuck the stock</p>&mdash; OPENGOD (@Opendoor_God)
   });
   rotationObserver.observe(rotationContainer);
 </script>
-
 
 
 
