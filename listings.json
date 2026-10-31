@@ -34990,27 +34990,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "631e2824-7ff1-512a-bda0-68d13edb13cf",
-        "address": "4011-Hunnington-Dr-Conroe-TX-77303",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1539,
-        "listed_at": "2026-10-15T15:30:05.000Z",
-        "days_on_market": "84",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.434753,
-          30.343275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6324c62b-fe5c-576e-9de2-2acc7f200bd4",
         "address": "1201 E Pitkin St",
         "beds": 5,
@@ -68017,6 +67996,27 @@
         "coordinates": [
           -82.495487,
           42.722662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c348e240-c3b4-5fba-a257-5788ed1185da",
+        "address": "14350 Greenbelt Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1984,
+        "listed_at": "2026-10-31T00:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.065239,
+          39.994682
         ]
       }
     },
