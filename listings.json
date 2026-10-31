@@ -28879,6 +28879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "51856921-3fa9-56bc-af6d-1b69d32f3189",
+        "address": "135 Lynches River Dr",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1404,
+        "listed_at": "2026-10-31T09:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.154093,
+          32.989326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "51ab330a-6b54-5497-a7ed-39da72b96ed7",
         "address": "331-Summer-Garden-Dr-Marietta-GA-30064",
         "beds": 7,
