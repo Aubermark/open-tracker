@@ -2646,6 +2646,95 @@
 
 
 
+
+
+
+
+.rot-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 14px 0 6px;
+}
+.rot-summary { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.rot-date { font-size: 16px; font-weight: 600; color: #fff; }
+.rot-total { font-size: 12px; color: #8b95a4; }
+.rot-total .up   { color: #81C784; }
+.rot-total .down { color: #E57373; }
+
+.rot-badges { display: flex; gap: 6px; flex-wrap: wrap; }
+.rot-badge {
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #8b95a4;
+  padding: 3px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  cursor: pointer;
+  user-select: none;
+}
+.rot-badge.active {
+  color: #4FC3F7;
+  border-color: #4FC3F7;
+  background: rgba(79, 195, 247, 0.08);
+}
+
+.rot-gap-note {
+  font-size: 11px;
+  color: #facc15;
+  border-left: 2px solid #facc15;
+  padding: 4px 8px;
+  margin: 4px 0;
+  background: rgba(250, 204, 21, 0.06);
+}
+
+.rot-slider { display: flex; align-items: flex-start; gap: 12px; margin-top: 4px; }
+.rot-play {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid #4FC3F7;
+  background: transparent;
+  color: #4FC3F7;
+  font-size: 11px;
+  cursor: pointer;
+}
+.rot-play:hover { background: rgba(79, 195, 247, 0.1); }
+
+.rot-track { position: relative; flex: 1; padding-top: 6px; }
+.rot-track input[type="range"] {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  margin: 0;
+  accent-color: #4FC3F7;
+  background: transparent;
+  cursor: pointer;
+}
+.rot-gap-mark {
+  position: absolute;
+  top: 9px;
+  height: 12px;
+  background: rgba(250, 204, 21, 0.35);
+  border-radius: 2px;
+  z-index: 1;
+  display: none;
+}
+.rot-track-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: #8b95a4;
+  margin-top: 4px;
+}
+
+
+
+
     </style>
   </head>
 
@@ -2718,7 +2807,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">31/10/2026, 13:50 (CET)</span>
+                <span class="hero-meta-value">31/10/2026, 13:54 (CET)</span>
               </div>
           </div>
         </section>
@@ -3327,6 +3416,48 @@
             <div id="weeklyChart" style="width:100%; height:350px; min-height:350px;"></div>
 
 
+          </div>
+        </section>
+
+
+</br>
+
+
+        <section>
+          <div class="chart-box">
+            <div class="card-title">LISTING AGE PYRAMID</div>
+            <div class="card-subtitle">
+              Active Opendoor listings by days on market (cumulative across relists). Drag the slider to see how the distribution evolved over the last 2 months.
+              <div>Dashed outline = distribution on the first day of the window.</div>
+            </div>
+
+            <div class="rot-toolbar">
+              <div class="rot-summary">
+                <span id="rotDate" class="rot-date"></span>
+                <span id="rotTotal" class="rot-total"></span>
+              </div>
+              <div class="rot-badges">
+                <span class="rot-badge active" data-mode="homes" role="button" tabindex="0">Homes</span>
+                <span class="rot-badge" data-mode="pct" role="button" tabindex="0">% Share</span>
+                <span class="rot-badge rot-badge-ref active" id="rotRefToggle" role="button" tabindex="0">Compare start</span>
+              </div>
+            </div>
+
+            <div id="rotGapNote" class="rot-gap-note" style="display:none;"></div>
+
+            <div id="rotationPyramidChart" style="width:100%; height:380px;"></div>
+
+            <div class="rot-slider">
+              <button id="rotPlay" class="rot-play" type="button" aria-label="Play">&#9654;</button>
+              <div class="rot-track">
+                <div id="rotGapMark" class="rot-gap-mark"></div>
+                <input type="range" id="rotSlider" min="0" max="0" step="1" value="0">
+                <div class="rot-track-labels">
+                  <span id="rotFirst"></span>
+                  <span id="rotLast"></span>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -6418,6 +6549,368 @@ I continue buying and have never sold a share.
   });
   newRemovedObserver.observe(newRemovedChartContainer);
 </script>
+
+
+
+
+
+
+
+
+
+
+<script>
+  const rotationRaw = [{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":937,"pct":"28.96","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":877,"pct":"27.11","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":450,"pct":"13.91","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":252,"pct":"7.79","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":286,"pct":"8.84","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":117,"pct":"3.62","total_active":"3235"},{"snapshot_date":"2026-08-30T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":316,"pct":"9.77","total_active":"3235"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":870,"pct":"27.17","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":424,"pct":"13.24","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":250,"pct":"7.81","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":215,"pct":"6.71","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":983,"pct":"30.70","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":123,"pct":"3.84","total_active":"3202"},{"snapshot_date":"2026-08-31T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":337,"pct":"10.52","total_active":"3202"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":897,"pct":"28.23","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":399,"pct":"12.56","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":257,"pct":"8.09","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":991,"pct":"31.19","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":129,"pct":"4.06","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":337,"pct":"10.61","total_active":"3177"},{"snapshot_date":"2026-09-01T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":167,"pct":"5.26","total_active":"3177"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":925,"pct":"29.36","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":383,"pct":"12.15","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":257,"pct":"8.16","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1012,"pct":"32.12","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":130,"pct":"4.13","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":343,"pct":"10.89","total_active":"3151"},{"snapshot_date":"2026-09-02T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":101,"pct":"3.21","total_active":"3151"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":858,"pct":"27.64","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":467,"pct":"15.05","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":259,"pct":"8.34","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1033,"pct":"33.28","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":130,"pct":"4.19","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":340,"pct":"10.95","total_active":"3104"},{"snapshot_date":"2026-09-03T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":17,"pct":"0.55","total_active":"3104"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":852,"pct":"27.63","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":489,"pct":"15.86","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":260,"pct":"8.43","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1004,"pct":"32.56","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":130,"pct":"4.22","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":338,"pct":"10.96","total_active":"3084"},{"snapshot_date":"2026-09-04T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":11,"pct":"0.36","total_active":"3084"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":890,"pct":"29.00","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":489,"pct":"15.93","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":264,"pct":"8.60","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":938,"pct":"30.56","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":138,"pct":"4.50","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":344,"pct":"11.21","total_active":"3069"},{"snapshot_date":"2026-09-05T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":6,"pct":"0.20","total_active":"3069"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":890,"pct":"28.58","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":490,"pct":"15.74","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":252,"pct":"8.09","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":907,"pct":"29.13","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":149,"pct":"4.78","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":360,"pct":"11.56","total_active":"3114"},{"snapshot_date":"2026-09-06T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":66,"pct":"2.12","total_active":"3114"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":849,"pct":"26.46","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":501,"pct":"15.61","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":246,"pct":"7.67","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":887,"pct":"27.64","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":151,"pct":"4.71","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":359,"pct":"11.19","total_active":"3209"},{"snapshot_date":"2026-09-07T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":216,"pct":"6.73","total_active":"3209"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":877,"pct":"27.20","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":484,"pct":"15.01","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":249,"pct":"7.72","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":835,"pct":"25.90","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":155,"pct":"4.81","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":362,"pct":"11.23","total_active":"3224"},{"snapshot_date":"2026-09-08T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":262,"pct":"8.13","total_active":"3224"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":893,"pct":"26.95","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":459,"pct":"13.85","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":249,"pct":"7.51","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":805,"pct":"24.29","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":161,"pct":"4.86","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":377,"pct":"11.38","total_active":"3314"},{"snapshot_date":"2026-09-09T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":370,"pct":"11.16","total_active":"3314"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":890,"pct":"26.07","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":468,"pct":"13.71","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":264,"pct":"7.73","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":778,"pct":"22.79","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":162,"pct":"4.75","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":499,"pct":"14.62","total_active":"3414"},{"snapshot_date":"2026-09-10T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":353,"pct":"10.34","total_active":"3414"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":898,"pct":"26.54","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":495,"pct":"14.63","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":273,"pct":"8.07","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":724,"pct":"21.40","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":161,"pct":"4.76","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":495,"pct":"14.63","total_active":"3383"},{"snapshot_date":"2026-09-11T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":337,"pct":"9.96","total_active":"3383"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":897,"pct":"26.69","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":513,"pct":"15.26","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":348,"pct":"10.35","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":271,"pct":"8.06","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":677,"pct":"20.14","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":164,"pct":"4.88","total_active":"3361"},{"snapshot_date":"2026-09-12T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":491,"pct":"14.61","total_active":"3361"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":863,"pct":"25.44","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":542,"pct":"15.98","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":345,"pct":"10.17","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":273,"pct":"8.05","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":726,"pct":"21.40","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":163,"pct":"4.81","total_active":"3392"},{"snapshot_date":"2026-09-13T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":480,"pct":"14.15","total_active":"3392"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":859,"pct":"25.15","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":554,"pct":"16.22","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":343,"pct":"10.04","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":270,"pct":"7.91","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":836,"pct":"24.48","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":165,"pct":"4.83","total_active":"3415"},{"snapshot_date":"2026-09-14T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":388,"pct":"11.36","total_active":"3415"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":906,"pct":"26.58","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":336,"pct":"9.86","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":273,"pct":"8.01","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":817,"pct":"23.97","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":540,"pct":"15.85","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":168,"pct":"4.93","total_active":"3408"},{"snapshot_date":"2026-09-15T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":368,"pct":"10.80","total_active":"3408"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":329,"pct":"9.56","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":947,"pct":"27.52","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":339,"pct":"9.85","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":274,"pct":"7.96","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":860,"pct":"24.99","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":516,"pct":"15.00","total_active":"3441"},{"snapshot_date":"2026-09-16T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":176,"pct":"5.11","total_active":"3441"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":336,"pct":"9.50","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":960,"pct":"27.14","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":330,"pct":"9.33","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":282,"pct":"7.97","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":913,"pct":"25.81","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":540,"pct":"15.27","total_active":"3537"},{"snapshot_date":"2026-09-17T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":176,"pct":"4.98","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":346,"pct":"9.78","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":959,"pct":"27.11","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":330,"pct":"9.33","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":284,"pct":"8.03","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":864,"pct":"24.43","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":580,"pct":"16.40","total_active":"3537"},{"snapshot_date":"2026-09-18T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":174,"pct":"4.92","total_active":"3537"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":343,"pct":"9.75","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1011,"pct":"28.73","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":577,"pct":"16.40","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":345,"pct":"9.80","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":283,"pct":"8.04","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":781,"pct":"22.19","total_active":"3519"},{"snapshot_date":"2026-09-19T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":179,"pct":"5.09","total_active":"3519"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":321,"pct":"9.12","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":973,"pct":"27.64","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":563,"pct":"15.99","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":372,"pct":"10.57","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":279,"pct":"7.93","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":825,"pct":"23.44","total_active":"3520"},{"snapshot_date":"2026-09-20T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":187,"pct":"5.31","total_active":"3520"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":315,"pct":"8.91","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":936,"pct":"26.48","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":566,"pct":"16.01","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":378,"pct":"10.69","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":283,"pct":"8.01","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":869,"pct":"24.58","total_active":"3535"},{"snapshot_date":"2026-09-21T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":188,"pct":"5.32","total_active":"3535"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":314,"pct":"8.89","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":973,"pct":"27.56","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":546,"pct":"15.46","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":378,"pct":"10.71","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":292,"pct":"8.27","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":836,"pct":"23.68","total_active":"3531"},{"snapshot_date":"2026-09-22T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":192,"pct":"5.44","total_active":"3531"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":306,"pct":"8.58","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":842,"pct":"23.61","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1020,"pct":"28.60","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":525,"pct":"14.72","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":380,"pct":"10.66","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":297,"pct":"8.33","total_active":"3566"},{"snapshot_date":"2026-09-23T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":196,"pct":"5.50","total_active":"3566"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":263,"pct":"7.33","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":897,"pct":"24.99","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1013,"pct":"28.22","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":550,"pct":"15.32","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":374,"pct":"10.42","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":296,"pct":"8.25","total_active":"3590"},{"snapshot_date":"2026-09-24T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":197,"pct":"5.49","total_active":"3590"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":841,"pct":"23.55","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1036,"pct":"29.01","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":572,"pct":"16.02","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":362,"pct":"10.14","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":309,"pct":"8.65","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":252,"pct":"7.06","total_active":"3571"},{"snapshot_date":"2026-09-25T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":199,"pct":"5.57","total_active":"3571"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":758,"pct":"21.41","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":592,"pct":"16.72","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":358,"pct":"10.11","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":303,"pct":"8.56","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":251,"pct":"7.09","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1074,"pct":"30.34","total_active":"3540"},{"snapshot_date":"2026-09-26T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":204,"pct":"5.76","total_active":"3540"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":778,"pct":"21.90","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":604,"pct":"17.00","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":355,"pct":"9.99","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":291,"pct":"8.19","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":269,"pct":"7.57","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1048,"pct":"29.50","total_active":"3553"},{"snapshot_date":"2026-09-27T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":208,"pct":"5.85","total_active":"3553"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":827,"pct":"22.93","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":634,"pct":"17.58","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":352,"pct":"9.76","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":293,"pct":"8.12","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1007,"pct":"27.92","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":210,"pct":"5.82","total_active":"3607"},{"snapshot_date":"2026-09-28T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":284,"pct":"7.87","total_active":"3607"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":847,"pct":"23.51","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":624,"pct":"17.32","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":347,"pct":"9.63","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":288,"pct":"7.99","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":995,"pct":"27.62","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":215,"pct":"5.97","total_active":"3603"},{"snapshot_date":"2026-09-29T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":287,"pct":"7.97","total_active":"3603"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":892,"pct":"24.66","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":620,"pct":"17.14","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":327,"pct":"9.04","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":288,"pct":"7.96","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":984,"pct":"27.20","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":219,"pct":"6.05","total_active":"3617"},{"snapshot_date":"2026-09-30T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":287,"pct":"7.93","total_active":"3617"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":953,"pct":"26.01","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":637,"pct":"17.39","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":311,"pct":"8.49","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":295,"pct":"8.05","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":947,"pct":"25.85","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":214,"pct":"5.84","total_active":"3664"},{"snapshot_date":"2026-10-01T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":307,"pct":"8.38","total_active":"3664"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":949,"pct":"26.00","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":670,"pct":"18.36","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":299,"pct":"8.19","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":311,"pct":"8.52","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":905,"pct":"24.79","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":214,"pct":"5.86","total_active":"3650"},{"snapshot_date":"2026-10-02T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":302,"pct":"8.27","total_active":"3650"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":949,"pct":"26.08","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":641,"pct":"17.61","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":360,"pct":"9.89","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":306,"pct":"8.41","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":863,"pct":"23.72","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":224,"pct":"6.16","total_active":"3639"},{"snapshot_date":"2026-10-03T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":296,"pct":"8.13","total_active":"3639"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":990,"pct":"26.80","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":644,"pct":"17.43","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":371,"pct":"10.04","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":304,"pct":"8.23","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":833,"pct":"22.55","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":224,"pct":"6.06","total_active":"3694"},{"snapshot_date":"2026-10-04T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":328,"pct":"8.88","total_active":"3694"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1039,"pct":"27.77","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":675,"pct":"18.04","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":373,"pct":"9.97","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":313,"pct":"8.37","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":783,"pct":"20.93","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":224,"pct":"5.99","total_active":"3741"},{"snapshot_date":"2026-10-05T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":334,"pct":"8.93","total_active":"3741"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1012,"pct":"26.98","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":665,"pct":"17.73","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":374,"pct":"9.97","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":229,"pct":"6.11","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":813,"pct":"21.67","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":323,"pct":"8.61","total_active":"3751"},{"snapshot_date":"2026-10-06T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":335,"pct":"8.93","total_active":"3751"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":947,"pct":"25.08","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":639,"pct":"16.92","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":378,"pct":"10.01","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":234,"pct":"6.20","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":914,"pct":"24.21","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":327,"pct":"8.66","total_active":"3776"},{"snapshot_date":"2026-10-07T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":337,"pct":"8.92","total_active":"3776"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":349,"pct":"9.05","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":977,"pct":"25.34","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":667,"pct":"17.30","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":369,"pct":"9.57","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":235,"pct":"6.10","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":918,"pct":"23.81","total_active":"3855"},{"snapshot_date":"2026-10-08T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":340,"pct":"8.82","total_active":"3855"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":352,"pct":"9.15","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":888,"pct":"23.09","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":688,"pct":"17.89","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":357,"pct":"9.28","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":238,"pct":"6.19","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":973,"pct":"25.30","total_active":"3846"},{"snapshot_date":"2026-10-09T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":350,"pct":"9.10","total_active":"3846"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":362,"pct":"9.41","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":791,"pct":"20.55","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":697,"pct":"18.11","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":363,"pct":"9.43","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":241,"pct":"6.26","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1043,"pct":"27.10","total_active":"3849"},{"snapshot_date":"2026-10-10T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":352,"pct":"9.15","total_active":"3849"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":323,"pct":"8.34","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":870,"pct":"22.46","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":714,"pct":"18.43","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":383,"pct":"9.89","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":245,"pct":"6.32","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":996,"pct":"25.71","total_active":"3874"},{"snapshot_date":"2026-10-11T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":343,"pct":"8.85","total_active":"3874"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":297,"pct":"7.61","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":939,"pct":"24.05","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":724,"pct":"18.54","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":386,"pct":"9.88","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":348,"pct":"8.91","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":243,"pct":"6.22","total_active":"3905"},{"snapshot_date":"2026-10-12T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":968,"pct":"24.79","total_active":"3905"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":322,"pct":"8.22","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":909,"pct":"23.22","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":690,"pct":"17.62","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":406,"pct":"10.37","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":345,"pct":"8.81","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":247,"pct":"6.31","total_active":"3915"},{"snapshot_date":"2026-10-13T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":996,"pct":"25.44","total_active":"3915"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":341,"pct":"8.60","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":915,"pct":"23.08","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":688,"pct":"17.36","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":417,"pct":"10.52","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":345,"pct":"8.70","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":249,"pct":"6.28","total_active":"3964"},{"snapshot_date":"2026-10-14T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1009,"pct":"25.45","total_active":"3964"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":332,"pct":"8.25","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":974,"pct":"24.21","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":739,"pct":"18.37","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":346,"pct":"8.60","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":250,"pct":"6.21","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":970,"pct":"24.11","total_active":"4023"},{"snapshot_date":"2026-10-15T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":412,"pct":"10.24","total_active":"4023"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":358,"pct":"8.87","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":929,"pct":"23.02","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":970,"pct":"24.03","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":773,"pct":"19.15","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":354,"pct":"8.77","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":252,"pct":"6.24","total_active":"4036"},{"snapshot_date":"2026-10-16T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":400,"pct":"9.91","total_active":"4036"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":356,"pct":"8.84","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":851,"pct":"21.12","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1015,"pct":"25.19","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":784,"pct":"19.46","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":349,"pct":"8.66","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":251,"pct":"6.23","total_active":"4029"},{"snapshot_date":"2026-10-17T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":423,"pct":"10.50","total_active":"4029"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":372,"pct":"9.14","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":881,"pct":"21.64","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":978,"pct":"24.02","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":794,"pct":"19.50","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":341,"pct":"8.37","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":258,"pct":"6.34","total_active":"4072"},{"snapshot_date":"2026-10-18T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":448,"pct":"11.00","total_active":"4072"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":387,"pct":"9.44","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":916,"pct":"22.34","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":918,"pct":"22.38","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":829,"pct":"20.21","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":447,"pct":"10.90","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":345,"pct":"8.41","total_active":"4101"},{"snapshot_date":"2026-10-19T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":259,"pct":"6.32","total_active":"4101"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":363,"pct":"8.82","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":944,"pct":"22.95","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":935,"pct":"22.73","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":805,"pct":"19.57","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":445,"pct":"10.82","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":349,"pct":"8.48","total_active":"4114"},{"snapshot_date":"2026-10-20T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":273,"pct":"6.64","total_active":"4114"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":354,"pct":"8.55","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":964,"pct":"23.28","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":975,"pct":"23.55","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":774,"pct":"18.69","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":446,"pct":"10.77","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":357,"pct":"8.62","total_active":"4141"},{"snapshot_date":"2026-10-21T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":271,"pct":"6.54","total_active":"4141"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1006,"pct":"24.04","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":954,"pct":"22.80","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":804,"pct":"19.21","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":438,"pct":"10.47","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":363,"pct":"8.67","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":269,"pct":"6.43","total_active":"4185"},{"snapshot_date":"2026-10-22T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":351,"pct":"8.39","total_active":"4185"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":993,"pct":"23.80","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":949,"pct":"22.75","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":845,"pct":"20.25","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":424,"pct":"10.16","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":376,"pct":"9.01","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":269,"pct":"6.45","total_active":"4172"},{"snapshot_date":"2026-10-23T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":316,"pct":"7.57","total_active":"4172"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":942,"pct":"22.71","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":968,"pct":"23.34","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":857,"pct":"20.66","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":435,"pct":"10.49","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":373,"pct":"8.99","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":7,"bucket":"+160","homes":272,"pct":"6.56","total_active":"4148"},{"snapshot_date":"2026-10-24T22:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":301,"pct":"7.26","total_active":"4148"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":987,"pct":"23.59","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":937,"pct":"22.39","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":865,"pct":"20.67","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":450,"pct":"10.76","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":361,"pct":"8.63","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":279,"pct":"6.67","total_active":"4184"},{"snapshot_date":"2026-10-25T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":305,"pct":"7.29","total_active":"4184"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1036,"pct":"24.54","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":879,"pct":"20.82","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":466,"pct":"11.04","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":347,"pct":"8.22","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":287,"pct":"6.80","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":314,"pct":"7.44","total_active":"4221"},{"snapshot_date":"2026-10-26T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":892,"pct":"21.13","total_active":"4221"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1025,"pct":"24.23","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":913,"pct":"21.58","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":476,"pct":"11.25","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":342,"pct":"8.08","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":292,"pct":"6.90","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":311,"pct":"7.35","total_active":"4231"},{"snapshot_date":"2026-10-27T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":872,"pct":"20.61","total_active":"4231"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1009,"pct":"23.72","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":967,"pct":"22.73","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":504,"pct":"11.85","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":343,"pct":"8.06","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":292,"pct":"6.86","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":303,"pct":"7.12","total_active":"4254"},{"snapshot_date":"2026-10-28T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":836,"pct":"19.65","total_active":"4254"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":307,"pct":"7.16","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1040,"pct":"24.24","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":978,"pct":"22.80","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":500,"pct":"11.66","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":339,"pct":"7.90","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":299,"pct":"6.97","total_active":"4290"},{"snapshot_date":"2026-10-29T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":827,"pct":"19.28","total_active":"4290"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":1,"bucket":"0-7","homes":305,"pct":"7.10","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":2,"bucket":"7-30","homes":1004,"pct":"23.39","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":3,"bucket":"30-60","homes":1015,"pct":"23.64","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":5,"bucket":"90-120","homes":501,"pct":"11.67","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":6,"bucket":"120-160","homes":340,"pct":"7.92","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":7,"bucket":"+160","homes":301,"pct":"7.01","total_active":"4293"},{"snapshot_date":"2026-10-30T23:00:00.000Z","bucket_order":4,"bucket":"60-90","homes":827,"pct":"19.26","total_active":"4293"}];
+
+  // Hueco detectado en el tracker (sin altas nuevas). Al salir de la ventana
+  // de 2 meses deja de aplicarse solo; se puede borrar entonces.
+  const ROT_GAP = { from: '2026-09-02', to: '2026-09-06' };
+
+  // De joven a viejo: frio -> calido
+  const ROT_COLORS = ['#4FC3F7', '#4DD0E1', '#81C784', '#FFD54F', '#FFB74D', '#FF8A65', '#E57373'];
+
+  const ROT_MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  // Sin new Date(): evita desfases de zona horaria con fechas 'YYYY-MM-DD'
+  function rotFmtDate(d) {
+    const p = d.split('-');
+    return ROT_MONTHS[parseInt(p[1], 10) - 1] + ' ' + parseInt(p[2], 10) + ', ' + p[0];
+  }
+
+  function rotHexToRgba(hex, a) {
+    const n = parseInt(hex.slice(1), 16);
+    return 'rgba(' + ((n >> 16) & 255) + ',' + ((n >> 8) & 255) + ',' + (n & 255) + ',' + a + ')';
+  }
+
+  function rotSigned(n, digits) {
+    return (n > 0 ? '+' : '') + n.toFixed(digits);
+  }
+
+  function rotInt(n) {
+    return Number(n).toLocaleString('en-US');
+  }
+
+  function initRotationPyramid() {
+    if (!rotationRaw || !rotationRaw.length) return;
+
+    // Normalizar (DECIMAL llega como string)
+    const rows = rotationRaw.map(function (r) {
+      return {
+        date: String(r.snapshot_date).slice(0, 10),
+        order: parseInt(r.bucket_order, 10),
+        bucket: r.bucket,
+        homes: parseInt(r.homes, 10) || 0,
+        pct: parseFloat(r.pct) || 0,
+        total: parseInt(r.total_active, 10) || 0
+      };
+    });
+
+    const dates = Array.from(new Set(rows.map(function (r) { return r.date; }))).sort();
+
+    const bucketMap = {};
+    rows.forEach(function (r) { bucketMap[r.order] = r.bucket; });
+    const orders = Object.keys(bucketMap).map(Number).sort(function (a, b) { return a - b; });
+    const buckets = orders.map(function (o) { return bucketMap[o]; });
+    const orderIdx = {};
+    orders.forEach(function (o, i) { orderIdx[o] = i; });
+
+    const byDate = {};
+    dates.forEach(function (d) {
+      byDate[d] = {
+        homes: buckets.map(function () { return 0; }),
+        pct: buckets.map(function () { return 0; }),
+        total: 0
+      };
+    });
+    rows.forEach(function (r) {
+      const slot = byDate[r.date];
+      const i = orderIdx[r.order];
+      slot.homes[i] = r.homes;
+      slot.pct[i] = r.pct;
+      slot.total = r.total;
+    });
+
+    // Ejes fijos para todo el rango: mover el slider no reescala
+    let maxHomes = 0, maxPct = 0;
+    dates.forEach(function (d) {
+      maxHomes = Math.max(maxHomes, Math.max.apply(null, byDate[d].homes));
+      maxPct = Math.max(maxPct, Math.max.apply(null, byDate[d].pct));
+    });
+    const homesMax = Math.ceil(maxHomes * 1.08 / 100) * 100;
+    const pctMax = Math.ceil(maxPct * 1.08 / 5) * 5;
+
+    const last = dates.length - 1;
+    const start = dates[0];
+    let idx = last;
+    let mode = 'homes';
+    let showRef = true;
+
+    const chartDom = document.getElementById('rotationPyramidChart');
+    const chart = echarts.init(chartDom, null, { renderer: 'canvas' });
+
+    const slider = document.getElementById('rotSlider');
+    const playBtn = document.getElementById('rotPlay');
+    const dateEl = document.getElementById('rotDate');
+    const totalEl = document.getElementById('rotTotal');
+    const gapNote = document.getElementById('rotGapNote');
+    const refToggle = document.getElementById('rotRefToggle');
+
+    function isGap(d) { return d >= ROT_GAP.from && d <= ROT_GAP.to; }
+
+    function vals(d) { return mode === 'homes' ? byDate[d].homes : byDate[d].pct; }
+
+    function mainSeries(d) {
+      return {
+        id: 'rotMain',
+        name: 'Current',
+        type: 'bar',
+        barWidth: '62%',
+        z: 2,
+        data: vals(d).map(function (v, i) {
+          const c = ROT_COLORS[i % ROT_COLORS.length];
+          return {
+            value: v,
+            itemStyle: {
+              borderRadius: [0, 3, 3, 0],
+              color: new echarts.graphic.LinearGradient(0, 0, 1, 0, [
+                { offset: 0, color: rotHexToRgba(c, 0.35) },
+                { offset: 1, color: c }
+              ])
+            }
+          };
+        }),
+        label: {
+          show: true,
+          position: 'right',
+          color: '#cfd8dc',
+          fontSize: 11,
+          formatter: function (p) {
+            const h = byDate[d].homes[p.dataIndex];
+            const s = byDate[d].pct[p.dataIndex];
+            return mode === 'homes'
+              ? rotInt(h) + '  (' + s.toFixed(1) + '%)'
+              : s.toFixed(1) + '%  (' + rotInt(h) + ')';
+          }
+        },
+        emphasis: { disabled: true }
+      };
+    }
+
+    function refSeries() {
+      const visible = showRef && idx > 0;
+      return {
+        id: 'rotRef',
+        name: 'Start',
+        type: 'bar',
+        barWidth: '62%',
+        barGap: '-100%',
+        z: 3,
+        silent: true,
+        data: vals(start).map(function (v) { return visible ? v : null; }),
+        itemStyle: {
+          color: 'transparent',
+          borderColor: 'rgba(255,255,255,0.6)',
+          borderWidth: 1,
+          borderType: 'dashed',
+          borderRadius: [0, 3, 3, 0]
+        },
+        label: { show: false },
+        emphasis: { disabled: true }
+      };
+    }
+
+    function updateHeader() {
+      const d = dates[idx];
+      const t = byDate[d].total;
+      const t0 = byDate[start].total;
+      dateEl.textContent = rotFmtDate(d);
+
+      let html = rotInt(t) + ' active';
+      if (idx > 0 && t0) {
+        const ch = (t / t0 - 1) * 100;
+        html += ' &middot; <span class="' + (ch >= 0 ? 'up' : 'down') + '">'
+              + rotSigned(ch, 1) + '%</span> vs ' + rotFmtDate(start);
+      }
+      totalEl.innerHTML = html;
+
+      if (isGap(d)) {
+        gapNote.innerHTML = 'Tracker gap: no new listings were captured between '
+          + rotFmtDate(ROT_GAP.from) + ' and ' + rotFmtDate(ROT_GAP.to)
+          + '. The 0-7 bar is understated on these days.';
+        gapNote.style.display = 'block';
+      } else {
+        gapNote.style.display = 'none';
+      }
+    }
+
+    function render() {
+      const d = dates[idx];
+      chart.setOption({
+        xAxis: {
+          max: mode === 'homes' ? homesMax : pctMax,
+          axisLabel: { formatter: mode === 'homes' ? '{value}' : '{value}%' }
+        },
+        series: [mainSeries(d), refSeries()]
+      });
+      updateHeader();
+    }
+
+    chart.setOption({
+      backgroundColor: 'transparent',
+      animation: true,
+      animationDuration: 400,
+      animationDurationUpdate: 220,
+      animationEasingUpdate: 'cubicOut',
+
+      grid: { left: 6, right: 110, top: 10, bottom: 24, containLabel: true },
+
+      tooltip: {
+        trigger: 'axis',
+        axisPointer: { type: 'shadow', shadowStyle: { color: 'rgba(255,255,255,0.04)' } },
+        backgroundColor: 'rgba(0,0,0,0.78)',
+        borderColor: '#4FC3F7',
+        borderWidth: 1,
+        padding: 10,
+        textStyle: { color: '#fff', fontSize: 12 },
+        formatter: function (params) {
+          const i = params[0].dataIndex;
+          const d = dates[idx];
+          const h = byDate[d].homes[i];
+          const p = byDate[d].pct[i];
+          const c = ROT_COLORS[i % ROT_COLORS.length];
+
+          let html = '<div style="margin-bottom:6px;font-weight:600;font-size:13px">'
+                   + '<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'
+                   + c + ';margin-right:6px"></span>' + buckets[i] + ' days</div>'
+                   + '<div>Homes: <strong>' + rotInt(h) + '</strong></div>'
+                   + '<div>Share: <strong>' + p.toFixed(1) + '%</strong></div>';
+
+          if (idx > 0) {
+            const h0 = byDate[start].homes[i];
+            const p0 = byDate[start].pct[i];
+            const rel = h0 ? rotSigned((h / h0 - 1) * 100, 1) + '%' : 'n/a';
+            html += '<div style="font-size:11px;opacity:0.65;margin-top:6px">vs ' + rotFmtDate(start) + ': '
+                  + rotSigned(h - h0, 0) + ' homes (' + rel + ') &middot; '
+                  + rotSigned(p - p0, 1) + ' pp</div>';
+          }
+          return html;
+        }
+      },
+
+      xAxis: {
+        type: 'value',
+        min: 0,
+        max: homesMax,
+        axisLine: { lineStyle: { color: '#666' } },
+        axisLabel: { color: '#aaa' },
+        splitLine: {
+          show: true,
+          lineStyle: { color: 'rgba(255,255,255,0.18)', width: 1.2, type: 'dashed' }
+        }
+      },
+
+      // Categoria en Y: el primer elemento (0-7) queda abajo, +160 arriba
+      yAxis: {
+        type: 'category',
+        data: buckets,
+        axisLine: { lineStyle: { color: '#666' } },
+        axisTick: { show: false },
+        axisLabel: { color: '#cfd8dc', fontSize: 12 }
+      },
+
+      series: [mainSeries(dates[idx]), refSeries()]
+    });
+
+    // Slider
+    slider.max = String(last);
+    slider.value = String(idx);
+    document.getElementById('rotFirst').textContent = rotFmtDate(start);
+    document.getElementById('rotLast').textContent = rotFmtDate(dates[last]);
+
+    // Marca del hueco sobre el track
+    const gapIdx = [];
+    dates.forEach(function (d, i) { if (isGap(d)) gapIdx.push(i); });
+    if (gapIdx.length && last > 0) {
+      const mark = document.getElementById('rotGapMark');
+      const a = gapIdx[0] / last * 100;
+      const b = gapIdx[gapIdx.length - 1] / last * 100;
+      mark.style.left = a + '%';
+      mark.style.width = Math.max(b - a, 0.8) + '%';
+      mark.style.display = 'block';
+      mark.title = 'Tracker gap';
+    }
+
+    let timer = null;
+
+    function stop() {
+      if (timer) clearInterval(timer);
+      timer = null;
+      playBtn.innerHTML = '&#9654;';
+      playBtn.setAttribute('aria-label', 'Play');
+    }
+
+    playBtn.addEventListener('click', function () {
+      if (timer) { stop(); return; }
+      if (idx >= last) { idx = 0; slider.value = '0'; render(); }
+      playBtn.innerHTML = '&#10074;&#10074;';
+      playBtn.setAttribute('aria-label', 'Pause');
+      timer = setInterval(function () {
+        if (idx >= last) { stop(); return; }
+        idx++;
+        slider.value = String(idx);
+        render();
+      }, 160);
+    });
+
+    slider.addEventListener('input', function () {
+      stop();
+      idx = parseInt(slider.value, 10);
+      render();
+    });
+
+    // Badges de modo
+    function setMode(m) {
+      mode = m;
+      document.querySelectorAll('.rot-badge[data-mode]').forEach(function (b) {
+        b.classList.toggle('active', b.dataset.mode === m);
+      });
+      render();
+    }
+    document.querySelectorAll('.rot-badge[data-mode]').forEach(function (b) {
+      b.addEventListener('click', function () { setMode(b.dataset.mode); });
+      b.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); setMode(b.dataset.mode); }
+      });
+    });
+
+    function toggleRef() {
+      showRef = !showRef;
+      refToggle.classList.toggle('active', showRef);
+      render();
+    }
+    refToggle.addEventListener('click', toggleRef);
+    refToggle.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); toggleRef(); }
+    });
+
+    window.addEventListener('resize', function () { chart.resize(); });
+
+    updateHeader();
+  }
+
+  const rotationContainer = document.getElementById('rotationPyramidChart');
+  const rotationObserver = new IntersectionObserver(function (entries) {
+    if (entries[0].isIntersecting) {
+      initRotationPyramid();
+      rotationObserver.disconnect();
+    }
+  });
+  rotationObserver.observe(rotationContainer);
+</script>
+
+
+
+
 
 
 
