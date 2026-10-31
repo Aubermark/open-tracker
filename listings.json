@@ -68506,6 +68506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c47d6faf-bf4d-593d-9747-1b4d7e000fdb",
+        "address": "1333 Duns Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2014,
+        "listed_at": "2026-10-31T01:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 566000,
+        "price_label": "$566K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.663883,
+          35.986773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c48a1b7f-266a-5f60-9049-6d26cf3d8410",
         "address": "4256 Cranton Ct NE",
         "beds": 4,
@@ -73666,6 +73687,27 @@
         "coordinates": [
           -121.339694,
           38.674506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d17ba03c-5bff-58a6-8cc6-51595aeaad4a",
+        "address": "28127 146th St NW",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1740,
+        "listed_at": "2026-10-31T01:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.639823,
+          45.480062
         ]
       }
     },
