@@ -59749,6 +59749,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "acd69bcc-506f-5c8c-8e92-77ecd912185c",
+        "address": "1426-S-Rita-Way-Santa-Ana-CA-92704",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1281,
+        "listed_at": "2026-10-31T19:30:07.000Z",
+        "days_on_market": "54",
+        "current_price": 830000,
+        "price_label": "$830K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.890202,
+          33.727414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "acdb3b51-df1e-559e-b212-19a54fac60c1",
         "address": "7018-Lynwood-Dr-Tampa-FL-33637",
         "beds": 4,
