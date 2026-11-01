@@ -6619,6 +6619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "11b81f10-0089-5dc8-affb-d12b68a29436",
+        "address": "2565-W-Fairview-Dr-Rialto-CA-92377",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1813,
+        "listed_at": "2026-11-01T17:30:06.000Z",
+        "days_on_market": "187",
+        "current_price": 669000,
+        "price_label": "$669K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42438,
+          34.158097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11cd707d-0cf7-5d4b-8618-1da41b9e6730",
         "address": "807 Carlton Pointe Pl",
         "beds": 3,
@@ -56530,6 +56551,27 @@
         "coordinates": [
           -112.423596,
           33.756612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a401be62-54fd-45bd-815e-86d27213529c",
+        "address": "7707 Harlow Cir",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2189,
+        "listed_at": "2026-11-01T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.602206,
+          38.201365
         ]
       }
     },
