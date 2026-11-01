@@ -58993,6 +58993,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa926f10-beae-50f0-a3ea-9022b7f54191",
+        "address": "19530 N 260th Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1995,
+        "listed_at": "2026-11-01T08:21:28.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.611228,
+          33.661789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa9d7352-4031-5870-b232-83c7352803fd",
         "address": "1600 Charnita Ct",
         "beds": 5,
