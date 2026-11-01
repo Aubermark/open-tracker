@@ -66385,6 +66385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "beedfb16-cbd2-5dee-9f13-4933d785a6fe",
+        "address": "1392 Todd Phillips Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2000,
+        "listed_at": "2026-11-01T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 348000,
+        "price_label": "$348K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.426696,
+          36.530502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bef65e4a-4958-5625-b0a4-722e5978c8ac",
         "address": "5708-Maxfli-Dr-Schertz-TX-78108",
         "beds": 3,
