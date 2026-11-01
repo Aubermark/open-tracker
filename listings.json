@@ -88036,6 +88036,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fa0bbb11-3a81-5d2f-bea5-e7ca7b0851c0",
+        "address": "2410-Ne-3rd-Ave-Ocala-FL-34470",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1132,
+        "listed_at": "2026-11-01T15:50:07.000Z",
+        "days_on_market": "131",
+        "current_price": 187000,
+        "price_label": "$187K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.134267,
+          29.211849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa148c80-8043-5ea8-a59d-e96aa8ae46bf",
         "address": "24346-Lehigh-St-Dearborn-Heights-MI-48125",
         "beds": 3,
@@ -88051,27 +88072,6 @@
         "coordinates": [
           -83.274393,
           42.278252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa2ab162-b916-5a56-9bbf-08fe2f81a8d8",
-        "address": "163-Stonewood-Dr-West-Columbia-SC-29170",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1633,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "135",
-        "current_price": 229000,
-        "price_label": "$229K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.113335,
-          33.972949
         ]
       }
     },
