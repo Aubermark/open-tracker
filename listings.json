@@ -25162,6 +25162,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
+        "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "listed_at": "2026-11-02T19:30:05.000Z",
+        "days_on_market": "192",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.326256,
+          34.658557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45d8b538-12d8-5968-a523-2a8ca5996c88",
         "address": "4508 Mesa Dr",
         "beds": 4,
