@@ -43705,6 +43705,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ee73d8f-231c-5ee8-b1e9-16e8b4cd44b4",
+        "address": "3933-Grizzly-Hills-Cir-Fort-Worth-TX-76244",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2654,
+        "listed_at": "2026-11-02T14:10:06.000Z",
+        "days_on_market": "75",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.275861,
+          32.936295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ef636b4-3480-5dbe-93ce-6de4eb786961",
         "address": "1750-Evergreen-Ct-Kissimmee-FL-34746",
         "beds": 3,
