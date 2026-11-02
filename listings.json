@@ -43180,27 +43180,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7d64c6f9-c6e7-539a-be92-991991dc06a0",
-        "address": "5333-W-Norwich-Ave-Fresno-CA-93722",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1468,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "52",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.886359,
-          36.800083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7d8027c5-5d8f-55fe-ac99-3e4ab0267eed",
         "address": "3727 Ramblewood Dr",
         "beds": 2,
@@ -43363,6 +43342,27 @@
         "coordinates": [
           -78.358893,
           35.77498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7dcf1140-a02e-5d71-bd76-39e969a26f84",
+        "address": "7138 Moss Point Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1836,
+        "listed_at": "2026-11-02T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.801602,
+          35.060504
         ]
       }
     },
