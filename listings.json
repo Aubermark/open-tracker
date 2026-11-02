@@ -34927,6 +34927,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62da97d1-fe75-519f-b73a-504c3e877dab",
+        "address": "3958 E Cat Balue Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1528,
+        "listed_at": "2026-11-02T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.990608,
+          33.685149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "62dac847-f0d8-5d4d-8651-6ed5b2fe6ad8",
         "address": "5301-Pennsylvania-Ave-Nashville-TN-37209",
         "beds": 4,
