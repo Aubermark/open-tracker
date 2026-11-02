@@ -67771,27 +67771,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c25e6574-9f57-5246-a53d-ce4320d6f2ba",
-        "address": "504-Ledyard-Ct-Wake-Forest-NC-27587",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2078,
-        "listed_at": "2026-10-08T06:13:22.000Z",
-        "days_on_market": "236",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.50152,
-          35.968194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c25eab0d-69b2-5ed0-96a1-4a976fe72f0f",
         "address": "8332-Clear-Meadow-Ln-Charlotte-NC-28227",
         "beds": 3,
@@ -71230,6 +71209,27 @@
         "coordinates": [
           -85.60876,
           33.921982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb887cf3-abe0-5f49-83c0-7a100da432a4",
+        "address": "124 Talbert Town Loop",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1560,
+        "listed_at": "2026-11-02T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.849743,
+          35.586252
         ]
       }
     },
