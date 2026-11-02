@@ -5317,6 +5317,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e3b0d93-762c-59d5-be91-094cc9427108",
+        "address": "3154 Moonlight Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2200,
+        "listed_at": "2026-11-02T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095025,
+          32.807909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e4a03d2-52a8-5400-84ed-5718422d0e97",
         "address": "2339-Northgate-Ave-Riverside-IL-60546",
         "beds": 4,
@@ -14614,6 +14635,27 @@
         "coordinates": [
           -121.20557,
           39.231907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2a2e1693-99d0-5fe4-9954-d1711cd79757",
+        "address": "762-Virginia-Ct-Se-Conyers-GA-30094",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1694,
+        "listed_at": "2026-11-02T18:50:05.000Z",
+        "days_on_market": "32",
+        "current_price": 251000,
+        "price_label": "$251K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020428,
+          33.60321
         ]
       }
     },
