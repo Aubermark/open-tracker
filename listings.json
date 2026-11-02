@@ -12919,6 +12919,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24b3c915-93a6-5ce0-8692-8e7ed4eca0f4",
+        "address": "7768 Chase Woods Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1050,
+        "listed_at": "2026-11-02T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.382492,
+          33.542831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24d065e8-c72c-5500-b476-7553a9d285b2",
         "address": "425 W Daughtery Rd",
         "beds": 3,
@@ -78391,6 +78412,27 @@
         "coordinates": [
           -97.80761,
           30.510481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de2314e9-5b6a-552c-b4db-0f60dfc517c1",
+        "address": "2 Hemlock Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2615,
+        "listed_at": "2026-11-02T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 810000,
+        "price_label": "$810K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.388619,
+          42.671018
         ]
       }
     },
