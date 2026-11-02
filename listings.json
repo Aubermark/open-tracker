@@ -87238,6 +87238,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f7bee4d9-34f0-54fa-83ab-b9aafeaf2c76",
+        "address": "1150 Moneca St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1348,
+        "listed_at": "2026-11-02T13:50:06.000Z",
+        "days_on_market": "20",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.783818,
+          40.006598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f7c12bd5-6447-5af3-8b50-a70e8a210b4d",
         "address": "14205-Tranters-Creek-Ln-Charlotte-NC-28273",
         "beds": 2,
