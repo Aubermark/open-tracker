@@ -60001,6 +60001,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad89b360-d1a2-53cb-989e-73230e70c355",
+        "address": "3143-Boxelder-St-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1936,
+        "listed_at": "2026-11-02T16:20:06.000Z",
+        "days_on_market": "129",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.243032,
+          28.948951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ad8ef834-7d4a-5c75-9de1-7dab2feedb75",
         "address": "14-Smith-Rd-Sutton-MA-01590",
         "beds": 4,
@@ -82765,6 +82786,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eaae1b64-7899-5be4-8791-182663efaa01",
+        "address": "5460 Pine Needles Ter",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3221,
+        "listed_at": "2026-11-02T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 590000,
+        "price_label": "$590K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00157,
+          37.469173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eab2d6f2-e444-5a3c-bf93-4694a4f2ae5a",
         "address": "901-Lauren-Kay-Ct-Lawrenceville-GA-30046",
         "beds": 4,
@@ -87904,6 +87946,27 @@
         "coordinates": [
           -111.565768,
           33.395863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f97b403b-1427-56e1-9c71-42c2d88c32e0",
+        "address": "128-Catherine-Ave-Mahwah-NJ-07430",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1294,
+        "listed_at": "2026-11-02T16:20:06.000Z",
+        "days_on_market": "52",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.153382,
+          41.105421
         ]
       }
     },
