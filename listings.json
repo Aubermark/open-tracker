@@ -10252,6 +10252,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ccf34e6-362d-527f-852a-1cd70b66400d",
+        "address": "10121 Boynton Place Cir",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1045,
+        "listed_at": "2026-11-02T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.132691,
+          26.523575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1cd2d5a1-0d03-581f-b26d-9805fc2fc8d4",
         "address": "123-Merry-Way-Gun-Barrel-City-TX-75156",
         "beds": 3,
@@ -25435,6 +25456,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "477b394a-d1d4-5e85-a5a5-2281071f152d",
+        "address": "3930 SW Jarmer Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1714,
+        "listed_at": "2026-11-02T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.380371,
+          27.228477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4783da40-2037-569e-8fb6-12f78b98fd23",
         "address": "2003-Woodsdale-Dr-Durham-NC-27703",
         "beds": 3,
@@ -29692,6 +29734,27 @@
         "coordinates": [
           -84.431549,
           33.723098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "53f3257b-180c-5e9b-a7bd-376b5d1697d8",
+        "address": "3659 Fenley Rd",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1898,
+        "listed_at": "2026-11-02T17:10:07.000Z",
+        "days_on_market": "24",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.548613,
+          41.542337
         ]
       }
     },
@@ -80287,27 +80350,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e41e226a-7b46-53f0-881d-db4960e144d9",
-        "address": "293 Theta Pike",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 2085,
-        "listed_at": "2026-10-16T13:00:03.000Z",
-        "days_on_market": "17",
-        "current_price": 402000,
-        "price_label": "$402K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.028009,
-          35.64029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e4200580-a990-594b-ae17-61743dd217ba",
         "address": "11615-W-68th-St-Shawnee-KS-66203",
         "beds": 3,
@@ -86329,6 +86371,27 @@
         "coordinates": [
           -95.66792,
           30.233427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f510a8a9-d2f7-5252-a6bf-824ad2e92046",
+        "address": "4625-Wachovia-Way-Murfreesboro-TN-37129",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1219,
+        "listed_at": "2026-11-02T17:10:07.000Z",
+        "days_on_market": "103",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.492002,
+          35.890228
         ]
       }
     },
