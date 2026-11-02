@@ -86146,6 +86146,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f4590cf4-d43c-56bb-ba09-bec3fb88016e",
+        "address": "228-Fairfax-St-Colorado-Springs-CO-80911",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1521,
+        "listed_at": "2026-11-02T15:00:06.000Z",
+        "days_on_market": "153",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.715414,
+          38.73145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f45cc2fd-0a0d-5ad4-b26a-71ce4e0305db",
         "address": "7910-Arvada-Pl-Indianapolis-IN-46236",
         "beds": 5,
