@@ -66616,6 +66616,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bf558f8c-d93b-5dde-a95b-b6a69a488e98",
+        "address": "4632 Eldora Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2184,
+        "listed_at": "2026-11-02T20:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.766175,
+          39.99001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bf6abcc0-e856-5d03-8fcf-d34fb6b25d94",
         "address": "1555-Parkfield-Cir-Round-Rock-TX-78664",
         "beds": 3,
