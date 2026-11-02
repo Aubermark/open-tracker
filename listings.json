@@ -5275,6 +5275,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e286c87-7a52-5a9f-8bc8-39f17e517165",
+        "address": "228 Arnold Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1440,
+        "listed_at": "2026-11-02T14:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 478000,
+        "price_label": "$478K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.348429,
+          41.981069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e2c2a72-5d8c-5a09-bac4-5ccea37c9072",
         "address": "3123-Se-Quanset-Cir-Stuart-FL-34997",
         "beds": 4,
