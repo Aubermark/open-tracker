@@ -12121,6 +12121,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22a8963b-b837-530c-ba07-3c6654bf700a",
+        "address": "2016 Decatur St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1715,
+        "listed_at": "2026-11-02T18:20:08.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.379105,
+          29.767177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22b4d950-f6f9-5367-9208-35128e03bfba",
         "address": "223 Gumtree Dr",
         "beds": 3,
@@ -36076,27 +36097,6 @@
         "coordinates": [
           -83.590537,
           42.206978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "668095f0-7542-57a6-91a4-fa63757e4a4d",
-        "address": "17810-Asphodel-Ln-Spring-TX-77379",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2686,
-        "listed_at": "2026-10-23T14:00:04.000Z",
-        "days_on_market": "54",
-        "current_price": 329000,
-        "price_label": "$329K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.495368,
-          30.026403
         ]
       }
     },
