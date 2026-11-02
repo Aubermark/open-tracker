@@ -18659,8 +18659,8 @@
         "sqft": 1815,
         "listed_at": "2026-10-29T06:42:20.000Z",
         "days_on_market": "52",
-        "current_price": 744000,
-        "price_label": "$744K"
+        "current_price": 763000,
+        "price_label": "$763K"
       },
       "geometry": {
         "type": "Point",
@@ -89017,6 +89017,27 @@
         "coordinates": [
           -105.15021,
           39.850552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd17e891-c42e-51a2-9f2a-f7b14ebcf480",
+        "address": "1309 E Myrtle St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1190,
+        "listed_at": "2026-11-02T16:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 120000,
+        "price_label": "$120K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.308506,
+          32.728199
         ]
       }
     },
