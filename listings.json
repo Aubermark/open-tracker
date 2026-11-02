@@ -16342,6 +16342,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e2f8a9d-01f9-5698-ade7-ba4242f9f4c6",
+        "address": "130-Fredricksburg-Way-Columbia-SC-29210",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1353,
+        "listed_at": "2026-11-02T20:40:05.000Z",
+        "days_on_market": "129",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.133147,
+          34.057162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e39d6f3-3307-5ab9-8cad-d68a214d4eac",
         "address": "1107-E-Joliet-St-Crown-Point-IN-46307",
         "beds": 3,
@@ -63145,6 +63166,27 @@
         "coordinates": [
           -84.684752,
           33.834387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b621f56c-033d-5966-8c82-c219c7e6caae",
+        "address": "301-Rolling-Knoll-Dr-Columbia-SC-29229",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2416,
+        "listed_at": "2026-11-02T20:40:05.000Z",
+        "days_on_market": "105",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.900502,
+          34.157254
         ]
       }
     },
