@@ -44545,6 +44545,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "81783189-0087-514b-8ea9-b29750d71157",
+        "address": "22182-County-Road-288-Pittsburg-MO-65724",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1296,
+        "listed_at": "2026-11-02T19:40:05.000Z",
+        "days_on_market": "49",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3372,
+          37.8497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "81789693-0b14-5996-94f1-8f84b06c22ad",
         "address": "16176-Soft-Fern-Trce-Odessa-FL-33556",
         "beds": 4,
