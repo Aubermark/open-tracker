@@ -27682,27 +27682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4dfe1833-94bd-5b55-9de4-053962f39705",
-        "address": "2609-Rockwell-Rd-Nw-Huntsville-AL-35810",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1497,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "90",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.601596,
-          34.758131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4e140322-89e7-58d0-81bc-a7e1029c922d",
         "address": "8537-N-63rd-Dr-Glendale-AZ-85302",
         "beds": 3,
@@ -28243,6 +28222,27 @@
         "coordinates": [
           -123.637792,
           42.178731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4fe6d37a-7156-5a7d-bbd5-a7609658d2e4",
+        "address": "466-Leland-Dr-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1605,
+        "listed_at": "2026-11-02T18:00:06.000Z",
+        "days_on_market": "73",
+        "current_price": 283000,
+        "price_label": "$283K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.254545,
+          28.874706
         ]
       }
     },
@@ -66967,6 +66967,27 @@
         "coordinates": [
           -110.792788,
           32.105056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c09be65d-b025-55ee-9c0a-91935ba69e6c",
+        "address": "1065 Manza Cir",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1981,
+        "listed_at": "2026-11-02T18:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29627,
+          38.761076
         ]
       }
     },
