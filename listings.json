@@ -28984,27 +28984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "52255334-fc62-4e97-8ea0-f5d2338412c8",
-        "address": "1618 104th Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1246,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "26",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.847912,
-          40.411495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "522b5bf0-4600-5f1f-a431-ea7811704a01",
         "address": "6-Susan-Cir-Carver-MA-02330",
         "beds": 3,
@@ -34417,6 +34396,27 @@
         "coordinates": [
           -112.055256,
           40.487818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "61ae98b8-cdf2-40a3-a6f7-022d868c4e38",
+        "address": "3102-Kurtz-Ter-Davenport-FL-33837",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1835,
+        "listed_at": "2026-11-02T15:20:06.000Z",
+        "days_on_market": "77",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.645636,
+          28.20401
         ]
       }
     },
@@ -76795,27 +76795,6 @@
         "coordinates": [
           -98.250097,
           29.517067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d95d80a0-4a90-5158-aceb-cf17a1e7cefb",
-        "address": "5845-Wyndham-Mnr-Vero-Beach-FL-32967",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3400,
-        "listed_at": "2026-10-13T22:10:06.000Z",
-        "days_on_market": "95",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.447276,
-          27.708339
         ]
       }
     },
