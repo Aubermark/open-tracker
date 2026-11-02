@@ -8383,6 +8383,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16c9df8a-4869-55c3-8892-c637b196a4f0",
+        "address": "9200 N Ironwood Ln",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2957,
+        "listed_at": "2026-11-02T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916077,
+          43.184502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "16d003b7-2809-5b29-bd8d-472f067ff844",
         "address": "6008-White-Chapel-Way-Greensboro-NC-27405",
         "beds": 3,
@@ -16819,6 +16840,27 @@
         "coordinates": [
           -97.283909,
           32.727871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "2fc8594e-2bbe-474f-9024-bd9a54f19c8a",
+        "address": "844 House Boulevard",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2308,
+        "listed_at": "2026-11-02T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 378000,
+        "price_label": "$378K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6161,
+          28.1001
         ]
       }
     },
@@ -29866,27 +29908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "53f3257b-180c-5e9b-a7bd-376b5d1697d8",
-        "address": "3659 Fenley Rd",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1898,
-        "listed_at": "2026-11-02T17:10:07.000Z",
-        "days_on_market": "24",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.548613,
-          41.542337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "540294c4-a4b8-5dea-a197-d3edf6713aae",
         "address": "9703-Glenpointe-Dr-Riverview-FL-33569",
         "beds": 4,
@@ -30616,6 +30637,27 @@
         "coordinates": [
           -97.269133,
           37.570522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "55b124d3-dc27-5865-90ee-07aa654d930b",
+        "address": "25626 N 144th Ln",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1695,
+        "listed_at": "2026-11-02T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.372856,
+          33.716534
         ]
       }
     },
@@ -59113,6 +59155,27 @@
         "coordinates": [
           -96.722557,
           33.150816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aabad301-ea85-57f2-9317-f47649a326e3",
+        "address": "18850 Lilac St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 720,
+        "listed_at": "2026-11-02T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.303605,
+          38.153817
         ]
       }
     },
