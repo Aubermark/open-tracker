@@ -45532,6 +45532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "846b7c9f-c60a-524d-9bb4-85b9b93b5083",
+        "address": "1011 Betty Lou Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1264,
+        "listed_at": "2026-11-02T13:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.551953,
+          36.041226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "847ca4e8-f640-5435-9fd5-429018264025",
         "address": "6041-Thornicroft-Dr-Valley-Springs-CA-95252",
         "beds": 3,
@@ -83263,6 +83284,27 @@
         "coordinates": [
           -111.822611,
           33.326892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec9472a7-7d39-52fc-9237-fb2ec60e8380",
+        "address": "4409-Idlewood-Ln-Tucker-GA-30084",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1594,
+        "listed_at": "2026-11-02T13:20:06.000Z",
+        "days_on_market": ">253",
+        "current_price": 159000,
+        "price_label": "$159K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21069,
+          33.835381
         ]
       }
     },
