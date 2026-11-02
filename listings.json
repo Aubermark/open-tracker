@@ -9748,6 +9748,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1b099b38-4bed-53dc-b1ea-2f8a5a7af35b",
+        "address": "16 E Pleasant St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 2315,
+        "listed_at": "2026-11-02T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 463000,
+        "price_label": "$463K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.143101,
+          42.714908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1b16b31b-8161-51af-baa5-3d7ff6c69edf",
         "address": "4720 McBane Ct",
         "beds": 3,
@@ -22867,6 +22888,27 @@
         "coordinates": [
           -81.177243,
           34.093673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3feca89e-52a7-5e8e-965a-2da4d50e37c3",
+        "address": "35 Normandy Heights Rd",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 5093,
+        "listed_at": "2026-11-02T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1060000,
+        "price_label": "$1.060M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.44217,
+          40.795697
         ]
       }
     },
@@ -49480,27 +49522,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9019ef82-1311-5824-b4a9-d75c6e18e5a9",
-        "address": "3662-Starbright-Ln-Las-Vegas-NV-89147",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2002,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "52",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.284107,
-          36.122991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9053136f-6aba-5f3f-8086-06e5f20122a0",
         "address": "3739-Tranquility-Trl-Castle-Rock-CO-80109",
         "beds": 3,
@@ -66337,27 +66358,6 @@
         "coordinates": [
           -123.316447,
           44.92871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bea71614-0bd5-5f33-9376-005154fc532f",
-        "address": "612-Victor-Dr-Knoxville-TN-37912",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1090,
-        "listed_at": "2026-10-09T17:00:05.000Z",
-        "days_on_market": "86",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.985848,
-          36.009308
         ]
       }
     },
