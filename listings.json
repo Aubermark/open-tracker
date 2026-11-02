@@ -47149,6 +47149,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "89702aae-0e10-5267-a887-62cf07a690a1",
+        "address": "2867 N Claire Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1357,
+        "listed_at": "2026-11-02T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 334000,
+        "price_label": "$334K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.505046,
+          33.478865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8971124d-23e2-5f4f-b246-4c832f89f37f",
         "address": "2419 E Maryland Ave",
         "beds": 3,
@@ -49369,27 +49390,6 @@
         "coordinates": [
           -96.30772,
           32.672205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8fee7c6f-5ebd-5adc-87fb-da6780f69687",
-        "address": "131-Highland-Point-Ave-Harmony-NC-28634",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1344,
-        "listed_at": "2026-09-17T17:40:03.000Z",
-        "days_on_market": "46",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.769343,
-          35.958931
         ]
       }
     },
@@ -82654,6 +82654,27 @@
         "coordinates": [
           -97.180999,
           32.991856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea2fe048-691b-5e83-892f-ba6808768532",
+        "address": "52 Hickory Ridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1528,
+        "listed_at": "2026-11-02T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 371000,
+        "price_label": "$371K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.466425,
+          34.641111
         ]
       }
     },
