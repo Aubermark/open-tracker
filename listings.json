@@ -53197,6 +53197,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b715dfd-99ed-5643-af87-328b6b2a7236",
+        "address": "130-Lancaster-St-Chester-SC-29706",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1411,
+        "listed_at": "2026-11-02T19:00:07.000Z",
+        "days_on_market": "119",
+        "current_price": 169000,
+        "price_label": "$169K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.200466,
+          34.70544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9b74abd5-cdf3-57b9-83d8-623611f539bf",
         "address": "63 April Wind Dr S",
         "beds": 3,
@@ -67282,6 +67303,27 @@
         "coordinates": [
           -93.013471,
           44.947253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c1227241-9cf5-5b79-9621-797c0703788c",
+        "address": "1951-Taylor-Dr-Gastonia-NC-28052",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1565,
+        "listed_at": "2026-11-02T19:00:07.000Z",
+        "days_on_market": "88",
+        "current_price": 242000,
+        "price_label": "$242K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.211173,
+          35.235084
         ]
       }
     },
