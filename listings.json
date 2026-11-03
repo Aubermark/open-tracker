@@ -37342,6 +37342,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "69818b0c-5be6-5362-aa14-49650f44f706",
+        "address": "2707 La Posada Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1392,
+        "listed_at": "2026-11-03T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.99503,
+          28.951551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "698ad04a-88d2-5709-8369-a530339e7bac",
         "address": "934-Witherbee-Way-Little-River-SC-29566",
         "beds": 3,
@@ -43741,27 +43762,6 @@
         "coordinates": [
           -105.058057,
           40.410587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7e6b8f31-1237-5105-a20a-e19df5cf2a12",
-        "address": "4615 Wildgrove Dr",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 4215,
-        "listed_at": "2026-10-29T06:42:18.000Z",
-        "days_on_market": "25",
-        "current_price": 825000,
-        "price_label": "$825K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.102576,
-          33.025489
         ]
       }
     },
