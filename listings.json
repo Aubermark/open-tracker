@@ -83878,6 +83878,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eccde58f-9846-5af6-976d-d5533e19f480",
+        "address": "8 Maple St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-11-03T22:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.901098,
+          34.568593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ecde7f76-e339-5477-a555-f4e78fa32029",
         "address": "2801-Autumn-Haze-Ln-Las-Vegas-NV-89117",
         "beds": 4,
