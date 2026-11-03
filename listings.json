@@ -10378,27 +10378,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1d821499-4ef4-5fdc-854b-fa11a473f63c",
-        "address": "13449-Nascoby-Ln-Woodbridge-VA-22193",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1873,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "176",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.374705,
-          38.66269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1daf2cec-e20e-5fab-84e3-72d0b1f73500",
         "address": "1625 N 22nd St",
         "beds": 2,
@@ -48445,6 +48424,27 @@
         "coordinates": [
           -123.200877,
           44.1946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8c2a24aa-f0fd-5fe3-a52b-1a4a6d39d637",
+        "address": "1334 Boyd St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1891,
+        "listed_at": "2026-11-03T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.955771,
+          32.614927
         ]
       }
     },
@@ -89815,27 +89815,6 @@
         "coordinates": [
           -80.946984,
           34.161746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe705d04-1b2c-5853-8cc9-9077b821a715",
-        "address": "6723-W-Aire-Libre-Ave-Peoria-AZ-85382-17165474",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1168,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "78",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.204182,
-          33.635059
         ]
       }
     },
