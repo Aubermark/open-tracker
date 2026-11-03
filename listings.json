@@ -76024,6 +76024,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d641d0ce-5d49-5950-93f9-4fc261db6803",
+        "address": "4519-S-Ridgewalk-Dr-Houston-TX-77053",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2058,
+        "listed_at": "2026-11-03T15:10:06.000Z",
+        "days_on_market": "78",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.452576,
+          29.581477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
@@ -81184,27 +81205,6 @@
         "coordinates": [
           -112.399228,
           33.594683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e55d2bc9-97b8-5c60-abc8-29c80836faff",
-        "address": "4259-W-Stane-Ave-West-Valley-City-UT-84120",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1252,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "75",
-        "current_price": 404000,
-        "price_label": "$404K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.992889,
-          40.705233
         ]
       }
     },
