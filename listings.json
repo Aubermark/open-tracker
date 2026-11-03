@@ -12142,6 +12142,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22bbdf6e-b1c7-5faa-a282-4cca4227b777",
+        "address": "42785-W-Camino-De-Janos-Maricopa-AZ-85138",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2221,
+        "listed_at": "2026-11-03T20:20:06.000Z",
+        "days_on_market": "105",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02733,
+          33.049883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22bc54ef-169d-59d7-bec2-51ce51b5a833",
         "address": "1990-Eagle-Ridge-Dr-Sw-Conyers-GA-30094",
         "beds": 4,
@@ -21229,27 +21250,6 @@
         "coordinates": [
           -110.836333,
           32.198748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3c1648d6-377e-5555-bf18-35c60ff98bf3",
-        "address": "203-Frost-Creek-Ave-Groesbeck-TX-76642",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1689,
-        "listed_at": "2026-11-03T17:50:06.000Z",
-        "days_on_market": "53",
-        "current_price": 199000,
-        "price_label": "$199K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.524452,
-          31.513032
         ]
       }
     },
@@ -35446,27 +35446,6 @@
         "coordinates": [
           -105.08957,
           40.166294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "63b8b774-e44f-5a3c-ae87-19118c3e72f5",
-        "address": "25583 W Pioneer St",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2485,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "25",
-        "current_price": 339000,
-        "price_label": "$339K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.601288,
-          33.416749
         ]
       }
     },
@@ -70978,27 +70957,6 @@
         "coordinates": [
           -97.387864,
           31.059167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c994f3da-30d8-550e-b99c-b0a4cb61c702",
-        "address": "28428-Sw-Villebois-Dr-N-Wilsonville-OR-97070",
-        "beds": 2,
-        "baths": 2.5,
-        "sqft": 1399,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "53",
-        "current_price": 347000,
-        "price_label": "$347K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.788927,
-          45.314051
         ]
       }
     },
