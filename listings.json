@@ -7711,27 +7711,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "14dbfa6c-3861-5ce7-9700-c99b9542d6b4",
-        "address": "42824-Greystone-Dr-Sterling-Heights-MI-48313",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1786,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "189",
-        "current_price": 386000,
-        "price_label": "$386K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.983903,
-          42.608946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "14e3fd05-5861-5570-b51d-18502836b802",
         "address": "8317-Moritz-Dr-Stokesdale-NC-27357-18406875",
         "beds": 3,
@@ -49417,6 +49396,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8ee5732d-9e6b-534a-afc5-a64e3a02f428",
+        "address": "10315 Ponderosa Pine Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2300,
+        "listed_at": "2026-11-03T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.899591,
+          29.813495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f0516f7-a4b0-5c0a-a56c-b137d299b8c0",
         "address": "725-Kelly-St-Poteet-TX-78065",
         "beds": 3,
@@ -52876,6 +52876,27 @@
         "coordinates": [
           -84.694916,
           33.862047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9982c503-fde3-5410-975a-b83e37449c5f",
+        "address": "2479-Feathertree-Ln-Lawrenceville-GA-30044",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1600,
+        "listed_at": "2026-11-03T19:40:06.000Z",
+        "days_on_market": "46",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.055187,
+          33.915033
         ]
       }
     },
