@@ -655,6 +655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01853176-1731-58d7-a8ea-66b779ce3998",
+        "address": "104 Kipling Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-11-03T23:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 273000,
+        "price_label": "$273K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.564887,
+          36.339192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0185739e-a965-537b-9dc0-c1b827a13f32",
         "address": "1113-Mc-Clellan-Ln-Nolensville-TN-37135",
         "beds": 4,
@@ -14572,27 +14593,6 @@
         "coordinates": [
           -121.20557,
           39.231907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "2a2e1693-99d0-5fe4-9954-d1711cd79757",
-        "address": "762-Virginia-Ct-Se-Conyers-GA-30094",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1694,
-        "listed_at": "2026-11-02T18:50:05.000Z",
-        "days_on_market": "33",
-        "current_price": 251000,
-        "price_label": "$251K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.020428,
-          33.60321
         ]
       }
     },
