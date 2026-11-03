@@ -12016,6 +12016,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22703540-c558-544c-9234-aebdcccac413",
+        "address": "9205 Ducati Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1840,
+        "listed_at": "2026-11-03T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.853614,
+          35.469249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2272b6cf-c2c5-510d-8f99-895f5b8d4ea3",
         "address": "138-Matthias-Ct-Mocksville-NC-27028",
         "beds": 4,
@@ -42649,6 +42670,27 @@
         "coordinates": [
           -111.79985,
           41.703636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7ae49490-a77e-5253-ae8d-0abf03bcd3e1",
+        "address": "398 Hampton Trail Dr",
+        "beds": 5,
+        "baths": 5,
+        "sqft": 5016,
+        "listed_at": "2026-11-03T19:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 955000,
+        "price_label": "$955K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.963426,
+          35.045865
         ]
       }
     },
