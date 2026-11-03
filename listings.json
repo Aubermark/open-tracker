@@ -37069,6 +37069,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68b533cf-c322-59ea-9291-21acf1b01c25",
+        "address": "3267 Dehesa Rd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1242,
+        "listed_at": "2026-11-03T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 501000,
+        "price_label": "$501K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.879626,
+          32.783622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68b79ef6-34cb-5a04-9214-1ad7316197b7",
         "address": "104-Adon-St-Reidsville-GA-30453",
         "beds": 3,
