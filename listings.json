@@ -10021,6 +10021,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c51e496-4c8d-5dbb-a7ab-6b647473f31b",
+        "address": "29368 Vinewood Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1637,
+        "listed_at": "2026-11-03T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.483217,
+          41.615464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c57fd8d-3325-56ec-aa10-cf96a530fb0a",
         "address": "37209-Grassy-Hill-Ln-Dade-City-FL-33525",
         "beds": 3,
@@ -21208,6 +21229,27 @@
         "coordinates": [
           -110.836333,
           32.198748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3c1648d6-377e-5555-bf18-35c60ff98bf3",
+        "address": "203-Frost-Creek-Ave-Groesbeck-TX-76642",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1689,
+        "listed_at": "2026-11-03T17:50:06.000Z",
+        "days_on_market": "53",
+        "current_price": 199000,
+        "price_label": "$199K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.524452,
+          31.513032
         ]
       }
     },
@@ -61009,6 +61051,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "afbb2d0d-06db-5efb-8057-9146f7bf92f6",
+        "address": "104 Pierce Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2040,
+        "listed_at": "2026-11-03T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.598922,
+          34.852304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afc6c562-bb6c-5026-a157-b16b402d0f82",
         "address": "168-Hollow-Tree-Ct-Lugoff-SC-29078",
         "beds": 4,
@@ -80638,6 +80701,27 @@
         "coordinates": [
           -105.056045,
           39.581534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e3e0b454-d699-5df4-86eb-24eb28554b87",
+        "address": "1913 White Bear Ave N",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1200,
+        "listed_at": "2026-11-03T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.025755,
+          44.998547
         ]
       }
     },
