@@ -35893,6 +35893,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "656c49ae-1bfe-5d3b-ab1a-bce4887788d3",
+        "address": "8405 Warthen Meadows St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1533,
+        "listed_at": "2026-11-03T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.211106,
+          36.313857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "657c4c35-c74b-54cf-8039-20551af41f5c",
         "address": "368-Nottingham-Way-Sw-Marietta-GA-30064",
         "beds": 4,
@@ -43090,6 +43111,27 @@
         "coordinates": [
           -122.872946,
           45.516838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7cd81f73-caed-5167-ab06-3005b44e6bc8",
+        "address": "2196 Edgemore Dr SE",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2067,
+        "listed_at": "2026-11-03T17:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.342325,
+          33.726241
         ]
       }
     },
