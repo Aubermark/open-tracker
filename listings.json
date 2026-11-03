@@ -3847,27 +3847,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "09f998c4-a82e-5fa2-891e-8365f7653723",
-        "address": "8171-Shady-Maple-Dr-Canal-Winchester-OH-43110-18510441",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1874,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "66",
-        "current_price": 396000,
-        "price_label": "$396K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.761467,
-          39.852961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0a23d0ef-10ca-52b4-9521-34d5ba51cb4d",
         "address": "410-Madison-St-Roanoke-Rapids-NC-27870",
         "beds": 3,
@@ -73672,6 +73651,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0a13563-b793-5e68-bb3f-191ced0c2a20",
+        "address": "6046 Overlook Dr",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1733,
+        "listed_at": "2026-11-03T16:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.716433,
+          32.771944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0a174e2-89b6-5107-b7ad-4cbfc1386415",
         "address": "729-E-Ivy-Valley-Dr-Fuquay-Varina-NC-27526",
         "beds": 3,
@@ -89269,6 +89269,27 @@
         "coordinates": [
           -83.901315,
           34.150885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fcf0aa0b-ca56-52ce-88f2-90ecb56985fc",
+        "address": "6457 Matcumbe Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1428,
+        "listed_at": "2026-11-03T16:10:06.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.410456,
+          39.675513
         ]
       }
     },
