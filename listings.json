@@ -31210,6 +31210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "574ab003-dcb4-5f4e-8da5-0a8b7b97fd86",
+        "address": "2 Dogwood Rd",
+        "beds": 2,
+        "baths": 3,
+        "sqft": 2645,
+        "listed_at": "2026-11-03T22:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.722529,
+          41.338944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "575b3cea-5ca4-5cd2-8561-c7f413e83560",
         "address": "1 Morning Beach Dr",
         "beds": 2,
@@ -62185,6 +62206,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b273af6c-a2dc-59f6-9487-c935044b7a4b",
+        "address": "30970-W-Amelia-Ave-Buckeye-AZ-85396",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2272,
+        "listed_at": "2026-11-03T22:50:05.000Z",
+        "days_on_market": "131",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.718104,
+          33.493489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b27f9fa2-a1da-49fd-9af0-490527f9d015",
         "address": "1011-Landon-Rdg-San-Antonio-TX-78253",
         "beds": 3,
@@ -80029,27 +80071,6 @@
         "coordinates": [
           -102.391012,
           31.946958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e25b4f11-9eb4-530b-a3e7-416e58139d3f",
-        "address": "19-Delekas-Ave-South-Plainfield-NJ-07080",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1578,
-        "listed_at": "2026-10-15T07:20:34.000Z",
-        "days_on_market": "200",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.429155,
-          40.594242
         ]
       }
     },
