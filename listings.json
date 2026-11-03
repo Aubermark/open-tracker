@@ -1642,27 +1642,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "038b9fe7-97b2-5ac4-8cdc-d0bd87c7cf86",
-        "address": "4-Shirley-Caesar-Ct-Durham-NC-27701",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1080,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "102",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.897265,
-          35.98446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "038c56eb-27cf-57e8-a37c-cdbbf125d488",
         "address": "15-Crescent-St-Lyman-SC-29365",
         "beds": 2,
@@ -28432,6 +28411,27 @@
         "coordinates": [
           -84.468232,
           33.747023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4fc4bc75-60af-5ca1-af1d-2cfa66809ba6",
+        "address": "407 N Cimarron Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1319,
+        "listed_at": "2026-11-03T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.813039,
+          35.297065
         ]
       }
     },
@@ -59197,6 +59197,27 @@
         "coordinates": [
           -85.396025,
           40.216537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a9b35241-4132-5883-8ac9-cab4b82eecf6",
+        "address": "305 Cliffwood Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3608,
+        "listed_at": "2026-11-03T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.725908,
+          30.686359
         ]
       }
     },
