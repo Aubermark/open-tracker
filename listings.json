@@ -19177,6 +19177,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36a8e1dd-a8fe-5fb5-b6eb-7d8a83cf25e3",
+        "address": "2232 S Ralston Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 960,
+        "listed_at": "2026-11-03T10:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 149000,
+        "price_label": "$149K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.453439,
+          39.081167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "36c44b7e-f73e-5553-8bcf-7003c3a7aeec",
         "address": "7294 Mahogany Dr",
         "beds": 3,
