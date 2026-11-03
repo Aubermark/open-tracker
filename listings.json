@@ -10651,6 +10651,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e51be22-5b0b-5ecc-8c42-23ce626c83b3",
+        "address": "68 Bristol Ln",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2422,
+        "listed_at": "2026-11-03T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.924944,
+          40.336298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e520713-0d19-5347-8c42-fa0afedd6beb",
         "address": "4450-Keats-Ave-Titusville-FL-32780",
         "beds": 3,
