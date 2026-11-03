@@ -14599,6 +14599,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a387695-eb3f-583a-b56c-43ca99618179",
+        "address": "33195 Adelfa St",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 810,
+        "listed_at": "2026-11-03T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.353641,
+          33.639055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a4deea9-d0b0-5a8f-9e1a-f761b4ad61d7",
         "address": "2888 Carrousel Ct",
         "beds": 4,
@@ -59386,27 +59407,6 @@
         "coordinates": [
           -112.024985,
           33.4977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aaef8075-0d7f-5d92-aef5-d334d26e7c83",
-        "address": "761-Nocatee-Village-Dr-Ponte-Vedra-FL-32081",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1809,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "147",
-        "current_price": 479000,
-        "price_label": "$479K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.42868,
-          30.109356
         ]
       }
     },
