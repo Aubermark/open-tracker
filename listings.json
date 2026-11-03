@@ -26758,6 +26758,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4acc3f8a-fb8f-5ede-8614-95d09f22c9eb",
+        "address": "8630 Oakmount Blvd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2039,
+        "listed_at": "2026-11-03T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.528577,
+          33.985924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4ad2ad0a-1201-50be-abd7-f0f9dda2b0e0",
         "address": "8641-Centerton-Ln-Manassas-VA-20111",
         "beds": 3,
@@ -84838,6 +84859,27 @@
         "coordinates": [
           -81.335501,
           29.839085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef73eb52-a382-5c39-b6e2-7c50df69c99a",
+        "address": "15778 Dauphin Island Pkwy",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2577,
+        "listed_at": "2026-11-03T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11641,
+          30.361736
         ]
       }
     },
