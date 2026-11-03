@@ -46288,6 +46288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85537f4b-dfd5-5180-870b-40a16063be98",
+        "address": "3620 Silverado Trl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2336,
+        "listed_at": "2026-11-03T21:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.283419,
+          32.978006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85710164-fa24-51f9-b533-0cf91d004281",
         "address": "4120 S Choctaw Rd",
         "beds": 4,
