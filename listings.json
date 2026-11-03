@@ -65755,6 +65755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc15dc68-6fcd-5a66-bb5e-ce111500c283",
+        "address": "33924 NE Kale St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1739,
+        "listed_at": "2026-11-03T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 452000,
+        "price_label": "$452K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.868872,
+          45.758125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc2b9e2e-7676-5dd0-a592-afd6f3d520de",
         "address": "966 Oakland Ave",
         "beds": 3,
@@ -80155,27 +80176,6 @@
         "coordinates": [
           -98.650101,
           29.503575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e28e1464-ca73-5784-b687-9832057e28ce",
-        "address": "120-Fox-Hill-Ct-Edwardsville-IL-62025",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3751,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "102",
-        "current_price": 539000,
-        "price_label": "$539K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.95311,
-          38.852669
         ]
       }
     },
