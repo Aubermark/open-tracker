@@ -84676,6 +84676,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee9809dc-1e88-5c8b-9670-18da75ac36fe",
+        "address": "10927 N Pomegranate Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3321,
+        "listed_at": "2026-11-04T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 895000,
+        "price_label": "$895K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.980192,
+          32.405048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ee9cc29c-643f-5a95-a848-0ea76e50e7ce",
         "address": "11113 Asbury Chapel Rd",
         "beds": 3,
