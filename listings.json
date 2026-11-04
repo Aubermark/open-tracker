@@ -4435,6 +4435,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ba283e7-230b-50bc-bb2a-ec7afea522a5",
+        "address": "402 Magnolia View Ln",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3092,
+        "listed_at": "2026-11-04T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.457648,
+          35.93372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ba2e0ea-c696-5a31-b662-f02e7dcb5b2d",
         "address": "576 Green Ln",
         "beds": 4,
@@ -59854,6 +59875,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aba6f28f-ae0f-5634-97dd-4ecb131669ca",
+        "address": "114 Hawthorne Rd",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3880,
+        "listed_at": "2026-11-04T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 430000,
+        "price_label": "$430K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8479,
+          36.256284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ababc45e-ac05-5136-b1c0-5e5e85cd912c",
         "address": "4246-E-Tyson-St-Gilbert-AZ-85295",
         "beds": 4,
@@ -69067,27 +69109,6 @@
         "coordinates": [
           -81.718866,
           30.315215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c3f79ddb-7c1a-566f-8732-c65ffa145d36",
-        "address": "4252 E Sylvane Dr",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1012,
-        "listed_at": "2026-10-19T15:00:04.000Z",
-        "days_on_market": "16",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.901832,
-          32.201064
         ]
       }
     },
@@ -88093,6 +88114,27 @@
         "coordinates": [
           -104.890468,
           39.405789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f826b981-a057-5e2f-a814-6df04e07607d",
+        "address": "145 Grey Fawn Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1676,
+        "listed_at": "2026-11-04T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.776376,
+          34.762638
         ]
       }
     },
