@@ -18421,6 +18421,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "34642918-b48d-5462-97f8-b6163e13f6bb",
+        "address": "68 Crane Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2299,
+        "listed_at": "2026-11-04T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.699731,
+          28.018585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "346ae44d-8506-51c6-b9ea-0cb367c71fc3",
         "address": "5206-N-Sumac-Cir-Fayetteville-NC-28304",
         "beds": 3,
@@ -55885,6 +55906,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a1a8471e-aeb1-57f7-8890-b4ce2e2c5ff7",
+        "address": "541-E-Main-St-Jamestown-IN-46147",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1993,
+        "listed_at": "2026-11-04T14:50:05.000Z",
+        "days_on_market": "76",
+        "current_price": 277000,
+        "price_label": "$277K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.622858,
+          39.923868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a1b1a56f-ce99-5392-bb4b-3b23a4001562",
         "address": "1515 Cherokee St",
         "beds": 4,
@@ -80260,6 +80302,27 @@
         "coordinates": [
           -122.633543,
           47.290421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e19932e3-ec36-5588-a3fa-9d764ad68202",
+        "address": "5119 Florentine Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1946,
+        "listed_at": "2026-11-04T14:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.554122,
+          28.504521
         ]
       }
     },
