@@ -9097,27 +9097,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "18fd65bb-3eb1-51f2-8b10-4b75d1e940e9",
-        "address": "1207-Toledo-Bend-Dr-Princeton-TX-75407",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2655,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "69",
-        "current_price": 266000,
-        "price_label": "$266K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.523076,
-          33.176824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1904d4e7-8783-5cfa-8e42-1db5595caa48",
         "address": "5810-Sailboat-Pointe-Nw-Acworth-GA-30101",
         "beds": 3,
@@ -9826,27 +9805,6 @@
         "coordinates": [
           -76.394608,
           38.360165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1bb11ea4-0f96-50e4-9539-966bb00005de",
-        "address": "271-Stane-Brook-Ct-Jackson-GA-30233",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 1682,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "202",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.964114,
-          33.30158
         ]
       }
     },
@@ -83326,6 +83284,27 @@
         "coordinates": [
           -80.129606,
           32.91477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eb5ce399-8e3e-5250-8eac-3a4e089e9988",
+        "address": "2207 Saddlewood Trl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2875,
+        "listed_at": "2026-11-04T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.421316,
+          31.175521
         ]
       }
     },
