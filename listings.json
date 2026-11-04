@@ -4162,6 +4162,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0acd5365-651c-591f-85c5-fdec75f0525f",
+        "address": "5209-Sw-128th-Pl-Ocala-FL-34473",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1335,
+        "listed_at": "2026-11-04T16:00:05.000Z",
+        "days_on_market": "41",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20726,
+          29.03598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ad01e18-6ed9-56bd-ba94-1c1b1d6fe5f2",
         "address": "106-Millbranch-Ln-Statesville-NC-28625",
         "beds": 4,
@@ -8692,27 +8713,6 @@
         "coordinates": [
           -84.72158,
           33.375213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "17deb581-766c-530b-a804-8b1db488a760",
-        "address": "161-Patterdale-Pl-Benson-NC-27504",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1300,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "150",
-        "current_price": 289000,
-        "price_label": "$289K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.564473,
-          35.492142
         ]
       }
     },
@@ -46156,27 +46156,6 @@
         "coordinates": [
           -118.075458,
           34.546511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "84fe1ce8-fb5c-5b1d-a176-aa25511c4eee",
-        "address": "2212-Harborside-Dr-O-Fallon-MO-63368",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2384,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "169",
-        "current_price": 367000,
-        "price_label": "$367K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.740638,
-          38.762767
         ]
       }
     },
