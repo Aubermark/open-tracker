@@ -65902,6 +65902,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bbaabb85-51b4-59a7-9602-a2a3bed5bbe4",
+        "address": "207 Hurston Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1565,
+        "listed_at": "2026-11-04T14:00:06.000Z",
+        "days_on_market": "22",
+        "current_price": 249000,
+        "price_label": "$249K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.769624,
+          36.14577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bbabc38e-5902-55a1-95fd-7f00b4dddb48",
         "address": "3431 S Champlain Ave",
         "beds": 4,
@@ -70033,27 +70054,6 @@
         "coordinates": [
           -80.921642,
           34.148109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c6d6f4a9-7805-5c74-9970-fe8b64f0150b",
-        "address": "1396-Bramlett-Forest-Ct-Lawrenceville-GA-30045",
-        "beds": 4,
-        "baths": 4,
-        "sqft": 3267,
-        "listed_at": "2026-09-17T06:29:10.000Z",
-        "days_on_market": "77",
-        "current_price": 410000,
-        "price_label": "$410K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.915003,
-          33.93441
         ]
       }
     },
