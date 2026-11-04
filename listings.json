@@ -71992,6 +71992,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cb893676-cc9d-5628-a10f-f7d2d36b4681",
+        "address": "4917 Hill Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-11-04T15:00:05.000Z",
+        "days_on_market": "28",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224005,
+          38.932801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cb9654bd-bce4-55e8-b039-acf5e18309be",
         "address": "7030-Willowick-Dr-Brentwood-TN-37027",
         "beds": 6,
@@ -90088,27 +90109,6 @@
         "coordinates": [
           -96.852815,
           33.242256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe420c25-c63e-5ae9-a2fd-f367c164d565",
-        "address": "407-Westmoreland-Rd-Columbia-SC-29229",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3244,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "93",
-        "current_price": 308000,
-        "price_label": "$308K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.946984,
-          34.161746
         ]
       }
     },
