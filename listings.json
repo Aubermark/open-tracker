@@ -52378,6 +52378,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "979c3339-0221-58bc-94f7-7447915a514c",
+        "address": "3106-Forrester-Dr-Pearland-TX-77584",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3077,
+        "listed_at": "2026-11-04T20:00:06.000Z",
+        "days_on_market": "202",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.355103,
+          29.540171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "97a1baa2-1cdf-5c4d-be50-9a6fd24aaab6",
         "address": "7129-Founders-Club-Ct-Charlotte-NC-28269",
         "beds": 3,
@@ -81037,27 +81058,6 @@
         "coordinates": [
           -81.269585,
           33.988127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e44a287b-61af-50de-9825-ced748de10f8",
-        "address": "2322 Cooper Ave",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1381,
-        "listed_at": "2026-10-20T17:20:05.000Z",
-        "days_on_market": "15",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.737341,
-          43.770024
         ]
       }
     },
