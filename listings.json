@@ -88729,6 +88729,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fb13fa0e-3cd5-5099-bc31-350a41748ade",
+        "address": "129-Meadowbrook-Dr-Temple-TX-76502",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1283,
+        "listed_at": "2026-11-04T22:00:06.000Z",
+        "days_on_market": "110",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.419847,
+          31.115985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fb147c9d-ec73-5062-beab-3e4f5fcc25e1",
         "address": "10020-W-Montecito-Ave-Phoenix-AZ-85037",
         "beds": 4,
