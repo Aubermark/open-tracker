@@ -62143,6 +62143,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b2ae85b4-5afe-5f30-934a-6fe741b1d342",
+        "address": "1929 N Orchard St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1527,
+        "listed_at": "2026-11-04T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.774999,
+          36.767998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b2b1cc65-13bc-5356-8ded-6eda462c4446",
         "address": "3-Elsworth-Ct-Mc-Leansville-NC-27301",
         "beds": 4,
