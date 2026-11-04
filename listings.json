@@ -39694,27 +39694,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "71b7da04-b0b7-534f-996c-52916f98bbfd",
-        "address": "10-King-Dr-Carrollton-GA-30116",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1470,
-        "listed_at": "2026-10-29T06:42:21.000Z",
-        "days_on_market": ">255",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.038689,
-          33.611027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "71bedc33-0335-590a-8fe6-73098380df54",
         "address": "437 Shady Ln",
         "beds": 3,
@@ -75478,27 +75457,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d41dd477-0b1d-5e9e-aef9-03c06d0e9ba6",
-        "address": "752-Orchid-Dr-Royal-Palm-Beach-FL-33411",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1372,
-        "listed_at": "2026-10-29T06:42:21.000Z",
-        "days_on_market": "120",
-        "current_price": 400000,
-        "price_label": "$400K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.23221,
-          26.686084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d42b4ee3-4352-5fbc-b95c-9fede4963d5c",
         "address": "1917-Altivo-Dr-Henderson-NV-89074",
         "beds": 4,
@@ -80281,6 +80239,27 @@
         "coordinates": [
           -82.554122,
           28.504521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e20ec43e-e734-5922-a754-1da85ad3af7c",
+        "address": "3102 E McBerry St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1018,
+        "listed_at": "2026-11-04T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 274000,
+        "price_label": "$274K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.425409,
+          27.99328
         ]
       }
     },
