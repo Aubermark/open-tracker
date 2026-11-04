@@ -69703,6 +69703,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c5d3ac1e-205f-5ab2-888c-3aff85131e07",
+        "address": "602 S Lincoln Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1040,
+        "listed_at": "2026-11-04T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.390437,
+          35.955053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c5e2708c-e251-4f73-af76-ba014becda9d",
         "address": "6824-Steiger-Trl-Mc-Kinney-TX-75071",
         "beds": 3,
