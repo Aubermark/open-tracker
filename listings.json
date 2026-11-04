@@ -10672,6 +10672,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1e531a5b-144e-526a-afcb-7bc64d9474db",
+        "address": "3322 Country Club Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1770,
+        "listed_at": "2026-11-04T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.994705,
+          32.692864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1e5f5777-7a6b-5243-b115-2b9bbb968d85",
         "address": "4615-W-Powell-Dr-Phoenix-AZ-85087",
         "beds": 4,
@@ -34522,27 +34543,6 @@
         "coordinates": [
           -80.645959,
           35.026929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6157fe3f-b200-4182-867e-86fdcb5ec7f0",
-        "address": "125-High-Valley-Dr-Liberty-Hill-TX-78642",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2107,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "97",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.903536,
-          30.707293
         ]
       }
     },
@@ -70642,6 +70642,27 @@
         "coordinates": [
           -98.074122,
           29.773778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c81c6313-0bfe-5571-9297-c92dcefee6d7",
+        "address": "5108 Bedford Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2171,
+        "listed_at": "2026-11-04T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.139641,
+          32.663295
         ]
       }
     },
