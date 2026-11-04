@@ -5569,6 +5569,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
+        "address": "4213-Mallard-Dr-Batavia-OH-45103",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1687,
+        "listed_at": "2026-11-04T17:30:06.000Z",
+        "days_on_market": "114",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.134369,
+          39.068269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e9cd4e3-c6ad-57f7-a6fd-a2da3a87640f",
         "address": "35095-Via-Cerro-Vis-Temecula-CA-92592",
         "beds": 3,
@@ -84754,6 +84775,27 @@
         "coordinates": [
           -122.585857,
           45.387235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "eed8fdc3-b6ee-5ed0-9f0e-688366f4a60d",
+        "address": "2602-Emberwood-Dr-Garland-TX-75043",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1934,
+        "listed_at": "2026-11-04T17:30:06.000Z",
+        "days_on_market": "57",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.586403,
+          32.835814
         ]
       }
     },
