@@ -59392,6 +59392,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aa003ba8-26ef-5aee-b884-afab30345411",
+        "address": "3726 Providence Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1730,
+        "listed_at": "2026-11-04T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.160031,
+          29.656127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aa09d97e-2b55-5f64-b8d5-7e324b2a8faa",
         "address": "708 Winding Way Dr",
         "beds": 3,
