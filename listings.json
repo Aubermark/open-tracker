@@ -44398,6 +44398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f7e90d3-8b37-5aeb-9bc0-714dc9c657d1",
+        "address": "34-Ramsgate-Dr-Clayton-NC-27520",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1863,
+        "listed_at": "2026-11-04T14:10:06.000Z",
+        "days_on_market": "37",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.495594,
+          35.562107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f82b71a-67e1-552c-92e7-c9a9473edae8",
         "address": "932-Lincoln-Dr-Circleville-OH-43113",
         "beds": 3,
