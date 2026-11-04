@@ -70648,6 +70648,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c8462cb3-5cb2-5da8-b0ca-52973b363689",
+        "address": "706 E Hargett St",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2047,
+        "listed_at": "2026-11-04T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.627586,
+          35.777734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c8465082-66e0-5258-93f6-02512d4c8ba8",
         "address": "5991 Acton Rd",
         "beds": 4,
