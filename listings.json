@@ -23398,6 +23398,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40dd6ff1-8a8f-5be9-80b8-d9c6a32080f8",
+        "address": "89 Clydesdale Ct NE",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2321,
+        "listed_at": "2026-11-04T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.678844,
+          31.79704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40e93b1b-f4ec-5502-b1c3-7b7dc2e598b9",
         "address": "1405 S Nellis Blvd",
         "beds": 2,
@@ -63271,6 +63292,27 @@
         "coordinates": [
           -98.110191,
           29.698277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b543860a-1834-50ad-8954-708ffcd8a4c2",
+        "address": "3705-Grimes-Martinez-Ct-Murfreesboro-TN-37128",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2180,
+        "listed_at": "2026-11-04T18:30:06.000Z",
+        "days_on_market": "49",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.46802,
+          35.792684
         ]
       }
     },
