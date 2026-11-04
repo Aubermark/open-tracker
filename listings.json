@@ -25960,6 +25960,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "482d6689-3119-5bf2-b0c8-96b1042d0c2e",
+        "address": "367 Mulberry Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1422,
+        "listed_at": "2026-11-04T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 497000,
+        "price_label": "$497K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.068154,
+          39.908041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "482df607-e028-5986-bf2e-4f00435e1ca8",
         "address": "305-Old-Tree-Trce-Roswell-GA-30075",
         "beds": 4,
