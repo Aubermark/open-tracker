@@ -21088,27 +21088,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b99fc48-327f-5b5d-a928-07321de8ffce",
-        "address": "1181-Bouldercrest-Cir-Watkinsville-GA-30677",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1296,
-        "listed_at": "2026-10-01T06:15:30.000Z",
-        "days_on_market": "69",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.442181,
-          33.879208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b9d889c-a3f1-4daf-96d6-a32c59bb0951",
         "address": "13409 Maymount Dr",
         "beds": 5,
@@ -23287,6 +23266,27 @@
         "coordinates": [
           -81.506652,
           41.586217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "40a4d028-431e-5000-8a96-2a8a7571719c",
+        "address": "2400 Tuscan Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2138,
+        "listed_at": "2026-11-04T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.449636,
+          35.647594
         ]
       }
     },
@@ -42508,6 +42508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7a77c9cf-fbb3-5ef1-b2f1-4fd1ccb88424",
+        "address": "1163 Lori Ln E",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1930,
+        "listed_at": "2026-11-04T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.222652,
+          44.854865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7a7925c1-5d91-5419-9316-b81f612de9b2",
         "address": "2216 E Brigadier Dr",
         "beds": 4,
@@ -59701,27 +59722,6 @@
         "coordinates": [
           -78.735452,
           35.890737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "aad26c06-e095-58b4-ad14-68fdb5ce8619",
-        "address": "124-Karla-Cir-Hendersonville-NC-28739",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2094,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "138",
-        "current_price": 449000,
-        "price_label": "$449K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.590672,
-          35.305212
         ]
       }
     },
