@@ -19303,6 +19303,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37232c02-1018-5d7b-bec3-296a539a5855",
+        "address": "940 Mercer Ave",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2448,
+        "listed_at": "2026-11-04T09:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 620000,
+        "price_label": "$620K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.135843,
+          40.048302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "375efef2-0300-5f01-a29a-63913ba6d2b2",
         "address": "4212 Glenlea Commons Dr",
         "beds": 2,
