@@ -34885,6 +34885,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "62574979-7923-5953-8c1c-cf10548ab687",
+        "address": "1305-W-Spencer-St-Plant-City-FL-33563",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1619,
+        "listed_at": "2026-11-05T14:10:07.000Z",
+        "days_on_market": "71",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.136008,
+          28.028888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "625f22df-0d65-5709-987a-661beba3cb8e",
         "address": "2328 Whitney Dr",
         "beds": 3,
