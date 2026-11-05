@@ -86503,6 +86503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f3f6190e-36d5-539e-9ec9-6a981f9443e4",
+        "address": "2958 W Hawanian Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2017,
+        "listed_at": "2026-11-05T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 263000,
+        "price_label": "$263K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.483513,
+          39.588411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f40af29b-f194-5de2-8a4b-124000facf6c",
         "address": "8917 Natures Pond Way",
         "beds": 3,
