@@ -70711,6 +70711,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c951be64-f4d5-559d-bac6-de3a750c391b",
+        "address": "4612-Kenway-Ct-Fort-Worth-TX-76132",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2352,
+        "listed_at": "2026-11-05T20:00:06.000Z",
+        "days_on_market": "111",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.391352,
+          32.67317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c95cc445-2695-52f4-b132-a73bc93ace77",
         "address": "4898 County Road 4132 W",
         "beds": 3,
