@@ -65776,6 +65776,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc293075-74d3-510d-ad91-1594bd402bf4",
+        "address": "3637 SW Bonwold St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1865,
+        "listed_at": "2026-11-05T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.383627,
+          27.237698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc2b9e2e-7676-5dd0-a592-afd6f3d520de",
         "address": "966 Oakland Ave",
         "beds": 3,
