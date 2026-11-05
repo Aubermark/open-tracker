@@ -79468,6 +79468,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "dff7ca16-840d-5d3a-ab38-0ee962d73d25",
+        "address": "6543-Aires-Rd-Jacksonville-FL-32244",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1040,
+        "listed_at": "2026-11-05T18:30:06.000Z",
+        "days_on_market": "107",
+        "current_price": 213000,
+        "price_label": "$213K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.750443,
+          30.246788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e0375e64-54f2-5cf6-a44f-829b889dea88",
         "address": "9004-Parlor-Dr-Ladson-SC-29456",
         "beds": 3,
