@@ -87868,6 +87868,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f7ffe40f-a53c-4dd4-922b-556ecb76db52",
+        "address": "415 Fairfield St NE",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1526,
+        "listed_at": "2026-11-05T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 251000,
+        "price_label": "$251K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.713991,
+          33.566146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f80f89a5-ced2-5ae2-8d3b-f03861fed9c1",
         "address": "12209-Willingdon-Rd-Huntersville-NC-28078",
         "beds": 5,
@@ -88954,6 +88975,27 @@
         "coordinates": [
           -83.914236,
           34.046724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb3892c1-ac03-5c79-8f21-24f4b95735e2",
+        "address": "3017 Panhandle Dr",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3295,
+        "listed_at": "2026-11-05T15:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.437729,
+          32.963687
         ]
       }
     },
