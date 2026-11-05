@@ -40345,6 +40345,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7439298a-ed06-5396-8969-9340c6b79368",
+        "address": "120 Woodlake Ter",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1199,
+        "listed_at": "2026-11-05T13:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.531894,
+          36.77749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "743d6249-a6e1-5f40-ae38-c967721e39e6",
         "address": "3705-Griffith-Rd-Monroe-NC-28112",
         "beds": 3,
