@@ -43222,6 +43222,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7cee931d-1b2a-5ab4-9bfe-059a488a93b9",
+        "address": "881-Vicksburg-St-Deltona-FL-32725",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1302,
+        "listed_at": "2026-11-05T21:30:05.000Z",
+        "days_on_market": "38",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.253293,
+          28.928734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7cef27cf-9292-5037-b253-be51a7bc22ae",
         "address": "1411-Foxbrook-Cir-Lancaster-SC-29720",
         "beds": 4,
@@ -81205,27 +81226,6 @@
         "coordinates": [
           -115.266088,
           36.037755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e58bd63e-17e0-525e-9070-2c7e558d1e4f",
-        "address": "17110-Golf-Club-Dr-Crosby-TX-77532",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1395,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "122",
-        "current_price": 179000,
-        "price_label": "$179K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.090243,
-          29.930889
         ]
       }
     },
