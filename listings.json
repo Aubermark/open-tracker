@@ -74869,6 +74869,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d28bb1f9-3e3c-5214-b744-f82d263a013a",
+        "address": "6008 Forrest Ct",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2609,
+        "listed_at": "2026-11-05T12:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.801657,
+          36.416261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d293aac9-21c8-54d0-9916-b6aeac1b48e5",
         "address": "7740 Sandra Ln",
         "beds": 3,
