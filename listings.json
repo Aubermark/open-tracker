@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06476b6a-5ea7-5226-8f90-795aae298296",
+        "address": "5781 S Netherland St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2271,
+        "listed_at": "2026-11-05T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 486000,
+        "price_label": "$486K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.739574,
+          39.612002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0670b616-1c98-55ba-87f9-15e9b18295a7",
         "address": "14521-N-126th-Ave-El-Mirage-AZ-85335",
         "beds": 3,
@@ -28753,27 +28774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5162a2b6-c444-5811-a5ef-0824c07fc0f3",
-        "address": "237-Hovenden-Ave-Brockton-MA-02302",
-        "beds": 4,
-        "baths": 1.5,
-        "sqft": 1344,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "135",
-        "current_price": 435000,
-        "price_label": "$435K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.008157,
-          42.114823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5184f883-54c0-503c-b013-42fb3c2109ff",
         "address": "45547 Reading Ter",
         "beds": 3,
@@ -33871,27 +33871,6 @@
         "coordinates": [
           -80.853744,
           35.127681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5f97b36c-68bf-58c0-bbbe-bf68a4accb64",
-        "address": "6234-Simien-Rd-Indianapolis-IN-46237",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3236,
-        "listed_at": "2026-10-29T18:10:06.000Z",
-        "days_on_market": "45",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.076999,
-          39.676816
         ]
       }
     },
@@ -76249,6 +76228,27 @@
         "coordinates": [
           -97.48809,
           35.649575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d695ebc2-55a4-5629-9f43-04d6ae8d8d31",
+        "address": "10667 Torrington Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1992,
+        "listed_at": "2026-11-05T16:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 601000,
+        "price_label": "$601K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.950272,
+          39.522719
         ]
       }
     },
