@@ -17140,6 +17140,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30ed1e27-5ea1-5a6a-b4e9-856e78fd6452",
+        "address": "13139 W Ohio Ave",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-11-05T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.145414,
+          39.702248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "310359bf-e143-5d59-a3c1-e7ccbd0475df",
         "address": "16066-Foliage-Ave-W-Lakeville-MN-55068",
         "beds": 3,
