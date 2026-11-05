@@ -30937,6 +30937,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56b2d091-c055-52c6-bce5-cc05b987194c",
+        "address": "3266 Mark Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1364,
+        "listed_at": "2026-11-05T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.163913,
+          43.186937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "56d56de7-10b1-5c2d-8e5b-117a468ec73f",
         "address": "423 Sherwood Ct",
         "beds": 3,
@@ -46981,27 +47002,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "87d5fc40-299b-5a1a-b52c-6d1bcf2d0476",
-        "address": "1-Terrain-Dr-Greenville-SC-29605",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1628,
-        "listed_at": "2026-10-22T06:26:05.000Z",
-        "days_on_market": "209",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.353097,
-          34.742864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "87d7108b-b886-5cf0-b8e0-feb4baac2d2d",
         "address": "10330-Sandbar-Dr-Irving-TX-75063",
         "beds": 4,
@@ -55669,6 +55669,27 @@
         "coordinates": [
           -83.813167,
           35.799459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a1c4ba59-d749-5706-b94d-91fd0f7c7aed",
+        "address": "8643 Goswell Dr",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2530,
+        "listed_at": "2026-11-05T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386414,
+          33.52028
         ]
       }
     },
