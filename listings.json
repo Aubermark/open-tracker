@@ -26128,6 +26128,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "49577b75-52f9-57cd-9b34-b7c24fd5c2da",
+        "address": "2418-Dallas-St-Los-Angeles-CA-90031",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 2117,
+        "listed_at": "2026-11-05T17:50:06.000Z",
+        "days_on_market": "34",
+        "current_price": 1700000,
+        "price_label": "$1.700M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239107,
+          34.094107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "495ab15b-bf4d-5a09-bb28-2f88de82b14b",
         "address": "28309-Village-Lake-Way-Easton-MD-21601",
         "beds": 4,
@@ -88828,6 +88849,27 @@
         "coordinates": [
           -96.437729,
           32.963687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb3c26f2-5787-5566-8667-6ff776bf5224",
+        "address": "1765 Jupiter Ct",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 980,
+        "listed_at": "2026-11-05T17:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 181000,
+        "price_label": "$181K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.128789,
+          36.107764
         ]
       }
     },
