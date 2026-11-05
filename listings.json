@@ -76171,6 +76171,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d649921b-c9b3-5e5e-8145-8d60a23e1347",
+        "address": "1031 Nours Cir",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3161,
+        "listed_at": "2026-11-05T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.911845,
+          33.92085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
         "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
         "beds": 4,
@@ -85174,6 +85195,27 @@
         "coordinates": [
           -83.938413,
           33.823169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "effbf491-8963-56b3-b7c7-ac2b25902bb8",
+        "address": "1510 S Brown Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1734,
+        "listed_at": "2026-11-05T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 338000,
+        "price_label": "$338K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.796792,
+          32.202748
         ]
       }
     },
