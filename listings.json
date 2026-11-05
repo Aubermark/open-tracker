@@ -14242,6 +14242,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2915eb9a-98db-5d55-9b2d-9b3ecb4c3b3f",
+        "address": "125 Saddletree Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-11-05T07:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.442022,
+          36.151712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "291a1980-d583-5d52-8418-dd7ac4dd455c",
         "address": "1418-Moss-St-Gainesville-TX-76240",
         "beds": 3,
