@@ -52903,6 +52903,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99f0f63a-452c-58d4-9657-e29d1cbe029a",
+        "address": "1008-Lynbrook-St-Nw-Palm-Bay-FL-32907",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1144,
+        "listed_at": "2026-11-05T16:20:06.000Z",
+        "days_on_market": "55",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.699065,
+          28.02115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99f4b02a-afdc-51be-9bca-15938ec660e9",
         "address": "8260-Red-Rock-Dr-Sacramento-CA-95829",
         "beds": 4,
