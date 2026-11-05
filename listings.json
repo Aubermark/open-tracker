@@ -16531,6 +16531,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f6818cf-e6bb-515a-99d0-b3bdd23ea3d0",
+        "address": "2658 Foxwood Rd S",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2774,
+        "listed_at": "2026-11-05T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.732316,
+          30.155416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f781093-702f-54a4-9eb8-bae18d34544d",
         "address": "729-Cress-School-Rd-Salisbury-NC-28147",
         "beds": 3,
@@ -44035,6 +44056,27 @@
         "coordinates": [
           -82.241346,
           27.911866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7f41bb8c-d1eb-58b7-ac03-2b2b12cbb6c5",
+        "address": "467 Highlander Way",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1817,
+        "listed_at": "2026-11-05T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.739737,
+          34.020696
         ]
       }
     },
