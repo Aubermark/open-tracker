@@ -23377,6 +23377,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40fd4439-8172-5a03-a24b-27067c359737",
+        "address": "2013 S Whitney Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1701,
+        "listed_at": "2026-11-05T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 405000,
+        "price_label": "$405K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.476534,
+          43.030906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4105a387-9401-5589-a2d7-245201f865f3",
         "address": "424-Jessie-Dr-Nashville-TN-37211",
         "beds": 3,
@@ -57229,6 +57250,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a580f42c-7bcb-5f50-a747-e43efcb228c0",
+        "address": "2352 Yale Ave E",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1635,
+        "listed_at": "2026-11-05T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 805000,
+        "price_label": "$805K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326817,
+          47.64124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a58cf4f2-d32e-5088-a228-f221ef59bccf",
         "address": "1528-Central-Ave-Indianapolis-IN-46202",
         "beds": 3,
@@ -60835,27 +60877,6 @@
         "coordinates": [
           -81.172779,
           33.954238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "af27830f-be5c-5b7d-80ab-a42742194d8b",
-        "address": "821-Glen-Oaks-Blvd-Dallas-TX-75232",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1963,
-        "listed_at": "2026-08-27T05:57:14.000Z",
-        "days_on_market": "92",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.836419,
-          32.675774
         ]
       }
     },
@@ -72259,27 +72280,6 @@
         "coordinates": [
           -111.849255,
           33.383012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ccf9b604-6aa9-5ab6-92dd-7e65cb42d124",
-        "address": "52990-Avenida-Diaz-La-Quinta-CA-92253",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1248,
-        "listed_at": "2026-10-21T20:10:08.000Z",
-        "days_on_market": "56",
-        "current_price": 381000,
-        "price_label": "$381K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.315505,
-          33.663584
         ]
       }
     },
