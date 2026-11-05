@@ -72937,27 +72937,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cf8279a5-2eb2-5b4e-8cf7-ffd2823626ef",
-        "address": "2061 Meadow Peak Rd",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1644,
-        "listed_at": "2026-10-27T23:00:03.000Z",
-        "days_on_market": "9",
-        "current_price": 327000,
-        "price_label": "$327K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.09678,
-          33.98963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cf86e510-1a6a-540d-8318-c52b0c70f8f7",
         "address": "15000 Chesdin Green Way",
         "beds": 4,
@@ -77908,6 +77887,27 @@
         "coordinates": [
           -97.043206,
           33.016329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "db7612d6-7891-5ef2-9657-0c9665fd8045",
+        "address": "1014-Heritage-Dr-Madison-TN-37115",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 999,
+        "listed_at": "2026-11-05T22:50:05.000Z",
+        "days_on_market": "175",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.724078,
+          36.269345
         ]
       }
     },
