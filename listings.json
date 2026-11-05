@@ -13444,6 +13444,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "27399cb6-37dd-541e-a93a-5ecbaa6c50aa",
+        "address": "17818 Minnow Way",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1536,
+        "listed_at": "2026-11-05T19:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 382000,
+        "price_label": "$382K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.188748,
+          39.23316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "273b9297-7fae-5473-8348-6c1bef32038d",
         "address": "917-Hillview-Dr-Cary-NC-27511",
         "beds": 3,
