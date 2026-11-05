@@ -39274,6 +39274,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71204356-12ec-5b71-9e83-97c514cb2e2a",
+        "address": "9815 116th Pl NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1586,
+        "listed_at": "2026-11-05T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1150000,
+        "price_label": "$1.150M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.185039,
+          47.688642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "712154e2-6bd8-5301-a4c2-e8f1ae0f1c53",
         "address": "1309-Winding-Brook-Dr-Garland-TX-75044",
         "beds": 4,
@@ -82843,6 +82864,27 @@
         "coordinates": [
           -82.895749,
           39.915845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ea618f0e-dacd-572c-a6a5-a1e19d4c4b3e",
+        "address": "1597 Piedmont St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1649,
+        "listed_at": "2026-11-05T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 860000,
+        "price_label": "$860K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.989825,
+          32.626312
         ]
       }
     },
