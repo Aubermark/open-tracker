@@ -2188,6 +2188,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05982d39-a0ae-5d2d-9b8f-f166a4b877fd",
+        "address": "1400 W Edgehill Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 801,
+        "listed_at": "2026-11-06T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 276000,
+        "price_label": "$276K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.317436,
+          34.154157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05a71df7-9ea9-5d12-b063-11d927505d6c",
         "address": "3009 Bolla Dr",
         "beds": 3,
@@ -5920,6 +5941,27 @@
         "coordinates": [
           -78.83003,
           35.66099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "103f4341-a38a-5f36-a315-288ac4a5dfd3",
+        "address": "10012 Almond Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2888,
+        "listed_at": "2026-11-06T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 696000,
+        "price_label": "$696K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.668418,
+          35.922065
         ]
       }
     },
