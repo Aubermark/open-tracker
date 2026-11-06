@@ -36061,6 +36061,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6598c4f2-ee64-5659-8403-2ce8bfbb245b",
+        "address": "213 Breeze Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1270,
+        "listed_at": "2026-11-06T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.380792,
+          36.008738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65a13a7e-66e3-5e11-b5a1-77e71e81cbce",
         "address": "1219-Franklin-St-Taylorsville-IN-47280",
         "beds": 2,
@@ -70627,27 +70648,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c9615dbe-20cc-5b63-9f03-a18bec17ec33",
-        "address": "1120-Newnham-Dr-Columbia-SC-29210",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1500,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "56",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.122128,
-          34.064825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c9708d69-4b2d-58fc-ab90-8c848ba6fef2",
         "address": "8129-Rannock-Dr-Stockton-CA-95210",
         "beds": 3,
@@ -79903,6 +79903,27 @@
         "coordinates": [
           -102.391012,
           31.946958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e25b4f11-9eb4-530b-a3e7-416e58139d3f",
+        "address": "19-Delekas-Ave-South-Plainfield-NJ-07080",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1578,
+        "listed_at": "2026-11-06T19:00:06.000Z",
+        "days_on_market": "203",
+        "current_price": 499000,
+        "price_label": "$499K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.429155,
+          40.594242
         ]
       }
     },
