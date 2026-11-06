@@ -55591,27 +55591,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a15ad940-1081-5307-bd4c-3fa7b74f71a2",
-        "address": "5126-Eagle-Nest-Dr-Arlington-TX-76017",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1669,
-        "listed_at": "2026-10-15T19:10:05.000Z",
-        "days_on_market": "56",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.196778,
-          32.66167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a179ca1c-4efe-52a0-b97f-56ae7fdb9fc4",
         "address": "8785-Ellesmere-Dr-Cumming-GA-30041",
         "beds": 7,
@@ -88162,6 +88141,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f875dd92-4b2d-5a9c-9e40-f8fad441680a",
+        "address": "732 Woodhaven Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1354,
+        "listed_at": "2026-11-06T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.318561,
+          28.715114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f887b8f5-f7b5-546a-b45e-94f6aaa68521",
         "address": "324 Silver Fox Way",
         "beds": 5,
@@ -88555,6 +88555,27 @@
         "coordinates": [
           -95.606255,
           32.717185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f99dcb2b-683e-5296-bdf3-a3a0dd975115",
+        "address": "1700 Bismarck Cir",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1887,
+        "listed_at": "2026-11-06T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.586212,
+          34.037723
         ]
       }
     },
