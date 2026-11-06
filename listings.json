@@ -37363,6 +37363,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6974a8ab-a339-5a7d-af65-8b34d47387b5",
+        "address": "173 Roswell Commons Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1761,
+        "listed_at": "2026-11-06T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 370000,
+        "price_label": "$370K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33652,
+          34.039497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "697813d6-a846-535f-b7b6-1d0c125ece0a",
         "address": "6771-Kull-Dr-Lithia-Springs-GA-30122",
         "beds": 4,
@@ -59077,6 +59098,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a990b381-9ff6-5ffe-835f-35bd5ee2128c",
+        "address": "1700 Polo Oaks Ct",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1473,
+        "listed_at": "2026-11-06T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.298236,
+          36.131134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a9a0f019-cde1-5775-af53-fd6e5f7fa007",
         "address": "7518 E 29th St",
         "beds": 2,
@@ -63124,27 +63166,6 @@
         "coordinates": [
           -97.443486,
           31.100669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b581ce01-0d35-54f6-8c1f-926ef33cfb49",
-        "address": "545-Spruce-Ct-Palmdale-CA-93550",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1229,
-        "listed_at": "2026-10-29T06:42:18.000Z",
-        "days_on_market": "35",
-        "current_price": 440000,
-        "price_label": "$440K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.118393,
-          34.562775
         ]
       }
     },
