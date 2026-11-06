@@ -6682,6 +6682,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1227a964-ea64-59cc-9708-8164ff4378d8",
+        "address": "572-11th-Ave-Nw-New-Brighton-MN-55112",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1584,
+        "listed_at": "2026-11-06T15:20:06.000Z",
+        "days_on_market": "57",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.202278,
+          45.058771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "122b68f5-57cd-5912-9313-39dbed779c04",
         "address": "5083 Sagelyn St",
         "beds": 4,
@@ -10603,27 +10624,6 @@
         "coordinates": [
           -123.181601,
           45.231614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "1ea85242-e696-5209-bdff-ed5c5e48cb18",
-        "address": "141-Chessher-Ct-Crestview-FL-32539",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1682,
-        "listed_at": "2026-10-29T18:20:06.000Z",
-        "days_on_market": "77",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.556572,
-          30.766727
         ]
       }
     },
