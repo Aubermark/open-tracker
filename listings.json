@@ -72307,6 +72307,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd395480-0e90-5b2b-aa77-86ec55fba062",
+        "address": "5240-Janfred-Ct-Unit-1-Las-Vegas-NV-89103",
+        "beds": 1,
+        "baths": 1.5,
+        "sqft": 771,
+        "listed_at": "2026-11-06T23:10:06.000Z",
+        "days_on_market": "70",
+        "current_price": 150000,
+        "price_label": "$150K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.21284,
+          36.107547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd41c36b-3091-5388-8dd9-a6877b3c1d31",
         "address": "804-Thomas-Bay-Ct-Antioch-TN-37013",
         "beds": 3,
@@ -75997,27 +76018,6 @@
         "coordinates": [
           -122.27586,
           45.394042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d641d0ce-5d49-5950-93f9-4fc261db6803",
-        "address": "4519-S-Ridgewalk-Dr-Houston-TX-77053",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2058,
-        "listed_at": "2026-11-05T22:40:05.000Z",
-        "days_on_market": "81",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.452576,
-          29.581477
         ]
       }
     },
