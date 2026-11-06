@@ -13465,6 +13465,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "272f1fd2-95a9-5714-8210-24e6213882ad",
+        "address": "29309 Links",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 2854,
+        "listed_at": "2026-11-06T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 665000,
+        "price_label": "$665K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.303592,
+          33.648969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "27399cb6-37dd-541e-a93a-5ecbaa6c50aa",
         "address": "17818 Minnow Way",
         "beds": 4,
@@ -72658,6 +72679,27 @@
         "coordinates": [
           -88.10009,
           41.522651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ce523511-e4ea-5ce8-97ff-319f46a7a825",
+        "address": "2535-Fayette-Dr-New-Braunfels-TX-78130",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1734,
+        "listed_at": "2026-11-06T16:10:06.000Z",
+        "days_on_market": "99",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.106952,
+          29.662654
         ]
       }
     },
