@@ -6703,6 +6703,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "12033fa6-5696-5d04-ad72-38e25d3cfbea",
+        "address": "9617 Courtright Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2746,
+        "listed_at": "2026-11-06T20:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 446000,
+        "price_label": "$446K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.303508,
+          32.914779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1203a48e-ee0b-5b4d-b80c-a24b847af12a",
         "address": "2006 Overhill Dr",
         "beds": 3,
@@ -89143,27 +89164,6 @@
         "coordinates": [
           -115.149204,
           36.286302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fb609388-b18f-5303-b9a5-452b48e46915",
-        "address": "7850-Beech-Forest-Rd-Lewisville-NC-27023",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2897,
-        "listed_at": "2026-10-29T06:42:21.000Z",
-        "days_on_market": "115",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.428206,
-          36.119578
         ]
       }
     },
