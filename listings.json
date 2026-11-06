@@ -50131,6 +50131,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "91b71ba3-19de-5c09-b54b-281a394f8716",
+        "address": "700 Lake Crest Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2685,
+        "listed_at": "2026-11-06T23:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.860411,
+          33.360971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "91cb1c52-2dcc-536a-8e6c-202a0194ba86",
         "address": "2831-Red-Oak-Dr-Grand-Prairie-TX-75052",
         "beds": 4,
