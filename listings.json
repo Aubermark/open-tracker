@@ -56788,6 +56788,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a454b69d-281d-4b29-b5b5-77ee45e54a7b",
+        "address": "122 Ellie Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1475,
+        "listed_at": "2026-11-06T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.298513,
+          32.041085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a45dc6ad-c33e-52d3-8d9b-fe4c860b2c17",
         "address": "1101-E-Morehead-St-Apt-33-Charlotte-NC-28204",
         "beds": 2,
