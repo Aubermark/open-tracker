@@ -2671,6 +2671,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
+        "address": "123-King-Richard-Dr-Griffin-GA-30223",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1971,
+        "listed_at": "2026-11-06T22:10:05.000Z",
+        "days_on_market": ">257",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.320867,
+          33.28518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0725fc2e-cd2b-5f2e-a749-aa32dff6d74d",
         "address": "31351-Cannon-Rush-Dr-San-Antonio-FL-33576",
         "beds": 2,
