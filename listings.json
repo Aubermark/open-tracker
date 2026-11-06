@@ -38308,27 +38308,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6d581ccc-ea22-5907-95bf-3c3cf39aa52e",
-        "address": "7791-Newhaven-Dr-Oak-Ridge-NC-27310",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 4181,
-        "listed_at": "2026-10-06T22:10:06.000Z",
-        "days_on_market": "151",
-        "current_price": 720000,
-        "price_label": "$720K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.968255,
-          36.177815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6d84dd0d-0e14-5ae7-a6f8-2289b1391b30",
         "address": "613-W-Hulett-St-Edgerton-KS-66021",
         "beds": 3,
@@ -77278,6 +77257,27 @@
         "coordinates": [
           -82.816608,
           39.849203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9b506f5-007b-5dec-ab8e-c867c950dad1",
+        "address": "7957-Jacques-Dr-Jacksonville-FL-32210",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1158,
+        "listed_at": "2026-11-06T23:50:06.000Z",
+        "days_on_market": "135",
+        "current_price": 226000,
+        "price_label": "$226K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.780275,
+          30.273093
         ]
       }
     },
