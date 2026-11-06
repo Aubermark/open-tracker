@@ -39652,6 +39652,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71f255bb-7944-5737-8bf5-a0fb111201b2",
+        "address": "15201 Dartford Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1603,
+        "listed_at": "2026-11-06T21:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.655086,
+          35.143004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7205259c-bb4a-583e-bcf5-a8a9fd17bafe",
         "address": "10543-Crabtree-Dr-Jonesboro-GA-30238",
         "beds": 3,
