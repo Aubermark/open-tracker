@@ -3301,6 +3301,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08561efe-0977-5ffe-80c5-48cfa2b26a48",
+        "address": "1428 Archers Cove Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2175,
+        "listed_at": "2026-11-06T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.494624,
+          33.77504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "085853d8-3f60-5dcf-9e33-f6581e8ad849",
         "address": "1898 S 160th Ln",
         "beds": 3,
@@ -37846,6 +37867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6b4488ad-be50-5ff3-baf4-4f14ff8156ef",
+        "address": "24 Wayne Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1512,
+        "listed_at": "2026-11-06T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.525917,
+          41.034744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6b520957-8bc8-55cb-8d40-03ce997fea35",
         "address": "1610-Battery-Creek-Rd-Beaufort-SC-29902",
         "beds": 3,
@@ -40738,6 +40780,27 @@
         "coordinates": [
           -84.399413,
           34.122325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7537026e-e30a-512e-8a93-709d6e3ffb88",
+        "address": "3706 E North St",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 844,
+        "listed_at": "2026-11-06T19:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 130000,
+        "price_label": "$130K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32785,
+          34.87295
         ]
       }
     },
@@ -64279,6 +64342,27 @@
         "coordinates": [
           -80.698677,
           35.08038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b86d85be-dd6d-5f04-a9cb-ef509e9c779b",
+        "address": "1607-N-17th-St-Belleville-IL-62226",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1649,
+        "listed_at": "2026-11-06T19:10:07.000Z",
+        "days_on_market": "164",
+        "current_price": 149000,
+        "price_label": "$149K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.002209,
+          38.53545
         ]
       }
     },
