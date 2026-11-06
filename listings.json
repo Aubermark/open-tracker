@@ -7354,6 +7354,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13f86a68-cc10-58da-a0ee-413767781581",
+        "address": "2945 Sapphire Shores St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2697,
+        "listed_at": "2026-11-06T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 612000,
+        "price_label": "$612K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.272493,
+          36.136017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13fa07ff-55b1-58a6-beba-0f21726757ad",
         "address": "1422-Oakmont-Dr-Roseville-CA-95661",
         "beds": 5,
@@ -7747,6 +7768,27 @@
         "coordinates": [
           -98.692935,
           29.393044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "150b6f83-24a2-5045-b500-b318fa20eab0",
+        "address": "3 Emerald Trail Pl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1350,
+        "listed_at": "2026-11-06T15:40:06.000Z",
+        "days_on_market": "16",
+        "current_price": 185000,
+        "price_label": "$185K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.004503,
+          29.081026
         ]
       }
     },
@@ -41263,27 +41305,6 @@
         "coordinates": [
           -122.470234,
           45.494447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "775565cd-1fc2-50c4-916c-9389765d6b49",
-        "address": "1066-Rabon-Pond-Dr-Columbia-SC-29223",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1680,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "123",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.928894,
-          34.098823
         ]
       }
     },
