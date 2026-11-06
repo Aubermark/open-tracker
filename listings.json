@@ -2755,27 +2755,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0755ab05-6c0f-50f3-b440-6d17999eed0c",
-        "address": "1920 Pikes Peak Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1440,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "29",
-        "current_price": 429000,
-        "price_label": "$429K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.163228,
-          38.844762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "075bd63e-250b-562e-9722-c4ca83204bd2",
         "address": "5591-Coventry-Dr-Prosper-TX-75078",
         "beds": 3,
@@ -77698,6 +77677,27 @@
         "coordinates": [
           -84.016018,
           33.593136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "da5f2985-f01a-5451-95b0-9908dfd3fbe4",
+        "address": "120-White-St-Hopkinsville-KY-42240",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1067,
+        "listed_at": "2026-11-06T15:50:05.000Z",
+        "days_on_market": "123",
+        "current_price": 148000,
+        "price_label": "$148K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51209,
+          36.849933
         ]
       }
     },
