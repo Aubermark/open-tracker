@@ -52021,6 +52021,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "974c36af-8b85-5973-9e95-932cbf90c341",
+        "address": "313 Piedmont Pl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3342,
+        "listed_at": "2026-11-06T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 481000,
+        "price_label": "$481K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.221649,
+          36.57113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9753e9e2-dd32-526f-a45a-5ac3f856ab99",
         "address": "1452-Kingston-Hwy-Kingston-TN-37763",
         "beds": 3,
@@ -52036,6 +52057,27 @@
         "coordinates": [
           -84.49356,
           35.864227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "975d472f-a1d6-54e2-b169-61cfdbeeec98",
+        "address": "3011-Poplar-Isle-Missouri-City-TX-77459",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2812,
+        "listed_at": "2026-11-06T20:20:07.000Z",
+        "days_on_market": "94",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.537918,
+          29.492548
         ]
       }
     },
