@@ -75961,6 +75961,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5cfe1ca-368a-59b4-a73c-f10c59f9eb2c",
+        "address": "3574 E Magnus Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2174,
+        "listed_at": "2026-11-06T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.527412,
+          33.245425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d5e1a619-d80d-5598-9f0d-730e1e7d156b",
         "address": "830-Dunbar-Ter-Winter-Springs-FL-32708",
         "beds": 3,
