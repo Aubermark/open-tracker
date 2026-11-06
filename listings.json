@@ -27514,6 +27514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4d045672-7168-5fe4-9526-886274686c63",
+        "address": "13035 Yosemite Ave S",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2934,
+        "listed_at": "2026-11-06T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.352885,
+          44.76856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4d04a646-dccd-53f5-a844-74a8a3afc199",
         "address": "15830 Hilltop Dr",
         "beds": 4,
