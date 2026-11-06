@@ -2419,6 +2419,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0666d034-f1f0-5498-8286-bdf2d3508590",
+        "address": "2317 Sweetbriar Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2127,
+        "listed_at": "2026-11-06T22:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.599809,
+          32.797461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0670b616-1c98-55ba-87f9-15e9b18295a7",
         "address": "14521-N-126th-Ave-El-Mirage-AZ-85335",
         "beds": 3,
@@ -25939,27 +25960,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4847edd1-d315-51dd-8998-4fb9e893be4d",
-        "address": "28-11th-St-Greer-SC-29651",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1144,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "60",
-        "current_price": 209000,
-        "price_label": "$209K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.215142,
-          34.93448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "484baf2e-9e4b-54e1-9916-00a214da6225",
         "address": "11945-Globe-St-Orlando-FL-32832",
         "beds": 3,
@@ -41221,6 +41221,27 @@
         "coordinates": [
           -98.256438,
           29.59345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "76cfdceb-1267-5b88-84f7-8b2310bd6383",
+        "address": "223 Laverne Dr SW",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1305,
+        "listed_at": "2026-11-06T22:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.587566,
+          35.36452
         ]
       }
     },
