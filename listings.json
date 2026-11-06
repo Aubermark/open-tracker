@@ -74974,27 +74974,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d33f80e8-97e4-5093-9fd4-8aac17a69765",
-        "address": "3546-Eastern-Branch-Rd-Raleigh-NC-27610",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1924,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "123",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.587742,
-          35.751418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d3446438-4939-5323-905b-d17b6097dba2",
         "address": "14629 Glen Valley Ct",
         "beds": 3,
@@ -86833,6 +86812,27 @@
         "coordinates": [
           -97.162618,
           32.722925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f47d5a30-bc64-51b5-9d96-112b07027879",
+        "address": "1509 Marguerite Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1446,
+        "listed_at": "2026-11-06T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81645,
+          33.66494
         ]
       }
     },
