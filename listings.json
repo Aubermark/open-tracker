@@ -48661,6 +48661,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d1cf2f5-3fad-5fc6-9743-2128e637b2e4",
+        "address": "4360-Nw-12th-Dr-Deerfield-Beach-FL-33064",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-11-06T23:00:05.000Z",
+        "days_on_market": "79",
+        "current_price": 343000,
+        "price_label": "$343K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.138999,
+          26.284418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d265dde-55a3-560d-ad8c-c5f84b4fdec6",
         "address": "10539-Georgetown-Dr-Rancho-Cordova-CA-95670",
         "beds": 4,
@@ -71614,27 +71635,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "cbb45e79-4b73-5e99-a789-470c6b44d877",
-        "address": "18715-Libby-Rd-Maple-Heights-OH-44137",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1596,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "249",
-        "current_price": 165000,
-        "price_label": "$165K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.548407,
-          41.417271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "cbb7bb91-9dbc-506e-a3cb-0453049cd2d4",
         "address": "3536 E Milky Way",
         "beds": 4,
@@ -80575,27 +80575,6 @@
         "coordinates": [
           -93.025755,
           44.998547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e3f640a0-2ad7-5fd2-9ffa-4d03612fd7d3",
-        "address": "4449-Hollyhock-St-Fort-Collins-CO-80526",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1256,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "74",
-        "current_price": 485000,
-        "price_label": "$485K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.094068,
-          40.5254
         ]
       }
     },
@@ -89752,27 +89731,6 @@
         "coordinates": [
           -97.995775,
           29.533957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fdb22b3c-01a8-50b8-9847-f819605c8d34",
-        "address": "612-Sugar-Brook-Dr-Temple-TX-76502",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2434,
-        "listed_at": "2026-10-05T21:20:05.000Z",
-        "days_on_market": "165",
-        "current_price": 255000,
-        "price_label": "$255K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.446635,
-          31.127714
         ]
       }
     },
