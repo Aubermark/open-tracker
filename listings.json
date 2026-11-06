@@ -48556,27 +48556,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8cec3c14-ac7b-5b56-bc49-5ae3943e27a7",
-        "address": "434-Indian-Lake-Ct-Hiram-GA-30141",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1676,
-        "listed_at": "2026-09-19T06:15:44.000Z",
-        "days_on_market": "49",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.755311,
-          33.904431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8cee119f-6510-574f-9c49-658d96069dc9",
         "address": "10832 Frost Pl",
         "beds": 4,
@@ -85321,6 +85300,27 @@
         "coordinates": [
           -96.804497,
           32.735211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f008bcaa-0f61-555d-b706-2e889803c35b",
+        "address": "139 Green Heron Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2176,
+        "listed_at": "2026-11-06T16:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.055996,
+          29.149144
         ]
       }
     },
