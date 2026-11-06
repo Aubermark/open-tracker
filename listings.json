@@ -8488,27 +8488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "17385e34-16b0-56a0-b693-b0090c88b502",
-        "address": "1039-Aguilera-Ct-Las-Cruces-NM-88007",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1360,
-        "listed_at": "2026-10-29T17:10:07.000Z",
-        "days_on_market": "53",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.7931,
-          32.335932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "17533edb-2b5d-59ed-b199-a94027220579",
         "address": "1100 Lonsdale Blvd E",
         "beds": 5,
@@ -50083,6 +50062,27 @@
         "coordinates": [
           -77.106382,
           35.065629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "915f6f7a-dbf8-5808-b79f-2b2b4c054863",
+        "address": "9646 Mediator Pass",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1886,
+        "listed_at": "2026-11-06T20:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.297398,
+          29.519079
         ]
       }
     },
