@@ -38035,6 +38035,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c2d637a-3fa2-5880-989f-bb2606dd4167",
+        "address": "7904 Saddlehorn Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1279,
+        "listed_at": "2026-11-07T18:00:06.000Z",
+        "days_on_market": "22",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.526071,
+          38.784696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c42cf69-ef47-4f35-976b-fadae71eb066",
         "address": "4373-River-Beacon-Blvd-Davenport-FL-33837",
         "beds": 6,
