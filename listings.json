@@ -90010,6 +90010,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fe902e6c-5049-5ed5-a4ca-5ef6c5de1a43",
+        "address": "1778-Cheryl-Ave-Griffin-GA-30224",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1960,
+        "listed_at": "2026-11-07T13:20:06.000Z",
+        "days_on_market": "105",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309954,
+          33.223878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fe92e348-a635-5705-b832-dc12052e4f8e",
         "address": "14021-Pinyon-Pine-Ln-Charlotte-NC-28215",
         "beds": 4,
