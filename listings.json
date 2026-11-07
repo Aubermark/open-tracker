@@ -28963,6 +28963,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "51efb7d4-978b-53f0-b210-8fe69e28ffe9",
+        "address": "434-Pine-Tree-Dr-Dawsonville-GA-30534",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2227,
+        "listed_at": "2026-11-07T15:40:05.000Z",
+        "days_on_market": "46",
+        "current_price": 383000,
+        "price_label": "$383K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.123043,
+          34.509237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "51f14c0e-464f-4748-8f51-d285d0ac6a0c",
         "address": "2224-Red-Sun-St-Apopka-FL-32703",
         "beds": 3,
@@ -43195,27 +43216,6 @@
         "coordinates": [
           -84.342325,
           33.726241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7cea07ab-db3e-5382-b63e-bb481a5b1ff1",
-        "address": "811-Leecrest-St-Nw-Massillon-OH-44646",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2169,
-        "listed_at": "2026-09-10T16:50:03.000Z",
-        "days_on_market": "58",
-        "current_price": 236000,
-        "price_label": "$236K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.513458,
-          40.826149
         ]
       }
     },
