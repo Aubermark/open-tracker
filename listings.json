@@ -2461,6 +2461,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "067bfb34-b7a9-52aa-b9e0-070dc9a7a720",
+        "address": "2023 Baythorne Rd",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3366,
+        "listed_at": "2026-11-07T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 622000,
+        "price_label": "$622K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618575,
+          38.542636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "069b1d28-328e-53fb-8a1f-e37a2c134171",
         "address": "4203 Old Cahaba Pkwy",
         "beds": 4,
