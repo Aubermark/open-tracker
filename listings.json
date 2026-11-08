@@ -64348,6 +64348,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b9cfd258-d7ee-5518-9b68-2b4505b2b5a2",
+        "address": "9877 SW 57th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1755,
+        "listed_at": "2026-11-08T18:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.214252,
+          29.079334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b9cff2ee-d789-53b8-bd19-21381a42110f",
         "address": "12312-Chesley-Dr-Charlotte-NC-28277",
         "beds": 4,
