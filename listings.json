@@ -14473,6 +14473,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2a82cc48-b6e4-5283-b043-973fb643b746",
+        "address": "104-Rocktree-Ct-Fuquay-Varina-NC-27526",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2355,
+        "listed_at": "2026-11-08T22:10:06.000Z",
+        "days_on_market": "73",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.787433,
+          35.558382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2a89cb44-52c0-5a7a-baeb-9e9ff7dddd74",
         "address": "61-Eastridge-Rd-Fayetteville-TN-37334",
         "beds": 4,
