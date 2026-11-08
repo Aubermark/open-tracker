@@ -31525,6 +31525,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5952bcf4-c049-5271-a208-ae675c8fe719",
+        "address": "226 Cumquat Rd NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1621,
+        "listed_at": "2026-11-08T20:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.397152,
+          27.272418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5959f5df-0469-58d9-82ca-87eeb0ca8b70",
         "address": "4901 Gallier Dr",
         "beds": 3,
@@ -85405,27 +85426,6 @@
         "coordinates": [
           -78.938639,
           35.008896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f320a5ea-5575-5dae-9a88-4c9e06fb4922",
-        "address": "25660-W-Elwood-St-Buckeye-AZ-85326",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2314,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "94",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.603011,
-          33.413213
         ]
       }
     },
