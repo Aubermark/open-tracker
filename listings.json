@@ -32239,27 +32239,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5c047a57-0cba-5403-93b6-fe20eb9e9d8b",
-        "address": "1321-W-Matthews-Dr-San-Tan-Valley-AZ-85143",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1325,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "124",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.581076,
-          33.202914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5c10db61-ab4d-4e54-8017-4759af75a797",
         "address": "7794-Desert-Wrangler-Dr-Colorado-Springs-CO-80908",
         "beds": 4,
@@ -68185,6 +68164,27 @@
         "coordinates": [
           -81.718866,
           30.315215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3f79ddb-7c1a-566f-8732-c65ffa145d36",
+        "address": "4252 E Sylvane Dr",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1012,
+        "listed_at": "2026-11-08T17:50:06.000Z",
+        "days_on_market": "20",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.901832,
+          32.201064
         ]
       }
     },
