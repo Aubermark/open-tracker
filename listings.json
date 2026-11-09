@@ -20500,27 +20500,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b4fa2ea-7efa-55f4-a5b0-e57e1b3fb679",
-        "address": "120-Prestwick-Grande-Dr-Daytona-Beach-FL-32124",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1714,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "62",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.096674,
-          29.171826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b538993-a1c7-5cb2-a6c9-baa6c2cf1455",
         "address": "1131-Langston-Dr-Greensboro-NC-27405",
         "beds": 3,
@@ -82906,6 +82885,27 @@
         "coordinates": [
           -115.314922,
           36.140158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ecdea558-37ab-5165-9ae2-458ad69a4de8",
+        "address": "673 Blackstone St",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2595,
+        "listed_at": "2026-11-09T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 520000,
+        "price_label": "$520K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.738708,
+          28.588104
         ]
       }
     },
