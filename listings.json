@@ -22054,27 +22054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3f5fd0b4-1808-59a9-b3e6-9281d638780c",
-        "address": "5491-S-Cranberry-Blvd-North-Port-FL-34286",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2090,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "39",
-        "current_price": 366000,
-        "price_label": "$366K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.201254,
-          27.038461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3f6516ba-cdac-5d42-9c6f-dcdbff94785c",
         "address": "8460-Orchard-Creek-Way-Elk-Grove-CA-95624",
         "beds": 3,
@@ -52771,6 +52750,27 @@
         "coordinates": [
           -95.614148,
           30.366798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9b8061a0-7d25-496c-b73a-7dce755f40df",
+        "address": "136 Alligator Crk",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1033,
+        "listed_at": "2026-11-09T16:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 155000,
+        "price_label": "$155K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.969754,
+          29.700997
         ]
       }
     },
