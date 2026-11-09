@@ -9958,27 +9958,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1cff99ea-7796-531d-a119-92e6582f2c2a",
-        "address": "8433-Upland-Ln-N-Maple-Grove-MN-55311",
-        "beds": 6,
-        "baths": 4,
-        "sqft": 3699,
-        "listed_at": "2026-10-23T13:40:04.000Z",
-        "days_on_market": "236",
-        "current_price": 559000,
-        "price_label": "$559K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.481237,
-          45.107795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1d1175bc-5483-58c3-afbd-88c72a7ac670",
         "address": "11-Oxford-Dr-Angier-NC-27501",
         "beds": 3,
@@ -21508,6 +21487,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3e512804-0ee6-56a1-9d60-87910e997455",
+        "address": "1415 Faith Meadows Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1695,
+        "listed_at": "2026-11-09T22:40:06.000Z",
+        "days_on_market": "31",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.779373,
+          35.647239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3e7095bb-b905-5476-85ea-95165254fa97",
         "address": "1618-Woodcrest-Ln-Carrollton-TX-75006",
         "beds": 3,
@@ -31960,6 +31960,27 @@
         "coordinates": [
           -84.803711,
           35.040752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5c047a57-0cba-5403-93b6-fe20eb9e9d8b",
+        "address": "1321-W-Matthews-Dr-San-Tan-Valley-AZ-85143",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1325,
+        "listed_at": "2026-11-09T22:40:06.000Z",
+        "days_on_market": "125",
+        "current_price": 292000,
+        "price_label": "$292K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.581076,
+          33.202914
         ]
       }
     },
