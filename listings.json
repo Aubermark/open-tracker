@@ -3238,27 +3238,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "083cca21-0c56-5bd8-82cc-4369c97ba309",
-        "address": "856-Glenway-Dr-Atlanta-GA-30344",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1205,
-        "listed_at": "2026-11-03T07:05:58.000Z",
-        "days_on_market": "112",
-        "current_price": 176000,
-        "price_label": "$176K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.417137,
-          33.682495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "084a92cb-c21e-55a2-bbb3-d1069404018b",
         "address": "1836-Heritage-Pass-Alpharetta-GA-30004",
         "beds": 5,
@@ -30616,6 +30595,27 @@
         "coordinates": [
           -77.688123,
           37.457823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "57051db9-7c93-5570-97e2-e2705fa52db4",
+        "address": "4821 Highland Trace Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2700,
+        "listed_at": "2026-11-09T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 259000,
+        "price_label": "$259K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66362,
+          33.655056
         ]
       }
     },
