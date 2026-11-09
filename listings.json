@@ -1201,6 +1201,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "02997f13-adbe-52fa-b8ae-63f58963e311",
+        "address": "7423 Nolton Way",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1462,
+        "listed_at": "2026-11-09T17:00:07.000Z",
+        "days_on_market": "10",
+        "current_price": 328000,
+        "price_label": "$328K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.286223,
+          28.526906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "029d943a-7fde-4826-ab4a-913dfcf3682b",
         "address": "17645-W-Hale-Bopp-Dr-Goodyear-AZ-85338",
         "beds": 6,
@@ -65602,6 +65623,27 @@
         "coordinates": [
           -82.262017,
           34.902884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bdb50a9b-36c8-53ca-9f93-9e8f82ccbeaf",
+        "address": "600 McNeill Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1640,
+        "listed_at": "2026-11-09T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.376583,
+          32.863776
         ]
       }
     },
