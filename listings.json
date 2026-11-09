@@ -29530,27 +29530,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5441ef52-f2d4-5a53-a6b0-2ed96b2cf0e8",
-        "address": "12634-Old-Pond-Rd-Noblesville-IN-46060",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2426,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "47",
-        "current_price": 334000,
-        "price_label": "$334K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.940839,
-          40.013436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5442cdcd-9300-5b32-9989-7b79e5e42d0b",
         "address": "1923-Lakewood-Ct-Chatham-IL-62629",
         "beds": 5,
@@ -49600,6 +49579,27 @@
         "coordinates": [
           -80.23911,
           26.668667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "92cf8f74-5f11-526c-9173-12426316de33",
+        "address": "11200 Stark Rd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2005,
+        "listed_at": "2026-11-09T20:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38152,
+          42.366395
         ]
       }
     },
