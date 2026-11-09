@@ -37762,6 +37762,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6d34f216-0928-5049-8acf-662f3093da4e",
+        "address": "1920 NW 107th Ter",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2369,
+        "listed_at": "2026-11-09T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.269368,
+          26.25483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6d84dd0d-0e14-5ae7-a6f8-2289b1391b30",
         "address": "613-W-Hulett-St-Edgerton-KS-66021",
         "beds": 3,
@@ -61528,27 +61549,6 @@
         "coordinates": [
           -117.897995,
           34.147379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b308cec8-352e-59dd-af42-f7fc1e7750c5",
-        "address": "1621 S Bristol Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1250,
-        "listed_at": "2026-10-29T06:42:18.000Z",
-        "days_on_market": "32",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.93116,
-          32.202358
         ]
       }
     },
