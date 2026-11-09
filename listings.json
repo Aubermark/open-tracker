@@ -13045,6 +13045,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "26b61293-563d-5345-825c-2eea42d990d3",
+        "address": "112 Elmora Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1580,
+        "listed_at": "2026-11-09T22:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.011813,
+          32.975933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "26b9ae83-db67-5f2e-9136-3cf1c07e5304",
         "address": "1401-Grey-Owl-Cir-Roseville-CA-95661",
         "beds": 5,
