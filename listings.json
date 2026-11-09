@@ -5065,6 +5065,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0de2df58-8758-5a0d-b29c-8250ba742b2f",
+        "address": "1808 Dayton Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 931,
+        "listed_at": "2026-11-09T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 160000,
+        "price_label": "$160K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.090746,
+          39.743874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0dea7cb2-bbe0-5e77-880d-148f1c240ffe",
         "address": "6516 Stoney Creek Dr",
         "beds": 4,
@@ -78391,6 +78412,27 @@
         "coordinates": [
           -84.816666,
           35.148681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "dfa32780-1dea-530c-b95c-9ab7ce6267b9",
+        "address": "11112 Avenida De Los Lobos",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1810,
+        "listed_at": "2026-11-09T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1190000,
+        "price_label": "$1.190M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.093659,
+          32.999748
         ]
       }
     },
