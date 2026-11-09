@@ -61849,6 +61849,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b3babca6-88c1-52aa-9b6e-537c349e341e",
+        "address": "3124 Weston Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1132,
+        "listed_at": "2026-11-09T21:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 201000,
+        "price_label": "$201K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20551,
+          35.221013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b3befe5c-a7de-56a2-91e5-1d08e468740c",
         "address": "2437-Lynn-Rd-Se-Rio-Rancho-NM-87124",
         "beds": 3,
@@ -82528,6 +82549,27 @@
         "coordinates": [
           -117.004869,
           33.716504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec4bb738-632d-48cd-8664-f7ffc33c2615",
+        "address": "4801 David Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1277,
+        "listed_at": "2026-11-09T21:40:06.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.550232,
+          27.375997
         ]
       }
     },
