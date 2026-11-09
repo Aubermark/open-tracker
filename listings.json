@@ -83227,6 +83227,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ee63c9a3-a3a4-5d08-9922-dc3119746e4d",
+        "address": "6416 Brack Penny Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1366,
+        "listed_at": "2026-11-09T12:50:07.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.612812,
+          35.604535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ee70b52c-b0b7-5fbd-9d82-9172a6277543",
         "address": "5474-Alamo-Dr-Winston-Salem-NC-27104",
         "beds": 4,
