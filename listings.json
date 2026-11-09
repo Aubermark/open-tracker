@@ -48220,6 +48220,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8dc4aed8-67bb-5a4f-96c7-17c7bf9ffe01",
+        "address": "525 Woodlock Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1560,
+        "listed_at": "2026-11-09T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.878582,
+          34.157751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8dc95e17-2a2f-54ff-99cb-4b0b376fd64a",
         "address": "9920-Pikes-Peak-Pl-Oak-Point-TX-75068",
         "beds": 4,
