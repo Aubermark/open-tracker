@@ -75415,6 +75415,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d78b6e62-6bcf-55a2-9611-683a9bc39155",
+        "address": "5108-Lady-Of-The-Lake-Dr-Raleigh-NC-27612",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2360,
+        "listed_at": "2026-11-09T14:20:07.000Z",
+        "days_on_market": "73",
+        "current_price": 391000,
+        "price_label": "$391K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.721663,
+          35.858505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d7b7b81a-828b-5da1-919a-175e4e8082a2",
         "address": "2114-Nw-55th-St-Lawton-OK-73505",
         "beds": 3,
