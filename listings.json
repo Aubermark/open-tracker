@@ -3511,6 +3511,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "09033c5f-a824-59ed-bcba-67b37bd4b206",
+        "address": "818 Urton Woods Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 4077,
+        "listed_at": "2026-11-09T17:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 560000,
+        "price_label": "$560K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.520785,
+          38.231603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0905308d-3015-5d9f-946f-8a3cb663cf72",
         "address": "22906-Sherioaks-Ln-Spring-TX-77389",
         "beds": 3,
@@ -69403,6 +69424,27 @@
         "coordinates": [
           -112.418149,
           33.454862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c80a2e71-bf83-56bb-acc2-ad4741e776e0",
+        "address": "6160 Cedar Springs Rd",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3275,
+        "listed_at": "2026-11-09T17:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.607563,
+          37.405382
         ]
       }
     },
