@@ -6325,6 +6325,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1130b79e-4e69-573e-9f3a-258a2ec8345e",
+        "address": "10200 W 53rd Ter",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1308,
+        "listed_at": "2026-11-09T19:30:06.000Z",
+        "days_on_market": "3",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.704291,
+          39.032364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "11536661-5085-5114-b904-92004b293362",
         "address": "207-Seneca-Forest-Ct-Nashville-TN-37217",
         "beds": 3,
@@ -13921,27 +13942,6 @@
         "coordinates": [
           -97.129721,
           33.612632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "292004f6-24e8-5645-bf8d-fc386f3d2ddc",
-        "address": "821-W-Jackson-St-Morris-IL-60450",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1045,
-        "listed_at": "2026-09-24T01:30:05.000Z",
-        "days_on_market": "102",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.435612,
-          41.360562
         ]
       }
     },
@@ -26500,27 +26500,6 @@
         "coordinates": [
           -98.622664,
           29.539086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4bd26893-2a3e-55cd-8096-a75f19c15c3a",
-        "address": "194-Salida-Way-Saint-Augustine-FL-32095",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2364,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "38",
-        "current_price": 642000,
-        "price_label": "$642K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.330591,
-          29.94359
         ]
       }
     },
@@ -48892,27 +48871,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8f9ee4a7-0b11-585f-87bb-3e124a84f951",
-        "address": "506 Leisure Lake Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1230,
-        "listed_at": "2026-10-27T23:00:03.000Z",
-        "days_on_market": "13",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.629497,
-          32.585883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8fb52da5-455f-54bd-b58e-39f0325fd122",
         "address": "1815 Gray Bark Dr",
         "beds": 2,
@@ -65041,6 +64999,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bc590368-4a14-4239-ab84-aae18726f86f",
+        "address": "4111 River Beacon Blvd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1850,
+        "listed_at": "2026-11-09T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 386000,
+        "price_label": "$386K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.656411,
+          28.203768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bc812fae-12dd-5079-b607-00b8a4149d45",
         "address": "20423 N 149th Ave",
         "beds": 3,
@@ -75640,6 +75619,27 @@
         "coordinates": [
           -111.693135,
           33.742467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d7fd376b-6f84-5819-900e-5d27e9589733",
+        "address": "600-Brock-Dr-Anna-TX-75409",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2708,
+        "listed_at": "2026-11-09T19:30:06.000Z",
+        "days_on_market": "98",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.548358,
+          33.324341
         ]
       }
     },
