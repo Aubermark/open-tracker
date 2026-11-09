@@ -27262,6 +27262,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4e86e477-bac5-5b40-8801-1251ebd55e79",
+        "address": "685 Williston Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1125,
+        "listed_at": "2026-11-09T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 189000,
+        "price_label": "$189K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831821,
+          33.410917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4e87726d-0626-5fd7-a099-79f64234a3db",
         "address": "612-Carolyn-Ridge-Rd-Norman-OK-73071",
         "beds": 3,
