@@ -45091,6 +45091,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "842b2c97-c5da-53f5-9764-56a0017d59bd",
+        "address": "1011-Meagan-Ct-Bessemer-City-NC-28016",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1208,
+        "listed_at": "2026-11-09T09:50:06.000Z",
+        "days_on_market": "142",
+        "current_price": 239000,
+        "price_label": "$239K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.316642,
+          35.265124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8434c397-a350-5358-8e25-81d51f84892b",
         "address": "18803-Luminescent-Ln-Spring-TX-77379",
         "beds": 3,
