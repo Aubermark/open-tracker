@@ -14137,6 +14137,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29bea9d5-8391-5a89-9c51-a310286bd1c2",
+        "address": "191-Mount-Pleasant-Church-Rd-Gordon-GA-31031",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1296,
+        "listed_at": "2026-11-09T13:10:05.000Z",
+        "days_on_market": "74",
+        "current_price": 192000,
+        "price_label": "$192K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.250969,
+          32.991263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29c0828d-5165-581a-b057-83091a753c3d",
         "address": "1340-Ottawa-Ave-Jacksonville-FL-32210",
         "beds": 3,
