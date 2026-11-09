@@ -16090,6 +16090,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ed9a620-6a98-5212-83d5-32c06c1219f3",
+        "address": "1407 Dabbling Duck Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1585,
+        "listed_at": "2026-11-09T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.255741,
+          33.069825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2eda3b82-d744-56dc-a1a2-4956ca5c4a14",
         "address": "9537-Clayton-Ct-Thornton-CO-80229",
         "beds": 3,
@@ -44707,6 +44728,27 @@
         "coordinates": [
           -86.703106,
           36.047819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "834a2bc7-62a9-5c21-a8ba-49638b4a0d2c",
+        "address": "90-Anthony-St-Pittsboro-NC-27312",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 960,
+        "listed_at": "2026-11-09T18:00:06.000Z",
+        "days_on_market": "87",
+        "current_price": 193000,
+        "price_label": "$193K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.174861,
+          35.709533
         ]
       }
     },
