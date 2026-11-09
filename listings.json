@@ -21823,6 +21823,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3efea0e1-c560-5de6-afd7-c1dc9eb2028c",
+        "address": "2704 Spring Valley Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2632,
+        "listed_at": "2026-11-09T22:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647077,
+          36.122017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3eff59ba-c21b-5313-99f6-00c7c9de4067",
         "address": "1317-Twin-Brook-Dr-Berea-KY-40403",
         "beds": 3,
@@ -46828,6 +46849,27 @@
         "coordinates": [
           -98.369152,
           29.830206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89e4d43f-f508-51bc-bd10-06fabb3d0728",
+        "address": "15009-Winter-View-Dr-San-Antonio-TX-78247",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-11-09T22:00:06.000Z",
+        "days_on_market": "242",
+        "current_price": 196000,
+        "price_label": "$196K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.414681,
+          29.578101
         ]
       }
     },
