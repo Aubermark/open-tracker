@@ -35389,6 +35389,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65ae113a-7242-52fe-aaac-eced05c7dd85",
+        "address": "1089 Mill St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1059,
+        "listed_at": "2026-11-09T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 154000,
+        "price_label": "$154K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.176492,
+          42.244156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65aeb669-0231-57c2-b88b-bf48abb7d2a7",
         "address": "2309 Little Flower Ln",
         "beds": 3,
@@ -48115,27 +48136,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "8db72fe5-c3a4-51d3-b426-161fb73c77c1",
-        "address": "5315-Se-91st-St-Ocala-FL-34480",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1986,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "62",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.06088,
-          29.089278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "8dbb09d9-634e-56a3-8be1-e25858be899d",
         "address": "1039-Plantation-Blvd-Se-Conyers-GA-30094",
         "beds": 3,
@@ -52672,21 +52672,21 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9b9a15b5-7c57-5407-8e67-c25dd8bff3d5",
-        "address": "9315-Dogwood-Pl-Gainesville-GA-30506",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 928,
-        "listed_at": "2026-10-29T06:42:21.000Z",
-        "days_on_market": "139",
-        "current_price": 243000,
-        "price_label": "$243K"
+        "address_token": "9bd3e4f9-be34-553a-80b4-e8d1a90278e5",
+        "address": "1621 Wallingford Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2075,
+        "listed_at": "2026-11-09T20:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 512000,
+        "price_label": "$512K"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.982406,
-          34.242686
+          -122.031686,
+          38.258898
         ]
       }
     },
