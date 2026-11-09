@@ -28207,6 +28207,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "50d1c05b-7471-45a6-aa4d-6196d048f677",
+        "address": "744 Sandy Chip Trl",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 2177,
+        "listed_at": "2026-11-09T15:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.507989,
+          32.751528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "50e8390d-7488-5f42-baa5-8731b639dfb4",
         "address": "1003-Bateman-Dr-Elizabeth-City-NC-27909",
         "beds": 4,
