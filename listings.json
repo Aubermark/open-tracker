@@ -24217,6 +24217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43e792a7-8104-52ed-9020-84e11bb24cc7",
+        "address": "3901 Pepperbush Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1378,
+        "listed_at": "2026-11-09T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.706029,
+          36.171812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43eecf7a-0adf-56a8-a77a-e71f1b1c0989",
         "address": "14928-Nighthawk-Ln-Broomfield-CO-80023",
         "beds": 5,
@@ -38785,27 +38806,6 @@
         "coordinates": [
           -118.077642,
           33.902568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "711cb61a-eed3-54c6-bc31-84f4887c95df",
-        "address": "189-Tall-Pines-Rd-Ladson-SC-29456",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1474,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "98",
-        "current_price": 309000,
-        "price_label": "$309K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.107163,
-          33.015253
         ]
       }
     },
