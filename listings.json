@@ -45763,6 +45763,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "85e809e9-f0ff-5c8b-ba99-962408a862fd",
+        "address": "3115-N-53rd-Dr-Phoenix-AZ-85031",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1567,
+        "listed_at": "2026-11-09T16:50:06.000Z",
+        "days_on_market": "102",
+        "current_price": 316000,
+        "price_label": "$316K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.173084,
+          33.485395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "85f5ddcf-953a-5d9b-b538-5e2080e480d2",
         "address": "6006-Colorado-St-Greenville-TX-75402-17131009",
         "beds": 4,
