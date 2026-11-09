@@ -15418,6 +15418,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cd0f6b9-ad0f-55b4-888c-137372027926",
+        "address": "16276 SW Dahlia Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2086,
+        "listed_at": "2026-11-09T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 645000,
+        "price_label": "$645K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.844592,
+          45.422739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cd33f41-f5ea-584a-b229-476b77e45b0e",
         "address": "1040-E-Magnolia-Loop-Madison-GA-30650",
         "beds": 4,
@@ -34759,27 +34780,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "636ddfa3-fdaa-5080-b599-4fd420835c5e",
-        "address": "1893 Turnberry Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1406,
-        "listed_at": "2026-10-15T07:40:04.000Z",
-        "days_on_market": "26",
-        "current_price": 305000,
-        "price_label": "$305K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.643057,
-          30.453137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "638bbf2d-4d3c-5565-bced-9ad6b184631d",
         "address": "3853-Wintergreen-Dr-Plano-TX-75074",
         "beds": 5,
@@ -39016,27 +39016,6 @@
         "coordinates": [
           -86.664562,
           34.925995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "71f255bb-7944-5737-8bf5-a0fb111201b2",
-        "address": "15201 Dartford Ln",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1603,
-        "listed_at": "2026-11-06T21:10:05.000Z",
-        "days_on_market": "3",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.655086,
-          35.143004
         ]
       }
     },
