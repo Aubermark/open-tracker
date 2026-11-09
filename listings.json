@@ -3217,6 +3217,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "083e3671-1477-5fe5-9a65-dcf4f4436cff",
+        "address": "104 Settlers Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3094,
+        "listed_at": "2026-11-09T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 545000,
+        "price_label": "$545K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.557743,
+          36.350012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "084a92cb-c21e-55a2-bbb3-d1069404018b",
         "address": "1836-Heritage-Pass-Alpharetta-GA-30004",
         "beds": 5,
