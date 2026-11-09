@@ -13612,6 +13612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2860e15c-8aab-530c-9543-2f8c8011df73",
+        "address": "101 Ascot Ct",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1106,
+        "listed_at": "2026-11-09T17:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12928,
+          37.857548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28657c85-a77c-5eef-a19b-c4e64cfe4ce9",
         "address": "909 Tower Pl",
         "beds": 3,
@@ -72238,27 +72259,6 @@
         "coordinates": [
           -81.884697,
           31.585905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cf8b3441-ac4e-5820-91d0-2b94a731a142",
-        "address": "7329-E-Lewis-Ave-Scottsdale-AZ-85257",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1746,
-        "listed_at": "2026-10-23T14:00:04.000Z",
-        "days_on_market": "91",
-        "current_price": 668000,
-        "price_label": "$668K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.922394,
-          33.47546
         ]
       }
     },
