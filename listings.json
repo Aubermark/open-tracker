@@ -35851,6 +35851,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "673ad1d3-920a-575c-93f2-0d4fe857f219",
+        "address": "3165 Shaw Ridge St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1378,
+        "listed_at": "2026-11-09T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 181000,
+        "price_label": "$181K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.212196,
+          36.139913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6746c187-9960-535c-bcee-0c947b6f6a3c",
         "address": "4982-Follansbee-Rd-Winston-Salem-NC-27127",
         "beds": 3,
@@ -53470,27 +53491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9da026b2-c1c9-5a7c-8694-f99d4745b932",
-        "address": "1410 Lexington Dr",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2194,
-        "listed_at": "2026-10-05T20:50:04.000Z",
-        "days_on_market": "35",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.649094,
-          32.867178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9dbcfe09-ce0f-5eba-98f5-51003067a6fc",
         "address": "41219-Tava-Ln-Hemet-CA-92544",
         "beds": 3,
@@ -60205,6 +60205,27 @@
         "coordinates": [
           -75.517307,
           39.059073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "af6fc020-c3fe-5359-8d5a-c6bc85306c8d",
+        "address": "4882 Persimmon Bend Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1428,
+        "listed_at": "2026-11-09T21:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.267089,
+          38.802281
         ]
       }
     },
