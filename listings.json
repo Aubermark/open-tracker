@@ -11638,6 +11638,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2224182c-56a2-5330-8a36-c9ad88a411c3",
+        "address": "6127-Willowcrest-Ct-Spring-TX-77389",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4095,
+        "listed_at": "2026-11-09T15:20:05.000Z",
+        "days_on_market": "104",
+        "current_price": 592000,
+        "price_label": "$592K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.516837,
+          30.116822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "223f7d8d-8c23-55c1-acd1-31fc1c17dd75",
         "address": "276-Circle-Way-Jarrell-TX-76537",
         "beds": 3,
@@ -74758,6 +74779,27 @@
         "coordinates": [
           -86.872579,
           33.699197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d57878d1-570c-5225-8be4-4660b8cdd659",
+        "address": "1612-Pine-Valley-Way-Henryville-IN-47126",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1645,
+        "listed_at": "2026-11-09T15:20:05.000Z",
+        "days_on_market": "171",
+        "current_price": 374000,
+        "price_label": "$374K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795153,
+          38.516346
         ]
       }
     },
