@@ -54541,6 +54541,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a01542b7-4460-58fc-bd75-70974753ea25",
+        "address": "3806 Desert Pinon Dr NE",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2238,
+        "listed_at": "2026-11-10T18:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.712001,
+          35.320791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a0181b49-0a27-5649-9b75-88c8cfc5448d",
         "address": "501 Ridge St",
         "beds": 3,
