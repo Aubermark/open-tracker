@@ -2440,27 +2440,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "069b1d28-328e-53fb-8a1f-e37a2c134171",
-        "address": "4203 Old Cahaba Pkwy",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2088,
-        "listed_at": "2026-10-22T19:10:04.000Z",
-        "days_on_market": "19",
-        "current_price": 346000,
-        "price_label": "$346K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.882096,
-          33.275197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "069d278c-c468-5eb2-a3a4-d6ad949ef43b",
         "address": "110-N-Delaware-Blvd-Apt-10-C-Jupiter-FL-33458",
         "beds": 2,
@@ -39835,6 +39814,27 @@
         "coordinates": [
           -86.659759,
           36.438839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "74768348-b40a-5dfa-9320-9f8c3af090d0",
+        "address": "1212-Courtland-Cir-Plainfield-IL-60586",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1484,
+        "listed_at": "2026-11-10T19:50:06.000Z",
+        "days_on_market": "185",
+        "current_price": 266000,
+        "price_label": "$266K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20262,
+          41.544061
         ]
       }
     },
