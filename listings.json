@@ -53890,6 +53890,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e66e911-6fc3-56f2-9753-df27ff4e0f67",
+        "address": "1646 Moors Camp Hwy",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-11-10T10:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.274572,
+          36.906475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e6733df-2bd0-5732-8cbd-800213dad788",
         "address": "313-Black-St-Cherryville-NC-28021",
         "beds": 3,
