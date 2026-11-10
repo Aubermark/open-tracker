@@ -3406,27 +3406,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "08c5e9d6-41e0-57f9-8959-b572499012b1",
-        "address": "2109-Sheffield-Rd-Raleigh-NC-27610",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 740,
-        "listed_at": "2026-10-29T06:42:21.000Z",
-        "days_on_market": "102",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.611695,
-          35.791758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "08fa09d0-208c-538d-acbc-18b189369108",
         "address": "5211-E-20th-St-Tucson-AZ-85711",
         "beds": 3,
@@ -25912,6 +25891,27 @@
         "coordinates": [
           -76.094506,
           38.777686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4960b970-c257-5412-acd9-e1185abfac65",
+        "address": "719-Equinox-St-Crosby-TX-77532",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1737,
+        "listed_at": "2026-11-10T22:00:05.000Z",
+        "days_on_market": "127",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.081033,
+          29.919251
         ]
       }
     },
@@ -81436,27 +81436,6 @@
         "coordinates": [
           -97.662279,
           31.040042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e8c6cd6b-5f7f-5d4b-881d-3fe395c12278",
-        "address": "4933-Lee-St-Ne-Washington-DC-20019",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1972,
-        "listed_at": "2026-09-10T14:50:03.000Z",
-        "days_on_market": "61",
-        "current_price": 451000,
-        "price_label": "$451K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.93003,
-          38.904465
         ]
       }
     },
