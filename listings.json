@@ -4435,6 +4435,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bb853f0-8099-504c-8a3b-42a40521443e",
+        "address": "1960-Edwards-Fork-Rd-Scotland-Neck-NC-27874",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2204,
+        "listed_at": "2026-11-10T21:30:06.000Z",
+        "days_on_market": "165",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.389312,
+          36.11855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bd687ce-9737-57a8-920e-cac2e9552861",
         "address": "8941 E Rosewood St",
         "beds": 4,
@@ -33793,6 +33814,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6089b566-908d-531d-aded-2ebf035910a5",
+        "address": "487 Hickory St",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 812,
+        "listed_at": "2026-11-10T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.076151,
+          35.242862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "608e67d9-e6d9-5d17-b7a6-062a448dbd66",
         "address": "1212-2nd-Ave-Sw-Alabaster-AL-35007",
         "beds": 3,
@@ -57544,27 +57586,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a79902f7-7497-5cbc-bf19-44da2c78e385",
-        "address": "3302-Porchview-Pl-Johns-Island-SC-29455",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2475,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "64",
-        "current_price": 829000,
-        "price_label": "$829K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.061712,
-          32.727011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a79c4daf-cea6-57df-b9bb-568aac5e4f6c",
         "address": "324 E Calle Criba",
         "beds": 3,
@@ -68401,6 +68422,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c591ce99-311f-5c0d-beff-77ebdb6ca71f",
+        "address": "1978 E Indian Wells Dr",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3923,
+        "listed_at": "2026-11-10T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 965000,
+        "price_label": "$965K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.74726,
+          33.213665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c59ad82c-6500-5cb1-adea-a70c1426077c",
         "address": "160-Carib-Dr-Merritt-Island-FL-32952",
         "beds": 3,
@@ -76228,27 +76270,6 @@
         "coordinates": [
           -97.582581,
           33.206706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d94f906c-3717-5f69-93e1-60b0dd7b854a",
-        "address": "6428 Camp Superior Dr",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1928,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "22",
-        "current_price": 406000,
-        "price_label": "$406K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.365724,
-          39.292784
         ]
       }
     },
