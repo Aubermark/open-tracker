@@ -60484,6 +60484,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "afe982d4-1b6b-527b-839d-cefba15fb645",
+        "address": "9938 Panther Bay",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1304,
+        "listed_at": "2026-11-10T17:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.688477,
+          29.408215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "afec7851-ccba-5111-8cb7-9cd9b42cbbfd",
         "address": "2717-Wickersham-Dr-Temple-TX-76502",
         "beds": 4,
