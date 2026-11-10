@@ -16867,6 +16867,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30d3778f-8453-54f6-b8ef-307e68441727",
+        "address": "2005 Anthony Cir",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 933,
+        "listed_at": "2026-11-10T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 145000,
+        "price_label": "$145K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.409021,
+          35.455177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "30e47612-019b-5cfa-9b48-b976310a5e1f",
         "address": "3202-N-Arlington-Ave-Indianapolis-IN-46218",
         "beds": 3,
