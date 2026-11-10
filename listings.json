@@ -86566,6 +86566,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f78c5e52-3300-51eb-a0fd-29dee6f0d9ab",
+        "address": "29352-Waldensa-Ave-Wickliffe-OH-44092",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 2164,
+        "listed_at": "2026-11-10T15:30:07.000Z",
+        "days_on_market": "61",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464273,
+          41.59376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f79683f4-308a-5eeb-b7b6-2030adb42323",
         "address": "6908-Welton-Dr-Ne-Albuquerque-NM-87109",
         "beds": 4,
