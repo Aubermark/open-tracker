@@ -29866,6 +29866,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54f16f7a-38e1-5594-b8ce-47ee213b8400",
+        "address": "702-Buffalo-Cir-Carol-Stream-IL-60188",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1980,
+        "listed_at": "2026-11-10T16:30:06.000Z",
+        "days_on_market": "113",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.158775,
+          41.919731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54f55cc1-989a-5eab-adbf-a86c78be43fe",
         "address": "411-Roy-Eaker-Rd-Cherryville-NC-28021",
         "beds": 3,
