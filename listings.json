@@ -85222,6 +85222,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f33274f5-b3a1-57e0-9de7-09f59b6a15ce",
+        "address": "3590 Larkspur Cir",
+        "beds": 7,
+        "baths": 4,
+        "sqft": 3985,
+        "listed_at": "2026-11-10T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 775000,
+        "price_label": "$775K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.147528,
+          40.141775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3400376-ce2d-5f26-97f8-97e396b301e1",
         "address": "1347-Chalmette-Dr-Ne-Atlanta-GA-30306",
         "beds": 2,
