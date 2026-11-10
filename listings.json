@@ -72937,6 +72937,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d07d46ad-e21b-57d7-ba46-d49f1d1ea73e",
+        "address": "534 Julia Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1638,
+        "listed_at": "2026-11-10T23:20:07.000Z",
+        "days_on_market": "32",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16127,
+          33.4824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0937fcd-7335-5165-82c2-19137d252463",
         "address": "4637 E Culver St",
         "beds": 3,
@@ -88723,27 +88744,6 @@
         "coordinates": [
           -96.724088,
           33.02231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fe260ebb-52e7-57eb-8889-e5ba9deebf25",
-        "address": "1658-Daily-Dr-Erie-CO-80516",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2153,
-        "listed_at": "2026-09-17T19:40:03.000Z",
-        "days_on_market": "54",
-        "current_price": 616000,
-        "price_label": "$616K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.068825,
-          40.032823
         ]
       }
     },
