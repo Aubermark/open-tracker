@@ -40828,6 +40828,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7737000b-3005-53b8-a905-d9128c993c3a",
+        "address": "1119 Ridenour Ct NW",
+        "beds": 4,
+        "baths": 5,
+        "sqft": 5016,
+        "listed_at": "2026-11-10T21:10:07.000Z",
+        "days_on_market": "36",
+        "current_price": 749000,
+        "price_label": "$749K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.587704,
+          33.990109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "773a0a3b-4ac0-5e74-a032-5208a414a041",
         "address": "105-Lake-Hurst-Dr-Dudley-NC-28333-18559473",
         "beds": 3,
@@ -42019,6 +42040,27 @@
         "coordinates": [
           -80.997065,
           35.52454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7ac62e46-bcb8-5cd2-9e56-cc542c888606",
+        "address": "87-Pearl-Laguna-Niguel-CA-92677",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1018,
+        "listed_at": "2026-11-10T21:10:07.000Z",
+        "days_on_market": "120",
+        "current_price": 538000,
+        "price_label": "$538K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.683029,
+          33.528022
         ]
       }
     },
@@ -77257,27 +77299,6 @@
         "coordinates": [
           -122.504527,
           45.346645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dc3de606-07f4-540e-87bb-b64e8c547e73",
-        "address": "36859 N El Morro Trl",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2484,
-        "listed_at": "2026-11-03T07:05:56.000Z",
-        "days_on_market": "8",
-        "current_price": 395000,
-        "price_label": "$395K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.575127,
-          33.213823
         ]
       }
     },
