@@ -73441,6 +73441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d208f163-a9f8-5dca-a954-f2591fc58f76",
+        "address": "3428-W-Via-Del-Sol-Dr-Phoenix-AZ-85027",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-11-10T17:10:06.000Z",
+        "days_on_market": "88",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.133315,
+          33.684815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d2212f42-4528-42c1-87a9-4b4110c479e3",
         "address": "109-S-Stonemill-Trl-Clayton-NC-27520",
         "beds": 4,
