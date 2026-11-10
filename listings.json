@@ -1117,27 +1117,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "024dc367-e378-59ab-9f0e-8ba9ee68c03a",
-        "address": "409-Lone-Oak-Ct-Kennedale-TX-76060",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 3635,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "63",
-        "current_price": 535000,
-        "price_label": "$535K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.220136,
-          32.65854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "026bf5c5-5a23-5538-8f21-cc1510175a16",
         "address": "804-Bamboo-Dr-Anna-TX-75409",
         "beds": 3,
@@ -17623,27 +17602,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "333faa0b-0bea-51d8-a2b7-05363d57c6ff",
-        "address": "3684-S-Danielson-Way-Chandler-AZ-85286",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2817,
-        "listed_at": "2026-10-23T13:50:04.000Z",
-        "days_on_market": "165",
-        "current_price": 674000,
-        "price_label": "$674K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.798878,
-          33.252948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "336899aa-5610-58b9-846d-ac4ca6122077",
         "address": "517 E 27th St",
         "beds": 4,
@@ -19696,6 +19654,27 @@
         "coordinates": [
           -79.093806,
           35.020016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "39716d94-81ab-50cd-afdd-aaad854216b3",
+        "address": "310-W-Indiana-Ave-Bessemer-City-NC-28016",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 975,
+        "listed_at": "2026-11-10T19:40:06.000Z",
+        "days_on_market": "88",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29156,
+          35.279206
         ]
       }
     },
@@ -82528,6 +82507,27 @@
         "coordinates": [
           -80.158092,
           32.992027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ec7b3339-4277-5072-b74a-f62b46f6d089",
+        "address": "1938 Sapphire Meadow Dr",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 4571,
+        "listed_at": "2026-11-10T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 725000,
+        "price_label": "$725K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.946973,
+          34.961612
         ]
       }
     },
