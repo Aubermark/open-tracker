@@ -22180,6 +22180,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3fa3e9b6-f673-5907-a051-c81143b4b83f",
+        "address": "1108 S Main St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1518,
+        "listed_at": "2026-11-10T20:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 234000,
+        "price_label": "$234K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.617563,
+          35.535579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fa6ba9e-a112-5c80-8f97-bcb5f9439e66",
         "address": "3107 Rosewalk Dr",
         "beds": 3,
@@ -42439,27 +42460,6 @@
         "coordinates": [
           -85.047448,
           33.740231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7c242898-8c9a-57ea-87ed-3b026eda67f6",
-        "address": "6223-Sunbridge-Ct-Charlotte-NC-28269",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1359,
-        "listed_at": "2026-09-08T13:00:02.000Z",
-        "days_on_market": "63",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.841403,
-          35.300187
         ]
       }
     },
