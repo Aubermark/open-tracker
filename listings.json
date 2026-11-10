@@ -16678,6 +16678,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3056b4d4-5275-5f33-995f-d327bfa1a8e0",
+        "address": "6292 S Calle De La Rosa",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1533,
+        "listed_at": "2026-11-10T20:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.232773,
+          31.454839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3067abcd-fac6-58c9-a0fa-acd3e2e08bab",
         "address": "909-W-Missouri-Ave-Phoenix-AZ-85013",
         "beds": 3,
@@ -60793,27 +60814,6 @@
         "coordinates": [
           -86.878034,
           35.90976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b092a99e-31e9-55b6-8944-e9ad99a85f2b",
-        "address": "8446-N-34th-Dr-Phoenix-AZ-85051",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 924,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "165",
-        "current_price": 130000,
-        "price_label": "$130K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.133947,
-          33.560003
         ]
       }
     },
