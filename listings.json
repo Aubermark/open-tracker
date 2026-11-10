@@ -4456,6 +4456,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0bb9ff42-f6bc-53ef-abcb-46b4a89564f2",
+        "address": "823 Python Dr",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3170,
+        "listed_at": "2026-11-10T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 422000,
+        "price_label": "$422K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.620338,
+          33.648909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0bd687ce-9737-57a8-920e-cac2e9552861",
         "address": "8941 E Rosewood St",
         "beds": 4,
@@ -67555,6 +67576,27 @@
         "coordinates": [
           -79.395743,
           36.064926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c2b2d3ff-22bc-52bf-9d47-99b9af373177",
+        "address": "3440 E Southern Ave",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1287,
+        "listed_at": "2026-11-10T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 352000,
+        "price_label": "$352K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.755992,
+          33.395639
         ]
       }
     },
