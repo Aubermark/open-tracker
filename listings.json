@@ -2482,6 +2482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06a85853-677e-52cd-8f64-0d958b6e6d3c",
+        "address": "12300-Brookglade-Cir-Unit-133-Houston-TX-77099",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1146,
+        "listed_at": "2026-11-10T16:00:07.000Z",
+        "days_on_market": "260",
+        "current_price": 109000,
+        "price_label": "$109K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.597072,
+          29.680018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "06ce4e26-8ef8-52e8-8861-06e45caa2ec7",
         "address": "140-W-13th-St-Lafayette-OR-97127",
         "beds": 3,
@@ -55549,27 +55570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a2c0ce8d-bb7b-518b-b291-cb1169cb7755",
-        "address": "1613-Mullins-Dr-Plano-TX-75025",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2012,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "126",
-        "current_price": 399000,
-        "price_label": "$399K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.722123,
-          33.081478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a2cff6eb-923e-5457-9505-483ce746a55b",
         "address": "6608 Mountain Hawk Loop NE",
         "beds": 4,
@@ -76753,27 +76753,6 @@
         "coordinates": [
           -80.868709,
           35.285992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "dace0c93-7041-5f8e-9c18-3070ebc858e2",
-        "address": "3618-Gustar-Ct-Charlotte-NC-28212",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 976,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "82",
-        "current_price": 235000,
-        "price_label": "$235K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.730032,
-          35.17886
         ]
       }
     },
