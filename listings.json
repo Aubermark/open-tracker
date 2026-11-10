@@ -7270,6 +7270,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13727750-8b3d-5a0e-aef0-132bc1220650",
+        "address": "958 NE Shelly Ct",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1922,
+        "listed_at": "2026-11-10T23:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 442000,
+        "price_label": "$442K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.974176,
+          45.539202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13b19dc9-2d73-5b55-956f-7b16e87489e2",
         "address": "5406-S-Hearsey-Dr-Austin-TX-78744",
         "beds": 3,
@@ -24700,6 +24721,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45800b9d-91a5-5d92-99fb-e9b8b407b956",
+        "address": "3450 Cahuenga Blvd W",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1290,
+        "listed_at": "2026-11-10T23:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 950000,
+        "price_label": "$950K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.353543,
+          34.132766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4583ccf5-2fe2-5d6c-b4ce-5ec780d5eaa0",
         "address": "516-Truitt-Dr-Longs-SC-29568",
         "beds": 3,
@@ -39835,6 +39877,27 @@
         "coordinates": [
           -97.515272,
           35.331792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "742383d3-1f5f-5a92-8ce3-eed1ff9f9304",
+        "address": "2124-Hairston-Creek-Pkwy-Decatur-GA-30035",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3113,
+        "listed_at": "2026-11-10T23:10:05.000Z",
+        "days_on_market": "60",
+        "current_price": 356000,
+        "price_label": "$356K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.196668,
+          33.727445
         ]
       }
     },
