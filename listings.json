@@ -12646,6 +12646,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24c7584b-b196-5a69-aa9f-73b33dc3d3ee",
+        "address": "134 Springshed Pl",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2802,
+        "listed_at": "2026-11-10T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.561727,
+          30.283175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24d065e8-c72c-5500-b476-7553a9d285b2",
         "address": "425 W Daughtery Rd",
         "beds": 3,
