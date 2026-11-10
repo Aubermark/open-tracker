@@ -5548,6 +5548,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0ed20f31-01b7-4703-af54-38d1b732390d",
+        "address": "117 Spilona Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1842,
+        "listed_at": "2026-11-10T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.489296,
+          35.491451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0ed93887-2e49-5323-9a52-6c3c729dc02e",
         "address": "470-Kinsman-Ct-Fuquay-Varina-NC-27526",
         "beds": 3,
@@ -25639,6 +25660,27 @@
         "coordinates": [
           -92.427257,
           43.997146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "48d324ce-9ff4-5eb9-a2b0-5d7f9598bdff",
+        "address": "18654-N-45th-Ave-Glendale-AZ-85308",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1313,
+        "listed_at": "2026-11-10T17:00:06.000Z",
+        "days_on_market": "43",
+        "current_price": 381000,
+        "price_label": "$381K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1573,
+          33.656161
         ]
       }
     },
