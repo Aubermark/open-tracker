@@ -43978,6 +43978,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8122b952-b3e8-5a63-8fef-f887bea9de4a",
+        "address": "1435 Willow Rock Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1148,
+        "listed_at": "2026-11-10T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.424781,
+          29.88758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8128d98f-7831-5ab3-a9cb-01fa9ecfdf45",
         "address": "1008-Georgia-Creek-Rd-Scottsville-VA-24590",
         "beds": 4,
