@@ -42571,6 +42571,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c3f1a3a-e286-529b-ac7c-8d5b82f7a800",
+        "address": "3907 Prosperity Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2829,
+        "listed_at": "2026-11-10T22:40:06.000Z",
+        "days_on_market": "18",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.245417,
+          38.840182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c65bbcd-9e4a-5c08-a0a5-c618ab4f4200",
         "address": "325-19th-Court-Cir-Ne-Center-Point-AL-35215",
         "beds": 3,
@@ -80029,27 +80050,6 @@
         "coordinates": [
           -122.235586,
           38.08073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e4e5c015-47ae-5747-943b-b78b30984026",
-        "address": "1510-E-Raymond-St-Indianapolis-IN-46203",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1692,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "139",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.134091,
-          39.737861
         ]
       }
     },
