@@ -18232,27 +18232,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "34ceb2a4-df13-5ce9-8999-119bdc07c589",
-        "address": "1502-Daroca-Dr-Deltona-FL-32725-18367230",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1016,
-        "listed_at": "2026-10-13T15:30:05.000Z",
-        "days_on_market": "138",
-        "current_price": 218000,
-        "price_label": "$218K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.223157,
-          28.905756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "34e0b447-19a3-5ff2-8642-15fb8a56a16d",
         "address": "4533 Kessler Lane East Dr",
         "beds": 3,
@@ -26815,27 +26794,6 @@
         "coordinates": [
           -81.749418,
           30.267244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4c44168f-538e-5335-8ac3-c3e1a1aa0801",
-        "address": "104-Kings-Ct-Garner-NC-27529",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2285,
-        "listed_at": "2026-10-22T06:26:04.000Z",
-        "days_on_market": "127",
-        "current_price": 415000,
-        "price_label": "$415K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.60141,
-          35.572738
         ]
       }
     },
@@ -66085,6 +66043,27 @@
         "coordinates": [
           -86.781117,
           36.497725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf222e2a-6a04-5ae9-8ca3-dc64b61eb319",
+        "address": "17470 Tuscany Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1408,
+        "listed_at": "2026-11-10T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.889348,
+          35.452351
         ]
       }
     },
