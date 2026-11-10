@@ -46078,6 +46078,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8696abf5-de1a-5886-83d9-4410c9ea4897",
+        "address": "3903 Kenn Ct",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3477,
+        "listed_at": "2026-11-10T20:00:06.000Z",
+        "days_on_market": "29",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.532759,
+          29.502069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "86b734bf-6335-5f41-93eb-d5793b0a145a",
         "address": "21530-Glendale-Ave-Port-Charlotte-FL-33952",
         "beds": 4,
