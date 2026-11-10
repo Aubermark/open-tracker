@@ -24784,6 +24784,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45cb054f-ff8e-555f-9c41-7ca131c9389e",
+        "address": "8023-N-Sable-Way-Prescott-Valley-AZ-86315",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "listed_at": "2026-11-10T16:20:06.000Z",
+        "days_on_market": "200",
+        "current_price": 506000,
+        "price_label": "$506K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.326256,
+          34.658557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45d8b538-12d8-5968-a523-2a8ca5996c88",
         "address": "4508 Mesa Dr",
         "beds": 4,
@@ -40696,27 +40717,6 @@
         "coordinates": [
           -84.790486,
           33.461302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "76f74e71-39f3-5a52-b059-f6bde2198b46",
-        "address": "4409 Elmgreen Dr",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 4015,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "26",
-        "current_price": 625000,
-        "price_label": "$625K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.263123,
-          33.013118
         ]
       }
     },
@@ -61030,27 +61030,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b138c25c-70b5-522b-8ead-9751bfa0956a",
-        "address": "116-Westview-Ln-Oak-Ridge-TN-37830",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 4350,
-        "listed_at": "2026-10-01T19:10:03.000Z",
-        "days_on_market": "40",
-        "current_price": 680000,
-        "price_label": "$680K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.365846,
-          35.979678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b14c67b7-4a20-5c11-950b-cdd38f821480",
         "address": "1527 Blue Forest Ln",
         "beds": 3,
@@ -64720,27 +64699,6 @@
         "coordinates": [
           -81.958176,
           34.894401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bb3610eb-c159-537b-b387-5663a667298e",
-        "address": "119-Old-State-Cir-Powell-TN-37849",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1406,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "95",
-        "current_price": 233000,
-        "price_label": "$233K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.100953,
-          36.03517
         ]
       }
     },
@@ -88492,27 +88450,6 @@
         "coordinates": [
           -106.336151,
           34.964829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fd47d9b4-c8a1-597c-af8d-8c4ef112b870",
-        "address": "8706 Braeburn Dr",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2448,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "14",
-        "current_price": 845000,
-        "price_label": "$845K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.24697,
-          38.823873
         ]
       }
     },
