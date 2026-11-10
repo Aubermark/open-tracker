@@ -7774,6 +7774,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "151580ee-c68f-5ea2-a552-a8154e6c7d83",
+        "address": "2308-E-69th-St-Indianapolis-IN-46220",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 945,
+        "listed_at": "2026-11-10T13:30:06.000Z",
+        "days_on_market": "109",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.123563,
+          39.88116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1531699b-07ff-564b-b309-9ddb94031830",
         "address": "25719-Shady-Spruce-Ln-Katy-TX-77494",
         "beds": 4,
@@ -35074,27 +35095,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "64c7e466-1163-5b17-a8c5-f706d37e8d5d",
-        "address": "8351-Exton-Rd-Indianapolis-IN-46239",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2996,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "46",
-        "current_price": 264000,
-        "price_label": "$264K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.019429,
-          39.74055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "64ccddeb-b867-5514-a540-48080accbcfb",
         "address": "2708 White Oak Dr",
         "beds": 4,
@@ -61507,27 +61507,6 @@
         "coordinates": [
           -119.774999,
           36.767998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b2b1cc65-13bc-5356-8ded-6eda462c4446",
-        "address": "3-Elsworth-Ct-Mc-Leansville-NC-27301",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2445,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "85",
-        "current_price": 280000,
-        "price_label": "$280K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.682157,
-          36.066972
         ]
       }
     },
