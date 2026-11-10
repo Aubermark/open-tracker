@@ -466,6 +466,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0128a47e-a965-584f-97c4-e2293c243d53",
+        "address": "23866-W-Ripple-Rd-Buckeye-AZ-85326",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1567,
+        "listed_at": "2026-11-10T18:10:06.000Z",
+        "days_on_market": "106",
+        "current_price": 336000,
+        "price_label": "$336K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.563987,
+          33.42414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "012b01f5-eed2-5fdf-8fc3-bbfed8fa869d",
         "address": "1301-Graham-Cir-Erie-CO-80516",
         "beds": 6,
