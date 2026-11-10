@@ -28837,6 +28837,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "524e3e19-d5e8-5828-bc65-3daf3505f2e9",
+        "address": "2217 Old Corner Ct",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1025,
+        "listed_at": "2026-11-10T08:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 170000,
+        "price_label": "$170K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401521,
+          34.132719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "525cb15a-00a0-5564-b4b2-796a1612ff47",
         "address": "20919-Hollywood-St-Harper-Woods-MI-48225",
         "beds": 2,
