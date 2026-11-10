@@ -10756,27 +10756,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1f6f90ac-d849-5ae8-90c9-720f3a59acd7",
-        "address": "109 Pine Walk Dr",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1430,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "34",
-        "current_price": 267000,
-        "price_label": "$267K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.320907,
-          34.874431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1f730726-42c8-5c38-9859-72ea05b0541a",
         "address": "3168-W-Lehi-Dr-West-Valley-City-UT-84119",
         "beds": 4,
@@ -25639,6 +25618,27 @@
         "coordinates": [
           -80.943579,
           33.972536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "48fa5472-6c4b-5c39-9b82-9551ddafcdba",
+        "address": "2807-Ohenry-Rd-Brooklyn-Center-MN-55430-18127378",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1485,
+        "listed_at": "2026-11-10T15:50:06.000Z",
+        "days_on_market": "197",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31736,
+          45.069989
         ]
       }
     },
