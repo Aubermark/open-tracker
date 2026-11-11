@@ -9202,6 +9202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "195f0c98-876b-5d5e-9f2e-1817c25b495f",
+        "address": "6536 Emerald Crossing Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1616,
+        "listed_at": "2026-11-11T18:30:06.000Z",
+        "days_on_market": "15",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274305,
+          39.674001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1960a4fb-08c7-59b5-9aa4-fbd4115de2b6",
         "address": "5634-Tulip-Grove-Dr-Memphis-TN-38135",
         "beds": 3,
@@ -20536,6 +20557,27 @@
         "coordinates": [
           -84.919444,
           33.738472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3bd4e6ad-e309-507b-a615-24df59c1956d",
+        "address": "14292-Se-Meadows-Ln-Clackamas-OR-97015",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2382,
+        "listed_at": "2026-11-11T18:30:06.000Z",
+        "days_on_market": "188",
+        "current_price": 599000,
+        "price_label": "$599K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.546524,
+          45.419983
         ]
       }
     },
@@ -72217,27 +72259,6 @@
         "coordinates": [
           -111.843556,
           33.447008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d00e7b59-c5db-54c8-a41f-327abae30f02",
-        "address": "206-Almquist-St-Hutto-TX-78634",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2094,
-        "listed_at": "2026-10-01T06:15:28.000Z",
-        "days_on_market": "106",
-        "current_price": 262000,
-        "price_label": "$262K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.547631,
-          30.567463
         ]
       }
     },
