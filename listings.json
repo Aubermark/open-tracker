@@ -37216,6 +37216,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ae5839e-fee0-5ece-85e4-d1ca5145f5ce",
+        "address": "2800-N-Surrey-Dr-Carrollton-TX-75006",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2270,
+        "listed_at": "2026-11-11T16:00:06.000Z",
+        "days_on_market": "223",
+        "current_price": 452000,
+        "price_label": "$452K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.859774,
+          32.967261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6aeccb63-28d6-51dd-b9b3-4a550a2ab762",
         "address": "120-Riley-Rd-Dallas-NC-28034",
         "beds": 3,
@@ -59764,27 +59785,6 @@
         "coordinates": [
           -84.375155,
           39.441311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "adf5e09a-5c16-51ce-9fca-2d521cea68d0",
-        "address": "1179-Horsley-Mill-Rd-Carrollton-GA-30116",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1466,
-        "listed_at": "2026-10-27T07:00:10.000Z",
-        "days_on_market": "58",
-        "current_price": 242000,
-        "price_label": "$242K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.011224,
-          33.580494
         ]
       }
     },
