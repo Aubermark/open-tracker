@@ -30118,6 +30118,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "556ae6fc-c678-5b90-8957-53143753c890",
+        "address": "5438-Cold-Spring-Ln-North-Port-FL-34291",
+        "beds": 3,
+        "baths": 4,
+        "sqft": 2512,
+        "listed_at": "2026-11-11T14:30:05.000Z",
+        "days_on_market": "75",
+        "current_price": 776000,
+        "price_label": "$776K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.207769,
+          27.114357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "559072f9-f9b1-5a4e-b05a-7195e3bb6aa1",
         "address": "8509-Ivoryton-Way-Montgomery-Village-MD-20886",
         "beds": 3,
