@@ -10063,6 +10063,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ded1621-8cde-50f8-b97b-10e8dcdc39d3",
+        "address": "409 Berwick Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2155,
+        "listed_at": "2026-11-11T21:50:06.000Z",
+        "days_on_market": "33",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38335,
+          28.019024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1df37bd4-8bf4-5ec2-8cbc-688ff71c4344",
         "address": "206-Lilly-St-Cherryville-NC-28021",
         "beds": 3,
@@ -16357,27 +16378,6 @@
         "coordinates": [
           -85.842769,
           33.273246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3026c857-aec6-5d86-bfa7-92b9a3600ac7",
-        "address": "24-Hogan-Ct-Little-Egg-Harbor-Twp-NJ-08087",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1886,
-        "listed_at": "2026-08-20T06:22:41.000Z",
-        "days_on_market": "138",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.364508,
-          39.581485
         ]
       }
     },
