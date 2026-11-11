@@ -13948,6 +13948,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "292004f6-24e8-5645-bf8d-fc386f3d2ddc",
+        "address": "821-W-Jackson-St-Morris-IL-60450",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1045,
+        "listed_at": "2026-11-11T18:40:07.000Z",
+        "days_on_market": "104",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.435612,
+          41.360562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29360f85-3abc-5e7c-97b3-40418c201e70",
         "address": "6113-Remington-Lake-Dr-Raleigh-NC-27616",
         "beds": 4,
@@ -17050,6 +17071,27 @@
         "coordinates": [
           -81.247875,
           29.513574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "318bc70b-f544-55e7-b831-c01159ded48f",
+        "address": "5614-Fenton-Ln-Belton-TX-76513",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2650,
+        "listed_at": "2026-11-11T18:40:07.000Z",
+        "days_on_market": "105",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.519584,
+          31.025804
         ]
       }
     },
