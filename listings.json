@@ -3385,6 +3385,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "08f4f6a9-36ba-5611-8d3d-e6de25d53897",
+        "address": "7175-Somerset-Springs-Dr-Charlotte-NC-28262",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1229,
+        "listed_at": "2026-11-11T15:00:05.000Z",
+        "days_on_market": "44",
+        "current_price": 186000,
+        "price_label": "$186K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.792509,
+          35.292804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "08fa09d0-208c-538d-acbc-18b189369108",
         "address": "5211-E-20th-St-Tucson-AZ-85711",
         "beds": 3,
@@ -61856,8 +61877,8 @@
         "sqft": 1132,
         "listed_at": "2026-11-09T21:40:06.000Z",
         "days_on_market": "2",
-        "current_price": 201000,
-        "price_label": "$201K"
+        "current_price": 209000,
+        "price_label": "$209K"
       },
       "geometry": {
         "type": "Point",
@@ -63103,6 +63124,27 @@
         "coordinates": [
           -87.422708,
           36.567164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b6d416b9-e712-51a8-a7dc-641942ac2ab1",
+        "address": "2009 Rosedale Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1756,
+        "listed_at": "2026-11-11T15:00:05.000Z",
+        "days_on_market": "23",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.387637,
+          38.422656
         ]
       }
     },
