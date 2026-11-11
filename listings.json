@@ -16195,6 +16195,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2f1e548f-d2b4-511e-b908-dd3a1e841578",
+        "address": "5510 France Ave N",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2308,
+        "listed_at": "2026-11-11T09:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.329329,
+          45.054875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2f220092-f312-516d-92be-d13a64a0fad2",
         "address": "190 Lealer Lyons Dr",
         "beds": 3,
