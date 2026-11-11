@@ -1642,27 +1642,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03b09780-1d20-5cdb-b28d-2c858802ec8c",
-        "address": "375-Nora-Ave-Merritt-Island-FL-32952",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 3299,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "163",
-        "current_price": 580000,
-        "price_label": "$580K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.692775,
-          28.332265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "03b09a08-0915-5edd-8016-9b21a5bf7551",
         "address": "1825-Ne-Bren-Mar-Rd-Lees-Summit-MO-64086",
         "beds": 4,
@@ -63130,27 +63109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b6d416b9-e712-51a8-a7dc-641942ac2ab1",
-        "address": "2009 Rosedale Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1756,
-        "listed_at": "2026-10-19T14:20:03.000Z",
-        "days_on_market": "23",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.387637,
-          38.422656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b6e3d64c-c861-594b-ab96-1150f3b0e0b7",
         "address": "3029-Adrian-Creek-Dr-Little-Elm-TX-75068",
         "beds": 3,
@@ -74275,6 +74233,27 @@
         "coordinates": [
           -115.113434,
           36.285704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d427a03f-432e-5158-9f3f-0003767e9dae",
+        "address": "1834-Brooker-Rd-Jacksonville-FL-32207",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 856,
+        "listed_at": "2026-11-11T14:50:06.000Z",
+        "days_on_market": "65",
+        "current_price": 192000,
+        "price_label": "$192K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.644376,
+          30.282802
         ]
       }
     },
