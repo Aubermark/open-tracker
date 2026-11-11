@@ -10105,27 +10105,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1df1b18f-50e0-55d6-920b-518fc4c1f3c5",
-        "address": "3702 Kandy Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1121,
-        "listed_at": "2026-10-15T14:40:04.000Z",
-        "days_on_market": "27",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.835277,
-          30.21131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1df37bd4-8bf4-5ec2-8cbc-688ff71c4344",
         "address": "206-Lilly-St-Cherryville-NC-28021",
         "beds": 3,
@@ -56515,27 +56494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a5c30574-c7d9-5636-a677-64821783005b",
-        "address": "3753 Big Walnut Dr",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1752,
-        "listed_at": "2026-10-26T13:40:04.000Z",
-        "days_on_market": "16",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.897216,
-          39.892784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a5dc1594-7c37-5715-8d43-4564b69c01f3",
         "address": "306-Fayetteville-St-Newton-Grove-NC-28366",
         "beds": 4,
@@ -78664,6 +78622,27 @@
         "coordinates": [
           -102.391012,
           31.946958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e24a5a99-a9a9-52f9-a71c-3cc61621b5d4",
+        "address": "1181 Britley Park Ln",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1012,
+        "listed_at": "2026-11-11T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.585241,
+          34.117851
         ]
       }
     },
