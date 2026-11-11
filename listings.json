@@ -5464,27 +5464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0e9786a3-75dc-52b3-9f99-6865b03a9f4c",
-        "address": "4213-Mallard-Dr-Batavia-OH-45103",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1687,
-        "listed_at": "2026-11-04T17:30:06.000Z",
-        "days_on_market": "121",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.134369,
-          39.068269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0e9cd4e3-c6ad-57f7-a6fd-a2da3a87640f",
         "address": "35095-Via-Cerro-Vis-Temecula-CA-92592",
         "beds": 3,
@@ -42676,6 +42655,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ce0e50d-25a2-5fba-8847-0fd37c4aa2f0",
+        "address": "7440 SW 102nd Ave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1932,
+        "listed_at": "2026-11-11T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.781699,
+          45.466362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7cee1a58-2250-5ce4-90a5-a12ccfde40f3",
         "address": "5048-Kerry-Downs-Rd-Hoover-AL-35242",
         "beds": 3,
@@ -52540,6 +52540,27 @@
         "coordinates": [
           -76.871877,
           38.900283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9a9b6caf-d712-5b95-adb7-1c7f266f944e",
+        "address": "329-Fairview-Ave-Winchester-VA-22601",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1386,
+        "listed_at": "2026-11-11T15:50:06.000Z",
+        "days_on_market": "40",
+        "current_price": 247000,
+        "price_label": "$247K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.156237,
+          39.186112
         ]
       }
     },
