@@ -30559,6 +30559,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "56ffb9f4-c713-5df0-9e3a-d97dbd465345",
+        "address": "10573 111th Ave",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 692,
+        "listed_at": "2026-11-11T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.785043,
+          27.873609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "57051db9-7c93-5570-97e2-e2705fa52db4",
         "address": "4821 Highland Trace Dr",
         "beds": 5,
