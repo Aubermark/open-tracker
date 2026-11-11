@@ -41647,6 +41647,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "79cd3181-981e-571e-b8d4-3a2794d7f281",
+        "address": "2242-E-Dana-Dr-Deltona-FL-32738",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1196,
+        "listed_at": "2026-11-11T16:10:06.000Z",
+        "days_on_market": "114",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.190753,
+          28.928388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "79e18705-55cf-5225-835a-3700c8203761",
         "address": "8215 Foxdale Dr",
         "beds": 5,
