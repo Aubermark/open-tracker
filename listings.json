@@ -16741,6 +16741,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "30717296-5213-45ca-8d39-0d4abb61e08d",
+        "address": "18356 W Faye Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1601,
+        "listed_at": "2026-11-11T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.453803,
+          33.710101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3088e515-1cf2-548f-b8fd-9aff51170895",
         "address": "4042 Tahoe Pl",
         "beds": 3,
@@ -33010,6 +33031,27 @@
         "coordinates": [
           -80.625477,
           35.420395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5e659ac4-2257-52a1-a3e8-fb7424c10bcd",
+        "address": "7699 Lenox Trace Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1524,
+        "listed_at": "2026-11-11T12:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.196401,
+          35.186711
         ]
       }
     },
