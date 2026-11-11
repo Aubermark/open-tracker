@@ -4498,27 +4498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0bff6d5d-3e5f-52b2-9ecb-e4fd13cc1139",
-        "address": "5918-Ricker-Rd-Raleigh-NC-27610",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2388,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "90",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.540938,
-          35.732223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0c2dfd61-d2f1-5051-bdcf-59b2063e53d2",
         "address": "900-Treyburn-Run-Alpharetta-GA-30004",
         "beds": 6,
@@ -59533,6 +59512,27 @@
         "coordinates": [
           -77.542034,
           38.237274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ae1b72e3-95d8-5b4f-9336-a619ce89cab6",
+        "address": "295-Fairway-Dr-Lake-Arrowhead-CA-92352",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2460,
+        "listed_at": "2026-11-11T20:00:06.000Z",
+        "days_on_market": "107",
+        "current_price": 593000,
+        "price_label": "$593K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.236448,
+          34.25374
         ]
       }
     },
