@@ -6052,27 +6052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "108814f6-acef-55ea-8f5e-59620de52be0",
-        "address": "1290 Arailia Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1235,
-        "listed_at": "2026-10-22T20:10:04.000Z",
-        "days_on_market": "20",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.061531,
-          35.051517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1089979b-45fd-410f-8045-e998befb9c3c",
         "address": "20942-Torbay-Dr-Northville-MI-48167",
         "beds": 5,
@@ -50341,27 +50320,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9442094c-9d7b-5ac7-8bdb-5e2a6913702b",
-        "address": "2437-E-64th-St-Cleveland-OH-44104",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1496,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "78",
-        "current_price": 168000,
-        "price_label": "$168K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.645392,
-          41.492277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "94488740-c5ec-57df-8dde-354fd9fc73aa",
         "address": "11214 E 48th St",
         "beds": 4,
@@ -81289,6 +81247,27 @@
         "coordinates": [
           -112.081205,
           33.517143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e888f58c-91b3-5fad-bb44-68a620823bf9",
+        "address": "5816-Nw-83rd-St-Oklahoma-City-OK-73132",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2292,
+        "listed_at": "2026-11-11T16:30:06.000Z",
+        "days_on_market": ">262",
+        "current_price": 237000,
+        "price_label": "$237K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.619766,
+          35.555625
         ]
       }
     },
