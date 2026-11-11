@@ -5149,6 +5149,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0df2caed-b024-5275-92e7-e80ab1d7d5a7",
+        "address": "5191 Rock Springs Rd",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 4186,
+        "listed_at": "2026-11-11T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.183845,
+          33.686012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0df2d3e3-5709-4c48-8398-d3babfab0601",
         "address": "8373-W-Rochelle-Ave-Las-Vegas-NV-89147",
         "beds": 3,
