@@ -22726,27 +22726,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "40f0e093-a86f-5db3-910b-006082bbc02d",
-        "address": "6878-Genevieve-Dr-Fort-Worth-TX-76137",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2985,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "120",
-        "current_price": 350000,
-        "price_label": "$350K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.305877,
-          32.870189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "40fd4439-8172-5a03-a24b-27067c359737",
         "address": "2013 S Whitney Way",
         "beds": 4,
@@ -30679,6 +30658,27 @@
         "coordinates": [
           -80.232467,
           32.953763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "57ceca94-9204-5ad1-b6a0-4122650cbf66",
+        "address": "1335 Alberta St NE",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 720,
+        "listed_at": "2026-11-12T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637096,
+          43.002516
         ]
       }
     },
