@@ -39568,6 +39568,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "746c66d3-c5d1-5762-bd80-e850157c3f3d",
+        "address": "9407 Turnbridge Ln",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3186,
+        "listed_at": "2026-11-12T15:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 790000,
+        "price_label": "$790K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.332284,
+          33.879808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "746c9554-43b0-5c40-88ef-4440ef601a8e",
         "address": "308 Marlin Rd",
         "beds": 3,
@@ -41263,27 +41284,6 @@
         "coordinates": [
           -122.870756,
           45.507368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "79cd3181-981e-571e-b8d4-3a2794d7f281",
-        "address": "2242-E-Dana-Dr-Deltona-FL-32738",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1196,
-        "listed_at": "2026-11-11T16:10:06.000Z",
-        "days_on_market": "115",
-        "current_price": 240000,
-        "price_label": "$240K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.190753,
-          28.928388
         ]
       }
     },
@@ -80638,27 +80638,6 @@
         "coordinates": [
           -84.077644,
           34.044664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9422827-be0b-5199-9849-108973b6838b",
-        "address": "3 Harvey Ln",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3046,
-        "listed_at": "2026-10-16T20:50:04.000Z",
-        "days_on_market": "27",
-        "current_price": 1050000,
-        "price_label": "$1.050M"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.396643,
-          40.006802
         ]
       }
     },
