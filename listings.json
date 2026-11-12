@@ -14557,6 +14557,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b21559a-e13a-5e7a-a6d4-a3266d529881",
+        "address": "715 Lincoln Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 884,
+        "listed_at": "2026-11-12T22:10:05.000Z",
+        "days_on_market": "0",
+        "current_price": 264000,
+        "price_label": "$264K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.441913,
+          37.591124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b25b2ef-f4b8-5e7c-86a7-e2ae0c18ee20",
         "address": "2648-Hunt-St-New-Braunfels-TX-78130",
         "beds": 4,
