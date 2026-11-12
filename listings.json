@@ -33247,6 +33247,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5f97b36c-68bf-58c0-bbbe-bf68a4accb64",
+        "address": "6234-Simien-Rd-Indianapolis-IN-46237",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3236,
+        "listed_at": "2026-11-12T12:30:05.000Z",
+        "days_on_market": "52",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.076999,
+          39.676816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5faaba22-a508-5744-94ac-beaa25ace0a3",
         "address": "604-Maxine-St-Ne-Albuquerque-NM-87123",
         "beds": 3,
