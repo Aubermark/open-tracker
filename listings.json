@@ -32617,27 +32617,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5e131288-1da1-58e1-a490-eab24a9f27dd",
-        "address": "744 Bent Creek Dr",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2091,
-        "listed_at": "2026-10-18T08:03:19.000Z",
-        "days_on_market": "26",
-        "current_price": 269000,
-        "price_label": "$269K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.920116,
-          34.974258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5e215419-f2cb-5346-bdd0-03a60172ec4c",
         "address": "21943-Pelican-Crk-San-Antonio-TX-78258",
         "beds": 4,
@@ -74632,6 +74611,27 @@
         "coordinates": [
           -81.248632,
           28.89992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d7778473-bc5c-5ad2-a5e0-9ea50bf909f1",
+        "address": "624 Maple St",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1828,
+        "listed_at": "2026-11-12T18:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 211000,
+        "price_label": "$211K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.612385,
+          36.504979
         ]
       }
     },
