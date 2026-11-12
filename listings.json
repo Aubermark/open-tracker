@@ -5968,6 +5968,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "104e425f-edb0-5e8d-a849-51892860916f",
+        "address": "13838 Fairway Island Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1288,
+        "listed_at": "2026-11-12T14:30:05.000Z",
+        "days_on_market": "31",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.407824,
+          28.363208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "10712c8f-1e6b-583d-8278-a3480a68b53b",
         "address": "391-Harvard-Rd-Venice-FL-34293",
         "beds": 3,
@@ -66316,27 +66337,6 @@
         "coordinates": [
           -78.989426,
           35.102066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c159bc97-dc2d-5857-b488-5dfed55f242f",
-        "address": "3508-Yacht-Club-Ct-Kissimmee-FL-34746",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2184,
-        "listed_at": "2026-11-11T19:00:06.000Z",
-        "days_on_market": "65",
-        "current_price": 361000,
-        "price_label": "$361K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.442656,
-          28.164758
         ]
       }
     },
