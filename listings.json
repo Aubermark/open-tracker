@@ -8635,6 +8635,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1862e31f-7771-5fbe-8cf0-211d93e80e66",
+        "address": "29798 Painted Desert Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1898,
+        "listed_at": "2026-11-12T15:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 581000,
+        "price_label": "$581K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.151705,
+          33.688426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "18652774-1789-5d67-89e4-d1cdee6a7db7",
         "address": "231-Oakgrove-Rd-Asheboro-NC-27205",
         "beds": 2,
@@ -37651,27 +37672,6 @@
         "coordinates": [
           -74.057407,
           40.960869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6d2c3647-7573-5edc-a820-df66e470b6ab",
-        "address": "820 Teakwood Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1710,
-        "listed_at": "2026-11-04T07:10:09.000Z",
-        "days_on_market": "9",
-        "current_price": 411000,
-        "price_label": "$411K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.042818,
-          33.01574
         ]
       }
     },
