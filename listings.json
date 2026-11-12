@@ -2545,27 +2545,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "070e99e8-68c8-41fd-b17f-240bd067d2b1",
-        "address": "124 Citrine Loop",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1725,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "35",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.484863,
-          28.154284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0722e745-9741-5ec1-9662-75e3e0f7bee7",
         "address": "123-King-Richard-Dr-Griffin-GA-30223",
         "beds": 3,
@@ -11359,6 +11338,27 @@
         "coordinates": [
           -97.140097,
           32.898843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "21ea660f-0175-59b0-8ff6-ccc86729b988",
+        "address": "911-S-El-Paso-St-Colorado-Springs-CO-80903",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1090,
+        "listed_at": "2026-11-12T17:20:05.000Z",
+        "days_on_market": "226",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.812995,
+          38.820715
         ]
       }
     },
@@ -29209,27 +29209,6 @@
         "coordinates": [
           -97.350997,
           27.691238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "53e6d4dc-cfb3-59ed-9d5c-2fec8ceff637",
-        "address": "2018 E 49th St N",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1238,
-        "listed_at": "2026-10-27T23:00:03.000Z",
-        "days_on_market": "16",
-        "current_price": 130000,
-        "price_label": "$130K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.963246,
-          36.2251
         ]
       }
     },
