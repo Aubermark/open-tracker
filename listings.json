@@ -4918,27 +4918,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0dc29cee-fc57-5292-bae2-90293b5dd52a",
-        "address": "1623-12th-St-Saint-Cloud-FL-34769",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1558,
-        "listed_at": "2026-10-30T18:40:06.000Z",
-        "days_on_market": "240",
-        "current_price": 285000,
-        "price_label": "$285K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.287872,
-          28.246829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0de2df58-8758-5a0d-b29c-8250ba742b2f",
         "address": "1808 Dayton Ave",
         "beds": 3,
@@ -44014,6 +43993,27 @@
         "coordinates": [
           -112.02443,
           33.072427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "81f69a87-79f8-5824-a4f4-ba27b25cf80c",
+        "address": "1304-Coolidge-Ave-Cincinnati-OH-45230",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1615,
+        "listed_at": "2026-11-12T19:50:07.000Z",
+        "days_on_market": "97",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.377264,
+          39.076362
         ]
       }
     },
