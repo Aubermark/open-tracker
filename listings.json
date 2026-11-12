@@ -16846,6 +16846,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "317c1fe5-f657-5f7d-b6eb-aa749cb71306",
+        "address": "111-Tyler-Ct-Gallatin-TN-37066",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1156,
+        "listed_at": "2026-11-12T19:00:06.000Z",
+        "days_on_market": "79",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.464962,
+          36.369832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3189587d-4d95-505b-a99b-b545da1dcffa",
         "address": "27-Russman-Ln-Palm-Coast-FL-32164",
         "beds": 4,
@@ -28873,6 +28894,27 @@
         "coordinates": [
           -82.160137,
           28.201962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "53228c23-f011-5506-a908-6a5a02f11e51",
+        "address": "25237 Woods Acre Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2730,
+        "listed_at": "2026-11-12T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.230562,
+          30.072983
         ]
       }
     },
