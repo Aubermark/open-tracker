@@ -55192,6 +55192,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a331893d-eec9-57ef-8d11-8b66b07531ad",
+        "address": "183 Deertract Loop",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2879,
+        "listed_at": "2026-11-12T21:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.873197,
+          36.41152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a339db2e-a9c4-59b0-a873-130d04d0e95e",
         "address": "35-Dapp-Ct-Elmwood-Park-NJ-07407",
         "beds": 2,
@@ -57769,27 +57790,6 @@
         "coordinates": [
           -110.831947,
           32.20094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a9a4f2a2-5333-55c4-b16f-27c3448af2be",
-        "address": "2804 N Cowing Park Ln",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1223,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "28",
-        "current_price": 162000,
-        "price_label": "$162K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.396025,
-          40.216537
         ]
       }
     },
@@ -80449,6 +80449,27 @@
         "coordinates": [
           -97.662279,
           31.040042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e8c33d8e-4395-5a09-b008-bc575c83bba4",
+        "address": "5307 Century Oaks Dr",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4669,
+        "listed_at": "2026-11-12T21:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.839976,
+          36.154152
         ]
       }
     },
