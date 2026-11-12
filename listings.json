@@ -13675,6 +13675,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "28e698b9-46d9-525f-ba73-b4ded7bb3e28",
+        "address": "175-Lake-Geneva-Rd-Geneva-FL-32732",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1465,
+        "listed_at": "2026-11-12T14:20:06.000Z",
+        "days_on_market": "92",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.113973,
+          28.743297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28f4984e-6d47-5bee-8df9-e6d5e04582bd",
         "address": "5406-S-Fultondale-Way-Aurora-CO-80016",
         "beds": 5,
