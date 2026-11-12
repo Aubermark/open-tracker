@@ -14599,6 +14599,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2b1c3b6e-de2e-53b7-b939-8a2c68f4b997",
+        "address": "9 Shelby Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1826,
+        "listed_at": "2026-11-12T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.895183,
+          33.892915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2b25b2ef-f4b8-5e7c-86a7-e2ae0c18ee20",
         "address": "2648-Hunt-St-New-Braunfels-TX-78130",
         "beds": 4,
