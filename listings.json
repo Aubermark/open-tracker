@@ -13759,6 +13759,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "291fa1bc-7534-5dd3-a828-941e3a029ff6",
+        "address": "117 Waterville Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2166,
+        "listed_at": "2026-11-12T20:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 253000,
+        "price_label": "$253K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.906436,
+          34.170815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "292004f6-24e8-5645-bf8d-fc386f3d2ddc",
         "address": "821-W-Jackson-St-Morris-IL-60450",
         "beds": 2,
@@ -25009,27 +25030,6 @@
         "coordinates": [
           -78.913059,
           33.774457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "479a8044-6cb7-5458-8876-c3d2264dea6b",
-        "address": "1865-Dorris-Ct-Dixon-CA-95620",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1462,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "48",
-        "current_price": 550000,
-        "price_label": "$550K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.848213,
-          38.450188
         ]
       }
     },
@@ -67729,27 +67729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c5bcac07-0be8-5f15-9489-bd12f3d72253",
-        "address": "8015-Aldea-Ave-Van-Nuys-CA-91406",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1340,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "91",
-        "current_price": 800000,
-        "price_label": "$800K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5091,
-          34.216146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c5c3330c-6c6d-596c-bd1d-e54778dffb79",
         "address": "101-Carriage-House-Dr-Kannapolis-NC-28081",
         "beds": 2,
@@ -79126,6 +79105,27 @@
         "coordinates": [
           -82.48334,
           29.143528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e4a8447e-45d2-5ca5-b5ed-ea8ca7935e4d",
+        "address": "141 Thacker Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1506,
+        "listed_at": "2026-11-12T20:50:06.000Z",
+        "days_on_market": "27",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.554029,
+          36.593972
         ]
       }
     },
