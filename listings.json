@@ -38728,6 +38728,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "71ba07bd-3664-5ac0-8018-5989ecfd7c18",
+        "address": "2013 Waterstone Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1608,
+        "listed_at": "2026-11-12T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 214000,
+        "price_label": "$214K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.978311,
+          35.98954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "71bedc33-0335-590a-8fe6-73098380df54",
         "address": "437 Shady Ln",
         "beds": 3,
@@ -86644,27 +86665,6 @@
         "coordinates": [
           -84.113372,
           34.21006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "faa6872a-29ba-5a36-8533-ced95b4d1468",
-        "address": "567-Deadwood-Trl-Locust-Grove-GA-30248",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1922,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "78",
-        "current_price": 291000,
-        "price_label": "$291K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.084129,
-          33.397825
         ]
       }
     },
