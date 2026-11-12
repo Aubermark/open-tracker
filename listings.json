@@ -21151,6 +21151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3d966696-b818-50a4-b841-01971aa910f6",
+        "address": "1149 Furman Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1172,
+        "listed_at": "2026-11-12T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 182000,
+        "price_label": "$182K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.462308,
+          33.951669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3d976f84-0e79-58fc-bece-09252cb8bdd6",
         "address": "8915-Cinder-Ln-Huntersville-NC-28078",
         "beds": 4,
@@ -46267,6 +46288,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "88a3e867-f1c9-5699-86e4-8fd5e8947506",
+        "address": "225-Ash-Cir-Trussville-AL-35173",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1710,
+        "listed_at": "2026-11-12T20:40:05.000Z",
+        "days_on_market": "260",
+        "current_price": 252000,
+        "price_label": "$252K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59042,
+          33.619648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "88adce42-d52a-57a3-ad79-289d488babef",
         "address": "5640 Boulder Crest St",
         "beds": 3,
@@ -58231,6 +58273,27 @@
         "coordinates": [
           -83.743548,
           33.976268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aad5c66b-cb53-5bf4-b9a0-1d30403fd625",
+        "address": "4911 Penrose St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1953,
+        "listed_at": "2026-11-12T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.583574,
+          29.457594
         ]
       }
     },
@@ -87358,6 +87421,27 @@
         "coordinates": [
           -84.833705,
           33.602119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fccd8d60-7c73-5ea9-a75c-6d0c8c5cc310",
+        "address": "3235 Park Overlook Dr",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3290,
+        "listed_at": "2026-11-12T20:40:05.000Z",
+        "days_on_market": "13",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.134029,
+          45.038914
         ]
       }
     },
