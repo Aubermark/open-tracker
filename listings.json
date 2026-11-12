@@ -32890,27 +32890,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ea07a66-e2fc-5b1a-b823-7cf6ae8347c9",
-        "address": "204-Council-Loop-Columbia-SC-29209",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1440,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "101",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.937661,
-          33.953179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5ebe6a60-a889-5fca-9568-9d8cea882185",
         "address": "293 Hastings Dr",
         "beds": 3,
@@ -54136,6 +54115,27 @@
         "coordinates": [
           -111.802193,
           33.405596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a01b4bf8-e5a8-517b-954e-f2b45f3d7177",
+        "address": "1132 Mealor Rd",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1258,
+        "listed_at": "2026-11-12T16:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969344,
+          34.0017
         ]
       }
     },
