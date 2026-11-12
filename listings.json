@@ -41689,6 +41689,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ad0bc69-b33e-507b-9957-edcf229f86ae",
+        "address": "2694 Bay Crest Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2292,
+        "listed_at": "2026-11-12T09:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.936295,
+          33.883038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ad1a84c-6647-46bc-a599-fbd0942aea21",
         "address": "1577-Upper-141st-St-E-Rosemount-MN-55068",
         "beds": 4,
