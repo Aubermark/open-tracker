@@ -84004,6 +84004,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f2a3c898-9305-567a-aa0a-28f546831ae0",
+        "address": "994 Providence Rd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1677,
+        "listed_at": "2026-11-12T20:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 257000,
+        "price_label": "$257K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752975,
+          34.669497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f2b62d7e-f271-50c6-8d99-41dacb6ab631",
         "address": "11535 Clair Pl",
         "beds": 3,
