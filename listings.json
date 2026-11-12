@@ -9202,6 +9202,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19c56e1c-29ee-57f0-a750-0dead99b9fae",
+        "address": "3662-Brownley-Dr-Macon-GA-31206",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1359,
+        "listed_at": "2026-11-12T19:40:07.000Z",
+        "days_on_market": "84",
+        "current_price": 138000,
+        "price_label": "$138K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.702138,
+          32.803051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "19cf6d37-77bd-5e7b-bdfb-fe80f4adb26e",
         "address": "127-Jason-Dr-Red-Oak-TX-75154-18361941",
         "beds": 3,
@@ -56116,6 +56137,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a5a24d1e-3a75-54bc-a7fb-c5fbeab71129",
+        "address": "11307-Narrowleaf-Dr-Indianapolis-IN-46235",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1565,
+        "listed_at": "2026-11-12T19:40:07.000Z",
+        "days_on_market": "86",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.966395,
+          39.829636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a5b14778-9141-5bfa-ac88-f5106bfc3723",
         "address": "5925-Big-Horn-View-St-North-Las-Vegas-NV-89031",
         "beds": 4,
@@ -65875,27 +65917,6 @@
         "coordinates": [
           -80.017744,
           33.038142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0d3b534-c0c6-5639-be7b-409ec4b2b954",
-        "address": "606-E-Langley-Blvd-Universal-City-TX-78148",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1361,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "44",
-        "current_price": 195000,
-        "price_label": "$195K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.282793,
-          29.550112
         ]
       }
     },
