@@ -31294,6 +31294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5a272188-32a1-5257-920c-3255d5b726d3",
+        "address": "351 Cactus Sands Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1622,
+        "listed_at": "2026-11-12T22:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 390000,
+        "price_label": "$390K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.146145,
+          36.264065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5a42c548-235a-5075-b9d8-aec11415fa79",
         "address": "17297 Wilde Ave",
         "beds": 2,
@@ -77977,6 +77998,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e1425199-9965-544d-85a2-a1a1ab6b193c",
+        "address": "421 Hunters Dance Rd",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1308,
+        "listed_at": "2026-11-12T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.959326,
+          35.083109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e1895d5c-49b2-5f0a-a2d6-2b46aa4cf1b9",
         "address": "7329-Wilder-Ave-Jacksonville-FL-32208",
         "beds": 3,
@@ -86245,6 +86287,27 @@
         "coordinates": [
           -84.036949,
           33.104207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f94aa511-055c-5062-bb81-4154fd6901cd",
+        "address": "16315 Swan View Cir",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1240,
+        "listed_at": "2026-11-12T22:20:06.000Z",
+        "days_on_market": "31",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.545906,
+          28.185237
         ]
       }
     },
