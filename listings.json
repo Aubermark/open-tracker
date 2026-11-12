@@ -32029,6 +32029,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5c65af6b-815e-5815-ade9-fb1426e84c07",
+        "address": "410 Winterberry Ct",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1789,
+        "listed_at": "2026-11-12T08:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.273951,
+          39.431789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c65dc0a-72a0-515d-9c6a-2d5d01a0d658",
         "address": "250 Maison Dr",
         "beds": 2,
