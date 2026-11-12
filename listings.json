@@ -47905,6 +47905,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d7a3751-edef-51bc-be1b-4288454c8e4c",
+        "address": "4645 S Swadley Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1450,
+        "listed_at": "2026-11-12T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.129822,
+          39.633784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d8de036-96f4-5ce8-b789-d74a2a1a4a2a",
         "address": "3001-Gilchrist-Dr-Lorena-TX-76655",
         "beds": 5,
