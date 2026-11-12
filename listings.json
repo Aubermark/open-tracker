@@ -70228,6 +70228,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cc23f478-4306-52d4-92a1-7ea1b9835134",
+        "address": "5405 Carefree Cir",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1562,
+        "listed_at": "2026-11-12T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.148707,
+          29.482131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cc28d12c-8d11-56ea-81c9-9d4701c2ae94",
         "address": "3955-Village-Estates-Ct-Cumming-GA-30040",
         "beds": 3,
