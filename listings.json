@@ -57754,6 +57754,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a99c9af9-f6f0-5fa1-b9b1-1766da5d772c",
+        "address": "6653 Saint Jude Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1397,
+        "listed_at": "2026-11-12T08:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 269000,
+        "price_label": "$269K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.623652,
+          33.57711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a9a0f019-cde1-5775-af53-fd6e5f7fa007",
         "address": "7518 E 29th St",
         "beds": 2,
