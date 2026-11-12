@@ -20668,6 +20668,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3c4f3a42-5d6c-5121-9ca7-46b817bde6a8",
+        "address": "7906 W Farm Road 94",
+        "beds": 6,
+        "baths": 7,
+        "sqft": 15929,
+        "listed_at": "2026-11-12T15:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 1530000,
+        "price_label": "$1.530M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.448799,
+          37.273801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3c603682-6e8c-50c6-9bfb-c2537fa23046",
         "address": "10471 W 83rd Pl",
         "beds": 4,
@@ -80533,6 +80554,27 @@
         "coordinates": [
           -83.744296,
           34.126974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e8ebf840-5a9f-5ecb-b32a-bdcff6403b19",
+        "address": "207-Cagle-Ct-Mc-Donough-GA-30252",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 4031,
+        "listed_at": "2026-11-12T15:00:06.000Z",
+        "days_on_market": "187",
+        "current_price": 650000,
+        "price_label": "$650K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.041638,
+          33.415443
         ]
       }
     },
