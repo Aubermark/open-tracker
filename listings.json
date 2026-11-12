@@ -48766,6 +48766,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9039f7a9-0c80-54ff-9841-5191dc99830c",
+        "address": "3648-Aja-Koren-Pl-El-Paso-TX-79938",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2214,
+        "listed_at": "2026-11-12T22:40:06.000Z",
+        "days_on_market": "111",
+        "current_price": 257000,
+        "price_label": "$257K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.255023,
+          31.797443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "904c8520-15e9-52d7-be8a-31cf90235276",
         "address": "1721 Zevon Ct",
         "beds": 3,
