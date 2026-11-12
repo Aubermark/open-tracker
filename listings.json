@@ -65125,6 +65125,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "beb0e73f-e276-5ed0-ae0a-5e600f2008b5",
+        "address": "804 W Russell Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "listed_at": "2026-11-12T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130093,
+          27.998089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bebd9128-30f8-59cf-a19a-829c91159be3",
         "address": "4206-E-16th-St-Indianapolis-IN-46201",
         "beds": 2,
