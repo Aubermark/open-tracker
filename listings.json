@@ -13423,6 +13423,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "286e098e-bb8f-5bde-abcf-5c128dee8ff6",
+        "address": "2523 Gate Dancer",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2181,
+        "listed_at": "2026-11-13T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 255000,
+        "price_label": "$255K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.717691,
+          29.406021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "28725b1b-e554-50ed-ac53-306b1857bdb3",
         "address": "2036-Glastonbury-Dr-Franklin-TN-37069",
         "beds": 4,
@@ -20059,27 +20080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b031850-8dd6-591c-a3c7-78e2d92c5d93",
-        "address": "10640-Se-54th-Ave-Belleview-FL-34420",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1055,
-        "listed_at": "2026-08-14T05:31:32.000Z",
-        "days_on_market": "92",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.059397,
-          29.067431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b045e20-1364-504a-b125-9102206757bc",
         "address": "6212-Warm-River-Rd-Las-Vegas-NV-89108",
         "beds": 3,
@@ -26710,6 +26710,27 @@
         "coordinates": [
           -81.20985,
           33.940596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4d26f156-9820-5855-8952-ca577020016d",
+        "address": "100 Laurel Canyon Trl",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3647,
+        "listed_at": "2026-11-13T15:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 711000,
+        "price_label": "$711K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.513936,
+          34.270313
         ]
       }
     },
