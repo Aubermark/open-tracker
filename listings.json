@@ -25855,6 +25855,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4a621407-54fe-51f9-9425-1a4fbed6de37",
+        "address": "3067 Roscommon Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-11-13T15:50:05.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.450124,
+          35.835436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4a699dc0-ecc3-5664-be09-6832e982f7d7",
         "address": "5025-Hillsboro-Pike-Apt-7-A-Nashville-TN-37215",
         "beds": 2,
@@ -56530,27 +56551,6 @@
         "coordinates": [
           -80.856161,
           35.119904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a6c2c13a-5ad5-5c12-9795-f4702afa0e73",
-        "address": "124-Creekview-Dr-Woodstock-GA-30188",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2164,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "259",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.497439,
-          34.090386
         ]
       }
     },
