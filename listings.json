@@ -35116,6 +35116,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "658870d6-62c6-5ec2-a2e8-2f05363d7412",
+        "address": "2813-Wood-Dr-Ne-Center-Point-AL-35215",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1899,
+        "listed_at": "2026-11-13T16:20:06.000Z",
+        "days_on_market": "214",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67751,
+          33.659407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "658cb81e-add5-5429-86bd-9d2243a68d8d",
         "address": "4415 W Paseo Way",
         "beds": 5,
@@ -64321,27 +64342,6 @@
         "coordinates": [
           -84.211147,
           33.574637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bc812fae-12dd-5079-b607-00b8a4149d45",
-        "address": "20423 N 149th Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1766,
-        "listed_at": "2026-10-30T23:10:03.000Z",
-        "days_on_market": "14",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.38161,
-          33.670595
         ]
       }
     },
