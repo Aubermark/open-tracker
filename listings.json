@@ -39148,6 +39148,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "734faa55-39cd-5e9b-a0b3-21dc767faea0",
+        "address": "199 Memory Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2335,
+        "listed_at": "2026-11-13T15:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.275308,
+          33.53139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "735986df-5e95-57c4-81a5-27ba5bdf2691",
         "address": "801-Courtland-Ct-Belton-MO-64012",
         "beds": 3,
