@@ -36670,6 +36670,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6a7674ac-4016-5ac1-ae76-55c4f714a99d",
+        "address": "852 Carter Rd",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2747,
+        "listed_at": "2026-11-13T17:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 346000,
+        "price_label": "$346K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41852,
+          33.502775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6a7a6d49-efc3-5671-a96b-d83e401d3104",
         "address": "145-Saks-Ave-Lexington-SC-29072",
         "beds": 5,
@@ -49495,6 +49516,27 @@
         "coordinates": [
           -86.728499,
           36.206758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "932b1731-d5f0-5a98-891b-9902bd15e6df",
+        "address": "3225-Cleveland-Heights-Blvd-Lakeland-FL-33803",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 959,
+        "listed_at": "2026-11-13T17:20:05.000Z",
+        "days_on_market": "66",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.949116,
+          28.004699
         ]
       }
     },
@@ -73210,27 +73252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d3eca66c-4b00-52e1-9a50-eceadb1eea23",
-        "address": "59-Sable-Ct-Lake-Saint-Louis-MO-63367",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2322,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "112",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.798073,
-          38.798395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d3f1f75d-640b-55f1-9b3f-b8e27ee17226",
         "address": "6875-Crimson-Shadow-St-North-Las-Vegas-NV-89086",
         "beds": 4,
@@ -77719,27 +77740,6 @@
         "coordinates": [
           -82.729661,
           28.279291
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e09df29f-72c7-5d1f-a5be-abde51436027",
-        "address": "945-N-Woodridge-Ct-Wichita-KS-67206",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 3720,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "94",
-        "current_price": 565000,
-        "price_label": "$565K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.19456,
-          37.701412
         ]
       }
     },
