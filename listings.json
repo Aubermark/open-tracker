@@ -64957,6 +64957,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "be003bab-d6a4-5eac-85cd-2b44a80d6698",
+        "address": "5040 Bambi Trl",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2766,
+        "listed_at": "2026-11-13T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.107232,
+          34.290773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "be169649-30af-5c93-a18b-a07e2af5f5ac",
         "address": "2-Tidewater-Trce-Batavia-OH-45103",
         "beds": 3,
