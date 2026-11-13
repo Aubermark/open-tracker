@@ -63802,6 +63802,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "baf59f46-8ed8-59fe-b016-ccd02efc8295",
+        "address": "133-Snow-Ln-Lexington-SC-29073",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1715,
+        "listed_at": "2026-11-13T17:10:06.000Z",
+        "days_on_market": "140",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.155255,
+          34.003295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "bb01e5cc-3a65-57a6-a653-f90354040362",
         "address": "1465-Millstream-Ln-Apt-104-Dunedin-FL-34698",
         "beds": 2,
