@@ -50173,6 +50173,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "94fd15ba-b315-5209-a313-0b4c61bde032",
+        "address": "2522 Indian Bluffs Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2832,
+        "listed_at": "2026-11-13T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 396000,
+        "price_label": "$396K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.874541,
+          33.955087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9512aaba-9fbd-5ac4-b4fd-68e18e0ca135",
         "address": "1074 Chateau Dr",
         "beds": 4,
@@ -67303,6 +67324,27 @@
         "coordinates": [
           -111.980311,
           33.482527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4aad729-7faa-507b-9546-db9797d0f841",
+        "address": "414 Clyde Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1321,
+        "listed_at": "2026-11-13T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 210000,
+        "price_label": "$210K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.173112,
+          33.951049
         ]
       }
     },
