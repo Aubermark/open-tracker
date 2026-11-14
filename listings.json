@@ -78586,6 +78586,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "e193e92e-1b37-5dda-856a-878dfcb48541",
+        "address": "3106 Bainbridge Hill Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2090,
+        "listed_at": "2026-11-14T11:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.373104,
+          29.610376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "e198cb31-4401-5a98-aef4-b4bc7ef897ef",
         "address": "7104-36th-Street-Ct-Nw-Gig-Harbor-WA-98335",
         "beds": 3,
