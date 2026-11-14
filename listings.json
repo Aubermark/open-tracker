@@ -37426,6 +37426,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6bcfc2a6-4794-5dc1-bd48-f1e7fd529e87",
+        "address": "23 Almond Pass Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1092,
+        "listed_at": "2026-11-14T18:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.047879,
+          29.165738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bdaf065-5a1b-5291-b330-f186aa16fe57",
         "address": "2120 Lazy Brook Trl",
         "beds": 3,
