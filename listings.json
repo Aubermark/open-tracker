@@ -59602,6 +59602,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ad9c0022-c2e6-5a47-be5a-8c6ff15a98ee",
+        "address": "3112 Unity Tree Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1355,
+        "listed_at": "2026-11-14T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908477,
+          28.938439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ada51935-1fde-500a-b037-6429f407d262",
         "address": "6520-Nw-61st-Ct-Ocala-FL-34482",
         "beds": 3,
@@ -76102,6 +76123,27 @@
         "coordinates": [
           -85.978372,
           39.699518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d9cc2846-42c5-5788-bfef-cc6ddec861b2",
+        "address": "7274 Shoreline Dr",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 775,
+        "listed_at": "2026-11-14T09:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.202703,
+          32.864917
         ]
       }
     },
