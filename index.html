@@ -3366,6 +3366,139 @@
 
 
 
+
+
+
+
+
+/* ════════════════════════════════════════════
+   BADGE MINIJUEGO (itch.io) 
+   Escritorio: bajo "Tracking since". Movil: a la derecha de Map Explorer.
+════════════════════════════════════════════ */
+.top-bar { position: relative; }
+
+.game-badge {
+  /* Escritorio: flota bajo las pills, en la fila de Last update,
+     sin ocupar espacio en la pagina */
+  position: absolute;
+  right: 0;
+  top: calc(100% + 12px);   /* centrado con la linea de Last update */
+
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  height: 40px;
+  padding: 0 5px 0 5px;
+  border-radius: 6px;
+  text-decoration: none;
+  background: linear-gradient(135deg, #0d2137, #0d3347);
+  border: 1px solid #2980b9;
+  transition: border-color .15s ease, background .15s ease, transform .15s ease;
+}
+.game-badge:hover {
+  border-color: #38bdf8;
+  background: linear-gradient(135deg, #0f2843, #0f3b52);
+  transform: translateY(-1px);
+}
+.game-badge:focus-visible { outline: 2px solid #38bdf8; outline-offset: 2px; }
+
+.game-badge-icon {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(56, 189, 248, 0.10);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+}
+.game-badge:hover .game-badge-icon svg { animation: game-house-bob .9s ease-in-out infinite; }
+
+.game-badge-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.game-badge-title {
+  font: 600 12.5px/1.1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #a2d4f3;
+  white-space: nowrap;
+}
+.game-badge-title b { font-weight: 800; color: #d6eefc; }
+.game-badge-sub {
+  font: 700 9.5px/1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: rgba(251, 191, 36, 0.8);
+  white-space: nowrap;
+}
+
+.game-badge-play {
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0 8px;
+  border-radius: 5px;
+  font: 800 10px/1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  letter-spacing: .1em;
+  color: #fbbf24;
+  border: 1px solid rgba(251, 191, 36, 0.35);
+  background: rgba(251, 191, 36, 0.06);
+}
+.game-badge:hover .game-badge-play {
+  border-color: rgba(251, 191, 36, 0.6);
+  background: rgba(251, 191, 36, 0.12);
+}
+
+@keyframes game-house-bob {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50%      { transform: translateY(-1.5px) rotate(-5deg); }
+}
+
+/* ── Movil y tablet: junto a Map Explorer y de su mismo tamano ── */
+@media (max-width: 768px) {
+  .map-explorer-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .map-explorer-link > a:first-child { white-space: nowrap; flex-shrink: 0; }
+  .game-badge {
+    position: static;
+    min-width: 0;
+    height: 31px;                 /* misma altura que Map Explorer */
+    padding: 0 10px 0 3px;
+    gap: 7px;
+    border-radius: 10px;          /* mismas esquinas que Map Explorer */
+  }
+  .game-badge-icon { width: 24px; height: 24px; border-radius: 7px; }
+  .game-badge-sub,
+  .game-badge-play-word { display: none; }
+  .game-badge-title { font-size: 13px; }
+  .game-badge-play {
+    height: auto;
+    padding: 0;
+    border: 0;
+    background: none;
+    font-size: 11px;
+  }
+}
+
+/* Pantallas muy estrechas (iPhone SE): solo "Clicker" para caber junto a Map Explorer */
+@media (max-width: 380px) {
+  .game-badge-brand { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .game-badge:hover .game-badge-icon svg { animation: none; }
+  .game-badge, .game-badge:hover { transition: none; transform: none; }
+}
+
+
+
+
     </style>
   </head>
 
@@ -3414,6 +3547,26 @@
             >
               🗺️ Map Explorer
             </a>
+
+
+
+            <a class="game-badge" href="https://aubermark.itch.io/opendoor-clicker-house-by-house" target="_blank" rel="noopener"
+              title="Opendoor Clicker: House by House (fan-made, unofficial)">
+              <span class="game-badge-icon" aria-hidden="true">
+                <svg viewBox="0 0 32 32" width="20" height="20">
+                  <rect x="7.5" y="14" width="17" height="13" rx="1.5" fill="#fbbf24" stroke="#7c2d12" stroke-width="1.6"/>
+                  <path d="M4 15.5 L16 5.5 L28 15.5" fill="none" stroke="#ea580c" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+                  <rect x="10.6" y="17.4" width="4" height="4.8" rx=".6" fill="#38bdf8" stroke="#0c4a6e" stroke-width="1"/>
+                  <rect x="17.2" y="18" width="4.6" height="9" rx=".6" fill="#b45309" stroke="#7c2d12" stroke-width="1"/>
+                </svg>
+              </span>
+              <span class="game-badge-text">
+                <span class="game-badge-title"><span class="game-badge-brand">Opendoor </span><b>Clicker</b></span>
+                <span class="game-badge-sub">House by House</span>
+              </span>
+              <span class="game-badge-play"><span class="game-badge-play-word">PLAY</span> ▶</span>
+            </a>
+
           </div>
 
 
@@ -3438,7 +3591,7 @@
           <div class="hero-meta-row">
               <div class="hero-meta-item">
                 <span class="hero-meta-label">Last update</span>
-                <span class="hero-meta-value">15/11/2026, 17:20 (CET)</span>
+                <span class="hero-meta-value">15/11/2026, 17:25 (CET)</span>
               </div>
           </div>
         </section>
