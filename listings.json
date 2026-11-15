@@ -67393,6 +67393,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c60b26e5-cc17-58d7-a54b-6ad86b52d63f",
+        "address": "6936 Red Bone Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1973,
+        "listed_at": "2026-11-15T23:00:05.000Z",
+        "days_on_market": "38",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.116287,
+          33.634331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c625645d-6abc-4804-8951-3e8009a7ae4d",
         "address": "27744-Bay-Ave-Moreno-Valley-CA-92555",
         "beds": 4,
