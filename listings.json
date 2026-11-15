@@ -29215,27 +29215,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5442cdcd-9300-5b32-9989-7b79e5e42d0b",
-        "address": "1923-Lakewood-Ct-Chatham-IL-62629",
-        "beds": 5,
-        "baths": 4.5,
-        "sqft": 4178,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "65",
-        "current_price": 531000,
-        "price_label": "$531K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.678495,
-          39.669336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5458db12-9209-57fa-a6f9-30da29d9cb86",
         "address": "181-Attleboro-Pl-Mooresville-NC-28117",
         "beds": 4,
@@ -45505,6 +45484,27 @@
         "coordinates": [
           -82.090793,
           26.998827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "86d72727-4696-5a46-b513-c7005673f84c",
+        "address": "20021-Kent-Ln-Canyon-Country-CA-91351",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1709,
+        "listed_at": "2026-11-15T17:00:06.000Z",
+        "days_on_market": "58",
+        "current_price": 799000,
+        "price_label": "$799K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.485441,
+          34.439598
         ]
       }
     },
