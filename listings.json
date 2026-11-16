@@ -49858,6 +49858,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9524b7ba-9403-5344-aa10-7c0b9b6098ab",
+        "address": "4118-W-Saint-Anne-Ave-Phoenix-AZ-85041",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3646,
+        "listed_at": "2026-11-16T22:30:06.000Z",
+        "days_on_market": "118",
+        "current_price": 470000,
+        "price_label": "$470K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.147411,
+          33.386653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "95384906-07ef-5c37-a889-0b315be2027b",
         "address": "5140 Kedron Rd",
         "beds": 3,
@@ -54241,27 +54262,6 @@
         "coordinates": [
           -83.813167,
           35.799459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a1c4ba59-d749-5706-b94d-91fd0f7c7aed",
-        "address": "8643 Goswell Dr",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2530,
-        "listed_at": "2026-11-05T19:10:04.000Z",
-        "days_on_market": "11",
-        "current_price": 313000,
-        "price_label": "$313K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.386414,
-          33.52028
         ]
       }
     },
@@ -78160,6 +78160,27 @@
         "coordinates": [
           -111.710498,
           33.618187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e2e2547b-8327-5ce3-82b9-982299b8e2a2",
+        "address": "271 Golden Oats Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1722,
+        "listed_at": "2026-11-16T22:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 347000,
+        "price_label": "$347K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.771608,
+          35.475166
         ]
       }
     },
