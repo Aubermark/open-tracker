@@ -6976,27 +6976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "13723df5-154a-5f4d-8698-e801db9335fd",
-        "address": "1958 Commander Way",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1636,
-        "listed_at": "2026-10-09T14:00:03.000Z",
-        "days_on_market": "38",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.42345,
-          28.266081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "13727750-8b3d-5a0e-aef0-132bc1220650",
         "address": "958 NE Shelly Ct",
         "beds": 3,
@@ -58063,6 +58042,27 @@
         "coordinates": [
           -82.045204,
           28.870439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ac01ea1c-a169-51fc-b39f-4a3981547c2c",
+        "address": "17349-E-El-Pueblo-Blvd-Fountain-Hills-AZ-85268",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1449,
+        "listed_at": "2026-11-16T21:20:06.000Z",
+        "days_on_market": "164",
+        "current_price": 449000,
+        "price_label": "$449K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.705356,
+          33.624294
         ]
       }
     },
