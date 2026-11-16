@@ -36733,6 +36733,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6ba8cff5-42d1-5ee5-b26a-4dc4f070f0ba",
+        "address": "1705 Erin Trce",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1062,
+        "listed_at": "2026-11-16T23:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.549519,
+          35.99848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6bb3feb1-bb98-5c53-ad74-f4560f04ae8d",
         "address": "4269-Bramblewood-Loop-Spring-Hill-FL-34609",
         "beds": 3,
@@ -86077,27 +86098,6 @@
         "coordinates": [
           -97.075462,
           32.874252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fa148c80-8043-5ea8-a59d-e96aa8ae46bf",
-        "address": "24346-Lehigh-St-Dearborn-Heights-MI-48125",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1000,
-        "listed_at": "2026-09-11T15:00:03.000Z",
-        "days_on_market": "66",
-        "current_price": 150000,
-        "price_label": "$150K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.274393,
-          42.278252
         ]
       }
     },
