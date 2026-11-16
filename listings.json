@@ -8887,6 +8887,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1950092c-afac-5725-b371-2824a4fe44a4",
+        "address": "706-Crescent-Dr-Cherryville-NC-28021",
+        "beds": 4,
+        "baths": 4,
+        "sqft": 3978,
+        "listed_at": "2026-11-16T14:20:05.000Z",
+        "days_on_market": "215",
+        "current_price": 449000,
+        "price_label": "$449K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.370569,
+          35.373474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1960a4fb-08c7-59b5-9aa4-fbd4115de2b6",
         "address": "5634-Tulip-Grove-Dr-Memphis-TN-38135",
         "beds": 3,
