@@ -51370,6 +51370,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "99d995df-fc16-50af-83b4-c492234fc5e3",
+        "address": "185-Boiling-Brook-Dr-Statesville-NC-28625",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3216,
+        "listed_at": "2026-11-16T14:10:06.000Z",
+        "days_on_market": "200",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870309,
+          35.829522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "99dc96c4-34f9-59a9-95e3-cb6e3ade3da7",
         "address": "6621-Starcrest-Dr-Charlotte-NC-28210",
         "beds": 3,
