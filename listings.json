@@ -1600,6 +1600,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03c74e0c-4337-54c9-bd42-6a7912c27c71",
+        "address": "1458 Rhodes Rhyne Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 949,
+        "listed_at": "2026-11-16T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 197000,
+        "price_label": "$197K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.270071,
+          35.445776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03d330d2-d259-4a94-9148-241e24d77dec",
         "address": "782-High-Summit-Dr-Talking-Rock-GA-30175",
         "beds": 2,
@@ -42613,6 +42634,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ef4dad6-a5b2-5c2b-b3ca-81e4caa62e3b",
+        "address": "8100 Denbur Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1779,
+        "listed_at": "2026-11-16T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.670185,
+          35.227431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7efa3d16-df73-5e5f-bb99-6cc133a98724",
         "address": "162 Simpson Rd",
         "beds": 3,
@@ -62137,6 +62179,27 @@
         "coordinates": [
           -82.651221,
           28.496796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b7774022-f86f-5730-9993-6c0c7161006e",
+        "address": "8139 Cedar Glen Dr",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 894,
+        "listed_at": "2026-11-16T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74909,
+          35.159259
         ]
       }
     },
