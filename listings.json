@@ -51958,6 +51958,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9b671daf-a6c2-42d8-8603-939ab182d482",
+        "address": "60 Steel Springs Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2089,
+        "listed_at": "2026-11-16T22:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.762771,
+          35.51501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9b715dfd-99ed-5643-af87-328b6b2a7236",
         "address": "130-Lancaster-St-Chester-SC-29706",
         "beds": 3,
@@ -62137,27 +62158,6 @@
         "coordinates": [
           -96.872454,
           33.106795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b753559a-f871-5578-b977-2ef3a40ce0a2",
-        "address": "1102-Londonderry-Ave-Friendswood-TX-77546",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2117,
-        "listed_at": "2026-11-16T22:40:06.000Z",
-        "days_on_market": "83",
-        "current_price": 379000,
-        "price_label": "$379K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.20515,
-          29.506635
         ]
       }
     },
