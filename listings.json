@@ -42340,6 +42340,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7e4e29f4-17f0-5be9-abfe-c1c2694a3014",
+        "address": "8518 McClure Cir",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1575,
+        "listed_at": "2026-11-16T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 332000,
+        "price_label": "$332K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.934024,
+          35.306631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7e5b2cae-39b3-5eb1-a38c-795dc49f858c",
         "address": "3518-Gorman-Dr-New-Port-Richey-FL-34655",
         "beds": 2,
@@ -55354,6 +55375,27 @@
         "coordinates": [
           -80.841375,
           35.210837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a465b765-0811-572f-a342-4f01fc68a543",
+        "address": "318-Floravista-Dr-Webster-TX-77598",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1512,
+        "listed_at": "2026-11-16T17:10:06.000Z",
+        "days_on_market": "111",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.139615,
+          29.547171
         ]
       }
     },
