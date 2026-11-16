@@ -49648,6 +49648,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "94b3fa2b-39e5-5849-8c91-a2845269cad8",
+        "address": "1025-Crown-Corners-Dr-Mc-Donough-GA-30253",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2187,
+        "listed_at": "2026-11-16T14:40:05.000Z",
+        "days_on_market": "52",
+        "current_price": 362000,
+        "price_label": "$362K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1429,
+          33.511708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "94bf6c50-1d6b-500b-8b60-8ede7afa4d36",
         "address": "1480-Sw-47th-Ave-Deerfield-Beach-FL-33442",
         "beds": 2,
