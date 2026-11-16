@@ -44167,6 +44167,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8397b6fd-062b-4dac-a740-2a82b7508fda",
+        "address": "112 Somerset Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1406,
+        "listed_at": "2026-11-16T15:00:05.000Z",
+        "days_on_market": "11",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.984325,
+          36.346152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "839a337a-d029-5a59-9d85-e834bd341353",
         "address": "715-E-72nd-Ter-Kansas-City-MO-64131",
         "beds": 3,
