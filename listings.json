@@ -56326,27 +56326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a75c8acc-6a63-5b06-ac50-74d0ade404d9",
-        "address": "5501 Chapel Dr NW",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1645,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "33",
-        "current_price": 390000,
-        "price_label": "$390K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.699273,
-          35.200465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a75cbfc6-c294-53e1-a277-51f20241691f",
         "address": "229 Cater St",
         "beds": 2,
@@ -67051,6 +67030,27 @@
         "coordinates": [
           -89.722545,
           35.194017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c4cec8a6-5d6d-55b1-ade2-c71d1768c248",
+        "address": "112 Winners Cir",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1117,
+        "listed_at": "2026-11-16T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.789774,
+          35.763194
         ]
       }
     },
