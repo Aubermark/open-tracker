@@ -71173,6 +71173,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfdc7638-d726-5404-add0-0748d9e3a634",
+        "address": "1820 Tulip Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1296,
+        "listed_at": "2026-11-16T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.858106,
+          38.864125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfe4d3c6-ab13-5973-a478-843e528f030b",
         "address": "1202-Hillside-Blvd-Wilmington-DE-19803",
         "beds": 3,
