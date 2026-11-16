@@ -928,27 +928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "02158333-4fdf-57dc-94cd-2c8a03deab57",
-        "address": "1812-Devonridge-Dr-Fuquay-Varina-NC-27526",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2777,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "162",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.808519,
-          35.608734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "022301b9-468a-538b-83c1-fd64791bd84a",
         "address": "704-Morningside-Dr-Mount-Holly-NC-28120-9168436",
         "beds": 2,
@@ -63544,6 +63523,27 @@
         "coordinates": [
           -81.958176,
           34.894401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bb3610eb-c159-537b-b387-5663a667298e",
+        "address": "119-Old-State-Cir-Powell-TN-37849",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1406,
+        "listed_at": "2026-11-16T13:30:05.000Z",
+        "days_on_market": "101",
+        "current_price": 233000,
+        "price_label": "$233K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.100953,
+          36.03517
         ]
       }
     },
