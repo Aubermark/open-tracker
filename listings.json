@@ -48157,6 +48157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8f2f033c-7398-5807-8cef-278295efefde",
+        "address": "3650 Coach Lantern Ave",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3307,
+        "listed_at": "2026-11-16T20:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 612000,
+        "price_label": "$612K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.513088,
+          35.912438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8f32ac57-1ed0-5c40-a182-599211b7fa8e",
         "address": "8322-Oakleaf-Meadow-Ct-Rosharon-TX-77583",
         "beds": 4,
