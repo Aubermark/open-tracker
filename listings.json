@@ -40219,6 +40219,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "778f4054-1e98-56cb-b805-4706404493cd",
+        "address": "1841 Balmoral Dr",
+        "beds": 1,
+        "baths": 2,
+        "sqft": 1328,
+        "listed_at": "2026-11-16T16:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 142000,
+        "price_label": "$142K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.984043,
+          35.016877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "779476ba-a44b-5e49-bdf7-6385db81da9c",
         "address": "4552-Fall-City-Rd-Jasper-AL-35503",
         "beds": 3,
