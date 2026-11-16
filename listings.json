@@ -40093,6 +40093,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "775565cd-1fc2-50c4-916c-9389765d6b49",
+        "address": "1066-Rabon-Pond-Dr-Columbia-SC-29223",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1680,
+        "listed_at": "2026-11-16T22:10:06.000Z",
+        "days_on_market": "133",
+        "current_price": 224000,
+        "price_label": "$224K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.928894,
+          34.098823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "775b4f8f-54b2-5772-b1f5-cc95f9c982a4",
         "address": "90-Scotts-Pine-Cir-Wake-Forest-NC-27587",
         "beds": 4,
@@ -59134,6 +59155,27 @@
         "coordinates": [
           -116.304512,
           33.733736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "aee0b02c-de0b-5c77-bb36-5755ae75bdcd",
+        "address": "1202 Clay St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-11-16T22:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.770802,
+          29.590039
         ]
       }
     },
