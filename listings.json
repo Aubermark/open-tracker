@@ -17854,6 +17854,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "350a02be-8108-5a3b-9928-0a3eed13eec1",
+        "address": "512 Blooming Meadows Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2983,
+        "listed_at": "2026-11-16T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 517000,
+        "price_label": "$517K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.824367,
+          35.645507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "350c5eb3-4c4d-517b-a652-755113680f53",
         "address": "379 Elk Trl",
         "beds": 3,
@@ -65077,6 +65098,27 @@
         "coordinates": [
           -96.865043,
           33.146992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf695797-a871-531f-8364-ee8fcb26ed55",
+        "address": "724 Overton Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1872,
+        "listed_at": "2026-11-16T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.366522,
+          36.56473
         ]
       }
     },
