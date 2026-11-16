@@ -68590,6 +68590,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c8bbca18-59aa-571b-a5b5-bc0c50c7acb8",
+        "address": "380 W Carmen St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1073,
+        "listed_at": "2026-11-16T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94796,
+          33.359809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c8c37a3a-3e1e-573e-8479-9b8dca391436",
         "address": "3209-Swan-Pl-Lynchburg-VA-24501",
         "beds": 4,
@@ -84061,27 +84082,6 @@
         "coordinates": [
           -81.259433,
           34.155702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f3ebc9a8-3fee-530a-8429-e310c83018ea",
-        "address": "1955-Blossom-Creek-Ln-Cumming-GA-30040",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3635,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "60",
-        "current_price": 600000,
-        "price_label": "$600K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.178215,
-          34.228873
         ]
       }
     },
