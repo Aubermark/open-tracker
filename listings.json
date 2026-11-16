@@ -34171,6 +34171,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "633cee8e-ffc8-51e2-bce9-514a3fd294a7",
+        "address": "2817 Heather Glen Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1786,
+        "listed_at": "2026-11-16T16:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.915381,
+          35.247203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "635b49e1-7d40-5e94-b01d-3eee27e4f2a8",
         "address": "305 Indian Wells Ct",
         "beds": 2,
@@ -86728,27 +86749,6 @@
         "coordinates": [
           -95.596348,
           29.94644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fc3cb4a3-c4cc-5a58-ba3a-bbf8a4c53c09",
-        "address": "20710-Miller-Ave-Cleveland-OH-44119",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1504,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "228",
-        "current_price": 170000,
-        "price_label": "$170K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.535805,
-          41.588258
         ]
       }
     },
