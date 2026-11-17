@@ -39736,6 +39736,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "760f3bfb-a70c-5781-b954-46c05d3282a1",
+        "address": "1011 Valley Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 3075,
+        "listed_at": "2026-11-17T13:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.685962,
+          36.423737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7610bf49-a8b6-55b0-9681-cfab4a4eaa7c",
         "address": "11715-Dunhill-Place-Dr-Alpharetta-GA-30005",
         "beds": 5,
@@ -82759,27 +82780,6 @@
         "coordinates": [
           -81.158322,
           33.940001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "efc8bc4f-9b31-55bf-b23e-c1b4e3fd67b5",
-        "address": "1600-Donora-Ct-Henrico-VA-23229",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2752,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "47",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.573228,
-          37.611567
         ]
       }
     },
