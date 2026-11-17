@@ -13255,6 +13255,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "280f3d8d-e2f9-511f-bf38-52285bec04bf",
+        "address": "409 Iona Way",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1716,
+        "listed_at": "2026-11-17T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.679266,
+          35.988962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2813f8b3-d672-5581-9af6-88febfa8f713",
         "address": "12904-E-54th-St-Kansas-City-MO-64133",
         "beds": 3,
