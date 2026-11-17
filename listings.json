@@ -3973,27 +3973,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0ad31150-1e06-5ab4-b9c4-f09bd9cbaa76",
-        "address": "223-Williston-Dr-Huntsville-AL-35806",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1806,
-        "listed_at": "2026-11-17T18:10:07.000Z",
-        "days_on_market": "162",
-        "current_price": 303000,
-        "price_label": "$303K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.683364,
-          34.778423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0adfb7e4-6e3d-5f72-836c-afd23f0a774d",
         "address": "1310 Mingo Church Rd",
         "beds": 3,
@@ -23461,27 +23440,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "43c0e91b-920b-5255-a812-3e8d0ac0ae43",
-        "address": "3325-W-Dunbar-Dr-Phoenix-AZ-85041",
-        "beds": 5,
-        "baths": 3.5,
-        "sqft": 2980,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "89",
-        "current_price": 425000,
-        "price_label": "$425K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.129864,
-          33.378889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "43db42c0-0266-5819-b4b4-5898d0b87108",
         "address": "18402-W-93rd-Pl-Arvada-CO-80007",
         "beds": 6,
@@ -38134,6 +38092,27 @@
         "coordinates": [
           -83.131516,
           40.218409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "703e607f-13d7-54b2-a576-4b5b2d79fe7f",
+        "address": "697 Bright Orchid Ave",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 3154,
+        "listed_at": "2026-11-17T18:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564955,
+          35.362092
         ]
       }
     },
@@ -82885,6 +82864,27 @@
         "coordinates": [
           -95.757032,
           29.673201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ef81a6cf-f3f7-5f9a-a44a-1b00e787d470",
+        "address": "4641 Oakview Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1689,
+        "listed_at": "2026-11-17T18:30:06.000Z",
+        "days_on_market": "0",
+        "current_price": 288000,
+        "price_label": "$288K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.926722,
+          35.854188
         ]
       }
     },
