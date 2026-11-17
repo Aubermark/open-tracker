@@ -46792,6 +46792,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bc7149c-8f2b-5e0b-a590-5bd8389e0171",
+        "address": "714-Bolling-Ln-Houston-TX-77076",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 1800,
+        "listed_at": "2026-11-17T18:20:06.000Z",
+        "days_on_market": "89",
+        "current_price": 248000,
+        "price_label": "$248K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388544,
+          29.846995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bc9e813-85b3-535c-974d-8684485f5343",
         "address": "432 Southgate Dr",
         "beds": 3,
@@ -86692,27 +86713,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "fb147c9d-ec73-5062-beab-3e4f5fcc25e1",
-        "address": "10020-W-Montecito-Ave-Phoenix-AZ-85037",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1989,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "84",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.276868,
-          33.499336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "fb1e5f0f-747a-470c-b3c5-fdf7978cb633",
         "address": "402 N Race St",
         "beds": 5,
@@ -87232,6 +87232,27 @@
         "coordinates": [
           -83.901315,
           34.150885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd0d2e0e-0e8a-573c-a9b6-e6d63266db65",
+        "address": "13399-W-84th-Pl-Arvada-CO-80005",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3636,
+        "listed_at": "2026-11-17T18:20:06.000Z",
+        "days_on_market": "83",
+        "current_price": 788000,
+        "price_label": "$788K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.15021,
+          39.850552
         ]
       }
     },
