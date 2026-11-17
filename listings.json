@@ -9013,6 +9013,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "19a2f95c-4d99-5c57-afeb-4c26ce0622a0",
+        "address": "7641-Germander-Ln-Indianapolis-IN-46237",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2158,
+        "listed_at": "2026-11-17T20:00:05.000Z",
+        "days_on_market": "91",
+        "current_price": 306000,
+        "price_label": "$306K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.085873,
+          39.655609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "19b37e7b-c7cd-58d6-a82d-00643f60f0f6",
         "address": "100-W-Pleasantview-Dr-Hurst-TX-76054",
         "beds": 4,
@@ -17890,6 +17911,27 @@
         "coordinates": [
           -86.986602,
           33.312035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "34f36807-12f3-5edd-bd6b-2bcce74eb5d6",
+        "address": "1889 Sage Meadow Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1233,
+        "listed_at": "2026-11-17T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.334477,
+          36.641066
         ]
       }
     },
@@ -48172,27 +48214,6 @@
         "coordinates": [
           -86.765289,
           36.221576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8f3d3dc3-67af-5fc6-a166-49cdfaf96410",
-        "address": "40828-Mostyn-Hill-Dr-Magnolia-TX-77354",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2074,
-        "listed_at": "2026-10-15T07:20:32.000Z",
-        "days_on_market": "111",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.669947,
-          30.237123
         ]
       }
     },
@@ -84418,27 +84439,6 @@
         "coordinates": [
           -104.715414,
           38.73145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f45cc2fd-0a0d-5ad4-b26a-71ce4e0305db",
-        "address": "7910-Arvada-Pl-Indianapolis-IN-46236",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2485,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "239",
-        "current_price": 298000,
-        "price_label": "$298K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.942369,
-          39.89897
         ]
       }
     },
