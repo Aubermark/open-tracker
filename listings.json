@@ -24889,27 +24889,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "48a455dc-e79b-5e32-8591-24fc565e10ec",
-        "address": "234 Paxton Rd",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1350,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "26",
-        "current_price": 200000,
-        "price_label": "$200K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.410761,
-          41.685387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "48a4c930-6a14-5e8d-a678-6729370e68e3",
         "address": "9431-Ainslie-Downs-St-Charlotte-NC-28273",
         "beds": 2,
@@ -83179,6 +83158,27 @@
         "coordinates": [
           -86.63471,
           33.659106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f0d4922b-0976-5307-8138-710533313805",
+        "address": "184-Wagon-Way-Sw-Lilburn-GA-30047",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2797,
+        "listed_at": "2026-11-17T14:50:05.000Z",
+        "days_on_market": "60",
+        "current_price": 366000,
+        "price_label": "$366K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.164397,
+          33.864018
         ]
       }
     },
