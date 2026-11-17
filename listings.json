@@ -40555,6 +40555,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "783b7522-67a1-5e27-bad5-17daed9d8413",
+        "address": "3508 9th Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1408,
+        "listed_at": "2026-11-17T17:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.468694,
+          38.54381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "783c35c7-0b95-5332-949a-4f3455d277eb",
         "address": "142-Canterbury-Xing-Fort-Mill-SC-29708",
         "beds": 4,
@@ -65455,27 +65476,6 @@
         "coordinates": [
           -95.062916,
           29.506066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c0096bdd-4a62-5ca2-9d0b-957110e2942a",
-        "address": "3113 W Corte Olivia",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1937,
-        "listed_at": "2026-11-06T14:20:06.000Z",
-        "days_on_market": "40",
-        "current_price": 367000,
-        "price_label": "$367K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.032747,
-          32.33405
         ]
       }
     },
