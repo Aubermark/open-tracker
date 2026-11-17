@@ -24532,6 +24532,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46b9eb6a-492e-5036-9c01-4fb40d2a7061",
+        "address": "323-Lewis-Lane-Rd-Ne-Cleveland-TN-37312",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1791,
+        "listed_at": "2026-11-17T23:20:11.000Z",
+        "days_on_market": "97",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.792869,
+          35.236482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "46d29a57-0257-5621-bc13-3cf2b9300b4e",
         "address": "222-Ashley-Way-Alvin-TX-77511",
         "beds": 4,
@@ -44413,27 +44434,6 @@
         "coordinates": [
           -81.706505,
           41.47188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "83f1c3ac-5b5f-5080-a86e-509405616146",
-        "address": "1515-E-Bloch-Rd-Phoenix-AZ-85040",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 1580,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "119",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.049038,
-          33.401665
         ]
       }
     },
@@ -72664,27 +72664,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "d261d9cb-48ae-5774-a870-55e90697fc41",
-        "address": "2801-Shades-Crest-Rd-Vestavia-Hills-AL-35216",
-        "beds": 3,
-        "baths": 3.5,
-        "sqft": 2862,
-        "listed_at": "2026-10-23T13:30:04.000Z",
-        "days_on_market": "165",
-        "current_price": 525000,
-        "price_label": "$525K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.762688,
-          33.460611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "d27e136d-b4cd-55b8-80e0-63c027ba5fa1",
         "address": "2605 Winter Garden Dr",
         "beds": 5,
@@ -86539,6 +86518,27 @@
         "coordinates": [
           -80.785928,
           35.601142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fa6a1bdf-76a3-4cb7-8601-f7d9297d977f",
+        "address": "290-Marston-Rd-Livingston-TX-77351",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1685,
+        "listed_at": "2026-11-17T23:20:11.000Z",
+        "days_on_market": "63",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.907907,
+          30.763502
         ]
       }
     },
