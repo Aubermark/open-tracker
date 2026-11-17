@@ -27640,6 +27640,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5126f85a-76ba-548b-9018-830216519e9b",
+        "address": "816 Runyon Dr",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1280,
+        "listed_at": "2026-11-17T16:20:05.000Z",
+        "days_on_market": "0",
+        "current_price": 206000,
+        "price_label": "$206K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95893,
+          35.978811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "512ec3cd-2514-5eb0-9ce3-e8c7bf159402",
         "address": "18224 Piedra Dr",
         "beds": 3,
