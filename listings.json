@@ -22936,6 +22936,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "427ac085-6c5a-5ef4-8244-f8e4684ab3e3",
+        "address": "8043 Felecity Ct",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1656,
+        "listed_at": "2026-11-17T14:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 540000,
+        "price_label": "$540K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.214656,
+          38.739463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "427e2167-a94f-5d2a-9418-22a0cffe55ca",
         "address": "4801-N-14th-Pl-Phoenix-AZ-85014",
         "beds": 3,
@@ -62851,6 +62872,27 @@
         "coordinates": [
           -80.698622,
           34.211339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9a58f3e-9620-58a3-a9b1-43b77dffff83",
+        "address": "311-Pebble-Way-Durham-NC-27703",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1389,
+        "listed_at": "2026-11-17T14:10:05.000Z",
+        "days_on_market": "112",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82224,
+          35.989013
         ]
       }
     },
