@@ -4981,6 +4981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0e0170b8-1b3d-5286-8610-43ae0267d505",
+        "address": "3459 N Oakstone Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1416,
+        "listed_at": "2026-11-17T23:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.456503,
+          43.636308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0e25a0e3-4d3f-46f0-bde3-ea2edbe15dc1",
         "address": "241 Payton Pl",
         "beds": 3,
