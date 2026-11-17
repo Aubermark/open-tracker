@@ -1558,27 +1558,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "03a2d186-da2c-5004-a693-8b0a4b9ed424",
-        "address": "510-W-Adams-St-Woodbury-TN-37190",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1086,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "112",
-        "current_price": 211000,
-        "price_label": "$211K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.075563,
-          35.82163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "03b09a08-0915-5edd-8016-9b21a5bf7551",
         "address": "1825-Ne-Bren-Mar-Rd-Lees-Summit-MO-64086",
         "beds": 4,
@@ -37447,6 +37426,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6c641135-76d2-506d-8184-ffa84c631db4",
+        "address": "31615 Settlers Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1568,
+        "listed_at": "2026-11-17T22:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.108832,
+          33.689083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6c6456eb-caf8-5f08-a28a-61f5a38a3100",
         "address": "7776 Somerset Ln",
         "beds": 3,
@@ -39835,27 +39835,6 @@
         "coordinates": [
           -115.34745,
           36.188956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "754120bd-9c6f-5658-8866-1bceed6e64d1",
-        "address": "14838-N-33rd-Dr-Phoenix-AZ-85053",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1128,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "134",
-        "current_price": 309000,
-        "price_label": "$309K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.130769,
-          33.620976
         ]
       }
     },
