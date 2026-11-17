@@ -71593,6 +71593,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cfb00da7-3796-5391-8b38-e6d13cd596e4",
+        "address": "11421 Nathaniel Gorham Way",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1626,
+        "listed_at": "2026-11-17T21:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.855035,
+          30.282815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cfb209d7-f0c6-50d9-9780-29e1a082ff5d",
         "address": "9153-E-Palm-Tree-Dr-Scottsdale-AZ-85255",
         "beds": 4,
