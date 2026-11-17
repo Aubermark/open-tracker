@@ -15229,6 +15229,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ce84ac1-6862-5946-94dc-95b3eb808128",
+        "address": "1652 Harris Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1246,
+        "listed_at": "2026-11-17T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 358000,
+        "price_label": "$358K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.031233,
+          45.00236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cebada8-8745-5973-9603-5689bcca7ff5",
         "address": "1817-Twin-Caves-Dr-Lewisburg-TN-37091",
         "beds": 3,
@@ -30301,27 +30322,6 @@
         "coordinates": [
           -81.21385,
           28.648905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "57add268-0c9d-5031-8525-5dd97e6074ba",
-        "address": "317-Wren-Dr-Big-Bear-Lake-CA-92315",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1536,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "202",
-        "current_price": 490000,
-        "price_label": "$490K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.896278,
-          34.246798
         ]
       }
     },
