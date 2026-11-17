@@ -3049,6 +3049,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "082388f6-db6d-5e2e-93a4-4f6d99321077",
+        "address": "217 N Rodney St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1325,
+        "listed_at": "2026-11-17T18:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567846,
+          39.745703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "082fbf7b-fe54-5b3b-a4b1-ba968f97cf21",
         "address": "300-Sprucewood-Rd-Lake-Mary-FL-32746",
         "beds": 3,
@@ -3946,6 +3967,27 @@
         "coordinates": [
           -80.800983,
           35.869337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "0ad31150-1e06-5ab4-b9c4-f09bd9cbaa76",
+        "address": "223-Williston-Dr-Huntsville-AL-35806",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1806,
+        "listed_at": "2026-11-17T18:10:07.000Z",
+        "days_on_market": "162",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.683364,
+          34.778423
         ]
       }
     },
@@ -6823,27 +6865,6 @@
         "coordinates": [
           -81.025848,
           35.038385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "13282a14-ceb4-524c-b271-eef44bb34be3",
-        "address": "965-Touchstone-Rd-Frisco-TX-75036",
-        "beds": 4,
-        "baths": 4.5,
-        "sqft": 4000,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "92",
-        "current_price": 799000,
-        "price_label": "$799K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.884215,
-          33.123119
         ]
       }
     },
