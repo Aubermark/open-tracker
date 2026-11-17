@@ -34423,6 +34423,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64d2301f-b3a9-5714-86c1-c0f34449b727",
+        "address": "9911 Max Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2185,
+        "listed_at": "2026-11-17T15:10:05.000Z",
+        "days_on_market": "20",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.793988,
+          33.110955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "64d3caaf-239b-550d-879f-6106fbbf0b92",
         "address": "3802-Claude-Brewer-Rd-Loganville-GA-30052",
         "beds": 3,
@@ -35677,27 +35698,6 @@
         "coordinates": [
           -80.719554,
           35.171691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "6838b646-17d2-5a73-87c4-f45a0bb8ebd2",
-        "address": "7830-Mosswood-Ln-Gainesville-GA-30506",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2702,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "88",
-        "current_price": 406000,
-        "price_label": "$406K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.999058,
-          34.302112
         ]
       }
     },
@@ -53191,6 +53191,27 @@
         "coordinates": [
           -95.716135,
           29.815199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "9eedb3bf-48e0-5647-9b65-dc1be2f70c98",
+        "address": "3363 N Reynolds",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1542,
+        "listed_at": "2026-11-17T15:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 460000,
+        "price_label": "$460K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.687273,
+          33.477009
         ]
       }
     },
