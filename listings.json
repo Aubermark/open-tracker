@@ -19702,27 +19702,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3a8391ec-6515-592a-993b-2be96fd9fb9c",
-        "address": "44 Bluebell Ln",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 3072,
-        "listed_at": "2026-11-14T00:55:34.000Z",
-        "days_on_market": "4",
-        "current_price": 460000,
-        "price_label": "$460K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.694906,
-          40.915486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3a8ff8a5-1686-5fc8-b65b-030c188b17d2",
         "address": "5921 W Cypress St",
         "beds": 4,
@@ -31330,6 +31309,27 @@
         "coordinates": [
           -78.775358,
           35.924228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5ba2bc59-30c0-49b7-8315-1dfbdc868390",
+        "address": "21506 Snake Herb Ln",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3074,
+        "listed_at": "2026-11-17T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 500000,
+        "price_label": "$500K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.786153,
+          29.951344
         ]
       }
     },
