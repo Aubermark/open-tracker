@@ -29425,6 +29425,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "55630649-ea7b-502b-8a13-f7b981f5587a",
+        "address": "518 Fence Post Ln",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1616,
+        "listed_at": "2026-11-17T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.703408,
+          35.135077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "556525de-1a89-5f42-8bdd-a4dad776140f",
         "address": "3009-Harbor-Ave-Sw-Seattle-WA-98126",
         "beds": 3,
@@ -30280,27 +30301,6 @@
         "coordinates": [
           -112.219298,
           33.569497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "57b615e0-6dd7-555e-b70e-69dbda18731f",
-        "address": "343-Damascus-Dr-Summerville-SC-29483",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1982,
-        "listed_at": "2026-10-01T06:15:29.000Z",
-        "days_on_market": "146",
-        "current_price": 314000,
-        "price_label": "$314K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.231393,
-          32.993879
         ]
       }
     },
@@ -64432,27 +64432,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "bd474395-7abf-5604-8552-95ec39b79d26",
-        "address": "9328-Chilly-Pond-Ave-Las-Vegas-NV-89129",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2109,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "144",
-        "current_price": 423000,
-        "price_label": "$423K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.299192,
-          36.223665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "bd4b60c2-c4ab-5583-9102-32b98ca21178",
         "address": "3800-Crosstimbers-Dr-Greensboro-NC-27410",
         "beds": 4,
@@ -84376,27 +84355,6 @@
         "coordinates": [
           -80.110702,
           26.865277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f3f39811-9090-541a-b35e-7111d2ab11e3",
-        "address": "248 Chandler Ct",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1567,
-        "listed_at": "2026-11-12T20:00:04.000Z",
-        "days_on_market": "5",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.771208,
-          38.690051
         ]
       }
     },
