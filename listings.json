@@ -67267,27 +67267,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c5b95cfd-98cf-5d03-85a0-1dd79ba1aa0e",
-        "address": "6618-Rhode-Island-Ave-Hammond-IN-46323",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 925,
-        "listed_at": "2026-11-05T07:09:52.000Z",
-        "days_on_market": "53",
-        "current_price": 187000,
-        "price_label": "$187K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.435302,
-          41.592998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c5c3330c-6c6d-596c-bd1d-e54778dffb79",
         "address": "101-Carriage-House-Dr-Kannapolis-NC-28081",
         "beds": 2,
@@ -83872,6 +83851,27 @@
         "coordinates": [
           -84.041059,
           34.071626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f33171b7-e5bc-5234-8ae6-cf20fd894633",
+        "address": "106 Galena Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1491,
+        "listed_at": "2026-11-17T12:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.802072,
+          36.023775
         ]
       }
     },
