@@ -8467,6 +8467,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1872a893-f912-5b6b-9c84-3392cb7a2b74",
+        "address": "5931 Robinhood Rd",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1742,
+        "listed_at": "2026-11-17T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.388959,
+          36.121231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1879f610-0056-599f-aca5-ee2b7b1d911a",
         "address": "621-Gaelens-Ln-Irmo-SC-29063",
         "beds": 5,
@@ -19948,6 +19969,27 @@
         "coordinates": [
           -93.474648,
           44.868224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b356b0e-9fb3-5d71-a332-e170f7eb86c6",
+        "address": "6128-Remington-Lake-Dr-Raleigh-NC-27616",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1720,
+        "listed_at": "2026-11-17T16:30:06.000Z",
+        "days_on_market": "218",
+        "current_price": 377000,
+        "price_label": "$377K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.553114,
+          35.863401
         ]
       }
     },
@@ -48823,6 +48865,27 @@
         "coordinates": [
           -80.33461,
           27.269047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "921e83cf-f681-5a44-aa96-b8c27d798a38",
+        "address": "14012 Phifer Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1828,
+        "listed_at": "2026-11-17T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.324083,
+          28.351633
         ]
       }
     },
