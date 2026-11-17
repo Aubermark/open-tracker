@@ -7039,6 +7039,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13f77541-2a65-54af-aecc-2966b4f34883",
+        "address": "1312 Sims Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1671,
+        "listed_at": "2026-11-17T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 245000,
+        "price_label": "$245K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.463822,
+          35.617009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13f86a68-cc10-58da-a0ee-413767781581",
         "address": "2945 Sapphire Shores St",
         "beds": 4,
