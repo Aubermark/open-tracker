@@ -44818,6 +44818,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "84d2abab-b7b4-5868-8e84-e6b704a78519",
+        "address": "5821 S 35th Pl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1552,
+        "listed_at": "2026-11-17T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.005382,
+          33.393738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "84f193fc-7038-5b83-800b-90ab59f48d30",
         "address": "36601 Silverspur Ln",
         "beds": 4,
