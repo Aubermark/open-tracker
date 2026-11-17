@@ -1558,6 +1558,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "039d9e83-7323-5963-9e92-d663f43416cf",
+        "address": "113 Fiddlers Knoll Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2325,
+        "listed_at": "2026-11-17T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 333000,
+        "price_label": "$333K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.112026,
+          36.082667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03a2d186-da2c-5004-a693-8b0a4b9ed424",
         "address": "510-W-Adams-St-Woodbury-TN-37190",
         "beds": 2,
@@ -32554,27 +32575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5ed65b16-fdef-53fa-8db7-e14db4afbcba",
-        "address": "2942-Royal-Oaks-Crst-Houston-TX-77082",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2199,
-        "listed_at": "2026-10-08T06:13:20.000Z",
-        "days_on_market": "134",
-        "current_price": 295000,
-        "price_label": "$295K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.583968,
-          29.732921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5eea90eb-18b3-549d-af74-cf39029fbd29",
         "address": "316 Mulberry Ln",
         "beds": 3,
@@ -34858,27 +34858,6 @@
         "coordinates": [
           -86.380792,
           36.008738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65a13a7e-66e3-5e11-b5a1-77e71e81cbce",
-        "address": "1219-Franklin-St-Taylorsville-IN-47280",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 934,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "112",
-        "current_price": 182000,
-        "price_label": "$182K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.94681,
-          39.291608
         ]
       }
     },
@@ -64342,6 +64321,27 @@
         "coordinates": [
           -84.862877,
           33.859349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bd1c6646-ab9d-5c78-8b8d-b5738bba9d61",
+        "address": "3740 Standing Rock Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1519,
+        "listed_at": "2026-11-17T17:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.534421,
+          35.686907
         ]
       }
     },
