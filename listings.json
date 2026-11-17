@@ -5506,6 +5506,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0fc7ed81-99ec-5043-87c2-fb045949144b",
+        "address": "12246 W Aster Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1832,
+        "listed_at": "2026-11-17T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.323952,
+          33.60144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0fd64878-999e-5751-9fc4-7c7d381afa17",
         "address": "1872-Bakers-Mill-Rd-Dacula-GA-30019",
         "beds": 5,
