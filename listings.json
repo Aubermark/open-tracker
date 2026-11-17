@@ -34822,6 +34822,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "65b89be7-00b1-43c9-ba29-170ec6cb2887",
+        "address": "1602 Roundup Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2793,
+        "listed_at": "2026-11-17T11:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 467000,
+        "price_label": "$467K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.223262,
+          33.117147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "65bad1f2-0a59-5e3a-90f3-7f7a4c8467f9",
         "address": "13049-Se-Meadehill-Ave-Happy-Valley-OR-97086",
         "beds": 5,
