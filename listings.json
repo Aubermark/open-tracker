@@ -12289,6 +12289,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "248f16d7-2589-5995-90dd-ffffedabeb3f",
+        "address": "5662 1st St",
+        "beds": 4,
+        "baths": 1,
+        "sqft": 1510,
+        "listed_at": "2026-11-17T19:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 188000,
+        "price_label": "$188K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04941,
+          30.855919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2495b2ec-6503-527c-95ae-ed3ed012f81c",
         "address": "127 Hope Dr",
         "beds": 3,
@@ -44875,27 +44896,6 @@
         "coordinates": [
           -112.027576,
           33.054918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85a6942f-3ae3-5ad4-aa20-eb48cbcd742c",
-        "address": "1337-Parkside-Club-Dr-Lawrenceville-GA-30044",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1115,
-        "listed_at": "2026-09-10T07:30:02.000Z",
-        "days_on_market": "69",
-        "current_price": 287000,
-        "price_label": "$287K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.07862,
-          33.95295
         ]
       }
     },
@@ -84481,6 +84481,27 @@
         "coordinates": [
           -78.603371,
           35.49907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f4590cf4-d43c-56bb-ba09-bec3fb88016e",
+        "address": "228-Fairfax-St-Colorado-Springs-CO-80911",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1521,
+        "listed_at": "2026-11-17T19:20:05.000Z",
+        "days_on_market": "168",
+        "current_price": 329000,
+        "price_label": "$329K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.715414,
+          38.73145
         ]
       }
     },
