@@ -24259,6 +24259,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "4665ef37-3bad-5b89-a6e6-57a3134c6000",
+        "address": "524 Forest Village Cir",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2106,
+        "listed_at": "2026-11-17T12:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 275000,
+        "price_label": "$275K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.025418,
+          29.382637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "467191d8-8b01-5902-8fc6-0d29339845c9",
         "address": "542-N-Mc-Dowell-St-Charlotte-NC-28204",
         "beds": 2,
