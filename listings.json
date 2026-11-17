@@ -35599,6 +35599,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "67d9b1ea-6780-5145-a38d-d8fd678c5b6a",
+        "address": "1035 Sassafras Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400,
+        "listed_at": "2026-11-17T16:10:06.000Z",
+        "days_on_market": "26",
+        "current_price": 318000,
+        "price_label": "$318K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.693861,
+          36.409172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "67e16662-4f96-5cfc-bd08-df52a25e6a82",
         "address": "5404 Beaumont Dr",
         "beds": 3,
@@ -62689,27 +62710,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b9171b51-83f7-58b3-9919-f80146ec8866",
-        "address": "7413 Rose Crest Blvd",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2064,
-        "listed_at": "2026-10-29T19:10:04.000Z",
-        "days_on_market": "19",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.264819,
-          32.651531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b92c4d61-7312-5b7e-b669-ce867324cf63",
         "address": "2625 El Greco Dr",
         "beds": 4,
@@ -76669,27 +76669,6 @@
         "coordinates": [
           -80.990025,
           34.128272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "de680cfe-68b4-54cc-8241-b71a33854b71",
-        "address": "2507 Yale Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1340,
-        "listed_at": "2026-11-12T07:10:28.000Z",
-        "days_on_market": "26",
-        "current_price": 166000,
-        "price_label": "$166K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.938816,
-          32.921763
         ]
       }
     },
