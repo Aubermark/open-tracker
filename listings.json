@@ -85936,27 +85936,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f8da5703-134e-5485-98a2-0af3d46e53e5",
-        "address": "3014-Country-Boy-Ct-Spring-TX-77373",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1770,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "142",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.374144,
-          30.06306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f8ef8e1b-f13a-5b03-9e04-e3ec1fe31450",
         "address": "22-Gillen-Ter-Gloversville-NY-12078",
         "beds": 2,
@@ -87232,6 +87211,27 @@
         "coordinates": [
           -83.901315,
           34.150885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fd0a1d4b-339c-54c4-9e09-78f5fc90ebfd",
+        "address": "407 Amanda Lane",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1098,
+        "listed_at": "2026-11-17T23:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.190829,
+          39.595819
         ]
       }
     },
