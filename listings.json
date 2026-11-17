@@ -6598,27 +6598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1282d208-5047-5abc-b24b-b220ff995ce7",
-        "address": "1500 Dallas St",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1733,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "43",
-        "current_price": 171000,
-        "price_label": "$171K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.738185,
-          31.10782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "12a39500-3072-5673-afc1-f22fe1cdaaf5",
         "address": "7319-Pepperbox-Ave-Las-Vegas-NV-89179",
         "beds": 3,
@@ -9805,6 +9784,27 @@
         "coordinates": [
           -78.769656,
           35.479743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "1d2158cd-fbbb-53ed-8ced-84dbbad46f03",
+        "address": "1405 Lake Falls Ter",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3212,
+        "listed_at": "2026-11-17T22:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 692000,
+        "price_label": "$692K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.885563,
+          33.05376
         ]
       }
     },
