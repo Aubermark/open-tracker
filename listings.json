@@ -22915,27 +22915,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "42788b36-c149-5cb2-999c-5670c9e8031e",
-        "address": "11018 Snowbrook Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1535,
-        "listed_at": "2026-11-02T21:40:04.000Z",
-        "days_on_market": "15",
-        "current_price": 264000,
-        "price_label": "$264K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.838966,
-          30.277109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "427ac085-6c5a-5ef4-8244-f8e4684ab3e3",
         "address": "8043 Felecity Ct",
         "beds": 3,
@@ -24589,6 +24568,27 @@
         "coordinates": [
           -78.913059,
           33.774457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "47b5d7cc-f174-54c0-91de-6686a49ee091",
+        "address": "1004 Elderwood Pl",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1956,
+        "listed_at": "2026-11-17T15:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.874234,
+          36.099403
         ]
       }
     },
@@ -44623,27 +44623,6 @@
         "coordinates": [
           -117.636435,
           33.570606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "85537f4b-dfd5-5180-870b-40a16063be98",
-        "address": "3620 Silverado Trl",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2336,
-        "listed_at": "2026-11-12T07:10:28.000Z",
-        "days_on_market": "14",
-        "current_price": 326000,
-        "price_label": "$326K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.283419,
-          32.978006
         ]
       }
     },
