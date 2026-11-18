@@ -53176,6 +53176,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9dffec37-ee4f-579e-a1f8-db6efd2f344c",
+        "address": "23897 Copper Hill Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1800,
+        "listed_at": "2026-11-18T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 547000,
+        "price_label": "$547K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.245341,
+          33.95847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e1091be-188f-5228-8cc8-860574f9f6a3",
         "address": "6706 Falling Quail",
         "beds": 3,
@@ -86749,6 +86770,27 @@
         "coordinates": [
           -83.722659,
           33.801953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb740e0e-21d2-5b56-a334-29685c01775a",
+        "address": "3622 Shady Brook Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2058,
+        "listed_at": "2026-11-18T20:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.496626,
+          27.383136
         ]
       }
     },
