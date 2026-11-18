@@ -58153,6 +58153,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "abfb373b-cb58-5b26-b2fe-89e44c8d0eab",
+        "address": "2208 Tucker Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1618,
+        "listed_at": "2026-11-18T01:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 223000,
+        "price_label": "$223K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.960079,
+          39.799789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ac01ea1c-a169-51fc-b39f-4a3981547c2c",
         "address": "17349-E-El-Pueblo-Blvd-Fountain-Hills-AZ-85268",
         "beds": 3,
