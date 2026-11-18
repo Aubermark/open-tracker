@@ -50971,6 +50971,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9779ce09-8e0c-4967-8489-905eadaeadc6",
+        "address": "1320 Spring Row St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2036,
+        "listed_at": "2026-11-18T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 365000,
+        "price_label": "$365K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.092519,
+          29.749905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "977efbf3-3cef-55b2-8e11-dc2069291aa0",
         "address": "1578-Tice-Hurst-Ln-Apex-NC-27502",
         "beds": 4,
