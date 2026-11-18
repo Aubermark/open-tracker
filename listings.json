@@ -2482,6 +2482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "06e313e0-f18c-5117-b0cc-112f64be955a",
+        "address": "912 S Wanda Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1219,
+        "listed_at": "2026-11-18T13:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.746802,
+          33.333667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07031954-412a-5d0d-8ef0-4cbec845593f",
         "address": "5314-Westminster-Dr-Fayetteville-NC-28311",
         "beds": 3,
