@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "16357074-db89-5aee-bc13-03056d098047",
+        "address": "12873 Spring Hill Dr",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3569,
+        "listed_at": "2026-11-18T13:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 692000,
+        "price_label": "$692K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.741313,
+          33.183287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "163ec17c-561b-4e78-a5a4-ba639c0e45c2",
         "address": "4496-Bellaire-Ave-Clovis-CA-93619",
         "beds": 3,
