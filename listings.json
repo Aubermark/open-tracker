@@ -11050,6 +11050,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "214f16b2-053e-5bad-a857-60c8adde4829",
+        "address": "6951-Cutting-Crk-San-Antonio-TX-78244",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 2675,
+        "listed_at": "2026-11-18T01:40:05.000Z",
+        "days_on_market": "151",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.351815,
+          29.488679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "215cd700-41c1-4bd3-9a59-8dc62e98bf92",
         "address": "6137 Bugsy St",
         "beds": 3,
@@ -35467,27 +35488,6 @@
         "coordinates": [
           -81.764694,
           28.493435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "66d8ece1-df3b-54a8-a188-5e965b552f6b",
-        "address": "8331-Golden-Bamboo-Dr-Jacksonville-FL-32219",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 2731,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "134",
-        "current_price": 356000,
-        "price_label": "$356K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.811802,
-          30.407423
         ]
       }
     },
@@ -86644,6 +86644,27 @@
         "coordinates": [
           -83.347045,
           34.032409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fb0406d5-1d77-5dab-a6cc-40065ec2e7e5",
+        "address": "1006 E San Juan Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-11-18T01:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 466000,
+        "price_label": "$466K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.060171,
+          33.518863
         ]
       }
     },
