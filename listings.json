@@ -48619,6 +48619,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "90109aed-204f-53e0-8054-94a6657706f1",
+        "address": "530 W Culver St",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1136,
+        "listed_at": "2026-11-18T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.081964,
+          33.463002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9039f7a9-0c80-54ff-9841-5191dc99830c",
         "address": "3648-Aja-Koren-Pl-El-Paso-TX-79938",
         "beds": 4,
