@@ -67792,6 +67792,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c5fd2bf4-3675-5c07-b7a5-7de7e0af8e6f",
+        "address": "10620 Hiners Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1408,
+        "listed_at": "2026-11-18T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.059779,
+          38.841012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c60b26e5-cc17-58d7-a54b-6ad86b52d63f",
         "address": "6936 Red Bone Way",
         "beds": 3,
@@ -78118,27 +78139,6 @@
         "coordinates": [
           -122.122241,
           38.002856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e244f385-0a85-5b38-aa9c-dda663c7c6c6",
-        "address": "823 E 91st St",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1435,
-        "listed_at": "2026-10-16T18:20:04.000Z",
-        "days_on_market": "33",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.391012,
-          31.946958
         ]
       }
     },
