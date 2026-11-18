@@ -2104,6 +2104,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "05aba305-d0a2-5a63-a0d3-381270b5fc0f",
+        "address": "12679 E Miranda St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1513,
+        "listed_at": "2026-11-18T19:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 440000,
+        "price_label": "$440K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.243837,
+          34.555672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "05af820d-ace9-5e02-9b36-5084e614d062",
         "address": "2361-Ne-21st-Ave-Jensen-Beach-FL-34957",
         "beds": 4,
@@ -35320,27 +35341,6 @@
         "coordinates": [
           -96.732918,
           33.26703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "666c390c-064b-5f76-9a06-b6d263036794",
-        "address": "601-Rhoads-Ave-Columbus-OH-43205",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1184,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "85",
-        "current_price": 214000,
-        "price_label": "$214K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.949465,
-          39.955239
         ]
       }
     },
