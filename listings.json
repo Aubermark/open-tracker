@@ -29173,6 +29173,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "542d36fd-c2b1-56e1-b5fc-026628cfde28",
+        "address": "1123 Venetian Harbor Dr NE",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1963,
+        "listed_at": "2026-11-18T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 412000,
+        "price_label": "$412K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.616413,
+          27.864851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "542f4155-b01b-5cce-ac4d-707fedc06d88",
         "address": "2530 Logan Caroline Ln",
         "beds": 5,
@@ -31918,6 +31939,27 @@
         "coordinates": [
           -77.950135,
           35.955788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5c73a644-0a0c-511e-91f2-112514f02dab",
+        "address": "11605-Harold-Dr-Cleveland-OH-44130",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1611,
+        "listed_at": "2026-11-18T20:50:06.000Z",
+        "days_on_market": "166",
+        "current_price": 224000,
+        "price_label": "$224K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.769259,
+          41.361872
         ]
       }
     },
@@ -64174,6 +64216,27 @@
         "coordinates": [
           -86.442353,
           35.495268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bbe2c021-426f-5fe6-9196-b281936f44f9",
+        "address": "28 Highland St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1669,
+        "listed_at": "2026-11-18T20:50:06.000Z",
+        "days_on_market": "35",
+        "current_price": 455000,
+        "price_label": "$455K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.568767,
+          35.6973
         ]
       }
     },
