@@ -40198,6 +40198,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "76df2b88-f7c7-5bf3-abc4-f59f5335285f",
+        "address": "1315 Laurel Ln",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2014,
+        "listed_at": "2026-11-18T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 317000,
+        "price_label": "$317K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.164556,
+          35.245369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "76e4f8d9-d992-596c-b86c-fd723974fa8a",
         "address": "212-Westwind-Dr-Newnan-GA-30263",
         "beds": 3,
