@@ -9748,6 +9748,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ccf34e6-362d-527f-852a-1cd70b66400d",
+        "address": "10121 Boynton Place Cir",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1045,
+        "listed_at": "2026-11-18T22:20:05.000Z",
+        "days_on_market": "16",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.132691,
+          26.523575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1cd2d5a1-0d03-581f-b26d-9805fc2fc8d4",
         "address": "123-Merry-Way-Gun-Barrel-City-TX-75156",
         "beds": 3,
