@@ -25582,27 +25582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "49f49f09-e562-43d9-88f6-880c15fad0fd",
-        "address": "2246-N-Marion-Ave-Clovis-CA-93619",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2549,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "86",
-        "current_price": 700000,
-        "price_label": "$700K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.697183,
-          36.871598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4a1956b9-3c6a-52c2-b6c4-b31ab9d333cc",
         "address": "101-Tipperary-Ln-Winston-Salem-NC-27104",
         "beds": 4,
@@ -31714,6 +31693,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5bf415fc-09ac-5acb-9294-052819cc6016",
+        "address": "93-Charlie-Smith-Dr-Senoia-GA-30276",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1935,
+        "listed_at": "2026-11-18T19:30:06.000Z",
+        "days_on_market": ">269",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.641178,
+          33.269491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5c023596-a0ba-587f-be8f-b1f2d292e70e",
         "address": "144-Green-Shadow-Rd-Se-Cleveland-TN-37323",
         "beds": 3,
@@ -36139,6 +36139,27 @@
         "coordinates": [
           -80.257487,
           36.035897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "68f56284-b3f5-5e46-80fa-68967f4db6c7",
+        "address": "4341 Canter Ln NE",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1796,
+        "listed_at": "2026-11-18T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 585000,
+        "price_label": "$585K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87168,
+          47.095475
         ]
       }
     },
