@@ -382,6 +382,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "00f40fed-8220-52c3-8c50-0b74c46ec927",
+        "address": "19435 E Timberline Rd",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4312,
+        "listed_at": "2026-11-18T18:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 910000,
+        "price_label": "$910K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.664172,
+          33.27172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "00f709e1-7447-52aa-95b2-dd377061ad94",
         "address": "127-Nelson-St-Durham-NC-27707",
         "beds": 3,
@@ -35047,27 +35068,6 @@
         "coordinates": [
           -112.374692,
           33.588909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "65ac9483-4cde-534f-b47f-7366420393a5",
-        "address": "525 Cherry Hill Rd",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2008,
-        "listed_at": "2026-11-14T08:32:14.000Z",
-        "days_on_market": "5",
-        "current_price": 345000,
-        "price_label": "$345K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.788072,
-          32.534394
         ]
       }
     },
