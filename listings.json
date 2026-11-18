@@ -24427,6 +24427,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "46659b26-53ab-59fb-a653-92f749990b9e",
+        "address": "7556 Fusion Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2689,
+        "listed_at": "2026-11-18T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 686000,
+        "price_label": "$686K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.356618,
+          38.484216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4665ef37-3bad-5b89-a6e6-57a3134c6000",
         "address": "524 Forest Village Cir",
         "beds": 3,
@@ -45532,6 +45553,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "87741403-4e91-5cee-ba93-c8b1d0872d75",
+        "address": "1044 Charles St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1080,
+        "listed_at": "2026-11-18T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 415000,
+        "price_label": "$415K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.528647,
+          38.595173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8774d8bb-98fd-4f0f-bb65-8c053904bd3c",
         "address": "2973 Calli Crossing Dr",
         "beds": 4,
@@ -49711,6 +49753,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9476a4ec-5925-5b7b-be45-c038af707e8d",
+        "address": "1008 Mendonsa Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3471,
+        "listed_at": "2026-11-18T19:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 655000,
+        "price_label": "$655K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.132383,
+          28.000422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "947a25e0-904c-51fd-9d9a-2add7aba8f9f",
         "address": "405-Kathy-Ln-Wylie-TX-75098",
         "beds": 3,
@@ -51259,27 +51322,6 @@
         "coordinates": [
           -80.357282,
           36.079987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "986b620e-a3d0-5ff0-9dd2-91fca1020e5b",
-        "address": "308-Algrave-Way-Columbia-SC-29229",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1630,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "226",
-        "current_price": 224000,
-        "price_label": "$224K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.908732,
-          34.170296
         ]
       }
     },
