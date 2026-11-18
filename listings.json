@@ -62311,6 +62311,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b76eadb3-3c4f-5150-95eb-620762fcf93e",
+        "address": "7304-Milestone-Dr-Apollo-Beach-FL-33572",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2160,
+        "listed_at": "2026-11-18T18:50:06.000Z",
+        "days_on_market": "114",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.373908,
+          27.776444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b7774022-f86f-5730-9993-6c0c7161006e",
         "address": "8139 Cedar Glen Dr",
         "beds": 2,
