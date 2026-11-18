@@ -12667,6 +12667,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25884527-22df-5f0e-9e20-5f785a170f52",
+        "address": "700-Dakota-St-Se-Albuquerque-NM-87108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1902,
+        "listed_at": "2026-11-18T16:00:05.000Z",
+        "days_on_market": "104",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.573901,
+          35.067143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
         "address": "316-Vincent-St-Alabaster-AL-35007",
         "beds": 4,
@@ -41956,6 +41977,27 @@
         "coordinates": [
           -81.712903,
           30.395849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7c84b719-3bcd-5fd1-8a7f-48b66475928f",
+        "address": "41545 W Barcelona Dr",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3292,
+        "listed_at": "2026-11-18T16:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 582000,
+        "price_label": "$582K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.013759,
+          33.044124
         ]
       }
     },
