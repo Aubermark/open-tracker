@@ -29572,6 +29572,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5509303b-9791-579f-8791-3545a23a09e2",
+        "address": "4741 Ventura St",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2693,
+        "listed_at": "2026-11-18T15:00:06.000Z",
+        "days_on_market": "33",
+        "current_price": 515000,
+        "price_label": "$515K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.779474,
+          39.782283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5522c4d6-e7c4-5880-915a-c59ab84e24e7",
         "address": "160 Elm St",
         "beds": 3,
@@ -62200,27 +62221,6 @@
         "coordinates": [
           -95.565222,
           29.883862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b68bd7fe-1927-5acd-b076-b0143ce09b88",
-        "address": "1040-Dodd-Dr-Savannah-TN-38372",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2180,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "131",
-        "current_price": 194000,
-        "price_label": "$194K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.227174,
-          35.160765
         ]
       }
     },
