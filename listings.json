@@ -16006,27 +16006,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2f1e548f-d2b4-511e-b908-dd3a1e841578",
-        "address": "5510 France Ave N",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2308,
-        "listed_at": "2026-11-11T09:20:03.000Z",
-        "days_on_market": "8",
-        "current_price": 320000,
-        "price_label": "$320K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.329329,
-          45.054875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2f25fc4c-4746-4181-899c-994658cffc40",
         "address": "681-Davenport-Dr-Waxahachie-TX-75167",
         "beds": 5,
@@ -78307,6 +78286,27 @@
         "coordinates": [
           -115.009915,
           36.06496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e344baa4-350e-5951-9f3f-7819d2f8bb40",
+        "address": "7329 Vassar Ave",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1732,
+        "listed_at": "2026-11-18T18:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 642000,
+        "price_label": "$642K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.604758,
+          34.203452
         ]
       }
     },
