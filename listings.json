@@ -12667,6 +12667,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "25dc147f-f3ee-50fb-a256-f9ab0051ba21",
+        "address": "139 Crawford Lake Dr",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 4930,
+        "listed_at": "2026-11-18T19:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 670000,
+        "price_label": "$670K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.576166,
+          34.72592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "25ee758e-58fe-5d8a-99cb-c0d2c3eb9c21",
         "address": "316-Vincent-St-Alabaster-AL-35007",
         "beds": 4,
@@ -85825,27 +85846,6 @@
         "coordinates": [
           -78.870653,
           35.627188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f8b64641-5218-538d-b904-7e30f02e4a59",
-        "address": "128-Mikaela-Ave-Defuniak-Springs-FL-32433",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1384,
-        "listed_at": "2026-11-11T19:00:06.000Z",
-        "days_on_market": "197",
-        "current_price": 210000,
-        "price_label": "$210K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.128194,
-          30.742771
         ]
       }
     },
