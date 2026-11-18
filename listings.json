@@ -15040,6 +15040,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2bfbf326-0293-5bc3-bba3-239cc58a7596",
+        "address": "15016 Sawgrass Bluff Dr",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3467,
+        "listed_at": "2026-11-18T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 610000,
+        "price_label": "$610K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.609013,
+          28.534557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c051175-f8ad-511f-b9e4-dfa8b2556190",
         "address": "1505 Hudson Dr",
         "beds": 5,
