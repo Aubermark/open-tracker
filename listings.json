@@ -29068,27 +29068,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "53d9fb02-1a86-5b01-a5c0-5e4f153b79d0",
-        "address": "2197-11th-Ave-Se-Cambridge-MN-55008",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1629,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "104",
-        "current_price": 321000,
-        "price_label": "$321K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.197686,
-          45.56217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "53dfd5ff-7398-50b5-b34e-6ae174a6d598",
         "address": "1817 Volga Dr",
         "beds": 3,
@@ -44707,6 +44686,27 @@
         "coordinates": [
           -104.943702,
           39.524414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "846b7c9f-c60a-524d-9bb4-85b9b93b5083",
+        "address": "1011 Betty Lou Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1264,
+        "listed_at": "2026-11-18T15:50:05.000Z",
+        "days_on_market": "16",
+        "current_price": 302000,
+        "price_label": "$302K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.551953,
+          36.041226
         ]
       }
     },
