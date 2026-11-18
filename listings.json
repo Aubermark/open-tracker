@@ -57628,6 +57628,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a9c37b22-2b48-55b0-8584-95d4acf2779b",
+        "address": "10088 E Sheena Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1862,
+        "listed_at": "2026-11-18T12:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862393,
+          33.614985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a9d80605-0928-5047-88e4-3a9cfc94a551",
         "address": "2011-Wild-Cherry-Dr-Lewisburg-TN-37091",
         "beds": 3,
