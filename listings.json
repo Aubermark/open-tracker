@@ -46981,6 +46981,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8bcb7325-5cc1-58e2-a160-2c538a82f1ab",
+        "address": "1436 Florida Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1592,
+        "listed_at": "2026-11-18T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 480000,
+        "price_label": "$480K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.439228,
+          34.787617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8bcbc68c-0c9b-543f-83af-036c37271798",
         "address": "14077-S-Grand-View-Peak-Cir-Riverton-UT-84096-18562280",
         "beds": 5,
