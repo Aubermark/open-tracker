@@ -60673,6 +60673,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b2311259-ef9f-5a68-a989-48a6311f7494",
+        "address": "2997 Crape Myrtle Cir",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1533,
+        "listed_at": "2026-11-18T20:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 820000,
+        "price_label": "$820K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.73921,
+          33.966103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b2524474-44b1-5b78-a350-b0e6adfe072c",
         "address": "411-W-Seminole-Ave-Eustis-FL-32726",
         "beds": 3,
