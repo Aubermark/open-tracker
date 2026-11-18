@@ -39421,6 +39421,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7416c87a-7a37-517c-9f8f-ca455b318d2b",
+        "address": "201-Sw-137th-Ter-Oklahoma-City-OK-73170",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2591,
+        "listed_at": "2026-11-18T16:50:05.000Z",
+        "days_on_market": "114",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.515272,
+          35.331792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "74351546-4da3-5ba0-81d5-0ae245cc2d78",
         "address": "26335-Shady-Acres-San-Antonio-TX-78260",
         "beds": 4,
@@ -43006,27 +43027,6 @@
         "coordinates": [
           -82.935288,
           39.616904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7f9e985f-f889-504e-baeb-197dc5519bdd",
-        "address": "12530-30th-Ave-N-Plymouth-MN-55441",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1904,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "114",
-        "current_price": 421000,
-        "price_label": "$421K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.439457,
-          45.013803
         ]
       }
     },
