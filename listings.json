@@ -38539,6 +38539,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "715aa098-39df-5866-a331-5b9cbc12b076",
+        "address": "5221-Robin-Ln-Farmington-MN-55024",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1632,
+        "listed_at": "2026-11-18T22:00:05.000Z",
+        "days_on_market": "120",
+        "current_price": 214000,
+        "price_label": "$214K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.173109,
+          44.664332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "715fc70e-032e-59e6-ba9a-52f656e0868c",
         "address": "4300-Windwillow-Ct-Fort-Worth-TX-76137",
         "beds": 4,
@@ -47878,27 +47899,6 @@
         "coordinates": [
           -96.870744,
           33.229474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8df4aa74-40b1-5ec2-b91c-470f2e16d40f",
-        "address": "1832-Se-Wexford-Ct-Port-Saint-Lucie-FL-34952",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1476,
-        "listed_at": "2026-09-29T14:40:03.000Z",
-        "days_on_market": "50",
-        "current_price": 290000,
-        "price_label": "$290K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.294454,
-          27.295453
         ]
       }
     },
