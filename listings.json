@@ -29362,6 +29362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "54cd79b8-4291-5d4f-88cd-3f01d3d66a3c",
+        "address": "1033-Graymont-Ave-W-Birmingham-AL-35204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1560,
+        "listed_at": "2026-11-19T12:30:05.000Z",
+        "days_on_market": ">270",
+        "current_price": 135000,
+        "price_label": "$135K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.854109,
+          33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "54f16f7a-38e1-5594-b8ce-47ee213b8400",
         "address": "702-Buffalo-Cir-Carol-Stream-IL-60188",
         "beds": 3,
