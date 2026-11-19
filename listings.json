@@ -10861,6 +10861,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20652f24-48f2-572e-9c0c-eec19f85565f",
+        "address": "1487 Mount Zion Rd",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2589,
+        "listed_at": "2026-11-19T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 471000,
+        "price_label": "$471K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.911653,
+          33.683038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2080d7e8-73e7-50a2-a5f9-d6d1483e4197",
         "address": "16005-Stags-Leap-Dr-Lutz-FL-33559",
         "beds": 3,
@@ -17113,27 +17134,6 @@
         "coordinates": [
           -82.208246,
           31.959345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "320ab7dc-4b20-545a-ae4c-d06baad1cc9a",
-        "address": "6321 Roe St",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1462,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "22",
-        "current_price": 378000,
-        "price_label": "$378K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.387694,
-          39.155096
         ]
       }
     },
@@ -37399,6 +37399,27 @@
         "coordinates": [
           -81.65173,
           28.208725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6c45f619-6c51-51a7-851f-a7c93f7cb6f4",
+        "address": "18685 Alderbury Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1253,
+        "listed_at": "2026-11-19T21:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 960000,
+        "price_label": "$960K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.896317,
+          33.970502
         ]
       }
     },
