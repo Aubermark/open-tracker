@@ -38371,6 +38371,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7087a020-fdad-5d12-b70c-c4da882b3bb7",
+        "address": "417 Glen Meadow Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1938,
+        "listed_at": "2026-11-19T13:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.864913,
+          32.545384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7096d3ad-0e2a-52c4-8415-807dc5cd98d2",
         "address": "2319 Forrest Fields Dr",
         "beds": 3,
