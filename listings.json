@@ -60820,6 +60820,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b2ae85b4-5afe-5f30-934a-6fe741b1d342",
+        "address": "1929 N Orchard St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1527,
+        "listed_at": "2026-11-19T16:00:06.000Z",
+        "days_on_market": "15",
+        "current_price": 360000,
+        "price_label": "$360K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.774999,
+          36.767998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b2bf2783-1864-56d1-b7b6-c5917702c378",
         "address": "5817 Chadsford Ct",
         "beds": 3,
@@ -68395,27 +68416,6 @@
         "coordinates": [
           -78.516312,
           35.881671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c77e92be-585b-516f-8723-48423ad30834",
-        "address": "1668-Oak-Knoll-Cir-Se-Atlanta-GA-30315-18085078",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1323,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "53",
-        "current_price": 250000,
-        "price_label": "$250K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.377769,
-          33.71074
         ]
       }
     },
