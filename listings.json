@@ -15166,6 +15166,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2c16c99b-aed7-57b1-b753-4286a9fe739c",
+        "address": "14830 Anderson Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1912,
+        "listed_at": "2026-11-19T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 385000,
+        "price_label": "$385K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.308498,
+          38.631302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2c2e314e-7765-4926-a978-c4d906b38933",
         "address": "1307-Christina-Ct-Lebanon-TN-37087",
         "beds": 5,
