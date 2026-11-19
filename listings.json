@@ -29257,27 +29257,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "542f4155-b01b-5cce-ac4d-707fedc06d88",
-        "address": "2530 Logan Caroline Ln",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2850,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "31",
-        "current_price": 446000,
-        "price_label": "$446K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.58648,
-          35.033806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5438e31e-35d3-4b3c-ad39-45b76c023025",
         "address": "3203-W-Santa-Cruz-Ave-San-Tan-Valley-AZ-85144",
         "beds": 3,
@@ -43432,6 +43411,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "80414f93-def0-56f7-99ad-6586c8ac7cc2",
+        "address": "6301 Deep Forest Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1686,
+        "listed_at": "2026-11-19T21:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.956816,
+          35.267564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "804788b4-d240-5e40-ba7d-f20ab52c2f5f",
         "address": "25797-W-Siesta-Way-Buckeye-AZ-85326",
         "beds": 3,
@@ -46387,6 +46387,27 @@
         "coordinates": [
           -83.852017,
           33.994916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8958c8a2-29e5-5367-be08-d5d37bc8b2fd",
+        "address": "509-Spring-Park-Dr-Canton-GA-30114",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2266,
+        "listed_at": "2026-11-19T21:50:05.000Z",
+        "days_on_market": "128",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.511847,
+          34.256503
         ]
       }
     },
