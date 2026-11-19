@@ -34759,27 +34759,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "64b363f7-c66e-574b-bdc3-8be9ac2f2bab",
-        "address": "1037 Yorkshire Dr",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2458,
-        "listed_at": "2026-11-19T07:20:53.000Z",
-        "days_on_market": "31",
-        "current_price": 333000,
-        "price_label": "$333K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.228174,
-          33.323071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "64bf744e-b194-592a-a1f0-e7beeb3b078c",
         "address": "509-Greenbriar-Rd-Greensboro-NC-27405",
         "beds": 3,
@@ -66421,6 +66400,27 @@
         "coordinates": [
           -78.989426,
           35.102066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c164e89a-39eb-53ef-9c59-4a5160d8d139",
+        "address": "70-Rustling-Oaks-St-Coldspring-TX-77331",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1144,
+        "listed_at": "2026-11-19T19:20:05.000Z",
+        "days_on_market": "136",
+        "current_price": 178000,
+        "price_label": "$178K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.051241,
+          30.612299
         ]
       }
     },
