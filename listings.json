@@ -9790,6 +9790,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ce04789-5117-4585-939c-066a96f4a380",
+        "address": "12200 Eddystone Court",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2730,
+        "listed_at": "2026-11-19T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 680000,
+        "price_label": "$680K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.273319,
+          38.688398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1d1175bc-5483-58c3-afbd-88c72a7ac670",
         "address": "11-Oxford-Dr-Angier-NC-27501",
         "beds": 3,
@@ -42481,6 +42502,27 @@
         "coordinates": [
           -97.789504,
           30.53955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7dce3a8f-3985-5c34-af83-7917c71c1be0",
+        "address": "270-Lakewood-Dr-Wendell-NC-27591",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1028,
+        "listed_at": "2026-11-19T20:50:07.000Z",
+        "days_on_market": "62",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.358893,
+          35.77498
         ]
       }
     },
@@ -77068,6 +77110,27 @@
         "coordinates": [
           -77.426894,
           38.438769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "de60ee4a-8429-5807-8aa6-073786389d36",
+        "address": "136 Kiowa Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1862,
+        "listed_at": "2026-11-19T20:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65321,
+          36.234876
         ]
       }
     },
