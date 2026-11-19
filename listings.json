@@ -23902,6 +23902,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "44616c6b-d285-5f3f-9a01-f6b863cd6825",
+        "address": "605 Stonefield Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1717,
+        "listed_at": "2026-11-19T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 282000,
+        "price_label": "$282K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.956217,
+          32.621407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "4468dd26-ef9e-5615-af25-abe8eda13f78",
         "address": "332-Warwick-Pl-Mc-Donough-GA-30253",
         "beds": 5,
@@ -32149,6 +32170,27 @@
         "coordinates": [
           -83.836397,
           33.636796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5d2f66bc-2af1-58f2-89d8-37d5cd3a8e40",
+        "address": "1430-E-Flossmoor-Ave-Mesa-AZ-85204",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1153,
+        "listed_at": "2026-11-19T16:20:06.000Z",
+        "days_on_market": "135",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.800198,
+          33.394177
         ]
       }
     },
@@ -78412,27 +78454,6 @@
         "coordinates": [
           -84.582547,
           33.943962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e2c4ad32-693c-5fcc-b35c-954941d1c2a4",
-        "address": "17123-E-Calaveras-Ave-Fountain-Hills-AZ-85268",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1701,
-        "listed_at": "2026-09-24T01:30:03.000Z",
-        "days_on_market": "91",
-        "current_price": 500000,
-        "price_label": "$500K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.710498,
-          33.618187
         ]
       }
     },
