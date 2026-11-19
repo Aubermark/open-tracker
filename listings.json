@@ -29929,6 +29929,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "560d9c52-0460-56c9-b8ec-8c551390ce1b",
+        "address": "9440 Enclave Dr",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1286,
+        "listed_at": "2026-11-19T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.354114,
+          39.76805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5610edd4-475b-5643-a0cd-e952ce2586fb",
         "address": "800-S-Bedford-Dr-Chandler-AZ-85225",
         "beds": 4,
@@ -33136,27 +33157,6 @@
         "coordinates": [
           -97.669335,
           31.130409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
-        "address": "1900-Milfield-Cir-Snellville-GA-30078",
-        "beds": 4,
-        "baths": 3.5,
-        "sqft": 3751,
-        "listed_at": "2026-10-23T13:40:05.000Z",
-        "days_on_market": "177",
-        "current_price": 499000,
-        "price_label": "$499K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.020844,
-          33.897571
         ]
       }
     },
@@ -38512,6 +38512,27 @@
         "coordinates": [
           -112.006853,
           33.074492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "70e1c604-b58f-5b16-8d03-e3bc425e8255",
+        "address": "113 Denham Sq",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2393,
+        "listed_at": "2026-11-19T21:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 528000,
+        "price_label": "$528K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.602027,
+          33.417488
         ]
       }
     },
@@ -67078,27 +67099,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c37338a7-73c7-5dfd-8760-85fef741caf1",
-        "address": "672 Mill Creek Trl",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2720,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "45",
-        "current_price": 335000,
-        "price_label": "$335K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.369793,
-          33.49017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c3745e1d-f1f4-53f7-aaaf-c4a01033c6d4",
         "address": "4918-Denise-Ave-Lakeland-FL-33813",
         "beds": 3,
@@ -86875,27 +86875,6 @@
         "coordinates": [
           -83.347045,
           34.032409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fb0406d5-1d77-5dab-a6cc-40065ec2e7e5",
-        "address": "1006 E San Juan Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1170,
-        "listed_at": "2026-11-18T01:40:03.000Z",
-        "days_on_market": "2",
-        "current_price": 466000,
-        "price_label": "$466K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.060171,
-          33.518863
         ]
       }
     },
