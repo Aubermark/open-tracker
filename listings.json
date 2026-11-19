@@ -19681,6 +19681,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "39c386c9-9828-5763-9d84-c5833511b49b",
+        "address": "211 Patricia Ter",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1812,
+        "listed_at": "2026-11-19T17:50:05.000Z",
+        "days_on_market": "37",
+        "current_price": 349000,
+        "price_label": "$349K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.936058,
+          33.888447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "39d01b19-e7c1-588b-809f-277f3d5dafe0",
         "address": "5836-Westhaven-Dr-Apt-B-Fort-Worth-TX-76132",
         "beds": 2,
@@ -31714,27 +31735,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "5beccd79-1d18-5da2-b8a4-dca2f026cf7d",
-        "address": "5110-Winston-Dr-Indianapolis-IN-46226",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1437,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "148",
-        "current_price": 237000,
-        "price_label": "$237K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.082725,
-          39.846575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "5bf415fc-09ac-5acb-9294-052819cc6016",
         "address": "93-Charlie-Smith-Dr-Senoia-GA-30276",
         "beds": 3,
@@ -41599,6 +41599,27 @@
         "coordinates": [
           -93.073972,
           44.746121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7ad28f91-4aeb-5fbc-aef9-d30b3ddc1413",
+        "address": "115-Redcoat-Dr-Fort-Mill-SC-29715",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1940,
+        "listed_at": "2026-11-19T17:50:03.000Z",
+        "days_on_market": "72",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.908406,
+          35.026247
         ]
       }
     },
