@@ -6535,27 +6535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1227a964-ea64-59cc-9708-8164ff4378d8",
-        "address": "572-11th-Ave-Nw-New-Brighton-MN-55112",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1584,
-        "listed_at": "2026-11-06T15:20:06.000Z",
-        "days_on_market": "70",
-        "current_price": 302000,
-        "price_label": "$302K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.202278,
-          45.058771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1263fab1-ddda-5746-a9d1-b7cd6335e9bb",
         "address": "380-Flyway-Rd-Goose-Creek-SC-29445",
         "beds": 3,
@@ -75052,6 +75031,27 @@
         "coordinates": [
           -122.32322,
           47.662697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d80d13d2-45a9-5283-a32e-d67ce0820273",
+        "address": "2575-Grand-Lakeside-Dr-Palm-Harbor-FL-34684",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3153,
+        "listed_at": "2026-11-19T14:40:05.000Z",
+        "days_on_market": "119",
+        "current_price": 815000,
+        "price_label": "$815K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.737335,
+          28.118753
         ]
       }
     },
