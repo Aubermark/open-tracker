@@ -20269,27 +20269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3b538993-a1c7-5cb2-a6c9-baa6c2cf1455",
-        "address": "1131-Langston-Dr-Greensboro-NC-27405",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1316,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "90",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.713432,
-          36.063063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3b5865fe-9db5-5089-af3d-8ed883acace5",
         "address": "11828-Lovejoy-Crossing-Blvd-Hampton-GA-30228",
         "beds": 3,
@@ -31462,6 +31441,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5ada21c9-f875-55e2-8026-80538cf256fc",
+        "address": "4465 S Cole Ct",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1998,
+        "listed_at": "2026-11-19T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 601000,
+        "price_label": "$601K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.151649,
+          39.634746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5b187aa0-475b-582e-8c19-4ebc25c2bcfc",
         "address": "1320-Nw-15th-St-Homestead-FL-33030",
         "beds": 3,
@@ -32233,6 +32233,27 @@
         "coordinates": [
           -111.800198,
           33.394177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5d495e72-46ae-5194-aaff-a96e821394c1",
+        "address": "5067 Quiet Falls Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1567,
+        "listed_at": "2026-11-19T22:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 445000,
+        "price_label": "$445K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.210429,
+          35.986307
         ]
       }
     },
@@ -65707,6 +65728,27 @@
         "coordinates": [
           -80.506996,
           35.432463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf81f9e7-6afa-4439-97af-50988e5dae52",
+        "address": "237 N Glen Rd",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1764,
+        "listed_at": "2026-11-19T22:00:06.000Z",
+        "days_on_market": "30",
+        "current_price": 367000,
+        "price_label": "$367K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.847826,
+          36.235611
         ]
       }
     },
