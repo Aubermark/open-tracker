@@ -8362,6 +8362,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "17fc02d1-0e8d-5368-beb6-8a91217431a1",
+        "address": "12580 W Virginia Ave",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1440,
+        "listed_at": "2026-11-19T13:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 285000,
+        "price_label": "$285K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.14005,
+          39.706632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1816ba7f-3b67-59c1-b0c0-2b9a4dea90c8",
         "address": "2308-Brasstown-Ln-Apex-NC-27502",
         "beds": 4,
