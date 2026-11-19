@@ -42970,6 +42970,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7f2f64d3-dbd3-548b-920e-06e905acf8b4",
+        "address": "6201 Locust St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1344,
+        "listed_at": "2026-11-19T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 240000,
+        "price_label": "$240K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.576671,
+          32.915487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7f3c3338-fdc6-5aba-801d-f81a776c7316",
         "address": "1711-Avant-St-Valrico-FL-33594",
         "beds": 3,
