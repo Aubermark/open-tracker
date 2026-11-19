@@ -38875,6 +38875,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7219e079-c0b7-518d-ba1e-b07d521e74b9",
+        "address": "29 Freeland Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1862,
+        "listed_at": "2026-11-19T16:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23417,
+          29.584297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "721db739-e078-5353-910b-2e83288fa390",
         "address": "6510 155th Ave NW",
         "beds": 4,
@@ -39457,27 +39478,6 @@
         "coordinates": [
           -80.911002,
           35.611871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7416c87a-7a37-517c-9f8f-ca455b318d2b",
-        "address": "201-Sw-137th-Ter-Oklahoma-City-OK-73170",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2591,
-        "listed_at": "2026-11-18T16:50:05.000Z",
-        "days_on_market": "115",
-        "current_price": 340000,
-        "price_label": "$340K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.515272,
-          35.331792
         ]
       }
     },
@@ -62494,6 +62494,27 @@
         "coordinates": [
           -96.872454,
           33.106795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b753559a-f871-5578-b977-2ef3a40ce0a2",
+        "address": "1102-Londonderry-Ave-Friendswood-TX-77546",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2117,
+        "listed_at": "2026-11-19T16:10:05.000Z",
+        "days_on_market": "86",
+        "current_price": 379000,
+        "price_label": "$379K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.20515,
+          29.506635
         ]
       }
     },
