@@ -48787,27 +48787,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9082bf89-d79b-5cb3-9d64-2abafc51cea3",
-        "address": "25852-W-Lynne-Ln-Buckeye-AZ-85326",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1753,
-        "listed_at": "2026-10-02T04:59:01.000Z",
-        "days_on_market": "49",
-        "current_price": 324000,
-        "price_label": "$324K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.606839,
-          33.39067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "9097a3c2-566c-5993-a826-49ebfe44e22b",
         "address": "3085-Moss-Bridge-Ln-Myrtle-Beach-SC-29579",
         "beds": 4,
@@ -81211,6 +81190,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ead08659-46da-5109-a91a-5f5f76c332d5",
+        "address": "6100 Delora Ave",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 944,
+        "listed_at": "2026-11-19T15:50:23.000Z",
+        "days_on_market": "0",
+        "current_price": 140000,
+        "price_label": "$140K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.729518,
+          41.424455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eadfb054-001c-5354-9392-52080c5339c3",
         "address": "105-Short-St-Laurens-SC-29360",
         "beds": 3,
@@ -85489,6 +85489,27 @@
         "coordinates": [
           -116.375153,
           43.630466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f75f8a76-d220-5f6d-a1de-b7ad735bb815",
+        "address": "6407 Bridgeport Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1674,
+        "listed_at": "2026-11-19T15:50:23.000Z",
+        "days_on_market": "0",
+        "current_price": 340000,
+        "price_label": "$340K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.750867,
+          35.252023
         ]
       }
     },
