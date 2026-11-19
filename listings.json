@@ -53575,6 +53575,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9eaf6eaa-1911-52b2-adcd-aa861a151238",
+        "address": "2544 Chantemar St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1676,
+        "listed_at": "2026-11-19T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 575000,
+        "price_label": "$575K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.319059,
+          36.143683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9ec6cfc7-c420-544f-849b-48cbe85d315a",
         "address": "1542-Water-Vista-Ln-Windsor-CO-80550",
         "beds": 3,
