@@ -17476,6 +17476,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "333faa0b-0bea-51d8-a2b7-05363d57c6ff",
+        "address": "3684-S-Danielson-Way-Chandler-AZ-85286",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2817,
+        "listed_at": "2026-11-19T17:20:05.000Z",
+        "days_on_market": "174",
+        "current_price": 674000,
+        "price_label": "$674K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.798878,
+          33.252948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "336899aa-5610-58b9-846d-ac4ca6122077",
         "address": "517 E 27th St",
         "beds": 4,
