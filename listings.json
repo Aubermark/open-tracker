@@ -3889,6 +3889,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0a8376dd-febb-5048-9df0-298b12a247d0",
+        "address": "114 Mockernut Dr",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2131,
+        "listed_at": "2026-11-19T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 337000,
+        "price_label": "$337K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.131179,
+          32.986921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0a91461f-67ba-5bce-abad-95f6ae30bd40",
         "address": "109-Beacon-Light-Ln-Buckeye-Lake-OH-43008",
         "beds": 3,
@@ -77662,6 +77683,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "df9e2dd6-fb18-5fdf-b321-4107191382d7",
+        "address": "1473 Winnebago Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-11-19T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 244000,
+        "price_label": "$244K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.759577,
+          30.295132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "dfab3f25-1ce1-5f04-91ed-be973501c81b",
         "address": "8181-Highland-Dr-Sw-Covington-GA-30014",
         "beds": 2,
@@ -86413,6 +86455,27 @@
         "coordinates": [
           -97.683042,
           35.394073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f9d73697-62f7-5f80-b9d6-32a0e8267782",
+        "address": "221 Central St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1312,
+        "listed_at": "2026-11-19T15:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 550000,
+        "price_label": "$550K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.240169,
+          42.054287
         ]
       }
     },
