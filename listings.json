@@ -23503,6 +23503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43970713-56e0-5f65-a106-0af870d0ff5a",
+        "address": "1774-7th-St-Riverside-CA-92507",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1912,
+        "listed_at": "2026-11-19T17:00:05.000Z",
+        "days_on_market": "171",
+        "current_price": 639000,
+        "price_label": "$639K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.350116,
+          33.976529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "439b8b0a-7a0d-5bde-bbb7-5293fb239206",
         "address": "7266 Lupton Cir",
         "beds": 4,
@@ -42865,6 +42886,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7ec12cc7-4105-5576-8863-d06d79169376",
+        "address": "1118 Memorial Glen Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1415,
+        "listed_at": "2026-11-19T17:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.256253,
+          29.985701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7ec66c3c-b1aa-5a3c-b0da-f28cc4142ca9",
         "address": "7802 Marwood Dr",
         "beds": 5,
@@ -44539,6 +44581,27 @@
         "coordinates": [
           -81.706505,
           41.47188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "83f1c3ac-5b5f-5080-a86e-509405616146",
+        "address": "1515-E-Bloch-Rd-Phoenix-AZ-85040",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1580,
+        "listed_at": "2026-11-19T17:00:05.000Z",
+        "days_on_market": "121",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.049038,
+          33.401665
         ]
       }
     },
@@ -56698,6 +56761,27 @@
         "coordinates": [
           -80.381887,
           36.262916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a73e844d-af86-58a4-992f-c13f14538fd9",
+        "address": "3610-Crosscut-Loop-Killeen-TX-76542",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1341,
+        "listed_at": "2026-11-19T17:00:05.000Z",
+        "days_on_market": "248",
+        "current_price": 187000,
+        "price_label": "$187K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.711929,
+          31.065287
         ]
       }
     },
@@ -83704,27 +83788,6 @@
         "coordinates": [
           -122.374956,
           47.582355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f1a59c2c-213c-5ef2-b697-3067390729fb",
-        "address": "2505-Velma-Ter-Leesburg-FL-34748",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1118,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "176",
-        "current_price": 177000,
-        "price_label": "$177K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.907072,
-          28.818807
         ]
       }
     },
