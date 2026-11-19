@@ -81043,6 +81043,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "eab92c97-ca05-5281-99d9-5bdfc7789c8e",
+        "address": "47 Park View Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1769,
+        "listed_at": "2026-11-19T09:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 331000,
+        "price_label": "$331K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.791989,
+          33.196519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "eac035ee-dc10-5be2-abf5-c4b5bc889540",
         "address": "7521 S Mountain Star Dr",
         "beds": 2,
