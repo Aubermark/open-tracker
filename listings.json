@@ -11743,6 +11743,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22d44876-d38b-5de3-978e-7c2d7decfe11",
+        "address": "120 Sweet Birch Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1839,
+        "listed_at": "2026-11-19T21:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 326000,
+        "price_label": "$326K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.228864,
+          34.976862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22d89f3f-9ffd-5753-b23d-df26a6330c4f",
         "address": "1015-Kingsway-Dr-Lorain-OH-44052",
         "beds": 3,
@@ -64132,27 +64153,6 @@
         "coordinates": [
           -84.100953,
           36.03517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "bb8af375-fbed-5568-ae39-0dcf05da1e12",
-        "address": "461-W-Pintail-Dr-Casa-Grande-AZ-85122",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1572,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "91",
-        "current_price": 265000,
-        "price_label": "$265K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.758509,
-          32.985014
         ]
       }
     },
