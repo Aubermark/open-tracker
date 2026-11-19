@@ -11932,6 +11932,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "237afecb-0e6c-5f0a-ab37-6f90eb053f11",
+        "address": "199 Foote McClellan Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1169,
+        "listed_at": "2026-11-19T09:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 265000,
+        "price_label": "$265K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.242426,
+          34.033332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "237d7566-68e7-58b3-b554-5bd98baab76a",
         "address": "24-Bay-Pointe-Dr-Ormond-Beach-FL-32174",
         "beds": 5,
