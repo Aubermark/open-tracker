@@ -6514,6 +6514,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "122158ba-ed65-5f72-81b0-b6253373d0a6",
+        "address": "7153 Lanyon Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1467,
+        "listed_at": "2026-11-19T12:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.696144,
+          32.782655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1227a964-ea64-59cc-9708-8164ff4378d8",
         "address": "572-11th-Ave-Nw-New-Brighton-MN-55112",
         "beds": 3,
