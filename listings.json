@@ -30559,6 +30559,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58117911-1dc9-544e-b842-2082203f63f2",
+        "address": "3677 Hidden Valley Cir",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 1984,
+        "listed_at": "2026-11-19T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 353000,
+        "price_label": "$353K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.082608,
+          33.906713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58174d47-19a1-5c97-97dc-22f95dfdb3b5",
         "address": "15130-Stonegreen-Ln-Huntersville-NC-28078",
         "beds": 4,
@@ -61108,6 +61129,27 @@
         "coordinates": [
           -84.247502,
           33.788786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b386dc30-a094-5616-8e0a-591517d91a21",
+        "address": "14136 Country Breeze Ln",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 3096,
+        "listed_at": "2026-11-19T20:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 357000,
+        "price_label": "$357K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.983776,
+          39.994483
         ]
       }
     },
