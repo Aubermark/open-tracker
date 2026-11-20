@@ -15460,6 +15460,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cd5d179-e910-5c7c-9e0b-29e5f0f35a8a",
+        "address": "103 Planters Ridge Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1876,
+        "listed_at": "2026-11-20T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 297000,
+        "price_label": "$297K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.125933,
+          33.019098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ce84ac1-6862-5946-94dc-95b3eb808128",
         "address": "1652 Harris Ave",
         "beds": 3,
@@ -30931,6 +30952,27 @@
         "coordinates": [
           -80.897502,
           35.435831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "59197a40-a86b-533e-b4e2-fae19ec3cf1e",
+        "address": "2743 Saint Augustine Trl SE",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1162,
+        "listed_at": "2026-11-20T16:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 205000,
+        "price_label": "$205K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.478488,
+          33.91619
         ]
       }
     },
