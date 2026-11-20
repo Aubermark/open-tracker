@@ -1516,6 +1516,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "035e7285-e931-571a-9ed6-ceb05164370e",
+        "address": "938 Luke St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2783,
+        "listed_at": "2026-11-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 382000,
+        "price_label": "$382K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.054493,
+          33.766693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "038c56eb-27cf-57e8-a37c-cdbbf125d488",
         "address": "15-Crescent-St-Lyman-SC-29365",
         "beds": 2,
@@ -11701,6 +11722,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "22c8c940-842b-5701-9582-118e55630169",
+        "address": "6608-Windbrook-Way-Flowery-Branch-GA-30542",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2831,
+        "listed_at": "2026-11-20T15:50:06.000Z",
+        "days_on_market": "56",
+        "current_price": 427000,
+        "price_label": "$427K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96411,
+          34.165613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "22d44876-d38b-5de3-978e-7c2d7decfe11",
         "address": "120 Sweet Birch Dr",
         "beds": 4,
@@ -12787,6 +12829,27 @@
         "coordinates": [
           -95.165222,
           29.658469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "262e1194-e7d8-5aca-bbdf-35efa1b7fdb9",
+        "address": "336 Ponoma St",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1429,
+        "listed_at": "2026-11-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 690000,
+        "price_label": "$690K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19979,
+          34.151001
         ]
       }
     },
@@ -39799,6 +39862,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "75116406-d399-54cd-8330-fda75b9cfe5c",
+        "address": "5092 Abbotts Glen Way NW",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2265,
+        "listed_at": "2026-11-20T15:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 400000,
+        "price_label": "$400K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62616,
+          34.07605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "751e054a-80a7-5e44-9378-7100cf1d16aa",
         "address": "2116-S-6th-St-Mc-Allen-TX-78503",
         "beds": 3,
@@ -56278,27 +56362,6 @@
         "coordinates": [
           -80.861178,
           35.013283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a5dc1594-7c37-5715-8d43-4564b69c01f3",
-        "address": "306-Fayetteville-St-Newton-Grove-NC-28366",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2093,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "101",
-        "current_price": 244000,
-        "price_label": "$244K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.356049,
-          35.244144
         ]
       }
     },
