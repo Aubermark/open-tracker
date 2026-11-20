@@ -8866,27 +8866,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1960a4fb-08c7-59b5-9aa4-fbd4115de2b6",
-        "address": "5634-Tulip-Grove-Dr-Memphis-TN-38135",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2161,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "147",
-        "current_price": 263000,
-        "price_label": "$263K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.87519,
-          35.252513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1964f5f0-4da8-5461-b76e-10af73081e7c",
         "address": "1416-Hickory-View-Cir-Parrish-FL-34219",
         "beds": 3,
@@ -43993,6 +43972,27 @@
         "coordinates": [
           -80.254224,
           32.940245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "81a17603-a6fb-5f8e-9dfe-627e60d0ba1a",
+        "address": "520 Holly Hills Ln",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3982,
+        "listed_at": "2026-11-20T17:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 490000,
+        "price_label": "$490K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.029659,
+          33.468281
         ]
       }
     },
