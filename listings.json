@@ -44461,6 +44461,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "827a0d87-8ad8-544b-9592-94f960c5eed7",
+        "address": "6535 34th Ave NE",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1687,
+        "listed_at": "2026-11-20T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 855000,
+        "price_label": "$855K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292191,
+          47.676496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "82830703-480d-59e3-b7ad-ce1c2a24b235",
         "address": "18-Rhyne-Ave-Winston-Salem-NC-27127",
         "beds": 3,
@@ -71215,6 +71236,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cd780105-375b-5613-89fc-75c59a69c90e",
+        "address": "9520 E Stella Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1170,
+        "listed_at": "2026-11-20T21:40:05.000Z",
+        "days_on_market": "18",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.788887,
+          32.181911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "cd97772e-3ea5-5c9c-a6d7-f7c1fbc61b8e",
         "address": "4320 Pheasant Trail Ct",
         "beds": 3,
@@ -80155,6 +80197,27 @@
         "coordinates": [
           -78.504226,
           33.937987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e6179a43-ff96-5f7a-b542-6d9a8af073ac",
+        "address": "6409 Rudd Pl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1876,
+        "listed_at": "2026-11-20T21:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 363000,
+        "price_label": "$363K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.381763,
+          37.488284
         ]
       }
     },
