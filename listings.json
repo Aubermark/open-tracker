@@ -14116,6 +14116,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "29acb2b6-faf0-514d-b03b-102c6dc54632",
+        "address": "7045 Greybudd Dr",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2450,
+        "listed_at": "2026-11-20T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.214926,
+          39.882486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "29b16a58-9a02-561f-a765-a4bfe881102d",
         "address": "6831 Wilson St",
         "beds": 3,
@@ -38224,6 +38245,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6f101f7f-e2fa-5cd2-8fd9-9b745bbb3296",
+        "address": "8341 Silverbush Ln",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 3309,
+        "listed_at": "2026-11-20T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.799936,
+          39.982905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6f3f92d8-db50-4cb8-b1cc-264f20e1258e",
         "address": "519-N-Gilbert-St-Castle-Rock-CO-80104",
         "beds": 3,
@@ -41998,6 +42040,27 @@
         "coordinates": [
           -84.348399,
           33.90247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "7b5d9077-0086-56d5-818d-38377c6f7c96",
+        "address": "3020 Northampton Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1635,
+        "listed_at": "2026-11-20T19:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 530000,
+        "price_label": "$530K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.857037,
+          35.139819
         ]
       }
     },
