@@ -64243,6 +64243,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "bae7b554-0e7f-5b10-b78a-0d9e27cd48ca",
+        "address": "12008 12th Dr SE",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2598,
+        "listed_at": "2026-11-20T21:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 831000,
+        "price_label": "$831K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.214313,
+          47.888928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "baed925f-7c9b-5cac-9515-ad66d448aa67",
         "address": "3730-Dedrick-Ct-New-Port-Richey-FL-34655",
         "beds": 2,
