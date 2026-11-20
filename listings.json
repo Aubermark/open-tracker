@@ -33184,6 +33184,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5fba14b5-9bea-576b-b44d-db7dd9786be8",
+        "address": "1900-Milfield-Cir-Snellville-GA-30078",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3751,
+        "listed_at": "2026-11-20T13:50:05.000Z",
+        "days_on_market": "178",
+        "current_price": 499000,
+        "price_label": "$499K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020844,
+          33.897571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5fc1d2dc-0b2e-5e24-94e3-ee61f4af2ae8",
         "address": "5404 La Patera Ln",
         "beds": 2,
@@ -47710,6 +47731,27 @@
         "coordinates": [
           -82.19481,
           27.042064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8d09b372-c69d-5932-9a7b-8ab7b7f45857",
+        "address": "2913 Patishall Ln",
+        "beds": 5,
+        "baths": 2.5,
+        "sqft": 2835,
+        "listed_at": "2026-11-20T13:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 398000,
+        "price_label": "$398K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.964949,
+          35.257929
         ]
       }
     },
