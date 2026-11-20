@@ -12436,6 +12436,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "24a1c6a5-3d58-5254-8024-8eff0234fc17",
+        "address": "5749 Rock Shoals Way",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2108,
+        "listed_at": "2026-11-20T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 267000,
+        "price_label": "$267K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.416054,
+          33.600421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "24af962d-22fc-53ca-9fec-b88727d9e082",
         "address": "4200-Abbeydale-Dr-Charlotte-NC-28205",
         "beds": 3,
@@ -16945,6 +16966,27 @@
         "coordinates": [
           -112.174144,
           33.718509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "313a5c14-ce40-5983-84e9-d6b456efa0af",
+        "address": "3370 Ridge Hill Pkwy",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1995,
+        "listed_at": "2026-11-20T17:40:05.000Z",
+        "days_on_market": "0",
+        "current_price": 297000,
+        "price_label": "$297K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.684011,
+          33.680085
         ]
       }
     },
