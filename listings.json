@@ -10903,6 +10903,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "20cc9bb1-53ec-5632-91ff-9572a7c20f0f",
+        "address": "2448 Oakleaf Cir",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2259,
+        "listed_at": "2026-11-20T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 295000,
+        "price_label": "$295K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10537,
+          33.716849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20e1e94d-5b7d-43fd-875d-7cc86c959fd0",
         "address": "543-Bellum-Dr-Unit-1061-Henderson-NV-89011",
         "beds": 2,
@@ -20305,6 +20326,27 @@
         "coordinates": [
           -84.30746,
           33.431223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "3b70c325-b664-50f6-888b-34f451ff64b4",
+        "address": "4039 Eagle Cove East Dr",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1388,
+        "listed_at": "2026-11-20T18:20:04.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.286368,
+          39.827538
         ]
       }
     },
