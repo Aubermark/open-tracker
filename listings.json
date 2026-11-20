@@ -6976,6 +6976,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "13d298ef-75c2-4049-9642-b3bf944325e1",
+        "address": "1843 Kolb Farm Cir SW",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1669,
+        "listed_at": "2026-11-20T19:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 300000,
+        "price_label": "$300K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.599037,
+          33.907936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "13dacae3-7ed9-5c51-96ba-d18cfd6bd615",
         "address": "19-Rivanna-Dr-Anderson-SC-29625",
         "beds": 4,
@@ -87967,6 +87988,27 @@
         "coordinates": [
           -86.753928,
           35.994098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "fe17d736-4f9f-548c-bfe6-fa8cdcf487ea",
+        "address": "1705 Riverwood Dr",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1175,
+        "listed_at": "2026-11-20T19:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 200000,
+        "price_label": "$200K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.252099,
+          44.786632
         ]
       }
     },
