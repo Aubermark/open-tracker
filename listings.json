@@ -60547,6 +60547,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b1a0d9c1-8405-5c03-be55-0db62b01f258",
+        "address": "1025 Meagan Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1219,
+        "listed_at": "2026-11-20T15:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 227000,
+        "price_label": "$227K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.316565,
+          35.264198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b1d56264-5a31-5583-8a4d-031416f8c449",
         "address": "6608 Charles Ave",
         "beds": 3,
