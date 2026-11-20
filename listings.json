@@ -15544,6 +15544,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2d048948-b63d-5c13-a239-3c9b338ab998",
+        "address": "1440 E Stirrup Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1902,
+        "listed_at": "2026-11-20T10:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 320000,
+        "price_label": "$320K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.551242,
+          33.167939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2d18d927-3231-49c7-9dd9-1c247cef76a7",
         "address": "30-Sunrise-Ct-Spring-Hope-NC-27882",
         "beds": 4,
