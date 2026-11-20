@@ -18631,6 +18631,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "366aee19-24c6-50b6-bc7e-0d3fb7cd3115",
+        "address": "904 Ridge Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1970,
+        "listed_at": "2026-11-20T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 270000,
+        "price_label": "$270K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.845441,
+          32.391801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "368eb170-375c-5a31-b89a-c0ff81d964e6",
         "address": "53-Inez-Way-Stafford-VA-22554",
         "beds": 3,
@@ -24883,6 +24904,27 @@
         "coordinates": [
           -78.913059,
           33.774457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "478e0c04-3edb-582e-a576-5e7053c9a35b",
+        "address": "696-Troon-Dr-Se-Rio-Rancho-NM-87124",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1487,
+        "listed_at": "2026-11-20T21:30:06.000Z",
+        "days_on_market": "74",
+        "current_price": 325000,
+        "price_label": "$325K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.669504,
+          35.246988
         ]
       }
     },
@@ -72364,6 +72406,27 @@
         "coordinates": [
           -82.533112,
           28.476281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d06cff63-ec0f-5503-a524-4eae77239710",
+        "address": "1808 Winfield Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2196,
+        "listed_at": "2026-11-20T21:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 392000,
+        "price_label": "$392K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.595289,
+          35.016572
         ]
       }
     },
