@@ -21928,6 +21928,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3f7dbab7-c5c1-5134-bba5-4737c54d1d8a",
+        "address": "117 Rollins St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1338,
+        "listed_at": "2026-11-20T21:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 286000,
+        "price_label": "$286K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.101409,
+          35.368803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3fa18a25-0f4a-5963-ae05-8ee0796c7b70",
         "address": "17794-N-114th-Ln-Surprise-AZ-85378",
         "beds": 3,
