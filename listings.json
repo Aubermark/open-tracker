@@ -8824,27 +8824,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "193ec4cd-9fe2-53d5-b98b-232c9df6d7b6",
-        "address": "2844 Watercrest Dr NW",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3040,
-        "listed_at": "2026-11-19T07:20:53.000Z",
-        "days_on_market": "11",
-        "current_price": 495000,
-        "price_label": "$495K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.688409,
-          35.371438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "194d0091-a86f-5bfe-b2f9-0dd786d05d00",
         "address": "11350 Stone Trail Rd",
         "beds": 3,
@@ -13249,6 +13228,27 @@
         "coordinates": [
           -117.688028,
           35.64112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "278e84ad-767b-5175-8ab7-ee7065ead5ce",
+        "address": "5608 Kingsboro Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2101,
+        "listed_at": "2026-11-20T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.723966,
+          38.758843
         ]
       }
     },
@@ -71860,6 +71860,27 @@
         "coordinates": [
           -121.429397,
           38.47892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cfa9d42b-2ee4-5c9c-9b10-78a6c556c0bb",
+        "address": "3080 Raymonds Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-11-20T16:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 305000,
+        "price_label": "$305K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.847847,
+          33.796628
         ]
       }
     },
