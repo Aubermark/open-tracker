@@ -12058,6 +12058,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "23901775-6268-5ff9-b0c2-c2db7eb49012",
+        "address": "1604-Drayton-Woods-Dr-Tucker-GA-30084",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1975,
+        "listed_at": "2026-11-20T17:00:06.000Z",
+        "days_on_market": "99",
+        "current_price": 375000,
+        "price_label": "$375K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215901,
+          33.828394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "239eb6cf-8a73-58a1-9ca5-dcb424a5b9c5",
         "address": "124-Crescent-St-Georgetown-TX-78626",
         "beds": 3,
@@ -79840,6 +79861,27 @@
         "coordinates": [
           -79.918251,
           36.058425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e5cfd753-089f-5134-b910-86dceb877caf",
+        "address": "117 Dogwood Trl",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1482,
+        "listed_at": "2026-11-20T17:00:04.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.609171,
+          33.824318
         ]
       }
     },
