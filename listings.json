@@ -676,6 +676,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "01974a50-3f44-5682-a10d-3a6bebd0ab30",
+        "address": "11954 Autumn Vista St",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2554,
+        "listed_at": "2026-11-20T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.605529,
+          29.557096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "019d42e1-3e93-5258-9b64-cda9bbda3bfd",
         "address": "410 NE 76th Ave",
         "beds": 4,
@@ -36580,6 +36601,27 @@
         "coordinates": [
           -81.99503,
           28.951551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "6981bdbe-80f4-59de-a754-453c43d58e63",
+        "address": "686 Orange Grove St",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 3670,
+        "listed_at": "2026-11-20T20:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.086109,
+          29.484693
         ]
       }
     },
@@ -84460,27 +84502,6 @@
         "coordinates": [
           -78.597443,
           35.693089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "f27673eb-ca8e-59c9-8cb7-910329a87ce2",
-        "address": "1937-Beckley-Dr-Columbia-SC-29209",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1128,
-        "listed_at": "2026-11-19T07:20:54.000Z",
-        "days_on_market": "112",
-        "current_price": 131000,
-        "price_label": "$131K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.926162,
-          33.978036
         ]
       }
     },
