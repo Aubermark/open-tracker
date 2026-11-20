@@ -34780,6 +34780,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "64137236-41d9-5b97-8d5d-7eac5adbea51",
+        "address": "9122 Neil Dr",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1782,
+        "listed_at": "2026-11-20T17:30:05.000Z",
+        "days_on_market": "35",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.570296,
+          39.236317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "641ec82c-b457-5ff0-8ec1-5ba14eb74ce1",
         "address": "1021 Heritage Dr",
         "beds": 2,
@@ -67387,6 +67408,27 @@
         "coordinates": [
           -86.113586,
           39.600048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c3e58e64-1614-54d0-8a6e-a5610e533d5a",
+        "address": "4034-Green-St-Jacksonville-FL-32205",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1067,
+        "listed_at": "2026-11-20T17:30:05.000Z",
+        "days_on_market": "201",
+        "current_price": 183000,
+        "price_label": "$183K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.718866,
+          30.315215
         ]
       }
     },
