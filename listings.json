@@ -50929,6 +50929,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "963eebf2-854e-577d-bae6-42a5faf5eafb",
+        "address": "5322 Harbinger Rd",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 848,
+        "listed_at": "2026-11-20T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 203000,
+        "price_label": "$203K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54071,
+          28.51114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "964279fa-86a0-5a7c-b06d-0d5b0aa1fbf3",
         "address": "207 Mayflower Dr",
         "beds": 3,
@@ -58447,6 +58468,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aad5c66b-cb53-5bf4-b9a0-1d30403fd625",
+        "address": "4911 Penrose St",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1953,
+        "listed_at": "2026-11-20T19:40:05.000Z",
+        "days_on_market": "8",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.583574,
+          29.457594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "aae11f92-dae4-5805-9374-47a97225168c",
         "address": "4236 N 27th St",
         "beds": 3,
@@ -65707,6 +65749,27 @@
         "coordinates": [
           -86.781117,
           36.497725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "bf13c4ea-d2f4-5ff5-a1e0-7b93ad42c369",
+        "address": "108 Oakwood Ct",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1222,
+        "listed_at": "2026-11-20T19:40:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.790635,
+          30.111873
         ]
       }
     },
