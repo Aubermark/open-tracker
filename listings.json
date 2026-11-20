@@ -48157,6 +48157,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8d1d694e-265c-4679-a2c3-387ed91455fe",
+        "address": "626 164th St SW",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2113,
+        "listed_at": "2026-11-20T23:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 770000,
+        "price_label": "$770K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24233,
+          47.849135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8d265dde-55a3-560d-ad8c-c5f84b4fdec6",
         "address": "10539-Georgetown-Dr-Rancho-Cordova-CA-95670",
         "beds": 4,
@@ -71398,27 +71419,6 @@
         "coordinates": [
           -110.788887,
           32.181911
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cd97772e-3ea5-5c9c-a6d7-f7c1fbc61b8e",
-        "address": "4320 Pheasant Trail Ct",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2204,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "25",
-        "current_price": 371000,
-        "price_label": "$371K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.473768,
-          39.392384
         ]
       }
     },
