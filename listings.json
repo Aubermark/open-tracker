@@ -71383,6 +71383,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "cef82f75-f7a9-5c9b-9699-928f7c2ed055",
+        "address": "5315 Oconnel Ct",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2596,
+        "listed_at": "2026-11-20T12:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 296000,
+        "price_label": "$296K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.171687,
+          33.784447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ceff6fdb-8bdc-5f5d-8a5e-131a0a340810",
         "address": "19858 Laurel Trail Dr",
         "beds": 3,
