@@ -59875,6 +59875,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "aee34571-e97a-5cd7-be32-08cec5e2e549",
+        "address": "6630 Southern Ridge Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1641,
+        "listed_at": "2026-11-20T22:00:05.000Z",
+        "days_on_market": "0",
+        "current_price": 290000,
+        "price_label": "$290K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.051768,
+          39.650299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "af233e70-3f64-500c-b22a-ccf5f6605aae",
         "address": "305 Pebble Creek Ct",
         "beds": 3,
@@ -80008,6 +80029,27 @@
         "coordinates": [
           -115.266088,
           36.037755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e58bd63e-17e0-525e-9070-2c7e558d1e4f",
+        "address": "17110-Golf-Club-Dr-Crosby-TX-77532",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1395,
+        "listed_at": "2026-11-20T22:00:06.000Z",
+        "days_on_market": "137",
+        "current_price": 179000,
+        "price_label": "$179K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.090243,
+          29.930889
         ]
       }
     },
