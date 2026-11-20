@@ -39127,6 +39127,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "728456ce-6e90-5e56-ae5a-6b365d857276",
+        "address": "4966 Wynhurst Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1759,
+        "listed_at": "2026-11-20T16:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 280000,
+        "price_label": "$280K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18616,
+          33.734761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "72a452de-4de5-599a-85d9-8b2ea2839113",
         "address": "11904 Song Sparrow Ln",
         "beds": 3,
@@ -42586,27 +42607,6 @@
         "coordinates": [
           -96.465506,
           32.867611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7dbf4955-05bd-5c7c-bd73-11818c36c64c",
-        "address": "14022 Park Cove Dr",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2891,
-        "listed_at": "2026-11-19T19:40:03.000Z",
-        "days_on_market": "1",
-        "current_price": 900000,
-        "price_label": "$900K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.023944,
-          39.951478
         ]
       }
     },
@@ -70264,6 +70264,27 @@
         "coordinates": [
           -90.224005,
           38.932801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "cb964c83-2d89-5254-b719-1947a7b427a3",
+        "address": "11874 Sea Oats St",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1610,
+        "listed_at": "2026-11-20T16:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 510000,
+        "price_label": "$510K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.761185,
+          39.535114
         ]
       }
     },
