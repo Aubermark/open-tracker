@@ -53659,6 +53659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e3db2ee-cb8c-4d8c-9524-e6ed19f1804b",
+        "address": "1708 W Stephanie Ln",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1624,
+        "listed_at": "2026-11-20T18:30:03.000Z",
+        "days_on_market": "0",
+        "current_price": 361000,
+        "price_label": "$361K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.584455,
+          33.199378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e449cb1-d1f7-5986-827e-6268495c815f",
         "address": "1313-Sandpiper-Aubrey-TX-76227",
         "beds": 4,
@@ -66673,27 +66694,6 @@
         "coordinates": [
           -82.675975,
           28.298764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c1dad6f0-411c-5e30-a193-a3e4a71efdda",
-        "address": "113 Market St S",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1548,
-        "listed_at": "2026-10-15T07:20:33.000Z",
-        "days_on_market": "37",
-        "current_price": 174000,
-        "price_label": "$174K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.286402,
-          40.786738
         ]
       }
     },
