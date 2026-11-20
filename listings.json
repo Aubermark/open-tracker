@@ -63361,6 +63361,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b8efc96c-09fa-5364-bf1d-1de11c6fca92",
+        "address": "414 Loyd Rd",
+        "beds": 5,
+        "baths": 4.5,
+        "sqft": 5041,
+        "listed_at": "2026-11-20T18:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 990000,
+        "price_label": "$990K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.564511,
+          33.43456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b8f9ea2a-0c97-5a92-858e-3a7214089a78",
         "address": "20832-N-Wilford-Ave-Maricopa-AZ-85138",
         "beds": 4,
