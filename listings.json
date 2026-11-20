@@ -50110,27 +50110,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "9476a4ec-5925-5b7b-be45-c038af707e8d",
-        "address": "1008 Mendonsa Rd",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3471,
-        "listed_at": "2026-11-18T19:10:04.000Z",
-        "days_on_market": "2",
-        "current_price": 655000,
-        "price_label": "$655K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.132383,
-          28.000422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "947a25e0-904c-51fd-9d9a-2add7aba8f9f",
         "address": "405-Kathy-Ln-Wylie-TX-75098",
         "beds": 3,
@@ -61534,6 +61513,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b45f9744-fa86-5970-b58c-f749638e51bf",
+        "address": "20 Vance Cir",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1468,
+        "listed_at": "2026-11-20T16:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 215000,
+        "price_label": "$215K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.256121,
+          35.828043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b4666006-3eae-549e-aef3-b0ed3fdc9a7b",
         "address": "1604-Sound-Watch-Dr-Wilmington-NC-28409",
         "beds": 5,
@@ -63313,6 +63313,27 @@
         "coordinates": [
           -111.999776,
           33.069301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b9171b51-83f7-58b3-9919-f80146ec8866",
+        "address": "7413 Rose Crest Blvd",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2064,
+        "listed_at": "2026-11-20T16:20:05.000Z",
+        "days_on_market": "22",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.264819,
+          32.651531
         ]
       }
     },
