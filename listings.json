@@ -86755,6 +86755,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "fa5c8fbf-4143-4c11-a930-846422633078",
+        "address": "1070 S 11th St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1216,
+        "listed_at": "2026-11-20T10:00:03.000Z",
+        "days_on_market": "0",
+        "current_price": 235000,
+        "price_label": "$235K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.536789,
+          32.968248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "fa93bef1-5dbf-5af0-b62f-565b5c7bacc6",
         "address": "1370-Eaglecreek-Trl-Cumming-GA-30041",
         "beds": 3,
