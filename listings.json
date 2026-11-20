@@ -69724,6 +69724,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ca5caac3-c5cb-5425-a1b2-0d077d00121a",
+        "address": "466 Conyers Rd",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1393,
+        "listed_at": "2026-11-20T13:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 260000,
+        "price_label": "$260K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.129858,
+          33.457253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ca70097b-d491-52b7-9a69-ccefae239296",
         "address": "644-Wellfleet-Dr-Bay-Village-OH-44140",
         "beds": 3,
@@ -86875,27 +86896,6 @@
         "coordinates": [
           -83.863634,
           34.097144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fad10842-7d71-589b-96ed-f8727763644d",
-        "address": "2-Cabot-Ct-Greensboro-NC-27407",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1215,
-        "listed_at": "2026-11-05T07:09:50.000Z",
-        "days_on_market": "70",
-        "current_price": 256000,
-        "price_label": "$256K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.881632,
-          36.031471
         ]
       }
     },
