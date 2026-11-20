@@ -9160,6 +9160,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1aa7c8df-0afc-5d6a-a7ff-db553b94a104",
+        "address": "6136 Keswick Row",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1228,
+        "listed_at": "2026-11-20T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 256000,
+        "price_label": "$256K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1799,
+          33.869702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1ace8c5c-5bd2-5270-976b-8053067ddf1a",
         "address": "6104-Crupper-Ct-Raleigh-NC-27613",
         "beds": 4,
@@ -62647,27 +62668,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b68ede62-79fe-5881-9e72-aa42aa418203",
-        "address": "5369-N-205th-Dr-Buckeye-AZ-85396",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1236,
-        "listed_at": "2026-11-12T07:10:28.000Z",
-        "days_on_market": "165",
-        "current_price": 315000,
-        "price_label": "$315K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.49652,
-          33.514527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b697a653-4a1d-5a0e-99ee-18c9f5477596",
         "address": "512 NE Grant Dr",
         "beds": 3,
@@ -80596,27 +80596,6 @@
         "coordinates": [
           -83.833074,
           33.561208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e7242ac4-bdad-5690-b553-8efc7597bd79",
-        "address": "8 Big Bluff Pl",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1698,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "39",
-        "current_price": 360000,
-        "price_label": "$360K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.889692,
-          36.076018
         ]
       }
     },
