@@ -9538,6 +9538,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1c78e778-4d88-5746-b5cc-63705b58f293",
+        "address": "1913-Foust-Rd-Greensboro-NC-27405",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1903,
+        "listed_at": "2026-11-20T22:10:06.000Z",
+        "days_on_market": "71",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75062,
+          36.144378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1c7b454f-6d95-5589-82ef-3fddd49b91c8",
         "address": "2836-S-Lakeview-Dr-Cedar-Hill-TX-75104",
         "beds": 4,
@@ -14005,6 +14026,27 @@
         "coordinates": [
           -83.995611,
           34.027077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "296fcc6d-67be-5398-abdf-b588df95b433",
+        "address": "12459 SE 176th Loop",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1326,
+        "listed_at": "2026-11-20T22:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 293000,
+        "price_label": "$293K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.949907,
+          28.960719
         ]
       }
     },
