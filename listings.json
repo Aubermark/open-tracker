@@ -47254,6 +47254,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8b0733d1-9d60-55f0-8cee-39ff6b5e5ecd",
+        "address": "10516 NE 32nd Pl",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1028,
+        "listed_at": "2026-11-20T22:40:04.000Z",
+        "days_on_market": "0",
+        "current_price": 425000,
+        "price_label": "$425K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19944,
+          47.639543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8b12ecf3-43f4-5b75-b325-02e3a549e210",
         "address": "2015-River-Crossing-Dr-Valrico-FL-33596",
         "beds": 5,
