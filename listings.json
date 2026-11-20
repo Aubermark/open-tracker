@@ -23818,6 +23818,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "43e37e08-f620-566d-8d9c-7d5b640a32e8",
+        "address": "1365 Yorkdale Rd",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2392,
+        "listed_at": "2026-11-20T22:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 368000,
+        "price_label": "$368K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.649013,
+          28.166016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "43e5c30f-dcff-59e9-bc2f-6083b9458ea6",
         "address": "148-Whitwood-Cir-Columbia-SC-29212",
         "beds": 3,
@@ -53869,6 +53890,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9e437923-4dbc-587d-8185-b777f46d4e4d",
+        "address": "37048 Lake Overlook Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1589,
+        "listed_at": "2026-11-20T22:30:05.000Z",
+        "days_on_market": "0",
+        "current_price": 321000,
+        "price_label": "$321K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.733663,
+          28.889484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9e449cb1-d1f7-5986-827e-6268495c815f",
         "address": "1313-Sandpiper-Aubrey-TX-76227",
         "beds": 4,
@@ -60667,6 +60709,27 @@
         "coordinates": [
           -89.443065,
           40.713048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b0f8c8be-0409-5eb6-98b7-7b4f71999d9d",
+        "address": "1304 141st Pl SW",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2449,
+        "listed_at": "2026-11-20T22:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 865000,
+        "price_label": "$865K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250914,
+          47.869784
         ]
       }
     },
