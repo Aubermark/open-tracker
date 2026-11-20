@@ -66658,6 +66658,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c21a91eb-5e63-5611-9bce-985cfe64932d",
+        "address": "3964 Moos Creek Ct",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1833,
+        "listed_at": "2026-11-20T08:50:03.000Z",
+        "days_on_market": "0",
+        "current_price": 344000,
+        "price_label": "$344K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.977083,
+          33.819983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c2231c6a-d997-5dea-b5e3-1e2e3df8b976",
         "address": "8723 Hosta Way",
         "beds": 4,
