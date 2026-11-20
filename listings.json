@@ -22369,6 +22369,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "40b40c73-36f7-5e00-931e-257d1c8db463",
+        "address": "2884-Kingston-Ave-Grove-City-OH-43123",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1453,
+        "listed_at": "2026-11-20T15:10:05.000Z",
+        "days_on_market": "137",
+        "current_price": 313000,
+        "price_label": "$313K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.080074,
+          39.877168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "40b62ea7-9e30-5be4-8b14-0f67849e8bd8",
         "address": "8623 Plum Lake Dr",
         "beds": 4,
@@ -60694,27 +60715,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "b21a9d39-d8a0-5419-8556-aa0590288908",
-        "address": "6383-S-Lauritzen-Dr-Taylorsville-UT-84129",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1178,
-        "listed_at": "2026-11-05T07:09:49.000Z",
-        "days_on_market": "124",
-        "current_price": 438000,
-        "price_label": "$438K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.950898,
-          40.635232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "b22412a4-23da-5775-9f43-6db4f03a424f",
         "address": "626-Tanana-Fall-Dr-Ruskin-FL-33570-16010015",
         "beds": 4,
@@ -61927,27 +61927,6 @@
         "coordinates": [
           -82.450997,
           29.055815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b5d3f17f-f8a6-5652-8424-0267433b8111",
-        "address": "8421 Cypress Lake Cir",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1768,
-        "listed_at": "2026-10-30T16:40:03.000Z",
-        "days_on_market": "21",
-        "current_price": 363000,
-        "price_label": "$363K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.500025,
-          27.389902
         ]
       }
     },
@@ -69151,6 +69130,27 @@
         "coordinates": [
           -81.39163,
           41.434257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c8cfbf4a-c588-5594-af2e-cc2a1f3c3563",
+        "address": "6567-Arborg-Ct-Dublin-OH-43017",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1357,
+        "listed_at": "2026-11-20T15:10:05.000Z",
+        "days_on_market": "92",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.105198,
+          40.08875
         ]
       }
     },
