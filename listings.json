@@ -75751,6 +75751,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d8714531-96c0-527e-993a-ce95a2fc5d0b",
+        "address": "10609 Viscaino Pl",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2478,
+        "listed_at": "2026-11-20T19:50:04.000Z",
+        "days_on_market": "0",
+        "current_price": 700000,
+        "price_label": "$700K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.120476,
+          35.338959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d8893b8b-b419-59a8-be7e-ddd40f49135b",
         "address": "335-Homeville-Rd-Collierville-TN-38017",
         "beds": 4,
