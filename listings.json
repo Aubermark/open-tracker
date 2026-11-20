@@ -56893,27 +56893,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a73e844d-af86-58a4-992f-c13f14538fd9",
-        "address": "3610-Crosscut-Loop-Killeen-TX-76542",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1341,
-        "listed_at": "2026-11-19T17:00:05.000Z",
-        "days_on_market": "249",
-        "current_price": 187000,
-        "price_label": "$187K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.711929,
-          31.065287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a75cbfc6-c294-53e1-a277-51f20241691f",
         "address": "229 Cater St",
         "beds": 2,
@@ -74428,6 +74407,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d5a916c1-9db4-57ed-9dc6-743ff85aa1d5",
+        "address": "17 Boxboro Rd",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4283,
+        "listed_at": "2026-11-20T17:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 1295000,
+        "price_label": "$1.295M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.501611,
+          42.44325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d5b48dfc-6ab9-5d16-8c91-e83a1d57085d",
         "address": "3782-Man-O-War-Blvd-Clarksville-TN-37042",
         "beds": 3,
@@ -86392,6 +86392,27 @@
         "coordinates": [
           -84.116769,
           33.563112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f8da5703-134e-5485-98a2-0af3d46e53e5",
+        "address": "3014-Country-Boy-Ct-Spring-TX-77373",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1770,
+        "listed_at": "2026-11-20T17:10:05.000Z",
+        "days_on_market": "145",
+        "current_price": 227000,
+        "price_label": "$227K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.374144,
+          30.06306
         ]
       }
     },
