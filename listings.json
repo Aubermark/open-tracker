@@ -31021,6 +31021,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "591b6339-10bb-56c7-a6ab-e851cd56b067",
+        "address": "629 Mitchell Ave",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2862,
+        "listed_at": "2026-11-20T19:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 411000,
+        "price_label": "$411K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.494321,
+          35.662717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5922e037-bce9-5c9d-a09f-2e31d97f72ac",
         "address": "10711-Chesterwood-Dr-Spotsylvania-VA-22553",
         "beds": 3,
