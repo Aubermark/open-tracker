@@ -18484,27 +18484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "35e20947-de1b-5763-a966-d627d51b4217",
-        "address": "4114-Big-Oak-Dr-Hephzibah-GA-30815",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2394,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "57",
-        "current_price": 274000,
-        "price_label": "$274K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.042373,
-          33.335041
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "35ff02b5-86fd-5d28-b7c3-78d0771f515c",
         "address": "1628-Pat-Garrett-St-Charlotte-NC-28206",
         "beds": 3,
@@ -78181,6 +78160,27 @@
         "coordinates": [
           -80.426325,
           35.29291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "df7167b0-b3a0-5672-b5b7-1fce433076ba",
+        "address": "1295 N Railroad Ave",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1240,
+        "listed_at": "2026-11-21T14:10:05.000Z",
+        "days_on_market": "37",
+        "current_price": 380000,
+        "price_label": "$380K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.058554,
+          26.537517
         ]
       }
     },
