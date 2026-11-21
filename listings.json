@@ -1579,6 +1579,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "03b09780-1d20-5cdb-b28d-2c858802ec8c",
+        "address": "375-Nora-Ave-Merritt-Island-FL-32952",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 3299,
+        "listed_at": "2026-11-21T19:50:05.000Z",
+        "days_on_market": "173",
+        "current_price": 580000,
+        "price_label": "$580K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.692775,
+          28.332265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "03b09a08-0915-5edd-8016-9b21a5bf7551",
         "address": "1825-Ne-Bren-Mar-Rd-Lees-Summit-MO-64086",
         "beds": 4,
