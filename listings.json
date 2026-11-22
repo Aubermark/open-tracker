@@ -84508,6 +84508,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f3ba7439-4115-59a2-bea2-07f3debb60b0",
+        "address": "6840-Oaklawn-Way-Fair-Oaks-CA-95628",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1441,
+        "listed_at": "2026-11-22T17:50:05.000Z",
+        "days_on_market": "170",
+        "current_price": 467000,
+        "price_label": "$467K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.306396,
+          38.657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3be4b01-dc0f-5527-bafe-a1d26a15474f",
         "address": "1126-San-Michele-Way-Palm-Beach-Gardens-FL-33418",
         "beds": 5,
