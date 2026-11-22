@@ -20185,27 +20185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3bbcdaa6-590e-575e-a69e-994e78afc09b",
-        "address": "209 NE Broadway St",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1253,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "4",
-        "current_price": 245000,
-        "price_label": "$245K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.194807,
-          39.011675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "3bc550f9-3912-5fde-bf0b-1a9e3bace933",
         "address": "91 Cross Creek Ct",
         "beds": 3,
@@ -29776,6 +29755,27 @@
         "coordinates": [
           -80.793207,
           35.324182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "5607709b-cf23-5b99-9626-728dbadc5e69",
+        "address": "713-Buddy-L-Dr-Fort-Worth-TX-76108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1500,
+        "listed_at": "2026-11-22T21:50:05.000Z",
+        "days_on_market": "74",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.517584,
+          32.753436
         ]
       }
     },
