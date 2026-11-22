@@ -18778,6 +18778,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "37870a70-fc7e-514a-8f96-38857b15f862",
+        "address": "38-S-Marshall-St-Front-Royal-VA-22630",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 1272,
+        "listed_at": "2026-11-22T08:11:40.000Z",
+        "days_on_market": "50",
+        "current_price": 287000,
+        "price_label": "$287K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.179291,
+          38.916502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "378b2a08-ed6b-5869-bd14-1ef11b7e7eaf",
         "address": "1805-Brookview-Dr-Arlington-TX-76010",
         "beds": 4,
@@ -35467,27 +35488,6 @@
         "coordinates": [
           -111.575416,
           33.176493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "673ad1d3-920a-575c-93f2-0d4fe857f219",
-        "address": "3165 Shaw Ridge St",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1378,
-        "listed_at": "2026-11-09T21:10:04.000Z",
-        "days_on_market": "12",
-        "current_price": 181000,
-        "price_label": "$181K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.212196,
-          36.139913
         ]
       }
     },
@@ -66064,27 +66064,6 @@
         "coordinates": [
           -105.120163,
           40.434374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "c115fa8a-4786-559d-88c1-b77de2996567",
-        "address": "9814-Dean-Cove-Ln-Orlando-FL-32825",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1054,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "214",
-        "current_price": 270000,
-        "price_label": "$270K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.24774,
-          28.56025
         ]
       }
     },
