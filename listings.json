@@ -33310,6 +33310,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "60afb824-41c1-57e8-a90d-4de9157828ed",
+        "address": "1204 NW Timber Oak Dr",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2447,
+        "listed_at": "2026-11-22T17:10:06.000Z",
+        "days_on_market": "23",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.276781,
+          39.042015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "60cd5101-004f-5c42-b432-6b69e09abde0",
         "address": "8266-Streng-Ave-Citrus-Heights-CA-95610",
         "beds": 3,
@@ -57202,27 +57223,6 @@
         "coordinates": [
           -123.109853,
           45.248302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a8f659c8-1ccd-5ec3-bd4a-9da934ea7ed5",
-        "address": "14025-Partridge-St-Nw-Anoka-MN-55304",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 939,
-        "listed_at": "2026-11-19T07:20:53.000Z",
-        "days_on_market": "89",
-        "current_price": 323000,
-        "price_label": "$323K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.318481,
-          45.225114
         ]
       }
     },
