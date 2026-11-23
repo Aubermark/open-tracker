@@ -20080,6 +20080,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3bf2fb09-4311-5ef0-b371-4f7caac12866",
+        "address": "75 S Kingston St",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1237,
+        "listed_at": "2026-11-23T16:00:05.000Z",
+        "days_on_market": "27",
+        "current_price": 433000,
+        "price_label": "$433K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.826465,
+          33.302109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3bf76a5e-72ca-5d40-8809-7a5810f0ff61",
         "address": "5085 Rochester St",
         "beds": 3,
@@ -80638,27 +80659,6 @@
         "coordinates": [
           -110.727126,
           32.060354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "e9aaca81-7107-45b1-a779-55fd8c0741ff",
-        "address": "5055-New-Highway-68-Madisonville-TN-37354",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 882,
-        "listed_at": "2026-09-24T01:30:04.000Z",
-        "days_on_market": "174",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.364093,
-          35.497371
         ]
       }
     },
