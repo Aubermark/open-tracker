@@ -36376,6 +36376,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6abcd73b-1837-550d-811c-ecf550f1c521",
+        "address": "2008-Danner-St-Fort-Worth-TX-76105",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1355,
+        "listed_at": "2026-11-23T21:40:06.000Z",
+        "days_on_market": "151",
+        "current_price": 194000,
+        "price_label": "$194K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.251486,
+          32.723693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "6ac3e981-767b-50f7-9947-3784b18df304",
         "address": "1844-Fleming-St-Pomona-CA-91766",
         "beds": 3,
