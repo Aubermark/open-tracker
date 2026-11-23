@@ -3469,27 +3469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "095c0e1d-7765-5d89-be26-4ddc71b6568f",
-        "address": "1344 Cayton Rd",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 2830,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "24",
-        "current_price": 323000,
-        "price_label": "$323K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.673594,
-          38.995117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "097d278e-d0a6-59a8-b0c8-08510c1f2e3d",
         "address": "192-Sun-Valley-Dr-Macon-GA-31211",
         "beds": 3,
@@ -29251,27 +29230,6 @@
         "coordinates": [
           -78.823952,
           35.824897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "556198e0-da54-5f91-96ad-3da20506a627",
-        "address": "13-Bramblewood-Pl-Sw-Cartersville-GA-30120",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1400,
-        "listed_at": "2026-10-23T13:40:05.000Z",
-        "days_on_market": "76",
-        "current_price": 299000,
-        "price_label": "$299K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.874211,
-          34.163957
         ]
       }
     },
@@ -56719,6 +56677,27 @@
         "coordinates": [
           -117.793618,
           33.886562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a7ee2908-22ed-51be-ade4-8e1941a47256",
+        "address": "1905-Prospect-Ln-Aubrey-TX-76227",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1418,
+        "listed_at": "2026-11-23T18:10:05.000Z",
+        "days_on_market": "76",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.973002,
+          33.239552
         ]
       }
     },
