@@ -62059,6 +62059,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "b72dd2c4-5fd2-5a2c-a758-34d4270b1f43",
+        "address": "5795-Stewart-Mill-Rd-Douglasville-GA-30135",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1397,
+        "listed_at": "2026-11-23T17:30:06.000Z",
+        "days_on_market": "151",
+        "current_price": 230000,
+        "price_label": "$230K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.763395,
+          33.703306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "b7362f72-a67b-560d-a77c-9b17ca5096ae",
         "address": "7040-Longstreet-Dr-Unit-C-Raleigh-NC-27615",
         "beds": 3,
