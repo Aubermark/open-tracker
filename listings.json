@@ -15145,6 +15145,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2ceae0b6-460f-5be3-9daa-3e912da46933",
+        "address": "6837 Lowesville Ln",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1746,
+        "listed_at": "2026-11-23T17:00:05.000Z",
+        "days_on_market": "28",
+        "current_price": 393000,
+        "price_label": "$393K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.002455,
+          35.417524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cebada8-8745-5973-9603-5689bcca7ff5",
         "address": "1817-Twin-Caves-Dr-Lewisburg-TN-37091",
         "beds": 3,
