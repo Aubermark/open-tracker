@@ -34759,6 +34759,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "6532ef4c-35ee-5493-86ee-634483272b4d",
+        "address": "8223-Manorford-Dr-Cleveland-OH-44129",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1888,
+        "listed_at": "2026-11-23T15:50:05.000Z",
+        "days_on_market": "67",
+        "current_price": 225000,
+        "price_label": "$225K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.742476,
+          41.387012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "653382b4-98ed-5b2c-9771-4b515ae8bbd2",
         "address": "5320-Beverly-Dr-Guthrie-OK-73044",
         "beds": 3,
@@ -60982,6 +61003,27 @@
         "coordinates": [
           -84.868902,
           34.428288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "b42f2659-a673-59de-bed5-314e7aa1902e",
+        "address": "16114-Julep-Chase-Selma-TX-78154",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1672,
+        "listed_at": "2026-11-23T15:50:05.000Z",
+        "days_on_market": ">274",
+        "current_price": 229000,
+        "price_label": "$229K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.338941,
+          29.586047
         ]
       }
     },
