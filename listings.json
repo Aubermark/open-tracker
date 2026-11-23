@@ -7207,6 +7207,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "151580ee-c68f-5ea2-a552-a8154e6c7d83",
+        "address": "2308-E-69th-St-Indianapolis-IN-46220",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 945,
+        "listed_at": "2026-11-23T15:20:06.000Z",
+        "days_on_market": "122",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.123563,
+          39.88116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1531699b-07ff-564b-b309-9ddb94031830",
         "address": "25719-Shady-Spruce-Ln-Katy-TX-77494",
         "beds": 4,
@@ -19780,27 +19801,6 @@
         "coordinates": [
           -122.768633,
           38.479151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3adbdf6a-45c5-5cfc-ab49-9d60ec6177c9",
-        "address": "6409-Tivoli-Ct-Charlotte-NC-28211",
-        "beds": 3,
-        "baths": 3,
-        "sqft": 1742,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "110",
-        "current_price": 377000,
-        "price_label": "$377K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.752805,
-          35.151504
         ]
       }
     },
