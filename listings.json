@@ -2944,6 +2944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07dc6856-de3f-5a31-ba53-7542dbd85a27",
+        "address": "1207-E-Clearview-Dr-Casa-Grande-AZ-85122",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2490,
+        "listed_at": "2026-11-23T18:50:06.000Z",
+        "days_on_market": "171",
+        "current_price": 410000,
+        "price_label": "$410K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.735353,
+          32.889932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07ea1db2-2302-5a10-8523-256de25c9f67",
         "address": "4636-Archer-Dr-The-Colony-TX-75056",
         "beds": 3,
@@ -7894,27 +7915,6 @@
         "coordinates": [
           -121.482595,
           37.689198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "17a5ce76-2816-5666-8cbd-08e6e6f5366c",
-        "address": "1415-Minuet-St-Henderson-NV-89052",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2266,
-        "listed_at": "2026-10-22T06:26:02.000Z",
-        "days_on_market": "67",
-        "current_price": 625000,
-        "price_label": "$625K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.092081,
-          35.974068
         ]
       }
     },
