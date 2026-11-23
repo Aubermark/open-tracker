@@ -41080,27 +41080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7ab2f5b8-62fe-5f1d-8fe9-54982cb4d499",
-        "address": "301-E-Jefferson-St-Palmer-TX-75152",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1758,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "76",
-        "current_price": 292000,
-        "price_label": "$292K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.663902,
-          32.432178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7abca9e1-3841-5637-9129-54fbec5673e4",
         "address": "4018-Harmattan-Dr-Denver-NC-28037",
         "beds": 4,
@@ -71713,6 +71692,27 @@
         "coordinates": [
           -94.586255,
           39.172526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d14df21b-2954-5e12-9184-c77b90376b12",
+        "address": "12020 Pineridge Way N",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2648,
+        "listed_at": "2026-11-23T20:10:03.000Z",
+        "days_on_market": "0",
+        "current_price": 525000,
+        "price_label": "$525K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.43477,
+          45.197054
         ]
       }
     },
