@@ -10609,27 +10609,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "209f1762-cb04-5a29-a9b9-9d3e35ad54d3",
-        "address": "225-Southbridge-Cir-Kissimmee-FL-34744",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1284,
-        "listed_at": "2026-10-08T06:13:21.000Z",
-        "days_on_market": "70",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.34147,
-          28.290476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "20b1805a-06f9-5fe1-809c-534bb942f5e8",
         "address": "23130-Willow-Canyon-Dr-Katy-TX-77494",
         "beds": 4,
@@ -56698,6 +56677,27 @@
         "coordinates": [
           -83.872323,
           33.883863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "a79902f7-7497-5cbc-bf19-44da2c78e385",
+        "address": "3302-Porchview-Pl-Johns-Island-SC-29455",
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 2475,
+        "listed_at": "2026-11-23T14:10:05.000Z",
+        "days_on_market": "77",
+        "current_price": 829000,
+        "price_label": "$829K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.061712,
+          32.727011
         ]
       }
     },
