@@ -30580,6 +30580,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "58d23eca-ea8a-5711-9fe0-ed3b92a2eda0",
+        "address": "3720 Desert Marina Dr",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 810,
+        "listed_at": "2026-11-23T13:20:03.000Z",
+        "days_on_market": "0",
+        "current_price": 120000,
+        "price_label": "$120K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.627545,
+          35.12923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "58d92c1d-1572-4d39-86b3-bbc89f0c37ae",
         "address": "21511-Colonial-Meadow-Creek-Trl-Waller-TX-77484",
         "beds": 3,
