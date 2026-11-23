@@ -32533,6 +32533,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5e6f1b04-a565-50ae-b89c-847d6e6590ff",
+        "address": "16571-Sw-145th-Ave-Miami-FL-33177",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 2263,
+        "listed_at": "2026-11-23T15:00:05.000Z",
+        "days_on_market": "172",
+        "current_price": 708000,
+        "price_label": "$708K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.427826,
+          25.613461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5e702d5f-a898-5d76-9077-d24c8a8359ed",
         "address": "3214 Rose Hill Rd",
         "beds": 3,
