@@ -47674,6 +47674,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "8db72fe5-c3a4-51d3-b426-161fb73c77c1",
+        "address": "5315-Se-91st-St-Ocala-FL-34480",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1986,
+        "listed_at": "2026-11-23T17:20:07.000Z",
+        "days_on_market": "76",
+        "current_price": 298000,
+        "price_label": "$298K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06088,
+          29.089278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "8dbb09d9-634e-56a3-8be1-e25858be899d",
         "address": "1039-Plantation-Blvd-Se-Conyers-GA-30094",
         "beds": 3,
@@ -53296,27 +53317,6 @@
         "coordinates": [
           -81.046205,
           29.142666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9e9f4e8f-d344-53dc-805a-c9c2a75fc5d5",
-        "address": "34050-Se-Sturgeon-St-Scappoose-OR-97056",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2968,
-        "listed_at": "2026-11-11T07:12:46.000Z",
-        "days_on_market": "88",
-        "current_price": 514000,
-        "price_label": "$514K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.866639,
-          45.753714
         ]
       }
     },
@@ -66616,27 +66616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c3a484e8-6135-5ad7-924c-77e819146601",
-        "address": "3540 Framingham Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1659,
-        "listed_at": "2026-11-10T07:06:48.000Z",
-        "days_on_market": "14",
-        "current_price": 215000,
-        "price_label": "$215K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.191913,
-          33.679151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c3ad0302-9e6b-5363-a204-46e396a9a91d",
         "address": "2077-Coolidge-Way-Nw-Acworth-GA-30101",
         "beds": 6,
@@ -69466,27 +69445,6 @@
         "coordinates": [
           -105.01287,
           40.040232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cb8155c6-c4ba-5600-a05c-7cedcc3aa3b9",
-        "address": "119 S Church St",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 959,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "26",
-        "current_price": 106000,
-        "price_label": "$106K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.60876,
-          33.921982
         ]
       }
     },
