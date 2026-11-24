@@ -15376,6 +15376,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e2d9ccb-8be9-5a73-a830-3a96b88e2b6c",
+        "address": "1640 Black Hills Way",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1069,
+        "listed_at": "2026-11-24T20:10:04.000Z",
+        "days_on_market": "0",
+        "current_price": 345000,
+        "price_label": "$345K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.164066,
+          36.266787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2e2f8a9d-01f9-5698-ade7-ba4242f9f4c6",
         "address": "130-Fredricksburg-Way-Columbia-SC-29210",
         "beds": 2,
@@ -48172,27 +48193,6 @@
         "coordinates": [
           -84.486806,
           33.705646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "9106785a-e63a-58e1-876b-4129958c41c3",
-        "address": "7848 James Austin Rd",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1152,
-        "listed_at": "2026-10-12T17:00:04.000Z",
-        "days_on_market": "43",
-        "current_price": 278000,
-        "price_label": "$278K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.711147,
-          35.536844
         ]
       }
     },
