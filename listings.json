@@ -130,27 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0089908e-cf94-55d2-b721-c9720cdd73cf",
-        "address": "1213 S Paris St",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1584,
-        "listed_at": "2026-11-14T00:55:34.000Z",
-        "days_on_market": "11",
-        "current_price": 205000,
-        "price_label": "$205K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.615953,
-          32.319848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "008b89b6-8024-5397-84db-2b7cc821ed10",
         "address": "301-Hocutt-Dr-Clayton-NC-27520",
         "beds": 3,
@@ -4009,27 +3988,6 @@
         "coordinates": [
           -96.656268,
           32.725378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "0b284e39-fd63-510e-b6dc-7a9ce5e76a60",
-        "address": "190-N-100-W-Alpine-UT-84004",
-        "beds": 6,
-        "baths": 3.5,
-        "sqft": 3010,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "56",
-        "current_price": 670000,
-        "price_label": "$670K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.7794,
-          40.455478
         ]
       }
     },
