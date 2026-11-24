@@ -18127,6 +18127,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "36ee9520-84a6-5a7f-ac99-30865a9849bd",
+        "address": "20504-N-261st-Ave-Buckeye-AZ-85396",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2158,
+        "listed_at": "2026-11-24T21:40:05.000Z",
+        "days_on_market": "201",
+        "current_price": 310000,
+        "price_label": "$310K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.613279,
+          33.670569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "37075e0f-703f-5dba-80cd-60d2f0a1d1d8",
         "address": "5910-N-78th-Dr-Glendale-AZ-85303",
         "beds": 3,
@@ -31477,27 +31498,6 @@
         "coordinates": [
           -83.836397,
           33.636796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "5d2f66bc-2af1-58f2-89d8-37d5cd3a8e40",
-        "address": "1430-E-Flossmoor-Ave-Mesa-AZ-85204",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1153,
-        "listed_at": "2026-11-19T16:20:06.000Z",
-        "days_on_market": "140",
-        "current_price": 375000,
-        "price_label": "$375K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.800198,
-          33.394177
         ]
       }
     },
@@ -82234,6 +82234,27 @@
         "coordinates": [
           -122.374956,
           47.582355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f1a59c2c-213c-5ef2-b697-3067390729fb",
+        "address": "2505-Velma-Ter-Leesburg-FL-34748",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1118,
+        "listed_at": "2026-11-24T21:40:05.000Z",
+        "days_on_market": "181",
+        "current_price": 177000,
+        "price_label": "$177K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.907072,
+          28.818807
         ]
       }
     },
