@@ -83479,6 +83479,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "f3ebc9a8-3fee-530a-8429-e310c83018ea",
+        "address": "1955-Blossom-Creek-Ln-Cumming-GA-30040",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3635,
+        "listed_at": "2026-11-24T15:00:05.000Z",
+        "days_on_market": "68",
+        "current_price": 600000,
+        "price_label": "$600K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.178215,
+          34.228873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "f3f6190e-36d5-539e-9ec9-6a981f9443e4",
         "address": "2958 W Hawanian Ln",
         "beds": 4,
