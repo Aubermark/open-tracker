@@ -71005,6 +71005,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d0836a28-6b29-5209-b126-87668e10212e",
+        "address": "2091 Nickville Rd NW",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2496,
+        "listed_at": "2026-11-24T18:30:04.000Z",
+        "days_on_market": "0",
+        "current_price": 315000,
+        "price_label": "$315K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.981706,
+          34.137789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d0937fcd-7335-5165-82c2-19137d252463",
         "address": "4637 E Culver St",
         "beds": 3,
