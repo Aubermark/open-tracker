@@ -65440,6 +65440,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "c37338a7-73c7-5dfd-8760-85fef741caf1",
+        "address": "672 Mill Creek Trl",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2720,
+        "listed_at": "2026-11-24T23:50:06.000Z",
+        "days_on_market": "50",
+        "current_price": 335000,
+        "price_label": "$335K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.369793,
+          33.49017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "c3745e1d-f1f4-53f7-aaaf-c4a01033c6d4",
         "address": "4918-Denise-Ave-Lakeland-FL-33813",
         "beds": 3,
