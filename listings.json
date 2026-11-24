@@ -8404,6 +8404,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "193ec4cd-9fe2-53d5-b98b-232c9df6d7b6",
+        "address": "2844 Watercrest Dr NW",
+        "beds": 5,
+        "baths": 4,
+        "sqft": 3040,
+        "listed_at": "2026-11-24T18:10:06.000Z",
+        "days_on_market": "15",
+        "current_price": 495000,
+        "price_label": "$495K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.688409,
+          35.371438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "194d0091-a86f-5bfe-b2f9-0dd786d05d00",
         "address": "11350 Stone Trail Rd",
         "beds": 3,
@@ -33304,27 +33325,6 @@
         "coordinates": [
           -82.136008,
           28.028888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "625f22df-0d65-5709-987a-661beba3cb8e",
-        "address": "2328 Whitney Dr",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1274,
-        "listed_at": "2026-10-26T22:30:03.000Z",
-        "days_on_market": "29",
-        "current_price": 185000,
-        "price_label": "$185K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.901991,
-          31.099636
         ]
       }
     },
@@ -72322,27 +72322,6 @@
         "coordinates": [
           -81.644376,
           30.282802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "d42b4ee3-4352-5fbc-b95c-9fede4963d5c",
-        "address": "1917-Altivo-Dr-Henderson-NV-89074",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 2525,
-        "listed_at": "2026-10-29T06:42:18.000Z",
-        "days_on_market": "68",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.07105,
-          36.038958
         ]
       }
     },
