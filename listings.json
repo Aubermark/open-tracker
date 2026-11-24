@@ -10399,6 +10399,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "209f1762-cb04-5a29-a9b9-9d3e35ad54d3",
+        "address": "225-Southbridge-Cir-Kissimmee-FL-34744",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1284,
+        "listed_at": "2026-11-24T14:50:05.000Z",
+        "days_on_market": "71",
+        "current_price": 330000,
+        "price_label": "$330K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34147,
+          28.290476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "20b1805a-06f9-5fe1-809c-534bb942f5e8",
         "address": "23130-Willow-Canyon-Dr-Katy-TX-77494",
         "beds": 4,
@@ -57664,27 +57685,6 @@
         "coordinates": [
           -84.475547,
           33.56156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "ac12ff53-71f8-53a7-a52e-34273d24ee43",
-        "address": "3419-Queen-Ave-N-Minneapolis-MN-55412",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1518,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "62",
-        "current_price": 203000,
-        "price_label": "$203K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.309897,
-          45.017474
         ]
       }
     },
