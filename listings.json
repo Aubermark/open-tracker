@@ -1075,6 +1075,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "024dc367-e378-59ab-9f0e-8ba9ee68c03a",
+        "address": "409-Lone-Oak-Ct-Kennedale-TX-76060",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": 3635,
+        "listed_at": "2026-11-25T16:50:05.000Z",
+        "days_on_market": "78",
+        "current_price": 535000,
+        "price_label": "$535K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.220136,
+          32.65854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "026bf5c5-5a23-5538-8f21-cc1510175a16",
         "address": "804-Bamboo-Dr-Anna-TX-75409",
         "beds": 3,
