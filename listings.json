@@ -14578,6 +14578,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2cd33f41-f5ea-584a-b229-476b77e45b0e",
+        "address": "1040-E-Magnolia-Loop-Madison-GA-30650",
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 2807,
+        "listed_at": "2026-11-25T20:00:05.000Z",
+        "days_on_market": "128",
+        "current_price": 420000,
+        "price_label": "$420K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45531,
+          33.532034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2cd5d179-e910-5c7c-9e0b-29e5f0f35a8a",
         "address": "103 Planters Ridge Dr",
         "beds": 3,
@@ -26206,6 +26227,27 @@
         "coordinates": [
           -83.105287,
           39.890466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "4f70a15c-d158-534e-87be-3a9814267b4c",
+        "address": "12301-Burning-Embers-Ln-N-Jacksonville-FL-32225",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1790,
+        "listed_at": "2026-11-25T20:00:05.000Z",
+        "days_on_market": "225",
+        "current_price": 355000,
+        "price_label": "$355K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.486946,
+          30.333979
         ]
       }
     },
