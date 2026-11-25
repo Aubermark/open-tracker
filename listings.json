@@ -7879,6 +7879,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "180f667c-3f12-5618-af2f-d3e9a2bc78ee",
+        "address": "110 Montrose Way",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2123,
+        "listed_at": "2026-11-25T07:16:26.000Z",
+        "days_on_market": "0",
+        "current_price": 303000,
+        "price_label": "$303K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.070622,
+          33.134295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1816ba7f-3b67-59c1-b0c0-2b9a4dea90c8",
         "address": "2308-Brasstown-Ln-Apex-NC-27502",
         "beds": 4,
@@ -15292,6 +15313,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "2e97d266-0e69-5db3-b7eb-bc11acf3e567",
+        "address": "22125-Country-Hills-Dr-Wildomar-CA-92595",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1277,
+        "listed_at": "2026-11-25T07:16:28.000Z",
+        "days_on_market": "131",
+        "current_price": 533000,
+        "price_label": "$533K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.273649,
+          33.634575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2ea40e94-1313-5537-9a1b-69e2a6b677ec",
         "address": "3703 Fig Leaf Ct",
         "beds": 3,
@@ -15727,27 +15769,6 @@
         "coordinates": [
           -85.842769,
           33.273246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "302ce490-f96b-53fc-84da-38a737cac687",
-        "address": "1572 Deerfield Ave",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1817,
-        "listed_at": "2026-11-19T07:20:53.000Z",
-        "days_on_market": "34",
-        "current_price": 306000,
-        "price_label": "$306K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.228825,
-          28.907207
         ]
       }
     },
@@ -24952,27 +24973,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "4a8663dd-ed66-5657-9049-a648282c99a3",
-        "address": "206-Diana-Dr-Dickson-TN-37055",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1029,
-        "listed_at": "2026-11-12T07:10:31.000Z",
-        "days_on_market": "154",
-        "current_price": 254000,
-        "price_label": "$254K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.355095,
-          36.070333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "4aa22c26-49e9-5b1a-959e-95031a3ea9f0",
         "address": "9420-Dublin-Grn-San-Antonio-TX-78254-18049801",
         "beds": 4,
@@ -25324,27 +25324,6 @@
         "coordinates": [
           -79.367109,
           35.025143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "4bb3ee03-46db-5c4d-8c63-3073c64f3548",
-        "address": "208-Park-St-Unit-107-Dallas-GA-30132",
-        "beds": 2,
-        "baths": 1.5,
-        "sqft": 1088,
-        "listed_at": "2026-10-29T06:42:20.000Z",
-        "days_on_market": "64",
-        "current_price": 171000,
-        "price_label": "$171K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.838971,
-          33.922225
         ]
       }
     },
@@ -34843,27 +34822,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "67baf05a-d10b-5b4d-85b6-0b404c7a0239",
-        "address": "2423-Carolyn-Dr-Palmdale-CA-93551",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2804,
-        "listed_at": "2026-11-05T07:09:48.000Z",
-        "days_on_market": "99",
-        "current_price": 547000,
-        "price_label": "$547K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.171935,
-          34.584566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "67bebe2e-d1c6-5c9c-909d-6cc4fc742c28",
         "address": "3344-Oakcrest-Dr-Forest-Grove-OR-97116",
         "beds": 3,
@@ -38812,27 +38770,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "74f2a6cb-1a06-5d44-a9d7-5a808efb7c9a",
-        "address": "7022-160th-Street-Ct-E-Puyallup-WA-98375",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1188,
-        "listed_at": "2026-11-12T07:10:29.000Z",
-        "days_on_market": "67",
-        "current_price": 445000,
-        "price_label": "$445K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335044,
-          47.110461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "750cebe1-3b77-5d47-aa37-6c78bfa84627",
         "address": "10005 Santa Fe Ln",
         "beds": 2,
@@ -40864,27 +40801,6 @@
         "coordinates": [
           -117.049052,
           33.957043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "7bcd4b72-3d88-595c-89aa-8ff2a706e1a9",
-        "address": "2513-W-Florentine-Rd-Phoenix-AZ-85086-18117841",
-        "beds": 5,
-        "baths": 2.5,
-        "sqft": 2483,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "168",
-        "current_price": 510000,
-        "price_label": "$510K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.113492,
-          33.798915
         ]
       }
     },
@@ -53743,6 +53659,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "a25ec2c1-e82e-5247-a3b2-c710555dab5b",
+        "address": "469 Europa Way",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1567,
+        "listed_at": "2026-11-25T07:16:28.000Z",
+        "days_on_market": "25",
+        "current_price": 373000,
+        "price_label": "$373K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.272906,
+          36.166565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "a26852ca-c37d-505b-bc58-dcb1717c0939",
         "address": "59 Glendale Dr",
         "beds": 3,
@@ -54871,27 +54808,6 @@
         "coordinates": [
           -80.871915,
           35.012133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "a55fe87e-81e3-505f-806a-156351acda86",
-        "address": "1342 N Indigo Dr",
-        "beds": 4,
-        "baths": 3,
-        "sqft": 3433,
-        "listed_at": "2026-10-29T19:00:04.000Z",
-        "days_on_market": "26",
-        "current_price": 650000,
-        "price_label": "$650K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.040488,
-          32.239545
         ]
       }
     },
@@ -57607,27 +57523,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ad89b360-d1a2-53cb-989e-73230e70c355",
-        "address": "3143-Boxelder-St-Deltona-FL-32725",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1936,
-        "listed_at": "2026-11-02T16:20:06.000Z",
-        "days_on_market": "151",
-        "current_price": 300000,
-        "price_label": "$300K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.243032,
-          28.948951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ad8ef834-7d4a-5c75-9de1-7dab2feedb75",
         "address": "14-Smith-Rd-Sutton-MA-01590",
         "beds": 4,
@@ -59911,27 +59806,6 @@
         "coordinates": [
           -98.338941,
           29.586047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "b443f816-4aad-50c0-be22-ae3d608bbe4c",
-        "address": "3718 Oak Meadow Dr",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1964,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "6",
-        "current_price": 318000,
-        "price_label": "$318K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.008563,
-          32.682917
         ]
       }
     },
@@ -65041,27 +64915,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "c2231c6a-d997-5dea-b5e3-1e2e3df8b976",
-        "address": "8723 Hosta Way",
-        "beds": 4,
-        "baths": 2.5,
-        "sqft": 2045,
-        "listed_at": "2026-10-16T14:19:43.000Z",
-        "days_on_market": "39",
-        "current_price": 252000,
-        "price_label": "$252K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.315887,
-          39.648188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "c244e4f3-3b59-5406-bef7-5b3acf8b213e",
         "address": "2909-Sagebrush-Dr-Lawrence-KS-66047",
         "beds": 4,
@@ -69214,27 +69067,6 @@
         "coordinates": [
           -96.847052,
           32.694976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "cd7260bb-f9d2-505c-b76d-d3662f2cc8c9",
-        "address": "10401 NE 130th St",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1240,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "40",
-        "current_price": 855000,
-        "price_label": "$855K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.202037,
-          47.716606
         ]
       }
     },
@@ -84214,27 +84046,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "f8da5703-134e-5485-98a2-0af3d46e53e5",
-        "address": "3014-Country-Boy-Ct-Spring-TX-77373",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1770,
-        "listed_at": "2026-11-20T17:10:05.000Z",
-        "days_on_market": "149",
-        "current_price": 227000,
-        "price_label": "$227K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.374144,
-          30.06306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "f8ef8e1b-f13a-5b03-9e04-e3ec1fe31450",
         "address": "22-Gillen-Ter-Gloversville-NY-12078",
         "beds": 2,
@@ -84943,27 +84754,6 @@
         "coordinates": [
           -96.913614,
           33.470036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fb2da4a9-54cb-5c27-8002-4ee00fe5f5fa",
-        "address": "105-Foxhall-Ct-Easley-SC-29640",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1612,
-        "listed_at": "2026-11-19T07:20:55.000Z",
-        "days_on_market": "246",
-        "current_price": 220000,
-        "price_label": "$220K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.642191,
-          34.802312
         ]
       }
     },
