@@ -5296,27 +5296,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "0f9e3f1b-6c9c-5369-abb7-7e25a582eb66",
-        "address": "1375-Nw-South-Hicks-Cir-Conyers-GA-30012",
-        "beds": 3,
-        "baths": 1.5,
-        "sqft": 1300,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "134",
-        "current_price": 175000,
-        "price_label": "$175K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.017176,
-          33.680104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "0fb7c20d-a141-57ed-aff4-4e4b4754fd65",
         "address": "2039-Slippery-Rock-Cir-Sevierville-TN-37862",
         "beds": 3,
@@ -5689,6 +5668,27 @@
         "coordinates": [
           -82.404058,
           27.031115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "108814f6-acef-55ea-8f5e-59620de52be0",
+        "address": "1290 Arailia Dr",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1235,
+        "listed_at": "2026-11-25T17:30:05.000Z",
+        "days_on_market": "34",
+        "current_price": 214000,
+        "price_label": "$214K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.061531,
+          35.051517
         ]
       }
     },
