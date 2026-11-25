@@ -14557,27 +14557,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "2c5208db-3c75-50b9-b194-faa148cde5db",
-        "address": "1102-Meadow-Pond-Dr-Durham-NC-27703",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 3006,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "78",
-        "current_price": 515000,
-        "price_label": "$515K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.776083,
-          35.928046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "2c6f3740-033b-58d1-9ef9-803956073c41",
         "address": "407-Lamesa-Dr-Raleigh-NC-27603",
         "beds": 3,
@@ -64300,6 +64279,27 @@
         "coordinates": [
           -80.017744,
           33.038142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "c0d3b534-c0c6-5639-be7b-409ec4b2b954",
+        "address": "606-E-Langley-Blvd-Universal-City-TX-78148",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1361,
+        "listed_at": "2026-11-25T15:50:06.000Z",
+        "days_on_market": "57",
+        "current_price": 195000,
+        "price_label": "$195K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.282793,
+          29.550112
         ]
       }
     },
