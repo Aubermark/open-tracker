@@ -52987,27 +52987,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "a0632eef-0213-539b-a952-e2e6dbd59ace",
-        "address": "361-Tremont-St-Taunton-MA-02780",
-        "beds": 3,
-        "baths": 1,
-        "sqft": 1309,
-        "listed_at": "2026-11-05T07:09:51.000Z",
-        "days_on_market": "183",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.143,
-          41.911881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "a078ee44-a3b9-5175-8e54-b1f50db14d1e",
         "address": "27-Glenna-Dr-Saint-Peters-MO-63376",
         "beds": 3,
@@ -70264,6 +70243,27 @@
         "coordinates": [
           -111.980082,
           33.461622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "d0a13563-b793-5e68-bb3f-191ced0c2a20",
+        "address": "6046 Overlook Dr",
+        "beds": 5,
+        "baths": 2,
+        "sqft": 1733,
+        "listed_at": "2026-11-25T16:20:06.000Z",
+        "days_on_market": "22",
+        "current_price": 258000,
+        "price_label": "$258K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.716433,
+          32.771944
         ]
       }
     },
