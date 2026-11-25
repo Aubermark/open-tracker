@@ -9748,6 +9748,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "1ebf9293-f917-5f87-b96e-118324608e79",
+        "address": "294 Summit St",
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1063,
+        "listed_at": "2026-11-25T16:10:06.000Z",
+        "days_on_market": "43",
+        "current_price": 213000,
+        "price_label": "$213K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.522575,
+          39.813973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "1ec2bc5c-0fb8-58fe-b3bd-fd6960e59d23",
         "address": "6244 English Hollow Rd",
         "beds": 5,
@@ -16504,27 +16525,6 @@
         "coordinates": [
           -78.855176,
           35.986606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "3214e60c-fede-5111-9b00-40aa44a70427",
-        "address": "19562-W-Wilshire-Ave-Buckeye-AZ-85396",
-        "beds": 5,
-        "baths": 3,
-        "sqft": 2668,
-        "listed_at": "2026-10-22T06:26:03.000Z",
-        "days_on_market": "153",
-        "current_price": 449000,
-        "price_label": "$449K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.480761,
-          33.47446
         ]
       }
     },
@@ -27466,27 +27466,6 @@
         "coordinates": [
           -80.768473,
           34.149741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "524e2b97-87f5-4d58-aa1d-3fde2bd3c00e",
-        "address": "228-Flat-Shoal-Dr-Bonaire-GA-31005",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1804,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "86",
-        "current_price": 324000,
-        "price_label": "$324K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.572995,
-          32.536684
         ]
       }
     },
