@@ -2860,6 +2860,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "07c1a171-f255-5ce5-bf6f-a7cc18cc128f",
+        "address": "651-Raleigh-Dr-Columbus-OH-43228",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1510,
+        "listed_at": "2026-11-25T21:50:06.000Z",
+        "days_on_market": "118",
+        "current_price": 220000,
+        "price_label": "$220K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.108335,
+          39.939583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "07d61d1c-2d1d-5be7-87d8-b75c384163cb",
         "address": "202 Travilah Oaks Ln",
         "beds": 4,
