@@ -37867,27 +37867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "7219ac01-53a0-512a-a5e2-0992b8275e22",
-        "address": "4677 River Highlands Loop",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1652,
-        "listed_at": "2026-11-12T07:10:28.000Z",
-        "days_on_market": "43",
-        "current_price": 464000,
-        "price_label": "$464K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.57458,
-          39.488775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "7219e079-c0b7-518d-ba1e-b07d521e74b9",
         "address": "29 Freeland Ln",
         "beds": 4,
@@ -38302,6 +38281,27 @@
         "coordinates": [
           -79.973648,
           40.343398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "734faa55-39cd-5e9b-a0b3-21dc767faea0",
+        "address": "199 Memory Ln",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2335,
+        "listed_at": "2026-11-25T15:10:06.000Z",
+        "days_on_market": "12",
+        "current_price": 308000,
+        "price_label": "$308K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.275308,
+          33.53139
         ]
       }
     },
