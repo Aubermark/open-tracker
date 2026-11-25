@@ -51160,6 +51160,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "9ccb2e5e-17f0-5d8c-802c-1ebde51d1942",
+        "address": "154 SE Soneto Ct",
+        "beds": 4,
+        "baths": 1.5,
+        "sqft": 1407,
+        "listed_at": "2026-11-25T19:50:05.000Z",
+        "days_on_market": "31",
+        "current_price": 250000,
+        "price_label": "$250K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.347249,
+          27.311866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "9ce3fd44-7e6e-59ea-bc2e-1f2573e23578",
         "address": "1575-Liberty-Ave-Se-Atlanta-GA-30317",
         "beds": 4,
@@ -84103,27 +84124,6 @@
         "coordinates": [
           -105.109353,
           39.800046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "fafd76db-316a-502c-ad1b-cd4d6d965f69",
-        "address": "6090 Smokey Rd",
-        "beds": 5,
-        "baths": 4,
-        "sqft": 3868,
-        "listed_at": "2026-10-27T23:00:03.000Z",
-        "days_on_market": "29",
-        "current_price": 420000,
-        "price_label": "$420K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.347045,
-          34.032409
         ]
       }
     },
