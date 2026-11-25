@@ -23503,6 +23503,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "45d8b538-12d8-5968-a523-2a8ca5996c88",
+        "address": "4508 Mesa Dr",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1348,
+        "listed_at": "2026-11-25T20:40:05.000Z",
+        "days_on_market": "51",
+        "current_price": 180000,
+        "price_label": "$180K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.70155,
+          31.07235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "45dc74f3-172f-5e07-b8c7-778eb9cba8f2",
         "address": "1938-Gordon-Ct-Erie-CO-80516",
         "beds": 3,
