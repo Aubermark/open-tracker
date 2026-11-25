@@ -40450,6 +40450,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "7c22dcf3-a8d0-5c00-a532-19fa215aa963",
+        "address": "301-Madeline-Way-Temple-GA-30179",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1316,
+        "listed_at": "2026-11-25T23:20:05.000Z",
+        "days_on_market": "155",
+        "current_price": 243000,
+        "price_label": "$243K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.047448,
+          33.740231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "7c65bbcd-9e4a-5c08-a0a5-c618ab4f4200",
         "address": "325-19th-Court-Cir-Ne-Center-Point-AL-35215",
         "beds": 3,
@@ -61534,27 +61555,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ba42872c-7d75-556c-b14c-192707b5e5f4",
-        "address": "10335-Dawson-Hill-Ln-Houston-TX-77044",
-        "beds": 3,
-        "baths": 2.5,
-        "sqft": 1634,
-        "listed_at": "2026-11-10T15:20:07.000Z",
-        "days_on_market": "89",
-        "current_price": 226000,
-        "price_label": "$226K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.190695,
-          29.869697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ba640999-f4aa-5977-8dda-caca099edfbb",
         "address": "1113-Sw-Sequoia-Ln-Dallas-OR-97338",
         "beds": 3,
@@ -77074,27 +77074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "e66555d2-575c-537c-ae57-c200e1f1aae2",
-        "address": "736-W-Borden-St-Sinton-TX-78387",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1262,
-        "listed_at": "2026-11-19T07:20:53.000Z",
-        "days_on_market": "96",
-        "current_price": 143000,
-        "price_label": "$143K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.519917,
-          28.035925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "e68003b3-506f-5b93-98f1-9409885a6d32",
         "address": "3135-Spalding-Dr-Atlanta-GA-30350",
         "beds": 6,
@@ -83557,6 +83536,27 @@
         "coordinates": [
           -84.172273,
           33.503707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "f99c0808-ecc4-583f-a587-97621942829b",
+        "address": "205-Private-Road-6980-Alba-TX-75410",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1736,
+        "listed_at": "2026-11-25T23:20:05.000Z",
+        "days_on_market": "126",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.606255,
+          32.717185
         ]
       }
     },
