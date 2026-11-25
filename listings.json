@@ -4771,6 +4771,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "0df2caed-b024-5275-92e7-e80ab1d7d5a7",
+        "address": "5191 Rock Springs Rd",
+        "beds": 7,
+        "baths": 4.5,
+        "sqft": 4186,
+        "listed_at": "2026-11-25T21:40:06.000Z",
+        "days_on_market": "14",
+        "current_price": 475000,
+        "price_label": "$475K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.183845,
+          33.686012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "0df2d3e3-5709-4c48-8398-d3babfab0601",
         "address": "8373-W-Rochelle-Ave-Las-Vegas-NV-89147",
         "beds": 3,
@@ -22069,27 +22090,6 @@
         "coordinates": [
           -106.441008,
           35.064584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "422d6dba-cbfb-50da-a8c9-88631e3b1b44",
-        "address": "648-Lewis-Ave-Yuba-City-CA-95991",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1092,
-        "listed_at": "2026-10-29T06:42:19.000Z",
-        "days_on_market": "176",
-        "current_price": 330000,
-        "price_label": "$330K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.624801,
-          39.14544
         ]
       }
     },
@@ -45484,27 +45484,6 @@
         "coordinates": [
           -122.56249,
           45.487268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address_token": "8baa7635-c37b-5b88-b148-add48c3b53a5",
-        "address": "5408 Woodard Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1819,
-        "listed_at": "2026-11-12T07:10:30.000Z",
-        "days_on_market": "51",
-        "current_price": 239000,
-        "price_label": "$239K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.89953,
-          35.141347
         ]
       }
     },
