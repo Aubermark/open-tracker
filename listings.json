@@ -8803,27 +8803,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "1bcd6018-aaf1-5f7f-898b-e6a87590a851",
-        "address": "8703-Stonecrest-Dr-Irving-TX-75063",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1626,
-        "listed_at": "2026-10-08T18:20:06.000Z",
-        "days_on_market": "64",
-        "current_price": 426000,
-        "price_label": "$426K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.94633,
-          32.925554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "1bdaa1bc-047a-5d5c-a633-c44591828a7e",
         "address": "8749-Christopher-Ln-Warrenton-VA-20186",
         "beds": 3,
@@ -44938,6 +44917,27 @@
         "coordinates": [
           -77.752202,
           35.947432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "89cd7622-adda-55c5-a3cc-cda38c68eefa",
+        "address": "3810-N-Wintergreen-Way-Avondale-AZ-85392-17782695",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2773,
+        "listed_at": "2026-11-25T21:30:06.000Z",
+        "days_on_market": "159",
+        "current_price": 499000,
+        "price_label": "$499K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.301148,
+          33.49055
         ]
       }
     },
