@@ -10588,6 +10588,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "217db14a-d762-5fdd-92a3-05aad60225e6",
+        "address": "749-Williamsburg-Estate-Rd-Clover-SC-29710",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2756,
+        "listed_at": "2026-11-25T14:00:06.000Z",
+        "days_on_market": "110",
+        "current_price": 635000,
+        "price_label": "$635K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.170579,
+          35.143492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "2183db3f-84f5-5524-b374-828bcfa6c57f",
         "address": "1335 Grass Creek Ave",
         "beds": 2,
