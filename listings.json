@@ -34759,6 +34759,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "68d850f6-47d1-5f25-9fbd-94d7b7d81b3c",
+        "address": "7210-Apple-Creek-Dr-Mint-Hill-NC-28227",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2263,
+        "listed_at": "2026-11-26T20:40:06.000Z",
+        "days_on_market": "118",
+        "current_price": 461000,
+        "price_label": "$461K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.673902,
+          35.171871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "68e98628-6b3a-5b6b-a56b-9fa6f885b728",
         "address": "25975 Avenida Classica",
         "beds": 5,
