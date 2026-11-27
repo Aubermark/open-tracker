@@ -19135,6 +19135,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "3b045e20-1364-504a-b125-9102206757bc",
+        "address": "6212-Warm-River-Rd-Las-Vegas-NV-89108",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1300,
+        "listed_at": "2026-11-27T17:40:05.000Z",
+        "days_on_market": "154",
+        "current_price": 379000,
+        "price_label": "$379K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.227479,
+          36.181512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "3b10df50-03e8-565d-acb4-8d92214c8c3d",
         "address": "1318-Revelstoke-Cv-Riverdale-GA-30296",
         "beds": 3,
@@ -76669,6 +76690,27 @@
         "coordinates": [
           -86.609171,
           33.824318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "e600910d-9e35-57b6-aa0a-7b5ec77c8552",
+        "address": "5259-Baysdon-Cir-Indianapolis-IN-46235",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2448,
+        "listed_at": "2026-11-27T17:40:05.000Z",
+        "days_on_market": ">278",
+        "current_price": 261000,
+        "price_label": "$261K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.958422,
+          39.849312
         ]
       }
     },
