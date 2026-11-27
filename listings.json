@@ -55927,27 +55927,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "ab085a67-69c7-554e-b602-e10307ac255b",
-        "address": "3307 Wolf Ct",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 2371,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "44",
-        "current_price": 380000,
-        "price_label": "$380K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.372341,
-          29.536032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "ab1bb93b-0793-5de3-b788-beeb3f082066",
         "address": "3838 Erickson Cir",
         "beds": 3,
@@ -78496,6 +78475,27 @@
         "coordinates": [
           -81.124902,
           35.21591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "ebc565f1-1363-5290-916b-f5d00d910072",
+        "address": "26441-White-Eagle-Dr-San-Antonio-TX-78260",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2959,
+        "listed_at": "2026-11-27T20:10:05.000Z",
+        "days_on_market": "71",
+        "current_price": 570000,
+        "price_label": "$570K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.504338,
+          29.690941
         ]
       }
     },
