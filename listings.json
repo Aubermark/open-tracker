@@ -31294,6 +31294,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "5deae35c-9504-5521-bcc0-1ccfccc5f457",
+        "address": "28984-N-Agave-Rd-San-Tan-Valley-AZ-85143",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2677,
+        "listed_at": "2026-11-27T18:20:05.000Z",
+        "days_on_market": "94",
+        "current_price": 350000,
+        "price_label": "$350K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.554943,
+          33.142502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "5dedefbf-058a-59ac-a3be-0b1bf43a4648",
         "address": "3040 Raymonds Ct",
         "beds": 3,
