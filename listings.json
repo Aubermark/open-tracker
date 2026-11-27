@@ -68422,6 +68422,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "ce42d45c-2569-571d-b373-cf6e7fc07235",
+        "address": "9 Blackman Ave",
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1358,
+        "listed_at": "2026-11-27T12:20:05.000Z",
+        "days_on_market": "41",
+        "current_price": 254000,
+        "price_label": "$254K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10009,
+          41.522651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "ce523511-e4ea-5ce8-97ff-319f46a7a825",
         "address": "2535-Fayette-Dr-New-Braunfels-TX-78130",
         "beds": 4,
