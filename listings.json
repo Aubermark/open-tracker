@@ -18652,27 +18652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "3971e06a-d2e4-5fc6-b3a5-762a97e70218",
-        "address": "120 4th Ave NE",
-        "beds": 2,
-        "baths": 1,
-        "sqft": 1046,
-        "listed_at": "2026-11-20T07:30:21.000Z",
-        "days_on_market": "8",
-        "current_price": 225000,
-        "price_label": "$225K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.223293,
-          45.576105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "397eb4bb-a588-5363-bff8-bf150223d897",
         "address": "204-Arbor-Way-Dallas-GA-30157",
         "beds": 3,
@@ -45295,6 +45274,27 @@
         "coordinates": [
           -96.651474,
           33.614098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "8b9d6975-d921-5e4d-8eed-878b97c51aa6",
+        "address": "59-Adams-Ln-Rockmart-GA-30153",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1281,
+        "listed_at": "2026-11-27T17:00:05.000Z",
+        "days_on_market": "91",
+        "current_price": 281000,
+        "price_label": "$281K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.028177,
+          33.888504
         ]
       }
     },
