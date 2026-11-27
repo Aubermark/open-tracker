@@ -36040,27 +36040,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address_token": "6cac76df-c684-5348-b45a-5b388eb3a9ab",
-        "address": "4516 W Lake Mead Blvd",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1081,
-        "listed_at": "2026-11-19T07:20:52.000Z",
-        "days_on_market": "37",
-        "current_price": 160000,
-        "price_label": "$160K"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.202878,
-          36.197155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address_token": "6ce1d92d-72bc-5b9b-999e-e3059cf20c04",
         "address": "2138 Reeves Rd",
         "beds": 3,
@@ -48781,6 +48760,27 @@
         "coordinates": [
           -112.52977,
           33.449254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_token": "96c33dc5-71d9-550f-ac85-f168c8960d38",
+        "address": "108-Woodcock-Ct-Easley-SC-29642",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1641,
+        "listed_at": "2026-11-27T20:20:05.000Z",
+        "days_on_market": "80",
+        "current_price": 251000,
+        "price_label": "$251K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.495733,
+          34.823816
         ]
       }
     },
