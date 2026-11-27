@@ -71677,6 +71677,27 @@
     {
       "type": "Feature",
       "properties": {
+        "address_token": "d6627d29-a7b4-5e1c-b4da-b64eb2642efa",
+        "address": "101-Wexford-Way-Basking-Ridge-NJ-07920",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2516,
+        "listed_at": "2026-11-27T16:40:05.000Z",
+        "days_on_market": "121",
+        "current_price": 1019000,
+        "price_label": "$1.019M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.571502,
+          40.675315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "address_token": "d6756475-6a68-586c-96f1-366fffbc8c6a",
         "address": "3318-Fernview-Dr-Lawrenceville-GA-30044",
         "beds": 3,
